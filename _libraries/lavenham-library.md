@@ -24,5 +24,4 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: 'Lavenham Library will be closed on <strong>Tuesday 2 May</strong> due to emergency electrical work at the Village Hall. We apologise for any inconvenience. Customers are advised that <a class="blue" href="/libraries/long-melford-library/">Long Melford Library</a> will be open from 2pm-5:30pm as usual.'
 ---
