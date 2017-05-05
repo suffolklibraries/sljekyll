@@ -14,7 +14,6 @@ branch-address: Milton Road, Stowmarket
 branch-post-code: IP14 1EX
 branch-tel: 01449 700549
 branch-fax: 01449 672629
-branch-news: Please note that the library will be opening at the later time of 10am on Thursday 4 May due to a staff meeting.
 branch-friends: Friends of Stowmarket Library
 branch-friends-url: /about/member-organisations/friends-of-stowmarket-library
 branch-social-media: y
