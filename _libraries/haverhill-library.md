@@ -19,6 +19,7 @@ branch-twitter: haverhillibrary
 branch-facebook: Haverhill-Library-Suffolk-202854396546832
 branch-pinterest: haverhillibrary
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/haverhill-library-2
+branch-autism-guide: true
 branch-parking: available for disabled customers and deliveries only
 branch-bookdrop: y
 branch-toilet: y
@@ -31,7 +32,5 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/haverhill-library
 branch-display-space: Small table top/banner display spaces available in the foyer and library, glass display cabinet and large display board available in the library
 breadcrumb: y
-branch-news: "<p>Please note that due to essential building works, there will be <strong>no vehicular access to the front entrance of the library/café</strong> for 2-3 weeks from Monday 24 April.</p>
-<p>Disabled customers are asked to park in the disabled bays in the Burton Centre staff car park, accessed via Lower Down Slade.</p>
-<p>All customers are advised to be mindful of scaffolding, building works and contractors' vehicles on site.</p>"
+branch-news: "<ul><li><strong>No vehicular access to the front entrance of the library/café</strong> for 2-3 weeks from Mon 24 April due to essential building works</li><li>Disabled customers can park in the disabled bays in the Burton Centre staff car park, accessed via Lower Down Slade.</li><li>Scaffolding, building works and contractors' vehicles on site.</li></ul>"
 ---
