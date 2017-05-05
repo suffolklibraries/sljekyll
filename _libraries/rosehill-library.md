@@ -26,6 +26,6 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/rosehill-library
-branch-news: '<ul><li><strong>Closed Thu 4 May</strong> for polling</li><li>Carpark closed Mon 8 May &#8211; week commencing Mon 10 July</li><li>Library <a class="blue" href="/news/rosehill-closure-and-refurbishment/">closed for refurbishment Mon 5 Jun &#8211; week commencing Mon 10 July</a></li><li>Call <a href="tel:01473351249" class="blue">01473 351249</a> or email help@suffolklibraries.co.uk with any queries</li></ul>'
+branch-news: '<ul class="pl0-ns"><li>Carpark closed Mon 8 May &#8211; week commencing Mon 10 July</li><li>Library <a class="blue" href="/news/rosehill-closure-and-refurbishment/">closed for refurbishment Mon 5 Jun &#8211; week commencing Mon 10 July</a></li><li>Call <a href="tel:01473351249" class="blue">01473 351249</a> or email help@suffolklibraries.co.uk with any queries</li></ul>'
 breadcrumb: y
 ---

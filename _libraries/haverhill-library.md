@@ -32,5 +32,5 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/haverhill-library
 branch-display-space: Small table top/banner display spaces available in the foyer and library, glass display cabinet and large display board available in the library
 breadcrumb: y
-branch-news: "<ul><li><strong>No vehicular access to the front entrance of the library/café</strong> for 2-3 weeks from Mon 24 April due to essential building works</li><li>Disabled customers can park in the disabled bays in the Burton Centre staff car park, accessed via Lower Down Slade.</li><li>Scaffolding, building works and contractors' vehicles on site.</li></ul>"
+branch-news: '<ul class="pl0-ns"><li><strong>No vehicular access to the front entrance of the library/café</strong> for 2-3 weeks from Mon 24 April due to essential building works</li><li>Disabled customers can park in the disabled bays in the Burton Centre staff car park, accessed via Lower Down Slade.</li><li>Scaffolding, building works and contractor vehicles on site.</li></ul>'
 ---
