@@ -4,9 +4,8 @@ name: "Learn the art of food garnishing with a classically trained chef"
 location: clare-library
 location-text: Clare Library
 event-start-date: 2017-05-13
-event-start-time: 1400
-event-end-time: 1600
-event-ticket-price: 1000
+event-start-time: ' <span class="pa2 bg-red white">Cancelled</span>'
+event-ticket-price: ' <span class="pa2 bg-red white">Cancelled</span>'
 breadcrumb: y
 ---
 
