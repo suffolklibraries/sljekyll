@@ -10,6 +10,7 @@ Patrons:
 
 * [Luke Wright](http://www.lukewright.co.uk/)
 * [Louis de Bernières](http://www.louisdebernieres.co.uk/)
+* Sir Laurie Magnus
 
 Trustees:
 

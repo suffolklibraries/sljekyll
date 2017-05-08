@@ -62,6 +62,6 @@ breadcrumb: home
 
 		<p>We would welcome the views of the local community in shaping what activities Suffolk Libraries Local at Moreton Hall will offer by completing <a href="https://www.surveymonkey.co.uk/r/SLLMoretonHall">our online survey</a>.</p>
 
-		<p><a href="/mobiles-home/bury-st-edmunds-mobile-library-route-17/">Bury St Edmunds Mobile Library Route 17</a> continues to serve various stops in Moreton Hall every fourth Tuesday</p>
+		<p><a href="/mobiles-home/bury-st-edmunds-mobile-library-route-17/">Bury St Edmunds Mobile Library Route 17</a> continues to serve various stops in Moreton Hall every fourth Tuesday.</p>
 
 </div>
