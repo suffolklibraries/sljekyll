@@ -7,7 +7,7 @@ event-start-date: 2017-05-27
 event-start-time: 1400
 event-end-time: 1600
 breadcrumb: y
-event-category: children
+event-category: half-term
 ---
 
 Would you be interested in joining a Lego club?
