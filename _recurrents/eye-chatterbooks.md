@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Chatterbooks reading group for 4-7 year olds - next session 30 April"
+recurrent-title: "Chatterbooks reading group for 4-7 year olds - next session 21 May, book theme 'is it natural or is it manmade?'"
 recurrent-day: Sunday once a month
 recurrent-times: 1400-1500
 recurrent-location: eye-library
