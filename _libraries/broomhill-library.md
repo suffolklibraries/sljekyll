@@ -27,6 +27,5 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/broomhill-library
 breadcrumb: y
-branch-news: '<p>Please note that Broomhill Library will be <strong>closed on Thursday 4 May</strong> and <strong>Thursday 8 June</strong> as it is being used as a polling station. We apologise for any inconvenience this causes.</p>
-<p>Please call customer services on <a href="tel:01473351249</a>">01473 351249</a> or email <strong>help@suffolklibraries.co.uk</strong> if you have any queries.</p>'
+branch-news: '<ul class="pl0-ns"><li>Closed Thu 8 June</strong> for polling. Call <a href="tel:01473351249</a>" class="blue">01473 351249</a> or email help@suffolklibraries.co.uk with any queries</li></ul>'
 ---

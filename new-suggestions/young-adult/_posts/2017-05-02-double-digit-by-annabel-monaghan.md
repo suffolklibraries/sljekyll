@@ -4,7 +4,7 @@ title: Double Digit by Annabel Monaghan
 date: 2017-05-02
 author: emma-maguire
 category: young-adult
-excerpt: 'Emma found <cite>Double Digit</cite> "a worthy sequel" to <cite>A Girl Named Digit</cite>.'
+excerpt: 'Emma found Double Digit "a worthy sequel" to A Girl Named Digit.'
 featured-image: /images/featured/featured-double-digit.jpg
 featured-alt: Double Digit
 featured-link-text: "Read Emma's review of <cite>Double Digit</cite>, by Annabel Monaghan."

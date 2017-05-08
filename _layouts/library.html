@@ -62,7 +62,7 @@
 
                 <section class="pt2 pt3-ns">
 
-                    <h1 class="di f4 ma0 pa0 mr2">Social media:</h1>
+                    <h1 class="f3 ma0 mb1 custom-lh-title">Social media:</h1>
 
                     <ul class="ma0 pa0 list">
                         {% if page.branch-facebook %}
@@ -88,7 +88,7 @@
 
                 {% if page.branch-news %}
 
-                        <div class="{% include /c/generic-panel.html %}"><p class="ma0">{{ page.branch-news }}</p></div>
+                        <section class="cf mt4 pt3 bt b--light-gray"><h1 class="f3 ma0 mb1 custom-lh-title">Branch updates</h1>{{ page.branch-news }}</section>
 
                 {% endif %}
 
@@ -100,7 +100,7 @@
 
                             {% unless page.branch-local %}
 
-                            <h1 class="f3 ma0 mb3 custom-lh-title">Branch facilities</h2>
+                            <h1 class="f3 ma0 mb1 custom-lh-title">Branch facilities</h2>
 
                             <ul class="pl0-ns">
 
@@ -108,6 +108,12 @@
                                   <li>
                                   <a  class="blue" href="{{ page.branch-accessibility }}">Accessibility information</a>
                                   </li>
+                                {% endif %}
+
+                                {% if page.branch-autism-guide %}
+                                    <li>
+                                        <a class="blue" href="/assets/pdf/autism-friendly-library-social-story-2017.pdf">Autism&#8211;friendly guide to the library</a> (PDF)
+                                    </li>
                                 {% endif %}
 
                                 {% if page.branch-special-collections %}
@@ -163,7 +169,7 @@
 
                           {% endunless %}
 
-                        <h1 class="f3 ma0 mb3 custom-lh-title">IT and printing facilities</h2>
+                        <h1 class="f3 ma0 mb1 custom-lh-title">IT and printing facilities</h2>
 
                         <ul class="pl0-ns">
 
@@ -179,15 +185,7 @@
                               </li>
                               {% endif %}
 
-                            {% if page.branch-netloan %}
-                            <li>
-                              {% if page.branch-netloan == 'old' %}
-                                <a href="http://netloan.suffolklibraries.co.uk" class="blue">Book a computer</a>
-                              {% elsif page.branch-netloan == 'new' %}
-                                <a href="http://78.31.106.220/netloan/Login.aspx" class="blue">Book a computer</a>
-                              {% endif %}
-                            </li>
-                            {% endif %}
+                            <li><a href="/book-a-computer/" class="blue">Book a computer</a></a></li>
 
                             {% if page.branch-borrowing-ereaders-and-ipads %}
                               <li>
@@ -241,7 +239,7 @@
 
                       {% unless page.branch-local %}
 
-                        <h1 class="f3 ma0 mb3 custom-lh-title">Opening hours</h1>
+                        <h1 class="f3 ma0 mb1 custom-lh-title">Opening hours</h1>
 
                         <table class="pure-table">
                         <thead>
@@ -311,7 +309,7 @@
 
                     <section class="custom-g-l3" id="regular-events">
 
-                        <h1 class="f3 ma0 mb3 custom-lh-title">Regular events and activities</h1>
+                        <h1 class="f3 ma0 mb1 custom-lh-title">Regular events and activities</h1>
 
                         {% assign current = page.branch-unique-id %}
 
@@ -321,7 +319,7 @@
 
                             <section class="pb2">
 
-                                <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Children's events</h1>
+                                <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Children's events</h1>
 
                                 {% for recurrent in recurrents %}
 
@@ -347,7 +345,7 @@
 
                                 <section class="pb2">
 
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Older people's events</h1>
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Older people's events</h1>
 
                                     {% for recurrent in recurrents %}
 
@@ -373,7 +371,7 @@
 
                                 <section class="pb2">
 
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Reading groups</h1>
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Reading groups</h1>
 
                                     {% for recurrent in recurrents %}
 
@@ -399,7 +397,7 @@
 
                                 <section class="pb2">
 
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Writing groups</h1>
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Writing groups</h1>
 
                                     {% for recurrent in recurrents %}
 
@@ -425,7 +423,7 @@
 
                                 <section class="pb2">
 
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">IT help</h1>
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">IT help</h1>
 
                                     {% for recurrent in recurrents %}
 
@@ -451,7 +449,7 @@
 
                                 <section class="pb2">
 
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Language courses</h1>
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Language courses</h1>
 
                                     {% for recurrent in recurrents %}
 
@@ -477,7 +475,7 @@
 
                                 <section class="pb2">
 
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Arts, crafts &amp; games</h1>
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Arts, crafts &amp; games</h1>
 
                                     {% for recurrent in recurrents %}
 
@@ -503,7 +501,7 @@
 
                                 <section class="pb2">
 
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Health &amp; wellbeing events</h1>
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Health &amp; wellbeing events</h1>
 
                                     {% for recurrent in recurrents %}
 
@@ -529,7 +527,7 @@
 
                                 <section class="pb2">
 
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Councillor surgeries &amp; professional advice</h1>
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Councillor surgeries &amp; professional advice</h1>
 
                                     {% for recurrent in recurrents %}
 
@@ -555,7 +553,7 @@
 
                                 <section class="pb2">
 
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Cafés, stalls &amp; book sales</h1>
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Cafés, stalls &amp; book sales</h1>
 
                                     {% for recurrent in recurrents %}
 
@@ -581,7 +579,7 @@
 
                                 <section class="pb2">
 
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Films, music &amp; entertainment</h1>
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Films, music &amp; entertainment</h1>
 
                                     {% for recurrent in recurrents %}
 
@@ -607,7 +605,7 @@
 
                                 <section class="pb2">
 
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Business</h1>
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Business</h1>
 
                                     {% for recurrent in recurrents %}
 
@@ -633,7 +631,7 @@
 
                                 <section class="pb2">
 
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">History</h1>
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">History</h1>
 
                                     {% for recurrent in recurrents %}
 
@@ -655,7 +653,7 @@
 
                           <section class="custom-g-l3 custom-g-nm" id="upcoming-events">
 
-                              <h1 class="f3 ma0 mb3 custom-lh-title">Upcoming special events</h1>
+                              <h1 class="f3 ma0 mb1 custom-lh-title">Upcoming special events</h1>
 
                               {% assign special-event-check = false %}
 

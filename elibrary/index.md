@@ -127,10 +127,4 @@ breadcrumb: home
 
     </div> <!-- end row -->
 
-    <div class="mb3 mb4-ns cf pa2 pa3-ns bg-light-gray custom-lh-copy">
-
-        <p class="ma0">Please note that the <strong>3M service</strong> will be discontinued from 1 April. You can still get help from our <a class="blue" href="/elibrary/3m/">3M help page</a>.</p>
-
-    </div>
-
 </div>
