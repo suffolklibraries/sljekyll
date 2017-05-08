@@ -185,15 +185,7 @@
                               </li>
                               {% endif %}
 
-                            {% if page.branch-netloan %}
-                            <li>
-                              {% if page.branch-netloan == 'old' %}
-                                <a href="http://netloan.suffolklibraries.co.uk" class="blue">Book a computer</a>
-                              {% elsif page.branch-netloan == 'new' %}
-                                <a href="http://78.31.106.220/netloan/Login.aspx" class="blue">Book a computer</a>
-                              {% endif %}
-                            </li>
-                            {% endif %}
+                            <li><a href="/book-a-computer/" class="blue">Book a computer</a></a></li>
 
                             {% if page.branch-borrowing-ereaders-and-ipads %}
                               <li>
