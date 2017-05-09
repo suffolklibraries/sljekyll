@@ -39,7 +39,7 @@ If you don't have a card number or don't remember your PIN please contact custom
 - [Kessingland Library](http://78.31.106.220/netloan/Login.aspx)
 - [Lakenheath Library](http://78.31.106.220/netloan/Login.aspx)
 - [Lavenham Library](http://78.31.106.220/netloan/Login.aspx)
-- [Leiston Library](http://netloan.suffolklibraries.co.uk/)
+- [Leiston Library](http://78.31.106.220/netloan/Login.aspx)
 - [Long Melford Library](http://78.31.106.220/netloan/Login.aspx)
 - [Lowestoft Library](http://netloan.suffolklibraries.co.uk/)
 - [Mildenhall Library](http://netloan.suffolklibraries.co.uk/)
