@@ -1,10 +1,10 @@
 ---
 layout: sidebar-right
-title: The Ravenmaster's Boy by Mary Hoffman
+title: "The Ravenmaster's Boy by Mary Hoffman"
 date: 2017-05-16
 author: emily-mitchell
 category: young-adult
-excerpt: '<cite>The Ravenmaster's Boy</cite> puts an enthralling and immersive new spin on the well-known story of Anne Boleyn.'
+excerpt: "<cite>The Ravenmaster's Boy</cite> puts an enthralling and immersive new spin on the well-known story of Anne Boleyn."
 featured-image: /images/featured/featured-the-ravenmasters-boy.jpg
 featured-alt: The Ravenmaster's Boy
 featured-link-text: "Read library volunteer Emily's review of <cite>The Ravenmaster's Boy</cite>, by Mary Hoffman."
