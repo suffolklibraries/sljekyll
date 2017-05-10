@@ -3,7 +3,7 @@ id: red-lodge-bbb
 name: "Bath, Book, Bed event"
 location: red-lodge
 location-text: Red Lodge (Suffolk Libraries Local)
-event-start-date: 2017-05-16
+event-start-date: 2017-05-11
 event-start-time: 1415
 event-end-time: 1445
 breadcrumb: y
