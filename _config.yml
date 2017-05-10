@@ -13,9 +13,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.suffolklibraries.co.uk" # the base hostname & protocol for your site
 twitter_username: suffolklibrary
 github_username:  suffolklibraries
-message: "Have your say on the future of your library service."
-message_link: news/future-plans-survey-invite/
-message_link_text: "Take our customer survey &rarr;"
+message: "We're looking for Summer Reading Challenge volunteers."
+message_link: src/
+message_link_text: "Find out more &rarr;"
 
 # Build settings
 markdown: kramdown
