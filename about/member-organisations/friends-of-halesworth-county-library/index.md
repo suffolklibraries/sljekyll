@@ -13,16 +13,16 @@ breadcrumb: member-organisations
 
 ## Who we are
 
-* Chair: Andrew Payne
-* Vice Chair: Alison Britton
-* Treasurer: Mike Stephens
-* Minutes Secretary: Alan Holzer
-* Events Coordinator: Sheila Freeman
+* Chair and communications officer:  Alison Britton
+* Vice chair and events coordinator: Sheila Freeman
+* Treasurer: Michael Stephens
+* Minutes secretary: Evelyn Lindqvist
+* Ex officio trustee: Alison Hopkins
 * Trustee: Wendy Boyden
-* Trustee: Natalie Meg Evans
-* Trustee: Tamsyn Imison
-* Trustee: Evelyn Lindqvist
+* Trustee: Natalie Lloyd-Evans
 * Trustee: David Olds
+* Trustee: Yvonne Sandison
+* Trustee: Irene Thomas
 
 ## Contact us
 
