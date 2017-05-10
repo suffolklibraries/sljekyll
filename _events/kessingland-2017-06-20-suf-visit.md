@@ -6,7 +6,6 @@ location-text: Kessingland Library
 event-start-date: 2017-06-20
 event-start-time: 1430
 event-end-time: 1630
-event-category: health
 breadcrumb: y
 event-category: suf
 ---
