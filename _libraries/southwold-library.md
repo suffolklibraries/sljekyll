@@ -24,7 +24,8 @@ branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-coun
 branch-parking: on-street parking only
 branch-bookdrop: y
 branch-refreshments: hot drinks for sale
-branch-for-sale: "crafts, local authors' books, branded bags and pens"
+branch-for-sale: "<p>Latitude Festival tickets: weekend adult £197.50, day adult £77.50 - face value, no charges for card payment</p>
+<p>Crafts, Southwold and Suffolk Coast Treasure Trails sheets, local authors' books, branded bags and pens</p>"
 branch-other-facilities: laminating (up to A4)
 branch-wifi: y
 branch-netloan: old

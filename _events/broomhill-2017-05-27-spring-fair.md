@@ -12,6 +12,6 @@ breadcrumb: y
 
 A community event in support of Broomhill Library, The Broomhill Trust and Sherrington House Care Home (the care home opens at 2pm).
 
-Join us for arts and crafts, face painting, a raffle and a tombola. There will also be opportunities to buy preserves, jewellery, knitwear, books, refreshments, cakes and more.
+Join us for arts and crafts, face painting, a raffle and a tombola. There will also be opportunities to buy preserves, jewellery, knitwear, Usborne books, refreshments, cakes and more.
 
 The Westbourne Academy Samba Band and other performers will be providing entertainment and you can find out about the North West Ipswich Big Local Trust and the Broomhill Trust.

@@ -1,12 +1,13 @@
 ---
 id: ipswich-park
-name: "National Bookstart Week: The Park in the Library event for 0-4 year-olds"
+name: "National Bookstart Week: Let's Explore Outdoors! The Park in the Library event for 0-4 year-olds"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2017-06-08
 event-start-time: 1030
 event-end-time: 1130
 event-ticket-price: free
+event-category: bookstart
 breadcrumb: y
 ---
 
