@@ -5,6 +5,7 @@ location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2017-06-19
 event-start-time: 1930
+event-ticket-price: 8
 breadcrumb: y
 ---
 
