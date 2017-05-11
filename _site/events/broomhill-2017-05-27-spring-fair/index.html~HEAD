@@ -13,7 +13,7 @@
 
 	
 
-    	<title>Literary fiction reviews &#8211; Suffolk Libraries</title>
+		<title>Broomhill Spring Fair &#8211; Suffolk Libraries</title>
 
 	
 
@@ -102,53 +102,19 @@
 
 
 
-    <nav id="nav" class="pa2 pb0 pt2 pt3-ns ph5-ns custom-max-width tc">
-
-    <ul class="list pa0 ma0">
-
-    
-
-    
-
-    
-
-    
-
-        <li class="dib f5 mh2 mh3-ns b pv1 pv0-ns
-"><a href="/new-suggestions/reviews/genre/crime-and-thriller/" class="blue
-">Crime and thriller</a></li>
-        <li class="dib f5 mh2 mh3-ns b pv1 pv0-ns
-"><a href="/new-suggestions/reviews/genre/historical/" class="blue
-">Historical fiction</a></li>
-        <li class="dib f5 mh2 mh3-ns b pv1 pv0-ns
-"><a href="/new-suggestions/reviews/genre/literary-fiction/" class="blue
-">Literary fiction</a></li>
-        <li class="dib f5 mh2 mh3-ns b pv1 pv0-ns
-"><a href="/new-suggestions/reviews/genre/sci-fi-and-fantasy" class="blue
-">Science fiction and fantasy</a></li>
-
-    
-
-    </ul>
-
-</nav>
-
-
-
-
-<div class="pv2 pv3-ns cf custom-max-width
+    <div class="pv2 pv3-ns cf custom-max-width
 ">
 
-    <main id="content" class="bg-white pa2 pa5-ns pv4-ns cf mb2 border-box b--light-gray
+        <main id="content" class="bg-white pa2 pa5-ns pv4-ns cf mb2 border-box b--light-gray
 " role="main">
 
-        
+            
 
     
 
         <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
 
-            <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions">Recommendations &amp; reviews</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions/reviews">Reviews</a> &rarr; Literary fiction reviews</p>
+            <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities">Events and activities</a> &rarr; Broomhill Spring Fair</p>
 
         </div>
 
@@ -157,21 +123,82 @@
     
 
 
-        <h1 class="custom-lh-title f2 pa0 ma0 mb3
- dib mb4-ns">Literary fiction reviews</h1>
+            <article class="cf">
 
-<div class="custom-flex-container">
+                <h1 class="custom-lh-title f2 pa0 ma0 mb3
+">Broomhill Spring Fair</h1>
+
+                <div class="custom-g-l2">
+
+                    <ul class="list ma0 pa0 mb2 mid-gray">
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+
+                        <li class="mv1 mv0-ns"><a class="blue" href="/libraries/broomhill-library">Broomhill Library</a></li><br>
+
+                    
+
+                    
+
+                         <li class="mv1 mv0-ns">Sat 27 May, 2017</li>
+
+                    
+
+                    
+
+                          <li class="mv1 mv0-ns">1200 &#8211; 1600</li>
+
+                    
+
+                    
+
+                    
+
+                    <br>
+
+                    
+
+                          <li class="mv1 mv0-ns">Tickets: &pound;free</li>
+
+                    
+
+                    
+
+                    </ul>
+
+                </div>
+
+                <div class="custom-g-l4 custom-g-nm">
+
+                    <div class="lh-copy custom-hyphens custom-prose
+ custom-remove-tm">
+
+                        <p>A community event in support of Broomhill Library, The Broomhill Trust and Sherrington House Care Home (the care home opens at 2pm).</p>
+
+<p>Join us for arts and crafts, face painting, a raffle and a tombola. There will also be opportunities to buy preserves, jewellery, knitwear, Usborne books, refreshments, cakes and more.</p>
+
+<p>The Westbourne Academy Samba Band and other performers will be providing entertainment and you can find out about the North West Ipswich Big Local Trust and the Broomhill Trust.</p>
 
 
+                    </div>
 
+                </div>
 
+            </article>
 
-</div>
+        </main>
 
-
-    </main>
-
-</div>
+    </div>
 
         <footer id="footer" class="pa2 pt3 pa3-ns pt4-ns bg-near-black white">
 

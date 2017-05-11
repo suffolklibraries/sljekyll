@@ -22,5 +22,5 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-room-hire: /libraries/room-hire/framlingham-library
 breadcrumb: y
-branch-other-facilities: 'Framlingham Town Council offices open Monday-Thursday 10am-4pm and at other times by arrangement. Please see the <a class="blue" href="http://www.framlingham.com/council.php">Framlingham Town Council website</a> for more information.'
+branch-other-facilities: 'Framlingham Town Council services Mon-Thu 10am-4pm and at other times by arrangement. See the <a class="blue" href="http://www.framlingham.com/council.php">Framlingham Town Council website</a>.'
 ---
