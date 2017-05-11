@@ -5,6 +5,12 @@ breadcrumb: events
 sidebar: summer-reading-challenge
 ---
 
+<div class="{% include /c/generic-panel.html %}">
+
+<p><a href="/events-activities/summer-reading-challenge/summer-reading-challenge-volunteer-application-form/">Sign up to be a Summer Reading Challenge volunteer &rarr;</a></p>
+
+</div>
+
 It's nearly time for The Reading Agency's Summer Reading Challenge 2017. We're inviting children to maintain their reading skills over the summer holidays by:
 
 <img src="/images/featured/featured-src-bart.jpg" alt="Bart the bloodhound" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />

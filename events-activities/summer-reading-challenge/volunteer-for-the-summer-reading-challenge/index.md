@@ -5,6 +5,12 @@ breadcrumb: events
 sidebar: summer-reading-challenge
 ---
 
+<div class="{% include /c/generic-panel.html %}">
+
+<p><a href="/events-activities/summer-reading-challenge/summer-reading-challenge-volunteer-application-form/">Sign up to be a Summer Reading Challenge volunteer &rarr;</a></p>
+
+</div>
+
 The Summer Reading Challenge depends on the efforts of hundreds of volunteers across our libraries.
 
 ## What do summer reading volunteers do?
