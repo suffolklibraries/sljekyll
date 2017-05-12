@@ -20,7 +20,7 @@ breadcrumb: home
 
             <div class="custom-g-l2">
 
-                <p class="ma0 mb2 mb0-ns">We offer free access to <strong>4 services</strong>. Each has a separate website and apps for your device. <strong><a class="blue" href="/help/book-cd-audiobook-game-dvd-borrowing-overdues/">Borrowing periods and allowances &rarr;</a></strong></p>
+                <p class="ma0 mb2 mb0-ns">We offer free access to <strong>4 services</strong>. Each has a separate website and apps for your device. <strong><a class="blue" href="/elibrary/borrowing-periods-and-allowances/">Borrowing periods and allowances &rarr;</a></strong></p>
 
             </div>
 
