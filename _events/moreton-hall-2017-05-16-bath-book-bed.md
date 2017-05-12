@@ -2,7 +2,7 @@
 id: moreton-bbb
 name: "Bath, Book, Bed event"
 location: moreton-hall
-location-text: Moreon Hall (Suffolk Libraries Local)
+location-text: Moreton Hall (Suffolk Libraries Local)
 event-start-date: 2017-05-16
 event-start-time: 1115
 event-end-time: 1145
