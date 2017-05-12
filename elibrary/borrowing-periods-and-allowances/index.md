@@ -62,7 +62,9 @@ breadcrumb: elibrary
         Music and music videos
       </td>
       <td>
-        5 track downloads a week; 2 music video downloads a week (count as 2 tracks) unlimited streaming
+      <ul class="list pa0 ma0">
+        <li>5 track downloads a week</li><li>2 music video downloads a week (count as 2 tracks)</li><li>Unlimited streaming</li>
+      </ul>
       </td>
       <td>
         Unlimited
