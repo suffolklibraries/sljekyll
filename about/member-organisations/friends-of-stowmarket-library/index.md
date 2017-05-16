@@ -45,3 +45,7 @@ We were established in March 2013.
 
 * A quarterly newsletter covering stories and issues relating to Stowmarket Library and the Friends group
 * Support for the ‘Job Club’ scheme being held in the library
+
+## Minutes
+
+* [Minutes - 12 May 2017](/assets/pdf/2017-05-12-fsl-minutes.pdf) (PDF)

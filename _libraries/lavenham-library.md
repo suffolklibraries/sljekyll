@@ -18,6 +18,8 @@ branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-coun
 branch-parking: large free public car park nearby
 branch-bookdrop: y
 branch-toilet: y
+branch-social-media: y
+branch-facebook: LavenhamLibrary
 branch-wifi: y
 branch-netloan: new
 branch-colour-printing: available
