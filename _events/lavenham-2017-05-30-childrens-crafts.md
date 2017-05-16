@@ -1,6 +1,6 @@
 ---
 id: lavenham-crafts
-name: "Children's crafts"
+name: "Spring crafts - making creepy crawlies"
 location: lavenham-library
 location-text: Lavenham Library
 event-start-date: 2017-05-30

@@ -1,6 +1,6 @@
 ---
 id: melford-crafts
-name: "Children's crafts"
+name: "Spring crafts - making creepy crawlies"
 location: long-melford-library
 location-text: Long Melford Library
 event-start-date: 2017-05-30
