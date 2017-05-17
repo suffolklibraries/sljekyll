@@ -15,14 +15,12 @@ breadcrumb: staff-picks
 
 **[See <cite>Gone: a girl, a violin, a life unstrung</cite> in our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2128169)**
 
-Min Kym was a child prodigy on the violin. She was an absolute natural who loved to play, and from her first or second lesson, the violin quickly took over her life. As she grew up, she earned places at prestigious music schools, was tutored by world-famous violinists and travelled all over to play at world-famous venues.
+Min Kym was a child prodigy on the violin. Growing up, her life was defined by the instrument as she went to prestigious music schools, was tutored by well-known musicians and travelled all over to play at world-famous venues.
 
-At the age of 21, she remortgaged her flat to buy her perfect violin - a 1696 Stradivarius. When she was 31, it was stolen from a café at Euston Station. Although it was retrieved three years later, she was forced to sell it to an investor for financial reasons.
+At the age of 21, she discovered and bought her perfect violin - a 1696 Stradivarius. When she was 31, it was stolen from a café at Euston Station. Although it was retrieved three years later, she was forced to sell it to an investor for financial reasons.
 
-I loved reading about Kym's ascent to the peak of her career as a solo violinist. I was enthralled by the extent to which the violin became her life, thinking how great it must be to be that good at something and love it so much. Although losing her violin understandably sent Kym into a long and crushing depression, there is a message of hope. She starts to play more informally, and at the end of the book she has found another suitable violin and is making her first steps towards playing solo again.
+I was enthralled by Kym's account of how the violin 'was her', and her ascent to the peak of her career as a solo violinist. Her love of music shows on every page. Although losing her violin understandably sent Kym into a devastating depression, there is a message of hope and new understandings of herself as she reflects on her experiences and begins to piece her life back together.
 
-Losing her violin also prompts Kym to reflect on her life as a child prodigy. Despite the Korean tradition of the father's needs coming first, her family moved from South Korea to London to ensure she got the best training for a career that promised good money. She experienced tensions between her Korean background and upbringing in Britain, as well as her identity as a top-flight violinist and her desire to have a normal teenage life. She also felt pressure regarding her appearance, and developed anorexia.
-
-Some of her violin teachers were quirky to say the least, and she ends up in a relationship where she does not have as much power or voice as she should rightfully have. The reader gets a great insight into the disadvantages of having massive talent at a young age.
+Although Kym always loved music and playing the violin, she also provides a fascinating insight into the downsides of showing such talent at a young age. Despite the Korean tradition of the father's needs coming first, Kym's family moved from London to ensure she got the best training for her future career, placing a lot of pressure on her to succeed. She experienced tensions between her cultural background and upbringing in Britain, as well as her identities as a top-flight violinist and a teenager. She also became anorexic and experienced some difficult, and even toxic relationships with violin teachers and romantic partners.
 
 <cite>Gone: a girl, a violin, a life unstrung</cite> is a well-rounded autobiography of love and loss, endings and beginnings, sadness and hope.
