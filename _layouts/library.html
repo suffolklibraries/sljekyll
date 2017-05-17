@@ -185,7 +185,11 @@
                               </li>
                               {% endif %}
 
+                            {% unless page.branch-local %}
+
                             <li><a href="/book-a-computer/" class="blue">Book a computer</a></a></li>
+
+                            {% endunless %}
 
                             {% if page.branch-borrowing-ereaders-and-ipads %}
                               <li>

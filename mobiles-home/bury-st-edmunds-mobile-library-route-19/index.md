@@ -60,11 +60,11 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="176">
-      Erratts Hill
+      Three Ways Public House
     </td>
 
     <td valign="bottom" width="97">
-      1000-1030
+      1000-1045
     </td>
   </tr>
 
@@ -82,7 +82,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="97">
-      1040-1055
+      1050-1100
     </td>
   </tr>
 
@@ -100,7 +100,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="97">
-      1100-1120
+      1105-1120
     </td>
   </tr>
 
