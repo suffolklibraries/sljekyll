@@ -3,7 +3,7 @@ id: chantry-sutton-hoo
 name: "Discover Sutton Hoo"
 location: chantry-library
 location-text: Chantry Library
-event-start-date: 2017-05-27
+event-start-date: 2017-05-30
 event-start-time: 1400
 event-end-time: 1630
 event-category: half-term
