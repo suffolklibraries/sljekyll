@@ -49,7 +49,7 @@ If you don't have a card number or don't remember your PIN please contact custom
 - [Rosehill Library](http://78.31.106.220/netloan/Login.aspx)
 - [Saxmundham Library](http://78.31.106.220/netloan/Login.aspx)
 - [Southwold Library](http://78.31.106.220/netloan/Login.aspx)
-- [Stoke Library](http://netloan.suffolklibraries.co.uk/)
+- [Stoke Library](http://78.31.106.220/netloan/Login.aspx)
 - [Stowmarket Library](http://netloan.suffolklibraries.co.uk/)
 - [Stradbroke Library](http://netloan.suffolklibraries.co.uk/)
 - [Sudbury Library](http://netloan.suffolklibraries.co.uk/)
