@@ -32,5 +32,6 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/beccles-library
 branch-display-space: Double-sided noticeboard for non-commercial event posters
 branch-borrowing-ereaders-and-ipads: an iPad
+branch-news: 'The library will be closed on Thursday 22 June for a network migration. Call customer services on <a class="blue" href="tel:01473351249">01473 351249</a> for assistance.'
 breadcrumb: y
 ---

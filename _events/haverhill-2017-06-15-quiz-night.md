@@ -9,8 +9,8 @@ event-ticket-price: 8 per person
 breadcrumb: y
 ---
 
-The Friends of Haverhill Library invite you to their quiz night. Price includes fish and chips, or sausage and chips if you prefer. Please bring your own drinks.
+The Friends of Haverhill Library invite you to their quiz night. Price includes fish and chips, (sausage/chicken also available). Please bring your own drinks.
 
 Teams of up to 6 people. There will also be a raffle.
 
-All proceeds go towards the Friends of Haverhill Library, supporting library services and activities
+All proceeds go towards the Friends of Haverhill Library, supporting library services and activities. Please book with your food order and payment by Monday 12 June.
