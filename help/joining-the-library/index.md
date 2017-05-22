@@ -41,8 +41,17 @@ If you are 16 or under you will need a guarantor.
 
 ## Replacing a library card
 
-You can update your record and get a replacement library card by taking proof of identification into any Suffolk library. **There is a &pound;1.50 charge** for a replacement library card.
+You can purchase a replacement card update your account by visiting [one of our libraries](/libraries/) with ID and proof of address. **There is a £1.50 charge for a replacement card**.
+
+## Logging in online
+
+If you have a Suffolk Libraries card you can login online with the card number and 4 digit PIN. When you login you can:
+
+- Make reservations for collection from any Suffolk Library
+- Update your library account
+- Renew titles
+- Sign up for email notifications when reservations arrive, titles are due back or when they're overdue
 
 ## Lost PINs
 
-If you don't know or you've lost your PIN please contact a member of staff with proof of identification or call 01473 351249.
+If you don't know your PIN, call us on [01473 351249](tel:01473351249) with your library card number, or visit [any Suffolk library](/libraries/) with your library card or some ID.
