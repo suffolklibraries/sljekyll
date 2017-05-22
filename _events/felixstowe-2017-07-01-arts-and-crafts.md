@@ -1,6 +1,6 @@
 ---
 id: felixstowe-crafts
-name: "Felixstowe Book Festival: Arts and crafts with Arty Mouse (for 3-6 year-olds)"
+name: "Felixstowe Book Festival: Arts and crafts with Arty Mouse (ages 3-6)"
 location: felixstowe-library
 location-text: Felixstowe Library
 event-start-date: 2017-07-01
