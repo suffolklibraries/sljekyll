@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Internet training sessions for beginners: drop-in"
+recurrent-title: "Internet and mobile phone training sessions for beginners: drop-in"
 recurrent-day: Monday every 2 weeks
 recurrent-times: 1030-1200
 recurrent-location: gainsborough-community-library
