@@ -1,0 +1,42 @@
+---
+layout: sidebar-right
+title: "Medieval history, balloon modelling, writing masterclasses and more at Suffolk Libraries this half-term"
+date: 2017-05-24
+author: alice-violett
+category: news
+excerpt: "Wondering what to do with your children this May half-term? We've got a variety of events to entertain them."
+breadcrumb: news
+---
+
+<p>Wondering what to do with your children this May half-term? We've got a variety of events to entertain them.</p>
+
+<p><a href="/libraries/southwold/">Southwold Library</a> are also screening York Theatre Royal's production of <cite>The Railway Children</cite> at Southwold Arts Centre on Thursday 1 June. There will be a <a href="/events/southwold-2017-06-01-presents-railway-children-matinee/">matinee showing</a> and an <a href="/events/southwold-2017-06-01-presents-railway-children-evening/">evening showing</a>.</p>
+
+<p>For a full list of half-term activities for children, please see below.</p>
+
+{% assign half-term-events = site.events | where: "event-category", "half-term" %}
+
+{% for event in half-term-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+        {% if event.event-end-date %}
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b" }}</span> <span>{{ event.event-end-time }}</span>
+
+            {% else %}
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
+
+        {% endif %}
+
+        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+        </p>
+
+    </article>
+
+{% endfor %}
