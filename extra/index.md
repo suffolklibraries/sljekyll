@@ -16,7 +16,7 @@ You can support Suffolk Libraries by signing up at one of three price levels:
 
 ## How your donation will help us
 
-All money raised will go into a dedicated Development Fund which will be used to support and improve the work of our 44 libraries in their local communities.
+Donations will go into a dedicated Development Fund which will be used to support and improve the work of our 44 libraries in their local communities.
 
 The scheme is completely voluntary. At the end of the year we’ll ask if you’d like to sign up again.
 
