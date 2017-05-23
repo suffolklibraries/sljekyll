@@ -4,7 +4,7 @@ title: Perfect by Cecelia Ahern
 date: 2017-05-23
 author: emma-maguire
 category: young-adult
-excerpt: 'Emma "loved, loved, loved" <cite>Perfect</cite>.'
+excerpt: 'Emma loved, loved, loved <cite>Perfect</cite>.'
 featured-image: /images/featured/featured-perfect-ahern.jpg
 featured-alt: Perfect
 featured-link-text: "Read Emma's review of <cite>Perfect</cite>, by Cecelia Ahern."
