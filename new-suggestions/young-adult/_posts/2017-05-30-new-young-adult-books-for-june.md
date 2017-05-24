@@ -60,3 +60,7 @@ If you like Rainbow Rowell, try this romance by a new author, set in sun-drenche
 > "Linny has been living life in black and white since her sister Grace ran away, and she's scared that Grace might never come back. When Linny witnesses the return to Miami of a cult movie star long presumed dead, she is certain it's a sign. Surely Herrera, of all people, can tell her why people come back - and how to bring her sister home?
 
 > "Sebastian has come to Miami seeking his father, a man whose name he's only just learned. An aspiring astrophysicist, he can tell Linny how many galaxies there are, how much plutonium weighs and how likely she is to be struck by a meteorite. But none of the theories he knows are enough to answer his own questions about why his father abandoned him, and why it left him in pieces"
+
+## [<cite>The Broken Ones</cite>, by Danielle Jensen](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2151990)
+
+> "Below Forsaken Mountain, a revolution stirs with the aim to overthrow the tyrant king of Trollus, and Marc is the right hand of its leader. It's a secret more than one troll would kill to possess, which is why he must keep it from everyone, even the girl he loves."
