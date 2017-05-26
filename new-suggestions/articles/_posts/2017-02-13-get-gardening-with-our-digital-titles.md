@@ -14,11 +14,9 @@ featured-link-text: Check out our digital titles about gardening
 
 ![Garden Rescue, The Allotment Cookbook, Winter, Tips for the Lazy Gardener, The Allotment Chef, Eden](/images/featured/featured-gardening.jpg)
 
-**[See our full shelf of recommended gardening titles on OverDrive](https://suffolklibraries.overdrive.com/collection/88184?page=1&sortBy=listorder)**
-
 Spring is around the corner. We know it's still a bit cold, but it's time to plan your garden with the help of our eLibrary.
 
-This article features a selection of titles from our <cite>Brrrrrr. Too grim to garden, perfect to plan</cite> shelf on OverDrive, as well as a few titles from our digital magazine service [Zinio](/elibrary/zinio/) and our digital music service [Freegal](/elibrary/freegal/).
+This article features a selection of titles from our digital book service [OverDrive](/elibrary/overdrive/), as well as a few titles from our digital magazine service [Zinio](/elibrary/zinio/) and our digital music service [Freegal](/elibrary/freegal/).
 
 This list was compiled with the help of information and content librarian Lisa Brennan.
 

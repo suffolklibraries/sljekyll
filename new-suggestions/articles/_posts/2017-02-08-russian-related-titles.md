@@ -16,8 +16,6 @@ featured-link-text: Check out our fiction, non-fiction and DVDs about Russia
 
 In the centenary year of the Russian Revolution, are you inspired to learn about Russia in the early twentieth century, through fiction, non-fiction, or DVDs? We've compiled a list of titles to get you started.
 
-Prefer ebooks? Check out our [Russian Revolution shelf on OverDrive](https://suffolklibraries.overdrive.com/collection/87722).
-
 This list was compiled with the help of deputy head of IT Leon Paternoster.
 
 ## Fiction

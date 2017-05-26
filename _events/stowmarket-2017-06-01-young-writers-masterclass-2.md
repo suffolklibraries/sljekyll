@@ -15,4 +15,4 @@ Do you want to write exciting, professional stories or short films?
 
 This half-term, we're running two exclusive masterclasses with award-winning children's author Steve B Mason.
 
-This second session covers Morris Gleitzman's secret to fast-paced storytelling, and participants will learn a lot more besides. If you can't make it to the [first part of the course on Tuesday 30 May](/events/stowmarket-2017-06-01-young-writers-masterclass-1/), which covers creating compelling characters, you can pick up a handout for free.
+This second session covers Morris Gleitzman's secret to fast-paced storytelling, and participants will learn a lot more besides. If you can't make it to the [first part of the course on Tuesday 30 May](/events/stowmarket-2017-05-30-young-writers-masterclass-1/), which covers creating compelling characters, you can pick up a handout for free.

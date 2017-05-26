@@ -20,4 +20,4 @@ Krystal Vittles, Suffolk Libraries Development Manager and Children’s Lead, sa
 
 Parents and carers can pick up their free copy of the new booklet from all the county’s libraries from this week. The booklet can also be downloaded from the [BookTrust website](http://www.booktrust.org.uk/) which features a Best Bedtime Books list and has lots more ideas, guidance and practical tips on ensuring stories are part of every child’s bedtime routine.
 
-Visit [http://www.booktrust.org.uk/bathbookbed](http://www.booktrust.org.uk/bathbookbed) to find out more. Parents are welcome to share their tips and ideas on social media using [http://www.twitter.com/BookTrust](@booktrust) and #BathBookBed
+Visit [http://www.booktrust.org.uk/bathbookbed](http://www.booktrust.org.uk/bathbookbed) to find out more. Parents are welcome to share their tips and ideas on social media using [@BookTrust](http://www.twitter.com/BookTrust) and #BathBookBed

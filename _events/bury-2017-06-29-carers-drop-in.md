@@ -1,7 +1,7 @@
 ---
 id: bury-carers
 name: "Family carers drop-in session: help shape a new emotional wellbeing service"
-location: bury-library
+location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
 event-start-date: 2017-06-29
 event-start-time: 1330
@@ -11,7 +11,7 @@ event-category: wellbeing
 event-ticket-price: free
 ---
 
-Part of Felixstowe's [wellbeing & feedback workshop](/events/bury-2017-06-29-wellbeing-feedback-workshop/).
+Part of Bury St Edmunds Library's [wellbeing & feedback workshop](/events/bury-2017-06-29-wellbeing-feedback-workshop/).
 
 Family carers are welcome to attend either or both parts of the day and help us shape a new emotional wellbeing service to be provided by Suffolk Libaries, Suffolk Family Carers and Suffolk Mind in a new and exciting partnership.
 

@@ -12,4 +12,4 @@ Steve had worked in both the oil and nuclear industries before settling into a c
 
 This exhibition explores narrative in coastal landscapes. Black and white photographs explore a subtle narrative, relating to the landform and ecology of the coast punctuated by manmade structures. Big skies are a common theme adding both drama and scale to the landscape.
 
-To contact Steve phone [01728 746320](01728746320) or [07751 272443](07751272443) or email him at steve.aylward@yahoo.com
+To contact Steve phone [01728 746320](tel:01728746320) or [07751 272443](tel:07751272443) or email him at steve.aylward@yahoo.com

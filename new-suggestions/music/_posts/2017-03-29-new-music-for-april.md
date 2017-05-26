@@ -29,7 +29,7 @@ The answer based on <cite>Damage and Joy</cite> is that they probably should not
 
 ## [Glass Animals - <cite>How to be a Human Being</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2032213)
 
-This is one that was missed off the [new music for March list](/new-suggestions/music/2017-02-28-new-music-for-march-2017/) but it is one that you really ought to listen to. <cite>Life Itself</cite> is a huge anthem that you will listen to again and again. When you start listening to the other songs it is a surprise that they are so good. Glass Animals are the best band you have never heard of.
+This is one that was missed off the [new music for March list](/new-suggestions/music/new-music-for-march-2017/) but it is one that you really ought to listen to. <cite>Life Itself</cite> is a huge anthem that you will listen to again and again. When you start listening to the other songs it is a surprise that they are so good. Glass Animals are the best band you have never heard of.
 
 ## [Imelda May - <cite>Life Love Flesh Blood</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2125069)
 
