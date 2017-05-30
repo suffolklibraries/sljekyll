@@ -1,0 +1,48 @@
+---
+layout: sidebar-right
+title: "Let's Explore Outdoors with National Bookstart Week"
+date: 2017-05-30
+author: james-powell
+category: news
+excerpt: "Suffolk Libraries are celebrating National Bookstart Week next week (5-11 June). Young children and their parents/carers are invited to 'Let’s Explore Outdoors' themed events across our libraries."
+breadcrumb: news
+---
+
+<p>Suffolk Libraries are celebrating National Bookstart Week next week (5-11 June). Young children and their parents/carers are invited to 'Let’s Explore Outdoors' themed events across our libraries.</p>
+
+<p>National Bookstart Week is BookTrust's annual event celebrating the joys and benefits of sharing books, stories and rhymes with children from an early age. This year's 'Let’s Explore Outdoors' theme is being supported by the book <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2069572>Everybunny Dance!</cite> by Ellie Sandal</a> and there will be free copies to pick up from all of the county’s libraries during the week.</p>
+
+<p>National Bookstart Week 2017 is particularly special as BookTrust is celebrating 25 years of the Bookstart programme which has inspired many activities for young children which run in our libraries every week. Bookstart provides free books and resources for every baby and pre-schooler in England and Wales through partnerships with local authorities, along with free packs for children with additional needs and languages which are provided through Suffolk Libraries in our county.</p>
+
+<p>Each year, BookTrust chooses a theme for Bookstart Week to get families involved in fun, themed events across the country at libraries, children’s centres, bookshops and other settings, where they can share fantastic free books and activities with their babies and young children.</p>
+
+<p>Krystal Vittles, development manager and children’s lead, said: "The work of Booktrust is very important to library services everywhere as it helps us reach out to more families. We are very pleased to support Bookstart Week once again and celebrate the work that BookTrust do to encourage more people to start their children’s reading journey at the earliest possible age and hope plenty of people across Suffolk will go along to a library and find out more."</p>
+
+<p>See below for a list of fun and interactive National Bookstart Week events taking place in Suffolk's libraries.</p>
+
+{% assign bookstart-events = site.events | where: "event-category", "bookstart" | sort: "event-start-date" ) %}
+
+{% for event in bookstart-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+        {% if event.event-end-date %}
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b" }}</span> <span>{{ event.event-end-time }}</span>
+
+            {% else %}
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
+
+        {% endif %}
+
+        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+        </p>
+
+    </article>
+
+{% endfor %}
