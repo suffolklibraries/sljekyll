@@ -5,7 +5,7 @@ location: glemsford-library
 location-text: Glemsford Library
 event-start-date: 2017-06-02
 event-start-time: 1500
-event-time-time: 1600
+event-end-time: 1600
 event-category: half-term
 breadcrumb: y
 ---
