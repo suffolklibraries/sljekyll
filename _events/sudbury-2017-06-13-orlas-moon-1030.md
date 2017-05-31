@@ -6,8 +6,7 @@ location-text: Sudbury Library
 event-start-date: 2017-06-13
 event-start-time: 1030
 event-end-time: 1130
-event-ticket-url: https://billetto.co.uk/e/orla-s-moon-tickets-193100
-event-ticket-price: free
+event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 breadcrumb: y
 event-category: orla
 ---
