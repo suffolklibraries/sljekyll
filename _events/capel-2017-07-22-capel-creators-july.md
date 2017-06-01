@@ -1,7 +1,7 @@
 ---
 id: capel-lego-july
 name: "Capel Creators lego club"
-location: capel-library
+location: capel-st-mary-library
 location-text: Capel St Mary Library
 event-start-date: 2017-07-22
 event-start-time: 1030
