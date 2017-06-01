@@ -5,5 +5,5 @@ recurrent-times: 1700
 recurrent-location: beccles-library
 recurrent-location-display-name: Beccles Library
 recurrent-location-display-url: /branches/beccles-library/
-recurrent-category: arts-crafts-games
+recurrent-category: films-music-ents
 ---
