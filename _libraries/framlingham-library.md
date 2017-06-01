@@ -11,7 +11,7 @@ branch-saturday-hours: 0930 – 1700
 branch-sunday-hours: 1100 – 1600
 branch-manager: Lesley Clouting
 branch-address: The Old Court House, Bridge Street, Framlingham
-branch-post-code: IP13 9BA
+branch-post-code: IP13 9AJ
 branch-tel: 01728 723735
 branch-friends: Framlingham Town Council
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/framlingham-library-2
