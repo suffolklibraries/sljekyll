@@ -3,7 +3,7 @@ layout: sidebar-right
 title: 10 oddball American rock classics
 date: 2014-03-11 09:56:14+00:00
 author: richard-baker
-category: music
+category: articles
 excerpt: Download or stream classics from Captain Beefheart, Iron Butterfly and the 13th Floor Elevators.
 breadcrumb: music
 ---

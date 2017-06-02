@@ -3,7 +3,7 @@ layout: sidebar-right
 title: World War 1 centenary in 2014
 date: 2014-04-08 11:09:07+00:00
 author: brandon-king
-category: non-fiction
+category: articles
 excerpt: Our extensive reading list will help you get to grips with the causes of the war, its events and its meaning. Includes non&#8211;fiction, fiction and poetry.
 breadcrumb: non-fiction
 ---

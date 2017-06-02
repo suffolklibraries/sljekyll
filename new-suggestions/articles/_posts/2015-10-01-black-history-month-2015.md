@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Black History Month 2015
 date: 2015-10-01 14:39:52+00:00
 author: emma-raindle
-category: non-fiction
+category: articles
 excerpt: A selection of books and films for Black History Month.
 breadcrumb: non-fiction
 ---

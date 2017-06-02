@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Independent films and DVDs for 2014
 date: 2014-11-25 10:58:49+00:00
 author: brandon-king
-category: films-dvds
+category: articles
 excerpt: Independent films and documentaries available from our libraries.
 breadcrumb: films-dvds
 ---

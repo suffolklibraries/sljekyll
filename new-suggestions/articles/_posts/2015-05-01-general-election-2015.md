@@ -3,7 +3,7 @@ layout: sidebar-right
 title: General Election 2015
 date: 2015-05-01 08:10:46+00:00
 author: emma-raindle
-category: non-fiction
+category: articles
 excerpt: Swot up for the general election with our political picks.
 breadcrumb: non-fiction
 ---

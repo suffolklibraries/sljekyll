@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Mercury Prize shortlist 2015
 date: 2015-11-06 16:34:54+00:00
 author: brandon-king
-category: music
+category: articles
 excerpt: BBC's Mercury Prize covers the best of new British music — and we have all of the albums in stock!
 breadcrumb: music
 ---

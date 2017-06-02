@@ -3,7 +3,7 @@ layout: sidebar-right
 title: BBC Springwatch
 date: 2016-05-31 09:41:00+00:00
 author: brandon-king
-category: non-fiction
+category: articles
 excerpt: As BBC Springwatch returns to RSPB Minsmere, see our top books on all things wildlife.
 breadcrumb: non-fiction
 ---

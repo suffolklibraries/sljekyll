@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Music at Glastonbury 2015
 date: 2015-06-24 10:15:32+00:00
 author: emma-raindle
-category: music
+category: articles
 excerpt: Glastonbury's headliners and some of our favourite acts.
 breadcrumb: music
 ---

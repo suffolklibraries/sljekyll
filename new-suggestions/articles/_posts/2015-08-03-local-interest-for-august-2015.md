@@ -2,8 +2,8 @@
 layout: sidebar-right
 title: Local interest for August 2015
 date: 2015-08-03 12:12:18+00:00
-author: articles
-category: local-interest
+author: brandon-king
+category: articles
 excerpt: Featuring Derek Hammond and Suzette A Hill.
 breadcrumb: articles
 ---

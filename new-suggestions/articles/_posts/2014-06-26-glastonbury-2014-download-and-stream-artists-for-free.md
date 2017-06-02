@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Music at Glastonbury 2014
 date: 2014-06-26 15:41:34+00:00
 author: leon-paternoster
-category: music
+category: articles
 excerpt: Download or stream these Glastonbury 2014 artists, featuring Manic Street Preachers, Beth Orton and Dolly Parton.
 breadcrumb: music
 ---

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: 9 funky Hammond organ classics
 date: 2014-04-07 12:26:27+00:00
 author: richard-baker
-category: music
+category: articles
 excerpt: Woodbridge Library's Richard Baker selects some funky Hammond organ classics you can download for free from our Freegal service.
 breadcrumb: music
 ---
