@@ -1,6 +1,6 @@
 ---
 id: lavenham-bookstart
-name: "National Book Start Week: Tot Rock garden party"
+name: "National Bookstart Week: Tot Rock garden party"
 location: lavenham-library
 location-text: Lavenham Library
 event-start-date: 2017-06-08

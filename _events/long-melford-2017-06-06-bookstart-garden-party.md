@@ -1,6 +1,6 @@
 ---
 id: melford-bookstart
-name: "National Book Start Week: Tot Rock garden party"
+name: "National Bookstart Week: Tot Rock garden party"
 location: long-melford-library
 location-text: Long Melford Library
 event-start-date: 2017-06-06
