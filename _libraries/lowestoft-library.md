@@ -21,6 +21,7 @@ branch-twitter: lowestoftlib
 branch-facebook: lowestoftlibrary
 branch-pinterest: lowlib
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/lowestoft-library-2
+branch-payments: cash and cheques accepted, cards accepted over £5
 branch-parking: available in public car parks nearby
 branch-bookdrop: y
 branch-toilets: y
