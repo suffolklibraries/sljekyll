@@ -164,34 +164,49 @@
 
         <h2>Sign up</h2>
 
-        <p>If you’d like to sign up you can do so below. You can also pay in <a href="/libraries/">any library</a> or by calling <a href="tel:01473351249">01473 351249</a>.</p>
+        <p>You can sign up online or pay in <a href="/libraries/">any library</a> or by calling <a href="tel:01473351249">01473 351249</a>.</p>
 
-        <p>We use PayPal to process payments online. <strong>You do not need a PayPal account to join Suffolk Libraries Extra</strong>.</p>
+        <p>We use PayPal to securely process payments online. <strong>You do not need a PayPal account to join Suffolk Libraries Extra</strong>.</p>
 
         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                <input type="hidden" name="cmd" value="_s-xclick">
 
-                <input type="hidden" name="hosted_button_id" value="LELFT2NYCF73J">
+          <input type="hidden" name="cmd" value="_s-xclick">
 
-                <table>
+          <input type="hidden" name="hosted_button_id" value="LELFT2NYCF73J">
 
-                <tr><td><input type="hidden" name="on0" value="Options">Options</td></tr><tr><td><select name="os0">
-                	<option value="Silver">Silver £20.00 GBP</option>
-                	<option value="Gold">Gold £50.00 GBP</option>
-                	<option value="Platinum">Platinum £150.00 GBP</option>
-                </select> </td></tr>
-                <tr><td><input type="hidden" name="on1" value="Name to appear on membership">Name to appear on membership</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
-                <tr><td><input type="hidden" name="on2" value="Library card number">Library card number</td></tr><tr><td><input type="text" name="os2" maxlength="200"></td></tr>
-                </table>
+          <input type="hidden" name="on0" value="Options">
 
-                <input type="hidden" name="currency_code" value="GBP">
+          <label class="mb1 db f4">Membership type</label>
 
-                <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+          <select name="os0">
 
-                <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            <option value="Silver">Silver £20.00 GBP</option>
 
-      </form>
+            <option value="Gold">Gold £50.00 GBP</option>
 
+            <option value="Platinum">Platinum £150.00 GBP</option>
+
+          </select>
+
+          <input type="hidden" name="on1" value="Name to appear on membership">
+
+          <label class="mb1 db pt3 f4">Name to appear on membership</label>
+
+          <input class="w-100 pv2 ph1" type="text" name="os1"></td></tr>
+
+          <input type="hidden" name="on2" value="Library card number">
+
+          <label class="mb1 db f4 pt3">Library card number</label>
+
+          <input class="w-100 pv2 ph1" type="text" name="os2" maxlength="14">
+
+          <input type="hidden" name="currency_code" value="GBP">
+
+          <input class="db pt3" type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+
+        </form>
 
       </div>
 
@@ -211,7 +226,7 @@
 
         <p>In the future we also hope to develop <strong>additional benefits for members</strong>.</p>
 
-        <p>Suffolk Libraries Extra will enhance the service for all customers by funding improvements while continuing to provide the same free services and benefits. We're launching it to provide additional perks for those who are willing and able to donate to the service.</p>
+        <p>Suffolk Libraries Extra will enhance the service for all customers by funding improvements while continuing to provide the same free services and benefits. We're launching it for those who are willing and able to donate to the service.</p>
 
         <p>If you’d like to know more, email <strong>extra@suffolklibraries.co.uk</strong></p>
 
