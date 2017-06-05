@@ -19,6 +19,7 @@ branch-twitter: sudburylibrary
 branch-facebook: sudburylibrary
 branch-instagram: sudburylibrary
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/sudbury-library-2
+branch-payments: cash, cheques and cards accepted
 branch-parking: unavailable
 branch-bookdrop: y
 branch-wifi: y

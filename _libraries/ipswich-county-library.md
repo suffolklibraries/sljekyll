@@ -20,6 +20,7 @@ branch-twitter: ipswich_library
 branch-facebook: ipswichcountylibrary
 branch-instagram: ipswich_county_library
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/ipswich-county-library-2
+branch-payments: cash, cheques and cards accepted
 branch-bookdrop: y
 branch-toilet: y
 branch-special-collections: African Caribbean resources, Indic language resources, Music & drama library

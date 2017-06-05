@@ -18,6 +18,7 @@ branch-social-media: y
 branch-facebook: Broomhill-Library-Ipswich-280002258807562
 branch-twitter: Broomhilllibra1
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/westbourne-library-2
+branch-payments: cash, cheques and cards accepted
 branch-parking: available
 branch-refreshments: self-service tea and coffee available
 branch-wifi: y

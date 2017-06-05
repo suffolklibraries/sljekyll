@@ -17,6 +17,7 @@ branch-friends: Friends of Clare Library
 branch-social-media: y
 branch-facebook: clarelibrary.co.uk
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/clare-library-2
+branch-payments: cash and cheques accepted
 branch-parking: available
 branch-bookdrop: y
 branch-toilet: y

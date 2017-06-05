@@ -116,6 +116,12 @@
                                     </li>
                                 {% endif %}
 
+                                {% if page.branch-payments %}
+                                  <li>
+                                  Payments: {{ page.branch-payments }}
+                                  </li>
+                                {% endif %}
+
                                 {% if page.branch-special-collections %}
                                   <li>
                                   <a class="blue" href="/special-collections/">Special collections:</a> {{ page.branch-special-collections }}</a>

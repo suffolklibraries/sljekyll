@@ -20,6 +20,7 @@ branch-twitter: woodbridgelib
 branch-facebook: Woodbridge-Library-Suffolk-575433289169395
 branch-booked-out-podcast: /new-suggestions/booked-out/
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/woodbridge-library-2
+branch-payments: cash, cheques and cards accepted
 branch-parking: Pay & Display available outside
 branch-bookdrop: y
 branch-toilet: y

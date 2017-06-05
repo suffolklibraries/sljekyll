@@ -18,6 +18,7 @@ branch-friends-url: /about/member-organisations/aldeburgh-library-foundation/
 branch-social-media: y
 branch-facebook: aldeburghlibrary
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/aldeburgh-library-2
+branch-payments: cash and cheques accepted
 branch-parking: free parking available nearby
 branch-bookdrop: y
 branch-toilet: y

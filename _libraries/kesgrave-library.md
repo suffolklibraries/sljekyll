@@ -17,6 +17,7 @@ branch-friends: Kesgrave Library Community Group
 branch-friends-url: /about/member-organisations/kesgrave-library-community-group
 branch-social-media: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/kesgrave-library-2
+branch-payments: cash and cheques accepted, cards accepted over £5
 branch-parking: 8 free spaces available in front of the library
 branch-bookdrop: y
 branch-refreshments: £1 for a cup of coffee or tea

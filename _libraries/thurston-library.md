@@ -19,6 +19,7 @@ branch-social-media: y
 branch-facebook: Friends-of-Thurston-Library-1013454488771360/
 branch-twitter: thurstonlibrary
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/thurston-library-2
+branch-payments: cash and cheques accepted
 branch-parking: available
 branch-toilet: y
 branch-refreshments: available
