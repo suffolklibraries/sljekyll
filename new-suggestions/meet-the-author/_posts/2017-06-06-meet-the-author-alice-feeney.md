@@ -4,7 +4,7 @@ title: 'Meet the Author: Alice Feeney'
 date: 2017-06-06
 author: brandon-king
 category: meet-the-author
-excerpt: "Alice Feeney tells us how she wrote her debut novel <cite>Sometimes I Lie</cite>"
+excerpt: "Alice Feeney tells us how she wrote her debut novel <cite>Sometimes I Lie</cite>."
 featured-image: /images/featured/featured-alice-feeney.jpg
 featured-alt: Alice Feeney
 featured-link-text: "Read our interview with writer and journalist Alice Feeney."
