@@ -19,6 +19,7 @@ branch-twitter: haverhillibrary
 branch-facebook: Haverhill-Library-Suffolk-202854396546832
 branch-pinterest: haverhillibrary
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/haverhill-library-2
+branch-payments: cash, cheques and cards accepted
 branch-autism-guide: true
 branch-parking: available for disabled customers and deliveries only
 branch-bookdrop: y
