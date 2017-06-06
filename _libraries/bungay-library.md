@@ -18,6 +18,7 @@ branch-friends-url: /about/member-organisations/bungay-community-library
 branch-social-media: y
 branch-facebook: bungaycommunitylibrary
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/bungay-library-2
+branch-payments: cash, cheques and cards accepted
 branch-parking: car park available opposite the library
 branch-refreshments: coffee, tea and hot chocolate for sale
 branch-wifi: y

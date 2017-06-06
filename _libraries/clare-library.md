@@ -17,7 +17,7 @@ branch-friends: Friends of Clare Library
 branch-social-media: y
 branch-facebook: clarelibrary.co.uk
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/clare-library-2
-branch-payments: cash and cheques accepted. Call <a href="tel:01473351240">01473 351240 for card payments.
+branch-payments: cash and cheques accepted. Call <a href="tel:01473351240">01473 351240</a> for card payments.
 branch-parking: available
 branch-bookdrop: y
 branch-toilet: y
