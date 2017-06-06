@@ -18,6 +18,7 @@ branch-social-media: y
 branch-facebook: hadleighlibrarysuffolk
 branch-twitter: hadleighlibrary
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/hadleigh-library-2
+branch-payments: cash, cheques and cards accepted
 branch-parking: available for blue badge holders only
 branch-bookdrop: y
 branch-toilet: y

@@ -18,6 +18,7 @@ branch-friends-url: /about/member-organisations/elmswell-library-friends-elf
 branch-social-media: y
 branch-facebook: Elmswell-Library-Friends-ELF-653230698059103
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/elmswell-library-2
+branch-payments: cash and cheques accepted. Call <a href="tel:01473351240">01473 351240</a> for card payments.
 branch-parking: space for 8 cars
 branch-bookdrop: y
 branch-toilet: y
