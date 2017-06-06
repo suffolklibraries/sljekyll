@@ -15,4 +15,6 @@ breadcrumb: y
 
 Join us for coffee and cake in our beautiful courtyard garden as we celebrate the memory of Jo Cox.
 
+The event will start off with the formal handover of a cheque for £400 to the Friends of Bungay Library from Bungay Theatre Group.
+
 Proceeds to be shared between the Jo Cox Foundation and the library garden.
