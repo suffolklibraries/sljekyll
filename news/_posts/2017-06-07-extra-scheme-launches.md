@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Suffolk Libraries launches new supporters' scheme, Suffolk Libraries Extra"
+title: "Suffolk Libraries launches new supporters' scheme"
 date: 2017-06-07
 author: james-powell
 category: news
