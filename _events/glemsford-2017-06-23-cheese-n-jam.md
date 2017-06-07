@@ -6,7 +6,7 @@ location-text: Glemsford Library
 event-alt-location: Glemsford Village Hall
 event-start-date: 2017-06-23
 event-start-time: 1900
-event-ticket-price: £5 entry (free for singers and musicians taking part), cheeseboards £5 each (order by Friday 16 June)
+event-ticket-price: 5 entry (free for singers and musicians taking part), cheeseboards £5 each (order by Friday 16 June)
 event-ticket-url: https://www.eventbrite.co.uk/e/midsummer-cheese-n-jam-night-tickets-35198824632?ref=estw
 breadcrumb: y
 ---

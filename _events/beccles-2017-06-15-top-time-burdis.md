@@ -1,6 +1,6 @@
 ---
 id: beccles-burdis
-name: "Top Tome Open House: talk on The Forgotten Heroines of the Women's Land Army by Ernest Burdis"
+name: "Top Time Open House: talk on The Forgotten Heroines of the Women's Land Army by Ernest Burdis"
 location: beccles-library
 location-text: Beccles Library
 event-start-date: 2017-06-15

@@ -1,6 +1,6 @@
 ---
 id: woodbridge-barnett-williams
-name: "Meet the Authors: Laura Barnett and Kathryn Williams in conversation with Catherine Larner"
+name: "Meet the Author: Laura Barnett and Kathryn Williams in conversation with Catherine Larner"
 location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2017-06-19
