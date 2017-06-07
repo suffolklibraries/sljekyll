@@ -53,6 +53,7 @@ The main terms of the loan are:
   * [Kedington Library](/libraries/kedington-library)
   * [Lakenheath Library](/libraries/lakenheath-library)
   * [Leiston Library](/libraries/leiston-library)
+  * [Mildenhall Library](/libraries/mildenhall-library) (available to use in the library only)
   * [Southwold Library](/libraries/southwold-library)
 
 ### How to borrow an iPad

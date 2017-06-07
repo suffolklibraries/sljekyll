@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: New films and DVDs for June 2017
-date: 2017-06-08
+date: 2017-06-07
 author: brandon-king
 category: films-dvds
 excerpt: "Featuring <cite>The Lego Batman Movie</cite>, <cite>T2 Trainspotting</cite> and <cite>Moonlight</cite>."
@@ -29,9 +29,11 @@ breadcrumb: films-dvds
 
 > "Things take an unexpected turn when a hurting Christian turns up in Seattle and convinces Anastasia to resume their relationship on her terms. However, as the couple give their romance another shot, a number of ghosts from Christian's past threaten to ruin their future together once more."
 
-## [<cite>T2 Trainspotting</cite>]()
+## [<cite>T2 Trainspotting</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2162089)
 
+> "Danny Boyle returns to direct this sequel to the critically acclaimed 1995 film starring Ewan McGregor and Jonny Lee Miller.
 
+> "Following on two decades after the end of [<cite>Trainspotting</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1312978), the film sees Mark 'Rent Boy' Renton (McGregor) return to Scotland in search of his old friends Simon 'Sick Boy' Williamson (Miller) and Daniel 'Spud' Murphy (Ewan Bremner). As Renton prepares for a great reunion, he must try to avoid the psychopathic Francis 'Franco' Begbie (Robert Carlyle) who is fresh out of prison and hell-bent on getting revenge on his former friends."
 
 ## [<cite>John Wick: Chapter 2</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2162086)
 

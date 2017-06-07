@@ -26,6 +26,5 @@ branch-netloan: new
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
-branch-news: 'Lavenham Library has had to close early today (6 June) due to a power cut. Call <a href="tel:01473351249" class="blue">01473 351249</a> or email help@suffolklibraries.co.uk with any queries'
 breadcrumb: y
 ---

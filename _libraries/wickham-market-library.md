@@ -17,6 +17,7 @@ branch-friends: Wickham Market Partnership
 branch-social-media: y
 branch-facebook: pages/Wickham-Market-Library/759680887398867?fref=ts
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/wickham-market-library
+branch-payments: cash and cheques accepted. Call <a href="tel:01473351240">01473 351240</a> for card payments.
 branch-parking: available
 branch-toilet: y
 branch-wifi: y
