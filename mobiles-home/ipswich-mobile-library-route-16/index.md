@@ -9,7 +9,7 @@ Managers: Andrew Little and David Cook
 
 Email: [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk?subject=Mobile%20library%20enquiry)
 
-Telephone: 01473 263838
+Telephone: 01473 351249
 
 ## Route timetable
 
