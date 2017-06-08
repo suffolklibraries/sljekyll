@@ -14,8 +14,8 @@ url: "https://www.suffolklibraries.co.uk" # the base hostname & protocol for you
 twitter_username: suffolklibrary
 github_username:  suffolklibraries
 message: ""
-message_link: news/bookstart-week/
-message_link_text: "See our events for National Bookstart Week (5-11 June) &rarr;"
+message_link: news/extra-scheme-launches/
+message_link_text: "Find out about our new supporters' scheme, Suffolk Libraries Extra &rarr;"
 
 # Build settings
 markdown: kramdown
