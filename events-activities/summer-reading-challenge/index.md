@@ -27,7 +27,7 @@ This year's theme is <cite>Animal Agents</cite>. <cite>Horrid Henry</cite> illus
 
 The Summer Reading Challenge will be running in [all of our libraries](/libraries/), including our Suffolk Libraries Local sessions at [Red Lodge](/libraries/red-lodge/), [Shotley](/libraries/shotley/) and [Moreton Hall](/libraries/moreton-hall/) (launching 16 May).
 
-The Summer Reading Challenge helps to get &frac34; million children into libraries nationwide during the summer holidays, when children's reading can otherwise 'dip', causing problems when they return to school. The number of children taking part in Suffolk has been increasing every year since 2013. Last year, 8,250 children took part in the county, supported by hundreds of volunteers.
+The Summer Reading Challenge helps to get &frac34; million children into libraries nationwide during the summer holidays, when children's reading can otherwise 'dip', causing problems when they return to school. The number of children taking part in Suffolk has been increasing every year since 2013. Last year, 8,354 children took part in the county, supported by hundreds of volunteers.
 
 <div class ="cf">
 
