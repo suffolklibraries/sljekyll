@@ -6,6 +6,7 @@ location-text: Bungay Library
 event-start-date: 2017-06-17
 event-start-time: 1100
 event-end-time: 1300
+event-category: ggt
 breadcrumb: y
 ---
 
