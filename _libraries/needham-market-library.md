@@ -9,7 +9,6 @@ branch-thursday-hours: 1000 – 1300, 1400 – 1700
 branch-friday-hours: 1400 – 1700
 branch-saturday-hours: 1000 – 1700
 branch-sunday-hours: 1100 – 1600
-branch-manager: Lorraine Hooks
 branch-address: School Street, Needham Market
 branch-post-code: IP6 8BB
 branch-tel: 01449 720780
