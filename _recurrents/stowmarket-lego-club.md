@@ -1,6 +1,6 @@
 ---
-recurrent-title: "Lego club - starts Sunday 26 February"
-recurrent-day: Sunday
+recurrent-title: "Lego club"
+recurrent-day: Saturday and Sunday
 recurrent-times: 1030
 recurrent-location: stowmarket-library
 recurrent-location-display-name: Stowmarket Library
