@@ -6,7 +6,7 @@ location-text: Thurston Library
 event-alt-location: Thurston Sixth, Beyton Campus, Drinkstone Road, Beyton, IP30 9AA
 event-start-date: 2017-06-16
 event-start-time: 1830
-event-ticket-price: free (maximum 2 per person)
+event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 breadcrumb: y
 ---
 

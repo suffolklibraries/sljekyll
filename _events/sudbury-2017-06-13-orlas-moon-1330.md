@@ -7,7 +7,7 @@ event-start-date: 2017-06-13
 event-start-time: 1330
 event-end-time: 1430
 event-ticket-url: https://billetto.co.uk/e/orla-s-moon-tickets-193101
-event-ticket-price: free
+event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 breadcrumb: y
 event-category: orla
 ---
