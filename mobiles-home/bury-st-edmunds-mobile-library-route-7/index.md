@@ -4,12 +4,6 @@ title: Bury St Edmunds Mobile Library Route 7
 breadcrumb: mobiles-home
 ---
 
-<div class="{% include /c/generic-panel.html %}">
-
-    <p>The Bury St Edmunds mobile library is unable to serve Route 7 today (Thursday 8 June). Call <a href="tel:01473 351249">01473 351249</a> or email help@suffolklibraries.co.uk with any queries.</p>
-
-</div>
-
 ## Contact us:
 
 Managers: Steve Adams and Kevin Lambert
