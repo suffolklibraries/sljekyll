@@ -4,7 +4,7 @@ title: Heartless by Marissa Meyer
 date: 2017-06-06
 author: emily-mitchell
 category: young-adult
-excerpt: '"<cite>Heartless</cite> is a madcap, magical take on <cite>Alice in Wonderland</cite> that is heartbreaking and simply magnificent."'
+excerpt: '&#8220;<cite>Heartless</cite> is a madcap, magical take on <cite>Alice in Wonderland</cite> that is heartbreaking and simply magnificent.&#8221;'
 featured-image: /images/featured/featured-heartless.jpg
 featured-alt: Heartless
 featured-link-text: "Read Woodbridge Library volunteer Emily's review of <cite>Heartless</cite>, by Marissa Meyer."

@@ -125,7 +125,7 @@ Sky pirates, rip-roaring adventures - sounds good to us!
 
 With National Trust branding, this is bound to be full of reliable advice as well as fun activities.
 
-### [<cite>Insect</cite>, by DK Eyewitness</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2154540)
+### [<cite>Insect</cite>, by DK Eyewitness](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2154540)
 
 > "Bees, beetles, bugs, butterflies and more - love them or hate them, insects are everywhere. Discover the different varieties, body structures, life cycles, and behaviour - from why bees make honey to which insects have ears on their knees. Find out what the earliest insects looked like, how insects fly, and what a wasp's-eye-view looks like. Learn how insects, often seen as pests by humans, perform a vital role as pollinators of food crops."
 
