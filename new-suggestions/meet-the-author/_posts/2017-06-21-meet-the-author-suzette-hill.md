@@ -4,7 +4,7 @@ title: 'Meet the Author: Suzette Hill'
 date: 2017-06-21
 author: brandon-king
 category: meet-the-author
-excerpt: "Suzette Hill tells us about starting a writing career in retirement, how she came to set her latest novels in Southwold and her passion for reading"
+excerpt: "Suzette Hill tells us about starting a writing career in retirement, how she came to set her latest novels in Southwold and her passion for reading."
 featured-image: /images/featured/featured-suzette-hill.jpg
 featured-alt: Suzette Hill
 featured-link-text: "Read our interview with <cite>A Southwold Mystery</cite> and <cite>Shot in Southwold</cite> author Suzette Hill."

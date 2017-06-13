@@ -7,7 +7,7 @@ event-start-date: 2017-06-20
 event-start-time: 1300
 event-end-time: 1400
 event-ticket-url: https://www.theatreroyal.org/shows/orlas-moon/
-event-ticket-price: "pay what you can"
+event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 breadcrumb: y
 event-category: orla
 ---
