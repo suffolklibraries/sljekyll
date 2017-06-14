@@ -15,7 +15,7 @@ branch-post-code: CO10 9JT
 branch-tel: 01787 377525
 branch-friends: Friends of Long Melford Library
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/long-melford-library
-branch-payments: 'cash and cheques accepted. Call <a href="tel:01473351240">01473 351240</a> for card payments.'
+branch-payments: 'cash and cheques accepted. Call <a href="tel:01473351249">01473 351249</a> for card payments.'
 branch-parking: free parking available on street
 branch-toilet: y
 branch-wifi: y

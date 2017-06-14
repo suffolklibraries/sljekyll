@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Top titles to read for Suffolk Day 2017'
-date: 2017-06-21
+date: 2017-06-14
 author: brandon-king
 category: articles
 excerpt: "The first ever Suffolk Day takes place on 21 June. Why not borrow one of our favourite Suffolk-based books to make the occasion?"

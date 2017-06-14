@@ -17,7 +17,7 @@ branch-friends: Friends of Kedington Library
 branch-social-media: y
 branch-facebook: kedingtonlibrary
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/kedington-library
-branch-payments: cash and cheques accepted. Call <a href="tel:01473351240">01473 351240</a> for card payments.
+branch-payments: 'cash and cheques accepted. Call <a href="tel:01473351249">01473 351249</a> for card payments.'
 branch-parking: available
 branch-refreshments: available
 branch-wifi: y

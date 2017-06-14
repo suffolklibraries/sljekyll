@@ -18,7 +18,7 @@ branch-social-media: y
 branch-twitter: capellibrary
 branch-facebook: capellibrary
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/capel-st-mary-library-2
-branch-payments: cash and cheques accepted. Call <a href="tel:01473351240">01473 351240 for card payments.
+branch-payments: 'cash and cheques accepted. Call <a href="tel:01473351249">01473 351249</a> for card payments.'
 branch-parking: car parks available beside the children's play area and in the shopping precinct a short distance away
 branch-bookdrop: y
 branch-toilet: y
