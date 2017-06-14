@@ -4,7 +4,7 @@ title: "New children's books for July 2017"
 date: 2017-06-29
 author: jo-dixon
 category: childrens-ya-books
-excerpt: ""
+excerpt: "This month's bumper crop of new children's releases includes the new title from Halesworth librarian Francesca Armour-Chelu"
 featured-image: /images/featured/featured-childrens-july-2017.jpg
 featured-alt: "Baby Goes to Market, Fenn Halflin and the Seaborn, My First Coding Book"
 featured-link-text: "Check out our latest titles for children."

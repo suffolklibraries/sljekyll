@@ -23,7 +23,7 @@ The <cite>Great British Bake Off</cite> champion for 2016 brings out her first c
 
 > "The main aim of detective stories is to entertain, but the best cast a light on human behaviour and display both literary ambition and accomplishment. Even unpretentious detective stories, written for unashamedly commercial reasons, can give us clues to the past and give us insight into a long-vanished world that, for all its imperfections, continues to fascinate. This book, written by Martin Edwards, serves as a companion to the British Library's internationally acclaimed series of Crime Classics."
 
-## [<cite>The Unwomanly Face of War: an oral history of women in World War II</cite>, by Svetlana Aleksievich, translated by Richard pevear and Larissa Volokhonsky](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2169353)
+## [<cite>The Unwomanly Face of War: an oral history of women in World War II</cite>, by Svetlana Aleksievich, translated by Richard Pevear and Larissa Volokhonsky](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2169353)
 
 Long-awaited English translation of the oral history of women in the Second World War across Europe and Russia, which was the Nobel prize-winner’s first book. It was published in 1985 and has sold more than 2 million copies:
 
