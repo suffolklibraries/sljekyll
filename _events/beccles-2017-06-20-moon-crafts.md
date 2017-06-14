@@ -4,7 +4,7 @@ name: "Moon making and stories for 0-3 year-olds"
 location: beccles-library
 location-text: Beccles Library
 event-start-date: 2017-06-20
-event-start-time: 1415
+event-start-time: 1400
 breadcrumb: y
 event-category: orla
 ---
