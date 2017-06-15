@@ -1,9 +1,9 @@
 ---
-id: haverhill-computer-club
+id: sudbury-computer-club
 name: "Computer Club LIVE with Suffolk Adult Learning and Realise Futures: get help accessing online services and with technology"
-location: haverhill-library
-location-text: Haverhill Library
-event-start-date: 2017-06-30
+location: sudbury-library
+location-text: Sudbury Library
+event-start-date: 2017-06-29
 event-start-time: 0930
 event-end-time: 1600
 event-ticket-price: free
@@ -21,4 +21,4 @@ Suffolk Adult Learning and Realise Futures' professional and knowledgeable team 
 
 Contact the library to book your place in advance.
 
-If you have your own device, please bring it along to the session. Otherwise, you will be able to use one of the library's Chromebooks or computers.
+If you have your own device, please bring it along to the session. Otherwise, you will be able to use one of the library's computers.
