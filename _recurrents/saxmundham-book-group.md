@@ -1,6 +1,6 @@
 ---
-recurrent-title: "Book group"
-recurrent-day: Fridays from 16 June - just turn up - 50p includes coffee and biscuits
+recurrent-title: "Book group - 50p to include coffee and biscuits"
+recurrent-day: Friday
 recurrent-times: 1330
 recurrent-location: saxmundham-library
 recurrent-location-display-name: Saxmundham Library
