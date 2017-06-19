@@ -1,6 +1,6 @@
 ---
 id: kessingland-better-together
-name: 'Suffolk User Forum Better Together drop-in with coffee and cake - <span class="pa2 bg-red white">Cancelled</span>'
+name: 'Suffolk User Forum Better Together drop-in with coffee and cake - CANCELLED'
 location: kessingland-library
 location-text: Kessingland Library
 event-start-date: 2017-06-20
