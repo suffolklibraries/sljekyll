@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Adult colouring - all materials provided"
+recurrent-title: "Colour Me Calm adult colouring - all materials provided"
 recurrent-day: Thursday every 2 weeks
 recurrent-times: 1100-1200
 recurrent-location: bury-st-edmunds-library
