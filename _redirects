@@ -96,5 +96,6 @@
 /new-suggestions/health-lists/* /health/lists/:splat
 /slaughter/ /events-activities/slaughter-in-southwold/
 /slaughter-in-southwold/ /events-activities/slaughter-in-southwold/
+/suffolkday/ /news/suffolk-libraries-celebrates-suffolk-day/
 
 /*   /404/index.html   404
