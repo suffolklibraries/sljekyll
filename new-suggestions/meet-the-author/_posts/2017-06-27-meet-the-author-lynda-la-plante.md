@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Lynda La Plante CBE'
-date: 2017-06-21
+date: 2017-06-27
 author: brandon-king
 category: meet-the-author
 excerpt: "Lynda La Plante talks about acting and DCI Jane Tennison."
