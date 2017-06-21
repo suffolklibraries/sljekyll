@@ -12,9 +12,9 @@ top-feature: true
 breadcrumb: meet-the-author
 ---
 
-{% include /c/figure.html alt="Lynda La Plante" src="/images/featured/featured-lynda-la-plante.jpg" caption="Lynda La Plante CBE. Image &copy; Darren Bell" %}
+{% include /c/figure.html alt="Lynda La Plante" src="/images/featured/featured-lynda-la-plante.jpg" caption="Lynda La Plante. Image &copy; Darren Bell" %}
 
-Lynda La Plante CBE is an English author, screenwriter and former actress. She is perhaps best known as the writer and creator of the <cite>Prime Suspect</cite> television crime series.
+Lynda La Plante is an English author, screenwriter and former actress. She is perhaps best known as the writer and creator of the <cite>Prime Suspect</cite> television crime series.
 
 Formerly an actor, Lynda broke through as a writer in 1983 when she created and wrote the six-part robbery series <cite>Widows</cite> for Thames Television. Her debut novel was published in 1987, and in 1991 <cite>Prime Suspect</cite>, starring Helen Mirren as DCI Jane Tennison, first appeared on screens. It has won multiple BAFTAs, Emmy Awards and Golden Globe Awards and in 2007 was named as one of <cite>Time</cite> magazine's 100 Best Shows of All Time.
 
