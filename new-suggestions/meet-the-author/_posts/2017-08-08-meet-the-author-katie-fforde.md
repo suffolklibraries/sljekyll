@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Katie Fforde'
-date: 2017-07-25
+date: 2017-08-08
 author: brandon-king
 category: meet-the-author
 excerpt: "Katie Fforde tells us about her hands-on approach to research for her stories, the essential ingredients for a feel-good romantic novel and what we can expect from her next book."

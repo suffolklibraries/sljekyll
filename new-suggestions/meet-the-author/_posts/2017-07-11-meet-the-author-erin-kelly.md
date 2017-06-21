@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Erin Kelly'
-date: 2017-06-27
+date: 2017-07-11
 author: brandon-king
 category: meet-the-author
 excerpt: "Erin Kelly tells us about her latest novel, <cite>He Said/She Said</cite> and reveals exciting information about her next book."

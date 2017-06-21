@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Martin Edwards'
-date: 2017-07-11
+date: 2017-07-25
 author: brandon-king
 category: meet-the-author
 excerpt: "Martin Edwards tells us about his work on the British Library Crime Classics series and the importance of libraries for authors, and puts a rumour about Agatha Christie to rest."
