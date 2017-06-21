@@ -7,7 +7,7 @@ excerpt: "Go to the heart of just who this tempestuous, passionate but much-love
 event-start-date: 2017-07-16
 event-doors-open: 1330
 event-start-time: 1400
-event-ticket-price: 7.50 (adults), £5 (children)
+event-ticket-price: 7.50 (adults)
 event-image-small: featured/featured-presents-michelangelo.jpg
 event-category: presents
 breadcrumb: y
