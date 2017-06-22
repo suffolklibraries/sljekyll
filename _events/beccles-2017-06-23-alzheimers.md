@@ -6,6 +6,7 @@ location-text: Beccles Library
 event-start-date: 2017-06-23
 event-start-time: 1330
 event-end-time: 1530
+event-category: health
 breadcrumb: y
 ---
 

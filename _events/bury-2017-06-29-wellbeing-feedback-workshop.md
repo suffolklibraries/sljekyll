@@ -7,7 +7,7 @@ event-start-date: 2017-06-29
 event-start-time: 1000
 event-end-time: 1430
 breadcrumb: y
-event-category: wellbeing
+event-category: health
 event-ticket-price: free
 ---
 

@@ -6,6 +6,7 @@ location-text: Lowestoft Library
 event-start-date: 2017-06-28
 event-start-time: 1400
 event-end-time: 1515
+event-category: health
 breadcrumb: y
 ---
 
