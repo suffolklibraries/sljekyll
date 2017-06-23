@@ -1,6 +1,6 @@
 ---
 id: stowmarket-princes-trust
-name: "Prince's Trust Bake Sale - Thursday"
+name: "Prince's Trust bake sale - Thursday"
 location: stowmarket-library
 location-text: Stowmarket Library
 event-start-date: 2017-06-29
