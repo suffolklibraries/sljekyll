@@ -13,7 +13,7 @@ If you don't have a card number or don't remember your PIN please contact custom
 ## Choose a library
 
 - [Aldeburgh Library](http://78.31.106.220/netloan/Login.aspx)
-- [Beccles Library](http://netloan.suffolklibraries.co.uk/)
+- [Beccles Library](http://78.31.106.220/netloan/Login.aspx)
 - [Brandon Library](http://netloan.suffolklibraries.co.uk/)
 - [Broomhill Library (formerly Westbourne)](http://netloan.suffolklibraries.co.uk/)
 - [Bungay Library](http://78.31.106.220/netloan/Login.aspx)
