@@ -7,7 +7,7 @@ event-start-date: 2017-07-01
 event-start-time: 1145
 event-end-time: 1315
 breadcrumb: y
-event-ticket-price: 4 (children and adults require tickets)
+event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 event-ticket-url: http://felixstowe-book-festival.bitballoon.com/event?event=114529
 event-category: fbf
 ---
