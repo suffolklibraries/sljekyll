@@ -22,6 +22,6 @@ Voters can enter their name into a draw to win two free tickets for the new Angl
 
 There will also be a special Shortlist Showcase event on Wednesday 28 June where the shortlisted authors are invited to an evening of reading and conversation at the Ipswich Institute Reading Room in Tavern Street, Ipswich at 7pm. Tickets are £8 and include refreshments provided by Waitrose, and are available from the Ipswich Institute on [01473 253992](tel:01473253992) or via library@ipswichinstitute.org.uk
 
-For more information about the New Angle Prize, visit [the New Angle Prize website](www.ipswichinstitute.org.uk/new-angle).
+For more information about the New Angle Prize, visit [the New Angle Prize website](http://www.ipswichinstitute.org.uk/new-angle).
 
 For more information on the Ipswich Institute, visit the [Ipswich Institute website](http://www.ipswichinstitute.org.uk/).
