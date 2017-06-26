@@ -3,7 +3,7 @@ id: shotley-rcc
 name: "Rural Coffee Caravan visit"
 location: shotley
 location-text: Shotley (Suffolk Libraries Local)
-event-start-date: 2017-06-28
+event-start-date: 2017-06-26
 event-start-time: 1300
 event-end-time: 1500
 breadcrumb: y
