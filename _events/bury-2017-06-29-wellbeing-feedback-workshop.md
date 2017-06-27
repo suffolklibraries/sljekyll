@@ -3,6 +3,7 @@ id: bury-wellbeing
 name: "Wellbeing & feedback workshop: help shape a new emotional wellbeing service"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
+event-alt-location: Quaker House, St John's Street, Bury St Edmunds, IP33 1SJ
 event-start-date: 2017-06-29
 event-start-time: 1000
 event-end-time: 1430
