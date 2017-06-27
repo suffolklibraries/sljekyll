@@ -25,7 +25,7 @@ On a slightly smaller scale PSB return with a third album. <cite>Every Valley</c
 
 The British singer/songwriter Lucy Rose recently took her guitar and backpacked across South and Central America, writing songs as she travelled and stayed with fans performing free shows as she went. This album is the result.
 
-## [Paul Heaton & Jacqui Abbott - <cite>Crooked Calypso</cite>]()
+## [Paul Heaton & Jacqui Abbott - <cite>Crooked Calypso</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2250403)
 
 Follow up to [<cite>What Have We Become</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1588125) and [<cite>Wisdom, Laughter & Lines</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1872927) sees the two former Beautiful South stars re-united. There is likely to be a tour soon to promote the new album.
 

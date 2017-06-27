@@ -4,6 +4,18 @@ layout: sidebar-left
 breadcrumb: elibrary
 ---
 
+<div class="{% include /c/generic-panel.html %}">
+
+    <ul>
+
+        <li>Zinio may be unavailable between 1am and 3pm today (Tuesday 27 June) due to an upgrade.</li>
+        <li>The name and appearance of the Zinio website will change but you will still be able to access magazines as before.</li>
+        <li>You may also be prompted to download the new app. This also does not affect how you use the service. The existing app will remain available for now.</li>
+
+    </ul>
+
+</div>
+
 Zinio allows you to download PDF files of magazines for an unlimited time. This service is available through a web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer. A read-only app called Zinio for Libraries is also available for iOS, Android and Kindle.
 
 ## Setting up your device to download digital magazines with Zinio
