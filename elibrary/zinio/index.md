@@ -8,9 +8,8 @@ breadcrumb: elibrary
 
     <ul>
 
-        <li>Zinio may be unavailable between 1am and 3pm today (Tuesday 27 June) due to an upgrade.</li>
-        <li>The name and appearance of the Zinio website will change but you will still be able to access magazines as before.</li>
-        <li>You may also be prompted to download the new app. This also does not affect how you use the service. The existing app will remain available for now.</li>
+        <li>The name of the Zinio website has changed to RB Digital. You can still access magazines as before.</li>
+        <li>You may be prompted to download the new RB Digital app. This also does not affect the service. The existing app will remain available for now.</li>
 
     </ul>
 

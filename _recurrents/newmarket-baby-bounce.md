@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Baby Bounce: soothing songs and gentle nursery rhymes for babies - no session 27 June due to Baby Sensory taster session"
+recurrent-title: "Baby Bounce: soothing songs and gentle nursery rhymes for babies"
 recurrent-day: Tuesday
 recurrent-times: 1000-1030
 recurrent-location: newmarket-library
