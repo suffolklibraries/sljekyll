@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Celebrate Michael Bond's life and work with our selection of Paddington books"
+title: "Celebrate Michael Bond's life and work with our selection of Paddington books and audiobooks"
 date: 2017-06-29
 author: sophie-green
 category: childrens-ya-books
@@ -14,6 +14,8 @@ breadcrumb: childrens-ya-books
 ![A Bear Called Paddington, Paddington Helps Out, Paddington Abroad](/images/featured/featured-paddington.jpg)
 
 Michael Bond has died at the age of 91. Generations of children have loved his Paddington stories, so why not borrow some books or audiobooks to share with your child?
+
+Prefer eBooks? We've also put together a [Paddington OverDrive collection](https://suffolklibraries.overdrive.com/collection/98586)
 
 ## Books
 
