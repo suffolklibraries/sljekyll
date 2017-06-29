@@ -35,5 +35,5 @@ branch-faxing: y
 branch-for-sale: "Poetry book collated by Newmarket Library Friend Christine - £5 each with all proceeds to Friends of Newmarket Library and St Nicholas Hospice.
 Three volumes of poetry by local poet Yvonne Zellen - £5 each with all proceeds to charity. £1 from every sale goes to Newmarket Library."
 breadcrumb: y
-branch-news: 'Newmarket Library's phone line is currently down. Please call customer services on <a href="01473 351249"> with any enquiries.'
+branch-news: "Newmarket Library's phone line is currently down. Please call customer services on 01473 351249 with any enquiries."
 ---
