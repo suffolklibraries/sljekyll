@@ -3,6 +3,15 @@ title: Setting up OverDrive on your device
 layout: sidebar-left
 breadcrumb: elibrary
 ---
+
+<div class="{% include /c/generic-panel.html %}">
+
+<p>OverDrive have launched a new app, <strong>Libby</strong>, for iOS 9.0 or later, Android 4.4 and later, and Windows 10 on mobiles and tablets. The existing OverDrive app is still available.</p>
+
+<p><a href="/elibrary/overdrive/libby">Setting up Libby on your device</a></p>
+
+</div>
+
 OverDrive allows you to&nbsp;download eBooks and eAudio books. This service is available on a tablet, smartphone or web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer.
 
 You can also read eBooks on an eReader, and listen to eAudiobooks on a device that plays MP3 files, such as an iPod, tablet or smartphone.
