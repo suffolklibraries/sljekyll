@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Tot Rock: songs and action rhymes for toddlers (term time only) - no session 29 June"
+recurrent-title: "Tot Rock: songs and action rhymes for toddlers (term time only)"
 recurrent-day: Thursday
 recurrent-times: 0945-1015
 recurrent-location: kesgrave-library
