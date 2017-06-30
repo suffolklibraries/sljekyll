@@ -14,6 +14,8 @@ branch-address: United Reformed Church Room, Hall Street, Long Melford
 branch-post-code: CO10 9JT
 branch-tel: 01787 377525
 branch-friends: Friends of Long Melford Library
+branch-social-media: y
+branch-facebook: longmelfordlibrary
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/long-melford-library
 branch-payments: 'cash and cheques accepted. Call <a href="tel:01473351249">01473 351249</a> for card payments.'
 branch-parking: free parking available on street
