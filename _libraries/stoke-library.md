@@ -26,4 +26,5 @@ branch-colour-printing: available
 branch-photocopying: available on printer
 branch-scan-to-email: y
 breadcrumb: y
+branch-news: '<a href="https://t.co/SkrUO3SiPs">Help Stoke Library raise £500 to improve their children's area and Bookstart club</a>'
 ---
