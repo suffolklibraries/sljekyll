@@ -55,8 +55,6 @@ Within Lavenham, Colin undertakes voluntary work, which includes being a Directo
 
 Maureen has been the chair of the Friends of Ipswich County Library for almost two years; she brings great enthusiasm to the role.  She is experienced in media, having worked for the BBC and lectured in Media Studies at New Suffolk College.  In earlier years, Maureen worked for Cambridgeshire libraries and when her children were small, ran some story time sessions in Gainsborough and Ipswich libraries.  As a teacher, she has worked with students of many nationalities and varied ages and has seen at first hand the need for good books that are readily available to aid research and lead to qualifications that enhance a person’s life and self-esteem.  Maureen’s personal interests involve reading and early music.
 
-Maureen would be a great asset to the Board, being able to put the point of view of the larger libraries.  She has taken part in several County Library events, most recently, Multi-Cultural Day.  She has some knowledge of libraries and how they operate and would be able to further her knowledge with the Board.
-
 ### Alison Wheeler
 
 Alison is chief executive of the IPS. As the chief executive officer she is accountable to the board for the day to day management of the IPS. She's also a member of the IPS Board.
