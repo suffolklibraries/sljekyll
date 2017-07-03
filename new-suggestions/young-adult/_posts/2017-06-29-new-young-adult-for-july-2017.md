@@ -65,7 +65,7 @@ breadcrumb: young-adult
 
 ### [<cite>Songs About Us</cite>, by Chris Russell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2171174)
 
-> "Two months on from the explosive finale to [<cite>Songs About a Girl](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1983616), Charlie's life is almost back to normal again: rebuilding her relationship with her father, hanging out with best mate Melissa, and worrying about GCSEs. All the while, Gabe's revelations about her mother are never far from her mind. And neither is Gabe.
+> "Two months on from the explosive finale to [<cite>Songs About a Girl</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1983616), Charlie's life is almost back to normal again: rebuilding her relationship with her father, hanging out with best mate Melissa, and worrying about GCSEs. All the while, Gabe's revelations about her mother are never far from her mind. And neither is Gabe.
 
 > "It's not long before Charlie is pulled back into the world of Fire&Lights - but the band seem different this time. But then again, so is she. Meanwhile, tensions between Gabe and Olly continue to run high, leading to more turmoil between the band members and press than ever before. But when Gabriel and Charlie stumble upon yet another startling truth that links them together - everything they have stands to implode in front of them."
 
