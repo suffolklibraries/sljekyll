@@ -349,6 +349,32 @@
 
                             {% assign current = page.branch-unique-id %}
 
+                            {% assign recurrents = site.recurrents | where: "recurrent-category", "src" | where: "recurrent-location", current %}
+
+                            {% if recurrents.size > 0 %}
+
+                                <section class="pb2">
+
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Summer Reading Challenge</h1>
+
+                                    {% for recurrent in recurrents %}
+
+                                        <article class="{% include /c/listing.html %}">
+
+                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
+
+                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+
+                                        </article>
+
+                                    {% endfor %}
+
+                                </section>
+
+                                {% endif %}
+
+                            {% assign current = page.branch-unique-id %}
+
                             {% assign recurrents = site.recurrents | where: "recurrent-category", "older" | where: "recurrent-location", current %}
 
                             {% if recurrents.size > 0 %}

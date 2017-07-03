@@ -3,7 +3,7 @@ id: bury-art
 name: "Top Time: Art group"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
-event-start-date: 2017-06-16
+event-start-date: 2017-07-21
 event-start-time: 1000
 event-end-time: 1200
 breadcrumb: y

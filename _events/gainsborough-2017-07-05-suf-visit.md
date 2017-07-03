@@ -6,7 +6,6 @@ location-text: Gainsborough Community Library
 event-start-date: 2017-07-05
 event-start-time: 1000
 event-end-time: 1200
-event-category: health
 breadcrumb: y
 event-category: suf
 ---
