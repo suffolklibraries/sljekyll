@@ -7,7 +7,7 @@ sidebar: summer-reading-challenge
 
 <div class="{% include /c/generic-panel.html %}">
 
-<p><a href="/events-activities/summer-reading-challenge/summer-reading-challenge-volunteer-application-form/">Sign up to be a Summer Reading Challenge volunteer &rarr;</a></p>
+<p><a href="/events-activities/summer-holidays/summer-reading-challenge/summer-reading-challenge-volunteer-application-form/">Sign up to be a Summer Reading Challenge volunteer &rarr;</a></p>
 
 </div>
 
@@ -39,7 +39,7 @@ Summer reading challenge volunteers:
 * In 2015, 82% of Summer Reading Challenge volunteers nationwide felt that their skills had increased, and 78% felt like part of their community as a result of taking part
 * In 2014, the Summer Reading Challenge was found to increase volunteers' sense of purpose, autonomy, happiness, self-esteem, motivation at school and future employment chances
 
-To get involved, contact [your local library](/libraries/) or apply online with our [Summer Reading Challenge volunteering form](/events-activities/summer-reading-challenge/summer-reading-challenge-volunteer-application-form/).
+To get involved, contact [your local library](/libraries/) or apply online with our [Summer Reading Challenge volunteering form](/events-activities/summer-holidays/summer-reading-challenge/summer-reading-challenge-volunteer-application-form/).
 
 See also:
 

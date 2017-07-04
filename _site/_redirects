@@ -3,6 +3,7 @@
 /bookfest /events-activities/bookfest
 /ceremonies /events-activities/ceremonies
 /charges /help/book-cd-audiobook-game-dvd-borrowing-overdues
+/events-activities/imagination /events-activities/summer-holidays/imagination
 /fowl /about/member-organisations/friends-of-woodbridge-library-fowl
 /help/charges /help/book-cd-audiobook-game-dvd-borrowing-overdues/
 /hub /libraries/hub
@@ -19,7 +20,7 @@
 /reading /events-activities/our-year-of-reading
 /slaughter /events-activities/slaughter-in-southwold
 /sls /schools
-/src /events-activities/summer-reading-challenge/
+/src /events-activities/summer-holidays/summer-reading-challenge/
 /suffolkwrites /events-activities/suffolk-writes
 /upcoming-events /events-activities/upcoming
 /update /help/reregistering-an-expired-library-card
@@ -55,6 +56,7 @@
 /community-services/mobile-libraries/* /mobiles-home/:splat
 /community-services/prison-library-service/* /prison-libraries/:splat
 /community-services/schools-library-service/* /schools-literacy/schools/:splat
+/events-activities/summer-reading-challenge/* /events-activities/summer-holidays/summer-reading-challenge/:splat
 /film-lists/* /new-suggestions/films-dvds/:splat
 /hub/* /branches/hub/:splat
 /information-resources/health-wellbeing-links/* /health/links/:splat
