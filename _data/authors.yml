@@ -257,12 +257,17 @@ nilima-banerji:
 olivia-roberts:
     name: Olivia Roberts
     job: Great Cornard library customer
-    bio: I'm a 13-year-old customer at Great Cornard Library
+    bio: I'm a 13-year-old customer at Great Cornard Library.
 
 paul-howarth:
     name: Paul Howarth
     job: stock and content manager
     bio: I'm the stock and content manager.
+
+rachael-vickery:
+    name: Rachael Vickery
+    job: Felixstowe Library customer
+    bio: I am a customer at Felixstowe Libeary and a fan of science fiction/futuristic and romance books.
 
 richard-baker:
     name: Richard Baker
