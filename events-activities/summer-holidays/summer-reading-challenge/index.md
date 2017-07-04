@@ -7,7 +7,7 @@ sidebar: summer-reading-challenge
 
 <div class="{% include /c/generic-panel.html %}">
 
-<p><a href="/events-activities/summer-reading-challenge/summer-reading-challenge-volunteer-application-form/">Sign up to be a Summer Reading Challenge volunteer &rarr;</a></p>
+<p><a href="/events-activities/summer-holidays/summer-reading-challenge/summer-reading-challenge-volunteer-application-form/">Sign up to be a Summer Reading Challenge volunteer &rarr;</a></p>
 
 </div>
 
