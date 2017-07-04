@@ -87,16 +87,16 @@ breadcrumb: home
 
             <section class="{% include /c/block.html %}" id="zinio">
 
-                <h1 class="{% include /c/block-title.html %}">Zinio magazines</h1>
+                <h1 class="{% include /c/block-title.html %}">RBdigital magazines (formerly Zinio)</h1>
 
                 <a class="white" href="/elibrary/zinio"><img src="/images/card/zinio.jpg" alt="Screenshot of the Zinio website and some titles available on it"></a>
 
-                <p class="{% include /c/block-graf.html %}">Download titles like <cite>Top Gear Magazine</cite> and <cite>Good Food</cite> to your device to keep forever. Use the Zinio website with your library card, or download apps for Android, Kindle Fire and iOS.</p>
+                <p class="{% include /c/block-graf.html %}">Download titles like <cite>Top Gear Magazine</cite> and <cite>Good Food</cite> to your device to keep forever. Use the RBdigital website with your library card, or download apps for Android, Kindle Fire and iOS.</p>
 
                 <ul class="{% include /c/block-list.html %}">
 
-                    <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="/elibrary/zinio/">Zinio instructions</a></li>
-                    <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="http://www.rbdigital.com/Suffolk/service/zinio/landing">Zinio website</a></li>
+                    <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="/elibrary/zinio/">RBdigital instructions</a></li>
+                    <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="http://www.rbdigital.com/Suffolk/service/zinio/landing">RBdigital website</a></li>
 
                 </ul>
 
