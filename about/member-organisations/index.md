@@ -52,7 +52,7 @@ The following member organisations are members of Suffolk's Libraries Industrial
 * Friends of Stoke Library
 * [Friends of Stowmarket Library](/about/member-organisations/friends-of-stowmarket-library/)
 * [Stradbroke Courthouse and Library Trust (SCALT)](/about/member-organisations/stradbroke-courthouse-and-library-trust-scalt/)
-* Friends of Sudbury Library
+* [Friends of Sudbury Library (FOSL)](/about/member-organisations/friends-of-sudbury-library-fosl/)
 * [Friends of Thurston Library](/about/member-organisations/friends-of-thurston-library/)
 * [Friends of Woodbridge Library (FOWL)](/about/member-organisations/friends-of-woodbridge-library-fowl/)
 * Wickham Market Partnership
