@@ -1,7 +1,7 @@
 ---
 branch-unique-id: framlingham-library
 branch-name: Framlingham Library
-branch-image: /images/branches/framlingham-library.jpg
+branch-image: /images/branches/framlingham-library-2.jpg
 branch-monday-hours: 1000 – 1200
 branch-tuesday-hours:	0930 – 1730
 branch-wednesday-hours: Closed

@@ -47,11 +47,9 @@ We also stock books for adults about dyslexia and other learning difficulties.
 
 ## How you can help children with dyslexia and Irlen syndrome
 
-Dyslexic children often have problems with spelling and handwriting. [Parent Champions](https://www.parentchampions.org.uk/resources/top-tips-on-reading-handwriting-spelling-memory-and-organisation/) offers very practical tips for adults helping children.
+Dyslexic children often have problems with spelling and handwriting. [Parent Champions](http://www.parentchampions.org.uk/resources/understanding-dyslexia-booklet/) offers very practical tips for adults helping children.
 
 If your child has Irlen syndrome, placing a simple coloured overlay across the page of a book could make it easier for your child to read. Experiment at home using a pack of multi-coloured transparent sheets (bought from any stationers). It could considerably extend the range of books your child can choose from at very small cost.
-
-Pastel coloured exercise books alleviate glare from white paper. They are available from [Dyslexia Action](http://www.dyslexiaactionshop.co.uk/).
 
 ## Tips on choosing books
 
@@ -86,10 +84,9 @@ Pastel coloured exercise books alleviate glare from white paper. They are availa
 1. In _Advanced Catalogue Search_ click on any of drop down menu buttons e.g. title
 2. Select _Publisher_, type ‘Barrington Stoke’ then press OK
 
-### To arrange the lists in a different order
+### To filter the search results
 
-1. Scroll down to the bottom of the screen and click on the _Sort_ drop down menu
-2. Select title, author or publication date
+Use the links on the right-hand side to narrow your search results down to, for example, age group, series or author.
 
 ### To reserve a book from the list
 
