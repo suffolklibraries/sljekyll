@@ -16,7 +16,7 @@ The books are set in a Suffolk-inspired futuristic flooded world. They follow th
 
 > "Fenn Halflin is on the run from the brutal Terra Firma. His survival depends on finding the last of the Resistance, said to be hiding in an ancient, flooded forest. Accompanied by his faithful mongoose, Tikki, Fenn must embark on a journey that will take him deep into the treacherous marsh and closer to the secrets of his past. But as the water levels continue to rise, his mission to unite the Seaborn people has never been more desperate."
 
-<cite>Children’s Books Ireland</cite> said of the book: "Wearing its grim environmental warning lightly, the world Armour-Chelu has created is rich, evocative and utterly absorbing."
+<cite>Children’s Books Ireland</cite> said of <cite>Fenn Halflin and the Fearzero</cite>: "Wearing its grim environmental warning lightly, the world Armour-Chelu has created is rich, evocative and utterly absorbing."
 
 Francesca grew up by the Suffolk Coast. She studied English and Drama at Goldsmiths, University of London, and went on to work in museum education and public libraries. Her experience of living on water meadows in an abandoned Edwardian railway carriage inspired the Fenn Halflin books.
 
