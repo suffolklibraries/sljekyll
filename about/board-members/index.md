@@ -14,6 +14,7 @@ Our member organisations elect our board.
 * Maureen Garratt Simpson (Ipswich County Library Friends Group) - board honorary secretary
 * Colin Rockall (Friends of Lavenham Library)
 * Suffolk Libraries Chief Executive, Alison Wheeler (_ex officio_)
+* Sue Buck (Friends of Long Melford Library) - co-opted
 * Sarah Wilson (Friends of Capel St Mary Library) - co-opted
 
 [Suffolk Libraries board member photos](/assets/zip/suffolk-libraries-IPS-board-members-photos.zip) (ZIP file, 2.5MB)
@@ -68,6 +69,14 @@ Alison has worked at regional and national levels to develop partnerships and pr
 Most recently Alison spent four years working in Adult Social Care as head of Information and Advice.
 
 Alison’s other passions are reading, swimming, dancing and Ipswich Town Football Club. She's also a school governor and is on the Eastern Angles board.
+
+### Sue Buck
+
+Sue is secretary of the Friends of Long Melford Library, and has been energetic, enthusiastic and successful in establishing the group and raising its profile through events.
+
+She is very active in her local community, fundraising for organisations including the Children's Society, St Nicholas Hospice and her church, where she also served as an officer on the church Council for many years.
+
+Now retired, Sue worked for many years as a self-employed barrister. She also served as deputy treasurer of her chambers for 11 years and as a staff liaison officer for 13 years.
 
 ### Sarah Wilson
 
