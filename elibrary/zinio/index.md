@@ -15,7 +15,7 @@ breadcrumb: elibrary
 
 </div>
 
-RBdigital allows you to download PDF files of magazines for an unlimited time. This service is available through a web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer. A read-only app called RBdigital is also available for iOS, Android and Kindle.
+RBdigital allows you to download PDF files of magazines for an unlimited time. This service is available through a web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer. An app called RBdigital is also available for iOS, Android and Kindle.
 
 ## Setting up your device to download digital magazines with RBdigital
 
@@ -39,9 +39,11 @@ RBdigital allows you to download PDF files of magazines for an unlimited time. T
 
 #### Amazon Kindle Fire
 
+**Please continue to use the Zinio app on Kindle Fire for now**
+
 On an Amazon Kindle Fire you will need to download the Zinio app directly from their website rather than from the Kindle store.
 
-[Download the 3M Cloud Library app for Kindle Fire](http://imgs.zinio.com/faq/kindlefire.html#installation).
+[Download the Zinio app for Kindle Fire](http://imgs.zinio.com/faq/kindlefire.html#installation).
 
 Once you have downloaded the app, follow the steps from step 5 above.
 
@@ -56,7 +58,7 @@ Once you have downloaded the app, follow the steps from step 5 above.
 
 ### On a tablet or smartphone
 
-1. Press the three horizontal lines on the top left-hand side of the app and select 'Magazines'. Alternatively, if you are on the 'checked out' page of the app, you can press 'Explore' on the top right-hand side
+1. Press the three horizontal lines on the top left-hand side of the app and select 'Magazines'. Alternatively, if you are looking at the 'Checked Out' screen, you can press 'Explore' on the top right-hand side
 2. Select the magazine you want and press 'Checkout'. You have the option to receive email notifications when the next issue of the magazine becomes available
 3. Press the 'Read' button underneath the magazine's picture to view it
 4. To view all of your magazines, press the three horizontal lines on the top left-hand side of the app and select 'Checked Out'.
