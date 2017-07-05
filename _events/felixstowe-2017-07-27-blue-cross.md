@@ -6,7 +6,7 @@ location-text: Felixstowe Library
 event-start-date: 2017-07-27
 event-start-time: 1430
 event-ticket-price: free
-event-category: src
+event-category: summer-holidays
 breadcrumb: y
 ---
 

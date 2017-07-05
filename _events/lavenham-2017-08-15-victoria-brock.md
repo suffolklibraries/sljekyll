@@ -5,6 +5,7 @@ location: lavenham-library
 location-text: Lavenham Library
 event-start-date: 2017-08-15
 event-start-time: 1400
+event-category: summer-holidays
 breadcrumb: y
 ---
 

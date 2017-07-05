@@ -6,6 +6,7 @@ location-text: Haverhill Library
 event-start-date: 2017-07-27
 event-start-time: 1800
 event-end-time: 1830
+event-category: summer-holidays
 breadcrumb: y
 ---
 

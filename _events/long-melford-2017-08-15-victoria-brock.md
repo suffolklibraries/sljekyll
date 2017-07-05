@@ -5,6 +5,7 @@ location: long-melford-library
 location-text: Long Melford Library
 event-start-date: 2017-08-15
 event-start-time: 1600
+event-category: summer-holidays
 breadcrumb: y
 ---
 

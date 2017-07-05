@@ -6,7 +6,7 @@ location-text: Chantry Library
 event-start-date: 2017-07-28
 event-start-time: 1100
 event-end-time: 1300
-event-category: src
+event-category: summer-holidays
 breadcrumb: y
 ---
 

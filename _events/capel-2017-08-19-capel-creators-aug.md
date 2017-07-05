@@ -6,6 +6,7 @@ location-text: Capel St Mary Library
 event-start-date: 2017-08-19
 event-start-time: 1030
 event-end-time: 1230
+event-category: summer-holidays
 breadcrumb: y
 ---
 
