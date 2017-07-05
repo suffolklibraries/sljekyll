@@ -6,6 +6,13 @@ hero-alt: A Suffolk Writes eBook on an eReader
 hero-caption: A Suffolk Writes eBook on an eReader
 breadcrumb: events
 ---
+
+<div class="{% include /c/generic-panel.html %}">
+
+  <p><a href="/news/suffolk-libraries-celebrates-suffolk-day/">Enter our Suffolk-themed writing competition for the chance to be published in a special Suffolk Writes eBook compilation</a></p>
+
+</div>
+
 Suffolk Writes is a project giving you the opportunity to make your written work available to Suffolk Libraries customers to borrow.
 
 If you have written a novel, short story or poetry and you want people to read it then this is the project for you!
