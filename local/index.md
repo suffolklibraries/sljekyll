@@ -58,8 +58,18 @@ breadcrumb: home
 
 		<h2>Suffolk Libraries Local in Moreton Hall</h2>
 
-		<p>Our Moreton Hall branch launches at Moreton Hall Youth Centre on Tuesday 16 May 2017. Please visit the <a href="/libraries/moreton-hall/">Moreton Hall (Suffolk Libraries Local) library page</a> for more information.</p>
+		<p>Our Moreton Hall branch began at Moreton Hall Youth Centre on Tuesday 16 May 2017. Please visit the <a href="/libraries/moreton-hall/">Moreton Hall (Suffolk Libraries Local) library page</a> for more information.</p>
 
 		<p><a href="/mobiles-home/bury-st-edmunds-mobile-library-route-17/">Bury St Edmunds Mobile Library Route 17</a> continues to serve various stops in Moreton Hall every fourth Tuesday.</p>
+
+</div>
+
+<div>
+
+		<h2>Suffolk Libraries Local in Bildeston</h2>
+
+		<p>Our Bildeston branch launches at the Chamberlin Hall on Wednesday 2 August 2017. <strong>This branch will only be operating during the month of August.</strong> Please visit the <a href="/libraries/bildeston/">Bildeston (Suffolk Libraries Local) library page</a> for more information.</p>
+
+		<p><a href="/mobiles-home/ipswich-mobile-library-route-6/">Ipswich Mobile Library Route 6</a> continues to serve various stops in Bildeston every fourth Wednesday.</p>
 
 </div>
