@@ -9,7 +9,7 @@ breadcrumb: events
 
 <div class="{% include /c/generic-panel.html %}">
 
-  <p><a href="/news/suffolk-libraries-celebrates-suffolk-day/">Enter our Suffolk-themed writing competition for the chance to be published in a special Suffolk Writes eBook compilation</a></p>
+  <p><a class="blue" href="/events-activities/suffolk-writes/suffolk-day-competition/">Enter our Suffolk-themed writing competition for the chance to be published in a special Suffolk Writes eBook compilation</a></p>
 
 </div>
 
