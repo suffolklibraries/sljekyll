@@ -6,7 +6,7 @@ author: alice-violett
 category: health-lists
 excerpt: Are you interested in health or medicine, or simply looking for something new and different to read? The 2017 Wellcome Prize longlist features fiction and non-fiction titles across several genres.
 featured-image: /images/featured/featured-wellcome-longlist-2017.jpg
-featured-alt: /images/featured/featured-wellcome-longlist-2017.jpg
+featured-alt: Books from the Wellcome Longlist 2017
 breadcrumb: health
 sidebar: health
 ---
