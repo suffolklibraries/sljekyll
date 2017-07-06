@@ -15,7 +15,7 @@ breadcrumb: elibrary
 
 </div>
 
-RBdigital allows you to download PDF files of magazines for an unlimited time. This service is available through a web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer. An app called RBdigital is also available for iOS, Android and Kindle.
+RBdigital allows you to download PDF files of magazines for an unlimited time. This service is available through a web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer. An app called RBdigital is available for Android and a read-only app called Zinio for Libraries is available for iOS and Amazon Kindle Fire.
 
 ## Setting up your device to download digital magazines with RBdigital
 
@@ -26,7 +26,7 @@ RBdigital allows you to download PDF files of magazines for an unlimited time. T
 3. Register an account with your name, email and a password and click ‘Create Account’
 4. Suffolk Libraries' RBdigital service will now be available to use.
 
-### On a tablet or smartphone
+### On an Android tablet or smartphone
 
 1. Set up your account on a web browser by following the instructions above
 2. Open the App or Play store on your device
@@ -37,9 +37,19 @@ RBdigital allows you to download PDF files of magazines for an unlimited time. T
 7. Enter your password
 8. This service will now be available to use.
 
-#### Amazon Kindle Fire
+### On an Apple tablet or smartphone
 
-**Please continue to use the Zinio app on Kindle Fire for now**
+1. Set up your account on a web browser by following the instructions above
+2. Open the store on your device
+3. Search for ‘Zinio for Libraries’ and click the ‘Zinio for Libraries’ app
+4. Download and install the app
+5. When the download is complete, click ‘Open’
+6. When the app opens, press 'Log In'
+7. A browser window will open. Put your username into the 'Enter Login' box and press 'Next'
+8. Put your password into the 'Enter password / PIN' box and press 'Log In'
+9. This service will now be available to use.
+
+### On an Amazon Kindle Fire tablet
 
 On an Amazon Kindle Fire you will need to download the Zinio app directly from their website rather than from the Kindle store.
 
@@ -56,11 +66,17 @@ Once you have downloaded the app, follow the steps from step 5 above.
 3. Click the button ‘Start reading’ to view the magazine
 4. To view all of your magazines, click the ‘My Collection’ link in the top right hand corner of the home page.
 
-### On a tablet or smartphone
+### On the RBdigital app for Android
 
 1. Press the three horizontal lines on the top left-hand side of the app and select 'Magazines'. Alternatively, if you are looking at the 'Checked Out' screen, you can press 'Explore' on the top right-hand side
 2. Select the magazine you want and press 'Checkout'. You have the option to receive email notifications when the next issue of the magazine becomes available
 3. Press the 'Read' button underneath the magazine's picture to view it
 4. To view all of your magazines, press the three horizontal lines on the top left-hand side of the app and select 'Checked Out'.
 
+### On the Zinio for Libraries app for iOS and Amazon Kindle Fire
+
+NB. Zinio for Libraries only offers the functionality to read the magazines you have downloaded. You will need to use a browser to choose your magazines.
+
+1. Follow steps 1 and 2 from the 'downloading digital magazines with RBdigital on a computer' in a browser.
+2. The titles you have selected should now show on the main page of the Zinio for Libraries app.
 [RBdigital help page →](http://www.rbdigital.com/Suffolk/help)
