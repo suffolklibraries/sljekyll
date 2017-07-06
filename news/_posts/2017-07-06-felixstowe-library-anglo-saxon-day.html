@@ -1,0 +1,34 @@
+---
+layout: sidebar-right
+title: "Felixstowe Library to entertain adults and children with an Anglo-Saxon Day"
+date: 2017-07-06
+author: alice-violett
+category: news
+excerpt: "Felixstowe Library are holding a special Anglo-Saxon Day on Thursday 3 August. Adults and children have the opportunity to learn about the early Middle Ages with a programme of talks and activities."
+breadcrumb: news
+---
+
+<p>Felixstowe Library are holding a special Anglo-Saxon Day on Thursday 3 August. Adults and children have the opportunity to learn about the early Middle Ages with a programme of talks and activities.</p>
+
+<p>There are five sessions, all of which are free apart from the 2:15pm Animals and Beasticles activity session for children, which costs £2 per child. All sessions must be booked in advance at the library.</p>
+
+<p>See below for the day's programme.</p>
+
+{% assign anglo-saxon-day-events = (site.events | where: "event-category", "anglo-saxon-day" | sort: "event-start-time" ) %}
+
+{% for event in anglo-saxon-day-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span>
+
+        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+        </p>
+
+    </article>
+
+{% endfor %}
