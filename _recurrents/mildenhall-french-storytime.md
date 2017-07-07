@@ -1,5 +1,5 @@
 ---
-recurrent-title: "French storytime with Gaelle"
+recurrent-title: "French storytime with Gaelle - no session in August, recommences Saturday 2 September"
 recurrent-day: first Saturday of the month
 recurrent-times: 1030-1100
 recurrent-location: mildenhall-library
