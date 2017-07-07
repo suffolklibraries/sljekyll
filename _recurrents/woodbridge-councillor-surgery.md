@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Councillor surgery with Caroline Page"
+recurrent-title: "Councillor surgery with Caroline Page - no session in August"
 recurrent-day: third Saturday of the month
 recurrent-times: 0900-1100
 recurrent-location: woodbridge-library
