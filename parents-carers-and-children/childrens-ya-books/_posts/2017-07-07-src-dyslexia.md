@@ -13,7 +13,7 @@ breadcrumb: childrens-ya-books
 
 ![The Mystery of Me, The Ghost in the Bath, Free Lance and the Lake of Skulls](/images/featured/featured-src-dyslexia.jpg)
 
-Children with dyslexia needn't worry that the Summer Reading Challenge is not for them. We've got a selection of the newest dyslexic-friendly books for various ages and interests. These books, from [Barrington Stoke](https://www.barringtonstoke.co.uk/), are printed on thick cream-coloured paper with a matt surface and feature a specially-created typeface, wider gaps between lines and paragraphs and clear punctuation.
+Children with dyslexia needn't worry that the [Summer Reading Challenge](/src) is not for them. We've got a selection of the newest dyslexic-friendly books for various ages and interests. These books, from [Barrington Stoke](https://www.barringtonstoke.co.uk/), are printed on thick cream-coloured paper with a matt surface and feature a specially-created typeface, wider gaps between lines and paragraphs and clear punctuation.
 
 For more information and advice on dyslexia and Irlen syndrome, visit [our dyslexia and Irlen syndrome page](/parents-carers-and-children/dyslexia-irlen/).
 
