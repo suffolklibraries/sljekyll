@@ -17,7 +17,7 @@ breadcrumb: music
 
 The album was co-produced by Thomas Bangalter of Daft Punk, Pulp bassist Steve Mackey, and Markus Dravs, who has co-produced Arcade Fire's past three albums, so it looks to have a good pedigree. First single <cite>Everything Now</cite> has already been released and the band have been out and about promoting the album at the Isle of Wight Festival, Edinburgh and er... Scunthorpe.
 
-## [Public Serving Broadcasting - <cite>Every Valley</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2186283)
+## [Public Service Broadcasting - <cite>Every Valley</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2186283)
 
 On a slightly smaller scale PSB return with a third album. <cite>Every Valley</cite> was inspired by the traditions surrounding British coal mining. It concentrates on abandoned and neglected communities across the western world, and the politics that have arisen as a result.
 
