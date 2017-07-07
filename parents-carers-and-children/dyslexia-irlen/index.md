@@ -71,17 +71,16 @@ If your child has Irlen syndrome, placing a simple coloured overlay across the p
 
 ## Tips for searching our catalogue
 
-1. Visit [our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH)
-2. Click on [Advanced Search](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/COMB)
+Visit [our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH)
 
 ### Search for everything we have about dyslexia
 
-1. In _Advanced Catalogue Search_ click on any of drop down menu buttons e.g. title
+1. In _Quick Search_ click on the drop-down menu to the left of the search box
 2. Select _Subject_, type ‘dyslexia’ then press _OK_
 
 ### Search for books suitable for children, teens and adults with dyslexia
 
-1. In _Advanced Catalogue Search_ click on any of drop down menu buttons e.g. title
+1. In _Quick Search_ click on the drop-down menu to the left of the search box
 2. Select _Publisher_, type ‘Barrington Stoke’ then press OK
 
 ### To filter the search results
