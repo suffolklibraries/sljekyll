@@ -7,6 +7,8 @@ event-start-date: 2017-08-15
 event-start-time: 1800
 event-end-time: 1830
 event-category: summer-holidays
+event-image: /images/featured/featured-bedtime-storytime.jpg
+event-image-alt: Bedtime Storytime logo
 breadcrumb: y
 ---
 

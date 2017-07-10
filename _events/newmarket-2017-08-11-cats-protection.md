@@ -7,6 +7,8 @@ event-start-date: 2017-08-11
 event-start-time: 1100
 event-ticket-price: free
 event-category: summer-holidays
+event-image: /images/featured/featured-cats-protection.jpg
+event-image-alt: Cats Protection logo
 breadcrumb: y
 ---
 

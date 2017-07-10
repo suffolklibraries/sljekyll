@@ -7,7 +7,21 @@ sidebar: summer-reading-challenge
 
 <div class="{% include /c/generic-panel.html %}">
 
-<p><a href="/events-activities/summer-holidays/summer-reading-challenge/summer-reading-challenge-volunteer-application-form/">Sign up to be a Summer Reading Challenge volunteer &rarr;</a></p>
+    <div class="cf">
+
+        <div class="custom-g-l3">
+
+            <p>Check with your <a href="/libraries">local library</a> for Summer Reading Challenge session times.</p>
+
+        </div>
+
+        <div class="custom-g-l3 custom-g-nm">
+
+            <p><a href="/events-activities/summer-holidays/summer-reading-challenge/summer-reading-challenge-volunteer-application-form/">Sign up to be a Summer Reading Challenge volunteer &rarr;</a></p>
+
+        </div>
+
+    </div>
 
 </div>
 

@@ -6,6 +6,8 @@ location-text: Long Melford Library
 event-start-date: 2017-08-15
 event-start-time: 1600
 event-category: summer-holidays
+event-image: /images/featured/featured-victoria-brock.jpg
+event-image-alt: Simon the Snake by Victoria Brock
 breadcrumb: y
 ---
 

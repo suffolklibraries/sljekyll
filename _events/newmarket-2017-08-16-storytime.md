@@ -8,6 +8,8 @@ event-start-time: 1030
 event-end-time: 1130
 event-ticket-price: 1
 event-category: summer-holidays
+event-image: /images/featured/featured-newmarket-storytime.jpg
+event-image-alt: A book with butterflies and daisies
 breadcrumb: y
 ---
 

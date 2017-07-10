@@ -7,6 +7,8 @@ event-start-date: 2017-07-31
 event-start-time: 1430
 event-end-time: 1630
 event-category: summer-holidays
+event-image: /images/featured/featured-mr-bean.jpg
+event-image-alt: Mr Bean logo
 breadcrumb: y
 ---
 

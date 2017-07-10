@@ -7,6 +7,8 @@ event-start-date: 2017-07-23
 event-start-time: 1000
 event-end-time: 1600
 event-category: summer-holidays
+event-image: /images/featured/featured-src-collage.jpg
+event-image-alt: Animal Agents characters
 breadcrumb: y
 ---
 

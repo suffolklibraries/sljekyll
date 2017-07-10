@@ -8,6 +8,8 @@ event-start-time: 1000
 event-end-time: 1200
 event-ticket-price: free
 event-category: summer-holidays
+event-image: /images/featured/featured-src-collage.jpg
+event-image-alt: Animal Agents characters
 breadcrumb: y
 ---
 

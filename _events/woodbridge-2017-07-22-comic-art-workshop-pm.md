@@ -9,6 +9,8 @@ event-end-time: 1530
 event-ticket-price: 20 + £1.83 booking fee
 event-ticket-url: https://www.eventbrite.com/e/kev-f-comic-book-masterclass-tickets-35398991336?aff=es2
 event-category: summer-holidays
+event-image: /images/featured/featured-kev-f-740.jpg
+event-image-alt: Comic Art Masterclass logo
 breadcrumb: y
 ---
 
