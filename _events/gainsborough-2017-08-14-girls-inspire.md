@@ -12,6 +12,6 @@ event-ticket-price: 0.50p
 breadcrumb: y
 ---
 
-Girls aged 8+ are invited to book in advance at the library for a sports session at Inspire.
+Girls aged 8+ are invited for a sports session at Inspire leaving from the library.
 
-No need to be a member of our Girls' Group already - come along!
+Advance booking essential. No need to be a member of our Girls' Group already - come along!
