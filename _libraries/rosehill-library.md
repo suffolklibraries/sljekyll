@@ -1,7 +1,7 @@
 ---
 branch-unique-id: rosehill-library
 branch-name: Rosehill Library
-branch-image: /images/branches/rosehill-library.jpg
+branch-image: /images/branches/rosehill-library-2.jpg
 branch-monday-hours: Closed
 branch-tuesday-hours:	0930 – 1700
 branch-wednesday-hours: 0930 – 1700
