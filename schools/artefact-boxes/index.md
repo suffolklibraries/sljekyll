@@ -1,14 +1,12 @@
 ---
 layout: full-width-narrow
-title: Artefact loan
+title: Artefact boxes
 breadcrumb: schools
 hnav: lbarts
 ---
-Complete this form to request an artefact loan from the Literacy, Books and Reading Team for Schools (LBRTS). Your request must reach us not later than two weeks before the end of term.
+Complete this form to request artefact boxes from the Literacy, Books and Reading Team for Schools (LBRTS). Your request must reach us not later than two weeks before the end of term.
 
-[See a list of artefact boxes.](/schools/curriculum-support/artefact-box-list/)
-
-The loan consists of a box of up to 8 related/themed artefacts to support curriculum topics. Each box has a half-termly loan period.
+The loan consists of a box of up to 8 related/themed artefacts to support curriculum topics. Each box is loaned for a term.
 
 [Contact your local Literacy, Books and Reading Team for Schools office for more help.](/schools/contact/)
 

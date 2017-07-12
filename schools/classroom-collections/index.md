@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: Reading for pleasure loan
+title: Classroom collection loan
 breadcrumb: schools
 hnav: lbarts
 ---
