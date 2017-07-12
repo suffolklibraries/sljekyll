@@ -13,7 +13,7 @@
 
 	
 
-    	<title>Reading for pleasure loan &#8211; Suffolk Libraries</title>
+    	<title>Topic boxes &#8211; Suffolk Libraries</title>
 
 	
 
@@ -151,7 +151,7 @@
 
         <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
 
-            <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/schools/">Schools</a> &rarr; Reading for pleasure loan</p>
+            <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/schools/">Schools</a> &rarr; Topic boxes</p>
 
         </div>
 
@@ -163,36 +163,65 @@
             <div class="custom-narrow-width">
 
                 <h1 class="custom-lh-title f2 pa0 ma0 mb3
-">Reading for pleasure loan</h1>
+">Topic boxes</h1>
 
                 <div class="lh-copy custom-hyphens custom-prose
 ">
 
-                    <form class="pure-form pure-form-stacked" netlify="" name="reading-for-pleasure-loan" action="/schools/reading-for-pleasure-loan/confirmation">
+                    <p>Complete this form to request a topic box loan from the Literacy, Books and Reading Team for Schools (LBRTS). Your request must reach us not later than two weeks before the end of term.</p>
+
+<p><a href="/schools/contact/">Contact your local Literacy, Books and Reading Team for Schools office for more help.</a></p>
+
+<form class="pure-form pure-form-stacked" netlify="" name="curriculum-topic-loan" action="/schools/curriculum-topic-loan/confirmation">
 
     <fieldset>
 
-        <label>Your name</label>
-        <input type="text" name="name" />
+        <h1>Contact details</h1>
 
-        <label>Your school</label>
-        <input type="text" name="school" />
+        <label>School name <span class="red">*</span></label>
+        <input type="text" required="" name="school-name" />
 
-        <label>Email address</label>
-        <input type="email" name="email" />
+        <label>Teacher requesting topic box <span class="red">*</span></label>
+        <input type="text" required="" name="teacher-name" />
 
-        <label>Class name(s)</label>
-        <input type="text" name="class-name" />
+        <label>Email address <span class="red">*</span></label>
+        <input type="email" required="" name="email" />
 
-        <label>Year group(s)</label>
+        <h1>Group details</h1>
+
+        <label>Year group</label>
         <input type="text" name="year-group" />
 
-        <label>Class reading ability</label>
-        <input type="text" name="class-reading-ability" />
+        <label>Group reading ability</label>
+        <input type="text" name="group-reading-ability" />
 
-        <h1>Your specific requirements</h1>
+        <h1>Term required</h1>
 
-        <label>Enter specific details of your requirements here (e.g. authors / series / genre and/or a focus on a particular set of needs, such as more able readers, or SEN children, or EAL children)</label>
+        <label><input type="radio" name="term" value="autumn" /> Autumn</label>
+        <label><input type="radio" name="term" value="spring" /> Spring</label>
+        <label><input type="radio" name="term" value="summer" /> Summer</label>
+
+        <h1>Subjects required</h1>
+
+        <p>Choose subject(s) or give details of “other” below</p>
+
+        <label><input type="checkbox" id="subjects" name="subject1" value="art" /> Art and design</label>
+        <label><input type="checkbox" id="subjects" name="subject2" value="citizenship" /> Citizenship</label>
+        <label><input type="checkbox" id="subjects" name="subject3" value="design" /> Design and technology</label>
+        <label><input type="checkbox" id="subjects" name="subject4" value="geography" /> Geography</label>
+        <label><input type="checkbox" id="subjects" name="subject5" value="history" /> History</label>
+        <label><input type="checkbox" id="subjects" name="subject6" value="ict" /> ICT</label>
+        <label><input type="checkbox" id="subjects" name="subject7" value="literacy" /> Literacy</label>
+        <label><input type="checkbox" id="subjects" name="subject8" value="mathematics" /> Mathematics</label>
+        <label><input type="checkbox" id="subjects" name="subject9" value="mfl" /> MFL</label>
+        <label><input type="checkbox" id="subjects" name="subject10" value="music" /> Music</label>
+        <label><input type="checkbox" id="subjects" name="subject11" value="re" /> RE</label>
+        <label><input type="checkbox" id="subjects" name="subject12" value="science" /> Science</label>
+        <label><input type="checkbox" id="subjects" name="subject13" value="other" /> Other</label>
+
+        <h1>Requirements</h1>
+
+        <label>Enter specific details of your requirements here</label>
         <textarea name="message" class="border-box w-100"></textarea>
 
         <p class="dn"><input name="bot-field" /></p>

@@ -13,7 +13,7 @@
 
 	
 
-    	<title>Artefact loan &#8211; Suffolk Libraries</title>
+    	<title>Classroom collection loan &#8211; Suffolk Libraries</title>
 
 	
 
@@ -151,7 +151,7 @@
 
         <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
 
-            <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/schools/">Schools</a> &rarr; Artefact loan</p>
+            <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/schools/">Schools</a> &rarr; Classroom collection loan</p>
 
         </div>
 
@@ -163,51 +163,36 @@
             <div class="custom-narrow-width">
 
                 <h1 class="custom-lh-title f2 pa0 ma0 mb3
-">Artefact loan</h1>
+">Classroom collection loan</h1>
 
                 <div class="lh-copy custom-hyphens custom-prose
 ">
 
-                    <p>Complete this form to request an artefact loan from the Literacy, Books and Reading Team for Schools (LBRTS). Your request must reach us not later than two weeks before the end of term.</p>
-
-<p><a href="/schools/curriculum-support/artefact-box-list/">See a list of artefact boxes.</a></p>
-
-<p>The loan consists of a box of up to 8 related/themed artefacts to support curriculum topics. Each box has a half-termly loan period.</p>
-
-<p><a href="/schools/contact/">Contact your local Literacy, Books and Reading Team for Schools office for more help.</a></p>
-
-<form class="pure-form pure-form-stacked" netlify="" name="artefact-loan" action="/schools/artefact-loan/confirmation/">
+                    <form class="pure-form pure-form-stacked" netlify="" name="reading-for-pleasure-loan" action="/schools/reading-for-pleasure-loan/confirmation">
 
     <fieldset>
 
-        <h1>Contact details</h1>
+        <label>Your name</label>
+        <input type="text" name="name" />
 
-        <label>School name</label>
-        <input type="text" name="school-name" />
-
-        <label>Teacher requesting topic box</label>
-        <input type="text" name="teacher-name" />
+        <label>Your school</label>
+        <input type="text" name="school" />
 
         <label>Email address</label>
         <input type="email" name="email" />
 
-        <h1>Group details</h1>
+        <label>Class name(s)</label>
+        <input type="text" name="class-name" />
 
-        <label>Year group</label>
+        <label>Year group(s)</label>
         <input type="text" name="year-group" />
 
-        <label>Group reading ability</label>
-        <input type="text" name="group-reading-ability" />
+        <label>Class reading ability</label>
+        <input type="text" name="class-reading-ability" />
 
-        <h1>Term required</h1>
+        <h1>Your specific requirements</h1>
 
-        <label><input type="radio" name="term" value="autumn" /> Autumn</label>
-        <label><input type="radio" name="term" value="spring" /> Spring</label>
-        <label><input type="radio" name="term" value="summer" /> Summer</label>
-
-        <h1>Requirements</h1>
-
-        <label>Tell us which artefact boxes you need</label>
+        <label>Enter specific details of your requirements here (e.g. authors / series / genre and/or a focus on a particular set of needs, such as more able readers, or SEN children, or EAL children)</label>
         <textarea name="message" class="border-box w-100"></textarea>
 
         <p class="dn"><input name="bot-field" /></p>
