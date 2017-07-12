@@ -3,11 +3,11 @@ id: ixworth-michelangelo
 name: "Suffolk Libraries Presents: Exhibition on Screen: <cite>Michelangelo: Love and Death</cite>"
 location: ixworth-library
 location-text: Ixworth Library
-excerpt: "Go to the heart of just who this tempestuous, passionate but much-loved genius was."
+excerpt: "We're sorry this event has been cancelled."
 event-start-date: 2017-07-16
 event-doors-open: 1330
 event-start-time: 1400
-event-ticket-price: 7.50 (adults)
+event-ticket-price: ' <span class="pa2 bg-red white">Cancelled</span>'
 event-image-small: featured/featured-presents-michelangelo.jpg
 event-category: presents
 breadcrumb: y
