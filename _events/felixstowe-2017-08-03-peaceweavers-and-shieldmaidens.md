@@ -7,7 +7,7 @@ event-start-date: 2017-08-03
 event-start-time: 1000
 breadcrumb: y
 event-ticket-price: free
-event-category: anglo-saxon-day
+event-tag: anglo-saxon-day
 ---
 
 A talk on the role of women in Anglo-Saxon society from Julie Wheeler BA (Hons) MA.

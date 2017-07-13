@@ -7,7 +7,10 @@ event-start-date: 2017-08-03
 event-start-time: 1300
 breadcrumb: y
 event-ticket-price: free
-event-category: anglo-saxon-day
+event-category: summer-holidays
+event-tag: anglo-saxon-day
+event-image: /images/featured/featured-sutton-hoo.jpg
+event-image-alt: A replica mask from Sutton Hoo
 ---
 
 Handle and learn all about mysterious Anglo-Saxon items with Sutton Hoo learning office Rebecca Harpur.

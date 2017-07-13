@@ -23,7 +23,7 @@ Just in case you somehow missed it, this ‘explosive’ biography tells Camilla
 
 This is a fascinating book. Most people on social media present a highly curated version of themselves designed to show them in the best light. In Google searches, however, people reveal their secrets with no filters - about sexless marriages, mental health problems, even racist views. This is of course a massive piece of Big Data but it could in time allow us to understand better how humans think.
 
-## [<cite>The Women who Flew for Hitler: the true story of Hitler's Valkyries</cite>, by Clare Mulley](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2166660)
+## [<cite>The Women Who Flew for Hitler: the true story of Hitler's Valkyries</cite>, by Clare Mulley](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2166660)
 
 > "Hanna Reitsch and Melitta von Stauffenberg were strikingly attractive, courageous, ambitious women who fought convention to make their names in the male-dominated field of flight - both were pioneering test pilots and both were awarded the Iron Cross for service to the Third Reich. But they could not have been more different and neither woman had a good word to say for the other. Hanna was middle-class and distinctly Aryan, while Melitta, though from an aristocratic Prussian family, was part-Jewish, and while Hanna tried to save Hitler's life, begging him to let her fly him to safety in April 1945, Melitta covertly supported the most famous assassination attempt on the Fuehrer.
 

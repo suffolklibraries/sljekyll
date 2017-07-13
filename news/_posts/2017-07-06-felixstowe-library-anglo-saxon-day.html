@@ -14,7 +14,7 @@ breadcrumb: news
 
 <p>See below for the day's programme.</p>
 
-{% assign anglo-saxon-day-events = (site.events | where: "event-category", "anglo-saxon-day" | sort: "event-start-time" ) %}
+{% assign anglo-saxon-day-events = (site.events | where: "event-tag", "anglo-saxon-day" | sort: "event-start-time" ) %}
 
 {% for event in anglo-saxon-day-events %}
 

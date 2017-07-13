@@ -7,7 +7,7 @@ event-start-date: 2017-08-03
 event-start-time: 1600
 breadcrumb: y
 event-ticket-price: free
-event-category: anglo-saxon-day
+event-tag: anglo-saxon-day
 ---
 
 Hear author Pauline Moore talk about the inspiration behind her historical novels <cite>Storm Frost</cite> and <cite>Brightfire</cite>, featuring members of the royal family buried at Sutton Hoo and their poetry, place and culture.
