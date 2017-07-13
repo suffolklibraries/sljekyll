@@ -1,6 +1,6 @@
 ---
 id: southwold-sale
-name: "Friends of Southwold Library craft sale"
+name: "Friends of Southwold Library craft sale at the Scout Hall"
 location: southwold-library
 location-text: Southwold Library
 event-alt-location: Scout Hall, Mights Road, Southwold, IP18 6BE
