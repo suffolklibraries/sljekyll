@@ -1,0 +1,47 @@
+---
+layout: default
+title: Summer holiday activities
+breadcrumb: summer
+---
+
+<h1 class="{% include /c/page-title.html %} tc">Summer holiday activities</h1>
+
+<p>You can also find events on <a class="blue" href="/libraries/">individual libraries' pages</a> or check out our <a class="blue" href="/events-activities/presents/">Suffolk Libraries Presents</a> screenings.</p>
+
+<div class="custom-flex-container">
+
+    {% assign summer_holiday_events = (site.events | where: "event-category", "summer-holidays" | sort: "event-start-date" ) %}
+
+    {% for event in summer_holiday_events %}
+
+    {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+
+    {% if event.event-end-date %}
+
+        {% capture event-time-seconds %}{{event.event-end-date | date: '%s' }}{% endcapture %}
+
+    {% else %}
+
+        {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+
+    {% endif %}
+
+    {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+
+    {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+
+    {% if now-unix <= event-time %}
+
+        <article class="custom-flex-row pv2 bt b--light-gray">
+
+        <p class ="f5 ma0">{{ event.event-start-date | date: "%a %-d %b" }}, {{ event.event-start-time }}<br><a class="blue" href="/libraries/{{ event.location}}"><strong>{{ event.location-text}}</a></strong><br><a class="white custom-no-underline" href="{{ event.url }}"><img src="{{ event.event-image }}" class="custom-constrain-img" alt="{{ event.event-image-alt }}"></a></p>
+
+        <p class="f5 ma0 {% include /c/block-graf.html %}"><a class="blue" href="{{ event.url }}" class="blue">{{ event.name }}</a></p>
+
+        </article>
+
+    {% endif %}
+
+    {% endfor %}
+
+</div>

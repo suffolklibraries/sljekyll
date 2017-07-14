@@ -17,6 +17,7 @@ branch-friends: Aldeburgh Library Foundation
 branch-friends-url: /about/member-organisations/aldeburgh-library-foundation/
 branch-social-media: y
 branch-facebook: aldeburghlibrary
+branch-twitter: aldeburghlib
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/aldeburgh-library-2
 branch-payments: 'cash and cheques accepted. Call <a href="tel:01473351249">01473 351249</a> for card payments.'
 branch-parking: free parking available nearby

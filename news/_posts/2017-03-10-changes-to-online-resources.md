@@ -2,7 +2,7 @@
 layout: sidebar-right
 title: Changes to online resources
 date: 2017-03-10
-author: james-powell
+author: suffolk-libraries
 category: news
 excerpt: 'Due to reductions in Suffolk Libraries’ stock budget, we reviewed our online and physical reference stock in 2016 and made a number of changes. This has included cancelling some of our online subscriptions.'
 breadcrumb: news
