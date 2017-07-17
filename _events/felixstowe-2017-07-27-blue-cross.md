@@ -14,4 +14,4 @@ breadcrumb: y
 
 Children are invited to learn about pet care as part of our Summer Reading Challenge programme.
 
-Please book in advance by contacting the library.
+No need to book.

@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Reading group: contact Lorraine or Donna in the library"
+recurrent-title: "Reading group: contact Donna in the library"
 recurrent-day: first Wednesday of the month
 recurrent-times: 1930-2030
 recurrent-location: needham-market-library
