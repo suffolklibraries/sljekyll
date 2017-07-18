@@ -105,7 +105,7 @@ Started by Mal Peet and finished by Meg Rosoff following Peet's death.
 
 > "This novel is based on a true story from the Second World War. When German ship the Wilhelm Gustloff was sunk in port in early 1945 it had over 9000 civilian refugees, including children, on board. Nearly all were drowned."
 
-## [<cite>Island</cite>, by Nicky Singer</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1890561)
+## [<cite>Island</cite>, by Nicky Singer](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1890561)
 
 > "Urban teenager Cameron arrives in an uninhabited Arctic island. He's prepared for ice and storms and, stripped of his smart technology, possibly boredom. But he's not prepared for 24-hour daylight and erupting graves!
 

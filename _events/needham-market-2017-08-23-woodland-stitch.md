@@ -1,6 +1,6 @@
 ---
 id: needham-woodland-stitch
-name: "Woodland stitch and sew"
+name: "Woodland animals stitch and sew"
 location: needham-market-library
 location-text: Needham Market Library
 event-start-date: 2017-08-23
