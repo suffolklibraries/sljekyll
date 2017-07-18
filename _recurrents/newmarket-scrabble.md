@@ -1,7 +1,7 @@
 ---
 recurrent-title: "Scrabble group"
-recurrent-day: every other Friday
-recurrent-times: 1000
+recurrent-day: Wednesdays from 2 August
+recurrent-times: 1400
 recurrent-location: newmarket-library
 recurrent-location-display-name: Newmarket Library
 recurrent-location-display-url: /branches/newmarket-library/
