@@ -65,7 +65,6 @@ Subject to availability, you can borrow the iPad for up to 3 weeks. When the 3 w
 You must also:
 
   * be at least 16 years old
-  * have held a library card for at least 6 months
   * have been a library member for at least 6 months, with recent usage (in the last month) and no fines or history of lost items
   * be able to provide photo ID
 
