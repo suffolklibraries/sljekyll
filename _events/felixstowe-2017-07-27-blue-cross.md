@@ -1,6 +1,6 @@
 ---
 id: fstowe-blue-cross
-name: "Summer Reading Challenge: Learn about pet animals with the Blue Cross"
+name: "Learn about pet animals with the Blue Cross"
 location: felixstowe-library
 location-text: Felixstowe Library
 event-start-date: 2017-07-27

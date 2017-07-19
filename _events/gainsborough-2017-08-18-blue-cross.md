@@ -1,6 +1,6 @@
 ---
 id: gainsborough-blue-cross
-name: "Summer Reading Challenge: Learn about pet animals and make some animal crafts with the Blue Cross"
+name: "Learn about pet animals and make some animal crafts with the Blue Cross"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2017-08-18

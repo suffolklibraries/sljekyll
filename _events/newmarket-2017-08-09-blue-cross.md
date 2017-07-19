@@ -1,6 +1,6 @@
 ---
 id: newm-blue-cross
-name: "Summer Reading Challenge: Learn about pet animals with the Blue Cross"
+name: "Learn about pet animals with the Blue Cross"
 location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2017-08-09

@@ -1,6 +1,6 @@
 ---
 id: broomhill-blue-cross
-name: "Summer Reading Challenge: Learn about pet animals with the Blue Cross"
+name: "Learn about pet animals with the Blue Cross"
 location: broomhill-library
 location-text: Broomhill Library
 event-start-date: 2017-07-29
