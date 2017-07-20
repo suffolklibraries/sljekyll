@@ -10,4 +10,4 @@ event-category: src
 breadcrumb: y
 ---
 
-Preschoolers are invited to come to the library in their pyjamas with their favourite bedtime cuddly animals for stories and fun.
+Preschoolers are invited to come to the library in their pyjamas with their favourite bedtime cuddly animals for stories and fun. Be prepared to get wet!
