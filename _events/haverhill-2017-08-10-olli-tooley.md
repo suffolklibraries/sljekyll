@@ -6,7 +6,7 @@ location-text: Haverhill Library
 event-start-date: 2017-08-10
 event-start-time: 1030
 event-end-time: 1200
-event-ticket-pruce: 2
+event-ticket-price: 2
 event-category: summer-holidays
 event-image: /images/featured/featured-for-cats-eyes-only.jpg
 event-image-alt: For Cats' Eyes Only
