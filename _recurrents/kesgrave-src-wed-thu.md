@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Summer Reading Challenge - tell a volunteer about your latest book, collect rewards and choose your next book"
+recurrent-title: "Summer Reading Challenge and free crafts - tell a volunteer about your latest book, collect rewards, choose your next book and make this week's Secret Agent craft"
 recurrent-day: Wednesdays and Thursdays
 recurrent-times: 1430-1730
 recurrent-location: kesgrave-library
