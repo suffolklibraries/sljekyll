@@ -12,4 +12,4 @@ event-image-alt: Ipswich Community Media logo
 breadcrumb: y
 ---
 
-Over-11s are invited to get creative with Ipswich Community Media.
+Over-11s are invited to get creative with radio with Ipswich Community Media.
