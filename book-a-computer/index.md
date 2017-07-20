@@ -18,7 +18,7 @@ If you don't have a card number or don't remember your PIN please contact custom
 - [Broomhill Library (formerly Westbourne)](http://netloan.suffolklibraries.co.uk/)
 - [Bungay Library](http://78.31.106.220/netloan/Login.aspx)
 - [Bury St Edmunds Library](http://netloan.suffolklibraries.co.uk/)
-- [Capel St Mary Library](http://netloan.suffolklibraries.co.uk/)
+- [Capel St Mary Library](http://78.31.106.220/netloan/Login.aspx)
 - [Chantry Library](http://78.31.106.220/netloan/Login.aspx)
 - [Clare Library](http://78.31.106.220/netloan/Login.aspx)
 - [Debenham Library](http://78.31.106.220/netloan/Login.aspx)
