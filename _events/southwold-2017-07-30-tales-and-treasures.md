@@ -8,6 +8,9 @@ event-start-date: 2017-07-30
 event-start-time: 1000
 event-end-time: 1600
 event-ticket-price: free entry
+event-category: summer-holidays
+event-image: /images/featured/featured-beachcombing-game.jpg
+event-image-alt: 2 dice and a square from a giant beachcombing board game
 breadcrumb: y
 ---
 
