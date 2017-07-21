@@ -1,0 +1,16 @@
+---
+id: framlingham-late-night
+name: "Extended opening, children's activities and refreshments for late night shopping in Framlingham"
+location: framlingham-library
+location-text: Framlingham Library
+event-start-date: 2017-12-01
+event-start-time: 1730
+event-end-time: 2100
+breadcrumb: y
+---
+
+Extended opening for late night shopping in Framlingham.
+
+At 6pm we will have a Christmas story time for children. There will also be a treasure hunt.
+
+Mulled wine, juice, mince pies, cake and chocolates available.
