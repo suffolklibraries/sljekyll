@@ -17,7 +17,7 @@ branch-friends: Friends of Stoke Library
 branch-social-media: y
 branch-facebook: stokelibrary
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/stoke-library-2
-branch-payments: 'cash and cheques accepted. Call <a href="tel:01473351249">01473 351249</a> for card payments.'
+branch-payments: 'cash and cheques accepted. Call <a class="blue" href="tel:01473351249">01473 351249</a> for card payments.'
 branch-parking: available on school site
 branch-toilet: y
 branch-wifi: y
@@ -26,5 +26,4 @@ branch-colour-printing: available
 branch-photocopying: available on printer
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: '<a href="https://t.co/SkrUO3SiPs">Help Stoke Library raise £500 to improve their children&#8217;s area and Bookstart club</a>'
 ---

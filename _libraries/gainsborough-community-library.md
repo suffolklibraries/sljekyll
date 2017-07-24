@@ -19,7 +19,7 @@ branch-friends-url: /about/member-organisations/voices-for-gainsborough-communit
 branch-social-media: y
 branch-facebook: gainsboroughlibrary
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/gainsborough-community-library-2
-branch-payments: 'cash and cheques accepted. Call <a href="tel:01473351249">01473 351249</a> for card payments.'
+branch-payments: 'cash and cheques accepted. Call <a class="blue" href="tel:01473351249">01473 351249</a> for card payments.'
 branch-parking: small car park available at rear of library
 branch-bookdrop: y
 branch-toilet: y

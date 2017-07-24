@@ -19,7 +19,7 @@ branch-social-media: y
 branch-facebook: Friends-of-Thurston-Library-1013454488771360/
 branch-twitter: thurstonlibrary
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/thurston-library-2
-branch-payments: 'cash and cheques accepted. Call <a href="tel:01473351249">01473 351249</a> for card payments.'
+branch-payments: 'cash and cheques accepted. Call <a class="blue" href="tel:01473351249">01473 351249</a> for card payments.'
 branch-parking: available
 branch-toilet: y
 branch-refreshments: available

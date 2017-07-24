@@ -17,7 +17,7 @@ branch-friends: Saxmundham Library Friends
 branch-social-media: y
 branch-facebook: Saxmundham-Library-453545194727269
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/saxmundham-library-2
-branch-payments: 'cash and cheques accepted. Call <a href="tel:01473351249">01473 351249</a> for card payments.'
+branch-payments: 'cash and cheques accepted. Call <a class="blue" href="tel:01473351249">01473 351249</a> for card payments.'
 branch-parking: 6 spaces available, one of which is reserved for disabled customers
 branch-toilet: y
 branch-wifi: y

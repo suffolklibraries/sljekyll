@@ -15,7 +15,7 @@ branch-post-code: IP13 9AJ
 branch-tel: 01728 723735
 branch-friends: Framlingham Town Council
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/framlingham-library-2
-branch-payments: 'cash and cheques accepted. Call <a href="tel:01473351249">01473 351249</a> for card payments.'
+branch-payments: 'cash and cheques accepted. Call <a class="blue" href="tel:01473351249">01473 351249</a> for card payments.'
 branch-parking: available
 branch-wifi: y
 branch-netloan: old
