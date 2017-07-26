@@ -28,5 +28,4 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/broomhill-library
 breadcrumb: y
-branch-news: 'Broomhill Library will be closed on Monday 24 July for a lighting upgrade. Call customer services on <a href="tel:01473351249">01473 351249</a> with any queries.'
 ---

@@ -18,4 +18,4 @@ You can write or draw almost anything on the band. We've come up with just a few
 * A book review
 * A love letter to the book
 
-You can read as many books and create as many belly bands as you like. We encourage you to sign up and share your creations on the [Reading Hack website](http://readinghack.org.uk/hacks/469). You'll even get a reward at the end of the summer for taking part.
+You can read as many books and create as many belly bands as you like. We encourage you to sign up and share your creations on the [ImagiNation blog](http://imaginationeast.org.uk/) if you're 12 or under and the [Reading Hack website](http://readinghack.org.uk/hacks/469) if you're 13 or over. You'll even get a reward at the end of the summer for taking part.
