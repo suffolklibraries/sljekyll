@@ -15,8 +15,6 @@ breadcrumb: childrens-ya-books
 
 Michael Bond has died at the age of 91. Generations of children have loved his Paddington stories, so why not borrow some books or audiobooks to share with your child?
 
-Prefer eBooks? We've also put together a [Paddington OverDrive collection](https://suffolklibraries.overdrive.com/collection/98586)
-
 ## Books
 
 ### [<cite>A Bear Called Paddington</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=67453)

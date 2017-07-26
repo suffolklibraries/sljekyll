@@ -10,7 +10,7 @@ sidebar: health
 ---
 ![The Self-Esteem Team’s Guide to Sex, Drugs and WTFs?!! by The Self-Esteem Team, Mind Your Head by Juno Dawson and Blame My Brain: The Amazing Teenage Brain Revealed by Nicola Morgan](/images/featured/featured-reading-well-for-young-people.jpg)
 
-[<cite>Reading Well</cite>](http://reading-well.org.uk/books/books-on-prescription/young-people-s-mental-health) have compiled a list of 35 recommended books on the topic of young people's mental health. You can borrow these books from our libraries or from our eLibrary service.
+[Reading Well](http://reading-well.org.uk/books/books-on-prescription/young-people-mental-health) have compiled a list of 35 recommended books on the topic of young people's mental health. You can borrow these books from our libraries or from our eLibrary service.
 
 ## General
 

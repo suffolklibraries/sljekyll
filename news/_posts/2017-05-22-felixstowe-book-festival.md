@@ -14,8 +14,6 @@ The Festival takes place over the weekend of 1 and 2 July, with many well-known 
 
 You can find out about and buy tickets for all of the festival's events on the [Felixstowe Book Festival website](http://www.felixstowebookfestival.co.uk).
 
-[Book trail - Saturday 24 June - Sunday 2 July](/events/felixstowe-2017-06-24-book-trail/)
-
 [Arts and crafts with Arty Mouse (ages 3-6) - Saturday 1 July, 09:00 - 11:00](/events/felixstowe-2017-07-01-arts-and-crafts/)
 
 [Meet the Author: Alwyn Hamilton (ages 12+) - 10:30 - 11:30](/events/felixstowe-2017-07-01-alwyn-hamilton/)

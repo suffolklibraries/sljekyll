@@ -61,7 +61,7 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="http://www.hopefsg.org.uk/">HOPE family support group</a> - Ipswich based group providing information and support for family members and friends affected by alcoholism</li>
 	<li><a href="http://www.drinkaware.co.uk">Drinkaware</a> - Hints and tips on managing alcohol intake and fact sheets</li>
 	<li><a href="http://www.focus12.co.uk">Focus 12</a> - Drug and alcohol rehabilitation charity based in Bury St Edmunds</li>
-	<li><a href="http://www.healthysuffolk.org.uk/healthy-you/drugsandalcohol/">Healthy Suffolk: Drug and alcohol treatment</a> - Information and contact numbers for services across Suffolk</li>
+	<li><a href="https://www.healthysuffolk.org.uk/advice-services/adults/drugs-and-alcohol">Healthy Suffolk: Drugs and alcohol</a> - Information and contact numbers for services across Suffolk</li>
 	<li><a href="https://www.mentalhealth.org.uk/a-to-z/a/alcohol-and-mental-health">Mental Health Foundation: Alcohol and mental health</a> - Fact sheet from national charity on the effects of drinking on your mental wellbeing</li>
 	<li><a href="https://www.mentalhealth.org.uk/a-to-z/d/drugs">Mental Health Foundation: Substance abuse</a> - Fact sheet on how substance misuse has a negative impact on your mental and physical wellbeing</li>
 </ul>

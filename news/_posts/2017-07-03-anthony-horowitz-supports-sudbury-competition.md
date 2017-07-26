@@ -16,4 +16,4 @@ Sudbury Library and the Friends of Sudbury Library are organising the competitio
 
 There are two competition categories: ages 6-9 and 10-13. Entry is £1 and two winners will receive copies of the book signed by Anthony Horowitz. The closing date is Saturday 2 September and copies of the compilation book will be available to buy from 4 November when there will also be a special presentation event for the winners of the competition.
 
-For further information about taking part, [visit Sudbury Library](libraries/sudbury-library/) or call the library on [01787 242570](tel:01787242570).
+For further information about taking part, [visit Sudbury Library](/libraries/sudbury-library/) or call the library on [01787 242570](tel:01787242570).
