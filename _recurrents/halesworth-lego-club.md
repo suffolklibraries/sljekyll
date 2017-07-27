@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Lego club: £2 per builder"
+recurrent-title: "Lego club: £2 per builder - no session 27 August"
 recurrent-day: Sunday every 2 weeks
 recurrent-times: 1000-1100
 recurrent-location: halesworth-library

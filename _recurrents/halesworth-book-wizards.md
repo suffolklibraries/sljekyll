@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Book Wizards: for 7-13 year olds, bring your favourite book – book in advance"
+recurrent-title: "Book Wizards: for 7-13 year olds, bring your favourite book – book in advance - no session in August"
 recurrent-day: Sunday once a month
 recurrent-times: 1130-1230
 recurrent-location: halesworth-library

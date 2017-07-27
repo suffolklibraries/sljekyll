@@ -1,6 +1,6 @@
 ---
 id: halesworth-flying
-name: "Fab flying things"
+name: "Fab flying things crafts"
 location: halesworth-library
 location-text: Halesworth Library
 event-start-date: 2017-08-23
@@ -13,6 +13,6 @@ event-ticket-price: free
 breadcrumb: y
 ---
 
-Join us for flying-related activities.
+Join us for flying-related crafts.
 
 All ages welcome but under-8s must be accompanied by an adult.

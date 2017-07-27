@@ -1,6 +1,6 @@
 ---
 id: halesworth-seaside
-name: "Seaside fun"
+name: "Seaside fun crafts"
 location: halesworth-library
 location-text: Halesworth Library
 event-start-date: 2017-08-02
@@ -13,6 +13,6 @@ event-ticket-price: free
 breadcrumb: y
 ---
 
-Join us for seaside-related activities.
+Join us for seaside-related crafts.
 
 All ages welcome but under-8s must be accompanied by an adult.
