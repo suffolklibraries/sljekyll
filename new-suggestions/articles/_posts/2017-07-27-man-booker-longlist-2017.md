@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: 'Check out a book on the prestigious Man Booker Prize longlist for 2017'
+title: 'Check out a book from the prestigious Man Booker Prize longlist for 2017'
 date: 2017-07-27
 author: alice-violett
 category: articles
