@@ -9,8 +9,8 @@ event-ticket-price: 2 per entry
 breadcrumb: y
 ---
 
-Enter our photography competition for the chance for your photograph to appear in our 2018 calendar, which will help raise funds for the library.
+Enter our photography competition for the chance for your photograph to appear in our 2018 calendar, which will help raise funds for the library to improve our offering for the young adult age group.
 
 The theme is **readers and reading places** and photos **must be taken in Halesworth of the surrounding Blyth Valley area**.
 
-Up to 3 entries permitted per entrant. For competition rules and entry form, please contact the library or email friendsofhalesworthlibrary@gmail.com
+Open to all ages. Up to 3 entries permitted per entrant. For competition rules and entry form, please contact the library or email friendsofhalesworthlibrary@gmail.com
