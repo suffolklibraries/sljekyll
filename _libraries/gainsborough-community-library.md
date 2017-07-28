@@ -32,6 +32,5 @@ branch-colour-printing: A4 or smaller available
 branch-photocopying: black and white, A4 or A3 available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/gainsborough-community-library
-branch-news: 'The library will be opening at 11am today (28 July) due to staff sickness. Call customer services on <a class="blue" href="tel:01473351249">01473 351249</a> with any queries.'
 breadcrumb: y
 ---

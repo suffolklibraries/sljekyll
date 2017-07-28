@@ -33,6 +33,6 @@ Sisters and singers release their highly anticipated first album together. Cover
 
 Side project of Bombay Bicycle Club frontman Jack Steadman. This is different from BBC’s usual output and draws on Steadman’s love of jazz, soul and funk.
 
-## [Queens of the Stone Age - <cite>Villains</cite>]()
+## [Queens of the Stone Age - <cite>Villains</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2266687)
 
 Queens of the Stone Age's seventh album s produced by Mark Ronson, a rather unlikely choice who is more used to working with the likes of Adele and Amy Winehouse. Singer Josh Homme has described <cite>Villains</cite> as “uptempo”.
