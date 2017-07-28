@@ -4,7 +4,7 @@ name: "Learn about pet animals with the Blue Cross"
 location: broomhill-library
 location-text: Broomhill Library
 event-start-date: 2017-07-29
-event-start-time: 1000
+event-start-time: 1015
 event-category: summer-holidays
 event-image: /images/featured/featured-blue-cross.jpg
 event-image-alt: A Blue Cross volunteer with a cat
