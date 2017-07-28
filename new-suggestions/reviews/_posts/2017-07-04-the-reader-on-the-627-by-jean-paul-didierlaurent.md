@@ -11,7 +11,7 @@ featured-link-text: "Read Chantry Journeys book group's review of <cite>The Read
 breadcrumb: staff-picks
 genre: literary-fiction
 genre-image: /images/featured/featured-the-reader-on-the-627-genre.jpg
-genre-alt: A Discovery of Witches
+genre-alt: 'The Reader on the 6.27'
 ---
 
 ![The Reader on the 6.27](/images/featured/featured-the-reader-on-the-627.jpg)
