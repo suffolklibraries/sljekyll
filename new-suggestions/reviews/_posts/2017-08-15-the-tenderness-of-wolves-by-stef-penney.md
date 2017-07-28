@@ -4,7 +4,7 @@ title: "The Tenderness of Wolves by Stef Penney"
 date: 2017-08-15
 author: chantry-journeys
 category: staff-picks
-excerpt: '.'
+excerpt: '<cite>The Tenderness of Wolves</cite> sets a number of admirable characters against a wonderfully-described landscape.'
 featured-image: /images/featured/featured-the-tenderness-of-wolves.jpg
 featured-alt: "The Tenderness of Wolves"
 featured-link-text: "Read Chantry Journeys book group's review of <cite>The Tenderness of Wolves</cite>"
