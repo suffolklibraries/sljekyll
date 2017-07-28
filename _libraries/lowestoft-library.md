@@ -29,6 +29,7 @@ branch-refreshments: café open 1000-1600 Tuesday-Friday
 branch-wifi: y
 branch-netloan: old
 branch-colour-printing: available
+branch-borrowing-microbits: y
 branch-photocopying: available
 branch-scan-to-email: y
 branch-faxing: y

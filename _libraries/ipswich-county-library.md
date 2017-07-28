@@ -27,6 +27,7 @@ branch-special-collections: African Caribbean resources, Indic language resource
 branch-display-space: Double sided display case available for hire - please book 2 weeks in advance
 branch-wifi: y
 branch-netloan: old
+branch-borrowing-microbits: y
 branch-colour-printing: available
 branch-photocopying: available
 branch-faxing: y

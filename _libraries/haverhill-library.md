@@ -26,6 +26,7 @@ branch-bookdrop: y
 branch-refreshments: café open 1000-1600 on weekdays
 branch-wifi: y
 branch-netloan: old
+branch-borrowing-microbits: y
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y

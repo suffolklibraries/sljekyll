@@ -25,6 +25,7 @@ branch-toilet: y
 branch-refreshments: café selling drinks and snacks
 branch-wifi: y
 branch-netloan: old
+branch-borrowing-microbits: y
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y

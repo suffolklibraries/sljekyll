@@ -28,6 +28,7 @@ branch-other-facilities: <a href="http://www.westsuffolk.gov.uk/parking/Travel/s
 branch-display-space: Wall space available for exhibition hire
 branch-wifi: y
 branch-netloan: new
+branch-borrowing-microbits: y
 branch-colour-printing: available
 branch-photocopying: available in A3 and A4, black and white and colour
 branch-scan-to-email: y
