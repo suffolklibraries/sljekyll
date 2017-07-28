@@ -30,5 +30,6 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-faxing: y
 branch-borrowing-ereaders-and-ipads: an eReader
+branch-news: 'Thurston Library is closed today (28 July) due to staff sickness. Call customer services on <a class="blue" href="tel:01473351249">01473 351249</cite> with any queries.'
 breadcrumb: y
 ---
