@@ -42,7 +42,7 @@ You’ll then see the reservation confirmation form.
 
 You can choose your pick up location as per normal.
 
-**Note: If you reserve a title from Cambridgeshire you’ll be charged £1.**
+**Note: If you reserve a title from Cambridgeshire you’ll be charged £2.**
 
 Sometimes, the same title is available from Suffolk and Cambridgeshire. Should you place a reservation on one of these titles, you can choose which service to reserve the title from. To avoid a charge, choose Suffolk:
 
