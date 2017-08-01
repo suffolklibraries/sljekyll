@@ -4,8 +4,8 @@ name: "'Jumpers for Goalposts' football skills for older boys and girls"
 location: chantry-library
 location-text: Chantry Library
 event-start-date: 2017-08-24
-event-start-time: 1500
-event-end-time: 1630
+event-start-time: 1300
+event-end-time: 1430
 event-category: summer-holidays
 event-image: /images/featured/featured-footballs.jpg
 event-image-alt: Footballs on grass
