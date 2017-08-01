@@ -11,4 +11,6 @@ event-image-alt: Simon the Snake by Victoria Brock
 breadcrumb: y
 ---
 
-Children's author [Victoria Brock](http://www.victoriabrockauthor.co.uk/) will be at the library sharing her delightful animal stories with children and their parents/carers.
+Children's author [Victoria Brock](http://www.victoriabrockauthor.co.uk/) will be at the library sharing her delightful animal stories and making some simple crafts with children and their parents/carers.
+
+Suitable for children aged 3-6 years. Tickets available from the library, and include entry into a raffle to win a signed book.
