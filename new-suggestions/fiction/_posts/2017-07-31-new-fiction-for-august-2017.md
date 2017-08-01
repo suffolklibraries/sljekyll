@@ -4,7 +4,7 @@ title: New fiction for August 2017
 date: 2017-07-31
 author: brandon-king
 category: fiction
-excerpt: New titles from
+excerpt: New titles from Val McDermid, Anthony Horowitz and Bernard MacLaverty
 featured-image: /images/featured/featured-august-fiction.jpg
 featured-alt: Insidious Intent, The Word is Murder, Midwinter Break
 featured-link-text: Check out our new fiction titles for August 2017
@@ -45,7 +45,7 @@ Check out our [Meet the Author interview with Sophie](/new-suggestions/meet-the-
 
 ## [<cite>A Nest of Vipers</cite>, by Andrea Camilleri](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2186867)
 
-The 21st novel from the legendary 91=year-old creator of Inspector Montalbano.
+The 21st novel from the legendary 91-year-old creator of Inspector Montalbano.
 
 > "An elderly man is found dead in the dining room of his Vigatan beach house; his coffee spilt across the table, a gunshot wound through the back of his head. The son who discovered the body has the most to gain from his father's untimely death, and his sister is quick to point out the reasons why. But as Montalbano learns more about the victim's dishonourable life, he soon finds half of Vigata has a motive for the murder."
 
