@@ -5,7 +5,7 @@ location: beccles-library
 location-text: Beccles Library
 event-start-date: 2017-08-18
 event-start-time: 1330
-event-doors-open: 1500
+event-end-time: 1500
 breadcrumb: y
 event-category: health
 ---
