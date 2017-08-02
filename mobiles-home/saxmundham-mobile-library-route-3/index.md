@@ -60,7 +60,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="176">
-      Green
+      Near Old Mill House PH
     </td>
 
     <td valign="bottom" width="97">
@@ -78,7 +78,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="176">
-      Lay-by
+      Green
     </td>
 
     <td valign="bottom" width="97">
