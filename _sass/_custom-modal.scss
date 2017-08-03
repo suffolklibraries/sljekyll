@@ -1,50 +1,45 @@
 @media screen, projection {
 
-.custom-overlay {
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: rgba(0, 0, 0, 0.7);
-  transition: opacity 500ms;
-  visibility: hidden;
-  opacity: 0;
-}
-.custom-overlay:target {
-  visibility: visible;
-  opacity: 1;
-}
+      .custom-modal-background {
+        display: none;
+        position: fixed;
+        z-index: 1;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgb(0,0,0);
+        background-color: rgba(0,0,0,0.4);
+        padding-top: 60px;
+      }
 
-.custom-popup {
-  margin: 70px auto;
-  padding: 20px;
-  background: #fff;
-  border-radius: 5px;
-  width: 30%;
-  position: relative;
-  transition: all 5s ease-in-out;
-}
+      .custom-modal-content {
+          background-color: #fefefe;
+          margin: 5% auto 15% auto;
+          width: 80%;
+      }
 
-.custom-popup h2 {
-  margin-top: 0;
-  color: #333;
-  font-family: Tahoma, Arial, sans-serif;
-}
-.custom-popup .close {
-  position: absolute;
-  top: 20px;
-  right: 30px;
-  transition: all 200ms;
-  font-size: 30px;
-  font-weight: bold;
-  text-decoration: none;
-  color: #333;
-}
-.custom-popup .close:hover {
-  color: #06D85F;
-}
-.custom-popup .content {
-  max-height: 30%;
-  overflow: auto;
+      .custom-close-button {
+          position: absolute;
+          right: 35px;
+          top: 15px;
+          color: #000;
+          font-size: 40px;
+          font-weight: bold;
+      }
+
+      .custom-close-hover {
+      .custom-close:focus {
+          color: red;
+          cursor: pointer;
+      }
+
+      .custom-clearfix::after {
+          content: "";
+          clear: both;
+          display: table;
+      }
+
+
 }
