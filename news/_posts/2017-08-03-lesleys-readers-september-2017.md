@@ -12,7 +12,7 @@ Each month BBC Radio Suffolk presenter Lesley Dolphin discusses a book with jour
 
 This month's chosen book is [<cite>The Essex Serpent</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1967127), by Sarah Perry:
 
-> "HSet in Victorian London and an Essex village in the 1890s, and enlivened by the debates on scientific and medical discovery which defined the era, <cite>The Essex Serpent</cite> has at its heart the story of two extraordinary people who fall for each other, but not in the usual way. They are Cora Seaborne and Will Ransome.
+> "Set in Victorian London and an Essex village in the 1890s, and enlivened by the debates on scientific and medical discovery which defined the era, <cite>The Essex Serpent</cite> has at its heart the story of two extraordinary people who fall for each other, but not in the usual way. They are Cora Seaborne and Will Ransome.
 
 > "Cora is a well-to-do London widow who moves to the Essex parish of Aldwinter, and Will is the local vicar. They meet as their village is engulfed by rumours that the mythical Essex Serpent, once said to roam the marshes claiming human lives, has returned."
 
