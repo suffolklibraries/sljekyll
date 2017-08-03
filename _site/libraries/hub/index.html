@@ -192,7 +192,7 @@
  mb3 mb5-ns">
 
 			<h1 class="f3 ma0
- tc">Business advice from New Anglia Growth Club</h1>
+ tc">Business advice from New Anglia Growth Hub</h1>
 
 			<div class="custom-prose">
 
@@ -209,17 +209,51 @@
 
 				<p class="tc mt0"><a class="pure-button pure-button-primary" href="#business">Book an advisor &rarr;</a></p>
 
-				<div id="business" class="custom-overlay">
+				<div id="business" class="custom-modal-background">
 
-						<div class="custom-modal">
+						<article class="custom-modal pa3 bg-white br2 w-90 w-30-ns relative">
 
-								<h2>Here i am</h2>
+								<p class="tr"><a class="custom-close absolute f4 b dark-gray hover-red no-underline" href="/libraries/hub/#business-advice">&times;</a></p>
 
-										<a class="custom-close" href="#">&times;</a>
+								<h1 class="mt0 f4">Book a business advisor</h1>
 
-												Business business business money money money
+										<p>Complete this form and we'll get back to you as soon as possible. We won't share the information you provide with anyone else.</p>
 
-						</div>
+										<form id="form" class="pure-form pure-form-stacked" netlify netlify-honeypot="bot-field" name="business-advisors" action="/volunteer/volunteer-application-form/confirmation/">
+
+										    <fieldset>
+
+										        <label class="f5 db pt2">Full name <span class="red">*</span></label>
+										        <input class="border-box w-100" type="text" name="full-name" required>
+
+										        <label class="f5 db pt2">Company name <span class="red">*</span></label>
+										        <input class="border-box w-100" type="text" name="company-name">
+
+										        <label class="f5 db pt2">Company address (including postcode)<span class="red">*</span></label>
+										        <textarea name="company-address" class="border-box w-100" required></textarea>
+
+										        <label class="f5 db pt2">Company website</label>
+										        <input class="border-box w-100" type="url" name="website">
+
+										        <label class="f5 db pt2">Contact phone number <span class="red">*</span></label>
+										        <input class="border-box w-100" type="tel" name="phone-1" maxlength="13" required>
+
+										        <label class="f5 db pt2">Alternative phone number</label>
+										        <input class="border-box w-100" type="tel" name="phone-2" maxlength="13" required>
+
+										        <label class="f5 db pt2">Email address <span class="red">*</span></label>
+										        <input class="border-box w-100" type="email" name="email" required>
+
+										        <label class="f5 db pt2">Nature of enquiry</label>
+										        <textarea name="nature-of-enquiry" class="border-box w-100"></textarea>
+
+										        <p class="dn"><input name="bot-field"></p>
+
+										        <button type="submit" class="mt2 pure-button pure-button-primary">Submit</button>
+
+										</form>
+
+						</article>
 
 				</div>
 

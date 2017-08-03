@@ -1,8 +1,8 @@
 @media screen, projection {
 
       .custom-modal-background {
-        display: none;
         position: fixed;
+        visibility: hidden;
         z-index: 1;
         left: 0;
         top: 0;
@@ -12,6 +12,11 @@
         background-color: rgb(0,0,0);
         background-color: rgba(0,0,0,0.4);
         padding-top: 60px;
+      }
+
+      .custom-modal-background:target {
+        visibility: visible;
+        opacity: 1;
       }
 
       .custom-modal-content {
@@ -29,16 +34,23 @@
           font-weight: bold;
       }
 
-      .custom-close-hover {
       .custom-close:focus {
           color: red;
           cursor: pointer;
       }
 
-      .custom-clearfix::after {
-          content: "";
-          clear: both;
-          display: table;
+      .custom-modal {
+        margin: 3rem auto;
+      }
+
+      .custom-modal .close {
+        top: 1rem;
+        right: 1rem;
+      }
+
+      .custom-modal .content {
+        max-height: 30%;
+        overflow: auto;
       }
 
 
