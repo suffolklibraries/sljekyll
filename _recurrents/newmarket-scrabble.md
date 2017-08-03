@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Scrabble group"
-recurrent-day: Wednesdays from 2 August
+recurrent-day: Wednesdays
 recurrent-times: 1400
 recurrent-location: newmarket-library
 recurrent-location-display-name: Newmarket Library

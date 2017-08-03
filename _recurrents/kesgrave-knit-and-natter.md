@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Knit and Natter - £1 a session, refreshments provided - no session 2 August"
+recurrent-title: "Knit and Natter - £1 a session, refreshments provided"
 recurrent-day: first Wednesday of the month
 recurrent-times: 1430
 recurrent-location: kesgrave-library
