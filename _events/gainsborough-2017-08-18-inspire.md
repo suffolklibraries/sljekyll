@@ -1,9 +1,9 @@
 ---
 id: gainsborough-inspire-girls
-name: "Girls' Group sports afternoon at Inspire"
+name: "Sports afternoon at Inspire for children aged 8+"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
-event-start-date: 2017-08-14
+event-start-date: 2017-08-18
 event-start-time: 1400
 event-category: summer-holidays
 event-image: /images/featured/featured-inspire.jpg
@@ -12,6 +12,6 @@ event-ticket-price: 0.50p
 breadcrumb: y
 ---
 
-Girls aged 8+ are invited for a sports session at Inspire leaving from the library.
+Children aged 8+ are invited for a sports session at Inspire leaving from the library.
 
-Advance booking essential. No need to be a member of our Girls' Group already - come along!
+Advance booking essential. No need to be a member of our Girls' or Boys' Group already - come along!

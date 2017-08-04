@@ -3,9 +3,9 @@ id: gainsborough-sub-arts
 name: "Family art session with Subterranean Arts"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
-event-start-date: 2017-08-09
-event-start-time: 1400
-event-end-time: 1600
+event-start-date: 2017-08-16
+event-start-time: 1300
+event-end-time: 1500
 event-category: summer-holidays
 event-image: /images/featured/featured-subterranean-arts.jpg
 event-image-alt: Subterranean Arts logo
