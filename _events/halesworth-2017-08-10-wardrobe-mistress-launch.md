@@ -1,6 +1,6 @@
 ---
 id: halesworth-book-launch
-name: "Book launch: <cite>The Wardrobe Mistress</cite>, by Meg Evans"
+name: "Book launch: <cite>The Wardrobe Mistress</cite>, by Natalie Meg Evans"
 location: halesworth-library
 location-text: Halesworth Library
 event-start-date: 2017-08-10
@@ -8,7 +8,7 @@ event-start-time: 1830
 breadcrumb: y
 ---
 
-Join us for the launch of Meg Evans' latest novel, <cite>The Wardrobe Mistress</cite>:
+Join us for the launch of Natalie Meg Evans' latest novel, <cite>The Wardrobe Mistress</cite>:
 
 > "London 1945. A young war widow steps aboard a train in search of a new life. Clutching the key to a mysterious inheritance, Vanessa Kingcourt can no longer resist the pull of the old Farren Theatre - an enchanted place seeped in memories of her actor father.
 
