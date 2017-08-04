@@ -159,6 +159,7 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="http://www.steppingstonescommunity.com">Stepping Stones</a> - Community support, decluttering services and much more</li>
 	<li><a href="http://infolink.suffolk.gov.uk/kb5/suffolk/infolink/home.page">Suffolk Infolink</a> - Community based database from Suffolk County Council</li>
 	<li><a href="http://www.suffolkmind.org.uk/">Suffolk Mind</a> - Website for mental health charity with opportunities to improve mental wellbeing in Suffolk</li>
+	<li><a href="https://www.suffolk.gov.uk/children-families-and-learning/send-and-the-local-offer/sendiass/sendiass-leaflets/">SENDISS leaflets and resources</a> - Leaflets and guides for children, young people and their parents about Special Educational Needs (SEN) from Suffolk County Council</li>
 </ul>
 <h3 id="medication">Medication</h3>
 <ul>
