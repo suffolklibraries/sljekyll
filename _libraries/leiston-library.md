@@ -29,5 +29,8 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/leiston-library
 branch-borrowing-ereaders-and-ipads: an iPad
+branch-faxing: y
 breadcrumb: y
+branch-for-sale: books of stamps
+branch-other-facilities: "Art in the Library - exhibitions of local artists' work"
 ---
