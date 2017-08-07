@@ -4,8 +4,8 @@ name: "Girls' Group art session with Subterranean Arts"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2017-08-15
-event-start-time: 1000
-event-end-time: 1200
+event-start-time: 1300
+event-end-time: 1500
 event-category: summer-holidays
 event-image: /images/featured/featured-subterranean-arts.jpg
 event-image-alt: Subterranean Arts logo
