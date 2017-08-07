@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Book club favourites #14'
-date: 2017-08-08
+date: 2017-08-07
 author: brandon-king
 category: articles
 excerpt: "Find your book club's next read with our latest list of recommendations."
