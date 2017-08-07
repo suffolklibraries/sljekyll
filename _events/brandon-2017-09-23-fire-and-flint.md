@@ -7,9 +7,6 @@ event-alt-location: Market Hill, Brandon
 event-start-date: 2017-09-23
 event-start-time: 1500
 event-end-time: 2000
-event-category: summer-holidays
-event-image: /images/featured/featured-brandon-flint.jpg
-event-image-alt: A Brandon flint panel
 breadcrumb: y
 ---
 
