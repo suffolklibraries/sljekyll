@@ -4,7 +4,7 @@ name: "Storytelling and other activities at the Fire and Flint Festival"
 location: brandon-library
 location-text: Brandon Library
 event-alt-location: Market Hill, Brandon
-event-start-date: 2017-08-23
+event-start-date: 2017-09-23
 event-start-time: 1500
 event-end-time: 2000
 event-category: summer-holidays
