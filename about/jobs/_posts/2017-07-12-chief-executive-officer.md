@@ -4,7 +4,7 @@ title: Chief executive officer
 category: jobs
 sidebar: about
 breadcrumb: jobs
-excerpt: "We're seeking to appoint an inspiring new chief executive who will set the tone and the strategy for the service’s future development. Closing date Thu 17 August."
+excerpt: "We're seeking to appoint an inspiring new chief executive who will set the tone and the strategy for the service’s future development. Closing date Tue 29 August."
 expiry-date: 2017-08-29
 ---
 
