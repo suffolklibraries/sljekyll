@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Storytime: stories and rhymes for pre-school children"
+recurrent-title: "Storytime: stories and rhymes for pre-school children - no session 10 August"
 recurrent-day: Thursday
 recurrent-times: 0945-1015
 recurrent-location: sudbury-library
