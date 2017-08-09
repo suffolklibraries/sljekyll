@@ -1,8 +1,8 @@
 ---
-id: lavenham-jonkers
+id: melf-jonkers
 name: "Meet the Author: Jonkers (for children aged 7-12)"
-location: lavenham-library
-location-text: Lavenham Library
+location: long-melford-library
+location-text: Long Melford Library
 event-start-date: 2017-08-22
 event-start-time: 1415
 event-end-time: 1515
