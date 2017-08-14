@@ -6,6 +6,7 @@ location-text: Chantry Library
 event-start-date: 2017-10-07
 event-start-time: 1100
 event-end-time: 1600
+event-category: fun-palace
 breadcrumb: y
 ---
 
