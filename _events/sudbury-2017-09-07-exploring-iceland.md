@@ -4,6 +4,7 @@ name: "Talk: Exploring Iceland - Land of Ice and Fire by David Taylor"
 location: sudbury-library
 location-text: Sudbury Library
 event-start-date: 2017-09-07
+event-doors-open: 1900
 event-start-time: 1930
 event-ticket-price: 5
 breadcrumb: y
