@@ -30,6 +30,5 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/sudbury-library
-branch-news: "The children's library and meeting room are currently closed due to flooding. Children's stock and Summer Reading Challenge volunteers are available in the main library."
 breadcrumb: y
 ---
