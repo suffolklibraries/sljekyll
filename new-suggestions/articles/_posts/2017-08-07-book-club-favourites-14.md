@@ -6,13 +6,13 @@ author: brandon-king
 category: articles
 excerpt: "Find your book club's next read with our latest list of recommendations."
 featured-image: /images/featured/featured-book-club-14.jpg
-featured-alt: ""
+featured-alt: "Do No Harm, The Little Red Chairs, The Peculiar Life of a Lonely Postman"
 breadcrumb: articles
 featured-excerpt: "Find your book club's next read with our latest list of recommendations."
 featured-link-text: Find your book club's next read
 ---
 
-![](/images/featured/featured-book-club-14.jpg)
+![Do No Harm, The Little Red Chairs, The Peculiar Life of a Lonely Postman](/images/featured/featured-book-club-14.jpg)
 
 ## [<cite>A Whole Life</cite>, by Robert Seethaler, (trans. Charlotte Collins)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1854417)
 
