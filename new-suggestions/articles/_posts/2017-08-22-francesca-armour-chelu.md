@@ -8,13 +8,15 @@ excerpt: "Our very own Francesca Armour-Chelu recently published her second chil
 featured-image: /images/featured/featured-francesca-armour-chelu-book-launch.jpg
 featured-alt: "Francesca Armour-Chelu"
 breadcrumb: articles
-featured-excerpt: "Our very own Francesca Armour-Chelu recently published her second children's book, <cite>Fenn Halflin and the Seaborn</cite>. Here, she tells us all about her influences and writing process."
+featured-excerpt: "Our very own Francesca Armour-Chelu recently published her second children's book, <cite>Fenn Halflin and the Seaborn</cite>. We wanted to know all about her influences and writing process."
 featured-link-text: Read our interview with Francesca Armour-Chelu
 ---
 
 ![Francesca Armour-Chelu](/images/featured/featured-francesca-armour-chelu-book-launch.jpg)
 
-Francesca Armour-Chelu is Suffolk Libraries’ very own published children's author. She recently published her second novel, [<cite>Fenn Halflin and the Seaborn</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2167085), the sequel to 2016's [<cite>Fenn Halflin and the Fearzero</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1977471), which was shortlisted for the Mslexia Children’s Novel Competition and in the Children's category at the 2016 East Anglian Book Awards. This epic series, set in a dystopian flooded future, is available from all good bookshops as well as our libraries. We wanted to know the secrets of her success.
+Francesca Armour-Chelu is Suffolk Libraries’ very own published children's author. She recently published her second novel, [<cite>Fenn Halflin and the Seaborn</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2167085), the sequel to 2016's [<cite>Fenn Halflin and the Fearzero</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1977471), which was shortlisted for the Mslexia Children’s Novel Competition and in the Children's category at the 2016 East Anglian Book Awards. This epic series, set in a dystopian flooded future, is available from all good bookshops as well as our libraries.
+
+We asked Francesca to tell us the secrets of her success.
 
 ## 1. Who were your literary influences as you were growing up?
 
@@ -54,7 +56,9 @@ It’s one of the main things people often don’t understand; they think becaus
 
 ## 6. Is there anything you can tell us about your latest project?
 
-I can’t really go into detail as it’s all a bit too early; at pitching stage. All I can say is I’m doing a bit of plate spinning right now! I had already started an adult story when Walker books bought <cite>Fenn Halflin and the Fearzero</cite>, and when I finished <cite>Fenn Halflin and the Seaborn</cite>, I naively thought I’d segue straight back to completing it. But life isn’t neat like that; writing Fenn stimulated ideas for other children’s books, and also Walker asked me for a third book, which is a fantastic opportunity. So I’ve just finished the outline for a brand new children’s book and I’m carrying on with the adult book, which is set in East Anglia. The only question is where to find the time!
+I can’t really go into detail as it’s all a bit too early, at pitching stage. All I can say is I’m doing a bit of plate spinning right now!
+
+I had already started an adult story when Walker books bought <cite>Fenn Halflin and the Fearzero</cite>, and when I finished <cite>Fenn Halflin and the Seaborn</cite>, I naively thought I’d segue straight back to completing it. But life isn’t neat like that; writing Fenn stimulated ideas for other children’s books, and also Walker asked me for a third book, which is a fantastic opportunity. So I’ve just finished the outline for a brand new children’s book and I’m carrying on with the adult book, which is set in East Anglia. The only question is where to find the time!
 
 ## 7. Do you have a message for your many young (and old) readers in Suffolk Libraries?
 
