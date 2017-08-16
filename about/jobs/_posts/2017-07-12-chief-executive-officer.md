@@ -20,4 +20,4 @@ We have shown how it is possible to sustain and improve a service, while saving 
 
 Our original contract to deliver library services on behalf of Suffolk County Council is for ten years, with an option to withdraw after five. In December 2016 the Board unanimously committed to deliver the service for the second five-year period, and we are looking for an outstanding individual to lead the service from February 2018, building on the learning to date, and with a vision to renew and sustain the service over the next demanding period. We anticipate there will be a competitive re-commissioning process towards the end of this period, and a key priority for the new chief executive will be to ensure we are well placed to win this competition.
 
-The closing date for applications is **Thursday 17 August 2017**.
+The closing date for applications is **Tuesday 29 August 2017**.
