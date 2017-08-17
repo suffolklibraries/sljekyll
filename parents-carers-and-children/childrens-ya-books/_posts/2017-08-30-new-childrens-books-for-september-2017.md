@@ -4,14 +4,14 @@ title: "New children's books for September 2017"
 date: 2017-08-30
 author: sophie-green
 category: childrens-ya-books
-excerpt: ""
+excerpt: "We've got a bumper crop of exciting new children's books this month"
 featured-image: /images/featured/featured-childrens-september-2017.jpg
-featured-alt: ""
+featured-alt: "Oi Cat!, Birthday Boy, The Wizards of Once"
 featured-link-text: "Check out our latest titles for children."
 breadcrumb: childrens-ya-books
 ---
 
-![](/images/featured/featured-childrens-september-2017.jpg)
+![Oi Cat!, Birthday Boy, The Wizards of Once](/images/featured/featured-childrens-september-2017.jpg)
 
 ## Board books
 
@@ -107,7 +107,7 @@ From the author of [<cite>Aliens Love Underpants</cite>](https://suffolk.spydus.
 
 Two new Pokémon titles especially for very young fans. In <cite>Alola Adventure</cite>, Ash faces exciting challenges and battles while on holiday, while in <cite>The Guardian's Challenge</cite>, a surprise guest shows up at a party Ash's friends throw for him.
 
-### [<cite>Rudyard Kipling's Just So Stories/cite>, by Elli Woolard & Marta Altés](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2258755)
+### [<cite>Rudyard Kipling's Just So Stories</cite>, by Elli Woolard & Marta Altés](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2258755)
 
 > "Delightfully retold in humorous verse, with beautiful illustrations throughout, this is a beautiful reworked edition of Rudyard Kipling's children's classic, <cite>Just So Stories</cite>.
 
@@ -121,7 +121,7 @@ Third book in The Invincibles series.
 
 ## Junior novels
 
-### [<cite>Wizards of Once</cite>, by Cressida Cowell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2268739)
+### [<cite>The Wizards of Once</cite>, by Cressida Cowell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2268739)
 
 First in a new series, set in an ancient, magical time, from the author of <cite>How to Train your Dragon</cite>.
 
@@ -133,7 +133,7 @@ In the latest book in the Five Realms series:
 
 > "Podkin discovers a skill for moonstriding - jumping in and out of the shadows with his new gift - and makes new friends and allegiances on the way to becoming leader of rabbits."
 
-## [<cite>The Secret Diary of Jane Pinny: Victorian house maid</cite>, by Philip Ardagh & Jamie Littler](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2196165)
+### [<cite>The Secret Diary of Jane Pinny: Victorian house maid</cite>, by Philip Ardagh & Jamie Littler](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2196165)
 
 Another title in the National Trust Secret Diary series of 'faction' books:
 
@@ -141,7 +141,7 @@ Another title in the National Trust Secret Diary series of 'faction' books:
 
 > "But when a priceless jade necklace belonging to the lady of the house disappears, Jane turns accidental detective (with the help of her best friend, a pigeon called Plump) - can she solve the mystery of the missing jewels before it's too late?"
 
-## [<cite>Greta Zargo and the Death Robots from Outer Space</cite>, by A. F. Harrold](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2202867)
+### [<cite>Greta Zargo and the Death Robots from Outer Space</cite>, by A. F. Harrold](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2202867)
 
 The first book in a new, laugh-out-loud, futuristic series from the author of the Fizzlebert Stump books:
 
@@ -149,19 +149,19 @@ The first book in a new, laugh-out-loud, futuristic series from the author of th
 
 > "But big scoops are in short supply in the quiet little town of Upper Lowerbridge, and all Greta's got to investigate is a couple of missing cakes. But then, with a whoosh of unknown energy, a mysterious silver robot descends from the sky."
 
-## [<cite>Goth Girl and the Sinister Symphony</cite>, by Chris Riddell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2201068)
+### [<cite>Goth Girl and the Sinister Symphony</cite>, by Chris Riddell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2201068)
 
 In the fourth Goth Girl book:
 
 > "Lord Goth is throwing a music festival at Ghastly-Gorm Hall, with performances from the finest composers in the land. Ada can't wait, but it's quite distracting when her grandmother is trying to find her father a fashionable new wife, there's a faun living in her wardrobe and Maltravers is up to his old tricks. Ada must make sure everything goes to plan, and luckily help is at hand from a very interesting house guest."
 
-## [<cite>Birthday Boy</cite>, by David Baddiel](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2184677)
+### [<cite>Birthday Boy</cite>, by David Baddiel](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2184677)
 
 > "What if it was every day? This is the story of Sam Green, who really, really, really loves birthdays. He loves the special breakfasts in bed. The presents. The themed parties. Blowing out the candles on his cake. Everything. In fact, he wishes it was his birthday every day.
 
 > "So, at first, it's exciting when his birthday happens again the next morning - and the next and again. But it's not long before things start to go wrong ... threatening something Sam loves even more than birthdays. Sometimes you have to be careful what you wish for."
 
-## [<cite>Free Lance and the Field of Blood,</cite>, by Paul Stewart & Chris Riddell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2199475)
+### [<cite>Free Lance and the Field of Blood,</cite>, by Paul Stewart & Chris Riddell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2199475)
 
 First published in 2004, this title has been released in a 'super readable' format:
 
@@ -183,11 +183,11 @@ Following on from [<cite>Where Football Rules the World](https://suffolk.spydus.
 
 > "It is packed with awesome true stories, real science and fascinating facts and will make you laugh loads. Why are footballs round? When do footballers wee? Where are red cards from? You will find the answers to these questions and more in chapters on subjects such as biology, maths and history. Illustrated throughout with hilarious cartoons and filled with laugh-out-loud gags this is the perfect book for any boy or girl who loves football."
 
-### [<cite>LEGO: absolutely everything you need to know](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2197075)
+### [<cite>LEGO: absolutely everything you need to know</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2197075)
 
 > "The ultimate collection of LEGO facts and figures in brick-sized bites of trivia. Can you believe that a wooden duck was one of the first LEGO toys? Or that the LEGO Group is one of the world's largest tyre manufacturers? Have you seen the LEGO Batman minifigure with glow-in-the-dark eyes? And do you know where to find the glass slipper in The Disney Castle set? This book is crammed with fun and fascinating trivia for LEGO fans of every age."
 
-### [<cite>Minecraft Guide to the Nether and the End](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2199636) and [<cite>Minecraft Guide to Redstone](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2199637)
+### [<cite>Minecraft Guide to the Nether and the End</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2199636) and [<cite>Minecraft Guide to Redstone</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2199637)
 
 Two new titles to help children become master engineers in Minecraft.
 

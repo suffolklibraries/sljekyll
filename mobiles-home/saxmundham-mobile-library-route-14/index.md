@@ -4,14 +4,6 @@ title: Saxmundham Mobile Library Route 14
 breadcrumb: mobiles-home
 ---
 
-<div class="{% include /c/generic-panel.html %}">
-
-  <p>We're sorry that Saxmundham Mobile Library Route 14 will not be running today (16 August) due to repairs.</p>
-
-  <p>Please call customer services on <a href="tel:01473351249">01473 351249</a> or email <strong>help@suffolklibraries.co.uk</strong> with any enquiries.</p>
-
-</div>
-
 ## Contact us:
 
 Manager: Helen Hudson and Peter Fiske
