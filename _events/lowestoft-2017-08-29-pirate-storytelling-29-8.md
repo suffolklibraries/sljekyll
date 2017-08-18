@@ -4,7 +4,7 @@ name: "Pirate storytelling for young children on the Lowestoft Ferry"
 location: lowestoft-library
 location-text: Lowestoft Library
 event-alt-location: "South Pier, Lowestoft Harbour (10:30) and Freshwater Way, Oulton Broad (11:00)"
-event-start-date: 2017-08-25
+event-start-date: 2017-08-29
 event-start-time: 1030
 event-ticket-price: 3.50 (adult one-way), £2 (child one-way), £10 (family one-way)
 event-category: summer-holidays

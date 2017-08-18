@@ -1,5 +1,5 @@
 ---
-recurrent-title: "NHS hearing aid maintenance - no session in August"
+recurrent-title: "NHS hearing aid maintenance"
 recurrent-day: third Thursday of the month
 recurrent-times: 1330-1530
 recurrent-location: sudbury-library
