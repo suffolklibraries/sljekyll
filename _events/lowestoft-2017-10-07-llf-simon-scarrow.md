@@ -1,18 +1,20 @@
 ---
 id: lowestoft-scarrow
-name: "Lowestoft Literary Festival: Simon Scarrow"
+name: "Lowestoft Library Literary Festival: Simon Scarrow"
 location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2017-10-07
 event-start-time: 1730
 event-end-time: 1800
 event-ticket-price: 3, or £10 for all four festival talks
+event-category: lowestoft-lit-2017
+event-image: featured/featured-simon-scarrow-square.jpg
 breadcrumb: y
 ---
 
-**Simon Scarrow will be at the Lowestoft Literary Festival talking about his books, including the Eagles of the Empire series, set in ancient Rome.**
+Simon Scarrow will be talking about his books, including the Eagles of the Empire series, set in ancient Rome.
 
-<img src="/images/featured/featured-simon-scarrow-sqaure.jpg" alt="Simon Scarrow" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+<img src="/images/featured/featured-simon-scarrow-square.jpg" alt="Simon Scarrow" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
 
 Scarrow's latest book was a thriller, [<cite>Playing with Death</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2171849):
 

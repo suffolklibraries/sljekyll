@@ -20,7 +20,6 @@ branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-coun
 branch-parking: Pay & Display car park opposite
 branch-bookdrop: y
 branch-toilet: y
-branch-refreshments: available in our café
 branch-wifi: y
 branch-netloan: old
 branch-borrowing-ereaders-and-ipads: an iPad

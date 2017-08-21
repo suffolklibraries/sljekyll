@@ -1,18 +1,20 @@
 ---
 id: lowestoft-garrod
-name: "Lowestoft Literary Festival: George Szirtes"
+name: "Lowestoft Library Literary Festival: George Szirtes"
 location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2017-10-07
 event-start-time: 1600
 event-end-time: 1700
 event-ticket-price: 3, or £10 for all four festival talks
+event-category: lowestoft-lit-2017
+event-image: featured/featured-george-szirtes-square.jpg
 breadcrumb: y
 ---
 
-**George Szirtes will be at the Lowestoft Literary Festival sharing and talking about his work as a translator and award-winning poet.**
+George Szirtes will be sharing and talking about his work as a translator and award-winning poet.
 
-<img src="/images/featured/featured-george-szirtes-sqaure.jpg" alt="George Szirtes" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+<img src="/images/featured/featured-george-szirtes-square.jpg" alt="George Szirtes" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
 
 In Szirtes' latest collection, <cite>Bad Machine</cite>:
 

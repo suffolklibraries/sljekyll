@@ -22,7 +22,6 @@ branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-coun
 branch-payments: cash, cheques and cards accepted
 branch-bookdrop: y
 branch-toilet: y
-branch-refreshments: café selling drinks and snacks
 branch-wifi: y
 branch-netloan: old
 branch-borrowing-microbits: y
