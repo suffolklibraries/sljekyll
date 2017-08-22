@@ -9,4 +9,4 @@ event-category: src-presentation
 breadcrumb: y
 ---
 
-Receive your reward for participating in the Summer Reading Challenge.
+Receive your reward for participating in the Summer Reading Challenge from Councillor Tony Goldson.

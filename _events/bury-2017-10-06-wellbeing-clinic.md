@@ -4,8 +4,8 @@ name: "Wellbeing Suffolk outreach clinic"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
 event-start-date: 2017-10-06
-event-start-time: 1330
-event-end-time: 1600
+event-start-time: 0930
+event-end-time: 1200
 breadcrumb: y
 ---
 
