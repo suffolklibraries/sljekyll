@@ -1,6 +1,6 @@
 ---
 id: newmarket-day-centre
-name: "Top Time: Nemarket Day Centre visit"
+name: "Top Time: Newmarket Day Centre visit"
 location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2017-09-07

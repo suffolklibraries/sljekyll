@@ -29,5 +29,6 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/stowmarket-library
+branch-news: 'The library will be opening at 9:30am on Tuesday 5 September due to staff training. Please call customer services on <a href="tel:01473351249">01473 351249</a> with any enquiries.'
 breadcrumb: y
 ---
