@@ -9,7 +9,7 @@ branch-thursday-hours: 0900 – 1900
 branch-friday-hours: 0900 – 1800
 branch-saturday-hours: 0900 – 1700
 branch-sunday-hours: 1000 – 1600
-branch-manager: Jane Rothon
+acting-branch-manager: Jane Rothon
 branch-address: Clapham Road South, Lowestoft
 branch-post-code: NR32 1DR
 branch-tel: 01502 674660

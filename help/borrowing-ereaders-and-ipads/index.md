@@ -44,7 +44,6 @@ The main terms of the loan are:
 
 ### Libraries that lend iPads
 
-  * [Beccles Library](/libraries/beccles-library)
   * [Capel Library](/libraries/capel-st-mary-library)
   * [Clare Library](/libraries/clare-library)
   * [Felixstowe Library](/libraries/felixstowe-library)
