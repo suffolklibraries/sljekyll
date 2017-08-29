@@ -3,7 +3,7 @@ id: newm-reynolds
 name: "Meet the Author: Josephine Reynolds"
 location: newmarket-library
 location-text: Newmarket Library
-event-start-date: 2017-09-11
+event-start-date: 2017-11-09
 event-start-time: 1030
 event-end-time: 1130
 breadcrumb: y
