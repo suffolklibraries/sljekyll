@@ -179,7 +179,7 @@ First published in 2004, this title has been released in a 'super readable' form
 
 ### [<cite>Where Football Explains the World</cite>, by Alex Bellos, Ben Lyttleton & Spike Gerrell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2199639)
 
-Following on from [<cite>Where Football Rules the World](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2164097), this title teaches children (and adults!) about the world through the prism of Britain's national sport:
+Following on from [<cite>Where Football Rules the World</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2164097), this title teaches children (and adults!) about the world through the prism of Britain's national sport:
 
 > "It is packed with awesome true stories, real science and fascinating facts and will make you laugh loads. Why are footballs round? When do footballers wee? Where are red cards from? You will find the answers to these questions and more in chapters on subjects such as biology, maths and history. Illustrated throughout with hilarious cartoons and filled with laugh-out-loud gags this is the perfect book for any boy or girl who loves football."
 
