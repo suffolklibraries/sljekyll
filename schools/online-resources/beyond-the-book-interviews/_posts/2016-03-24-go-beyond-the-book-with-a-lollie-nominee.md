@@ -6,7 +6,6 @@ excerpt: "Come 'Beyond the Book' and meet Emily Sparkes as she tries to make sen
 breadcrumb: schools-resources
 sidebar: schools
 category: btb
-hnav: lbarts
 ---
 
 ![Vote for Ruth Fitzgerald in the Laugh out Loud Awards](/images/featured/featured-laugh-out-loud-book-awards-ruth-fitzgerald.jpg)

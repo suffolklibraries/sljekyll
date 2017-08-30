@@ -4,7 +4,6 @@ title: Battle of the Books
 author: matt-shenton
 breadcrumb: schools-resources
 sidebar: schools
-hnav: lbarts
 ---
 
 ![An amazing Ormiston Denes library display](/images/featured/featured-ormiston-denes-academy-library-display-one-upon-a-time.jpg)

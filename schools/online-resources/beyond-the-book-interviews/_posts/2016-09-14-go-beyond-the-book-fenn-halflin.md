@@ -6,7 +6,6 @@ excerpt: "Discover a dark and flooded world where warring factions fight to surv
 breadcrumb: schools-resources
 sidebar: schools
 category: btb
-hnav: lbarts
 ---
 
 <p class="f3">I always slept easy while living in Birmingham, safe in the knowledge that rising sea levels would be unlikely to get my feet wet. Since moving to Suffolk this outlook has changed somewhat and after reading the brilliant <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9834044?QRY=CTIBIB%3C%20IRN(62309591)&QRYTEXT=Fenn%20Halflin%20and%20the%20Fearzero">Fenn Halflin and the Fearzero</a></cite> by Francesca Armour-Chelu, I am seriously contemplating investing in a boat.</p>

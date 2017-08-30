@@ -6,7 +6,6 @@ excerpt: "Come with us on a journey to tower blocks and mysterious lochs as we g
 breadcrumb: schools-resources
 sidebar: schools
 category: btb
-hnav: lbarts
 ---
 
 ![The Boy in the Tower by Polly Ho-Yen](/images/featured/featured-the-boy-in-the-tower.jpg)

@@ -6,7 +6,6 @@ excerpt: "Author William Hussey is in a bit of a pickle. How can a murderer esca
 breadcrumb: schools-resources
 sidebar: schools
 category: btb
-hnav: lbarts
 ---
 
 ![Jekyll’s Mirror](/images/featured/featured-jekylls-mirror.jpg)

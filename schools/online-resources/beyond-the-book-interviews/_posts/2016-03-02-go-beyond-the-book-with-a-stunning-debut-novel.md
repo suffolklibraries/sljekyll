@@ -6,7 +6,6 @@ excerpt: "Once a year, Teva separates into two, leaving a younger version of her
 breadcrumb: schools-resources
 sidebar: schools
 category: btb
-hnav: lbarts
 ---
 
 ![More of Me](/images/featured/featured-more-of-me.jpg)

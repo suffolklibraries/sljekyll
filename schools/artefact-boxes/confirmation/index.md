@@ -2,7 +2,6 @@
 layout: full-width-narrow
 title: Artefact box submission
 breadcrumb: schools
-hnav: lbarts
 ---
 
 Thanks for your artefact box request. We'll be in touch as soon as possible.

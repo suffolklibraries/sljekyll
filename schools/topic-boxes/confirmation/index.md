@@ -2,7 +2,6 @@
 layout: full-width-narrow
 title: Topic box submission
 breadcrumb: schools
-hnav: lbarts
 ---
 
 Thanks for your topic box request. We&#8217;ll be in touch as soon as possible.

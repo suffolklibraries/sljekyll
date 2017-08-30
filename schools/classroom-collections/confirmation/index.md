@@ -2,7 +2,6 @@
 layout: full-width-narrow
 title: Classroom collection loan submission
 breadcrumb: schools
-hnav: lbarts
 ---
 
 Thanks for your classroom collection loan request. We'll be in touch as soon as possible.

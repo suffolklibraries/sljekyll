@@ -6,7 +6,6 @@ excerpt: "Come with us as we investigate how the scales of justice can be manipu
 breadcrumb: schools-resources
 sidebar: schools
 category: btb
-hnav: lbarts
 ---
 
 One of my favourite films of the eighties is <cite>The Running Man</cite> starring the acting prowess of Mr A. Schwarzenegger and based on an idea originally penned by Stephen King. I found the idea of turning the punishment of criminals into prime-time entertainment terrifyingly fascinating. So I jumped at the chance of reading an advance proof of book with a similar concept. And <cite>Cell 7</cite> by Kerry Drewery did not disappoint.

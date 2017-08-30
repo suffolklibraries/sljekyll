@@ -6,7 +6,6 @@ excerpt: "Come ‘Beyond the Book’ and meet Darkus and Baxter in the amazing B
 breadcrumb: schools-resources
 sidebar: schools
 category: btb
-hnav: lbarts
 ---
 
 ![Beetle Boy](/images/featured/featured-beetle-boy.jpg)

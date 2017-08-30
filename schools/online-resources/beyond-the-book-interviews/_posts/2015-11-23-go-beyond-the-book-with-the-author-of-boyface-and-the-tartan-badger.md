@@ -6,7 +6,6 @@ excerpt: 'Come with us as we go into the strange world of <cite>Boyface and the 
 breadcrumb: schools-resources
 sidebar: schools
 category: btb
-hnav: lbarts
 ---
 
 ![Boyface by James Campbell](/images/featured/featured-boyface.jpg)

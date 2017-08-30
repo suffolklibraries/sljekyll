@@ -7,7 +7,6 @@ excerpt: "We start 2016 with a bang by going 'Beyond the Book' with the author o
 breadcrumb: schools-resources
 sidebar: schools
 category: btb
-hnav: lbarts
 
 ---
 ![Anything that isn't this](/images/featured/featured-anything-that-isnt-this.jpg)

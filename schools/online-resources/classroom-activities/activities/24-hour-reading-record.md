@@ -4,7 +4,6 @@ title: 24 hour reading record
 author: matt-shenton
 breadcrumb: schools-resources
 sidebar: schools
-hnav: lbarts
 ---
 
 ![Countdown clock](/images/featured/featured-countdown-clock-illustration.jpg)

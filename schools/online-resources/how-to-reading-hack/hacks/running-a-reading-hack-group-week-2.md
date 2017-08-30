@@ -4,7 +4,6 @@ title: Running a reading hack group - Week 2
 author: matt-shenton
 breadcrumb: schools-resources
 sidebar: schools
-hnav: lbarts
 ---
 ![Reading hack group - Week 2](/images/featured/featured-reading-hack-week-2.jpg)
 

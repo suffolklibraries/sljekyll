@@ -3,7 +3,6 @@ layout: sidebar-right
 title: Beyond the Book classroom activities
 breadcrumb: schools-resources
 sidebar: schools
-hnav: lbarts
 ---
 
 <img class="fl" src="/images/article/beyond-the-book-logo.jpg" alt="Beyond the Book logo" />

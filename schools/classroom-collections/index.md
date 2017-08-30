@@ -2,7 +2,6 @@
 layout: full-width-narrow
 title: Classroom collection loan
 breadcrumb: schools
-hnav: lbarts
 ---
 <form class="pure-form pure-form-stacked" netlify name="reading-for-pleasure-loan" action="/schools/reading-for-pleasure-loan/confirmation">
 

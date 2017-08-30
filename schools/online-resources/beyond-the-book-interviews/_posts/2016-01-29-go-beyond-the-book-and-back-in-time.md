@@ -6,7 +6,6 @@ excerpt: 'We travel through time and space to visit ancient Crete in a brilliant
 breadcrumb: schools-resources
 sidebar: schools
 category: btb
-hnav: lbarts
 ---
 
 ![Minotaur](/images/featured/featured-minotaur.jpg)

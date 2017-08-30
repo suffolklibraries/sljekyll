@@ -2,7 +2,6 @@
 layout: full-width-narrow
 title: Topic boxes
 breadcrumb: schools
-hnav: lbarts
 ---
 Complete this form to request a topic box loan from the Literacy, Books and Reading Team for Schools (LBRTS). Your request must reach us not later than two weeks before the end of term.
 

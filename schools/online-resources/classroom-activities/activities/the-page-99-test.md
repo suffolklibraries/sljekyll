@@ -4,7 +4,6 @@ title: The page 99 test
 author: matt-shenton
 breadcrumb: schools-resources
 sidebar: schools
-hnav: lbarts
 ---
 
 ![99 on a brick wall](/images/featured/featured-99.jpg)

@@ -6,7 +6,6 @@ excerpt: 'Meet Hayley Long — Suffolk born author of the Costa Award nominated 
 breadcrumb: schools-resources
 sidebar: schools
 category: btb
-hnav: lbarts
 ---
 
 ![Sophie Someone](/images/featured/featured-sophie-someone-guinea-pig.jpg)

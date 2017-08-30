@@ -14,7 +14,7 @@ The device has many features, including 25 red LEDs that can flash messages, two
 * [Bury St Edmunds Library](/libraries/bury-st-edmunds-library/)
 * [Haverhill Library](/libraries/haverhill-library/)
 * [Ipswich County Library](/libraries/ipswich-county-library/)
-* [Lowestoft Library](/libraries/lowestoft/)
+* [Lowestoft Library](/libraries/lowestoft-library/)
 * [Newmarket Library](/libraries/newmarket-library/)
 * [Sudbury Library](/libraries/sudbury-library/)
 

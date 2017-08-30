@@ -6,7 +6,6 @@ excerpt: 'Joe Edmunds is a modern Dr Dolittle. Except the animals he talks to ar
 breadcrumb: schools-resources
 sidebar: schools
 category: btb
-hnav: lbarts
 ---
 
 ![Undead Pets](/images/featured/featured-undead-pets.jpg)

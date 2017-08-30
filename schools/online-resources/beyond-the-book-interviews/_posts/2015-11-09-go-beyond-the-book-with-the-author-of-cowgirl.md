@@ -6,7 +6,6 @@ excerpt: "We have a look at the very funny Cowgirl and its author G.R. Gemin goe
 breadcrumb: schools-resources
 sidebar: schools
 category: btb
-hnav: lbarts
 ---
 ![Cowgirl by Giancarlo Gemin](/images/featured/featured-cow-girl.jpg)
 

@@ -4,7 +4,6 @@ title: 23 ways to create a non-reading school
 author: matt-shenton
 breadcrumb: schools-resources
 sidebar: schools
-hnav: lbarts
 ---
 
 ![Discarded books in an empty library](/images/featured/featured-empty-library.jpg)

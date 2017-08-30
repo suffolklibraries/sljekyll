@@ -4,7 +4,6 @@ title: The Beyond the Book festive quiz
 author: matt-shenton
 breadcrumb: schools-resources
 sidebar: schools
-hnav: lbarts
 ---
 
 ![Beyond the Book Santa Claus](/images/featured/featured-beyond-the-book-santa.jpg)
