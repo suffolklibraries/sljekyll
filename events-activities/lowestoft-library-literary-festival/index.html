@@ -10,7 +10,7 @@ breadcrumb: events
 
     <h1 class="page-title tc">Lowestoft Library Literary Festival 2017</h1>
 
-    <p class="ma0 fw3 f3 mb2 mb4-ns tc">Saturday 17 October, 1430-2000. Meet Ben Garrod, George Szirtes, Simon Scarrow and Libby Purves. Tickets available from <a href="/libraries/lowestoft-library/">Lowestoft Library</a>: &pound;3 per talk or &pound;10 for all four.</p>
+    <p class="ma0 fw3 f3 mb2 mb4-ns tc">Saturday 7 October, 1430-2000. Meet Ben Garrod, George Szirtes, Simon Scarrow and Libby Purves. Tickets available from <a href="/libraries/lowestoft-library/">Lowestoft Library</a>: &pound;3 per talk or &pound;10 for all four.</p>
 
   </section>
 
@@ -22,7 +22,7 @@ breadcrumb: events
 
           <article class="{% include /c/slot.html %}">
 
-              <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ event.url }}" class="blue">{{ current_event.name | remove: "Lowestoft Library Literary Festival: " }}</a></h1>
+              <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ current_event.url }}" class="blue">{{ current_event.name | remove: "Lowestoft Library Literary Festival: " }}</a></h1>
 
               <p class="{% include /c/page-meta.html %} mb0">{{ current_event.event-start-time }}{% if current_event.event-end-time %}&#8211;{{ current_event.event-end-time }}{% endif %}</p>
 

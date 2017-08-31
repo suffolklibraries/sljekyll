@@ -12,7 +12,7 @@ event-image: featured/featured-libby-purves-square.jpg
 breadcrumb: y
 ---
 
-Libby Purves will be at talking about her long career as a presenter, journalist and author.
+Libby Purves will be talking about her long career as a presenter, journalist and author.
 
 <img src="/images/featured/featured-libby-purves-square.jpg" alt="Libby Purves" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
 
