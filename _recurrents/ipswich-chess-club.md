@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Chess club for 6-16 year olds - on summer break, no sessions until September"
+recurrent-title: "Chess club for 6-16 year olds - resumes on 9 September"
 recurrent-day: Saturday
 recurrent-times: 1000-1130
 recurrent-location: ipswich-county-library

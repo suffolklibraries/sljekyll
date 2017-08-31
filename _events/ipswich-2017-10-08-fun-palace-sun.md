@@ -10,6 +10,6 @@ event-category: fun-palace
 breadcrumb: y
 ---
 
-Learn something new at one of our Fun Palace workshops including: digital skills, Pi sense hat, Minecraft, Internet taster and iPad tips, science activities, art taster sessions, Community Radio for teens, dance workshops including belly dance and Zumba, giant chess, various board games, New Age Kurling and Boccia, taster Spanish lessons with tapas, tea dance, basic sewing with machines, drumming, beading, knitting, crochet and paper craft.
+Learn something new at one of our Fun Palace workshops including: drumming, tribal belly dancing, Spanish (with tapas!), painting with gouache, paper crafts, Kurling, board games, Zumba, fitness, giant chess, internet tasters, iPad apps, body percussion, digital fun, basic sewing on machines, patchwork, beading, knitting, science sessions and kids' radio.
 
 "Everyone an artist, everyone a scientist."
