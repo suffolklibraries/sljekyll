@@ -28,11 +28,7 @@ Alison Wheeler, Chief Executive of Suffolk Libraries, said: “We have been warn
 
 Suffolk Libraries are running a customer survey until 8 May 2017. [Complete the survey online](https://www.surveymonkey.co.uk/r/SuffolkLibraries2017) or complete a paper copy, available from [all libraries](/libraries/).
 
-There will also be events at Ipswich, Beccles and Bury St Edmunds Libraries where people can talk to library staff or fill in the survey. These will all run from 10am to 1pm as follows:
-
-- [Ipswich Library on Saturday 8 April](/events/ipswich-2017-04-08-survey-ipswich/)
-- [Beccles Library on Saturday 22 April](/events/beccles-2017-04-22-survey-beccles/)
-- [Bury St Edmunds Library on Saturday 6 May](/events/bury-2017-05-06-survey-bury/)
+There will also be events at Ipswich, Beccles and Bury St Edmunds Libraries where people can talk to library staff or fill in the survey.
 
 Tony Brown added, “We anticipate that council funding will continue to shrink so we will keep looking for alternative funding to supplement what we get from the county council.  Our community groups who support libraries have been a big part of this and have raised thousands of pounds every year which have funded things like refurbishments, equipment in many libraries and the cost of wi-fi.
 

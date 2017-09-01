@@ -3,17 +3,21 @@ layout: sidebar-right
 title: Summer Reading Challenge
 breadcrumb: events
 sidebar: summer-reading-challenge
+jquery: true
+dynatable: true
 ---
 
 <img src="/images/featured/featured-src-collage.jpg" alt="Animal Agents">
 
-<div class ="cf">
+<div class="cf">
 
 <p>As the 2017 Summer Reading Challenge draws to a close, we'd like to thank everyone who signed up to take part as well as the volunteers who helped it run so smoothly.</p>
 
 <p>The table below includes details of presentation ceremonies for children who completed this year's Summer Reading Challenge. If you can't see your library listed, or can't attend their ceremony, please <a href="/libraries/">contact your local library</a>.</p>
 
-<table id="src-table" class="pure-table pure-table-bordered">
+{% include dynatable-library-list.html %}
+
+<table id="search-table" class="pure-table pure-table-bordered">
 
     <thead>
         <tr>
@@ -66,7 +70,7 @@ sidebar: summer-reading-challenge
 </table>
 
 <script>
-$('#src-table').dynatable({
+$('#search-table').dynatable({
   features: {
     paginate: false,
     recordCount: false,

@@ -25,6 +25,10 @@
 
     
 
+		<link rel="stylesheet" href="/css/jquery.dynatable.css">
+
+	
+
 </head>
 
 
@@ -143,13 +147,76 @@
 
             <img src="/images/featured/featured-src-collage.jpg" alt="Animal Agents">
 
-<div class ="cf">
+<div class="cf">
 
 <p>As the 2017 Summer Reading Challenge draws to a close, we'd like to thank everyone who signed up to take part as well as the volunteers who helped it run so smoothly.</p>
 
 <p>The table below includes details of presentation ceremonies for children who completed this year's Summer Reading Challenge. If you can't see your library listed, or can't attend their ceremony, please <a href="/libraries/">contact your local library</a>.</p>
 
-<table id="src-table" class="pure-table pure-table-bordered">
+<div class="bg-light-gray pa2 pa3-ns mb2 mb4-ns ba b--near-white
+">
+
+    <p class="ma0 b">Filter by library:</p>
+
+    <div class="pure-form">
+
+        <select class="w-50-ns" id="search-library" name="library">
+            <option></option>
+            <option>Aldeburgh Library</option>
+            <option>Beccles Library</option></option>
+            <option>Brandon Library</option>
+            <option>Broomhill Library</option>
+            <option>Bungay Library</option>
+            <option>Bury St Edmunds Library</option>
+            <option>Capel St Mary Library</option>
+            <option>Chantry Library</option>
+            <option>Clare Library</option>
+            <option>Debenham Library</option>
+            <option>Elmswell Library</option>
+            <option>Eye Library</option>
+            <option>Felixstowe Library</option>
+            <option>Framlingham Library</option>
+            <option>Gainsborough Community Library</option>
+            <option>Glemsford Library</option>
+            <option>Great Cornard Library</option>
+            <option>Hadleigh Library</option>
+            <option>Halesworth Library</option>
+            <option>Haverhill Library</option>
+            <option>Ipswich County Library</option>
+            <option>Ixworth Library</option>
+            <option>Kedington Library</option>
+            <option>Kesgrave Library</option>
+            <option>Kessingland Library</option>
+            <option>Lakenheath Library</option>
+            <option>Lavenham Library</option>
+            <option>Leiston Library</option>
+            <option>Long Melford Library</option>
+            <option>Lowestoft Library</option>
+            <option>Mildenhall Library</option>
+            <option>Moreton Hall (Suffolk Libraries Local)</option>
+            <option>Needham Market Library</option>
+            <option>Newmarket Library</option>
+            <option>Oulton Broad Library</option>
+            <option>Red Lodge (Suffolk Libraries Local)</option>
+            <option>Rosehill Library</option>
+            <option>Saxmundham Library</option>
+            <option>Shotley (Suffolk Libraries Local)</option>
+            <option>Southwold Library</option>
+            <option>Stoke Library</option>
+            <option>Stowmarket Library</option>
+            <option>Stradbroke Library</option>
+            <option>Sudbury Library</option>
+            <option>Thurston Library</option>
+            <option>Wickham Market Library</option>
+            <option>Woodbridge Library</option>
+        </select>
+
+    </div>
+
+</div>
+
+
+<table id="search-table" class="pure-table pure-table-bordered">
 
     <thead>
         <tr>
@@ -201,29 +268,6 @@
 
         <tr>
 
-            <td><a href="/events/felixstowe-2017-09-06-src-presentation-m-z/">Summer Reading Challenge presentation - surnames beginning M-Z</a></td>
-            <td>Felixstowe Library</td>
-            <td>Wed 6 Sep, 2017</td>
-            <td>1700</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
             <td><a href="/events/felixstowe-2017-09-06-src-presentation-a-l/">Summer Reading Challenge presentation - surnames beginning A-L</a></td>
             <td>Felixstowe Library</td>
             <td>Wed 6 Sep, 2017</td>
@@ -251,6 +295,52 @@
             <td>Halesworth Library</td>
             <td>Wed 6 Sep, 2017</td>
             <td>1600</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/felixstowe-2017-09-06-src-presentation-m-z/">Summer Reading Challenge presentation - surnames beginning M-Z</a></td>
+            <td>Felixstowe Library</td>
+            <td>Wed 6 Sep, 2017</td>
+            <td>1700</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/thurston-2017-09-06-src-presentation/">Summer Reading Challenge presentation</a></td>
+            <td>Thurston Library</td>
+            <td>Wed 6 Sep, 2017</td>
+            <td>1800</td>
 
         </tr>
 
@@ -339,6 +429,29 @@
 
         <tr>
 
+            <td><a href="/events/ipswich-2017-09-09-src-presentation-m-z/">Summer Reading Challenge presentation - surnames beginning M-Z</a></td>
+            <td>Ipswich County Library</td>
+            <td>Sat 9 Sep, 2017</td>
+            <td>1530</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
             <td><a href="/events/great-cornard-2017-09-09-src-presentation-sat/">Summer Reading Challenge presentation</a></td>
             <td>Great Cornard Library</td>
             <td>Sat 9 Sep, 2017</td>
@@ -362,148 +475,10 @@
 
         <tr>
 
-            <td><a href="/events/stoke-2017-09-10-src-presentation/">Summer Reading Challenge presentation</a></td>
-            <td>Stoke Library</td>
-            <td>Sun 10 Sep, 2017</td>
-            <td>1100</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/long-melford-2017-09-10-src-presentation/">Summer Reading Challenge presentation</a></td>
-            <td>Long Melford Library</td>
-            <td>Sun 10 Sep, 2017</td>
-            <td></td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/lavenham-2017-09-10-src-presentation/">Summer Reading Challenge presentation</a></td>
-            <td>Lavenham Library</td>
-            <td>Sun 10 Sep, 2017</td>
-            <td>1000</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/kesgrave-2017-09-10-src-presentation-a-k/">Summer Reading Challenge presentation - surnames beginning A-K</a></td>
-            <td>Kesgrave Library</td>
-            <td>Sun 10 Sep, 2017</td>
-            <td>1000</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/haverhill-2017-09-10-src-presentation-m-r/">Summer Reading Challenge presentation - surnames beginning M-R</a></td>
-            <td>Haverhill Library</td>
-            <td>Sun 10 Sep, 2017</td>
-            <td>1130</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/kesgrave-2017-09-10-src-presentation-l-z/">Summer Reading Challenge presentation - surnames beginning L-Z</a></td>
-            <td>Kesgrave Library</td>
-            <td>Sun 10 Sep, 2017</td>
-            <td>1130</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/great-cornard-2017-09-10-src-presentation-sun/">Summer Reading Challenge presentation</a></td>
-            <td>Great Cornard Library</td>
-            <td>Sun 10 Sep, 2017</td>
-            <td>1130</td>
+            <td><a href="/events/ipswich-2017-09-09-src-presentation-a-l/">Summer Reading Challenge presentation - surnames beginning A-L</a></td>
+            <td>Ipswich County Library</td>
+            <td>Sat 9 Sep, 2017</td>
+            <td>1400</td>
 
         </tr>
 
@@ -546,10 +521,102 @@
 
         <tr>
 
-            <td><a href="/events/haverhill-2017-09-10-src-presentation-s-z/">Summer Reading Challenge presentation - surnames beginning S-Z</a></td>
-            <td>Haverhill Library</td>
+            <td><a href="/events/eye-2017-09-10-src-presentation/">Summer Reading Challenge presentation</a></td>
+            <td>Eye Library</td>
             <td>Sun 10 Sep, 2017</td>
-            <td>1215</td>
+            <td>1200</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/kesgrave-2017-09-10-src-presentation-a-k/">Summer Reading Challenge presentation - surnames beginning A-K</a></td>
+            <td>Kesgrave Library</td>
+            <td>Sun 10 Sep, 2017</td>
+            <td>1000</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/kesgrave-2017-09-10-src-presentation-l-z/">Summer Reading Challenge presentation - surnames beginning L-Z</a></td>
+            <td>Kesgrave Library</td>
+            <td>Sun 10 Sep, 2017</td>
+            <td>1130</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/lavenham-2017-09-10-src-presentation/">Summer Reading Challenge presentation</a></td>
+            <td>Lavenham Library</td>
+            <td>Sun 10 Sep, 2017</td>
+            <td>1000</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/long-melford-2017-09-10-src-presentation/">Summer Reading Challenge presentation</a></td>
+            <td>Long Melford Library</td>
+            <td>Sun 10 Sep, 2017</td>
+            <td>1415</td>
 
         </tr>
 
@@ -573,6 +640,121 @@
             <td>Haverhill Library</td>
             <td>Sun 10 Sep, 2017</td>
             <td>1000</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/stoke-2017-09-10-src-presentation/">Summer Reading Challenge presentation</a></td>
+            <td>Stoke Library</td>
+            <td>Sun 10 Sep, 2017</td>
+            <td>1100</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/great-cornard-2017-09-10-src-presentation-sun/">Summer Reading Challenge presentation</a></td>
+            <td>Great Cornard Library</td>
+            <td>Sun 10 Sep, 2017</td>
+            <td>1130</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/haverhill-2017-09-10-src-presentation-m-r/">Summer Reading Challenge presentation - surnames beginning M-R</a></td>
+            <td>Haverhill Library</td>
+            <td>Sun 10 Sep, 2017</td>
+            <td>1130</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/beccles-2017-09-10-src-presentation/">Summer Reading Challenge presentation</a></td>
+            <td>Beccles Library</td>
+            <td>Sun 10 Sep, 2017</td>
+            <td>1400</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/haverhill-2017-09-10-src-presentation-s-z/">Summer Reading Challenge presentation - surnames beginning S-Z</a></td>
+            <td>Haverhill Library</td>
+            <td>Sun 10 Sep, 2017</td>
+            <td>1215</td>
 
         </tr>
 
@@ -661,10 +843,79 @@
 
         <tr>
 
+            <td><a href="/events/ixworth-2017-09-15-src-presentation/">Summer Reading Challenge presentation</a></td>
+            <td>Ixworth Library</td>
+            <td>Fri 15 Sep, 2017</td>
+            <td>1700</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
             <td><a href="/events/brandon-2017-09-15-src-presentation-1/">Summer Reading Challenge presentation</a></td>
             <td>Brandon Library</td>
             <td>Fri 15 Sep, 2017</td>
             <td>1540</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/glemsford-2017-09-15-src-presentation/">Summer Reading Challenge presentation and dog visit</a></td>
+            <td>Glemsford Library</td>
+            <td>Fri 15 Sep, 2017</td>
+            <td>1600</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/bury-2017-09-16-src-presentation-a-k/">Summer Reading Challenge presentation - surnames beginning A-K</a></td>
+            <td>Bury St Edmunds Library</td>
+            <td>Sat 16 Sep, 2017</td>
+            <td>1000</td>
 
         </tr>
 
@@ -730,10 +981,33 @@
 
         <tr>
 
-            <td><a href="/events/newmarket-2017-09-17-src-presentation-i-z/">Summer Reading Challenge presentation for surnames beginning I-Z</a></td>
-            <td>Newmarket Library</td>
-            <td>Sun 17 Sep, 2017</td>
-            <td>1200</td>
+            <td><a href="/events/saxmundham-2017-09-16-src-presentation/">Summer Reading Challenge presentation</a></td>
+            <td>Saxmundham Library</td>
+            <td>Sat 16 Sep, 2017</td>
+            <td>1400</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/bury-2017-09-16-src-presentation-l-z/">Summer Reading Challenge presentation - surnames beginning L-Z</a></td>
+            <td>Bury St Edmunds Library</td>
+            <td>Sat 16 Sep, 2017</td>
+            <td>1130</td>
 
         </tr>
 
@@ -776,6 +1050,29 @@
 
         <tr>
 
+            <td><a href="/events/lowestoft-2017-09-17-src-presentation-a-l/">Summer Reading Challenge presentation for surnames beginning A-L</a></td>
+            <td>Lowestoft Library</td>
+            <td>Sun 17 Sep, 2017</td>
+            <td>1030</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
             <td><a href="/events/newmarket-2017-09-17-src-presentation-A-H/">Summer Reading Challenge presentation for surnames beginning A-H</a></td>
             <td>Newmarket Library</td>
             <td>Sun 17 Sep, 2017</td>
@@ -799,10 +1096,10 @@
 
         <tr>
 
-            <td><a href="/events/lowestoft-2017-09-17-src-presentation-a-l/">Summer Reading Challenge presentation for surnames beginning A-L</a></td>
-            <td>Lowestoft Library</td>
+            <td><a href="/events/newmarket-2017-09-17-src-presentation-i-z/">Summer Reading Challenge presentation for surnames beginning I-Z</a></td>
+            <td>Newmarket Library</td>
             <td>Sun 17 Sep, 2017</td>
-            <td>1030</td>
+            <td>1200</td>
 
         </tr>
 
@@ -845,8 +1142,54 @@
 
         <tr>
 
+            <td><a href="/events/southwold-2017-09-22-src-presentation/">Summer Reading Challenge presentation</a></td>
+            <td>Southwold Library</td>
+            <td>Fri 22 Sep, 2017</td>
+            <td>1700</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
             <td><a href="/events/hadleigh-2017-09-23-src-presentation/">Summer Reading Challenge presentation</a></td>
             <td>Hadleigh Library</td>
+            <td>Sat 23 Sep, 2017</td>
+            <td>1000</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/stowmarket-2017-09-23-src-presentation-a-l/">Summer Reading Challenge presentation for surnames beginning A-L</a></td>
+            <td>Stowmarket Library</td>
             <td>Sat 23 Sep, 2017</td>
             <td>1000</td>
 
@@ -891,10 +1234,10 @@
 
         <tr>
 
-            <td><a href="/events/stowmarket-2017-09-23-src-presentation-a-l/">Summer Reading Challenge presentation for surnames beginning A-L</a></td>
-            <td>Stowmarket Library</td>
-            <td>Sat 23 Sep, 2017</td>
-            <td>1000</td>
+            <td><a href="/events/lowestoft-2017-09-24-src-presentation-m-z/">Summer Reading Challenge presentation for surnames beginning M-Z</a></td>
+            <td>Lowestoft Library</td>
+            <td>Sun 24 Sep, 2017</td>
+            <td>1030</td>
 
         </tr>
 
@@ -937,29 +1280,6 @@
 
         <tr>
 
-            <td><a href="/events/lowestoft-2017-09-24-src-presentation-m-z/">Summer Reading Challenge presentation for surnames beginning M-Z</a></td>
-            <td>Lowestoft Library</td>
-            <td>Sun 24 Sep, 2017</td>
-            <td>1030</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
             <td><a href="/events/capel-2017-10-01-src-olly/">Olly the Magician performance for Summer Reading Challenge winners</a></td>
             <td>Capel St Mary Library</td>
             <td>Sun 1 Oct, 2017</td>
@@ -976,7 +1296,7 @@
 </table>
 
 <script>
-$('#src-table').dynatable({
+$('#search-table').dynatable({
   features: {
     paginate: false,
     recordCount: false,
@@ -1233,6 +1553,26 @@ $('#src-table').dynatable({
         </footer>
 
         
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script src="/js/jquery.dynatable.js"></script>
+<script>
+$('#search-table').dynatable({
+  features: {
+    paginate: false,
+    recordCount: false,
+    sorting: false
+  },
+  inputs: {
+    queries: $('#search-library')
+  }
+});
+</script>
 
 
 
