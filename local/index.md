@@ -22,7 +22,7 @@ breadcrumb: home
 
 				<p class="mt2">The pilot scheme will initially run once a week in three existing community venues, Red Lodge, Shotley and Moreton Hall, for a period of six months each. We will be holding consultations with local residents. This initiative is supplementary to existing public and mobile libraries.</p>
 
-				<p class="mt2">Have you used Suffolk Libraries Local? Please take our <a class="blue" href="https://www.surveymonkey.co.uk/r/HZGRZXY/">survey for individuals</a> or <a class="blue" href="https://www.surveymonkey.co.uk/r/6KVKFHX/">survey for groups</a>. Paper copies are also available at Suffolk Libraries Local branches.</p>
+				<p class="mt2">Have you used Suffolk Libraries Local? Please take our <a class="blue" href="https://www.surveymonkey.co.uk/r/HZGRZXY">survey for individuals</a> or <a class="blue" href="https://www.surveymonkey.co.uk/r/6KVKFHX">survey for groups</a>. Paper copies are also available at Suffolk Libraries Local branches.</p>
 
 </section>
 
