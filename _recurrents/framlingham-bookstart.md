@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Bookstart: stories and rhymes for pre-school children (no session 28 July, 4, 11, 18, or 25 August, restarts 1 September)"
+recurrent-title: "Bookstart: stories and rhymes for pre-school children"
 recurrent-day: Friday
 recurrent-times: 0900-0930
 recurrent-location: framlingham-library

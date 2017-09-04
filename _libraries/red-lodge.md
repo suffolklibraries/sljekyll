@@ -13,7 +13,7 @@ branch-local-internet: y
 branch-news: '<ul>
                 <li>Sign up for a library card, browse and reserve books and use the internet between 12:30-13:30.</li>
                 <li>Payment facilities not available at Suffolk Libraries Local branches. Call <a class="blue" href="tel:01473351249">01473 351249</a> for any payments.</li>
-                <li>We are keen to improve the range and reach of our activities for older people. Please contact us at <strong>sllocal@suffolklibraries.co.uk</strong> with any suggestions.</li>
+                <li>Have you used Suffolk Libraries Local? Please take our <a class="blue" href="https://www.surveymonkey.co.uk/r/HZGRZXY/">survey for individuals</a> or <a class="blue" href="https://www.surveymonkey.co.uk/r/6KVKFHX/">survey for groups</a>. Paper copies are also available at Suffolk Libraries Local branches.</li>
               </ul>'
 breadcrumb: y
 branch-local: y
