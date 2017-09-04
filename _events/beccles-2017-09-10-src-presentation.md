@@ -9,4 +9,4 @@ event-category: src-presentation
 breadcrumb: y
 ---
 
-Receive your reward for participating in the Summer Reading Challenge. Parents and siblings welcome to attend.
+Receive your reward for participating in the Summer Reading Challenge from the mayor and deputy mayor of Beccles, Richard Stubbings and Elfrede Bramley-Crawshaw. Parents and siblings welcome to attend.
