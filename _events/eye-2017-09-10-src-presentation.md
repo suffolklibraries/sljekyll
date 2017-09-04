@@ -9,4 +9,4 @@ event-category: src-presentation
 breadcrumb: y
 ---
 
-Children who have completed this year's Summer Reading Challenge are invited to pick up their medals and certificates.
+Children who have completed this year's Summer Reading Challenge are invited to pick up their medals and certificates. Our fabulous volunteers are also welcome to come along.
