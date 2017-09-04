@@ -10,4 +10,4 @@ event-category: src-presentation
 breadcrumb: y
 ---
 
-Children who have completed this year's Summer Reading Challenge are invited to pick up their medals and certificates from Mildenhall's new councillor.
+Children who have completed this year's Summer Reading Challenge are invited to pick up their medals and certificates from Mildenhall's Cllr Louis Busuttil.

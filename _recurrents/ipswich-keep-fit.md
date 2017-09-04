@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Keep Fit - £25 for 6 classes, fitness conditioning, all levels welcome, bring a towel/exercise mat and bottle of water, please book in advance"
-recurrent-day: Fridays from 8 September
+recurrent-day: Friday
 recurrent-times: 1745-1845
 recurrent-location: ipswich-county-library
 recurrent-location-display-name: Ipswich County Library

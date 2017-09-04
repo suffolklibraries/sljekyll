@@ -1,5 +1,5 @@
 ---
-recurrent-title: "German conversation group: for those with some previous knowledge of conversational German - no sessions in August"
+recurrent-title: "German conversation group: for those with some previous knowledge of conversational German"
 recurrent-day: second and fourth Tuesday of the month
 recurrent-times: 1400-1600
 recurrent-location: beccles-library

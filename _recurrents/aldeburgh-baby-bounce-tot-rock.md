@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers - no sessions 21 or 28 August, otherwise running throughout the summer"
+recurrent-title: "Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers"
 recurrent-day: Monday
 recurrent-times: 1030-1100
 recurrent-location: aldeburgh-library

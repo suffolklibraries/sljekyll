@@ -10,4 +10,4 @@ event-category: src-presentation
 breadcrumb: y
 ---
 
-Children who have completed this year's Summer Reading Challenge are invited to pick up their medals and certificates at Saxmundham Market Hall from county councillor Richard Smith.
+Children who have completed this year's Summer Reading Challenge are invited to pick up their medals and certificates at Saxmundham Market Hall from Sir Peter and Lady Batho.

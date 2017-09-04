@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Lego club for children ages 5-12 - limited places so please contact the library to register - on summer break"
+recurrent-title: "Lego club for children ages 5-12 - limited places so please contact the library to register"
 recurrent-day: Saturday
 recurrent-times: 1400-1600
 recurrent-location: hadleigh-library

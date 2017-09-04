@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Book group - 50p to include coffee and biscuits - next meeting Friday 7 July"
+recurrent-title: "Book group - 50p to include coffee and biscuits"
 recurrent-day: Friday once a month
 recurrent-times: 1330
 recurrent-location: saxmundham-library
