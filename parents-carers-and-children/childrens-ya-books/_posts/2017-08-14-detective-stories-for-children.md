@@ -11,7 +11,7 @@ featured-link-text: "Check out our favourite detective stories for children."
 breadcrumb: childrens-ya-books
 ---
 
-![Death CLoud, The Guggenheim Mystery, The Mystery of the Clockwork Sparrow](/images/featured/featured-detective-stories.jpg)
+![Death Cloud, The Guggenheim Mystery, The Mystery of the Clockwork Sparrow](/images/featured/featured-detective-stories.jpg)
 
 Is helping the Animal Agents solve the case for this year's Summer Reading Challenge giving your child a taste for mystery? Or perhaps they're wondering what book to read next to progress with the Challenge? We've made a list of our favourite detective books for children.
 
