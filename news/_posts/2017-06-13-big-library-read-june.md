@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Take part in OverDrive's Big Library Read for June
+title: "Take part in OverDrive's Big Library Read for June"
 date: 2017-06-13
 author: alice-violett
 category: news
