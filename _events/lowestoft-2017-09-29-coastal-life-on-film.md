@@ -1,7 +1,7 @@
 ---
 id: low-film
 name: "Our Coastal Life on Film with Creative Arts East"
-location: Lowestoft-library
+location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2017-09-29
 event-start-time: 1800
