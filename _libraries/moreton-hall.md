@@ -3,7 +3,7 @@ branch-unique-id: moreton-hall
 branch-name: "Moreton Hall (Suffolk Libraries Local)"
 branch-image: /images/branches/sll-moreton-hall.jpg
 branch-local-day: Tuesday
-branch-local-hours: 1030-1630
+branch-local-hours: 1300-1630
 branch-manager: Tom Veasey
 branch-address: Moreton Hall Youth Centre, Symonds Road, Bury St Edmunds
 branch-post-code: IP32 7EW
