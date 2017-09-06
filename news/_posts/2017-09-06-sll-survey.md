@@ -14,4 +14,4 @@ The ‘pop-up’ library sessions have been running as part of a pilot project t
 
 If you went along to a Suffolk Libraries Local session we’d love to hear your views. Please visit the [Suffolk Libraries Local page](/local/) to take part in a short survey about your experience. The survey closes on 24 September.
 
-Paper copies of the survey are also available from the Suffolk Libraries Local sessions, which have been extended and are continuing into October.
+Paper copies of the survey are also available from the Suffolk Libraries Local sessions. These will be taking place until the end of October, when the extended pilot period ends.
