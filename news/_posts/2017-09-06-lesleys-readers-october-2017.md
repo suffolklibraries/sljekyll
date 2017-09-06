@@ -4,13 +4,13 @@ title: Lesley’s Readers on BBC Radio Suffolk – book choice for October
 date: 2017-09-06
 author: alice-violett
 category: news
-excerpt: 'This month Lesley will be discussing <cite>The Day</cite>, by Jane Harper.'
+excerpt: 'This month Lesley will be discussing <cite>The Dyy</cite>, by Jane Harper.'
 breadcrumb: news
 ---
 
 Each month BBC Radio Suffolk presenter Lesley Dolphin discusses a book with journalist Catherine Larner as part of Lesley's Readers monthly book group.
 
-This month's chosen book is [<cite>The Day</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2080567), by Jane Harper:
+This month's chosen book is [<cite>The Dry</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2080567), by Jane Harper:
 
 > "Amid the worst drought to ravage Australia in a century, it hasn't rained in small country town Kiewarra for two years. Tensions in the community become unbearable when three members of the Hadler family are brutally murdered. Everyone thinks Luke Hadler, who committed suicide after slaughtering his wife and six-year-old son, is guilty.
 

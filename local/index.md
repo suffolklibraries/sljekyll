@@ -22,7 +22,9 @@ breadcrumb: home
 
 				</ul>
 
-				<p class="mt2">The pilot scheme will initially run once a week in three existing community venues, Red Lodge, Shotley and Moreton Hall, for a period of six months each. We will be holding consultations with local residents. This initiative is supplementary to existing public and mobile libraries.</p>
+				<p class="mt2">The pilot scheme will run once a week in three existing community venues, Red Lodge, Shotley and Moreton Hall, for a period of six months each. We will be holding consultations with local residents. This initiative is supplementary to existing public and mobile libraries.</p>
+
+				<p class="mt2">The pilot period for all three branches will finish at the end of October 2017.</p>
 
 </section>
 
