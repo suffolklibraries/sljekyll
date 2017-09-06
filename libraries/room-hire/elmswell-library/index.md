@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: 'Elmswell Library room hire'
+title: 'Elmswell Library facilities for hire'
 breadcrumb: branch-room-hire
 ---
 # Space within library

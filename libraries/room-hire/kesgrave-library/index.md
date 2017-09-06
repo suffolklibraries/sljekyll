@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: 'Kesgrave Library room hire'
+title: 'Kesgrave Library facilities for hire'
 breadcrumb: branch-room-hire
 ---
 

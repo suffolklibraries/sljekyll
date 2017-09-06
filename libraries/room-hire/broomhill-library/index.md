@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: 'Broomhill Library room hire'
+title: 'Broomhill Library facilities for hire'
 breadcrumb: branch-room-hire
 ---
 # Space within library

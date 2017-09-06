@@ -32,7 +32,7 @@ breadcrumb: home
 
         <section class="{% include /c/block.html %}">
 
-            <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/libraries/room-hire/">Room &amp; venue hire</a></h1>
+            <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/libraries/room-hire/">Room &amp; space hire</a></h1>
 
             <a class="white" href="/libraries/room-hire/"><img src="/images/featured/featured-hub-pod.jpg" class="custom-constrain-img" alt="Chairs around a table next to a flipchart"></a>
 

@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: 'Clare Library room hire'
+title: 'Clare Library facilities for hire'
 breadcrumb: branch-room-hire
 ---
 # Space within library
