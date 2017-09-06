@@ -4,7 +4,7 @@ title: Lesley’s Readers on BBC Radio Suffolk – book choice for October
 date: 2017-09-06
 author: alice-violett
 category: news
-excerpt: 'This month Lesley will be discussing <cite>The Dyy</cite>, by Jane Harper.'
+excerpt: 'This month Lesley will be discussing <cite>The Dry</cite>, by Jane Harper.'
 breadcrumb: news
 ---
 
