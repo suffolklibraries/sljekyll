@@ -3,7 +3,7 @@ id: red-presentation
 name: "Summer Reading Challenge presentation"
 location: red-lodge
 location-text: Red Lodge (Suffolk Libraries Local)
-event-start-date: 2017-09-09
+event-start-date: 2017-09-07
 event-start-time: 1600
 event-doors-open: 1530
 event-end-time: 1630
