@@ -37,5 +37,4 @@ branch-room-hire: /libraries/room-hire/lowestoft-library
 breadcrumb: y
 branch-other-facilities: 'Lowestoft branch of the Suffolk Record Office on the first floor. See the <a class="blue" href="https://www.suffolkarchives.co.uk/planning-your-visit/suffolk-record-office-branches/lowestoft-branch/">Suffolk Record Office website</a> for opening hours and contact details.'
 branch-for-sale: 'Tickets for the <a class="blue" href="/events-activities/lowestoft-library-literary-festival/">2017 Lowestoft Library Literary Festival</a> now available from the main library desk.'
-branch-news: 'The library will be opening at 10am on Wednesday 6 September due to staff training. Please call customer services on <a href="tel:01473351249">01473 351249</a> with any enquiries.'
 ---
