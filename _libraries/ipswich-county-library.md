@@ -32,6 +32,5 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/ipswich-county-library
-branch-news: 'The library will be opening at 10am on Thursday 7 September due to staff training. Please call customer services on <a href="tel:01473351249">01473 351249</a> with any enquiries.'
 breadcrumb: y
 ---
