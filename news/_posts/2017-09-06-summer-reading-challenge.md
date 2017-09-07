@@ -4,11 +4,11 @@ title: "Suffolk Libraries celebrates another successful Summer Reading Challenge
 date: 2017-09-06
 author: james-powell
 category: news
-excerpt: 'Suffolk Libraries is celebrating another summer of inspiring young children to discover the joy of books and reading.'
+excerpt: "We're celebrating another summer of inspiring young children to discover the joy of books and reading."
 breadcrumb: news
 ---
 
-Suffolk Libraries is celebrating another summer of inspiring young children to discover the joy of books and reading.
+We're celebrating another summer of inspiring young children to discover the joy of books and reading.
 
 All 44 libraries across the county are holding, or have held, special award ceremonies for children who have completed this year’s Summer Reading Challenge. Figures so far show that this year has been one of the most successful in Suffolk, with over 8,230 children signing up to take part, reading thousands of books in the process.
 
