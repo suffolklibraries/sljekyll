@@ -32,6 +32,5 @@ branch-faxing: y
 branch-room-hire: /libraries/room-hire/bury-st-edmunds-library
 branch-display-space: Space available for table top or banner displays in internal and external foyer. Public notice board also available.
 branch-news: 'The library will be opening at 9:30am on Monday 11 September due to staff training. Please call customer services on <a href="tel:01473351249">01473 351249</a> with any enquiries.'
-branch-other-facilities: Bury Masterplan Town Centre consultation information in the foyer until Friday 8 September.
 breadcrumb: y
 ---
