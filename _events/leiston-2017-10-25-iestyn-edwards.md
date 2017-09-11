@@ -10,6 +10,6 @@ event-ticket-price: 2
 breadcrumb: y
 ---
 
-"Achingly funny" West End headline act Iestyn Edwards will be talking about his experiences in Iraq and Afghanistan, entertaining the troops with his cross-dressing ballerina act.
+"Achingly funny" West End headline act and author of [<cite>My Tutu Went AWOL</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2173352) Iestyn Edwards will be talking about his experiences in Iraq and Afghanistan, entertaining the troops with his cross-dressing ballerina act.
 
 Ticket price includes a glass of wine or a tea/coffee.
