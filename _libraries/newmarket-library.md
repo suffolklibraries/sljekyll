@@ -35,6 +35,5 @@ branch-scan-to-email: y
 branch-faxing: y
 branch-for-sale: "Poetry book collated by Newmarket Library Friend Christine - £5 each with all proceeds to Friends of Newmarket Library and St Nicholas Hospice.
 Three volumes of poetry by local poet Yvonne Zellen - £5 each with all proceeds to charity. £1 from every sale goes to Newmarket Library."
-branch-news: 'The library will be open as usual on Friday 8 September when the cycling Tour of Britain starts in Newmarket. However, you may wish to leave plenty of time for your visit due to <a href="http://www.tourofbritain.co.uk/stages/stage-six/">road closures</a>.'
 breadcrumb: y
 ---
