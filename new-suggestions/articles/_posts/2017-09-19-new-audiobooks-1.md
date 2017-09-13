@@ -58,7 +58,7 @@ Do you long to keep up with the latest books, but have no time to sit down and r
 
 > "According to the Nice and Accurate Prophecies of Agnes Nutter, Witch, the world will end on a Saturday. Next Saturday in fact. Just after <cite>Any Answers</cite> on Radio 4....
 
-> "Events have been set in motion to bring about the End of Days. The armies of Good and Evil are gathering and making their way towards the sleepy English village of Lower Tadfield. The Four Horsepersons of the Apocalypse - War, Famine, Pollution and Death - are assembling."
+> "Events have been set in motion to bring about the End of Days. The armies of Good and Evil are gathering and making their way towards the sleepy English village of Lower Tadfield. The Four Horsepersons of the Apocalypse - War, Famine, Pollution and Death - are assembling.
 
 > "Witchfinder Shadwell and his assistant Newton Pulsifier are also en route to Tadfield to investigate unusual phenomena in the area, while Anathema Device, descendent of prophetess Agnes Nutter, tries to decipher her ancestor's cryptic predictions.
 
