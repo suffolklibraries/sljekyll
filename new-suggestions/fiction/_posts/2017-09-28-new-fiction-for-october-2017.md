@@ -21,7 +21,7 @@ This one needs no introduction. It is the fifth novel in the Da Vinci Code serie
 
 > "P.D. James was often commissioned by newspapers and magazines to write a special short story for Christmas. As the six tales presented here unfold, the dark motive of revenge is revealed at the heart of each. Bullying schoolmasters receive their comeuppance, unhappy marriages and childhoods are avenged, a murder in the small hours of Christmas Day puts an end to the vicious new lord of the manor, and, from the safety of his nursing home, an octogenarian exerts exquisite retribution."
 
-## [<cite>A Spot of Folly: new tales of murder and mayham</cite>, by Ruth Rendell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2252845)
+## [<cite>A Spot of Folly: new tales of murder and mayhem</cite>, by Ruth Rendell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2252845)
 
 This is a must for Ruth Rendell fans. This is the first time these stories have been collected together under Rendell's name and seven out of the nine have never been published in book form:
 
@@ -53,7 +53,7 @@ Henning Mankell's last novel, published after his death, deals with love, loss a
 
 ## [<cite>Mrs Osmond</cite>, by John Banville](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2255791)
 
-John Banville Henry James in this sequel to James' masterpiece <cite>The Portrait of a Lady</cite>:
+John Banville channels Henry James in this sequel to James' masterpiece <cite>The Portrait of a Lady</cite>:
 
 > "Having fled Rome and a stultifying marriage, Isabel Osmond is in London, brooding on the recent disclosure of her husband's shocking, years-long betrayal of her. What should she do now, and which way should she turn, in the emotional labyrinth where she has been trapped for so long? Reawakened by grief and the knowledge of having been grievously wronged, she determines to resume her youthful quest for freedom and independence. Soon Isabel must return to Italy and confront her husband, and seek to break his powerful hold on her. But will she succeed in outwitting him, and securing her revenge?"
 
