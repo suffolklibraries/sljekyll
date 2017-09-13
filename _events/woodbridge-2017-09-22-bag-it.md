@@ -3,7 +3,7 @@ id: woodbridge-bag-it
 name: "Film night with Transition Woodbridge: <cite>Bag It</cite>"
 location: woodbridge-library
 location-text: Woodbridge Library
-event-start-date: 2017-09-23
+event-start-date: 2017-09-22
 event-start-time: 1900
 event-end-time: 2100
 events-ticket-price: free but donations welcome
