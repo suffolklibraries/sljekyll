@@ -10,6 +10,8 @@ events-ticket-price: free but donations welcome
 breadcrumb: y
 ---
 
+PLEASE NOTE: this event is on Friday 22 September and not Saturday 23 September as originally advertised.
+
 Join Transition Woodbirdge for a screening of <cite>Bag It</cite>, with refreshments and an open discussion, including of actions that are happening locally.
 
 > "Our crazy-for-plastic world has finally caught up to us. What can we do about it? Today? Right now?
