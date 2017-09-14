@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Tot Rock: songs and action rhymes for toddlers (term time only)"
-recurrent-day: Thursday
+recurrent-day: Thursday (library otherwise closed until 1430)
 recurrent-times: 0945-1015
 recurrent-location: kesgrave-library
 recurrent-location-display-name: Kesgrave Library
