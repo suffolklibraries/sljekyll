@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers"
-recurrent-day: Monday
+recurrent-day: Monday (library otherwise closed)
 recurrent-times: 1030-1100
 recurrent-location: kessingland-library
 recurrent-location-display-name: Kessingland Library
