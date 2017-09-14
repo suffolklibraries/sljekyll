@@ -1,5 +1,5 @@
 ---
-id: chantry-fun
+id: ipswich-fun
 name: "Fun Palace"
 location: ipswich-county-library
 location-text: Ipswich County Library
