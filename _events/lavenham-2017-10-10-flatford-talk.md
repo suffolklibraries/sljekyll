@@ -4,7 +4,8 @@ name: "Flatford and Constable talk by Patricia Hodgkins"
 location: lavenham-library
 location-text: Lavenham Library
 event-start-date: 2017-10-10
-event-start-time: 1600
+event-start-time: 1430
+event-end-time: 1600
 event-ticket-price: free
 breadcrumb: y
 ---
