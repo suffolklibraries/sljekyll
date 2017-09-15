@@ -10,7 +10,7 @@ breadcrumb: news
 
 We're celebrating another summer of inspiring young children to discover the joy of books and reading.
 
-All 44 libraries across the county are holding, or have held, special award ceremonies for children who have completed this year’s Summer Reading Challenge. Figures so far show that this year has been one of the most successful in Suffolk, with over 8,230 children signing up to take part, reading thousands of books in the process.
+All 44 libraries across the county are holding, or have held, special award ceremonies for children who have completed this year’s Summer Reading Challenge. Figures so far show that this year has been one of the most successful in Suffolk with around 8,280 children signing up to take part, reading over 85,000 books in the process. Nearly 2,300 children have also been registered with library cards during this time.
 
 The Summer Reading Challenge takes place every year during the summer holidays and helps to get three quarters of a million children into libraries across the country. It’s a fun way of encouraging children to keep reading during the holidays and is produced by the Reading Agency and delivered by libraries. The theme for 2017 was ‘Animal Agents’, with libraries getting on board with a range of animal-related reading and craft activities.
 
