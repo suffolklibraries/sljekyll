@@ -1,6 +1,6 @@
 ---
 recurrent-title: "IT support and troubleshooting. Get help and advice on any aspect of your tablet, laptop or phone. Free but donations appreciated."
-recurrent-day: every other Friday from 15 September
+recurrent-day: every other Friday
 recurrent-times: 0930-1300
 recurrent-location: framlingham-library
 recurrent-location-display-name: Framlingham Library
