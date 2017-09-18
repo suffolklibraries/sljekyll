@@ -11,4 +11,4 @@ event-category: older
 event-ticket-price: free
 ---
 
-Older people are invited to come to the library for some company and delicious Fairtrade goodies. Enjoy a free cup of tea, a scone with jam and cream or a slice of cake, have a chat and make new friends.
+Older people are invited to come to the library for some company and delicious Fairtrade goodies. Enjoy a free cup of tea, a scone with jam and cream or a slice of cake, have a chat, make new friends and even have a go at building some Lego - you're never too old!
