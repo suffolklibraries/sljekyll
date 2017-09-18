@@ -27,3 +27,5 @@ Scarrow's latest book was a thriller, [<cite>Playing with Death</cite>](https://
 His next historical novel, [<cite>Day of the Caesars</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2270000), will be published in November.
 
 Tickets available from the main desk in the library.
+
+[&larr; Back to the Lowestoft Library Literary Festival](/events-activities/lowestoft-library-literary-festival/)

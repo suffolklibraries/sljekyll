@@ -21,3 +21,5 @@ In Szirtes' latest collection, <cite>Bad Machine</cite>:
 > "The body is the 'bad machine'. The sudden death of his elderly father and of his younger friend, the poet Michael Murphy, remind him how machines - sources of energy and delight in their prime - go so easily wrong; and that change in the body is a signal for moving on. But language too is a body. Here, politics, assimilation, desire, creatureliness and the pleasure and loss of the body, mingle in various attenuated forms such as lexicon, canzone, acrosti, mirror poems, postcards, and a series of 'minimenta' after Anselm Kiefer whose love of history as rubble and monument haunts this collection."
 
 Tickets available from the main desk in the library.
+
+[&larr; Back to the Lowestoft Library Literary Festival](/events-activities/lowestoft-library-literary-festival/)
