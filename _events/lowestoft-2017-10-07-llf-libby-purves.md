@@ -19,3 +19,5 @@ Libby Purves will be talking about her long career as a presenter, journalist an
 In her long career, Purves has worked on <cite>Today</cite>, <cite>Tatler</cite>, <cite>The Times</cite>, <cite>Midweek</cite> and the <cite>Daily Mail</cite>, and published 20 books, so this is bound to be a fascinating talk.
 
 Tickets available from the main desk in the library.
+
+[&larr; Back to the Lowestoft Library Literary Festival](/events-activities/lowestoft-library-literary-festival/)

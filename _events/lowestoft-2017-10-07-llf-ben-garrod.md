@@ -19,3 +19,5 @@ Ben Garrod will be sharing insights into his work as a biologist, primatologist 
 You might recognise Ben from her six-part series <cite>Secrets of Bones</cite>, as well as <cite>Springwatch</cite> and <cite>The One Show</cite>. Early next year, he is publishing a series of children's non-fiction books about the triceratops, the diplodocus and the tyrannosaurus.
 
 Tickets available from the main desk in the library.
+
+[&larr; Back to the Lowestoft Library Literary Festival](/events-activities/lowestoft-library-literary-festival/)
