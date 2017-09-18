@@ -1,0 +1,13 @@
+@media screen, projection {
+
+.custom-visited a:link,
+a:link.custom-visited {
+    color: #0074D9;
+}
+
+.custom-visited a:visited,
+a:visited.custom-visited {
+    color: #6FA7D6;
+}
+
+}

@@ -2,7 +2,7 @@
 
     {% if page.breadcrumb == 'home' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; {{ page.title }}</p>
 
@@ -10,7 +10,7 @@
 
     {% elsif page.breadcrumb == 'events' %}
 
-    <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+    <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
         <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities">Events and activities</a> &rarr; {{ page.title }}</p>
 
@@ -18,7 +18,7 @@
 
     {% elsif page.event-start-date and page.event-category != 'bookfest' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities">Events and activities</a> &rarr; {{ page.name }}</p>
 
@@ -26,7 +26,7 @@
 
     {% elsif page.event-category == 'bookfest' %}
 
-    <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+    <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
         <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities">Events and activities</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities/bookfest/">Bookfest</a> &rarr; {{ page.name }}</p>
 
@@ -34,7 +34,7 @@
 
     {% elsif page.breadcrumb == 'branches' or page.branch-name %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/libraries">Libraries</a> &rarr; {{ page.title }}</p>
 
@@ -42,7 +42,7 @@
 
     {% elsif page.breadcrumb == 'elibrary' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/elibrary">eLibrary</a> &rarr; {{ page.title }}</p>
 
@@ -50,7 +50,7 @@
 
     {% elsif page.breadcrumb == 'room-hire' %}
 
-    <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+    <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
         <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/libraries/">Libraries</a> &rarr; {{ page.title }}</p>
 
@@ -58,7 +58,7 @@
 
     {% elsif page.breadcrumb == 'branch-room-hire' %}
 
-    <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+    <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
         <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/libraries/">Libraries</a> &rarr; <a class="pv2 pv0-ns link blue" href="/libraries/room-hire/">Room hire</a> &rarr; {{ page.title }}</p>
 
@@ -66,7 +66,7 @@
 
     {% elsif page.breadcrumb == 'about' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/about">About</a> &rarr; {{ page.title }}</p>
 
@@ -74,7 +74,7 @@
 
     {% elsif page.breadcrumb == 'member-organisations' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/about">About</a> &rarr; <a class="pv2 pv0-ns link blue" href="/about/member-organisations">Member organisations</a> &rarr; {{ page.title }}</p>
 
@@ -82,7 +82,7 @@
 
     {% elsif page.breadcrumb == 'documents' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/about">About</a> &rarr; <a class="pv2 pv0-ns link blue" href="/about/documents">Documents</a> &rarr; {{ page.title }}</p>
 
@@ -90,7 +90,7 @@
 
     {% elsif page.breadcrumb == 'jobs' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/about">About</a> &rarr; <a class="pv2 pv0-ns link blue" href="/about/jobs">Jobs</a> &rarr; {{ page.title }}</p>
 
@@ -98,7 +98,7 @@
 
     {% elsif page.breadcrumb == 'fiction' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions">Recommendations &amp; reviews</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions/fiction">Fiction</a> &rarr; {{ page.title }}</p>
 
@@ -106,7 +106,7 @@
 
     {% elsif page.breadcrumb == 'articles' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions">Recommendations &amp; reviews</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions/articles">Articles</a> &rarr; {{ page.title }}</p>
 
@@ -114,7 +114,7 @@
 
     {% elsif page.breadcrumb == 'blog' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/blog">Blog</a> &rarr; {{ page.title }}</p>
 
@@ -122,7 +122,7 @@
 
     {% elsif page.breadcrumb == 'meet-the-author' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr;  <a class="pv2 pv0-ns link blue" href="/new-suggestions">Recommendations &amp; reviews</a> &rarr; <a class="pv2 pv0-ns link blue" href="/meet-the-author">Meet the author</a> &rarr; {{ page.title }}</p>
 
@@ -130,7 +130,7 @@
 
     {% elsif page.breadcrumb == 'young-adult' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions">Recommendations &amp; reviews</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions/young-adult">Young adult</a> &rarr; {{ page.title }}</p>
 
@@ -138,7 +138,7 @@
 
     {% elsif page.breadcrumb == 'staff-picks' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions">Recommendations &amp; reviews</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions/reviews">Reviews</a> &rarr; {{ page.title }}</p>
 
@@ -146,7 +146,7 @@
 
     {% elsif page.breadcrumb == 'films-dvds' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions">Recommendations &amp; reviews</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions/films-dvds">Films and DVDs</a> &rarr; {{ page.title }}</p>
 
@@ -154,7 +154,7 @@
 
     {% elsif page.breadcrumb == 'health' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/health">New Chapters: Mental health information services</a> &rarr; {{ page.title }}</p>
 
@@ -162,7 +162,7 @@
 
     {% elsif page.breadcrumb == 'non-fiction' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions">Recommendations &amp; reviews</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions/non-fiction">Non-fiction</a> &rarr; {{ page.title }}</p>
 
@@ -170,7 +170,7 @@
 
     {% elsif page.breadcrumb == 'interviews' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/interviews">Author interviews</a> &rarr; {{ page.title }}</p>
 
@@ -178,7 +178,7 @@
 
     {% elsif page.breadcrumb == 'music' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions">Recommendations &amp; reviews</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions/music">Music</a> &rarr; {{ page.title }}</p>
 
@@ -186,7 +186,7 @@
 
     {% elsif page.breadcrumb == 'book-club' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions">Recommendations &amp; reviews</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions/book-club">Book club favourites</a> &rarr; {{ page.title }}</p>
 
@@ -194,7 +194,7 @@
 
     {% elsif page.breadcrumb == 'news' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/news">News</a> &rarr; {{ page.title }}</p>
 
@@ -202,7 +202,7 @@
 
     {% elsif page.breadcrumb == 'schools' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/schools/">Schools</a> &rarr; {{ page.title }}</p>
 
@@ -210,7 +210,7 @@
 
     {% elsif page.breadcrumb == 'schools-resources' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/schools/">Schools</a> &rarr; <a class="pv2 pv0-ns link blue" href="/schools/online-resources">Online resources</a> &rarr; {{ page.title }}</p>
 
@@ -218,7 +218,7 @@
 
     {% elsif page.breadcrumb == 'literacy' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/schools/">Schools, literacy and reading</a> &rarr; <a class="pv2 pv0-ns link blue" href="/schools-literacy/literacy">Beyond the Book</a> &rarr; {{ page.title }}</p>
 
@@ -226,7 +226,7 @@
 
     {% elsif page.breadcrumb == 'children-parents' or page.breadcrumb == 'childrens-ya-books' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/parents-carers-and-children/">Parents, carers and children</a> &rarr; {{ page.title }}</p>
 
@@ -234,7 +234,7 @@
 
     {% elsif page.breadcrumb == 'booked-out' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions">Recommendations &amp; reviews</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions/booked-out">Booked out podcast</a> &rarr; {{ page.title }}</p>
 
@@ -242,7 +242,7 @@
 
     {% elsif page.breadcrumb == 'new-suggestions' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions">Recommendations &amp; reviews</a> &rarr; {{ page.title }}</p>
 
@@ -250,7 +250,7 @@
 
     {% elsif page.breadcrumb == 'help' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/help">Help using the service</a> &rarr; {{ page.title }}</p>
 
@@ -258,7 +258,7 @@
 
     {% elsif page.breadcrumb == 'hub' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/branches">Branches</a> &rarr; <a class="pv2 pv0-ns link blue" href="/branches/hub">Enterprise + Innovation Hub</a> &rarr; {{ page.title }}</p>
 
@@ -266,7 +266,7 @@
 
     {% elsif page.breadcrumb == 'mobiles-home' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/mobiles-home">Mobile libraries and home library service</a> &rarr; {{ page.title }}</p>
 
@@ -274,7 +274,7 @@
 
     {% elsif page.breadcrumb == 'information-resources' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/information-resources">Information resources</a> &rarr; {{ page.title }}</p>
 
@@ -282,7 +282,7 @@
 
     {% elsif page.breadcrumb == 'schools-literacy' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/schools-literacy">Schools, literacy and reading</a> &rarr; {{ page.title }}</p>
 
@@ -290,7 +290,7 @@
 
     {% elsif page.breadcrumb == 'bookfest' %}
 
-            <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+            <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
                 <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities">Events and activities</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities/bookfest">Suffolk Libraries Bookfest</a> &rarr; {{ page.title }}</p>
 
@@ -298,7 +298,7 @@
 
     {% elsif page.breadcrumb == 'our-year-of-reading' %}
 
-            <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+            <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
                 <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities">Events and activities</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities/our-year-of-reading">Our Year of Reading</a> &rarr; {{ page.title }}</p>
 
@@ -306,7 +306,7 @@
 
     {% elsif page.breadcrumb == 'reading-groups' %}
 
-            <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+            <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
                 <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities">Events and activities</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities/reading-groups">Reading groups</a> &rarr; {{ page.title }}</p>
 
@@ -314,7 +314,7 @@
 
     {% elsif page.breadcrumb == 'summer-reading-challenge' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities">Events and activities</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities/summer-reading-challenge">Summer Reading Challenge</a> &rarr; {{ page.title }}</p>
 
@@ -322,7 +322,7 @@
 
         {% elsif page.breadcrumb == 'summer' %}
 
-            <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+            <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
                 <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities">Events and activities</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities/summer-holidays">Summer Holiday activities for children</a> &rarr; {{ page.title }}</p>
 
@@ -330,7 +330,7 @@
 
     {% elsif page.breadcrumb == 'suffolk-writes' %}
 
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
             <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities">Events and activities</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities/suffolk-writes">Suffolk Writes</a> &rarr; {{ page.title }}</p>
 
@@ -340,7 +340,7 @@
 
     {% elsif page.breadcrumb == 'volunteering' %}
 
-    <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+    <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
         <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/volunteering">Volunteer</a> &rarr; {{ page.title }}</p>
 

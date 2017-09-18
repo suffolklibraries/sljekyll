@@ -1,0 +1,13 @@
+@media screen, projection {
+
+.custom-underline a:hover,
+.custom-underline a:active,
+.custom-underline a:focus,
+a:hover.custom-underline,
+a:active.custom-underline,
+a:focus.custom-underline {
+    border-bottom: 2px solid;
+}
+
+
+}
