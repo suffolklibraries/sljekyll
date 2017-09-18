@@ -8,8 +8,8 @@ breadcrumb: elibrary
 
     <ul>
 
-        <li>The name of the Zinio website has changed to RBdigital. You can still access magazines as before.</li>
-        <li>If you are already using the Zinio app, you may be prompted to download the new RBdigital app. This also does not affect the service. The existing app will remain available for now.</li>
+        <li>The name of the Zinio service has changed to RBdigital.</li>
+        <li>You can still use the Zinio app to access any magazines you have previously downloaded. However, <strong>you need to download the new RBdigital app to download new magazines on a tablet</strong>.</li>
 
     </ul>
 
@@ -69,7 +69,7 @@ Once you have downloaded the app, follow the steps from step 5 above.
 ### On the RBdigital app for Android, iOS and Amazon Kindle Fire
 
 1. Press the three horizontal lines on the top left-hand side of the app and select 'Magazines'. Alternatively, if you are looking at the 'Checked Out' screen, you can press 'Explore' on the top right-hand side
-2. Select the magazine you want and press 'Checkout'. You have the option to receive email notifications when the next issue of the magazine becomes available
+2. Select the magazine you want and press 'Checkout'. You have the option to receive email notifications when the next issue of the magazine becomes available. <strong>Some iOS users may see the 'download from cloud' symbol instead of 'Checkout.'</strong>
 3. Press the 'Read' button underneath the magazine's picture to view it
 4. To view all of your magazines, press the three horizontal lines on the top left-hand side of the app and select 'Checked Out'.
 
