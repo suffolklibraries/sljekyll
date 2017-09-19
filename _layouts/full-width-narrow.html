@@ -16,7 +16,7 @@
 
             <div class="custom-narrow-width">
 
-                <h1 class="{% include /c/page-title.html %}">{{ page.title }}</h1>
+                <h1 class="{% include /c/page-title.html %}{% if page.centre-title %} tc{% endif %}">{{ page.title }}</h1>
 
                 <div class="{% include /c/prose.html %} custom-visited custom-underline">
 
