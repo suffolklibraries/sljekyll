@@ -1,11 +1,11 @@
 ---
-id: low-lullaby
-name: "City of London Sinfonia Lullaby Concerts: <cite>Mission to Launch</cite> - 12:15pm session"
-location: lowestoft-library
-location-text: Lowestoft Library
-event-start-date: 2017-09-27
-event-start-time: 1215
-event-end-time: 1300
+id: bran-lullaby
+name: "City of London Sinfonia Lullaby Concerts: <cite>Mission to Launch</cite> - 3:20pm session"
+location: brandon-library
+location-text: Brandon Library
+event-start-date: 2017-09-29
+event-start-time: 1520
+event-end-time: 1600
 event-ticket-price: free
 breadcrumb: y
 ---

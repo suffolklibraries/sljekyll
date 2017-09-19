@@ -1,6 +1,6 @@
 ---
 id: low-lullaby
-name: "City of London Sinfonia Lullaby Concerts: <cite>Mission to Launch</cite> taster - 2:15pm session"
+name: "City of London Sinfonia Lullaby Concerts: <cite>Mission to Launch</cite> - 2:15pm session"
 location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2017-09-27

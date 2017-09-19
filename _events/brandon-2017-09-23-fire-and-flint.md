@@ -1,17 +1,19 @@
 ---
 id: brandon-flint
-name: "Storytelling and other activities at the Fire and Flint Festival"
+name: "Activities for the Fire and Flint Festival"
 location: brandon-library
 location-text: Brandon Library
 event-alt-location: Market Hill, Brandon
 event-start-date: 2017-09-23
-event-start-time: 1500
-event-end-time: 2000
+event-start-time: 1400
+event-end-time: 1800
 breadcrumb: y
+event-category: fire-and-flint
 ---
 
-We will be providing storytelling and other activities for this fantastic creative arts event.
+As part of the Fire & Flint Festival, you're invited to join us for blackout poetry, colouring and reading games, and other special activities before watching the lantern parade and the grand finale of the Fire and Flint light animation show projected onto Brandon Town Hall. For more information about the Festival, visit the [Fire & Flint website](http://www.cppmarketplace.co.uk/whats-on/brandon-fire-flint-23-september-festival-day/).
 
-Celebrating the themes of fire and flint - which have shaped Brandon’s past and present - you can listen to tales in the library and go on story walks to and from Market Hill.
-
-Extra activities to be confirmed.
+* 2pm, 3pm, 4pm and 5pm: [Storywalks with Dave Tong](/events/brandon-2017-09-23/dave-tong-storywalk/)
+* 3:10pm: [Poetry readings about Brandon's fire and more](/events/brandon-2017-09-23-poetry-fire/)
+* 3:30pm: [Meet the Author: Josephine Reynolds](/events/brandon-2017-09-23-firewoman/)
+* 4:15pm: [Poetry readings about Brandon's memories of war and lives working in flint and fur](/events/brandon-2017-09-23-poetry-flint/)
