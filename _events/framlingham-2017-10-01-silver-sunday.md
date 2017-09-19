@@ -8,6 +8,7 @@ event-start-time: 1400
 event-end-time: 1600
 breadcrumb: y
 event-category: older
+event-tag: silver-sunday
 event-ticket-price: free
 ---
 
