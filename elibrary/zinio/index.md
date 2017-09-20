@@ -41,7 +41,7 @@ RBdigital allows you to download PDF files of magazines for an unlimited time. T
 
 1. Set up your account on a web browser by following the instructions above
 2. Open the App store on your device
-3. Search for ‘OneClickDigital’ and click the ‘OneClickDigital’ app (the app will be called RBdigital when it has downloaded onto your device)
+3. Search for ‘RBdigital’ and press the ‘RBdigital’ app
 4. Download and install the app
 5. Follow the steps from step 5 above.
 
