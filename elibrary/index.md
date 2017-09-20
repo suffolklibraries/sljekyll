@@ -96,7 +96,7 @@ breadcrumb: home
                 <ul class="{% include /c/block-list.html %}">
 
                     <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="/elibrary/zinio/">RBdigital instructions</a></li>
-                    <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="http://www.rbdigital.com/Suffolk/service/zinio/landing">RBdigital website</a></li>
+                    <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="https://www.rbdigital.com/Suffolk/service/magazines/landing?">RBdigital website</a></li>
 
                 </ul>
 
