@@ -10,3 +10,5 @@ breadcrumb: y
 ---
 
 Children who have completed this year's Summer Reading Challenge are invited to pick up their medals and certificates from the mayor of Stowmarket.
+
+There will also be face painting from 10am-12pm courtesy of the Friends of Stowmarket Library.
