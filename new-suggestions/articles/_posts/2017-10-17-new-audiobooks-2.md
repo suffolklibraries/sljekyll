@@ -6,13 +6,13 @@ author: sophie-green
 category: articles
 excerpt: "Not sure what to listen to next? We've got new audiobooks from Karen Rose, Carole Matthews, Jack London and more"
 featured-image: /images/featured/featured-audiobooks-2.jpg
-featured-alt: ""
+featured-alt: "The Nine Tailors, The House of Unexpected Sisters"
 breadcrumb: articles
 featured-excerpt: "Reserve or download our newest audiobooks and enjoy great stories while working, travelling or simply relaxing at home."
 featured-link-text: Check out our newest audiobooks
 ---
 
-![](/images/featured/featured-audiobooks-2.jpg)
+![The Nine Tailors, The House of Unexpected Sisters](/images/featured/featured-audiobooks-2.jpg)
 
 ## CD audiobooks
 
@@ -56,20 +56,6 @@ featured-link-text: Check out our newest audiobooks
 
 [Set up OverDrive](/elibrary/overdrive/)
 
-### [<cite>White Fang</cite>, by Jack London, read by John Lee](https://suffolklibraries.overdrive.com/media/109796)
-
-> "In the desolate, frozen wilds of northwest Canada, a wolf cub finds himself the sole survivor of his litter. Son of Kiche, half-wolf, half-dog, and the ageing wolf One Eye, he is thrust into a savage world where each day renews the struggle of survival. It is a lonely but noble life—until the day he is captured by dog-driving men. The cruel mistreatment he bears in this new life of slavery teaches him to hate.
-
-> "Only one man sees beyond the rage of White Fang to his intelligence and dignity. Only one has the courage to offer the killer a new life. But can his kindness reach the heart of White Fang?"
-
-### [<cite>Skulduggery Pleasant: playing with fire</cite>, by Derek Landy, read by RUpert Degas](https://suffolklibraries.overdrive.com/media/1121031)
-
-> "Just when you think you’ve saved the world...
-
-> ""You will kill her?" the Torment asked. Skulduggery sagged. "Yes." He hesitated, then took his gun from his jacket. "I'm sorry, Valkyrie," he said softly. "Don't talk to me," Valkyrie said. "Just do what you have to do." Valkyrie parted her tunic, and Skulduggery pointed the gun at the vest beneath. "Please forgive me," Skulduggery said, then aimed the gun at the girl and pulled the trigger.
-
-> "With Serpine dead, the world is safe once more. At least, that’s what Valkyrie and Skulduggery think, until the notorious Baron Vengeous makes a bloody escape from prison, and dead bodies and vampires start showing up all over Ireland. With Baron Vengeous after the deadly armour of Lord Vile, and pretty much everyone out to kill Valkyrie, the daring detective duo face their biggest challenge yet. But what if the greatest threat to Valkyrie is just a little closer to home?"
-
 ### [<cite>Slightly Sinful</cite>, by Mary Balogh, read by Rosalyn Landor](https://suffolklibraries.overdrive.com/media/3212723)
 
 > "Injured on the battlefield, Lord Alleyne Bedwyn awakens in a ladies' brothel, with no memory of who he is, in the care of the lovely Rachel York, who decides to use the dashing soldier she rescued to try to reclaim her stolen fortune."
@@ -81,3 +67,25 @@ featured-link-text: Check out our newest audiobooks
 ## Borrowbox
 
 [Set up BorrowBox](/elibrary/borrowbox/)
+
+### [<cite>Lillian Boxfish Takes a Walk</cite>, by Kathleen Rooney, read by Xe Sands](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_418523&fromPage=1&b2bSite=4172)
+
+> "'In my reckless and undiscouraged youth,' Lillian Boxfish writes, 'I worked in a walnut-paneled office thirteen floors above West Thirty-Fifth Street...'
+
+> "She took 1930s New York by storm, working her way up writing copy for R.H. Macy’s to become the highest paid advertising woman in the country. It was a job that, she says, 'in some ways saved my life, and in other ways ruined it.'
+
+> "Now it’s the last night of 1984 and Lillian, 85 years old but just as sharp and savvy as ever, is on her way to a party. It’s chilly enough out for her mink coat and Manhattan is grittier now – her son keeps warning her about a subway vigilante on the prowl – but the quick-tongued poetess has never been one to scare easily. On a walk that takes her over 10 miles around the city, she meets bartenders, bodega clerks, security guards, criminals, children, parents and parents-to-be, while reviewing a life of excitement and adversity, passion and heartbreak, illuminating all the ways New York has changed – and has not."
+
+### [<cite>Proof of Life</cite>, by J. A. Jance, read by Alan Sklar](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=HCA_435720&fromPage=1&b2bSite=4172)
+
+> "Before he retired, J. P. Beaumont had looked forward to having his days all to himself. But too much free time doesn’t suit a man used to brushing close to danger. When his longtime nemesis, retired Seattle crime reporter Maxwell Cole, dies in what’s officially deemed to be an accidental fire, Beau is astonished to be dragged into the investigation at the request of none other than the deceased victim himself. In the process Beau learns that just because a long-ago case was solved doesn’t mean it’s over.
+
+> "Caught up in a situation where old actions and grudges can hold dangerous consequences in the present, Beau is forced to operate outside the familiar world of law enforcement. While seeking justice for his frenemy and healing for a long fractured family, he comes face to face with an implacable enemy who has spent decades hiding in plain sight."
+
+### [<cite>The House of Unexpected Sisters</cite>, by Alexander McCall Smith, read by Adjoa Andoh](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_442819&fromPage=1&b2bSite=4172)
+
+> "The latest instalment of the irresistibly charming, perennially bestselling No. 1 Ladies' Detective Agency series.
+
+> "Precious Ramotswe has always idolised her father, the late Obed Ramotswe. She feels that she knows all about his life – but does she? Sometimes our parents surprise us, and we discover that things were not quite what we thought them to be. And the same goes for Mma Makutsi, Mma Ramotswe's feisty assistant, who also makes certain discoveries about her own past that cause some surprise.
+
+> "The placid world of the No. 1 Ladies' Detective Agency is further disturbed by the arrival in Gaborone of somebody whom Mma Ramotswe – and Mr J.L.B. Matekoni, for that matter – definitely do not want to see. Of course calm eventually prevails - as it always does in the timeless world of these remarkable ladies."
