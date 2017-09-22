@@ -191,3 +191,37 @@ The twelfth book in the series starring Nikki, Brandon, Chloe and Zoey.
 The thrilling conclusion to the Sinclair's Mysteries quadrilogy, set in an Edwardian department store:
 
 > "The festive season has come to Sinclair's, and Sophie and Lil are spending the holidays at snowy Winter Hall. But it turns out that this is no ordinary house party. As sinister secrets come to light, our intrepid heroines find themselves faced with a more baffling mystery than ever before! With the help of their friends, can they uncover the truth in time to foil a truly diabolical plot? Or will Mr Sinclair's New Year's Eve Midnight Peacock Ball spell disaster for the dauntless young detectives?"
+
+## Junior non-fiction
+
+### [<cite>Minecraft Mobestiary: an official Minecraft book from Mojang</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2255434)
+
+> "Written by a naturalist who has made it his life's work to study Minecraft's mobs, and illustrated with field sketches, this book is the definitive guide to every mob in the game. You'll find little-known facts about passive, neutral, hostile, utility and boss mobs, as well as more general information about their location, behaviour, threat level and drops."
+
+### [<cite>Harry Potter: a journey through the history of magic</cite>, by the British Library](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2258989)
+
+> "An irresistible romp through the history of magic, from alchemy to unicorns, ancient witchcraft to Harry's Hogwarts - packed with unseen sketches and manuscript pages from J.K. Rowling, magical illustrations from Jim Kay and weird, wonderful and inspiring artefacts that have been magically released from the archives at the British Library.
+
+> "This spellbinding book takes readers on a journey through the Hogwarts curriculum, including Herbology, Defence Against the Dark Arts, Astronomy, Divination and more. Discover the truth behind making the Philosopher's Stone, create your very own potion and uncover the secret of invisible ink. Learn all about the history of mandrake roots and dragons, discover what witches really used their brooms for, pore over incredible images of actual mermaids and read about real-life potions, astronomers and alchemists."
+
+This ties in with the British Library's [Harry Potter: A History of Magic exhibition](https://www.bl.uk/events/harry-potter-a-history-of-magic/). Look out for a travelling exhibition touring some of our libraries between October 2017 and February 2018.
+
+### [<cite>Build It! 25 creative STEM projects for budding engineers</cite>, by Catherine Alliston](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2259128)
+
+> "The perfect hands-on introduction to key STEM topics,'Build It! examines the science behind construction, from how zip wires move, to how marble runs work. Each project is tested and approved by children and, using easy-to-find objects and tools, they can all be constructed at home. A difficulty rating is included for each project and there are challenges for those who are feeling competitive."
+
+### [<cite>Curiosity: the story of a Mars Rover</cite>, by Markus Motum](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2258985)
+
+> "This is a fascinating book about the search for life on Mars told from the unique perspective of 'Curiosity', the Mars rover sent to the red planet by NASA. Markus Motum's stylish illustrations and diagrams help tell the story of how and why this robot travelled 350,000,000 miles to explore a planet where no human has been before."
+
+### [<cite>The Ways of the Wolf</cite>, by Smriti Prasadam-Halls & Jonathan Woodward](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2256934)
+
+> "Majestic and fierce, proud and strong, the wolf has always been a source of fascination - and fear. It remains one of the most misunderstood of all creatures, frequently cast as our mortal enemy. The truth is that wolves and humans are more closely connected than we dare to admit.
+
+> "With beautifully lyrical language, Smriti Prasadam-Halls explores the lightning speed, echoing howl and family life of these mysterious animals, revealing astonishing facts and overturning misconceptions as she does so."
+
+### [<cite>Star Wars Coding Projects</cite>, by Jon Woodcock](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2258848)
+
+> " <cite>Star Wars Coding Projects</cite> is a step-by-step visual guide to coding fun projects in Scratch and shows you everything you need to know to create cool computer projects, animations, and games. Create your own sprites and use them in your projects. Build your own characters, navigate a spaceship through an asteroid belt, and go on a jetpack adventure. Learn essential coding skills, share your projects with friends, and challenge them to beat your scores.
+
+> "Each project consists of simple, numbered steps that are fully illustrated and easy to follow, with inspiration on creating your own Star Wars sprites."
