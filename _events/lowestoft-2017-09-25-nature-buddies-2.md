@@ -1,6 +1,6 @@
 ---
 id: lowestoft-nature
-name: "Nature buddies workshop for under 5s: <cite>The Monkey with a Bright Blue Button</cite>"
+name: "Nature buddies workshop for under 5s: <cite>The Monkey with a Bright Blue Bottom</cite>"
 location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2017-09-25
