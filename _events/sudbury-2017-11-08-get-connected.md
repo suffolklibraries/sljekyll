@@ -1,6 +1,6 @@
 ---
 id: sudbury-gc
-name: "Get Connected: learn how to use laptops, tablets and smartphones"
+name: "Get Connected: learn how to use laptops, tablets and smartphones with Hughes Electrical"
 location: sudbury-library
 location-text: Sudbury Library
 event-start-date: 2017-11-08
@@ -9,4 +9,4 @@ event-end-time: 1600
 breadcrumb: y
 ---
 
-Get some computer advice and find out how to access digital books, audiobooks, music and magazines with your library card.
+Get some computer advice from library staff and experts from Hughes Electrical and find out how to access digital books, audiobooks, music and magazines with your library card.

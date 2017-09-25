@@ -12,7 +12,7 @@ Our eMagazine service has recently changed its name from Zinio to RBdigital. Cus
 
 If you have already used the Zinio app to download magazines, you can still read them but you will need to download the new RBdigital app to download and read new issues. Please visit our [RBdigital instructions page](/elibrary/zinio/) to find out how to do this.
 
-The RBdigital app functions in much the same way as the Zinio app, though if you have already attempted to check out magazines on the Zinio app since the new app was released, you may see a 'download from cloud' symbol in the place of the usual 'checkout' button for those issues.
+The RBdigital app functions in much the same way as the Zinio app, though if you have already attempted to check out magazines on the Zinio app since the new app was released, you may see a ‘download from cloud’ symbol in the place of the usual ‘checkout’ button for those issues.
 
 Please note that if you wish to read magazines you previously checked out and viewed using the Zinio app, you must use the old app to do so.
 
