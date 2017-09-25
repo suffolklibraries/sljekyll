@@ -2,15 +2,15 @@
 layout: default
 title: 'Enterprise + Innovation Hub: MakerSpace'
 breadcrumb: hub
-hnav: hub
 ---
+
 <article class="custom-narrow-width">
 
 	<h1 class="{% include /c/page-title.html %} tc">MakerSpace</h1>
 
 	<p><img src="/images/featured/featured-makerspace-minecraft.jpg" alt="Children playing Minecraft in the MakerSpace"></p></p>
 
-	<p class="tc"><a class="pure-button pure-button-primary" href="https://uk.bookingbug.com/home/45066-Enterprise-+-Innovation-Hub">Book a machine →</a></p>
+	<p class="tc"><a class="custom-force-white custom-no-underline pure-button pure-button-primary" href="https://uk.bookingbug.com/home/45066-Enterprise-+-Innovation-Hub">Book a machine →</a></p>
 
 	<div class="custom-prose custom-lh-copy">
 
@@ -159,6 +159,6 @@ hnav: hub
 
 	</div>
 
-	<p class="tc"><a class="pure-button pure-button-primary" href="https://uk.bookingbug.com/home/45066-Enterprise-+-Innovation-Hub">Book a machine →</a></p>
+	<p class="tc"><a class="custom-force-white custom-no-underline pure-button pure-button-primary" href="https://uk.bookingbug.com/home/45066-Enterprise-+-Innovation-Hub">Book a machine →</a></p>
 
 </article>

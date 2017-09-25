@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Enquiry received
-breadcrumb: branches
-hnav: hub
+breadcrumb: hub
 ---
 
 <h1 class="{% include /c/page-title.html %}">{{ page.title }}</h1>
