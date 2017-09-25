@@ -1,6 +1,6 @@
 ---
 id: ipswich-business
-name: "Business networking event: avoiding three common pitfalls with Ifty Nasir"
+name: "Business networking event: How to start a share scheme"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2017-10-11

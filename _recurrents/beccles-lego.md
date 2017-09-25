@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Lego Club - £1 suggested donation"
-recurrent-day: Sunday once a month - next session 24 September
+recurrent-day: Sunday once a month
 recurrent-times: 1000-1100
 recurrent-location: beccles-library
 recurrent-location-display-name: Beccles Library
