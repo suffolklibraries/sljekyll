@@ -1,15 +1,29 @@
 ---
 layout: default
-title: Book a business advisor
-breadcrumb: branches
-hnav: hub
+title: 'Business advice from New Anglia Growth Hub'
+breadcrumb: hub
 ---
 
-<h1 class="{% include /c/page-title.html %}">{{ page.title }}</h1>
+<h1 class="page-title">Business advice from New Anglia Growth Hub</h1>
 
-<p>Complete this form and we'll get back to you as soon as possible. We won't share the information you provide with anyone else.</p>
+Business advisors from the [New Anglia Growth Hub](http://www.newangliagrowthhub.co.uk/) can give you professional advice to advance your business or idea. Topics they cover include:
 
-<form id="form" class="pure-form pure-form-stacked" netlify netlify-honeypot="bot-field" name="business-advisors" action="/libraries/hub/book-a-business-advisor/confirmation/">
+<div class="custom-col-2 mb4">
+
+    <ul class="mt0 pt0 mb0">
+      <li>Exporting</li>
+      <li>Digital support</li>
+      <li>Intellectual property</li>
+      <li>Finance</li>
+      <li>Grants and vouchers</li>
+      <li>Setting up a business</li>
+    </ul>
+
+</div>
+
+Fill in the form below to request an appointment and we'll get back to you as soon as possible. We won't share the information you provide with anyone else.
+
+<form id="form" class="pure-form pure-form-stacked" netlify netlify-honeypot="bot-field" name="business-advisors" action="/libraries/hub/business-advice/confirmation/">
 
     <fieldset>
 
