@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Eye Library Friends pop up café"
-recurrent-day: Tuesday
+recurrent-day: every other Tuesday
 recurrent-times: 1030-1200
 recurrent-location: eye-library
 recurrent-location-display-name: Eye Library
