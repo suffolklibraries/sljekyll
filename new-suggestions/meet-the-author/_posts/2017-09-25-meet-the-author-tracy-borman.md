@@ -42,7 +42,7 @@ For example, while researching Thomas Cromwell, I went through his account books
 
 It is so difficult to narrow it down to just one! But I think it would have to be Cromwell, and I would ask him if he really was behind the downfall of Anne Boleyn.
 
-## 3. What is on your list of books to read at the moment?
+## 5. What is on your list of books to read at the moment?
 
 For research, I have a large pile of books about Henry VIII as he will be the subject of my next non-fiction book.
 
@@ -50,7 +50,7 @@ For pleasure, I always read historical novels. I have recently discovered SJ Par
 
 But the most eagerly anticipated book on my list has to be the third and final instalment of Hilary Mantel's Wolf Hall series. Even though I know Cromwell's fate, I'm still somehow hoping for a happy ending!
 
-## 4. Do you have a message for your many readers in Suffolk Libraries?
+## 6. Do you have a message for your many readers in Suffolk Libraries?
 
 I would like to warmly thank all my readers at Suffolk Libraries for the interest that they have shown in my books. I am a passionate supporter of libraries: from active local libraries such as those in Suffolk, to national institutions such as the British Library, where I do the bulk of my research and writing.
 
