@@ -1,6 +1,6 @@
 ---
 id: lowestoft-flipside
-name: "Flipside Festival: Samba Dance WOrkshop for all ages"
+name: "Flipside Festival: Samba Dance Workshop for all ages"
 location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2017-10-24
