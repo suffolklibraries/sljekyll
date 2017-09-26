@@ -10,6 +10,23 @@ event-category: fun-palace
 breadcrumb: y
 ---
 
-Everyone is invited to share a skill with others or try something new.
+Everyone is invited to share a skill with others or try something new. So far we have the following for you to try, and additional activities are still to be confirmed:
+
+* Musical instruments
+* Hoverboarding
+* Martial arts
+* Jewellery making
+* Crochet
+* Latch hook rug making
+* Pool
+* Stone painting
+* Jigsaws
+* Board games
+* Giant Jenga
+* Making masks
+* Storytelling
+* Genealogy
+* Viking re-enactment
+* Tying bandages
 
 "Everyone an artist, everyone a scientist."
