@@ -1,6 +1,6 @@
 ---
 id: lowestoft-flipside
-name: "Flipside Festival: Nutmeg Puppet Company presents <cite>Pips Wildlife Garden</cite> for 3-6 year-olds"
+name: "Flipside Festival: Nutmeg Puppet Company presents <cite>Pip's Wildlife Garden</cite> for 3-6 year-olds"
 location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2017-10-24
