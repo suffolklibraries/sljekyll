@@ -4,11 +4,11 @@ title: "Ipswich County Library shortlisted for national award"
 date: 2017-09-27
 author: alice-violett
 category: news
-excerpt: "Ipswich County Library's Chat n Chill project is one of three library programmes shortlisted for the prestigious CILIP Libraries Change Lives Award."
+excerpt: "Ipswich County Library's Chat n Chill project is one of four library programmes shortlisted for the prestigious CILIP Libraries Change Lives Award."
 breadcrumb: news
 ---
 
-Ipswich County Library's Chat n Chill project is one of three library programmes shortlisted for the prestigious CILIP Libraries Change Lives Award.
+Ipswich County Library's Chat n Chill project is one of four library programmes shortlisted for the prestigious CILIP Libraries Change Lives Award.
 
 The Chat n Chill group, which has been running for eight years, empowers women from diverse and international backgrounds through self-directed learning and resilience. Its members learn and build confidence in life skills such as banking, reading utility bills and visiting the doctor and are helped to integrate, practice their English, make friends and feel welcome.
 
