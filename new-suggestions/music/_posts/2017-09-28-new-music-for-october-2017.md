@@ -13,11 +13,11 @@ breadcrumb: music
 
 ![Nat King Cole & Me, Colors](/images/featured/featured-music-october-2017.jpg)
 
-## [Liam Gallagher - <cite>As You Were</cite>]()
+## [Liam Gallagher - <cite>As You Were</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2279101)
 
 First solo album from Liam following his work with his band Beady Eye. If you were an Oasis fan, or a Beatles fan for that matter, there is much to enjoy on the new album. 'For What it's worth' is late 1960s Beatles to a tee.
 
-## [Robert Plant - <cite>Carry Fire</cite>]()
+## [Robert Plant - <cite>Carry Fire</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2290299)
 
 Robert Plant releases his 11th studio album. He is accompanied by his backers The Sensational Space Shifters from his last album [<cite>Lullaby and the Ceaseless Roar</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1660005).
 
@@ -39,7 +39,7 @@ Rock fans of a certain age will be interested to hear that the band's new drumme
 
 A lot of artists are happy to churn out variations on the same album time after time. Some artists get better and better. Beck is firmly in the latter category. <cite>Dear Life</cite> is a great song. This is definitely worth a listen.
 
-## [St Vincent - <cite>Masseducation</cite>]()
+## [St Vincent - <cite>Masseduction</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2303943)
 
 "If you want to know about my life listen to this record".
 
