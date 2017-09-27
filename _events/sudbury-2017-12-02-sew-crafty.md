@@ -1,15 +1,17 @@
 ---
 id: sudbury-sew
-name: "Sew Crafty session for children"
+name: "Sew Crafty session for adults: Make a fabric Christmas wreath"
 location: sudbury-library
 location-text: Sudbury Library
 event-start-date: 2017-12-02
-event-start-time: 0930
-event-end-time: 1130
-event-ticket-price: 4
+event-start-time: 1400
+event-end-time: 1630
+event-ticket-price: 10
 breadcrumb: y
 ---
 
-Children are invited to try their hand at some Christmas-related sewing crafts.
+Make a fabric Christmas wreath.
 
-There is a maximum of 6 places available so advance booking is essential. Please contact the library for more information and to book.
+Space is limited, so it is essential to book and pay in advance.
+
+Price includes all materials, tea/coffee and homemade cake.
