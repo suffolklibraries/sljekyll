@@ -1,16 +1,16 @@
 ---
 layout: sidebar-right
-title: 'Open Space &#8211; New Timetable for Ipswich County Library'
+title: 'Open Space &#8211; Ipswich County Library timetable for 15 February - 24 May 2017'
 date: 2017-02-15
 author: sarah-lungley
 category: health
-excerpt: Here is the new timetable for Open Space at Ipswich County Library! Lots of exciting things coming up and some great discussions.
+excerpt: Here is the new timetable for Open Space at Ipswich County Library for 15 February - 24 May 2017! Lots of exciting things coming up and some great discussions.
 breadcrumb: health
 sidebar: health
 ---
 ![Open Space logo](/images/featured/featured-open-space-logo.jpg)
 
-Here is the new timetable for Open Space! Lots of exciting things coming up and some great discussions.
+Here is the new timetable for Open Space at Ipswich County Library for 15 February - 24 May 2017! Lots of exciting things coming up and some great discussions.
 
 If you have any questions please do get in touch, or just come along to a session on Wednesdays at [Ipswich County Library](/libraries/ipswich-county-library/)&#8211; all are welcome!
 
