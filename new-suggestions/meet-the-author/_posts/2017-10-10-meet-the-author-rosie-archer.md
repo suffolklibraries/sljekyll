@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Rosie Archer'
-date: 2017-09-27
+date: 2017-10-10
 author: brandon-king
 category: meet-the-author
 excerpt: "Author Rosie Archer tells us how she writes two books a year and about her next novel."
