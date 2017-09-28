@@ -9,7 +9,6 @@ featured-image: /images/featured/featured-the-reason-i-jump.jpg
 featured-alt: "The Reason I Jump"
 featured-link-text: "Read Natasha's review of <cite>The Reason I Jump</cite>"
 breadcrumb: staff-picks
-genre-alt: 'The Reason I Jump'
 ---
 
 ![The Reason I Jump](/images/featured/featured-the-reason-i-jump.jpg)
