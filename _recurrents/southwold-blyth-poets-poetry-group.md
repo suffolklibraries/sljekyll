@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Blyth Poets poetry group - no session in September"
+recurrent-title: "Blyth Poets poetry group"
 recurrent-day: last Wednesday of the month
 recurrent-times: 1930-2100
 recurrent-location: southwold-library

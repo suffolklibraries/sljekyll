@@ -37,7 +37,7 @@ Edward St Aubyn, who laid bare the cruelties of his own father in his autobiogra
 
 ## [<cite>The Stolen Marriage</cite>, by Diane Chamberlain](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2252736)
 
-Diane Chamberlain is hugely popular here in Suffolk, so we are expecting a long waiting lift for this one:
+Diane Chamberlain is hugely popular here in Suffolk, so we are expecting a long waiting list for this one:
 
 > "In 1944, 23-year-old Tess DeMello abruptly ends her engagement to the love of her life when she marries a mysterious stranger and moves to Hickory, North Carolina. Hickory is a small town struggling with racial tension and the hardships imposed by World War II. Tess's new husband, Henry Kraft, is a secretive man who often stays out all night, hides money from his new wife, and shows no interest in making love.
 
