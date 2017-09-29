@@ -18,7 +18,7 @@ Staff at Beccles library collected some withdrawn books for the [blackout poetry
 
 We started with the poetry jigsaw hack which involves cutting the text of a poem up and rearranging it. The idea is not to reconstruct the original poem, but to use the original poet’s material to create something new.
 
-I had cut up [<cite>The Seagulls Think We Live at the Seaside</cite>](http://www.michaelrosen.co.uk/seaside.html) by the wonderful Michael Rosen in advance. I chose this poem as I felt it was about the right length and has some brilliant words and phrases in it.
+I had cut up <cite>The Seagulls Think We Live at the Seaside</cite> by the wonderful Michael Rosen in advance. I chose this poem as I felt it was about the right length and has some brilliant words and phrases in it.
 
 >The seagulls think we live at the seaside:<br>
 the tower blocks are their cliffs,<br>
