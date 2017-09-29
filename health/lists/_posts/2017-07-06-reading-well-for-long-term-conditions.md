@@ -75,9 +75,9 @@ The scheme, supported by Public Health England, the Royal College of General Pra
 
 > "This text helps readers manage arthritis by becoming an expert patient. It shows that much of the pain is unnecessary and focuses on the many ways in which arthritis can affect daily life before leading the reader through options available to relieve suffering."
 
-### <cite>Arthritis: Exercise your way to health</cite>, by Paula Coates
+### [<cite>Arthritis: Exercise plans to improve your life</cite>, by Paula Coates](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=417091)
 
-We've ordered this title and will update this list with a catalogue link soon. In the meantime, we recommend another book by Paula Coates, [<cite>Arthritis: Exercise plans to improve your health</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=417091).
+> "More than 10 million adults consult their GP each year with arthritis & related conditions. This book will show you how to include a simple fitness programme in your life, while considering the specific challenges raised by arthritis. You will soon see the improvements in your overall health and wellbeing."
 
 ## Bowel conditions
 
@@ -97,9 +97,9 @@ We've ordered this title and will update this list with a catalogue link soon. I
 
 ## Breathing difficulties
 
-### <cite>Asthma: Answers at your fingertips</cite>, by Mark Levy, Monica Fletcher & Soren Pederson
+### [<cite>Asthma</cite>, by Mark Levy, Monica Fletcher & Søren Pederson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2181008)
 
-We've ordered this title and will update this list with a catalogue link soon. In the meantime, we hold an earlier edition, [<cite>Asthma: Answers at your fingertips</cite>, by Mark Levy, Trisha Weller and Sean Hilton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=486402).
+> "Asthma is a very common condition, affecting people of all ages from infant to adult. It can be very dangerous, even fatal, if it is not taken seriously and properly treated, as it can flare up without warning. The authors of this book explain why this is so important and give answers to genuine questions raised."
 
 ### [<cite>Chronic Obstructive Pulmonary Disease (COPD): The facts</cite>, by Graham P. Currie](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=167646)
 
