@@ -1,5 +1,5 @@
 ---
-recurrent-title: 'Table top sale - to reserve a table, email a completed <a href="/assets/doc/ipswich-stall-booking-form.doc">booking form</a> (.doc) to help@suffolklibraries.co.uk and see our <a href="/assets/pdf/ipswich-stall-terms-and-conditions.pdf">Terms and Conditions</a> (PDF) and <a href="/assets/pdf/ipswich-stall-code-of-conduct.pdf">Code of Conduct</a> (PDF).'
+recurrent-title: 'Table top sale - to reserve a table, email a completed <a href="/assets/doc/ipswich-stall-booking-form.doc">booking form</a> (.doc) to ipswich.library@suffolklibraries.co.uk and see our <a href="/assets/pdf/ipswich-stall-terms-and-conditions.pdf">Terms and Conditions</a> (PDF) and <a href="/assets/pdf/ipswich-stall-code-of-conduct.pdf">Code of Conduct</a> (PDF).'
 recurrent-day: first Saturday of the month
 recurrent-times: 1000-1600
 recurrent-location: ipswich-county-library
