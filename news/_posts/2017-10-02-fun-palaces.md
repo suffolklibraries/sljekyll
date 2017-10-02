@@ -16,7 +16,7 @@ We are joining in with over 300 Fun Palaces across the UK and globally, all set 
 
 Alison Wheeler, Chief Executive of Suffolk Libraries, said: “We’re really excited to be transforming our libraries into Fun Palaces which is a perfect way to kick off National Libraries Week and show the diverse range of activities and experiences which libraries can offer. We’re also particularly grateful to Ipswich Borough Council for their funding for the Ipswich Library events which will also allow us to provide more activities in the future.”
 
-All the events are free and open to anyone. There’s plenty of choice and a huge range of activities available to people of all ages. Follow the links below for further information about the Fun Palace at your local library.
+All the events are free and open to all ages. Follow the links below for further information about the Fun Palace at your local library.
 
 * [Fun Palace at Chantry Library on Saturday 7 October](/events/chantry-2017-10-07-fun-palace/)
 * [Fun Palace at Elmswell Library on Saturday 7 October](/events/elmswell-2017-10-07-fun-palace/)
