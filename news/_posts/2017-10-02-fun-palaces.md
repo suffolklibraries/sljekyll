@@ -10,7 +10,7 @@ breadcrumb: news
 
 Suffolk Libraries will be kicking off National Libraries week by turning several libraries into Fun Palaces this weekend (Saturday 7 and Sunday 8 October).
 
-Fun Palaces are the brainchild of author Stella Duffy, who strongly believes that in lots of different ways “everyone is an artist and everyone is a scientist and we are all geniuses”. Each October, community venues hold Fun Palace events to enable everyone to explore their creative and scientific side and also have lots of fun. Activities available to try at our Fun Palaces range from simple crafts to science experiments to learning new instruments and languages and even historical reenactment.
+Fun Palaces are the brainchild of author Stella Duffy, who strongly believes that in lots of different ways “everyone is an artist and everyone is a scientist and we are all geniuses”. Each October, community venues hold Fun Palace events to enable everyone to explore their creative and scientific side and also have lots of fun. Activities available to try at our Fun Palaces range from simple crafts to science experiments to learning new instruments and languages and even belly dancing and historical re-enactment.
 
 We are joining in with over 300 Fun Palaces across the UK and globally, all set to erupt with free and fun activities, celebrating culture in our community – and everyone is invited! This is the first time Suffolk Libraries have taken part and Stella Duffy herself will be visiting some of the events on Sunday.
 
