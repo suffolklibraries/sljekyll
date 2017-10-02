@@ -4,7 +4,7 @@ title: New fiction for October 2017
 date: 2017-09-28
 author: brandon-king
 category: fiction
-excerpt: New titles from
+excerpt: "New titles from Dan Brown, P. D. James and Joanne M. Harris"
 featured-image: /images/featured/featured-october-2017-fiction.jpg
 featured-alt: "Origin, Sleep No More, A Pocketful of Crows"
 featured-link-text: Check out our new fiction titles for October 2017
