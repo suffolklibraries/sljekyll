@@ -4,11 +4,11 @@ title: "Fun Palaces are coming to Suffolk Libraries"
 date: 2017-10-02
 author: james-powell
 category: news
-excerpt: "Suffolk Libraries will be kicking off National Libraries week by turning several libraries into Fun Palaces this weekend (Saturday 7 and Sunday 8 October)."
+excerpt: "We will be kicking off National Libraries week by turning several libraries into Fun Palaces this weekend (Saturday 7 and Sunday 8 October)."
 breadcrumb: news
 ---
 
-Suffolk Libraries will be kicking off National Libraries week by turning several libraries into Fun Palaces this weekend (Saturday 7 and Sunday 8 October).
+We will be kicking off National Libraries week by turning several libraries into Fun Palaces this weekend (Saturday 7 and Sunday 8 October).
 
 Fun Palaces are the brainchild of author Stella Duffy, who strongly believes that in lots of different ways “everyone is an artist and everyone is a scientist and we are all geniuses”. Each October, community venues hold Fun Palace events to enable everyone to explore their creative and scientific side and also have lots of fun. Activities available to try at our Fun Palaces range from simple crafts to science experiments to learning new instruments and languages and even belly dancing and historical re-enactment.
 
