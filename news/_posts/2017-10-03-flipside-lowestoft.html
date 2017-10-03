@@ -1,0 +1,79 @@
+---
+layout: sidebar-right
+title: "Flipside Lowestoft comes to the library"
+date: 2017-10-03
+author: james-powell
+category: news
+excerpt: "Lowestoft Library is playing a big role in the new Flipside Lowestoft festival later this month."
+breadcrumb: news
+---
+
+<p>Lowestoft Library is playing a big role in the new Flipside Lowestoft festival later this month.</p>
+
+<p>The library is hosting a wide range of events during half-term between Tuesday 24 October and Thursday 26 October.</p>
+
+<p>Flipside Lowestoft is aimed at children and young people aged up to 18. There’s a wealth of free activity each day from 10am–4pm at the library as well as the Marina Theatre, Market Place and London Road North. The festival promoses a vibrant and jam-packed three days of music, theatre, art, dance and literature.</p>
+
+<p>The library events include author events, storytelling, a puppet show, workshops in creating superheroes, poetry and carnival headdresses and much more!</p>
+
+<p>A list of Flipside events at the library follows. For a full list of Flipside Lowestoft activities or more information about the festival, visit the <a href="http://www.flipsideuk.org/lowestoft">Flipside Festival website</a>.</p>
+
+<h2>Tuesday 24 October</h2>
+
+{% assign flipside-events = (site.events | where: "event-tag", "flipside" | where: "event-start-date", "2017-10-24" | sort: "event-start-time" ) %}
+
+{% for event in flipside-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span>
+
+        </p>
+
+    </article>
+
+{% endfor %}
+
+<h2>Wednesday 25 October</h2>
+
+{% assign flipside-events = (site.events | where: "event-tag", "flipside" | where: "event-start-date", "2017-10-25" | sort: "event-start-time" ) %}
+
+{% for event in flipside-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span>
+
+        </p>
+
+    </article>
+
+{% endfor %}
+
+<h2>Thursday 26 October</h2>
+
+{% assign flipside-events = (site.events | where: "event-tag", "flipside" | where: "event-start-date", "2017-10-26" | sort: "event-start-time" ) %}
+
+{% for event in flipside-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span>
+
+        </p>
+
+    </article>
+
+{% endfor %}

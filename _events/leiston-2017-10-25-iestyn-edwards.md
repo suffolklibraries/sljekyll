@@ -1,6 +1,6 @@
 ---
 id: leiston-iestyn
-name: "Iestyn Edwards"
+name: "Iestyn Edwards: My Tutu Went AWOL"
 location: leiston-library
 location-text: Leiston Library
 event-start-date: 2017-10-25
