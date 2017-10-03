@@ -8,7 +8,7 @@ excerpt: "We held our fifth AGM on 28 September. The event was attended by nearl
 breadcrumb: news
 ---
 
-{% include /c/figure.html alt="Tony Brown, Sylvia Knights and Alison Wheeler cut the cake at our fifth AGM" src="/images/featured/featured-cake-cutting.jpg" caption="Tony Brown, Sylvia Knights and Alison Wheeler cut the cake at our fifth AGM" %}
+{% include /c/figure.html alt="Board chair Tony Brown, board vice chair Sylvia Knights and CEO Alison Wheeler cut the cake at our fifth AGM" src="/images/featured/featured-cake-cutting.jpg" caption="Tony Brown, Sylvia Knights and Alison Wheeler cut the cake at our fifth AGM" %}
 
 We held our fifth AGM on 28 September. The event was attended by nearly 120 people including representatives from our 44 library community groups.
 
@@ -20,7 +20,7 @@ The evening’s guest speaker was author Simon Brett who was very entertaining, 
 
 Board members Sylvia Knights and Colin Rockall were required to step down from the Board this year and nominations were sought from the membership to become a Board member.  Also, due to being co-opted to the Board, Sue Buck and Sarah Wilson were also required to step down. All four were successfully re-elected to the Board.
 
-The voting for chair, vice-chair and honorary secretary will take place at the first Board meeting after the AGM which is on Thursday 26 October 2017.
+The voting for chair, vice chair and honorary secretary will take place at the first Board meeting after the AGM which is on Thursday 26 October 2017.
 
 * [Current list of Suffolk Libraries Board members](/about/board-members/)
 * [Suffolk Libraries Annual Review 2016-2017](/assets/pdf/suffolk-libraries-annual-review-2016-2017.pdf) (PDF)
