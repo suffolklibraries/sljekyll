@@ -8,7 +8,7 @@ excerpt: "We held our fifth AGM on 28 September. The event was attended by nearl
 breadcrumb: news
 ---
 
-![Tony Brown, Sylvia Knights and Alison Wheeler cut the cake at our fifth AGM](/featured/featured-cake-cutting)
+{% include /c/figure.html alt="Tony Brown, Sylvia Knights and Alison Wheeler cut the cake at our fifth AGM" src="/images/featured/featured-cake-cutting.jpg" caption="Tony Brown, Sylvia Knights and Alison Wheeler cut the cake at our fifth AGM" %}
 
 We held our fifth AGM on 28 September. The event was attended by nearly 120 people including representatives from our 44 library community groups.
 
