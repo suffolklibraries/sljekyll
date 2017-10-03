@@ -3,6 +3,14 @@ layout: full-width-narrow
 title: Ipswich Mobile Library Route 14
 breadcrumb: mobiles-home
 ---
+
+<div class="{% include /c/generic-panel.html %}">
+
+    <p>We're sorry that Ipswich Mobile Library Route 14 is not running on Tuesday 10 October.</p>
+    <p>Call <a href="tel:01473351249">01473 351249</a> or email <strong>help@suffolklibraries.co.uk</strong> with any enquiries.</p>
+
+</div>
+
 ## Contact us:
 
 Managers: Andrew Little and David Cook
