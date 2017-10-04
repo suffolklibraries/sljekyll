@@ -13,4 +13,4 @@ Extended opening for late night shopping in Framlingham.
 
 At 6pm we will have a Christmas story time for children. There will also be a treasure hunt.
 
-Mulled wine, juice, mince pies, cake and chocolates available.
+There will also be a Fairtrade stall and Fairtrade mulled wine, juice, mince pies, cake and chocolates available courtesy of the Friends of Framlingham Library.

@@ -12,7 +12,7 @@ breadcrumb: home
 
         <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/schools/contact/">Literacy, Books and Reading Team for Schools</a></h1>
 
-        <a class="white" href="/schools/contact/"><img src="/images/featured/featured-book-mastermind.jpg" class="custom-constrain-img" alt="Book Mastermind winners 2017"></a>
+        <a class="white custom-no-underline" href="/schools/contact/"><img src="/images/featured/featured-book-mastermind.jpg" class="custom-constrain-img" alt="Book Mastermind winners 2017"></a>
 
         <p class="{% include /c/block-graf.html %}">The Literacy, Books and Reading Team support your students' reading for pleasure through resource loans and expert advice.</p>
 
@@ -26,7 +26,7 @@ breadcrumb: home
 
         <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/schools/online-resources">Online Resources</a></h1>
 
-        <a class="white" href="/schools/online-resources"><img src="/images/featured/featured-reading-hack-week-1.jpg" class="custom-constrain-img" alt="Reading Hack imagery"></a>
+        <a class="white custom-no-underline" href="/schools/online-resources"><img src="/images/featured/featured-reading-hack-week-1.jpg" class="custom-constrain-img" alt="Reading Hack imagery"></a>
 
         <p class="{% include /c/block-graf.html %}">Lesson plans and classroom activities, advice on running reading hack groups, and interviews with children's authors for use by teachers.</p>
 
