@@ -53,6 +53,6 @@ Fill in the form below to request an appointment and we'll get back to you as so
 
         <p class="dn"><input name="bot-field"></p>
 
-        <button type="submit" class="mt2 pure-button pure-button-primary">Submit</button>
+        {% include /c/button-submit-blue.html text="Submit" %}
 
 </form>

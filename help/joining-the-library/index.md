@@ -33,7 +33,7 @@ You can only apply for a card online if you live in Suffolk, Norfolk, Cambridges
 
 When you apply online you'll be taken to a different website.
 
-<p><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN" class="pure-button pure-button-primary custom-force-white">Apply for a card now &rarr;</a></p>
+{% include /c/button-blue.html text="Apply for a card now &rarr;" url="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN" %}
 
 Please **allow 10 days** for us to send you the card.
 
