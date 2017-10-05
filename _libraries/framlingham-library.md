@@ -24,4 +24,5 @@ branch-photocopying: available
 branch-room-hire: /libraries/room-hire/framlingham-library
 breadcrumb: y
 branch-other-facilities: 'Framlingham Town Council services Mon-Thu 10am-4pm and at other times by arrangement. See the <a class="blue" href="http://www.framlingham.com/council.php">Framlingham Town Council website</a>.'
+branch-news: "The library car park will be closed on Sunday 8 October. Sorry for any inconvenience caused."
 ---

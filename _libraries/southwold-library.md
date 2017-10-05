@@ -24,7 +24,7 @@ branch-payments: cash and cheques accepted, cards accepted over £5
 branch-parking: on-street parking only
 branch-bookdrop: y
 branch-refreshments: hot drinks for sale
-branch-for-sale: "Crafts, Southwold and Suffolk Coast Treasure Trails sheets, local authors' books, branded bags and pens"
+branch-for-sale: "Crafts, Southwold and Suffolk Coast Treasure Trails sheets, local authors' books, branded bags and pens, Southwold Voluntary Help Centre Christmas cards"
 branch-other-facilities: laminating (up to A4)
 branch-wifi: y
 branch-netloan: old
