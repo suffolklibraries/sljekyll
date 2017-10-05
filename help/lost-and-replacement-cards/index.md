@@ -12,4 +12,4 @@ To get a replacement card you'll need to:
 - visit any [Suffolk library](/libraries/)
 - show ID with proof of address (acceptable ID includes a bank statement, a store card statement or a utility bill)
 
-We charge &pound;1.50 for replacement cards.
+Replacement cards cost £1.50 for adults and 50p for children.

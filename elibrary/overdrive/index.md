@@ -62,13 +62,14 @@ You will need a Kobo or Nook or other account, depending on which eReader you ha
 
 ### On a tablet or smartphone
 
-1. In the OverDrive app, click the menu icon in the top left corner
+1. In the OverDrive app, press the menu icon in the top left corner
 2. Choose ‘Suffolk Libraries’ under the heading ‘My libraries’
-3. In the OverDrive app, click ‘Sign in’
+3. In the OverDrive app, press ‘Sign in’
 4. Enter your library card number to sign in
-5. Select the eBook or eAudio book you want and click ‘Borrow’. If it is on loan to another borrower, you can **reserve** it by clicking ‘Place a hold’
+5. Select the eBook or eAudio book you want and press ‘Borrow’. If it is on loan to another borrower, you can **reserve** it by pressing ‘Place a hold’
 6. The eBook or eAudio book will appear on your ‘Bookshelf’ in the OverDrive app menu. There will be an option to ‘Download (EPUB eBook)/(MP3 Audiobook)’ or ‘Read (in your browser)’
 7. Both eBooks and eAudio books will automatically expire in 3 weeks. You can **renew** it if no one else has reserved it, by clicking the ‘Renew’ button on the ‘Bookshelf’ page. Alternatively, **return an eBook early** by pressing and holding on the book cover, and click ‘Return’
+8. You can view books you have previously borrowed by going to the 'Bookshelf' page and pressing **History**. Any titles you borrow after October 2017 will automatically be added to this list. Please see the [OverDrive History instructions page](https://help.overdrive.com/customer/portal/articles/2833477?_ga=2.108868737.2014334747.1507205336-e0fb697e-4ce6-499f-9e54-a1dd9fe94047) for further information and instructions on using this feature.
 
 ### On an eReader
 
@@ -91,5 +92,6 @@ You will need a Kobo or Nook or other account, depending on which eReader you ha
 4. If you download an eAudio book, you will need to install [OverDrive Media Console](http://app.overdrive.com/). The files will be ODM format
 5. Find the eAudio book files on your computer and open them in OverDrive Media Console
 6. Both eBooks and eAudio books will automatically expire in 3 weeks. You can **renew** it within 3 days of the expiration date if no one else has reserved it, by clicking the ‘Renew’ button on the ‘Bookshelf’ page
+7. You can view books you have previously borrowed by going to the 'Bookshelf' page and clicking **History**. Any titles you borrow after October 2017 will automatically be added to this list. Please see the [OverDrive History instructions page](https://help.overdrive.com/customer/portal/articles/2833477?_ga=2.108868737.2014334747.1507205336-e0fb697e-4ce6-499f-9e54-a1dd9fe94047) for further information and instructions on using this feature.
 
 [OverDrive help page →](http://help.overdrive.com/)

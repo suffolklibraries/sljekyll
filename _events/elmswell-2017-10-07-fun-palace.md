@@ -10,7 +10,7 @@ event-category: fun-palace
 breadcrumb: y
 ---
 
-Have fun and learn new science-y and art-y skills: so far we have knitting, music, dance and golf.
+Have fun and learn new skills: so far we have knitting, nature mandalas and edible mandalas and colouring.
 
 Please let us know if you would also like to share a skill.
 
