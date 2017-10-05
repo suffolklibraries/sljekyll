@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Lesley’s Readers on BBC Radio Suffolk – book choice for November
+title: "Lesley’s Readers on BBC Radio Suffolk – book choice for November"
 date: 2017-10-04
 author: alice-violett
 category: news
