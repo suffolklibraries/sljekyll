@@ -1,6 +1,6 @@
 ---
 id: woodbridge-maggie
-name: "Meet thr Author: Maggie O'Farrell"
+name: "Meet the Author: Maggie O'Farrell"
 location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2017-11-06
