@@ -10,7 +10,7 @@ event-category: fun-palace
 breadcrumb: y
 ---
 
-Learn something new with our fun activities for all the family.
+Learn something new with our fun activities for all the family. There will even be a visit from Fun Palaces founder Stella Duffy at around 2:15pm!
 
 * 11am-4pm: Karate taster sessions and personal safety
 * 11am-1pm: Lego creations, Minecraft and card making
