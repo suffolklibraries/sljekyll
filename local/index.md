@@ -10,8 +10,6 @@ breadcrumb: home
 
 				<img class="fl w-50 w-20-ns mt3-ns mr2 mr5-ns mb1 br-100" src="/images/featured/featured-sll-logo.jpg" alt="Suffolk Libraries Local logo">
 
-				<p class="mt2"><strong>Have you used Suffolk Libraries Local? Please take our <a class="blue" href="https://www.surveymonkey.co.uk/r/HZGRZXY">survey for individuals</a> or <a class="blue" href="https://www.surveymonkey.co.uk/r/6KVKFHX">survey for groups</a>. Paper copies are also available at Suffolk Libraries Local branches.</strong></p>
-
         <p class="mt2">Suffolk Libraries Local is a new initiative between Suffolk Libraries and Suffolk County Council. It will bring the opportunity for residents of geographical locations not directly served by a static library to:</p>
 
 				<ul>
