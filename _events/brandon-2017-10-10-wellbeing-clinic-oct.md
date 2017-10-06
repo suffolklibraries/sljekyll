@@ -6,6 +6,7 @@ location-text: Brandon Library
 event-start-date: 2017-10-10
 event-start-time: 1330
 event-end-time: 1600
+event-category: health
 breadcrumb: y
 ---
 
