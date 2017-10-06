@@ -28,4 +28,5 @@ branch-colour-printing: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/felixstowe-library
 breadcrumb: y
+branch-for-sale: 'Cards for Good Causes - charity and Suffolk Wildlife Christmas cards.'
 ---

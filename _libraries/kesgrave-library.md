@@ -32,4 +32,5 @@ branch-photocopying: available in black and white (A4 or A3) or colour (A4)
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/kesgrave-library
 breadcrumb: y
+branch-for-sale: 'Cards for Good Causes - charity and Suffolk Wildlife Christmas cards.'
 ---
