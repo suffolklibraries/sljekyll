@@ -33,4 +33,5 @@ branch-scan-to-email: y
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/halesworth-library
 breadcrumb: y
+branch-for-sale: 'Cards for Good Causes - charity and Suffolk Wildlife Christmas cards.'
 ---
