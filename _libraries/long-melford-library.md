@@ -26,5 +26,4 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: 'Long Melford Library&#8217;s phone line is currently down. Please call <a href="tel:01473351249">01473 351249</a> with any enquiries.'
 ---

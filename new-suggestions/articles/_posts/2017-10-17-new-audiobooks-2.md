@@ -52,6 +52,14 @@ featured-link-text: Check out our newest audiobooks
 
 > "Women like Connie are finding opportunity and liberty like never before, but in this explosive moment of history everything is changing for women - and nothing is changing. Then, as now, is the price Connie must pay for her freedom too great?"
 
+### [<cite>The Secrets She Keeps</cite> by Michael Robotham, read by Lucy Price-Lewis](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2252791)
+
+> "Everyone has an idea of what their perfect life is. For Agatha, it's Meghan Shaughnessy's. At least, that's how Agatha sees it. There is one thing they have in common: both have buried dangerous secrets they will go to terrible lengths to keep. And soon both will realise just how far from perfect their lives can be. All it takes is one haunting lie that cannot be undone."
+
+### [<cite>The Girl Who Takes an Eye for an Eye</cite>, by David Lagercrantz, read by Saul Reichlin](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2253712)
+
+
+
 ## OverDrive
 
 [Set up OverDrive](/elibrary/overdrive/)
