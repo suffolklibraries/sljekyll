@@ -4,7 +4,7 @@ title: "The Possible by Tara Altebrando"
 date: 2017-11-02
 author: ann-halliday
 category: young-adult
-excerpt: "Ann was unconvinced by the premise, events and characters' behaviour in <cite>The Possible</cite>."
+excerpt: "<cite>The Possible</cite> is about a 17-year-old girl who may have inherited telekinetic powers."
 featured-image: /images/featured/featured-the-possible.jpg
 featured-alt: The Possible
 featured-link-text: "Read Ann's review of <cite>The Possible</cite>, by Tara Altebrando."
