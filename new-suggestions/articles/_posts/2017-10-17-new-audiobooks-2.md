@@ -94,9 +94,7 @@ featured-link-text: Check out our newest audiobooks
 
 ### [<cite>Flesh House</cite>, by Stuart MacBride, read by Steve Worsley](https://suffolklibraries.overdrive.com/media/3243004)
 
-> "When an offshore container turns up at Aberdeen Harbour full of human meat, it kicks off the largest manhunt in the Granite City's history. Twenty years ago 'The Flesher' was butchering people all over the UK – turning victims into oven-ready joints – until Grampian's finest put him away. But eleven years later he was out on appeal. Now he's missing and people are dying again. When members of the original investigation start to disappear, Detective Sergeant Logan McRae realizes the case might not be as clear cut as everyone thinks...
-
-> "Twenty years of secrets and lies are being dragged into the light. And the only thing that's certain is Aberdeen will never be the same again."
+> "When an offshore container turns up at Aberdeen Harbour full of human meat, it kicks off the largest manhunt in the Granite City's history. Twenty years ago 'The Flesher' was butchering people all over the UK – turning victims into oven-ready joints – until Grampian's finest put him away. But eleven years later he was out on appeal. Now he's missing and people are dying again. When members of the original investigation start to disappear, Detective Sergeant Logan McRae realizes the case might not be as clear cut as everyone thinks..."
 
 ### [<cite>Doctor Who: Nothing O'Clock</cite>, by Neil Gaiman, read by Peter Kenny](https://suffolklibraries.overdrive.com/media/1469113)
 
@@ -108,17 +106,15 @@ Book 11 of the Doctor Who 50th Anniversary Short Stories series.
 
 > "Ronnie Barker, Richard Beckinsale, Fulton Mackay and Brian Wilde star in two classic episodes written by Dick Clement and Ian la Frenais.
 
-> In <cite>An Evening In</cite>,: Godber is moved into Fletch's cell, and confides that he finds it tough each time the door bangs shut. Fletch advises him to think of it as a quiet night in, but the trouble is Godber has 698 more nights to get through.
+> In <cite>An Evening In</cite>, Godber is moved into Fletch's cell, and confides that he finds it tough each time the door bangs shut. Fletch advises him to think of it as a quiet night in, but the trouble is Godber has 698 more nights to get through.
 
-> In <cite>Heartbreak Hotel</cite>: Godber has an uncharacteristically violent episode after receiving a Dear John letter from his fiancée Denise. Fletcher tries to help him - but Fletch's daughter Ingrid proves more of a consolation."
+> In <cite>Heartbreak Hotel</cite>, Godber has an uncharacteristically violent episode after receiving a Dear John letter from his fiancée Denise. Fletcher tries to help him - but Fletch's daughter Ingrid proves more of a consolation."
 
 ## Borrowbox
 
 [Set up BorrowBox](/elibrary/borrowbox/)
 
 ### [<cite>Lillian Boxfish Takes a Walk</cite>, by Kathleen Rooney, read by Xe Sands](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_418523&fromPage=1&b2bSite=4172)
-
-> "'In my reckless and undiscouraged youth,' Lillian Boxfish writes, 'I worked in a walnut-paneled office thirteen floors above West Thirty-Fifth Street...'
 
 > "She took 1930s New York by storm, working her way up writing copy for R.H. Macy’s to become the highest paid advertising woman in the country. It was a job that, she says, 'in some ways saved my life, and in other ways ruined it.'
 
@@ -131,8 +127,6 @@ Book 11 of the Doctor Who 50th Anniversary Short Stories series.
 > "Caught up in a situation where old actions and grudges can hold dangerous consequences in the present, Beau is forced to operate outside the familiar world of law enforcement. While seeking justice for his frenemy and healing for a long fractured family, he comes face to face with an implacable enemy who has spent decades hiding in plain sight."
 
 ### [<cite>The House of Unexpected Sisters</cite>, by Alexander McCall Smith, read by Adjoa Andoh](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_442819&fromPage=1&b2bSite=4172)
-
-> "The latest instalment of the irresistibly charming, perennially bestselling No. 1 Ladies' Detective Agency series.
 
 > "Precious Ramotswe has always idolised her father, the late Obed Ramotswe. She feels that she knows all about his life – but does she? Sometimes our parents surprise us, and we discover that things were not quite what we thought them to be. And the same goes for Mma Makutsi, Mma Ramotswe's feisty assistant, who also makes certain discoveries about her own past that cause some surprise.
 
@@ -168,8 +162,6 @@ Book 11 of the Doctor Who 50th Anniversary Short Stories series.
 
 ### [<cite>The Frozen Woman</cite>, by Jon Michelet, translated by Don Bartlett, read by Sean Barrett](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_444256&fromPage=1&b2bSite=4172)
 
-> "A frozen body, a murdered biker and a lawyer with nothing left to lose.
-
 > "In the depths of the Norwegian winter, a woman’s frozen corpse is discovered in the garden of a notorious ex-lawyer, Vilhelm Thygesen. She has been stabbed to death.
 
 > "A young biker, a member of a gang once represented by the lawyer, is found dead in suspicious circumstances.
@@ -179,8 +171,6 @@ Book 11 of the Doctor Who 50th Anniversary Short Stories series.
 > "Does the frozen woman hold the key?"
 
 ### [<cite>The Scent of You</cite>, by Maggie Alderson, read by Zara Ramm](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_424357&fromPage=1&b2bSite=4172)
-
-> "Are you still married if you haven't seen your husband for months?
 
 > "Polly's life is great. Her children are away at uni, her glamorous mother – still modelling at 85 – is happily settled in a retirement village, and her perfume blog is taking off. Then her husband announces he needs some space and promptly vanishes.
 
