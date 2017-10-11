@@ -7,7 +7,7 @@ date: 2017-09-28
 excerpt: "Including autobiographies from David Jason, Danny Baker and Graeme Souness."
 featured-image: /images/featured/featured-october-2017-non-fiction.jpg
 featured-alt: "Dare Not Linger, Joan: the remarkable life of Joan Leigh Fermor, Football: my life, my passion"
-featured-link-text: Check out our new non-fiction titles for September.
+featured-link-text: Check out our new non-fiction titles for October.
 breadcrumb: non-fiction
 ---
 
