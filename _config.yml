@@ -15,7 +15,7 @@ twitter_username: suffolklibrary
 github_username:  suffolklibraries
 message: ""
 message_link: extra/
-message_link_text: "Join our new supporters' scheme, Suffolk Libraries Extra &rarr;"
+message_link_text: "Join our supporters' scheme, Suffolk Libraries Extra &rarr;"
 
 # Build settings
 markdown: kramdown
