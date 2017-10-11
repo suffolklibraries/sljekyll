@@ -147,3 +147,43 @@ featured-link-text: Check out our newest audiobooks
 > "A stranger enters the inner sanctum of the Ashby family posing as Patrick Ashby, the heir to the family's sizeable fortune. The stranger, Brat Farrar, has been carefully coached on Patrick's mannerisms, appearance and every significant detail of Patrick's early life, up to his 13th year when he disappeared and was thought to have drowned himself.
 
 > "It seems as if Brat is going to pull off this most incredible deception until old secrets emerge that threaten to jeopardise the imposter's plan and his very life..."
+
+### [<cite>The Store</cite>, by James Patterson & Richard DiLallo, read by Graham Halstead](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_434031&fromPage=1&b2bSite=4172)
+
+> "The Store doesn't just want your money – it wants your soul.
+
+> "Imagine a future of unparalleled convenience. A powerful retailer, The Store, can deliver anything to your door, anticipating the needs and desires you didn't even know you had. Most people are fine with that, but not Jacob and Megan Brandeis.
+
+> "New York writers whose livelihood is on the brink of extinction, Jacob and Megan are going undercover to dig up The Store's secrets in a book that could change the entire American way of life – or put an end to Jacob's.
+
+> "After a series of unsettling discoveries, Jacob and Megan's worst fears about The Store seem like just the beginning. With nothing escaping The Store's watchful eye, harbouring a secret that could get him killed, Jacob has to find a way to publish his exposé – before the truth dies with him."
+
+### [<cite>The Secret Life of Cows</cite>, written and read by Rosamund Young](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_444189&fromPage=1&b2bSite=4172)
+
+> "Cows are as varied as people. They can be highly intelligent or slow to understand; vain, considerate, proud, shy or inventive.
+
+> "Although much of a cow's day is spent eating, they always find time for extracurricular activities such as babysitting, playing hide and seek, blackberry picking or fighting a tree.
+
+> "This is an affectionate record of a hitherto secret world."
+
+### [<cite>The Crown</cite>, by Robert Lacey, read by Alex Jennings](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_444437&fromPage=1&b2bSite=4172)
+
+> "'The things which I have here before promised, I will perform and keep. So help me God.'
+
+> "Netflix's original series The Crown painted a unique and intimate portrait of Britain's longest-reigning monarch. This official companion to the show is an in-depth exploration of the early years of Elizabeth II's time as Queen (1947-1955), complete with extensive research.
+
+> "Princess Elizabeth never expected her father to die so suddenly, so young, leaving her not only a throne to fill, but a global institution to govern. Crowned at 25, already a wife and mother, follow the journey of a woman learning to become a queen.
+
+> "As the country lifted itself out of the shadow of war, the new Queen faced her own challenges. She had a mother and uncle to prove wrong, a relationship to save and a marriage that threatened her role as head of the Church. This is the story of how Elizabeth II drew on every ounce of strength and British reserve to deal with crises not only on the continent, but at home as well."
+
+### [<cite>No Middle Name</cite>, by Lee Child, read by Kerry Shale](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_444276&fromPage=1&b2bSite=4172)
+
+> "Jack 'No Middle Name' Reacher, lone wolf, knight errant, ex military cop, lover of women, scourge of the wicked and righter of wrongs, is the most iconic hero for our age. This is the first time all Lee Child's shorter fiction featuring Jack Reacher has been collected into one volume. Heard together, these 12 stories shed new light on Reacher’s past, illuminating how he grew up and developed into the wandering avenger who has captured the imagination of millions around the world.
+
+### [<cite>Dunbar: King Lear retold</cite>, by Edward St Aubyn, read by Henry Goodman](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_444266&fromPage=1&b2bSite=4172)
+
+> "‘I really did have an empire, you know,’ said Dunbar. ‘Have I ever told you the story of how it was stolen from me?’
+
+> "Henry Dunbar, the once all-powerful head of a global corporation, is not having a good day. In his dotage he handed over care of the family firm to his two eldest daughters, Abby and Megan. But relations quickly soured, leaving him doubting the wisdom of past decisions ...
+
+> "Now imprisoned in a care home in the Lake District with only a demented alcoholic comedian as company, Dunbar starts planning his escape. As he flees into the hills, his family is hot on his heels. But who will find him first, his beloved youngest daughter, Florence, or the tigresses Abby and Megan, so keen to divest him of his estate?"
