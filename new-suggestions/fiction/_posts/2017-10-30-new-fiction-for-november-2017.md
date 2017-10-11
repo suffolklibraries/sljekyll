@@ -55,6 +55,6 @@ New novel from the multi award-winning crime author:
 
 > "But Steel knows he's guilty and the longer he gets away with it, the more women will suffer. The question is: how much is she willing to sacrifice to stop him?"
 
-## [<cite>A Christmas Stocking and other stories</cite>, by Katie Fforde](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2264733)
+## [<cite>The Christmas Stocking and other stories</cite>, by Katie Fforde](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2264733)
 
 Six festive short stories from another recent [Meet the Author](/new-suggestions/meet-the-author/meet-the-author-katie-fforde/) interviewee. Expect romance, humour and happily-ever-after with Fforde's usual light touch.
