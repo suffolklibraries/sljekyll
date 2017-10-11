@@ -30,5 +30,4 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/clare-library
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
-branch-news: 'The library will be opening at 2pm today (11 October). Please call customer services on <a href="tel:01473351249">01473 351249</a> or email <strong>help@suffolklibraries.co.uk</strong> with any enquiries.'
 ---
