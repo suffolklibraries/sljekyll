@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Emma Flint'
-date: 2017-10-24
+date: 2017-10-17
 author: brandon-king
 category: meet-the-author
 excerpt: "Emma Flint tells us how her fascination with a real-life murder case led her to write <cite>Little Deaths</cite>."
@@ -47,12 +47,8 @@ The real story that <cite>Little Deaths</cite> was based on was fairly sensation
 The essential facts of the story remain the same: the real Ruth woke up one morning in the summer of 1965 to find her two young children missing from their apartment in Queens.
 Her four year-old daughter was found dead that afternoon; the body of her five year-old son was discovered a week later.
 
-The real Ruth and my character have many similarities – they’re the same age, both are
-separated from their husbands, both have low-wage jobs that require them to work shifts,
-and both are very attractive. Each has two young children who disappear from their
-bedroom and are later found dead – and both became the main suspects in the subsequent
-murder investigation. But Ruth Malone is really a work of imagination like any other
-fictional character.
+The real Ruth and my character have many similarities – they’re the same age, both are separated from their husbands, both have low-wage jobs that require them to work shifts, and both are very attractive. Each has two young children who disappear from their bedroom and are later found dead – and both became the main suspects in the subsequent
+murder investigation. But Ruth Malone is really a work of imagination like any other fictional character.
 
 I think writing about a real crime is similar to any other historical fiction: it’s my job as a novelist to take the basic facts and breathe life into them so that the reader can experience them in a new way. The key is to make the characters real, and the past immediate and familiar, by writing about situations and experiences that the reader can relate to. We all know what it is to experience sadness or loneliness or fear: as a writer you need to make what your characters are going through vivid enough that readers feel it too.
 
