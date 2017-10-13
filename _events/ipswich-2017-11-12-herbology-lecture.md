@@ -9,7 +9,7 @@ event-end-time: 1515
 breadcrumb: y
 ---
 
-![Fawkes the Phoenix](/featured/featured-phoenix.jpg)
+![Fawkes the Phoenix](/images/featured/featured-phoenix.jpg)
 
 As part of the [Harry Potter: A History of Magic](https://www.bl.uk/projects/harry-potter-a-history-of-magic-public-library-displays) exhibition at the British Library, garden expert and author Anna Pavord will be drawing on her years working in gardens, and researching and writing about plants and their history.
 

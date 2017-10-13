@@ -8,7 +8,7 @@ event-end-date: 2017-12-31
 breadcrumb: y
 ---
 
-![Fawkes the Phoenix](/featured/featured-phoenix.jpg)
+![Fawkes the Phoenix](/images/featured/featured-phoenix.jpg)
 
 As part of the British Library Living Knowledge Network, Suffolk Libraries is displaying selection of images and information from the [Harry Potter: A History of Magic](https://www.bl.uk/projects/harry-potter-a-history-of-magic-public-library-displays) exhibition.
 

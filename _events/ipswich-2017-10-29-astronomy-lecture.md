@@ -9,7 +9,7 @@ event-end-time: 1515
 breadcrumb: y
 ---
 
-![Fawkes the Phoenix](/featured/featured-phoenix.jpg)
+![Fawkes the Phoenix](/images/featured/featured-phoenix.jpg)
 
 As part of the [Harry Potter: A History of Magic](https://www.bl.uk/projects/harry-potter-a-history-of-magic-public-library-displays) exhibition at the British Library, physicist Maggie Aderin-Pocock will be talking about space, her current research, and what drew her to study science in the first place.
 
