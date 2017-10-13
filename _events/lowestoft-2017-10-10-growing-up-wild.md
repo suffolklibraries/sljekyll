@@ -3,7 +3,7 @@ id: low-wild
 name: "Growing up Wild exhibition"
 location: lowestoft-library
 location-text: Lowestoft Library
-event-start-date: 2017-10-17
+event-start-date: 2017-10-10
 event-end-date: 2017-10-22
 breadcrumb: y
 ---
