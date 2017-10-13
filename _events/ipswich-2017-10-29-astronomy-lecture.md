@@ -9,7 +9,9 @@ event-end-time: 1515
 breadcrumb: y
 ---
 
-As part of the Harry Potter: A History of Magic exhibition at the British Library, physicist Maggie Aderin-Pocock will be talking about space, her current research, and what drew her to study science in the first place.
+![Fawkes the Phoenix](/featured/featured-phoenix.jpg)
+
+As part of the [Harry Potter: A History of Magic](https://www.bl.uk/projects/harry-potter-a-history-of-magic-public-library-displays) exhibition at the British Library, physicist Maggie Aderin-Pocock will be talking about space, her current research, and what drew her to study science in the first place.
 
 Dr Maggie Aderin-Pocock MBE is a space scientist whose passion is presenting science to a general audience and demonstrating that you ‘don’t need a brain the size of a small planet’ to understand, participate in and enjoy science. Her BBC2 programme, <cite>Do We Really Need the Moon?</cite> showed just that. The programme earned Maggie the talkback Thames new talent award at the prestigious Women in Film and TV Awards in December 2011. She is currently presenting <cite>The Sky at Night</cite> on BBC 4, <cite>Mini Stargazing</cite> for Cbeebies and is a panellist on Sky One’s science quiz show, <cite>Ducks Quacks Don’t Echo</cite>.
 

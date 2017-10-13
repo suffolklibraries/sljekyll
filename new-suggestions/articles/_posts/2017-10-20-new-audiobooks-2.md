@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Recommended new audiobooks #2"
-date: 2017-10-17
+date: 2017-10-20
 author: sophie-green
 category: articles
 excerpt: "Not sure what to listen to next? We've got new audiobooks from Karen Rose, Carole Matthews, Jack London and more"
