@@ -36,7 +36,7 @@ I was born in central London and although I periodically live in other countries
 
 ## 5. Your latest book, <cite>The Book of Forgotten Authors</cite> is full of long forgotten authors who deserve a wider audience. Was this something you had in mind for some time before writing it?
 
-<img src="/images/featured/featured-book-of-forgotten-authors.jpg" class="custom-br-50 {% include /c/img-float-right.html %}" alt="Alison Bruce" />
+<img src="/images/featured/featured-book-of-forgotten-authors.jpg" class="{% include /c/img-float-right.html %}" alt="The Book of Forgotten Authors" />
 
 I only had to look up at my shelves to wonder why so many incredible writers had vanished from sight. As a child I haunted libraries like some kind of reading-addicted ghost, and kept a notebook of names to investigate, so writing the book came organically.
 
