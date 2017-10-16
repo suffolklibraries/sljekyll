@@ -50,7 +50,7 @@ If you don't have a card number or don't remember your PIN please contact custom
 - [Saxmundham Library](http://78.31.106.220/netloan/Login.aspx)
 - [Southwold Library](http://78.31.106.220/netloan/Login.aspx)
 - [Stoke Library](http://78.31.106.220/netloan/Login.aspx)
-- [Stowmarket Library](http://netloan.suffolklibraries.co.uk/)
+- [Stowmarket Library](http://78.31.106.220/netloan/Login.aspx)
 - [Stradbroke Library](http://78.31.106.220/netloan/Login.aspx)
 - [Sudbury Library](http://netloan.suffolklibraries.co.uk/)
 - [Thurston Library](http://78.31.106.220/netloan/Login.aspx)
