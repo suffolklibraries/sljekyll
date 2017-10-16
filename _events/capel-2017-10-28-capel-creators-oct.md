@@ -6,6 +6,7 @@ location-text: Capel St Mary Library
 event-start-date: 2017-10-28
 event-start-time: 1030
 event-end-time: 1230
+event-category: half-term
 breadcrumb: y
 ---
 
