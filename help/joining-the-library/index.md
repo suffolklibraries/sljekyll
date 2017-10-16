@@ -5,6 +5,12 @@ breadcrumb: help
 sidebar: help
 ---
 
+<div class="pv3 bb b--light-gray">
+
+{% include /c/button-blue.html text="Apply for a card online now &rarr;" url="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN" %}
+
+</div>
+
 You can apply for a library card if you:
 
 - live in Suffolk, Norfolk, Cambridgeshire or Essex
