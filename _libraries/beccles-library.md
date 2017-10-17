@@ -23,7 +23,6 @@ branch-parking: public car park available with 6 free 1 hour spaces, paid parkin
 branch-toilet: y
 branch-bookdrop: y
 branch-refreshments: Fairtrade coffee machine and snacks for sale
-branch-other-facilities: "Trusted Advisor organisation: Get health &amp; social services info &amp; advice."
 branch-wifi: y
 branch-netloan: old
 branch-colour-printing: available
