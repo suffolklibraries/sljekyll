@@ -27,7 +27,7 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/kedington-library
 branch-borrowing-ereaders-and-ipads: an iPad
-branch-news: '<p>Kedington Library is closed until further notice. We apologise for any inconvenience.</p>
+branch-news: '<p>Kedington Library is closed on a temporary basis. We apologise for any inconvenience.</p>
 <p>The closest alternative library is <a href="/libraries/haverhill-library/">Haverhill Library</a>. You can also call customer services on <a href="tel:01473351249">01473 351249</a> or email <strong>help@suffolklibraries.co.uk</strong> with any enquiries.</p>'
 breadcrumb: y
 ---
