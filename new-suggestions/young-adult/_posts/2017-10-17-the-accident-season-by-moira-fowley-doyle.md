@@ -7,7 +7,7 @@ category: young-adult
 excerpt: '<cite>The Accident Season</cite> is a darkly beautiful tale with an ethereal, magical tone, strong narrative and twists that leave you breathless.'
 featured-image: /images/featured/featured-the-accident-season.jpg
 featured-alt: The Accident Season
-featured-link-text: "Read library volunteer Emily's review of <cite>The Accident Season</cite>, by Karen Moïra Fowley-Doyle."
+featured-link-text: "Read library volunteer Emily's review of <cite>The Accident Season</cite>, by Moïra Fowley-Doyle."
 breadcrumb: young-adult
 genre: sci-fi-and-fantasy
 genre-image: /images/featured/featured-the-accident-season-genre.jpg
