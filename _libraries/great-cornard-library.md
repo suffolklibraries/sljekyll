@@ -26,5 +26,4 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: 'The library will not be open on Sunday 22 October due to staff sickness. Please call customer services on <a href="tel:01473351249">01473 351249</a> or email <strong>help@suffolklibraries.co.uk</strong>'
 ---
