@@ -1,6 +1,6 @@
 ---
 id: brandon-quiz
-name: "Friends of Brandon Library Quiz night"
+name: "Friends of Brandon Library quiz night"
 location: brandon-library
 location-text: Brandon Library
 event-start-date: 2017-10-26
