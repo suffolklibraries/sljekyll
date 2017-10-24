@@ -10,4 +10,4 @@ breadcrumb: y
 
 See some of the brilliant photos members of Newmarket U3A Camera Group have taken.
 
-This informal group welcomes new members. They meet on the first Monday of each month. U3A membership is £10 a year, and the meeting fee for the group is £1 a month. For more information about joining, call Barry Coles on [01637 612466](tel:01637612466).
+This informal group welcomes new members. They meet on the first Monday of each month. U3A membership is £10 a year, and the meeting fee for the group is £1 a month. For more information about joining, call Barry Coles on [01638 612466](tel:01637612466).
