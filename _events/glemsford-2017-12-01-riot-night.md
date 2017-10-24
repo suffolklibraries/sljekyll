@@ -7,6 +7,7 @@ event-alt-location: Angel Inn, Egremont Street, Glemsford, CO10 7SA; Glemsford V
 event-start-date: 2017-12-01
 event-start-time: 1930
 event-ticket-price: 10
+event-ticket-url: https://www.eventbrite.co.uk/e/riot-night-tickets-39221336072?ref=estw
 breadcrumb: y
 ---
 
@@ -16,4 +17,4 @@ The evening starts with an optional march to the Angel, where they will be servi
 
 From there, we'll head back to the Village Hall, where votes will be cast and the Riot Act read before we enjoy Tavern tucker, performances from the Glemsford Morris Men, a local raconteur and a folk band. There will also be a licensed bar.
 
-Tickets are available from the library and the Angel.
+Tickets are available online (with a £1.05 booking fee) and from the library and the Angel.
