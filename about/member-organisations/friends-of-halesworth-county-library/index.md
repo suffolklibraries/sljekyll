@@ -98,6 +98,10 @@ Much of this would not have happened without the support of the Friends and we w
 
 ## Minutes
 
+* [Minutes - 22 August 2017](/assets/pdf/2017-08-22-fohcl-minutes.pdf) (PDF)
+* [Minutes - 11 July 2017](/assets/pdf/2017-07-11-fohcl-minutes.pdf) (PDF)
+* [Minutes - 31 May 2017](/assets/pdf/2017-05-31-fohcl-minutes.pdf) (PDF)
+* [Minutes - 9 May 2017](/assets/pdf/2017-05-09-fohcl-minutes.pdf) (PDF)
 * [Minutes - 8 March 2017](/assets/pdf/2017-03-08-fohcl-minutes.pdf) (PDF)
 * [Minutes - 22 November 2016](/assets/pdf/2016-11-22-fohcl-minutes.pdf) (PDF)
 * [Minutes - 9 August 2016](/assets/pdf/2016-08-09-fohcl-minutes.pdf) (PDF)
