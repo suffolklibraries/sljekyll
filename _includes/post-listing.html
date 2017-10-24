@@ -114,12 +114,6 @@
 
 {% endfor %}
 
-{% if page.cat-archive-crumb %}
-
-    <p><a href="/new-suggestions/{{ page.cat-archive-crumb }}/archive/" class="custom-no-underline ba b--white br2 custom-force-white bg-blue pv2 ph3 hover-bg-white hover-white">See the archive of all posts &rarr;</a></p>
-
-{% endif %}
-
 {% if posts-check != true %}
 
     <p>Unfortunately there are currently no {{ page.category  | downcase }}.</p>
