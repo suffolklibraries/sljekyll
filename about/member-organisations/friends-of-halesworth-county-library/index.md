@@ -16,8 +16,8 @@ breadcrumb: member-organisations
 * Chair and communications officer:  Alison Britton
 * Vice chair and events coordinator: Sheila Freeman
 * Minutes secretary: Evelyn Lindqvist
+* Treasurer: David Borer
 * Ex officio trustee: Alison Hopkins
-* Trustee: Wendy Boyden
 * Trustee: Natalie Lloyd-Evans
 * Trustee: David Olds
 * Trustee: Yvonne Sandison
