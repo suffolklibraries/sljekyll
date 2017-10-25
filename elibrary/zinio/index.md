@@ -73,6 +73,8 @@ Once you have downloaded the app, follow the steps from step 5 above.
 3. Press the 'Read' button underneath the magazine's picture to view it
 4. To view all of your magazines, press the three horizontal lines on the top left-hand side of the app and select 'Checked Out'.
 
+Alternatively, see [RBDigital's Downloading Magazines video tutorial](https://www.youtube.com/watch?v=bYiw9BBWtsU&feature=youtu.be) for a step-by-step visual guide to using the RBdigital app.
+
 ### On the Zinio for Libraries app for Amazon Kindle Fire
 
 NB. Zinio for Libraries only offers the functionality to read the magazines you have downloaded. You will need to use a browser to choose your magazines.

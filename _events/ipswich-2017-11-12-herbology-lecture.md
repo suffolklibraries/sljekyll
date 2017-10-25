@@ -6,6 +6,7 @@ location-text: Ipswich County Library
 event-start-date: 2017-11-12
 event-start-time: 1400
 event-end-time: 1515
+event-category: hub
 breadcrumb: y
 ---
 

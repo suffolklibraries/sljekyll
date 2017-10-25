@@ -16,7 +16,7 @@ breadcrumb: events
 
   <section id="events" class="custom-prose custom-lh-copy pb4">
 
-      {% assign current_event_list = site.events | where: "event-category", "lowestoft-lit-2017" | sort: 'event-start-time' ) %}
+      {% assign current_event_list = site.events | where: "event-category", "lowestoft-lit-2017" | sort: 'event-start-time' %}
 
       {% for current_event in current_event_list %}
 

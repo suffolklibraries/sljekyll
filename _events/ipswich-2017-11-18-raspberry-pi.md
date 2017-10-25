@@ -9,6 +9,7 @@ event-start-time: 1000
 event-end-time: 1500
 event-ticket-price: free
 event-ticket-url: https://www.eventbrite.co.uk/e/raspberry-pi-pioneers-tickets-37995883711?utm_term=eventname_text
+event-category: hub
 breadcrumb: y
 ---
 

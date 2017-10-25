@@ -8,26 +8,6 @@ breadcrumb: hub
 
     <h1 class="{% include /c/page-title.html %}">Enterprise + Innovation Hub</h1>
 
-		<div class="{% include /c/generic-panel.html %}">
-
-				<div class="cf">
-
-						<div class="custom-g-l3">
-
-								<p class="ma0 mb2 mb0-ns">Are you aged 11-16 and a keen coder?</strong> Why not take part in our <a href="/events/ipswich-2017-11-18-raspberry-pi/">Raspberry Pi Pioneers challenge on Saturday 18 and Sunday 19 November</a>? We're also looking for adult mentors to help out.</p>
-
-						</div>
-
-						<div class="custom-g-l3 custom-g-nm">
-
-								<p class="ma0 mb2 mb0-ns">As part of our <a href="/ipswich-2017-10-20-history-of-magic/">Harry Potter: A History of Magic display</a>, we're livestreaming two <strong>British Library Hogwarts Curriculum Lectures</strong> in the Hub: <a href="/events/ipswich-2017-10-29-astronomy-lecture/">Astronomy with Maggie Aderin-Pocock on Sunday 29 October</a> and <a href="/events/ipswich-2017-11-12-herbology-lecture/">Herbology with Anna Pavord on Sunday 12 November.</a></p>
-
-						</div>
-
-				</div>
-
-		</div>
-
     <div class="cf">
 
         <div class="custom-g-l3">
@@ -90,7 +70,25 @@ breadcrumb: hub
 
         </div>
 
-    </div> <!-- end row -->
+            </div> <!-- end row -->
+
+        <h2>Upcoming events in the Hub</h2>
+
+        {% assign hub-events = site.events | where: "event-category", "hub" | sort: "event-start-date" %}
+
+        {% for event in hub-events %}
+
+            <article class="{% include /c/listing.html %}">
+
+                <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+                <p class="{% include /c/page-meta.html %}">
+
+                    <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span>
+
+            </article>
+
+        {% endfor %}
 
 </div>
 
