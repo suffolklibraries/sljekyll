@@ -32,6 +32,6 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/ipswich-county-library
-branch-other-facilities: "Board Games Library: borrow a board game to play in the library (£1) or at home (£1-£3), or a children's board game to play in the library (free). Available from the ground floor desk. Donations of good-quality board games appreciated."
+branch-other-facilities: 'Board Games Library - see the <a href="/assets/pdf/ipswich-board-games-library.pdf">Board Games Library information sheet</a> (PDF) for further information.'
 breadcrumb: y
 ---
