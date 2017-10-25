@@ -4,14 +4,14 @@ title: "New children's books for November 2017"
 date: 2017-10-30
 author: sophie-green
 category: childrens-ya-books
-excerpt: "New titles from "
+excerpt: "New titles for fans of Asterix, Batman, Diary of a Wimpy Kid and much more."
 featured-image: /images/featured/featured-childrens-november-2017.jpg
-featured-alt: ""
+featured-alt: "My Lazy Cat, The Riddler's Battleship Blitz, The Rise of Wolves"
 featured-link-text: "Check out our latest titles for children."
 breadcrumb: childrens-ya-books
 ---
 
-![](/images/featured/featured-childrens-november-2017.jpg)
+![My Lazy Cat, The Riddler's Battleship Blitz, The Rise of Wolves](/images/featured/featured-childrens-november-2017.jpg)
 
 ## Board books
 
@@ -100,3 +100,35 @@ This latest title from the comedian turned TV personality, turned children's aut
 ### [<cite>Lucky Button</cite>, by Michael Morpurgo & Michael Foreman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2267893)
 
 > "A lonely boy struggles to cope with school bullies and caring for his mother, until a mysterious encounter reveals life in the Foundling Hospital in the eighteenth century and unravels a touching tale about the power of music."
+
+### [<cite>The Rise of Wolves</cite>, by Kerr Thomson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2270072)
+
+New from the author of [<cite>The Sound of Whales</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1737223), winner of the <cite>Times</cite>/Chicken House Competition 2014:
+
+> "Innis Munro is walking home across the bleak wilderness of Nin Island when he hears the chilling howl of a wolf. But there are no wolves on the island - not since they were hunted to extinction, centuries ago. As long-buried secrets resurface, Innis's adventure truly begins."
+
+### [<cite>The Polar Bear Explorers' Club</cite>, by Alex Bell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2264701)
+
+> "It sounded like a respectable and worthy enough death for an explorer - tumbling from an ice bridge to be impaled upon a mammoth tusk - but Stella really, really didn't want that to happen, just the same.
+
+> "Join Stella Starflake Pearl and her three fellow explorers as they trek across the snowy Icelands and come face-to-face with frost fairies, snow queens, outlaw hideouts, unicorns, pygmy dinosaurs, and carnivorous cabbages."
+
+### [<cite>Diary of a Wimpy Kid: The Getaway</cite>, by Jeff Kinney](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2267187)
+
+This successful series is still going strong with its 12th title:
+
+> "Life was better in the old days. Or was it? That's the question Greg Heffley is asking as his town voluntarily unplugs and goes electronics-free. But modern life has its conveniences, and Greg isn't cut out for an old-fashioned world. With tension building inside and outside the Heffley home, will Greg find a way to survive? Or is going 'old school' just too hard for a kid like Greg?"
+
+### [<cite>The Magic Misfits</cite>, by Neil Patrick Harris](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2272518)
+
+The <cite>A Series of Unfortunate Events</cite>, <cite>How I Met Your Mother</cite> and <cite>Doogie Howeser, M.D.</cite> actor turns his hand to writing:
+
+> "Do you believe in magic? Carter doesn't. He knows magic tricks are just that - tricks. And as a street magician he's also pretty good at them. But then Carter runs away from his conman uncle and he finds himself alone and in danger from dastardly carnival ringleader, B.B. Bosso. He could really use some magic now.
+
+> "A chance encounter with the mysterious Mr Dante Vernon leads Carter to a magic shop, where he teams up with five other like-minded kids and the MAGIC MISFITS are born! Can the gang use their magical talents to save the day and stop B.B. stealing a priceless diamond?"
+
+## Non-fiction
+
+### [<cite>Three Cheers for Women!</cite>, by Marcia Williams](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2267485)
+
+> "Join Marcia Williams as she celebrates incredible women from around the world and throughout history. From writers to warriors and astronauts to activists, discover their awesome stories and be amazed by their achievements. Marcia Williams' much-loved comic-strip style will encourage even the most reluctant reader to enjoy this inspirational book packed with facts, quotes and jokes."
