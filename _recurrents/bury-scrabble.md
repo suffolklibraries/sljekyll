@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Scrabble club - standard and large print sets provided"
+recurrent-title: "Scrabble club"
+recurrent-description: "Standard and large print sets provided."
 recurrent-day: Mondays
 recurrent-times: 1000
 recurrent-location: bury-st-edmunds-library

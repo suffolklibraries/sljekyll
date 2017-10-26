@@ -333,75 +333,57 @@
 
                         {% assign current = page.branch-unique-id %}
 
-                        {% assign recurrents = site.recurrents | where: "recurrent-category", "children" | where: "recurrent-location", current %}
+                        {% for current-recurrent in site.data.cats-recurrents %}
 
-                        {% if recurrents.size > 0 %}
+                            {% assign stub = current-recurrent.stub %}
 
-                            <section class="pb2">
-
-                                <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Children's events</h1>
-
-                                {% for recurrent in recurrents %}
-
-                                    <article class="{% include /c/listing.html %}">
-
-                                    <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
-
-                                    <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
-
-                                    </article>
-
-                                {% endfor %}
-
-                            </section>
-
-                            {% endif %}
-
-                            {% assign current = page.branch-unique-id %}
-
-                            {% assign recurrents = site.recurrents | where: "recurrent-category", "src" | where: "recurrent-location", current %}
+                            {% assign recurrents = site.recurrents | where: "recurrent-category", stub | where: "recurrent-location", current %}
 
                             {% if recurrents.size > 0 %}
 
                                 <section class="pb2">
 
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Summer Reading Challenge</h1>
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">{{ current-recurrent.title }}</h1>
 
                                     {% for recurrent in recurrents %}
 
-                                        <article class="{% include /c/listing.html %}">
+                                        {% assign hide-event = false %}
 
-                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
+                                        {% if recurrent.recurrent-expiry %}
 
-                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+                                            {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
 
-                                        </article>
+                                            {% capture event-expiry-seconds %}{{recurrent.recurrent-expiry | date: '%s' }}{% endcapture %}
 
-                                    {% endfor %}
+                                            {% capture event-expiry %}{{ event-expiry-seconds | divided_by: 86400}}{% endcapture %}
 
-                                </section>
+                                            {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
 
-                                {% endif %}
+                                            {% if now-unix > event-expiry %}
 
-                            {% assign current = page.branch-unique-id %}
+                                                {% assign hide-event = true %}
 
-                            {% assign recurrents = site.recurrents | where: "recurrent-category", "older" | where: "recurrent-location", current %}
+                                            {% endif %}
 
-                            {% if recurrents.size > 0 %}
+                                        {% endif %}
 
-                                <section class="pb2">
+                                        {% unless hide-event %}
 
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Older people's events</h1>
+                                            <article class="{% include /c/listing.html %}">
 
-                                    {% for recurrent in recurrents %}
+                                            <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
 
-                                        <article class="{% include /c/listing.html %}">
+                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
 
-                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
+                                            {% if recurrent.recurrent-description %}
 
-                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+                                            <p class="f6 ma0">{{ recurrent.recurrent-description }}
 
-                                        </article>
+                                            {% endif %}
+
+                                            </article>
+
+                                        {% endunless %}
 
                                     {% endfor %}
 
@@ -409,355 +391,71 @@
 
                             {% endif %}
 
-                            {% assign current = page.branch-unique-id %}
+                        {% endfor %}
 
-                            {% assign recurrents = site.recurrents | where: "recurrent-category", "reading-groups" | where: "recurrent-location", current %}
+                    </section> <!-- end #regular-events -->
 
-                            {% if recurrents.size > 0 %}
+                      <section class="custom-g-l3 custom-g-nm" id="upcoming-events">
 
-                                <section class="pb2">
+                          <h1 class="f3 ma0 mb1 custom-lh-title">Upcoming special events</h1>
 
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Reading groups</h1>
+                          {% assign special-event-check = false %}
 
-                                    {% for recurrent in recurrents %}
+                          {% assign current = page.branch-unique-id %}
 
-                                        <article class="{% include /c/listing.html %}">
+                          {% assign events = site.events | sort: 'event-start-date'%}
 
-                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
+                          {% for event in events %}
 
-                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+                              {% if event.location == current %}
 
-                                        </article>
+                                  {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
 
-                                    {% endfor %}
+                                  {% if event.event-end-date %}
 
-                                </section>
+                                      {% capture event-time-seconds %}{{event.event-end-date | date: '%s' }}{% endcapture %}
 
-                            {% endif %}
+                                  {% else %}
 
-                            {% assign current = page.branch-unique-id %}
-
-                            {% assign recurrents = site.recurrents | where: "recurrent-category", "writing-groups" | where: "recurrent-location", current %}
-
-                            {% if recurrents.size > 0 %}
-
-                                <section class="pb2">
-
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Writing groups</h1>
-
-                                    {% for recurrent in recurrents %}
-
-                                        <article class="{% include /c/listing.html %}">
-
-                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
-
-                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
-
-                                        </article>
-
-                                    {% endfor %}
-
-                                </section>
-
-                            {% endif %}
-
-                            {% assign current = page.branch-unique-id %}
-
-                            {% assign recurrents = site.recurrents | where: "recurrent-category", "computer-courses" | where: "recurrent-location", current %}
-
-                            {% if recurrents.size > 0 %}
-
-                                <section class="pb2">
-
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">IT help</h1>
-
-                                    {% for recurrent in recurrents %}
-
-                                        <article class="{% include /c/listing.html %}">
-
-                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
-
-                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
-
-                                        </article>
-
-                                    {% endfor %}
-
-                                </section>
-
-                            {% endif %}
-
-                            {% assign current = page.branch-unique-id %}
-
-                            {% assign recurrents = site.recurrents | where: "recurrent-category", "language-courses" | where: "recurrent-location", current %}
-
-                            {% if recurrents.size > 0 %}
-
-                                <section class="pb2">
-
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Language courses</h1>
-
-                                    {% for recurrent in recurrents %}
-
-                                        <article class="{% include /c/listing.html %}">
-
-                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
-
-                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
-
-                                        </article>
-
-                                    {% endfor %}
-
-                                </section>
-
-                            {% endif %}
-
-                            {% assign current = page.branch-unique-id %}
-
-                            {% assign recurrents = site.recurrents | where: "recurrent-category", "arts-crafts-games" | where: "recurrent-location", current %}
-
-                            {% if recurrents.size > 0 %}
-
-                                <section class="pb2">
-
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Arts, crafts &amp; games</h1>
-
-                                    {% for recurrent in recurrents %}
-
-                                        <article class="{% include /c/listing.html %}">
-
-                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
-
-                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
-
-                                        </article>
-
-                                    {% endfor %}
-
-                                </section>
-
-                            {% endif %}
-
-                            {% assign current = page.branch-unique-id %}
-
-                            {% assign recurrents = site.recurrents | where: "recurrent-category", "health" | where: "recurrent-location", current %}
-
-                            {% if recurrents.size > 0 %}
-
-                                <section class="pb2">
-
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Health &amp; wellbeing events</h1>
-
-                                    {% for recurrent in recurrents %}
-
-                                        <article class="{% include /c/listing.html %}">
-
-                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
-
-                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
-
-                                        </article>
-
-                                    {% endfor %}
-
-                                </section>
-
-                            {% endif %}
-
-                            {% assign current = page.branch-unique-id %}
-
-                            {% assign recurrents = site.recurrents | where: "recurrent-category", "surgeries-advice" | where: "recurrent-location", current %}
-
-                            {% if recurrents.size > 0 %}
-
-                                <section class="pb2">
-
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Councillor surgeries &amp; professional advice</h1>
-
-                                    {% for recurrent in recurrents %}
-
-                                        <article class="{% include /c/listing.html %}">
-
-                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
-
-                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
-
-                                        </article>
-
-                                    {% endfor %}
-
-                                </section>
-
-                            {% endif %}
-
-                            {% assign current = page.branch-unique-id %}
-
-                            {% assign recurrents = site.recurrents | where: "recurrent-category", "cafes-stalls" | where: "recurrent-location", current %}
-
-                            {% if recurrents.size > 0 %}
-
-                                <section class="pb2">
-
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Fundraising, stalls &amp; book sales</h1>
-
-                                    {% for recurrent in recurrents %}
-
-                                        <article class="{% include /c/listing.html %}">
-
-                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
-
-                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
-
-                                        </article>
-
-                                    {% endfor %}
-
-                                </section>
-
-                            {% endif %}
-
-                            {% assign current = page.branch-unique-id %}
-
-                            {% assign recurrents = site.recurrents | where: "recurrent-category", "films-music-ents" | where: "recurrent-location", current %}
-
-                            {% if recurrents.size > 0 %}
-
-                                <section class="pb2">
-
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Films, music &amp; entertainment</h1>
-
-                                    {% for recurrent in recurrents %}
-
-                                        <article class="{% include /c/listing.html %}">
-
-                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
-
-                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
-
-                                        </article>
-
-                                    {% endfor %}
-
-                                </section>
-
-                            {% endif %}
-
-                            {% assign current = page.branch-unique-id %}
-
-                            {% assign recurrents = site.recurrents | where: "recurrent-category", "business" | where: "recurrent-location", current %}
-
-                            {% if recurrents.size > 0 %}
-
-                                <section class="pb2">
-
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">Business</h1>
-
-                                    {% for recurrent in recurrents %}
-
-                                        <article class="{% include /c/listing.html %}">
-
-                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
-
-                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
-
-                                        </article>
-
-                                    {% endfor %}
-
-                                </section>
-
-                            {% endif %}
-
-                            {% assign current = page.branch-unique-id %}
-
-                            {% assign recurrents = site.recurrents | where: "recurrent-category", "history" | where: "recurrent-location", current %}
-
-                            {% if recurrents.size > 0 %}
-
-                                <section class="pb2">
-
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">History</h1>
-
-                                    {% for recurrent in recurrents %}
-
-                                        <article class="{% include /c/listing.html %}">
-
-                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
-
-                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
-
-                                        </article>
-
-                                    {% endfor %}
-
-                                </section>
-
-                            {% endif %}
-
-                        </section> <!-- end #regular-events -->
-
-                          <section class="custom-g-l3 custom-g-nm" id="upcoming-events">
-
-                              <h1 class="f3 ma0 mb1 custom-lh-title">Upcoming special events</h1>
-
-                              {% assign special-event-check = false %}
-
-                              {% assign current = page.branch-unique-id %}
-
-                              {% assign events = site.events | sort: 'event-start-date'%}
-
-                              {% for event in events %}
-
-                                  {% if event.location == current %}
-
-                                      {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
-
-                                      {% if event.event-end-date %}
-
-                                          {% capture event-time-seconds %}{{event.event-end-date | date: '%s' }}{% endcapture %}
-
-                                      {% else %}
-
-                                          {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
-
-                                      {% endif %}
-
-                                      {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
-
-                                      {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
-
-                                      {% if now-unix <= event-time %}
-
-                                          {% assign special-event-check = true %}
-
-                                          <article class="{% include /c/listing.html %}">
-
-                                              <h1 class="{% include /c/listing-title.html %}"><a class="blue" href="{{ event.url }}">{{ event.name }}</a></h1>
-
-                                              <p class="{% include /c/page-meta.html %}">
-
-                                              {% if event.event-end-date %}
-
-                                                  <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-end-time }}</span>
-
-                                                  {% else %}
-
-                                                  <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
-
-                                              {% endif %}
-
-                                          </article>
-
-                                      {% endif %}
+                                      {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
 
                                   {% endif %}
 
-                              {% endfor %}
+                                  {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
 
-                              {% if special-event-check == false %}<p class="{% include /c/page-meta.html %} mb3">No upcoming special events.</p>{% endif %}
+                                  {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
 
-                          </section> <!-- end #upcoming-events -->
+                                  {% if now-unix <= event-time %}
+
+                                      {% assign special-event-check = true %}
+
+                                      <article class="{% include /c/listing.html %}">
+
+                                          <h1 class="{% include /c/listing-title.html %}"><a class="blue" href="{{ event.url }}">{{ event.name }}</a></h1>
+
+                                          <p class="{% include /c/page-meta.html %}">
+
+                                          {% if event.event-end-date %}
+
+                                              <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-end-time }}</span>
+
+                                              {% else %}
+
+                                              <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
+
+                                          {% endif %}
+
+                                      </article>
+
+                                  {% endif %}
+
+                              {% endif %}
+
+                          {% endfor %}
+
+                          {% if special-event-check == false %}<p class="{% include /c/page-meta.html %} mb3">No upcoming special events.</p>{% endif %}
+
+                      </section> <!-- end #upcoming-events -->
 
                     </div>
 
