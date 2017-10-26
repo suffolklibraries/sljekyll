@@ -25,12 +25,36 @@ dynatable: true
   <tbody>
     {% assign recurrents = site.recurrents | where: "recurrent-category", "computer-courses" | sort: 'recurrent-location' %}
     {% for recurrent in recurrents %}
+    {% assign hide-event = false %}
+
+    {% if recurrent.recurrent-expiry %}
+
+        {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+
+        {% capture event-expiry-seconds %}{{recurrent.recurrent-expiry | date: '%s' }}{% endcapture %}
+
+        {% capture event-expiry %}{{ event-expiry-seconds | divided_by: 86400}}{% endcapture %}
+
+        {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+
+        {% if now-unix > event-expiry %}
+
+            {% assign hide-event = true %}
+
+        {% endif %}
+
+    {% endif %}
+
+    {% unless hide-event %}
+
     <tr>
       <td>{{ recurrent.recurrent-location-display-name }}</td>
       <td><a href="{{ recurrent.recurrent-location-display-url }}">{{ recurrent.recurrent-title }}</a></td>
       <td>{{ recurrent.recurrent-day }}</td>
       <td>{{ recurrent.recurrent-times }} </td>
     </tr>
+
+    {% endunless %}
     {% endfor %}
   </tbody>
 </table>
