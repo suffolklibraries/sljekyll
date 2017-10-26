@@ -11,7 +11,7 @@ featured-link-text: Check out our new Young Adult books for October 2017.
 breadcrumb: young-adult
 ---
 
-![The Book of Dust volume 1": la belle sauvage, All The Crooked Saints, Satellite](/images/featured/featured-young-adult-october-2017.jpg)
+![The Book of Dust volume 1: la belle sauvage, All The Crooked Saints, Satellite](/images/featured/featured-young-adult-october-2017.jpg)
 
 ## [<cite>The Book of Dust volume 1: la belle sauvage</cite>, by Philip Pullman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2160757)
 
