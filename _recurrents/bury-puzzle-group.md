@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Puzzle group - bring a puzzle to swap or have a go at one of ours"
+recurrent-title: "Puzzle group"
+recurrent-description: "Bring a puzzle to swap or have a go at one of ours."
 recurrent-day: every other Thursday
 recurrent-times: 1000
 recurrent-location: bury-st-edmunds-library

@@ -347,13 +347,43 @@
 
                                     {% for recurrent in recurrents %}
 
-                                        <article class="{% include /c/listing.html %}">
+                                        {% assign hide-event = false %}
 
-                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
+                                        {% if recurrent.recurrent-expiry %}
 
-                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+                                            {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
 
-                                        </article>
+                                            {% capture event-expiry-seconds %}{{recurrent.recurrent-expiry | date: '%s' }}{% endcapture %}
+
+                                            {% capture event-expiry %}{{ event-expiry-seconds | divided_by: 86400}}{% endcapture %}
+
+                                            {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+
+                                            {% if now-unix > event-expiry %}
+
+                                                {% assign hide-event = true %}
+
+                                            {% endif %}
+
+                                        {% endif %}
+
+                                        {% unless hide-event %}
+
+                                            <article class="{% include /c/listing.html %}">
+
+                                            <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
+
+                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+
+                                            {% if recurrent.recurrent-description %}
+
+                                            <p class="f6 ma0">{{ recurrent.recurrent-description }}
+
+                                            {% endif %}
+
+                                            </article>
+
+                                        {% endunless %}
 
                                     {% endfor %}
 

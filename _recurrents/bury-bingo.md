@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Bingo - £1 per strip, 2 games per session - have fun and raise funds for the library"
+recurrent-title: "Bingo"
+recurrent-description: "&pound;1 per strip, 2 games per session. Have fun and raise funds for the library."
 recurrent-day: Wednesdays
 recurrent-times: 1100-1200
 recurrent-location: bury-st-edmunds-library
