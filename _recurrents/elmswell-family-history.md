@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Family history group: for beginners and expert genealogists – call the library to book in advance"
+recurrent-title: "Family history group: book in advance"
+recurrent-description: For beginners and expert genealogists.
 recurrent-day: Wednesday every 2 weeks
 recurrent-times: 1430-1630
 recurrent-location: elmswell-library

@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Words book group - friendly group discussing a wide variety of books - please speak to a member of library staff for more information"
+recurrent-title: "Words book group"
+recurrent-description: "Friendly group discussing a wide variety of books, please speak to a member of library staff for more information."
 recurrent-day: second Thursday of the month
 recurrent-times: 1100-1200
 recurrent-location: felixstowe-library

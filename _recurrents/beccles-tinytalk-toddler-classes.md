@@ -1,5 +1,6 @@
 ---
-recurrent-title: "TinyTalk toddler classes: to book your place contact Charlotte Ling 07419 322204 or charlottel@tinytalk.co.uk"
+recurrent-title: "TinyTalk toddler classes"
+recurrent-description: 'To book your place contact Charlotte Ling on <a href="tel:07419322204">07419322204</a> or charlottel@tinytalk.co.uk'
 recurrent-day: Tuesday
 recurrent-times: 1015-1115
 recurrent-location: beccles-library

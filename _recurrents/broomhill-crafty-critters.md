@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Crafty Critters: knitting, crochet and cross stitch group"
+recurrent-title: "Crafty Critters"
+recurrent-description: "Knitting, crochet and cross stitch group."
 recurrent-day: Wednesday
 recurrent-times: 1400-1600
 recurrent-location: broomhill-library

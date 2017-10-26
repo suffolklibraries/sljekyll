@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Beginners' Pilates class - £9 a session or £28 for four sessions. For more information please call Gee on 07549524447 or email jeanettemayes@me.com"
+recurrent-title: "Beginners' Pilates class"
+recurrent-description: '£9 a session or £28 for four sessions. For more information please call Gee on <a href="07549524447">07549524447</a> or email jeanettemayes@me.com'
 recurrent-day: Monday
 recurrent-times: 1800-1900
 recurrent-location: hadleigh-library

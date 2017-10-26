@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Sports and games for ages 8+"
+recurrent-title: "Sports and games: for age 8+"
 recurrent-day: Tuesday
 recurrent-times: 1530-1645
 recurrent-location: gainsborough-community-library

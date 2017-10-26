@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Reading group - £1 to attend"
+recurrent-title: "Reading group: £1 to attend"
 recurrent-day: last Wednesday of the month
 recurrent-times: 1330-1430
 recurrent-location: bungay-library

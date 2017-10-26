@@ -1,5 +1,6 @@
 ---
-recurrent-title: 'Halesworth Wordsmiths writing group: to book in advance contact Annaliese Matheron on <a href="tel:07885607374">07885607374</a> or halesworthwordsmiths@gmail.com.'
+recurrent-title: 'Halesworth Wordsmiths writing group'
+recurrent-description: 'Book in advance by contacting Annaliese Matheron on <a href="tel:07885607374">07885607374</a> or halesworthwordsmiths@gmail.com'
 recurrent-day: Friday
 recurrent-times: 1800-1930
 recurrent-location: halesworth-library

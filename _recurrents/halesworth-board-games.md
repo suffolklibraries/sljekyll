@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Board Games Café - £1.50 includes refreshments and a raffle ticket"
+recurrent-title: "Board Games Café"
+recurrent-description: "£1.50 includes refreshments and a raffle ticket."
 recurrent-day: last Monday of the month
 recurrent-times: 1400-1630
 recurrent-location: halesworth-library

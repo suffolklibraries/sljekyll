@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Internet taster sessions for beginners (book in advance)"
+recurrent-title: "Internet taster sessions for beginners: book in advance"
 recurrent-day: Friday
 recurrent-times: 1000-1100
 recurrent-location: broomhill-library

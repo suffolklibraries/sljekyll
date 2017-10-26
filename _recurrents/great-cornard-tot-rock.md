@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Tot Rock: songs and action rhymes for toddlers"
+recurrent-title: "Tot Rock"
+recurrent-description: "Songs and action rhymes for toddlers."
 recurrent-day: Monday
 recurrent-times: 0930-1000
 recurrent-location: great-cornard-library

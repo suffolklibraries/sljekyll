@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers"
+recurrent-title: "Baby Bounce and Tot Rock"
+recurrent-description: "Songs and rhymes for babies and toddlers."
 recurrent-day: Monday
 recurrent-times: 0935-1000
 recurrent-location: brandon-library

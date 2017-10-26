@@ -1,5 +1,6 @@
 ---
-recurrent-title: 'Raspberry Pi coding club sessions for children aged 8+ - book in advance by contacting Julie Shepherd at the library'
+recurrent-title: 'Raspberry Pi coding club sessions: for children aged 8+'
+recurrent-description: "Book in advance by contacting Julie Shepherd at the library."
 recurrent-day: every other Sunday
 recurrent-times: 1030-1200
 recurrent-location: eye-library

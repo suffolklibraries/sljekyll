@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Storytime: stories and rhymes for pre-school children"
+recurrent-title: "Storytime"
+recurrent-description: "Stories and rhymes for pre-school children."
 recurrent-day: Sunday
 recurrent-times: 1100-1200
 recurrent-location: elmswell-library

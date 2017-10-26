@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Book time: stories and rhymes for pre-school children (term time only)"
+recurrent-title: "Book time"
+recurrent-description: "Stories and rhymes for pre-school children (term time only)."
 recurrent-day: Wednesday
 recurrent-times: 1530-1555
 recurrent-location: brandon-library

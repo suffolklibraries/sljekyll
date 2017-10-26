@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Lego club, all welcome"
+recurrent-title: "Lego club: all welcome"
 recurrent-day: Saturday
 recurrent-times: 1400-1600
 recurrent-location: broomhill-library

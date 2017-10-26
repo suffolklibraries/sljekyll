@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Craft activities: for primary school age children (followed by film club from 1400)"
+recurrent-title: "Craft activities: for primary school age children"
+recurrent-description: Followed by film club from 1400.
 recurrent-day: Sunday
 recurrent-times: 1100-1400
 recurrent-location: broomhill-library

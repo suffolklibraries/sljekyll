@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Tot Rock: songs and action rhymes for toddlers"
+recurrent-title: "Tot Rock"
+recurrent-description: "Songs and action rhymes for toddlers."
 recurrent-day: Thursday
 recurrent-times: 0915-0940
 recurrent-location: chantry-library

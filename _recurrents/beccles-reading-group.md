@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Reading group: for more information contact Ruth Sainsbury at ruthsainsbury@yahoo.co.uk"
+recurrent-title: "Reading group"
+recurrent-description: "For more information contact Ruth Sainsbury at ruthsainsbury@yahoo.co.uk"
 recurrent-day: first Monday of the month
 recurrent-times: 1900-2030
 recurrent-location: beccles-library

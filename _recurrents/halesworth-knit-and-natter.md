@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Knit and Natter, Stitch and Chatter group: support for your craft projects"
+recurrent-title: "Knit and Natter, Stitch and Chatter group"
+recurrent-description: "Support for your craft projects."
 recurrent-day: first and third Tuesday of the month
 recurrent-times: 1400-1600
 recurrent-location: halesworth-library

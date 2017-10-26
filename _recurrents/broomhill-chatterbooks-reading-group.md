@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Chatterbooks reading group: for children aged 14 and under – register at the library"
+recurrent-title: "Chatterbooks reading group: for children aged 14 and under"
+recurrent-description: Register at the library.
 recurrent-day: first Friday of the month
 recurrent-times: 1800-1900
 recurrent-location: broomhill-library

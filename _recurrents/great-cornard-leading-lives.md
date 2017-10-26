@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Leading Lives - a general interest activity and social session for adults with additional needs (term time only)"
+recurrent-title: "Leading Lives: a general interest activity and social session for adults with additional needs"
+recurrent-description: "Term-time only."
 recurrent-day: Monday
 recurrent-times: 1345-1445
 recurrent-location: great-cornard-library

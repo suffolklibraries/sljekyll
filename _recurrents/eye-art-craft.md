@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Art and craft activities for children - under 8s must be accompanied by an adult - no need to book"
+recurrent-title: "Art and craft activities for children"
+recurrent-description: No need to book. Under 8s must be accompanied by an adult.
 recurrent-day: Sunday
 recurrent-times: 1000-1500
 recurrent-location: eye-library

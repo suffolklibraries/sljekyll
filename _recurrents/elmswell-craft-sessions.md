@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Craft sessions for children of all ages"
+recurrent-title: "Craft sessions: for children of all ages"
 recurrent-day: Sunday
 recurrent-times: 1100-1200
 recurrent-location: elmswell-library

@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Citizens' Advice Bureau - free advisory service"
+recurrent-title: "Citizens' Advice Bureau: free advisory service"
 recurrent-day: Friday
 recurrent-times: 1000-1200
 recurrent-location: framlingham-library

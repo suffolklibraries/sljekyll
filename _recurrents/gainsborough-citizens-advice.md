@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Citizens Advice Bureau - drop in for an assessment of the help we can offer you"
+recurrent-title: "Citizens Advice Bureau"
+recurrent-description: "Drop in for an assessment of the help we can offer you."
 recurrent-day: Wednesday
 recurrent-times: 0930-1230
 recurrent-location: gainsborough-community-library

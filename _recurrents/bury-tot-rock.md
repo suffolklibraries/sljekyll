@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Tot Rock: songs and action rhymes for toddlers"
+recurrent-title: "Tot Rock"
+recurrent-description: "Songs and action rhymes for toddlers."
 recurrent-day: Thursday
 recurrent-times: 1015-1045
 recurrent-location: bury-st-edmunds-library

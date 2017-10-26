@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Knit and Yarn: knitting and crochet group - £2 to attend"
+recurrent-title: "Knit and Yarn: knitting and crochet group: £2 to attend"
 recurrent-day: first Friday of the month
 recurrent-times: 1230
 recurrent-location: bungay-library

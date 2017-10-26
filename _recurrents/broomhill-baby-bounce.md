@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Baby Bounce: soothing songs and gentle nursery rhymes for babies"
+recurrent-title: "Baby Bounce"
+recurrent-description: "Soothing songs and gentle nursery rhymes for babies."
 recurrent-day: Tuesday
 recurrent-times: 0930-1030
 recurrent-location: broomhill-library

@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Baby Bounce: soothing songs and gentle nursery rhymes for babies (term time only)"
+recurrent-title: "Baby Bounce"
+recurrent-description: "Soothing songs and gentle nursery rhymes for babies, term-time only."
 recurrent-day: Wednesday
 recurrent-times: 1330-1400
 recurrent-location: great-cornard-library

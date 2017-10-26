@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Tot Rock: songs and action rhymes for toddlers (in the adjoining village hall)"
+recurrent-title: "Tot Rock"
+recurrent-description: "Songs and action rhymes for toddlers in the adjoining village hall."
 recurrent-day: Friday
 recurrent-times: 1000-1100
 recurrent-location: glemsford-library

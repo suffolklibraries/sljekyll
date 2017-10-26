@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Art in the Afternoon – Hadleigh art club: for more information call Bryan Haylock on 01473 827752 or 01473 827211"
+recurrent-title: "Art in the Afternoon: Hadleigh art club"
+recurrent-description: 'For more information call Bryan Haylock on <a href="tel:01473827752">01473 827752</a> or <a href="tel:01473827211">01473 827211</a>.'
 recurrent-day: Tuesday (runs from September to May)
 recurrent-times: 1400-1600
 recurrent-location: hadleigh-library
