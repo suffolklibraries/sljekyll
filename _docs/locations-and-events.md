@@ -2,6 +2,8 @@
 
 ## Locations
 
+Libraries are a Jekyll collection, defined in the `_config.yml` file. They are stored as markdown files in the `_libraries` folder. They consist of a list of YAML pairs.
+
 ### Unique ids
 
 All locations include a `branch-unique-id`. The website looks for this unique id in event YAML to place events in the correct location, so make sure you add them to events properly.
@@ -17,9 +19,11 @@ Some libraries have extended names (e.g. they include the word 'Saint' or 'Count
 
 ### Template
 
-The website uses the `library.html` layout file to create library pages (e.g. https://www.suffolklibraries.co.uk/libraries/bury-st-edmunds-library/).
+The website uses the `library.html` layout file to create library pages (e.g. https://www.suffolklibraries.co.uk/libraries/bury-st-edmunds-library/). The library markdown files are fed through `library.html` to create the site's final HTML pages (e.g. `/libraries/aldeburgh-library/`).
 
-You can use the following YAML:
+### Library YAML
+
+The `library.html` layout file refers to the following YAML:
 
 - `branch-unique-id`: unique id used as a key in events (e.g. `ipswich-county-library`)
 - `branch-name`: the library name to display on pages (e.g. `Ipswich County Library`)
@@ -62,7 +66,7 @@ The website uses two types of events.
 
 ### Recurrent events
 
-These occur on a regular basis and are only created once. They live in the `_recurrents` collection folder.
+These occur on a regular basis and are only created once. They are a Jekyll collection and live in the `_recurrents` collection folder.
 
 You can find recurrent events in the following sections of the website:
 
@@ -91,21 +95,25 @@ The site uses recurrent event categories (`recurrent-category`) to produce categ
 - `business`
 - `history`
 
-There is no description for these events. All the information about the event is contained in its YAML:
+All the information about the event is contained in its YAML:
 
 - `recurrent-title: "Art group"`
+- `recurrent-description: "Bring your own materials, voluntary &pound;2 charge"`
 - `recurrent-day: Wednesday`
 - `recurrent-times: 1515-1715`
 - `recurrent-location: aldeburgh-library`
 - `recurrent-location-display-name: Aldeburgh Library`
 - `recurrent-location-display-url: /branches/aldeburgh-library/``
 - `recurrent-category: arts-crafts-games`
+- `recurrent-expiry: 2017-12-01`
+
+Note that the website won't display a recurrent event once its `recurrent-expiry` date has passed. It still exists, though, so it's good practice to clear the `_recurrents` folder periodically.
 
 #### Creating a new recurrent event
 
 1. Create a new Markdown in the file in the `_recurrents` folder
 2. Complete the appropriate YAML
-3. Save the file using a `library-location-short-description` format (e.g. `aldeburgh-art-group.md`)
+3. Save the file using a `library-location-short-description` format (e.g. `aldeburgh-art-group.md`). This makes it easy to find specific recurrent events.
 
 ### Special events
 
