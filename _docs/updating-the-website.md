@@ -6,7 +6,7 @@ This guide will show you how to develop and share work locally on a dev branch, 
 
 We use three areas to control development and testing of our website:
 
-- **Development (known as ‘dev’)**: a shared, synchronised area used by website authors and developers on their own PCs
+- **Development (known as ‘dev’)**: a shared on Github, synchronised area used by website authors and developers on their own PCs
 - **Staging**: a publically available website accessible with a password to show proposed development and changes to customers `http://announcer-balls-76336.netlify.com/`
 - **Production**: the live Suffolk Libraries website `https://www.suffolklibraries.co.uk`
 
@@ -32,7 +32,7 @@ We use a company called [Netlify](https://www/netlify.com) to take care of our h
 - compressing and lazyloading images
 - using http2
 
-Netlify also takes care of linking our `sljekyll` repo branches to our websites. When we push changes to `staging` or `master`, Netlify copies them from our Github repo to its servers and builds the site remotely in the same way as we build the site locally, i.e. by running Jekyll.
+Netlify also takes care of linking our `sljekyll` repo branches to our websites. When we push changes to `staging` or `master`, Netlify copies them from our Github repo to its servers and builds the site remotely in the same way as we build the site locally, i.e. by running Jekyll (`jekyll buid` -- note, you can specify a build command).
 
 Therefore we don't see changes until Netlify has completed building the website on its servers and deploying them to the CDN. This can take up to 3 minutes.
 
@@ -47,7 +47,7 @@ There are several ways to make changes locally before pushing them to our stagin
 
 ### 1. Developer makes own changes on a local-only branch
 
-You can serve the site at `127.0.0.0:4000` to see changes as you make them. Use the `jekyll s` command.
+You can serve the site at `127.0.0.0:4000` to see changes as you make them. Use the `bundle exec jekyll s` command.
 
 Only the `dev`, `staging` and `master` branches should be tracked. Developers can fix bugs, add features and content on their own local branches. They can then serve the site locally using Jekyll to see their work in progress.
 
@@ -97,11 +97,11 @@ As you can't be sure who's made changes since you last worked on the site, make 
 
 Again, you can't be sure who's worked on the site since you started working on a local branch. Once you're happy with your local work, git pull to get the latest versions of the site to merge into.
 
-### Serve the site to fix conflicts in the `_site` folder
+### Add and commit to fix conflicts in the `_site` folder
 
-Re-serving the site will fix conflicts in the `_site` folder.  These account for 99% of site conflicts after you've merged one branch into another.
+Re-commiting changes after a merge will fix conflicts in the `_site` folder.  These account for 99% of site conflicts after you've merged one branch into another.
 
-Once you've served the site remember to:
+You can check the site has merged and committed properly by serving it. Once you've served the site remember to:
 
 - `git add --all`
 - `git commit -m '[your commit message]'`
@@ -114,4 +114,4 @@ Just as you save as you go along&hellip;
 
 ### Don't panic!
 
-We can always roll back or even blitz a local copy of the site :-)
+We can always roll back or even blitz a local copy of the site 😎 

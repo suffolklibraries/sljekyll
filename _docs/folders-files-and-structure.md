@@ -15,9 +15,8 @@ Each of these types of files do different things.
 
 Jekyll will create a website from these files and folders. You'll see that the website reflects project folder structure:
 
-- `meet-the-author` folder &rarr; https://www.suffolklibraries.co.uk/meet-the-author
-- `libraries` folder &rarr; https://www.suffolklibraries.co.uk/libraries
-- `sitemap.xml` &rarr; https://www.suffolklibraries.co.uk/sitemap.xml
+- `/libraries` folder &rarr; https://www.suffolklibraries.co.uk/libraries
+- `/sitemap.xml` &rarr; https://www.suffolklibraries.co.uk/sitemap.xml
 
 Note: our hosting will map https://www.suffolklibraries.co.uk/index.html to https://www.suffolklibraries.co.uk/
 
@@ -25,6 +24,7 @@ Furthermore, the website will reflect the sub-folder structure:
 
 - `new-suggestions &rarr; fiction` folder &rarr; https://www.suffolklibraries.co.uk/new-suggestions/fiction/
 - `schools-literacy &rarr; schools &rarr; about` folder &rarr; https://www.suffolklibraries.co.uk/schools-literacy/schools/about
+- `/new-suggestions/meet-the-author/` folder &rarr; https://www.suffolklibraries.co.uk/new-suggestions/meet-the-author/
 
 Jekyll then creates HTML pages from Markdown or HTML files, or copies any `css` and `js` files to the `_site` folder (or any other file types, for that matter):
 
@@ -71,3 +71,5 @@ These are system files, which Jekyll won't process and add to the website. The m
 The `_redirects` file is used by our hosts to handle redirects. We want Jekyll to output it in the site folder. To do this we add the following line to the `_config.yml` file:
 
 `include: [_redirects]`
+
+which forces Jekyll to output rather than ignore it.
