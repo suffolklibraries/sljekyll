@@ -8,13 +8,13 @@ breadcrumb: hub
 
 	<h1 class="{% include /c/page-title.html %} tc">MakerSpace</h1>
 
-	<p><img src="/images/featured/featured-makerspace-minecraft.jpg" alt="Children playing Minecraft in the MakerSpace"></p></p>
+	<p><img src="/images/featured/featured-makerspace-minecraft.jpg" alt="Children playing Minecraft in the MakerSpace"></p>
 
 	<p class="tc"><a class="custom-force-white custom-no-underline pure-button pure-button-primary" href="https://uk.bookingbug.com/home/45066-Enterprise-+-Innovation-Hub">Book a machine →</a></p>
 
 	<div class="custom-prose custom-lh-copy">
 
-		<p>An open, friendly public space to design and create. Includes two computer coding kits and two professional sewing machines.</a></p>
+		<p>An open, friendly public space to design and create. Includes two computer coding kits and two professional sewing machines.</p>
 
 		<div class="{% include /c/generic-panel.html %}"><p class="ma0">Experienced with fashion and textile design, or coding? We’re looking for skilled and enthusiastic volunteers to help support the MakerSpace. Contact us at <strong>hub@suffolklibraries.co.uk</strong> or call <strong>01473 263827</strong> to get involved.</p></div>
 
@@ -37,11 +37,26 @@ breadcrumb: hub
 		</tbody>
 		</table>
 
-		<p>KANO is a DIY computer kit designed to help people of all ages assemble a computer from scratch and learn basic coding skills. Preloaded with software and a child-friendly interface, accompanied by a keyboard built for coding and gaming, and all powered of Raspberry Pi - the credit-card-sized computer aimed at kids.</p>
+		<p>KANO is a DIY computer kit designed to help people of all ages assemble a computer from scratch and learn basic coding skills.</p>
 
-		<p>Our KANO kits include everything required to build a computer including a Raspberry Pi, a case, wireless keyboard with trackpad, cables, Wi-Fi dongle, and even a speaker. The simple instructional guide shows users how to build the computer by connecting all of the parts together and plugging it into one of our HDMI monitors.</p>
+		<p>It's preloaded with software and has a child-friendly interface. It includes a keyboard built for coding and gaming. All powered by Raspberry Pi - the credit-card-sized computer aimed at kids.</p>
 
-		<p>The kit’s coding component is Kano OS, an open source visual programming language that can output code in Javascript and Python among other languages. On Kano OS users can perform activities like making music, streaming HD video, reprogramming games like Pong and Minecraft, composing music, work processing and web browsing.</p>
+		<p>Our KANO kits include everything required to build a computer, including:</p>
+
+		<ul>
+			<li>Raspberry Pi</li>
+			<li>a case</li>
+			<li>wireless keyboard with trackpad</li>
+			<li>cables</li>
+			<li>Wi-Fi dongle</li>
+			<li>a speaker</li>
+		</ul>
+
+		<p>The instruction guide shows users how to build the computer by connecting all of the parts together, and plugging it into one of our HDMI monitors.</p>
+
+		<p>The kit’s coding component is Kano OS, an open source visual programming language that outputs code in Javascript and Python, among other languages.</p>
+
+		<p>With Kano OS users can make music, stream HD video, reprogram games like Pong and Minecraft, word process and browse the web.</p>
 
 		<p>Details:</p>
 
@@ -69,7 +84,7 @@ breadcrumb: hub
 		</tbody>
 		</table>
 
-		<p>The Innov-is 750E is a dedicated embroidery machine with a large embroidery area. It has 135 built in designs and 6 fonts for you to choose from and add to your embroidery projects.</p>
+		<p>The Innov-is 750E is a dedicated embroidery machine with a large embroidery area. It has 135 built in designs and 6 fonts for you to add to your embroidery projects.</p>
 
 		<p>Features:</p>
 
@@ -86,13 +101,15 @@ breadcrumb: hub
 
 		<h3>Software</h3>
 
-		<p>Your embroidery design options needn't be limited to the Innov-is 750E inbuilt designs as this machine is compatible with Brother’s optional embroidery card library that contains many different design themes. If you dream of designing your own patterns then we recommend that you try using Brother’s PE Design Software which lets you create your own designs from scratch, save them onto a USB stick and transfer to our Innov-is.</p>
+		<p>Your embroidery design options needn't be limited to the Innov-is 750E's inbuilt designs as this machine is compatible with Brother’s optional embroidery card library.</p>
+
+		<p>If you dream of designing your own patterns we recommend <a href="https://www.brothersewing.co.uk/en_GB/software?p_p_id=cataloguedisplay_WAR_Catalogueportlet_INSTANCE_n7YK&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_cataloguedisplay_WAR_Catalogueportlet_INSTANCE_n7YK_articleId=PEDPLUS2XX1">Brother’s PE Design Software</a>, which lets you create your own designs from scratch, save them onto a USB stick and transfer to our Innov-is.</p>
 
 		<p>We do not currently supply Brother embroidery cards or PE Design Software.</p>
 
 		<h2>Brother L14 Sewing Machine</h2>
 
-		<p><img  src="/images/article/brotherl14.jpg" alt="Brother L14 Sewing Machine"></p>
+		<p><img src="/images/article/brotherl14.jpg" alt="Brother L14 Sewing Machine"></p>
 
 		<table class="pure-table">
 		<thead>
@@ -141,7 +158,9 @@ breadcrumb: hub
 		</tbody>
 		</table>
 
-		<p>Used as either a 3 or 4 thread machine, you’ll be able to trim, edge and neaten your work for a professional finish which won’t fray or unwind. The Brother 1034D features an easy to follow thread guide, and a F.A.S.T. lower looper threading system. It also feature a free-arm/flat bed convertible sewing surface for easy control when overlocking cuffs and sleeves, saving time and producing professional results.</p>
+		<p>Used as either a 3 or 4 thread machine, you’ll be able to trim, edge and neaten your work for a professional finish which won’t fray or unwind.</p>
+
+		<p>The Brother 1034D features an easy to follow thread guide, and a F.A.S.T. lower looper threading system. It also features a free-arm/flat bed convertible sewing surface for easy control when overlocking cuffs and sleeves, saving time and producing professional results.</p>
 
 		<p>Features:</p>
 
