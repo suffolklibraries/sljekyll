@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Lifting Spirits with Suffolk Family Carers - women's singing project for carers - speak to your Suffolk Family Carers contact if you require respite care to attend"
+recurrent-title: "Lifting Spirits with Suffolk Family Carers"
+recurrent-description: "Women's singing project for carers. Speak to your Suffolk Family Carers contact if you require respite care to attend."
 recurrent-day: every other Monday
 recurrent-times: 1920-2120
 recurrent-location: ipswich-county-library

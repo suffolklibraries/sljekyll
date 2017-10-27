@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Home Ed Kids' Club - contatct the library for more information"
+recurrent-title: "Home Ed Kids' Club"
+recurrent-description: "Contact the library for more information."
 recurrent-day: first and third Thursdays of the month
 recurrent-times: 1400-1500
 recurrent-location: haverhill-library

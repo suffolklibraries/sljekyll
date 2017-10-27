@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Tot Rock: Songs &amp; action rhymes for all preschool children (term-time only)"
+recurrent-title: "Tot Rock"
+recurrent-description: "Songs and action rhymes for preschool children, term-time only"
 recurrent-day: Thursday
 recurrent-times: 1415-1445
 recurrent-location: lavenham-library

@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Baking group: ask library for more details"
+recurrent-title: "Baking group"
+recurrent-description: "Contact the library for more details."
 recurrent-day: Tuesday once a month
 recurrent-times: 1430-1530
 recurrent-location: kessingland-library

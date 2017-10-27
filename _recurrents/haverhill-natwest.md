@@ -1,5 +1,6 @@
 ---
-recurrent-title: "NatWest information drop-in - a community assistance opportunity to support existing NatWest customers with their banking needs"
+recurrent-title: "NatWest information drop-in"
+recurrent-description: "A community assistance opportunity to support existing NatWest customers with their banking needs."
 recurrent-day: every other Wednesday
 recurrent-times: 0930-1230
 recurrent-location: haverhill-library

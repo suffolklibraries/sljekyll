@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Family history group: help and guidance with the Suffolk Family History Society"
+recurrent-title: "Family history group"
+recurrent-description: "Help and guidance with the Suffolk Family History Society."
 recurrent-day: Wednesday
 recurrent-times: 1400-1600
 recurrent-location: haverhill-library
