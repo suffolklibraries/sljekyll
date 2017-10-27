@@ -26,7 +26,9 @@ Date:   Fri Oct 27 11:37:34 2017 +0100
 
 Another option is to login to `https://www.app.netlify.com` and select a deploy before you made the mistaken push. Make that live and the website will revert to its pre-broken state.
 
-Note that any Github pushes will override this approach, so you'll need to fix the site locally first anyway, either by fixing files or using `git revert` as above.
+This is useful if you need to make a quick revert simply.
+
+Note that any Github pushes will override this deploy as they automatically create a new deploy based on the Github repo. You'll therefore need to fix the site locally before pushing any new changes, either by fixing files or by using `git revert` as above.
 
 ## Hosting problems
 
