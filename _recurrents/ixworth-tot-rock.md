@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Tot Rock: songs and action rhymes for toddlers (term time only)"
+recurrent-title: "Tot Rock"
+recurrent-description: "Songs and action rhymes for toddlers, term-time only."
 recurrent-day: Tuesday
 recurrent-times: 1330-1415
 recurrent-location: ixworth-library

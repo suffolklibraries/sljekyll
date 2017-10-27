@@ -1,5 +1,6 @@
 ---
-recurrent-title: 'Open space: drop in for health info, activities and chat. All welcome. Free tea and coffee provided.'
+recurrent-title: 'Open space'
+recurrent-description: "Drop in for health info, activities and chat. All welcome. Free tea and coffee provided."
 recurrent-day: Friday
 recurrent-times: 1230-1430
 recurrent-location: haverhill-library

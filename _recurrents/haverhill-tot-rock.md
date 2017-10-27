@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Tot Rock: songs and action rhymes for toddlers, from 18 months to pre-school age"
+recurrent-title: "Tot Rock"
+recurrent-description: "Songs and action rhymes for toddlers, from 18 months to pre-school age."
 recurrent-day: Tuesday
 recurrent-times: 1000-1030
 recurrent-location: haverhill-library

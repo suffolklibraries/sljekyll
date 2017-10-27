@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Tot Rock: songs and rhymes for preschool children (term time only)"
+recurrent-title: "Tot Rock"
+recurrent-description: "Songs and rhymes for preschool children, term-time only."
 recurrent-day: Wednesday
 recurrent-times: 1100-1130
 recurrent-location: lowestoft-library

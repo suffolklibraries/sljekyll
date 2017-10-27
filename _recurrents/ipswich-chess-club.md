@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Chess club for 6-16 year olds"
+recurrent-title: "Chess club: for 6-16 year olds"
 recurrent-day: Saturday
 recurrent-times: 1000-1130
 recurrent-location: ipswich-county-library
