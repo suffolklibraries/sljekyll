@@ -25,7 +25,7 @@ Developers should link their local `dev` branch to Github's remote `dev` branch 
 
 ## Netlify hosting and building the site
 
-We use a company called [Netlify](https://www/netlify.com) to take care of our hosting. Netlify automatically optimise our sites by:
+We use a company called [Netlify](https://www.netlify.com) to take care of our hosting. Netlify automatically optimises our sites by:
 
 - deploying them to a Content Delivery Network (CDN)
 - minimising javascript, CSS and HTML
@@ -99,7 +99,7 @@ Again, you can't be sure who's worked on the site since you started working on a
 
 ### Add and commit to fix conflicts in the `_site` folder
 
-Re-commiting changes after a merge will fix conflicts in the `_site` folder.  These account for 99% of site conflicts after you've merged one branch into another.
+Re-committing changes after a merge will fix conflicts in the `_site` folder.  These account for 99% of site conflicts after you've merged one branch into another.
 
 You can check the site has merged and committed properly by serving it. Once you've served the site remember to:
 
@@ -114,4 +114,4 @@ Just as you save as you go along&hellip;
 
 ### Don't panic!
 
-We can always roll back or even blitz a local copy of the site 😎 
+We can always [roll back](https://github.com/suffolklibraries/sljekyll/blob/master/_docs/errors-and-problems.md) or even blitz a local copy of the site 😎
