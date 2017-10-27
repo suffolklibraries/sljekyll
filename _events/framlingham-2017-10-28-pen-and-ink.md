@@ -11,4 +11,4 @@ breadcrumb: y
 
 Adults are invited to try a new hobby by having a go at pen and ink art.
 
-Booking essential. If you attend this event, you may not attend our [flower-arranging](/events/framlingham-2017-09-23-flower-club/) [creative writing](/events/framlingham-2017-09-30-creative-writing/), [felting](/events/framlingham-2017-10-14-felting/) or [watercolour](/events/framlingham-2017-10-21-watercolour/) workshops.
+Booking essential. If you attend this event, you may not have attended our flower-arranging, felting or watercolour workshops.
