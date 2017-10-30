@@ -12,11 +12,11 @@ October will be a busy month for Suffolk Libraries with a series of events for S
 
 This Sunday (1 October) is **Silver Sunday**, a national day of fun and free activities for older people to celebrate their contributions to our communities and combat loneliness and isolation. Five libraries are holding Silver Sunday events:
 
-* [Afternoon tea at Beccles Library](/events/beccles-2017-10-01-silver-sunday/)
-* [Health walk from Chantry Library, in Ipswich](/events/chantry-2017-10-01-silver-sunday-walk/)
-* [Afternoon tea party at Framlingham Library](/events/framlingham-2017-10-01-silver-sunday/)
-* [Tea party at Great Cornard Library](/events/great-cornard-2017-10-01-silver-sunday/)
-* [Tea party at Newmarket Library](/events/newmarket-2017-10-01-silver-sunday/)
+* Afternoon tea at Beccles Library
+* Health walk from Chantry Library, in Ipswich
+* Afternoon tea party at Framlingham Library
+* Tea party at Great Cornard Library
+* Tea party at Newmarket Library
 
 We would also like to remind customers of the [regular activities for older people across our libraries](/events-activities/older/).
 
@@ -26,12 +26,12 @@ Many of our libraries provide [IT courses for beginners](/events-activities/get-
 
 **National Libraries Week** runs from 9-15 October and we're starting the celebrations early with **Fun Palace** events on Saturday 7 and Sunday 8 October. Every October, community venues around the world hold Fun Palace events to enable everyone to explore their creative and scientific side while having lots of fun. Six libraries are creating Fun Palaces:
 
-* [Fun Palace at Chantry Library on Saturday 7 October](/events/chantry-2017-10-07-fun-palace/)
-* [Fun Palace at Elmswell Library on Saturday 7 October](/events/elmswell-2017-10-07-fun-palace/)
-* [Fun Palace at Gainsborough Community Library on Saturday 7 and Sunday 8 October](/libraries/gainsborough-community-library/)
-* [Fun Palace at Ipswich County Library on Saturday 7 and Sunday 8 October](/libraries/ipswich-county-library/)
-* [Fun Palace at Lowestoft Library on Sunday 8 October](/events/lowestoft-2017-10-08-fun-palace/)
-* [Fun Palace at Saxmundham Library on Saturday 7 October](/events/saxmundham-2017-10-07-fun-palace-sat/) and [Fun Palace at Saxmundham Market Hall on Sunday 8 October](/events/saxmundham-2017-10-08-fun-palace-sun/)
-* [Fun Palace: Plant Palace: Wild plants skills and crafts for all ages at Southwold Library on Sunday 8 October](/events/southwold-2017-10-08-fun-palace/)
+* Fun Palace at Chantry Library on Saturday 7 October
+* Fun Palace at Elmswell Library on Saturday 7 October
+* Fun Palace at Gainsborough Community Library on Saturday 7 and Sunday 8 October
+* Fun Palace at Ipswich County Library on Saturday 7 and Sunday 8 October
+* Fun Palace at Lowestoft Library on Sunday 8 October
+* Fun Palace at Saxmundham Library on Saturday 7 October and Fun Palace at Saxmundham Market Hall on Sunday 8 October
+* Fun Palace: Plant Palace: Wild plants skills and crafts for all ages at Southwold Library on Sunday 8 October
 
 It will be a busy weekend all round for Lowestoft Library - author Stella Duffy, the brain behind Fun Palaces, will be making an appearance at their event, and the [Lowestoft Library Literary Festival](/events-activities/lowestoft-library-literary-festival/) takes place on Saturday 7 October with Ben Garrod, George Szirtes, Simon Scarrow and Libby Purves giving talks.

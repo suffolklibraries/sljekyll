@@ -44,7 +44,7 @@ You can also read eBooks on an eReader, and listen to eAudiobooks on a device th
 You will need a Kobo or Nook or other account, depending on which eReader you have.
 
 1. Plug your eReader into your computer
-2. Install the [Adobe Digital Editions](http://www.adobe.com/uk/products/digital-editions/download.html) program on your computer
+2. Install the [Adobe Digital Editions](http://www.adobe.com/solutions/ebook/digital-editions/download.html) program on your computer
 3. Go to the [OverDrive website](http://suffolklibraries.lib.overdrive.com/) and download an eBook to your PC. The file name will end ‘.acsm’
 4. Find the eBook you’ve downloaded on your computer
 5. Open the eBook in Adobe Digital Editions

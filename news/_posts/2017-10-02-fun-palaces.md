@@ -18,10 +18,10 @@ Alison Wheeler, Chief Executive of Suffolk Libraries, said: “We’re really ex
 
 All the events are free and open to all ages. Follow the links below for further information about the Fun Palace at your local library.
 
-* [Fun Palace at Chantry Library on Saturday 7 October](/events/chantry-2017-10-07-fun-palace/)
-* [Fun Palace at Elmswell Library on Saturday 7 October](/events/elmswell-2017-10-07-fun-palace/)
-* [Fun Palace at Gainsborough Community Library on Saturday 7 and Sunday 8 October](/libraries/gainsborough-community-library/)
-* [Fun Palace at Ipswich County Library on Saturday 7 and Sunday 8 October](/libraries/ipswich-county-library/)
-* [Fun Palace at Lowestoft Library on Sunday 8 October](/events/lowestoft-2017-10-08-fun-palace/)
-* [Fun Palace at Saxmundham Library on Saturday 7 October](/events/saxmundham-2017-10-07-fun-palace-sat/) and [Fun Palace at Saxmundham Market Hall on Sunday 8 October](/events/saxmundham-2017-10-08-fun-palace-sun/)
-* [Fun Palace: Plant Palace: Wild plants skills and crafts for all ages at Southwold Library on Sunday 8 October](/events/southwold-2017-10-08-fun-palace/)
+* Fun Palace at Chantry Library on Saturday 7 October
+* Fun Palace at Elmswell Library on Saturday 7 October
+* Fun Palace at Gainsborough Community Library on Saturday 7 and Sunday 8 October
+* Fun Palace at Ipswich County Library on Saturday 7 and Sunday 8 October
+* Fun Palace at Lowestoft Library on Sunday 8 October
+* Fun Palace at Saxmundham Library on Saturday 7 October and Fun Palace at Saxmundham Market Hall on Sunday 8 October
+* Fun Palace: Plant Palace: Wild plants skills and crafts for all ages at Southwold Library on Sunday 8 October

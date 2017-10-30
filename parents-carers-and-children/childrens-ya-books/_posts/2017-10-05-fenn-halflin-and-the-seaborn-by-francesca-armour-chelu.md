@@ -15,7 +15,7 @@ breadcrumb: childrens-ya-books
 
 **[See <cite>Fenn Halflin and the Seaborn</cite> in our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2167085) and [find out the secrets of Francesca Armour-Chelu's success](/new-suggestions/articles/francesca-armour-chelu/)**
 
-In the sequel to [<cite>Fenn Halflin and the Fearzero</cite>](/parents-carers-and-children/childrens-ya-books/2017-09-28-fenn-halflin-and-the-fearzero-by-francesca-armour-chelu/), Fenn is on the run from the Terra Firma and the monstrous Chilstone and trying to find the shadowy Resistance. Fenn must try and contact the Seaborn folk and make a last stand against Chilstone, who will literally let nothing stand in his path.
+In the sequel to [<cite>Fenn Halflin and the Fearzero</cite>](/parents-carers-and-children/childrens-ya-books/fenn-halflin-and-the-fearzero-by-francesca-armour-chelu/), Fenn is on the run from the Terra Firma and the monstrous Chilstone and trying to find the shadowy Resistance. Fenn must try and contact the Seaborn folk and make a last stand against Chilstone, who will literally let nothing stand in his path.
 
 This was another rip-roaring read with the action and tension piled on apace. I really liked the Sargassons; their way of life, the sibilance of their speech and the archaic language they used was so evocative, it made me want to spend some time with them. I found them very restful and humane as a community.
 
