@@ -8,7 +8,7 @@ excerpt: "We recently installed new self-service machines in our libraries. Letâ
 featured-image: /images/featured/featured-using-self-service.jpg
 featured-alt: Customers using our new self-service machines
 breadcrumb: blog
-featured-excerpt: ""
+featured-excerpt: "We recently installed new self-service machines in our libraries. Letâ€™s take a close look at how we made our new system flexible, so we could use it in different situations at minimum cost and work."
 featured-link-text: Find out about our flexible new self-service system
 ---
 
