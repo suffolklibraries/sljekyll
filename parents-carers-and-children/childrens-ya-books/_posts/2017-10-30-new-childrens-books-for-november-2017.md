@@ -15,7 +15,7 @@ breadcrumb: childrens-ya-books
 
 ## Board books
 
-### [<cite>Are You There Little Fox?</cite>]((https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2271196)) and [<cite>Are You There Little Elephant?</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2199444) by Sam Taplin & Emily Dove
+### [<cite>Are You There Little Fox?</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2271196) and [<cite>Are You There Little Elephant?</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2199444) by Sam Taplin & Emily Dove
 
 > "In this beautifully illustrated hide-and-seek series, children can 'spot' the animal through a hole on each page - but when they turn the page it isn't them at all! Very young children will love searching for the elusive animal, and all the charming details and other animals they discover along the way."
 
