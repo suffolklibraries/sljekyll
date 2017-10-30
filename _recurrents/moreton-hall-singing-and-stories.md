@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Singing and stories: stories, nursery rhymes and songs for 0-4 year-olds"
+recurrent-title: "Singing and stories"
+recurrent-description: "Stories, nursery rhymes and songs for 0-4 year-olds."
 recurrent-day: Tuesday
 recurrent-times: 1415-1445
 recurrent-location: moreton-hall

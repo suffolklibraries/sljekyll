@@ -1,5 +1,6 @@
 ---
-recurrent-title: "The adult painting club: limited spaces, for more details contact the library"
+recurrent-title: "The adult painting club"
+recurrent-description: "Limited spaces. Contact the library for more details."
 recurrent-day: Wednesday
 recurrent-times: 1000-1200
 recurrent-location: wickham-market-library

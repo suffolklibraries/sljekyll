@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Spanish conversation group - for beginners and improvers - free"
+recurrent-title: "Spanish conversation group"
+recurrent-description: "For beginners and improvers. Free."
 recurrent-day: Saturday
 recurrent-times: 1115-1215
 recurrent-location: newmarket-library

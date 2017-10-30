@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Lego Club - open to children (and adults) of all ages - help and donations of Lego appreciated"
+recurrent-title: "Lego Club"
+recurrent-description: "Open to children (and adults) of all ages. Help and donations of Lego appreciated."
 recurrent-day: Sunday
 recurrent-times: 1215-1300
 recurrent-location: southwold-library

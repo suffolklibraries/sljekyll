@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers"
+recurrent-title: "Baby Bounce and Tot Rock"
+recurrent-description: "Songs and rhymes for babies and toddlers."
 recurrent-day: Wednesday (term times only)
 recurrent-times: 1415-1445
 recurrent-location: rosehill-library

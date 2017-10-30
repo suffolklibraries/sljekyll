@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Conversation classes for people looking to improve their English (term time only)"
+recurrent-title: "Conversation classes for people looking to improve their English"
+recurrent-description: "Term-time only."
 recurrent-day: Sunday
 recurrent-times: 1230-1330
 recurrent-location: newmarket-library

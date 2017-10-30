@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Family playtime for 0-5 year olds (term time only)"
+recurrent-title: "Family playtime for 0-5 year olds"
+recurrent-description: "Term-time only."
 recurrent-day: Monday
 recurrent-times: 1300-1430
 recurrent-location: oulton-broad-library

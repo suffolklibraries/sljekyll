@@ -1,5 +1,6 @@
 ---
-recurrent-title: "One-to-one family history help sessions - ask staff for details"
+recurrent-title: "One-to-one family history help sessions"
+recurrent-description: "Contact the library for more details."
 recurrent-day: Sessions arranged on a mutually convenient basis
 recurrent-times: N/a
 recurrent-location: stowmarket-library

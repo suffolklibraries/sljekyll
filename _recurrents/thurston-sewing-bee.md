@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Sewing Bee (term-time only) - open to all, complete a project over 2 weeks with full guidance and instruction and all materials and equipment supplied for £10. Refreshments available for a small donation. Contact Cathy McDonald at the library to book a place."
+recurrent-title: "Sewing Bee"
+recurrent-description: "Open to all. Complete a project over 2 weeks with full guidance and instruction and all materials and equipment supplied for £10. Refreshments available for a small donation. Contact Cathy McDonald at the library to book a place. Term-time only."
 recurrent-day: Friday
 recurrent-times: 1000-1130
 recurrent-location: thurston-library

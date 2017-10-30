@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Writer’s workshop: contact jeannie@butterwicks.com"
+recurrent-title: "Writers' workshop"
+recurrent-description: "Contact jeannie@butterwicks.com for more information."
 recurrent-day: second Tuesday of the month
 recurrent-times: 1730-1930
 recurrent-location: woodbridge-library

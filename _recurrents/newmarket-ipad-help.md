@@ -1,5 +1,6 @@
 ---
-recurrent-title: "IT help - one-to-one one hour sessions tailored to your needs - please contact the library to join the waiting list"
+recurrent-title: "IT help"
+recurrent-description: "One-to-one one hour sessions tailored to your needs. Please contact the library to join the waiting list"
 recurrent-day: Wednesday
 recurrent-times: 1000-1300
 recurrent-location: newmarket-library

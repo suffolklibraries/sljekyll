@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Adult colouring group: £1 per person including refreshments"
+recurrent-title: "Adult colouring group"
+recurrent-description: "£1 per person including refreshments."
 recurrent-day: Friday every 2 weeks
 recurrent-times: 0945-1045
 recurrent-location: stoke-library

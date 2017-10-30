@@ -1,5 +1,6 @@
 ---
-recurrent-title: 'Woodbridge Novelists is a reciprocal critiquing group for novel-writers who are working towards publication. Visit the site for more info: <a href="https://sites.google.com/site/woodbridgenovelists/home">Woodbridge Novelists</a>'
+recurrent-title: 'Woodbridge Novelists'
+recurrent-description: 'A reciprocal critiquing group for novel-writers who are working towards publication. Visit the <a href="https://sites.google.com/site/woodbridgenovelists/home">Woodbridge Novelists website</a> for more information.'
 recurrent-day: Fortnightly on Wednesday
 recurrent-times: in the morning
 recurrent-location: woodbridge-library

@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Creative writing group: contact judy.sowman@suffolklibraries.co.uk or gaprocter@gmail.com"
+recurrent-title: "Creative writing group"
+recurrent-description: "Email judy.sowman@suffolklibraries.co.uk or gaprocter@gmail.com for more information."
 recurrent-day: first Tuesday of the month
 recurrent-times: 1430-1600
 recurrent-location: sudbury-library

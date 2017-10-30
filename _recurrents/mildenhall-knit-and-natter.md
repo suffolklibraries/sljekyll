@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Knit and Natter club: 50p for tea or coffee"
+recurrent-title: "Knit and Natter"
+recurrent-description: "50p for tea or coffee."
 recurrent-day: Friday every 2 weeks
 recurrent-times: 1400-1500
 recurrent-location: mildenhall-library

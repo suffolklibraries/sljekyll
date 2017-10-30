@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Saturday storytime - drop in to hear some stories"
+recurrent-title: "Saturday storytime: drop in to hear some stories"
 recurrent-day: Saturdays
 recurrent-times: 1030
 recurrent-location: woodbridge-library

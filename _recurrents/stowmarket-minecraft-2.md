@@ -1,5 +1,6 @@
 ---
-recurrent-title: "Minecraft club: no tuition and bring your own devices"
+recurrent-title: "Minecraft club"
+recurrent-description: "No tuition. Bring your own devices."
 recurrent-day: Sunday
 recurrent-times: 1100-1200
 recurrent-location: stowmarket-library
