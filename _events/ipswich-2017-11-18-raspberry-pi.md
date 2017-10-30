@@ -19,6 +19,6 @@ Keen young makers aged 11-16 and adult mentors are invited to take part in the l
 
 Participants will work together in teams of up to five to design and build creations that solve a series of challenges. They will also get to make a short video to share their creations.
 
-Register online through [Eventbrite](https://www.eventbrite.co.uk/e/raspberry-pi-pioneers-tickets-37995883711?utm_term=eventname_text) by 28 October.
+Register online through [Eventbrite](https://www.eventbrite.co.uk/e/raspberry-pi-pioneers-tickets-37995883711?utm_term=eventname_text) by 4 November.
 
 Visit the [Pioneers website](https://www.raspberrypi.org/pioneers/) to find out more.
