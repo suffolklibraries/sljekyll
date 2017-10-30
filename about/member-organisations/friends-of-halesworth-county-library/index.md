@@ -49,7 +49,6 @@ Hard copies of all the forms should be returned to: Halesworth Library, Bridge S
 * [One-off donation form](/assets/doc/fohcl-donation-form.docx) (.docx)
 * [Standing order form](/assets/doc/fohcl-standing-order-form.docx) (.docx)
 * [Standing order form - 100 club](/assets/doc/fohcl-100-club-form.docx) (.docx)
-* [Gift Aid form](/assets/doc/fohcl-gift-aid-form.docx) (.docx)
 
 ## The story so far
 
