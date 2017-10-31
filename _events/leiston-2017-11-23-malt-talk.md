@@ -1,6 +1,6 @@
 ---
 id: leiston-malt
-name: "Malt: Suffolks Forgotten Bounty - a talk by Vic Gray"
+name: "Malt: Suffolk's Forgotten Bounty - a talk by Vic Gray"
 location: leiston-library
 location-text: Leiston Library
 event-start-date: 2017-11-23
