@@ -10,4 +10,4 @@ breadcrumb: y
 event-category: older
 ---
 
-Discuss this month's book with other readers.
+Discuss <cite>My Brilliant Friend</cite> by Elena Ferrante with other readers.
