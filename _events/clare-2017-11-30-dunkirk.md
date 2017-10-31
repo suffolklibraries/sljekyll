@@ -3,7 +3,7 @@ id: clare-dunkirk
 name: "Film Night: <cite>Dunkirk</cite>"
 location: clare-library
 location-text: Clare Library
-event-start-date: 2017-11-09
+event-start-date: 2017-11-30
 event-start-time: 1830
 event-ticket-price: 5
 breadcrumb: y
