@@ -57,6 +57,14 @@ According to Publishers Weekly, "the story's slowing pace and emphasis on observ
 
 > "It might look like a pebble from the beach, but Eliza knows this is an egg. And one night when she hears cracking, she discovers the Stone Bird. It might still look like a stone to her mum, but Eliza knows it's alive. Step into the magical world of one child's imagination in this stunning debut by exciting new author Jenny McCartney, illustrated by luminary of children's books Patrick Benson."
 
+### [<cite>Boogie Bear</cite>, by David Walliams & Tony Ross](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2204464)
+
+> "Up at the North Pole, a big furry polar bear is swimming, fishing and eating. But when she nods off and finds herself far from home, she thinks things can't get any worse. But they can. Much worse!
+
+> "An outrageously funny picture book with an incredibly heartwarming message about celebrating difference - in all its forms."
+
+It's a busy month forc omedian turned TV personality, turned children's author David Walliams, who also has a new junior novel coming out.
+
 ## Beginner reads
 
 ### [<cite>How to Build a Dragon Fort</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2269985)
@@ -95,7 +103,7 @@ A new adventure for fans of the original series by Rene Goscinney from its curre
 
 ### [<cite>Bad Dad</cite>, by David Walliams](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2279091)
 
-This latest title from the comedian turned TV personality, turned children's author, promises to be a hilarious, fast-paced and heart-warming story about a father and son who take on the villainous Mr Big. This is bound to be very popular!
+David Walliams' other new title promises to be a hilarious, fast-paced and heart-warming story about a father and son who take on the villainous Mr Big. This is bound to be very popular!
 
 ### [<cite>Lucky Button</cite>, by Michael Morpurgo & Michael Foreman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2267893)
 
