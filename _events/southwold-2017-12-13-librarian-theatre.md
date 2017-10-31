@@ -1,6 +1,6 @@
 ---
 id: swold-theatre
-name: "Librarian Theatre: <cite>Alice in the Cuckoo's Nest</cite> - evening performance"
+name: "Librarian Theatre: <cite>Alice in the Cuckoo's Nest</cite>"
 location: southwold-library
 location-text: Southwold Library
 event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, Southwold, IP18 6JP"
@@ -8,6 +8,7 @@ event-start-date: 2017-12-13
 event-start-time: 1900
 event-ticket-price: 7.50, concessions £4
 event-ticket-url: https://www.librariantheatre.com/product-page/southwoldartscentre
+event-category: librarian-theatre
 breadcrumb: y
 ---
 

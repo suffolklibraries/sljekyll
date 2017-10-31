@@ -1,12 +1,12 @@
 ---
-id: gains-theatre
-name: "Librarian Theatre: <cite>Alice in the Cuckoo's Nest</cite>"
-location: gainsborough-community-library
-location-text: Gainsborough Community Library
-event-start-date: 2017-12-15
-event-start-time: 1900
+id: alde-theatre
+name: "Librarian Theatre: <cite>Alice in the Cuckoo's Nest</cite> - evening performance"
+location: aldeburgh-library
+location-text: Aldeburgh Library
+event-start-date: 2017-12-14
+event-start-time: 1930
 event-ticket-price: 7.50, concessions £4
-event-ticket-url: https://www.librariantheatre.com/product-page/gainsboroughlibrary
+event-ticket-url: https://www.librariantheatre.com/product-page/tbclibrary3
 event-category: librarian-theatre
 breadcrumb: y
 ---
