@@ -1,13 +1,13 @@
 ---
-id: bury-book
-name: "Top Time: Book group"
+id: bury-art
+name: "Top Time: Art group"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
-event-start-date: 2017-09-06
+event-start-date: 2017-11-17
 event-start-time: 1000
 event-end-time: 1200
 breadcrumb: y
 event-category: older
 ---
 
-Discussing <cite>Truly Madly Guilty</cite>, by Liane Moriaty.
+Bring your own art and craft project to the library and share a skill with others.
