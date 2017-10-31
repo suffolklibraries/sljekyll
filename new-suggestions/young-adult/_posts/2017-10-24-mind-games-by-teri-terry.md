@@ -7,7 +7,7 @@ category: young-adult
 excerpt: '<cite>Mind Games</cite> is an incredible, extremely enthralling book.'
 featured-image: /images/featured/featured-mind-games.jpg
 featured-alt: Mind Games
-featured-link-text: "Read library customer Amelie's review of <cite>Mind Games</cite>, by Teri Terry."
+featured-link-text: "Read library volunteer Amelie's review of <cite>Mind Games</cite>, by Teri Terry."
 breadcrumb: young-adult
 genre: sci-fi-and-fantasy
 genre-image: /images/featured/featured-mind-games-genre.jpg
