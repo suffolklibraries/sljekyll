@@ -4,7 +4,7 @@ name: "Librarian Theatre: <cite>Alice in the Cuckoo's Nest</cite>"
 location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2017-12-16
-event-start-time: 1730
+event-start-time: 1930
 event-ticket-price: 7.50, concessions £4
 event-ticket-url: https://www.librariantheatre.com/product-page/woodbridgelibrary
 event-category: librarian-theatre
