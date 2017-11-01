@@ -1,6 +1,6 @@
 ---
 id: alde-theatre
-name: "Librarian Theatre: <cite>Alice in the Cuckoo's Nest</cite> - evening performance"
+name: "Librarian Theatre: <cite>Alice in the Cuckoo's Nest</cite>"
 location: aldeburgh-library
 location-text: Aldeburgh Library
 event-start-date: 2017-12-14

@@ -1,0 +1,42 @@
+---
+layout: sidebar-right
+title: "Suffolk Libraries to host Librarian Theatre production"
+date: 2017-11-01
+author: james-powell
+category: news
+excerpt: "Several Suffolk libraries will be hosting performances of Librarian Theatre's new experimental adaptation of <cite>Alice in Wonderland</cite>, <cite>Alice in the Cuckoo's Nest</cite>, in December."
+breadcrumb: news
+---
+
+<p>Several Suffolk libraries will be hosting performances of Librarian Theatre's new experimental adaptation of <cite>Alice in Wonderland</cite>, <cite>Alice in the Cuckoo's Nest</cite>, in December.</p>
+
+<p><cite>Alice in the Cuckoo's Nest</cite> re-imagines Lewis Carroll's classic story in the setting of a modern day mental institution. Although the show is not aimed at children as it explores adult themes of mental health, it is family-friendly and those aged eight and above accompanied by an adult are welcome.</p>
+
+<p>We are hosting five performances of <cite>Alice in the Cuckoo's Nest</cite>:</p>
+
+{% assign librarian-theatre-events = (site.events | where: "event-category", "librarian-theatre" | sort: "event-start-date" ) %}
+
+{% for event in librarian-theatre-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span>
+
+        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+        </p>
+
+    </article>
+
+{% endfor %}
+
+<p>Tickets are £7.50 each, or £4.50 for concessions. You can buy them through the <a href="https://www.librariantheatre.com/">Librarian Theatre Website</a> or by <a href="/libraries/">contacting the libraries</a>.</p>
+
+<p>Librarian Theatre works alongside library services to deliver accessible, affordable, high quality theatre to local communities. They also promote and protect public library services, reading and literacy.</p>
+
+<p>This is their third tour, which is being supported by a grant of over £51,000 from Arts Council England (ACE)'s Libraries Fund. This fund, part of ACE's wider Grants for the Arts Scheme, is intended to foster collaboration between libraries and arts organisations.</p>
+
+<p>Actors Tom Cuthbertson and Kelly Eva-May set up Librarian Theatre as a not-for-profit company in 2015, successfully trialling the concept last year with a 43-show tour of <cite>Hamlet</cite>, followed by a 25-show tour of <cite>A Christmas Carol</cite>. Both texts were newly adapted for the purpose, with library-themed designs and the lead roles of Hamlet and Scrooge re-gendered to be performed by women.</p>

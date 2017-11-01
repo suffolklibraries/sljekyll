@@ -1,6 +1,6 @@
 ---
 id: bec-past
-name: "Past Times: 'Archive Films of East Anglia' film show and quiz from the Friends of Beccles Library"
+name: "Past Times: 'Archive Films of East Anglia' film showing and quiz from the Friends of Beccles Library"
 location: beccles-library
 location-text: Beccles Library
 event-start-date: 2017-11-03
