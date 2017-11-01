@@ -6,7 +6,7 @@ location-text: Aldeburgh Library
 event-start-date: 2017-12-14
 event-start-time: 1930
 event-ticket-price: 7.50, concessions £4
-event-ticket-url: https://www.librariantheatre.com/product-page/tbclibrary3
+event-ticket-url: https://www.librariantheatre.com/product-page/aldeburghlibrary
 event-category: librarian-theatre
 breadcrumb: y
 ---
