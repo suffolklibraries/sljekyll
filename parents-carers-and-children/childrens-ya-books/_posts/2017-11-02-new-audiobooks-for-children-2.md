@@ -19,7 +19,7 @@ breadcrumb: childrens-ya-books
 
 > "You are about to read the true story of Father Christmas. It is a story that proves that nothing is impossible. If you are one of those people who believe that some things are impossible, you should put this book down right away. It is most certainly not for you. Because this book is full of impossible things. Are you still reading? Good. Then let us begin. A tale of adventure, snow, kidnapping, elves, more snow, and an 11-year-old boy called Nikolas, who isn't afraid to believe in magic..."
 
-### [<cite>The Secrets of the Superglue Sisters</cite>, by SUsie Day, read by Charlie Sanderson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2252763)
+### [<cite>The Secrets of the Superglue Sisters</cite>, by Susie Day, read by Charlie Sanderson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2252763)
 
 > "Best friends Georgie and Jem aren't just new at school; they're new at being full-time sisters too. Georgie's mum and Jem's dad have finally bought a house together, and they get to share a home at last, just like they always wanted.
 
