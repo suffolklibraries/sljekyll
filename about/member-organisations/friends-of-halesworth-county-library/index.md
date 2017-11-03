@@ -32,15 +32,19 @@ breadcrumb: member-organisations
 
 ## Get involved with the Friends
 
-Are you passionate about our library services? Would you like to be more involved in what happens within Halesworth Library, supporting it in the face of gradually reducing central funding? If so, we are always looking for new Friends to join us.
+Are you passionate about our library services? Would you like to feel more involved in what happens within Halesworth Library, supporting it in the face of gradually reducing central funding? If so, we are always looking for new Friends.
 
-Maybe you already support us as a library user, but by becoming a Friend you could do more. Your involvement can be as little or as much as you like. As a Friend, you can simply be an advocate of the library, but you can also have a say in what we do to support the library through the charity and contribute ideas to shape the library for the future.
+Maybe you already support us as a library user. As a Friend you could do more and your involvement can be as little or as much as you like. By simply signing up as a Friend, you become an advocate for the library and part of a visible group of supporters.
 
-You could, for instance, join our events group, which plans and runs fundraising events throughout the year. Or maybe you have a talent or skill that you could share by running groups in the library. You may wish to volunteer within the library or just help with publicity through your town/village newsletters, putting up posters or spreading the word through social media.
+You can also become more involved and have a bigger say in how the library is supported by the Friends group. You can contribute your own ideas to help shape the library for the future.
 
-If this is of interest to you, please complete the membership application form below, or pick up a paper copy in the library.
+You might, for instance, join our events group, which plans and runs fundraising events throughout the year. Or maybe you have a talent or skill that you could share by running groups in the library.
 
-Many Friends like to donate to the charity when joining and if you would like to do the same, please either make an electronic payment to 40-23-04 81263528 quoting 'donation' as the reference, or use the form below.
+You may wish to volunteer within the library (regularly or occasionally) or just help with publicity through your town/village newsletters, putting up posters or spreading the word through social media.
+
+If you'd like to join us, please complete the **membership application** form below, or pick up a paper copy in the library.
+
+Membership is free, but **we appreciate donations**. You can make an electronic payment to 40-23-04 81263528 quoting 'donation' as the reference, use the form below, or simply pop into the library with cash or a cheque.
 
 Hard copies of all the forms should be returned to: Halesworth Library, Bridge Street, Halesworth, IP19 8AD.
 
@@ -48,52 +52,68 @@ Hard copies of all the forms should be returned to: Halesworth Library, Bridge S
 * [Junior membership form (for under-16s)](/assets/doc/fohcl-junior-membership-form.docx) (.docx)
 * [One-off donation form](/assets/doc/fohcl-donation-form.docx) (.docx)
 * [Standing order form](/assets/doc/fohcl-standing-order-form.docx) (.docx)
-* [Standing order form - 100 club](/assets/doc/fohcl-100-club-form.docx) (.docx)
+* [Standing order form - 100 club](/assets/doc/fohcl-100-club-form.docx) (.docx) (contact [Halesworth Library](/libraries/halesworth-library/) for more information)
 
 ## The story so far
 
-The Friends of Halesworth County Library was established in 2013 and registered with the Charity Commission in September of that year as a Charitable Incorporated Organisation (Registered Charity Number 1153765). This is a community group to support the library and raise funds for further development. We now have almost 400 members.
+The Friends of Halesworth County Library was established in 2013 and registered with the Charity Commission that September as a Charitable Incorporated Organisation (Registered Charity Number 1153765). This is a community group to support the library and raises funds for further development. We now have over 400 members.
 
 The Friends is an 'open' organisation where all members are encouraged to bring forward ideas or suggestions for improving the effectiveness of the group and its contribution to the library and the community. The group's aim is to support the manager, staff and volunteers of the library in their delivery of a comprehensive library system.
 
-As well as our members we have a group of Trustees of the Friends who meet regularly with the library manager. Their role is to give support and advice on meeting the expenses involved in making improvements to the library and also in purchasing new equipment for the use of library members.
+As well as our members we have a group of Trustees of the Friends who meet with the library manager every six weeks. Their role is to give support and advice on meeting the expenses involved in making improvements to the library and in purchasing new equipment for the use of library members.
 
 In co-operation with library staff, the Friends organise two kinds of events:
 
-* Some are to raise money for the 'extras' which will help to make the library a more welcoming community resource as well as a place to find books and information.
-* Others offer members of the local community a range of low cost activities designed to entertain and educate, or just for fun and companionship! Some combine all four aims!
+* Fundraisers for the 'extras' which help to make the library a welcoming community resource as well as a place to find books and information.
+* A range of free and low-cost activities for the local community designed to entertain and educate, or just for fun and companionship. Some combine all four of these aims!
 
-Friends, through their support of the library, have helped great things to happen to the library!
+Friends' support has helped great things to happen for the library:
 
-* Wheeled shelving for the book stock was purchased to replace some of the downstairs shelving. So now the downstairs area can be cleared, as needed, for special events.
-* The library has been totally re-decorated. It needed freshening up and looks so much better now. New carpeting was laid throughout and, for the first time, we have blinds for the mezzanine. These make it possible to reduce the bright light from the large windows when presentations are being given. The blinds also make the area cosier during the winter and can provide an element of privacy and noise control when activities are happening both downstairs and on the mezzanine.
-* A new project is being costed and planned for 2017 - refurbishment of the Junior Library.
+* Our latest project, completed in July 2017, was the refurbishment of the Junior Library. The Friends paid for around 75% of this.
+* We purchased wheeled shelving for the book stock to replace some of the downstairs shelving. Now the downstairs area can be cleared for special events.
+* We paid for the library to be redecorated. We had new carpeting laid throughout and bought blinds for the mezzanine. These reduce sunlight during presentations, make the area cosier during the winter, provide an element of privacy and reduce noise.
 
-Much of this would not have happened without the support of the Friends and we would like to take this opportunity to thank all Friends AND supporters for their contributions.
+Much of the above works would not have happened without the support of the Friends and we would like to take this opportunity to thank all Friends AND supporters for their contributions.
 
 ## Achievements and successes
 
-* Purchased moveable wheeled shelving to enable the library to host a wider range of events
-* Refurbished the library: fully decorated, new carpeting and new blinds
-* Were the first Suffolk library to purchase iPads for loan to the public
-* Paid for Wi-Fi installation
-* Held several extremely successful table top sales during 2015 and 2016
-* Held very successful stalls at the Halesworth Antiques Street Market in 2014, 2015 and 2016
-* Welcomed the Children’s Laureate – Chris Riddell – for a wonderful children’s event in 2015
-* Hosted Kinetic Adventure and their Pop Up Planetarium in 2016 – and filled the Library all day with happy children and their parents and carers!
-* Hosted a successful celebration in of the 20th anniversary of the Library relocating to its new building in Bridge Street (1996) with a children’s magic show in the morning and an adult show in the evening
-* Launched an ongoing 100 Club - new supporters welcome!
-* Host popular quiz nights each spring and autumn
-* Host monthly afternoon board games sessions from October to June
-* Host weekly support sessions for using laptops and iPads
-* Funded half term activities for school-age children and special Christmas decorations and events
-* Secured funding for the library from Halesworth Town Council, Holton Parish Council, and Blyford and Sotherton Parish Council
+Below is just a sample of the things we have achieved since we were established in 2013.
 
-## Ongoing plans
+### Fundraising
 
-* Refurbishment of the Junior Library with additional shelving to house our growing book stock to serve an ever-increasing number of junior readers
-* The Friends events group is busy planning new fundraising and fun events for 2017. These include a return visit in April from Kinetic Adventure, this time with their pop up sensory tent
-* During 2017 we will be organising drives to encourage current and new members to subscribe (for a minimum of £1 but many pay more) to the Friends
+We have:
+* Regular sales in the library.
+* An annual plant sale in front of the library with support from the Halesworth Millennium Green Trust.
+* Stalls at the Halesworth Antiques Street Market from 2014.
+* Established a 100 Club - new members welcome!
+* Weekly laptop and iPad support sessions with all proceeds benefitting the library.
+* Secured funding from Holton Parish Council, Blyford and Sotherton Parish Council and Halesworth Town Council.
+
+### Purchases
+
+* Mobile wheeled shelving, enabling the library to host a wider range of events.
+* Full redecoration, new carpeting and blinds.
+* We were the first Suffolk library to purchase iPads for loan.
+* Installation of Wi-Fi in the library.
+* Small enhancements such as a gazebo, banners and Christmas decorations.
+
+### Events
+
+* A wonderful children's event with former Children's Laureate Chris Riddell in 2015.
+* Exciting science activities with Kinetic Adventure in 2015, 2016 and 2017.
+* A celebration of the 20th anniversary of the library's relocation to Bridge Street in 2016, featuring magic shows for children and adults.
+* Popular quiz nights each spring and autumn.
+* Monthly afternoon board games from October to June since 2015.
+* Half-term activities for school-age children.
+* Christmas events.
+
+### Ongoing plans
+
+During 2017 we organised a successful drive to encourage more people to become Friends. We will continue to hold a regular stall to promote our work.
+
+Having developed great facilities for our younger customers, we are currently considering:
+* How we might provide facilities and activities to help young adults get more out of the library.
+* How to help elderly library members who find it hard to get to the library.
 
 ## Minutes
 
