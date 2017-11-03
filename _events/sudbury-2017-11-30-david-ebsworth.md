@@ -14,4 +14,4 @@ David Ebsworth will be at the library talking about his book [<cite>The Assassin
 
 > "September 1938. Spain's Civil War has been raging for two years, the outcome still in the balance. But rebel General Franco is so confident of winning that he has opened up battlefield tourism along the country's north coast."
 
-Entry prize includes raffle ticket. Refreshments on sale.
+Entry price includes raffle ticket. Refreshments on sale.
