@@ -1,6 +1,6 @@
 ---
-recurrent-title: "Computer basics: book in advance"
-recurrent-description: "Including help with visiting websites, using email and accessing the Suffolk Libraries catalogue and eLibrary services."
+recurrent-title: "IT buddy: book in advance"
+recurrent-description: "Get help using your computer or iPad."
 recurrent-day: Thursday
 recurrent-times: 1515-1615
 recurrent-location: hadleigh-library
