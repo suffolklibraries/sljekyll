@@ -24,5 +24,4 @@ branch-photocopying: available
 branch-room-hire: /libraries/room-hire/framlingham-library
 breadcrumb: y
 branch-other-facilities: 'Framlingham Town Council services Mon-Thu 10am-4pm and at other times by arrangement. See the <a class="blue" href="http://www.framlingham.com/council.php">Framlingham Town Council website</a>.'
-branch-for-sale: "Tickets for Framlingham's Firework Spectacular at the Pageant Field on Saturday 4 November - cash only."
 ---
