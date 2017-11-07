@@ -110,7 +110,11 @@ featured-link-text: Check out our newest audiobooks
 
 [Set up BorrowBox](/elibrary/borrowbox/)
 
-### [<cite>The Midnight Line</cite>, by Lee Child, read by]()
+### [<cite>The Midnight Line</cite>, by Lee Child, read by Jeff Harding](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_448467&fromPage=1&b2bSite=4172)
+
+> "Reacher takes an aimless stroll past a pawn shop in a small Midwestern town. In the window he sees a West Point class ring from 2005. It's tiny; a woman cadet's graduation present to herself. Why would she give it up? Reacher's a West Pointer too, and he knows what she went through to get it.
+
+> "Reacher tracks the ring back to its owner, step by step, down a criminal trail leading west. Like Big Foot come out of the forest, he arrives in the deserted wilds of Wyoming. All he wants is to find the woman. If she's OK, he'll walk away. If she's not - he'll stop at nothing."
 
 ### [<cite>Exile</cite>, by James Swallow, read by Colin Mace](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_448477&fromPage=1&b2bSite=4172)
 
