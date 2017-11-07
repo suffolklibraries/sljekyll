@@ -6,7 +6,7 @@ sidebar: help
 ---
 ## Renewing books, audiobooks, CDs and DVDs
 
-[Login to your account](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB) to renew books online. You can also call 01473 263838 (available 24/7 with an out-of-hours answering service) or visit any Suffolk library.
+[Login to your account](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB) to renew books online. You can also call [01473 351249](tel:01473351249) (available 24/7 with an out-of-hours answering service) or visit any Suffolk library.
 
 You can **renew a book up to six times** unless it is reserved by someone else.
 
