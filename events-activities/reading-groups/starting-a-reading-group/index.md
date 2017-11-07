@@ -28,7 +28,7 @@ Try to choose books that are available in paperback or at your local library to 
 For ideas, you can also check out book recommendations from these websites:
 
 * [Reading group guides](http://www.readinggroupguides.com/guides)
-* [Reading Groups for Everyone](http://readinggroups.org/)
+* [Reading Groups for Everyone](http://readinggroups.org/) - sign up to get free books to read and review and enter exclusive competitions
 * [Bookgroup.info](http://www.bookgroup.info/)
 * [Lovereading](http://www.lovereading.com/)
 * [Gnooks](http://www.gnooks.com/)
