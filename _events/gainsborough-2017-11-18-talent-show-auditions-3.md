@@ -9,7 +9,7 @@ event-end-time: 1600
 breadcrumb: y
 ---
 
-Have you got a special talent? Whether you're a musician, dancer, actor or something completely different, you're invited to audition for our talent show.
+Are you aged 8-18 with a special talent? Whether you're a musician, dancer, actor or something completely different, you're invited to audition for our talent show.
 
 Contact the library to reserve your place in the spotlight.
 
