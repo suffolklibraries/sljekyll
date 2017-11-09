@@ -13,9 +13,9 @@ breadcrumb: young-adult
 
 ![The Book of Dust volume 1: la belle sauvage, All The Crooked Saints, Satellite](/images/featured/featured-young-adult-october-2017.jpg)
 
-## [<cite>The Book of Dust volume 1: la belle sauvage</cite>, by Philip Pullman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2160757)
+## [<cite>The Book of Dust volume 1: La Belle Sauvage</cite>, by Philip Pullman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2160757)
 
-Probably the most eagerly awaited book of the autumn, this is the prequel to Pullman’s hugely successful [<cite>Northern Lights (His Dark Materials &#x231)</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1726172) and promises a return to the world of Lyra Belacqua, daemons and dust.
+Probably the most eagerly awaited book of the autumn, this is the prequel to Pullman’s hugely successful [<cite>Northern Lights</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1726172) and promises a return to the world of Lyra Belacqua, daemons and dust.
 
 ## [<cite>Turtles All the Way Down</cite>, by John Green](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2263773)
 
