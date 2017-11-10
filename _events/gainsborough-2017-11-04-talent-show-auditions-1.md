@@ -13,4 +13,4 @@ Have you got a special talent? Whether you're a musician, dancer, actor or somet
 
 Contact the library to reserve your place in the spotlight.
 
-[Final to take place on Saturday 25 November](/events/gainsborough-2017-11-25-talent-show-final/).
+[Final to take place on Saturday 9 December](/events/gainsborough-2017-11-25-talent-show-final/).
