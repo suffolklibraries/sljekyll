@@ -50,7 +50,7 @@ Hard copies of all the forms should be returned to: Halesworth Library, Bridge S
 
 * [Membership form](/assets/doc/fohcl-membership-form.docx) (.docx)
 * [Junior membership form (for under-16s)](/assets/doc/fohcl-junior-membership-form.docx) (.docx)
-* [One-off donation form](/assets/doc/fohcl-donation-form.docx) (.docx)
+* [Donation and Gift Aid form](/assets/doc/fohcl-donation-form.docx) (.docx)
 * [Standing order form](/assets/doc/fohcl-standing-order-form.docx) (.docx)
 * [Standing order form - 100 club](/assets/doc/fohcl-100-club-form.docx) (.docx) (contact [Halesworth Library](/libraries/halesworth-library/) for more information)
 
