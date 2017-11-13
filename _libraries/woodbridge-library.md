@@ -37,4 +37,5 @@ branch-scan-to-email: y
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/woodbridge-library
 breadcrumb: y
+branch-news: 'The library will close at 1pm on Christmas Eve.'
 ---

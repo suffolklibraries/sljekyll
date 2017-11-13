@@ -33,4 +33,5 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/kesgrave-library
 breadcrumb: y
 branch-for-sale: 'Cards for Good Causes - charity and Suffolk Wildlife Christmas cards.'
+branch-news: 'The library will close at 12:30pm on Christmas Eve.'
 ---

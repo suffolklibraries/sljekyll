@@ -26,4 +26,5 @@ branch-colour-printing: available
 branch-photocopying: available on printer
 branch-scan-to-email: y
 breadcrumb: y
+branch-news: 'The library will close at 11:30am on Christmas Eve.'
 ---

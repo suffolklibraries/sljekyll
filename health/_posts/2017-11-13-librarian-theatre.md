@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Talking Mental Health with Librarian Theatre'
-date: 2017-11-14
+date: 2017-11-17
 author: alice-violett
 category: health
 excerpt: "Librarian Theatre are bringing their new production, <cite>Alice in the Cuckoo's Nest</cite>, to five Suffolk Libraries this December. We asked co-artistic director Kelly Eva May about the mental health themes in this experimental adaptation of <cite>Alice in Wonderland</cite>, set in a modern day mental institution."

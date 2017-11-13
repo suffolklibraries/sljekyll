@@ -32,4 +32,5 @@ branch-room-hire: /libraries/room-hire/beccles-library
 branch-display-space: Double-sided noticeboard for non-commercial event posters
 breadcrumb: y
 branch-for-sale: 'Cards for Good Causes - charity and Suffolk Wildlife Christmas cards.'
+branch-news: 'The library will close at 1pm on Christmas Eve.'
 ---

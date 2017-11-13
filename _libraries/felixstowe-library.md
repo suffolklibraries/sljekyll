@@ -29,4 +29,5 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/felixstowe-library
 breadcrumb: y
 branch-for-sale: 'Cards for Good Causes - charity and Suffolk Wildlife Christmas cards.'
+branch-news: 'The library will close at 1pm on Christmas Eve.'
 ---

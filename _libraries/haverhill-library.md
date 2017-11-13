@@ -33,4 +33,5 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/haverhill-library
 branch-display-space: Small table top/banner display spaces available in the foyer and library, glass display cabinet and large display board available in the library
 breadcrumb: y
+branch-news: 'The library will close at 1pm on Christmas Eve.'
 ---

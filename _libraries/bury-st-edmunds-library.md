@@ -32,4 +32,5 @@ branch-faxing: y
 branch-room-hire: /libraries/room-hire/bury-st-edmunds-library
 branch-display-space: Space available for table top or banner displays in internal and external foyer. Public notice board also available.
 breadcrumb: y
+branch-news: 'The library will close at 1pm on Christmas Eve.'
 ---

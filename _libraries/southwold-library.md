@@ -34,4 +34,5 @@ branch-photocopying: available in colour and black and white up to A4 size
 branch-faxing: y
 branch-scan-to-email: y
 breadcrumb: y
+branch-news: 'The library will close at 1:30pm on Christmas Eve.'
 ---

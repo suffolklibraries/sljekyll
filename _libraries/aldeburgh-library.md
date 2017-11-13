@@ -32,6 +32,9 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/aldeburgh-library
 branch-display-space: "Two cork boards in the foyer: displays adverts for anyone selling items."
 breadcrumb: y
-branch-news: 'Aldeburgh Library Foundation have released their <a href="http://aldeburghlibraryfoundation.weebly.com/adult-learning.html">Adult Learning Timetable for autumn 2017</a>.'
+branch-news: '<ul>
+              <li>The library will close at 12:30pm on Christmas Eve.</li>
+              <li>Aldeburgh Library Foundation have released their <a href="http://aldeburghlibraryfoundation.weebly.com/adult-learning.html">Adult Learning Timetable for autumn 2017</a>.</li>
+              </ul>'
 branch-for-sale: 'Cards for Good Causes - charity and Suffolk Wildlife Christmas cards.'
 ---

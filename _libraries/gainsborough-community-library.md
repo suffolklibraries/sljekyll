@@ -33,4 +33,5 @@ branch-photocopying: black and white, A4 or A3 available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/gainsborough-community-library
 breadcrumb: y
+branch-news: 'The library will close at 1:30pm on Christmas Eve.'
 ---

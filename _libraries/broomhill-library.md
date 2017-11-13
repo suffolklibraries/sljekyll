@@ -28,4 +28,5 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/broomhill-library
 breadcrumb: y
+branch-news: 'The library will be closing at 1:30pm on Christmas Eve.'
 ---

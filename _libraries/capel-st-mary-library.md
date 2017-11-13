@@ -30,4 +30,5 @@ branch-photocopying: available courtesy of the Community Trust
 branch-scan-to-email: y
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
+branch-news: 'The library will close at 12:30pm on Christmas Eve.'
 ---

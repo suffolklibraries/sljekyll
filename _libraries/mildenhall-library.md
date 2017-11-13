@@ -26,7 +26,7 @@ branch-netloan: old
 branch-photocopying: A4 colour photocopying
 branch-colour-printing: A4 colour printing
 branch-scan-to-email: y
-branch-news: '<a href="/news/consultation-launched-for-mildenhall-hub-project">Consultation launched for Mildenhall Hub project which would include a new library</a>'
+branch-news: 'The library will close at 1pm on Christmas Eve.'
 branch-for-sale: handmade cards, postage stamps
 breadcrumb: y
 ---
