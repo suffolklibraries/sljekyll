@@ -178,5 +178,5 @@ Planning session
 <td>
 Mindful walk around Christchurch Park
 </td>
-</tr></tbody>
+</tr>
 </table>

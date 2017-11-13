@@ -4,8 +4,7 @@ name: "IP3 Talent Show final"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2017-12-09
-event-start-time: 1400
-event-end-time: 1600
+event-start-time: 1900
 breadcrumb: y
 ---
 

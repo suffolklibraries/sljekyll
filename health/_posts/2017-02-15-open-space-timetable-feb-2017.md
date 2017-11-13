@@ -173,5 +173,5 @@ Mindfulness walk: Take a mindful walk around Christchurch Park
 <td>
 Lunch
 </td>
-</tr></tbody>
+</tr>
 </table>

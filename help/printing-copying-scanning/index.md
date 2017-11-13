@@ -12,15 +12,225 @@ Some of our bigger libraries have fax machines. Visit [your local library's page
 
 ## Costs
 
-### Printing & photocopying
+### Photocopying
 
-  * Black & white: 10p per sheet
-  * Black & white 2 sided: 15p per sheet
-  * Colour: 30p per sheet
+<table class="pure-table pure-table-bordered">
+  <thead>
+    <th>
+      Size
+    </th>
+    <th>
+      Format
+    </th>
+    <th>
+      Price (per sheet)
+    </th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        A4
+      </td>
+      <td>
+        Black and white, single-sided
+      </td>
+      <td>
+        10p
+      </td>
+    </tr>
+    <tr>
+      <td>
+        A4
+      </td>
+      <td>
+        Black and white, double-sided
+      </td>
+      <td>
+        15p
+      </td>
+    </tr>
+    <tr>
+      <td>
+        A4
+      </td>
+      <td>
+        Colour, single-sided
+      </td>
+      <td>
+        40p
+      </td>
+    </tr>
+    <tr>
+      <td>
+        A4
+      </td>
+      <td>
+        Colour, double-sided
+      </td>
+      <td>
+        60p
+      </td>
+    </tr>
+    <tr>
+      <td>
+        A3
+      </td>
+      <td>
+        Black and white, single-sided
+      </td>
+      <td>
+        20p
+      </td>
+    </tr>
+    <tr>
+      <td>
+        A3
+      </td>
+      <td>
+        Black and white, double-sided
+      </td>
+      <td>
+        30p
+      </td>
+    </tr>
+    <tr>
+      <td>
+        A3
+      </td>
+      <td>
+        Colour, single-sided
+      </td>
+      <td>
+        80p
+      </td>
+    </tr>
+    <tr>
+      <td>
+        A3
+      </td>
+      <td>
+        Colour, double-sided
+      </td>
+      <td>
+        £1.40
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### Scanning (we can send the document to an email address or your USB stick)
+### Printing
 
-  * 30p and then 10p per sheet
+<table class="pure-table pure-table-bordered">
+  <thead>
+    <th>
+      Size
+    </th>
+    <th>
+      Format
+    </th>
+    <th>
+      Price (per sheet)
+    </th>
+  </thead>
+  <tbody>
+  <tr>
+    <td>
+      A4
+    </td>
+    <td>
+      Black and white, single-sided
+    </td>
+    <td>
+      20p
+    </td>
+  </tr>
+  <tr>
+    <td>
+      A4
+    </td>
+    <td>
+      Black and white, double-sided
+    </td>
+    <td>
+      30p
+    </td>
+  </tr>
+  <tr>
+    <td>
+      A4
+    </td>
+    <td>
+      Colour, single-sided
+    </td>
+    <td>
+      50p
+    </td>
+  </tr>
+  <tr>
+    <td>
+      A4
+    </td>
+    <td>
+      Colour, double-sided
+    </td>
+    <td>
+      80p
+    </td>
+  </tr>
+  <tr>
+    <td>
+      A3
+    </td>
+    <td>
+      Black and white, single-sided
+    </td>
+    <td>
+      30p
+    </td>
+  </tr>
+  <tr>
+    <td>
+      A3
+    </td>
+    <td>
+      Black and white, double-sided
+    </td>
+    <td>
+      50p
+    </td>
+  </tr>
+  <tr>
+    <td>
+      A3
+    </td>
+    <td>
+      Colour, single-sided
+    </td>
+    <td>
+      £1.00
+    </td>
+  </tr>
+  <tr>
+    <td>
+      A3
+    </td>
+    <td>
+      Colour, double-sided
+    </td>
+    <td>
+      £1.60
+    </td>
+  </tr>
+</tbody>
+</table>
+
+### Scan to USB
+
+  * 1 scanned sheet for 50p; further sheets 10p each. Please ask staff for help if required.
+
+### Scan to email
+
+  * 1-5 sheets for £1; further sheets 10p each (e.g. 6 sheets = £1.10). Please ask staff for help if required.
 
 ### Faxing
 

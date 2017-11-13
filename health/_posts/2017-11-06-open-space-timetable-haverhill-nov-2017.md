@@ -158,5 +158,5 @@ Guest speaker TBC
 <td>
 Planning session
 </td>
-</tr></tbody>
+</tr>
 </table>

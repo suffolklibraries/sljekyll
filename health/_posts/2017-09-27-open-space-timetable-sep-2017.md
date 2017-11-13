@@ -198,5 +198,5 @@ Discussion: What is mental health recovery?
 <td>
 Discussion: What's it like to see/hear things other people don't? Why might this happen and how can we deal with distressing experiences?
 </td>
-</tr></tbody>
+</tr>
 </table>
