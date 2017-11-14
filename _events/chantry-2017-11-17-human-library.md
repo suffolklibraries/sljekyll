@@ -12,6 +12,6 @@ breadcrumb: y
 
 As part of local schools' Book Jam festival (13-19 November), we're holding a Human Library event for all ages.
 
-Borrow a 'human book' and find out about other people's experiences.
+Borrow a 'human book' and find out about other people's experiences. Talk to an author, a children's librarian, a partially sighted person, a late reader or someone with a mental health issue.
 
 Refreshments available for a small charge.

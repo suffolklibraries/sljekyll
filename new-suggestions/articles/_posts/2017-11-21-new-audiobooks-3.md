@@ -68,8 +68,6 @@ featured-link-text: Check out our newest audiobooks
 
 ### [<cite>A Summer Revenge</cite>, by Tom Callaghan, read by Saul Reichlin](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2252775)
 
-> "In the burning heat of the sun, murder is deadly cold.
-
 > "Having resigned from Bishkek Murder Squad, Akyl Borubaev is a lone wolf with blood on his hands. Then the Minister of State Security promises Akyl his old life back - if Akyl finds his vanished mistress. The beautiful Natasha Sulonbekova has disappeared in Dubai with information that could destroy the Minister's career.
 
 > "But when Borubaev arrives in Dubai - straight into a scene of horrific carnage - he learns that what Natasha is carrying is worth far more than a damaged reputation."
@@ -79,10 +77,6 @@ featured-link-text: Check out our newest audiobooks
 > "The dark net is an online shadowland for criminals to operate anonymously, but when a demonic force begins to hack the minds of its users there is nowhere left to hide. With an unstoppable virus spreading throughout the net and an ancient evil threatening to break lose on the real world, it falls to four apparently random strangers to stop the rising darkness."
 
 ### [<cite>The Darkness Within</cite>, by Lisa Stone, read by Jilly Bond](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2252695)
-
-> "No-one is born evil - are they?
-
-> "A lorry crashes on a dark wet road. In the wake of the tragedy, a dying man receives another chance at life - but does he really deserve it? And if he lives, will those around him wish he hadn't?
 
 > "When critically ill Jacob Wilson has a heart transplant, his behaviour becomes very strange. His worried parents and girlfriend try their best to understand his sudden mood swings, but as things worsen, they begin to live in terror of what they might find in their son's bedroom next - and as Jacob's personality morphs, so too do the lives of those around him."
 
