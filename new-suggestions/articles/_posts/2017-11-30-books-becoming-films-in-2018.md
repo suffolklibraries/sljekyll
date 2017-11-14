@@ -47,7 +47,7 @@ Expect an epic story and coverage of the full horrors of war in both book and fi
 
 ## [<cite>The Guernsey Literary and Potato Peel Pie Society</cite>, by Mary Ann Shaffer & Annie Barrows](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=456085)
 
-> "It's January, 1946, and writer Juliet Ashton sits at her desk, vainly seeking a subject for her next book. Out of the blue, she receives a letter from one Dawsey Adams of Guernsey - by chance, he's acquired a secondhand book that once belonged to Juliet - and, spurred on by their mutual love of Charles Lamb, they begin a correspondence."
+> "It's January 1946, and writer Juliet Ashton sits at her desk, vainly seeking a subject for her next book. Out of the blue, she receives a letter from one Dawsey Adams of Guernsey - by chance, he's acquired a secondhand book that once belonged to Juliet - and, spurred on by their mutual love of Charles Lamb, they begin a correspondence."
 
 The film version has the snappier title of <cite>Guernsey</cite>. Lily James stars alongside a distinguished collection of British acting talents.
 
