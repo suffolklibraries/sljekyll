@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-a-line-made-by-walking.jpg
 featured-alt: "A Line Made By Walking"
 featured-link-text: "Read The Borrowers' review of <cite>A Line Made By Walking</cite>"
 breadcrumb: staff-picks
-genre: historical
+genre: literary-fiction
 genre-image: /images/featured/featured-the-a-line-made-by-walking-genre.jpg
 genre-alt: 'A Line Made By Walking'
 ---
