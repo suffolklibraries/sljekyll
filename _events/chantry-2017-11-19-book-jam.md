@@ -12,3 +12,5 @@ breadcrumb: y
 Drop in for crafts, games and activities to celebrate books.
 
 We'll also be holding a **book wreath workshop for all ages** from 10:30am-1pm.
+
+Refreshments available in return for a donation to Children in Need.
