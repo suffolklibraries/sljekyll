@@ -96,7 +96,7 @@ featured-link-text: Check out our newest audiobooks
 
 > "Serena, a compulsive reader of novels, is sent on a 'secret mission' which brings her into the literary world of Tom Haley, a promising young writer. First she loves his stories, then she begins to love the man. Can she maintain the fiction of her undercover life? And who is inventing whom? To answer these questions, Serena must abandon the first rule of espionage – trust no one."
 
-### [<cite>Astrophysics for People in a Hurry</cite>, written and read by Neil DeGrasse Tyson](https://suffolklibraries.overdrive.com/media/3117442)
+### [<cite>Astrophysics for People in a Hurry</cite>, written and read by Neil deGrasse Tyson](https://suffolklibraries.overdrive.com/media/3117442)
 
 > "What is the nature of space and time? How do we fit within the universe? How does the universe fit within us? There's no better guide through these mindexpanding questions than acclaimed astrophysicist and bestselling author Neil deGrasse Tyson.
 
@@ -108,9 +108,9 @@ featured-link-text: Check out our newest audiobooks
 
 > ""Holistic detective" Dirk Gently has found a great gig. He's been hired by a wealthy man in the record industry who claims quite a story — a seven-foot-tall, green-eyed, scythe-wielding monster is on his tail. Dirk pretends to understand the man's ravings involving potatoes and a contract signed in blood coming due; when in reality, he is absorbed in thought ... what might he do if he actually receives payment for his "services" — he could get rid of the refrigerator, which is so filthy inside that it has become the centrepiece of a showdown between himself and his cleaning woman.
 
-> "Dirk only comes to realize the man was truly in dire straights when he arrives late for a meeting at the man's estate. The perimeter is swarming with police and inside, in a heavily barricaded room, lies his client with his head neatly removed and spinning several feet away on a turntable. Feeling guilty about not taking the guy seriously, Dirk stays on the case and confronts exploding airport check-in counters, the gods of Norse mythology, insulting horoscopes, a sinister nursing home, an I Ching calculator, an omnipotent being who gives his powers to a lawyer and an advertising executive (in exchange for clean linen), and an attractive American woman who gets angry when she can't get pizza delivered in London."
+> "Dirk only comes to realize the man was truly in dire straits when he arrives late for a meeting at the man's estate. The perimeter is swarming with police and inside, in a heavily barricaded room, lies his client with his head neatly removed and spinning several feet away on a turntable. Feeling guilty about not taking the guy seriously, Dirk stays on the case and confronts exploding airport check-in counters, the gods of Norse mythology, insulting horoscopes, a sinister nursing home, an I Ching calculator, an omnipotent being who gives his powers to a lawyer and an advertising executive (in exchange for clean linen), and an attractive American woman who gets angry when she can't get pizza delivered in London."
 
-## Borrowbox
+## BorrowBox
 
 [Set up BorrowBox](/elibrary/borrowbox/)
 
@@ -122,7 +122,7 @@ featured-link-text: Check out our newest audiobooks
 
 > "But this stylish Cornish home isn't the getaway they'd hoped for. They make odd, even disturbing, discoveries in the house. It's so isolated – yet Libby doesn't feel entirely alone. As if she's being watched."
 
-### [<cite>Little Woman</cite>, by Louisa May Alcott, read by various](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_411048&fromPage=1&b2bSite=4172)
+### [<cite>Little Women</cite>, by Louisa May Alcott, read by various](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_411048&fromPage=1&b2bSite=4172)
 
 > "A BBC Radio 4 full-cast dramatisation of the evergreen classic novel.
 
@@ -130,9 +130,9 @@ featured-link-text: Check out our newest audiobooks
 
 > "As the years go by we follow their fortunes as they journey into womanhood. Meg the beauty, Jo the tomboy, shy Beth and precocious Amy will encounter adventure, hardship, joys and disappointments, and learn to meet the challenges of life as they become independent and make their way in the world. While marriage and motherhood may beckon for the sisters, their most enduring love is always for each other."
 
-### [<cite>Twelve Years a Slave</cite>, by Solomon Northup, read by High Quarshie](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_122270&fromPage=1&b2bSite=4172)
+### [<cite>Twelve Years a Slave</cite>, by Solomon Northup, read by Hugh Quarshie](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_122270&fromPage=1&b2bSite=4172)
 
-> "The book tells the horrifying tale of Solomon Northup, an educated, free black man living with his wife and children in New York State, whose life takes an appalling turn when he is kidnapped, drugged and sold into slavery.
+> "The horrifying tale of Solomon Northup, an educated, free black man living with his wife and children in New York State, whose life takes an appalling turn when he is kidnapped, drugged and sold into slavery.
 
 > "Shipped to New Orleans, he endures the life of a slave in Louisiana's isolated plantation country. For twelve long years, he endures the unimaginable brutality and inhumanity of daily life, while keeping his dignity intact and dreaming of one day returning home to the arms of his family."
 
@@ -143,8 +143,6 @@ featured-link-text: Check out our newest audiobooks
 > "It seems as if Brat is going to pull off this most incredible deception until old secrets emerge that threaten to jeopardise the imposter's plan and his very life..."
 
 ### [<cite>The Store</cite>, by James Patterson & Richard DiLallo, read by Graham Halstead](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_434031&fromPage=1&b2bSite=4172)
-
-> "The Store doesn't just want your money – it wants your soul.
 
 > "Imagine a future of unparalleled convenience. A powerful retailer, The Store, can deliver anything to your door, anticipating the needs and desires you didn't even know you had. Most people are fine with that, but not Jacob and Megan Brandeis.
 
