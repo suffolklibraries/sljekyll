@@ -1,5 +1,5 @@
 ---
-id: chantry-wreath
+id: chantry-jam
 name: "Children's Book Jam"
 location: chantry-library
 location-text: Chantry Library
@@ -11,6 +11,6 @@ breadcrumb: y
 
 Drop in for crafts, games and activities to celebrate books.
 
-We'll also be holding a **book wreath workshop for all ages** from 10:30am-1pm.
+There will be a book wreath workshop for all ages from 10am-1pm, mini book making for all ages from 12-2pm, and celebrate National Non-Fiction November with Ipswich Children's Book Group from 1-3:30pm.
 
 Refreshments available in return for a donation to Children in Need.
