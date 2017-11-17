@@ -160,9 +160,7 @@ featured-link-text: Check out our newest audiobooks
 
 ### [<cite>The Crown</cite>, by Robert Lacey, read by Alex Jennings](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_444437&fromPage=1&b2bSite=4172)
 
-> "'The things which I have here before promised, I will perform and keep. So help me God.'
-
-> "Netflix's original series The Crown painted a unique and intimate portrait of Britain's longest-reigning monarch. This official companion to the show is an in-depth exploration of the early years of Elizabeth II's time as Queen (1947-1955), complete with extensive research.
+> "Netflix's original series <cite>The Crown</cite> painted a unique and intimate portrait of Britain's longest-reigning monarch. This official companion to the show is an in-depth exploration of the early years of Elizabeth II's time as Queen (1947-1955), complete with extensive research.
 
 > "Princess Elizabeth never expected her father to die so suddenly, so young, leaving her not only a throne to fill, but a global institution to govern. Crowned at 25, already a wife and mother, follow the journey of a woman learning to become a queen.
 
@@ -174,8 +172,6 @@ featured-link-text: Check out our newest audiobooks
 
 ### [<cite>Dunbar: King Lear retold</cite>, by Edward St Aubyn, read by Henry Goodman](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_444266&fromPage=1&b2bSite=4172)
 
-> "‘I really did have an empire, you know,’ said Dunbar. ‘Have I ever told you the story of how it was stolen from me?’
-
-> "Henry Dunbar, the once all-powerful head of a global corporation, is not having a good day. In his dotage he handed over care of the family firm to his two eldest daughters, Abby and Megan. But relations quickly soured, leaving him doubting the wisdom of past decisions ...
+> "Henry Dunbar, the once all-powerful head of a global corporation, is not having a good day. In his dotage he handed over care of the family firm to his two eldest daughters, Abby and Megan. But relations quickly soured, leaving him doubting the wisdom of past decisions...
 
 > "Now imprisoned in a care home in the Lake District with only a demented alcoholic comedian as company, Dunbar starts planning his escape. As he flees into the hills, his family is hot on his heels. But who will find him first, his beloved youngest daughter, Florence, or the tigresses Abby and Megan, so keen to divest him of his estate?"
