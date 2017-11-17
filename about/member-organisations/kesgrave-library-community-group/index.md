@@ -7,26 +7,17 @@ breadcrumb: member-organisations
 ## Who we are
 
 * Chair: Jonathan Ogden
-* Secretary: Emma Ruddy
+* Secretary: Liz Ditton
 * Treasurer: Maggie Lusher
-* Mirabel Brown
-* Liz Ditton
-* Holly Percy
+* Avtar Athwall
+* David Walkling
+* Stacey Cordy-Allen
 * Gemma Southwood
+* Mirabel Brown
 
 ## Contact us
 
 * Email: kesgravelibrarycommunitygroup@gmail.com
 * [Facebook](http://www.facebook.com/Kesgravelibrary)
-* [Twitter](http://twitter.com/klcgroup)
 
-## Recent successes
-
-* Organised the library's first Christmas and spring fayres
-* Runs a monthly baking club
-* Helped refurbish the children's area after winning a Community Enabling Grant
-* Donated a coffee machine and laminator
-
-## Future plans
-
-* To revamp the seating area
+Kesgrave Library Community Group supports the library with regular family events, fund-raising and clubs for all ages, with the aim of making the library an attractive area and resource to be enjoyed by all the community.
