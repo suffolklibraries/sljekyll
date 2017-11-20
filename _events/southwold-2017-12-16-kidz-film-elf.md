@@ -7,7 +7,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2017-12-16
 event-start-time: 1030
 event-end-time: 1300
-event-ticket-price: 7.50 for one under-16 and one carer, £5 for additional adults
+event-ticket-price: 3
 breadcrumb: y
 ---
 
