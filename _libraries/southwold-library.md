@@ -24,7 +24,7 @@ branch-payments: cash and cheques accepted, cards accepted over £5
 branch-parking: on-street parking only
 branch-bookdrop: y
 branch-refreshments: hot drinks for sale
-branch-for-sale: "Crafts, Southwold and Suffolk Coast Treasure Trails sheets, local authors' books, branded bags and pens, Southwold Voluntary Help Centre Christmas cards"
+branch-for-sale: "Reydon and Southwold Pantomime Group <cite>Robinson Crusoe</cite> (21-27 January 2018) tickets; £8.50 adults, £4.50 under 16s, £20.50 family. Crafts, Southwold and Suffolk Coast Treasure Trails sheets, local authors' books, branded bags and pens, Southwold Voluntary Help Centre Christmas cards"
 branch-other-facilities: laminating (up to A4)
 branch-wifi: y
 branch-netloan: old
