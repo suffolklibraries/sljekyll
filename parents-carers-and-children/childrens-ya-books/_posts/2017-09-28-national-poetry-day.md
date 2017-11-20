@@ -19,8 +19,7 @@ This year's children’s poetry books include new editions of old favourites, wo
 
 Due in early October, this promises to be a beautiful book to read and look at:
 
-> "From bestselling [<cite>Landmarks</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1956933
-) author Robert Macfarlane - an illustrated collection of spell-poems to re-wild the language of children."
+> "From bestselling [<cite>Landmarks</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1956933) author Robert Macfarlane - an illustrated collection of spell-poems to re-wild the language of children."
 
 ## [<cite>Eighty Best Poems</cite>, by Roger McGough](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2254686)
 
