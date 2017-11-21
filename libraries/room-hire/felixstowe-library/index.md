@@ -18,5 +18,5 @@ breadcrumb: branch-room-hire
 ## Other information
 
 * Located opposite a large pay and display carpark.
-* Refreshments available from café during opening hours. Kitchen facilities available outside opening hours
+* Kitchen facilities available
 * Flipchart and projector available for hire for an additional fee of £5 each
