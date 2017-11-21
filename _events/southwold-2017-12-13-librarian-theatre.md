@@ -20,3 +20,5 @@ This library tour is being partly funded by Arts Council England’s Grants for 
 Children aged 8+ (accompanied by an adult) are very welcome; please note however that this is not a children’s show, and the production explores adult themes of mental health. The show lasts approximately one hour with no interval.
 
 Tickets available online and through the library.
+
+[Read our interview with Librarian Theatre about mental health in <cite>Alice in the Cuckoo's Nest</cite> &rarr;](/health/librarian-theatre/)
