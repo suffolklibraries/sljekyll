@@ -3,11 +3,11 @@ layout: sidebar-right
 title: "Recommended new audiobooks #1"
 date: 2017-09-19
 author: sophie-green
-category: articles
+category: audiobooks
 excerpt: "Reserve the pick of our newest CD and digital audiobooks and enjoy great fiction and non-fiction while working, travelling or simply relaxing at home."
 featured-image: /images/featured/featured-audiobooks-1.jpg
 featured-alt: "A Stranger in the House, The Quiet Child"
-breadcrumb: articles
+breadcrumb: audiobooks
 featured-excerpt: "Reserve or download our newest audiobooks and enjoy great stories while working, travelling or simply relaxing at home."
 featured-link-text: Check out our newest audiobooks
 ---

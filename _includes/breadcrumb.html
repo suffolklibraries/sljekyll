@@ -192,6 +192,14 @@
 
         </div>
 
+    {% elsif page.breadcrumb == 'audiobooks' %}
+
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
+
+            <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions">Recommendations &amp; reviews</a> &rarr; <a class="pv2 pv0-ns link blue" href="/new-suggestions/audiobooks">Audiobooks</a> &rarr; {{ page.title }}</p>
+
+        </div>
+
     {% elsif page.breadcrumb == 'news' %}
 
         <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">

@@ -3,11 +3,11 @@ layout: sidebar-right
 title: "Recommended new audiobooks #4"
 date: 2017-12-21
 author: sophie-green
-category: articles
+category: audiobooks
 excerpt: "Our latest audiobooks include titles from "
 featured-image: /images/featured/featured-audiobooks-4.jpg
 featured-alt: "The Night Brother, The Last Tudor"
-breadcrumb: articles
+breadcrumb: audiobooks
 featured-excerpt: "Reserve or download our newest audiobooks and enjoy great stories while working, travelling or simply relaxing at home."
 featured-link-text: Check out our newest audiobooks
 ---

@@ -3,11 +3,11 @@ layout: sidebar-right
 title: "Recommended new audiobooks #2"
 date: 2017-10-20
 author: sophie-green
-category: articles
+category: audiobooks
 excerpt: "Not sure what to listen to next? We've got new audiobooks from Karen Rose, Carole Matthews, Jack London and more"
 featured-image: /images/featured/featured-audiobooks-2.jpg
 featured-alt: "The Nine Tailors, The House of Unexpected Sisters"
-breadcrumb: articles
+breadcrumb: audiobooks
 featured-excerpt: "Reserve or download our newest audiobooks and enjoy great stories while working, travelling or simply relaxing at home."
 featured-link-text: Check out our newest audiobooks
 ---
