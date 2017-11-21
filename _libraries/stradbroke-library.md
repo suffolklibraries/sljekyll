@@ -15,7 +15,7 @@ branch-post-code: IP21 5HG
 branch-tel: 01379 384768
 branch-friends: Stradbroke Courthouse and Library Trust
 branch-friends-url: /about/member-organisations/stradbroke-courthouse-and-library-trust-scalt
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/stradbroke-library-2
+branch-accessibility: https://www.disabledgo.com/access-guide/suffolk-county-council/stradbroke-library
 branch-payments: 'cash and cheques accepted. Call <a class="blue" href="tel:01473351249">01473 351249</a> for card payments.'
 branch-parking: available
 branch-bookdrop: y

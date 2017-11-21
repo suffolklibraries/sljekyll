@@ -14,7 +14,7 @@ branch-address: School Corner, Debenham, Stowmarket
 branch-post-code: IP14 6PL
 branch-tel: 01728 861940
 branch-friends: Debenham Library Foundation
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/debenham-resource-centre-2
+branch-accessibility: https://www.disabledgo.com/access-guide/suffolk-county-council/debenham-library
 branch-payments: 'cash and cheques accepted. Call <a class="blue" href="tel:01473351249">01473 351249</a> for card payments.'
 branch-parking: disabled only during school hours, otherwise available to all
 branch-bookdrop: y

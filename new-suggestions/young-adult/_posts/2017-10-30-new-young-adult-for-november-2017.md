@@ -7,7 +7,7 @@ category: young-adult
 excerpt: Historical fiction, sci-fi, fantasy, gritty realism and advice for teenage readers
 featured-image: /images/featured/featured-young-adult-november-2017.jpg
 featured-alt: "Undercover Princess, Blackbird, Shadowblack"
-featured-link-text: Check out our new Young Adult books for October 2017.
+featured-link-text: Check out our new Young Adult books for November 2017.
 breadcrumb: young-adult
 ---
 
