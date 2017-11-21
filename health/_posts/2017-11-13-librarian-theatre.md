@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Talking Mental Health with Librarian Theatre'
-date: 2018-11-17
+date: 2017-11-21
 author: alice-violett
 category: health
 excerpt: "Librarian Theatre are bringing their new production, <cite>Alice in the Cuckoo's Nest</cite>, to five Suffolk Libraries this December. We asked co-artistic director Kelly Eva May about the mental health themes in this experimental adaptation of <cite>Alice in Wonderland</cite>, set in a modern day mental institution."
@@ -43,6 +43,6 @@ The more we researched and spoke to different professionals and individuals with
 
 We did lots of research as part of our rehearsal process. We watched several [TED Talks](https://www.ted.com/) and listened to podcasts such as [The Guilty Feminist](http://guiltyfeminist.com/) as well as directly interviewing nurses and mental health workers.
 
-Two of the books we referred to were [<cite>Living with a Black Dog</cite> by Ainsley and Matthew Johnstone](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=426067) and <cite>A Straight Talking Introduction to Being a Mental Health Service User</cite> by Peter Beresford.
+Two of the books we referred to were [<cite>Living with a Black Dog</cite> by Ainsley and Matthew Johnstone](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=426067) and [<cite>A Straight Talking Introduction to Being a Mental Health Service User</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=415794) by Peter Beresford.
 
 **See <cite>Alice in the Cuckoo's Nest</cite> at [Southwold Library on 13 December](/events/southwold-2017-12-13-librarian-theatre/), [Framlingham Library on 14 December](/events/framlingham-2017-12-14-librarian-theatre/), [Gainsborough Community Library on 15 December](/events/gainsborough-2017-12-15-librarian-theatre/), [Woodbridge Library on 16 December](/events/woodbridge-2017-12-16-librarian-theatre/) and [Aldeburgh Library on 17 December](/events/aldeburgh-2017-12-17-librarian-theatre/).**
