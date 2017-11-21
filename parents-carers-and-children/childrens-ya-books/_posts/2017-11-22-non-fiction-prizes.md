@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Learn something new with these non-fiction shortlists"
+title: "Learn something new in National Non-Fiction November with these shortlists"
 date: 2017-11-22
 author: sophie-green
 category: childrens-ya-books
@@ -13,7 +13,7 @@ breadcrumb: childrens-ya-books
 
 ![A First Book of Animals, Ada's Ideas, Survivors of the Holocaust](/images/featured/featured-non-fiction-prizes.jpg)
 
-If your child wants to nurture a particular interest, or prefers non-fiction to fiction, why not reserve a book from the Royal Society Young People's Book Prize or School Library Association Information Book Award shortlists?
+It's National Non-Fiction November! If your child wants to nurture a particular interest, or prefers non-fiction to fiction, why not reserve a book from the Royal Society Young People's Book Prize or School Library Association Information Book Award shortlists?
 
 The Young People's Book Prize celebrates the best books that communicate science to young people and is chosen by groups of young people from schools, libraries, Scouts and Brownies, science centres and youth groups.
 

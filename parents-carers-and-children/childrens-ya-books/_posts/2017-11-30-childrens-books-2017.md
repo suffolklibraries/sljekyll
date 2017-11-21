@@ -131,12 +131,6 @@ Winner of the [2017 Carnegie Medal](/parents-carers-and-children/childrens-ya-bo
 
 A [paperback edition](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2339717) is due to be published in January.
 
-### [<cite>The Bone Sparrow</cite>, by Zana Frallion](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2078920)
-
-> "Subhi is a refugee. Born in a detention centre, all he knows of the world is that he's at least 19 fence diamonds high, that the nice jackets never stay long, and at night the sea finds its way to his tent, bringing with it unusual treasures. Bringing him Jimmie.
-
-> "Jimmie lives on the Outside. Carrying a notebook that she's unable to read and wearing a sparrow made out of bone around her neck - both talismans of her family's past and the mother she's lost - she strikes up an unlikely friendship with Subhi across the fence. As he reads aloud the tale of how Jimmie's family came to be, both children discover the importance of their own stories in writing their futures."
-
 ### [<cite>My Name is Not Refugee</cite>, by Kate Milner](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2137372)
 
 > "A young boy discusses the journey he is about to make with his mother. They will leave their town, she explains, and it will be sad but also a little bit exciting. They will have to say goodbye to friends and loved ones, and that will be difficult. They will have to walk and walk and walk, and although they will see many new and interesting things, it will be difficult at times too.

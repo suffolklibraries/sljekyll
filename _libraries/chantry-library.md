@@ -28,7 +28,7 @@ branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: black and white available
 branch-scan-to-email: y
-branch-for-sale: Special sale of ex-library books at knockdown prices now on
+branch-for-sale: "Grand Christmas Draw tickets £1 per strip; draw to take place on Saturday 9 December. Special sale of ex-library books at knockdown prices now on."
 breadcrumb: y
 branch-news: 'The library will close at 1pm on Christmas Eve.'
 ---
