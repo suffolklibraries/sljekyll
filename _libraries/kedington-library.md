@@ -27,9 +27,6 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/kedington-library
 branch-borrowing-ereaders-and-ipads: an iPad
-branch-news: '<ul>
-              <li>The library will reopen on Tuesday 21 November at 2pm.</li>
-              <li>The library will close at 3pm on Christmas Eve.</li>
-              </ul>'
+branch-news: 'The library will close at 3pm on Christmas Eve.'
 breadcrumb: y
 ---
