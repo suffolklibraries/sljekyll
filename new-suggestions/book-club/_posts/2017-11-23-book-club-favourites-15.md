@@ -6,13 +6,13 @@ author: brandon-king
 category: book-club
 excerpt: "Find your book club's next read among our latest recommendations."
 featured-image: /images/featured/featured-book-club-15.jpg
-featured-alt: "Himself, Prayers for the Stolen, Big Little Things"
+featured-alt: "Himself, Prayers for the Stolen, "
 breadcrumb: book-club
 featured-excerpt: "Find your book club's next read among our latest recommendations."
 featured-link-text: Find your book club's next read
 ---
 
-![Himself, Prayers for the Stolen, Big Little Things](/images/featured/featured-book-club-15.jpg)
+![Himself, Prayers for the Stolen, ](/images/featured/featured-book-club-15.jpg)
 
 ## [<cite>Himself</cite>, by Jess Kidd](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2152566)
 
