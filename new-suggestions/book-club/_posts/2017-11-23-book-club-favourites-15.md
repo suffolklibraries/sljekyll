@@ -6,13 +6,13 @@ author: brandon-king
 category: book-club
 excerpt: "Find your book club's next read among our latest recommendations."
 featured-image: /images/featured/featured-book-club-15.jpg
-featured-alt: "Himself, Prayers for the Stolen, "
+featured-alt: "Himself, Prayers for the Stolen, Orphan X"
 breadcrumb: book-club
 featured-excerpt: "Find your book club's next read among our latest recommendations."
 featured-link-text: Find your book club's next read
 ---
 
-![Himself, Prayers for the Stolen, ](/images/featured/featured-book-club-15.jpg)
+![Himself, Prayers for the Stolen, Orphan X](/images/featured/featured-book-club-15.jpg)
 
 ## [<cite>Himself</cite>, by Jess Kidd](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2152566)
 
@@ -26,7 +26,7 @@ In this magic realist murder mystery set in rural Ireland, the dead play as impo
 
 The plight of poor young women in Mexico is probably not something that has crossed your radar. Beautiful girls are stolen by the drug cartels and never come back, so mothers so to great lengths to protect them, hiding them and cutting their hair to look like boys. This is a harsh story which will not be to everyone's taste, but there is plenty of black humour amongst the daily struggle for survival.
 
-## [<cite>A Little Life</cite>< by Hanya Yanagihara](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1800660)
+## [<cite>A Little Life</cite> by Hanya Yanagihara](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1800660)
 
 > "When four graduates from a small Massachusetts college move to New York to make their way, they're broke, adrift, and buoyed only by their friendship and ambition. There is kind, handsome Willem, an aspiring actor; JB, a quick-witted, sometimes cruel Brooklyn-born painter seeking entry to the art world; Malcolm, a frustrated architect at a prominent firm; and withdrawn, brilliant, enigmatic Jude, who serves as their centre of gravity.
 
