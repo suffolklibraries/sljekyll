@@ -1,0 +1,29 @@
+---
+layout: default
+title: Advent calendar 2017
+breadcrumb: childrens-ya-books
+---
+
+<h1 class="{% include /c/page-title.html %} tc custom-icon-xmas-24 dib mb4-ns">Suffolk Libraries children's book advent calendar 2017</h1>
+
+<p class="pa3 ma0 mb4 bg-red white">Read your way to Christmas! Every day until Christmas Eve, stock librarian Sophie recommends one of our brilliant new Christmas books for children.</p>
+
+<div class="custom-flex-container">
+
+{% assign advent_posts = (site.posts | where: "tag", "childrens-advent-2017" | reverse ) %}
+
+{% for post in advent_posts limit:24 %}
+
+    <article class="custom-flex-row pb2">
+
+        <p class="custom-icon-xmas-{{ forloop.index }} f4 ttu tracked dark-green ma0 mb2 pr2">{{ post.date | date: "%B %e" }}</p>
+
+        <a class="white" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
+
+        <h1 class="f5 fw6 ma0 pa0 pr2"><a href="{{ post.url }}" class="blue">{{ post.title }}</a></h1>
+
+        <p class="f5 ma0 pr2">{{ post.excerpt }}</p>
+
+    </article>
+
+{% endfor %}
