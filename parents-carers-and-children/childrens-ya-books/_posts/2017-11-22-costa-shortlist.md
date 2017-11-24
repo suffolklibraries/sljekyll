@@ -21,6 +21,8 @@ Last year's winner was [<cite>The Bombs That Brought Us Together</cite>, by Bria
 
 > "You're called Fidge and you're nearly 11. You've been hurled into a strange world. You have three companions: two are unbelievably weird and the third is your awful cousin Graham. You have to solve a series of nearly impossible clues. You need to deal with a cruel dictator and three thousand Wimbley Woos (yes, you read that sentence correctly). And the whole situation - the whole, entire thing - is your fault."
 
+<cite>Wed Wabbit</cite> is also available as an [eBook on OverDrive](https://suffolklibraries.overdrive.com/media/3081889) and [eAudiobook on BorrowBox](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_385696&fromPage=1&b2bSite=4172).
+
 ## [<cite>The Explorer</cite>, by Katherine Rundell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2183900)
 
 > "From his seat in the tiny aeroplane, Fred watches as the mysteries of the Amazon jungle pass by below him. He has always dreamed of becoming an explorer, of making history and of reading his name amongst the lists of great discoveries. If only he could land and look about him. As the plane crashes into the canopy, Fred is suddenly left without a choice. He and the three other children may be alive, but the jungle is a vast, untamed place. With no hope of rescue, the chance of getting home feels impossibly small. Except, it seems, someone has been there before them."
@@ -28,6 +30,8 @@ Last year's winner was [<cite>The Bombs That Brought Us Together</cite>, by Bria
 ## [<cite>The Island at the End of Everything</cite>, by Kiran Millwood Hargrave](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2142406)
 
 > "Ami lives on Culion, an island for people who have leprosy. Her mother is infected. She loves her home - but then islanders untouched by sickness are forced to leave. Ami's desperate to return before her mother's death. She finds a strange and fragile hope in a colony of butterflies. Can they lead her home before it's too late?"
+
+[<cite>The Island at the End of Everything</cite> is also available as an eBook on OverDrive](https://suffolklibraries.overdrive.com/media/3244813).
 
 ## [<cite>Moonrise</cite>, by Sarah Crossan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2183901)
 
