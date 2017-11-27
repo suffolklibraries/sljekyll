@@ -7,6 +7,7 @@ event-start-date: 2017-12-17
 event-start-time: 1000
 event-end-time: 1600
 event-ticket-price: free
+event-category: xmas-ents
 breadcrumb: y
 ---
 

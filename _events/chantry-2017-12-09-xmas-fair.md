@@ -6,6 +6,7 @@ location-text: Chantry Library
 event-start-date: 2017-12-09
 event-start-time: 1100
 event-end-time: 1400
+event-category: xmas-fair
 breadcrumb: y
 ---
 

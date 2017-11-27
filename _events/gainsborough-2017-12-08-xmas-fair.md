@@ -6,6 +6,7 @@ location-text: Gainsborough Community Library
 event-start-date: 2017-12-08
 event-start-time: 1600
 event-end-time: 1800
+event-category: xmas-fair
 breadcrumb: y
 ---
 

@@ -9,6 +9,7 @@ event-start-time: 1030
 event-end-time: 1300
 event-ticket-price: 3
 breadcrumb: y
+event-category: xmas-children
 ---
 
 Enjoy a screening of <cite>Elf</cite> (2003) and enjoy Christmas-themed activities and snacks.

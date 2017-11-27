@@ -7,6 +7,7 @@ event-start-date: 2017-12-20
 event-start-time: 1030
 event-end-time: 1130
 event-ticket-price: 0.50p per child
+event-category: xmas-children
 breadcrumb: y
 ---
 

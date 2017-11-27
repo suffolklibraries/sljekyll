@@ -8,6 +8,7 @@ event-doors-open: 1330
 event-start-time: 1400
 event-end-time: 1600
 event-ticket-price: 5
+event-category: xmas-ents
 breadcrumb: y
 ---
 

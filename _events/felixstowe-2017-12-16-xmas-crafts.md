@@ -7,6 +7,7 @@ event-start-date: 2017-12-16
 event-start-time: 1000
 event-end-time: 1200
 event-ticket-price: 2.50
+event-category: xmas-children
 breadcrumb: y
 ---
 

@@ -7,6 +7,7 @@ event-start-date: 2017-12-09
 event-end-date: 2017-12-10
 event-start-time: 1000
 event-end-time: 1500
+event-category: xmas-fair
 breadcrumb: y
 ---
 

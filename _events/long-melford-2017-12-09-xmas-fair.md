@@ -6,6 +6,7 @@ location-text: Long Melford Library
 event-start-date: 2017-12-09
 event-start-time: 1000
 event-end-time: 1300
+event-category: xmas-fair
 breadcrumb: y
 ---
 

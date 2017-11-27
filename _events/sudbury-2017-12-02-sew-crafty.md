@@ -8,6 +8,7 @@ event-start-time: 1400
 event-end-time: 1630
 event-ticket-price: 10
 breadcrumb: y
+event-category: xmas-crafts
 ---
 
 Make a fabric Christmas wreath.

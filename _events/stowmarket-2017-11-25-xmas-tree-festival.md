@@ -6,6 +6,7 @@ location-text: Stowmarket Library
 event-start-date: 2017-11-25
 event-end-date: 2018-01-06
 breadcrumb: y
+event-category: xmas-ents
 ---
 
 The library is taking part in this year's Stowmarket Christmas Tree Festival. Come in during opening hours to see 14 trees beautifully decorated by local groups and organisations.

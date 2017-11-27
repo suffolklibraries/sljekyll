@@ -7,6 +7,7 @@ event-start-date: 2017-12-16
 event-start-time: 1930
 event-ticket-price: 3 (adults), £2 (children)
 event-ticket-url: https://www.eventbrite.co.uk/e/glemsford-christmas-reindeer-drive-tickets-40547326144
+event-category: xmas-ents
 breadcrumb: y
 ---
 

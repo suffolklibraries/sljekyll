@@ -7,6 +7,7 @@ event-start-date: 2017-12-01
 event-start-time: 1730
 event-end-time: 2100
 breadcrumb: y
+event-category: xmas-fair
 ---
 
 Extended opening for late night shopping in Framlingham.
