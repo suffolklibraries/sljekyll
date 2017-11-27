@@ -13,8 +13,6 @@ Telephone: 01473 351249
 
 ## Route timetable for 2017
 
-## Route timetable for 2018
-
 <table class="pure-table">
   <tr>
     <td valign="bottom" width="48">
