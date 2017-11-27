@@ -11,7 +11,178 @@ Email: [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk?subject
 
 Telephone: 01473 351249
 
-## Route timetable
+## Route timetable for 2017
+
+<table class="pure-table">
+  <tr>
+    <td valign="bottom" width="44">
+      <strong>Stop</strong>
+    </td>
+
+    <td valign="bottom" width="139">
+      <strong>Village</strong>
+    </td>
+
+    <td valign="bottom" width="176">
+      <strong>Location</strong>
+    </td>
+
+    <td valign="bottom" width="97">
+      <strong>Time</strong>
+    </td>
+  </tr>
+
+    <tr>
+    <td valign="bottom" width="44">
+      12A
+    </td>
+
+    <td valign="bottom" width="139">
+      Chediston
+    </td>
+
+    <td valign="bottom" width="176">
+      Midsummer Cottage
+    </td>
+
+    <td valign="bottom" width="97">
+      1015 &#8211; 1025
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="44">
+      12B
+    </td>
+
+    <td valign="bottom" width="139">
+      Chediston
+    </td>
+
+    <td valign="bottom" width="176">
+      New Dawn
+    </td>
+
+    <td valign="bottom" width="97">
+      1030 &#8211; 1040
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="44">
+      12C
+    </td>
+
+    <td valign="bottom" width="139">
+      Linstead Parva
+    </td>
+
+    <td valign="bottom" width="176">
+      Village Hall
+    </td>
+
+    <td valign="bottom" width="97">
+      1050 &#8211; 1105
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="44">
+      12D
+    </td>
+
+    <td valign="bottom" width="139">
+      Metfield
+    </td>
+
+    <td valign="bottom" width="176">
+      Church
+    </td>
+
+    <td valign="bottom" width="97">
+      1115 &#8211; 1145
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="44">
+      12E
+    </td>
+
+    <td valign="bottom" width="139">
+      Syleham
+    </td>
+
+    <td valign="bottom" width="176">
+      Wingfield Road (Junction with Weybread Road)
+    </td>
+
+    <td valign="bottom" width="97">
+      1215 &#8211; 1235
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="44">
+      12F
+    </td>
+
+    <td valign="bottom" width="139">
+      Wingfield
+    </td>
+
+    <td valign="bottom" width="176">
+      Post box
+    </td>
+
+    <td valign="bottom" width="97">
+      1345 &#8211; 1410
+    </td>
+  </tr>
+
+<tr>
+  <td valign="bottom" width="44">
+    12G
+  </td>
+
+  <td valign="bottom" width="139">
+    Fressingfield
+  </td>
+
+  <td valign="bottom" width="176">
+    Priory Crescent
+  </td>
+
+  <td valign="bottom" width="97">
+    1425 &#8211; 1455
+  </td>
+</tr>
+
+<tr>
+  <td valign="bottom" width="44">
+    12H
+  </td>
+
+  <td valign="bottom" width="139">
+    Fressingfield
+  </td>
+
+  <td valign="bottom" width="176">
+    Sancroft Hall
+  </td>
+
+  <td valign="bottom" width="97">
+    1425 &#8211; 1455
+  </td>
+</tr>
+</table>
+
+**Calling every 4 weeks on Fridays:**
+
+**2017:** 1 December, 29 December
+
+
+## Route timetable for 2018
 
 <table class="pure-table">
   <tr>
@@ -196,7 +367,5 @@ Telephone: 01473 351249
 </table>
 
 **Calling every 4 weeks on Fridays:**
-
-**2017:** 1 December, 29 December
 
 **2018:** 26 January, 23 February, 23 March, 20 April, 18 May, 15 June, 13 July, 10 August, 7 September, 5 October, 2 November, 30 November, 28 December
