@@ -60,7 +60,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="176">
-      Near Old Mill House PH
+      Green
     </td>
 
     <td valign="bottom" width="97">
@@ -96,7 +96,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="176">
-      Village hall
+      Village Hall
     </td>
 
     <td valign="bottom" width="97">
@@ -146,11 +146,11 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="139">
-      Kenton
+      Bedingfield
     </td>
 
     <td valign="bottom" width="176">
-      Garney&#8217;s Close
+      Church
     </td>
 
     <td valign="bottom" width="97">
@@ -172,7 +172,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1340 &#8211; 1405
+      1345 &#8211; 1415
     </td>
   </tr>
 
@@ -190,7 +190,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1410 &#8211; 1430
+      1420 &#8211; 1440
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1435 &#8211; 1450
+      1445 &#8211; 1500
     </td>
   </tr>
 
@@ -226,11 +226,13 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1505 &#8211; 1525
+      1515 &#8211; 1530
     </td>
   </tr>
 </table>
 
 **Calling every 4 weeks on Thursdays:**
 
-**2017:** 12 January, 9 February, 9 March, 6 April, 4 May, 1 June, 29 June, 27 July, 24 August, 21 September, 19 October, 16 November, 14 December
+**2017:** 14 December
+
+**2018:** 11 January, 8 February. 8 March, 5 April, 3 May, 31 May, 28 June, 26 July, 23 August, 20 September, 18 October, 15 November, 13 December

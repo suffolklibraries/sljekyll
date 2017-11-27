@@ -46,7 +46,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      0945 &#8211; 1015
+      0950 &#8211; 1010
     </td>
   </tr>
 
@@ -64,7 +64,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1020 &#8211; 1040
+      1015 &#8211; 1030
     </td>
   </tr>
 
@@ -82,7 +82,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1045 &#8211; 1105
+      1035 &#8211; 1055
     </td>
   </tr>
 
@@ -100,7 +100,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1125 &#8211; 1155
+      1110 &#8211; 1155
     </td>
   </tr>
 
@@ -154,7 +154,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1410 &#8211; 1425
+      1405 &#8211; 1420
     </td>
   </tr>
 
@@ -172,7 +172,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1430 &#8211; 1450
+      1425 &#8211; 1445
     </td>
   </tr>
 
@@ -190,11 +190,13 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1505 &#8211; 1545
+      1500 &#8211; 1545
     </td>
   </tr>
 </table>
 
 **Calling every 4 weeks on Fridays:**
 
-**2017:** 6 January, 3 February, 3 March, 31 March, 28 April, 26 May, 23 June, 21 July, 18 August, 15 September, 13 October, 10 November, 8 December
+**2017:** 8 December
+
+**2018:** 5 January, 2 February, 2 March, **no visit Good Friday**, 27 April, 25 May, 22 June, 20 July, 17 August, 14 September, 12 October, 9 November, 7 December

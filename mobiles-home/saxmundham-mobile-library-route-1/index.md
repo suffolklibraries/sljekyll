@@ -64,7 +64,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1010 &#8211; 1025
+      1010 &#8211; 1020
     </td>
   </tr>
 
@@ -82,7 +82,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1040 &#8211; 1100
+      1035 &#8211; 1050
     </td>
   </tr>
 
@@ -100,7 +100,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1110 &#8211; 1125
+      1100 &#8211; 1115
     </td>
   </tr>
 
@@ -118,7 +118,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1130 &#8211; 1145
+      1120 &#8211; 1135
     </td>
   </tr>
 
@@ -136,7 +136,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1150 &#8211; 1220
+      1140 &#8211; 1210
     </td>
   </tr>
 
@@ -154,7 +154,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1225 &#8211; 1245
+      1215 &#8211; 1235
     </td>
   </tr>
 
@@ -172,7 +172,25 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1250 &#8211; 1310
+      1240 &#8211; 1300
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="48">
+      1I
+    </td>
+
+    <td valign="bottom" width="113">
+      Bawdsey
+    </td>
+
+    <td valign="bottom" width="198">
+      School Lane
+    </td>
+
+    <td valign="bottom" width="97">
+      1400 &#8211; 1430
     </td>
   </tr>
 
@@ -190,7 +208,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1430 &#8211; 1450
+      1435 &#8211; 1450
     </td>
   </tr>
 
@@ -233,4 +251,6 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Tuesdays:**
 
-**2017:** 10 January, 7 February, 7 March, 4 April, 2 May, 30 May, 27 June, 25 July, 22 August, 19 September, 17 October, 14 November, 12 December
+**2017:** 12 December
+
+**2018:** 9 January, 6 February, 6 March, 3 April, 1 May, 29 May, 26 June, 24 July, 21 August, 18 September, 16 October, 13 November, 11 December

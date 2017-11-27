@@ -118,7 +118,7 @@ Telephone: 01473 351249
     </td>
 
     <td width="112">
-      1130 &#8211; 1205
+      1130 &#8211; 1210
     </td>
   </tr>
 
@@ -136,31 +136,13 @@ Telephone: 01473 351249
     </td>
 
     <td width="112">
-      1215 &#8211; 1235
+      1220 &#8211; 1245
     </td>
   </tr>
 
   <tr>
     <td width="48">
       7G
-    </td>
-
-    <td width="128">
-      Helmingham
-    </td>
-
-    <td width="169">
-      Forge
-    </td>
-
-    <td width="112">
-      1240 &#8211; 1250
-    </td>
-  </tr>
-
-  <tr>
-    <td width="48">
-      7H
     </td>
 
     <td width="128">
@@ -178,7 +160,7 @@ Telephone: 01473 351249
 
   <tr>
     <td width="48">
-      7I
+      7H
     </td>
 
     <td width="128">
@@ -196,7 +178,7 @@ Telephone: 01473 351249
 
   <tr>
     <td width="48">
-      7J
+      7I
     </td>
 
     <td width="128">
@@ -214,7 +196,7 @@ Telephone: 01473 351249
 
   <tr>
     <td width="48">
-      7K
+      7J
     </td>
 
     <td width="128">
@@ -233,4 +215,6 @@ Telephone: 01473 351249
 
 ### Calling every 4 weeks on Thursdays:
 
-**2017:** 19 January, 16 February, 16 March, 13 April, 11 May, 8 June, 6 July, 3 August, 31 August, 28 September, 26 October, 23 November, 21 December
+**2017:** 21 December
+
+**2018:** 18 January, 15 February, 15 March, 12 April, 10 May, 7 June, 5 July, 2 August, 30 August, 27 September, 25 October, 22 November, 20 December

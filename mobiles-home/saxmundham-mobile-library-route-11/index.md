@@ -38,15 +38,15 @@ Telephone: 01473 351249
     </td>
 
     <td width="128">
-      Mutford
+      Worlingham
     </td>
 
     <td width="169">
-      Lindenette
+      Pharmacy
     </td>
 
     <td width="112">
-      1045 &#8211; 1055
+      1000 &#8211; 1020
     </td>
   </tr>
 
@@ -60,11 +60,11 @@ Telephone: 01473 351249
     </td>
 
     <td width="169">
-      Old Post Office
+      Lindenette
     </td>
 
     <td width="112">
-      1100 &#8211; 1120
+      1030 &#8211; 1045
     </td>
   </tr>
 
@@ -78,11 +78,11 @@ Telephone: 01473 351249
     </td>
 
     <td width="169">
-      Village Hall
+      Old Post Office
     </td>
 
     <td width="112">
-      1125 &#8211; 1145
+      1050 &#8211; 1105
     </td>
   </tr>
 
@@ -92,15 +92,15 @@ Telephone: 01473 351249
     </td>
 
     <td width="128">
-      Carlton Colville
+      Mutford
     </td>
 
     <td width="169">
-      Chestnut Crescent
+      Village Hall
     </td>
 
     <td width="112">
-      1200 &#8211; 1220
+      1110 &#8211; 1125
     </td>
   </tr>
 
@@ -114,17 +114,53 @@ Telephone: 01473 351249
     </td>
 
     <td width="169">
-      Rounces Lane
+      Chestnut Crescent
     </td>
 
     <td width="112">
-      1225 &#8211; 1255
+      1140 &#8211; 1200
     </td>
   </tr>
 
   <tr>
     <td width="48">
       11F
+    </td>
+
+    <td width="128">
+      Carlton Colville
+    </td>
+
+    <td width="169">
+      Rounces Lane
+    </td>
+
+    <td width="112">
+      1205 &#8211; 1225
+    </td>
+  </tr>
+
+  <tr>
+    <td width="48">
+      11G
+    </td>
+
+    <td width="128">
+      Pakefield
+    </td>
+
+    <td width="169">
+      Apple Tree Close
+    </td>
+
+    <td width="112">
+      1330 &#8211; 1415
+    </td>
+  </tr>
+
+  <tr>
+    <td width="48">
+      11H
     </td>
 
     <td width="128">
@@ -136,13 +172,13 @@ Telephone: 01473 351249
     </td>
 
     <td width="112">
-      1405 &#8211; 1505
+      1425 &#8211; 1515
     </td>
   </tr>
 
   <tr>
     <td width="48">
-      11G
+      11I
     </td>
 
     <td width="128">
@@ -154,11 +190,13 @@ Telephone: 01473 351249
     </td>
 
     <td width="112">
-      1510 &#8211; 1530
+      1520 &#8211; 1540
     </td>
   </tr>
 </table>
 
 ### Calling every 4 weeks on Thursdays:
 
-**2017:** 26 January, 23 February, 23 March, 20 April, 18 May, 15 June, 13 July, 10 August, 7 September, 5 October, 2 November, 30 November, 28 December
+**2017:** 30 November, 28 December
+
+**2018:** 25 January, 22 February, 22 March, 19 April, 17 May, 14 June, 12 July, 9 August, 6 September, 4 October, 1 November, 29 November, 27 December

@@ -82,7 +82,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1035 &#8211; 1100
+      1040 &#8211; 1100
     </td>
   </tr>
 
@@ -179,4 +179,6 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Fridays:**
 
-**2017:** 13 January, 10 February, 10 March, 7 April, 5 May, 2 June, 30 June, 28 July, 25 August, 22 September, 20 October, 17 November, 15 December
+**2017:** 15 December
+
+**2018:** 12 January, 9 February, 9 March, 6 April, 4 May, 1 June, 29 June, 27 July, 24 August, 21 September, 19 October, 16 November, 14 December

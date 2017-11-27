@@ -64,7 +64,7 @@ Telephone: 01473 351249
     </td>
 
     <td width="126">
-      1010 &#8211; 1030
+      1010 &#8211; 1025
     </td>
   </tr>
 
@@ -82,7 +82,7 @@ Telephone: 01473 351249
     </td>
 
     <td width="126">
-      1035 &#8211; 1055
+      1030 &#8211; 1050
     </td>
   </tr>
 
@@ -114,7 +114,7 @@ Telephone: 01473 351249
     </td>
 
     <td width="154">
-      Village hall
+      Village Hall
     </td>
 
     <td width="126">
@@ -132,11 +132,11 @@ Telephone: 01473 351249
     </td>
 
     <td width="154">
-      Village hall
+      Easton Farm Park
     </td>
 
     <td width="126">
-      1220 &#8211; 1240
+      1225 &#8211; 1245
     </td>
   </tr>
 
@@ -168,11 +168,11 @@ Telephone: 01473 351249
     </td>
 
     <td width="154">
-      Post Box
+      Post box
     </td>
 
     <td width="126">
-      1425 &#8211; 1450
+      1425 &#8211; 1440
     </td>
   </tr>
 
@@ -190,7 +190,7 @@ Telephone: 01473 351249
     </td>
 
     <td width="126">
-      1500 &#8211; 1515
+      1450 &#8211; 1505
     </td>
   </tr>
 
@@ -208,11 +208,13 @@ Telephone: 01473 351249
     </td>
 
     <td width="126">
-      1525 &#8211; 1545
+      1515 &#8211; 1545
     </td>
   </tr>
 </table>
 
 ### Calling every 4 weeks on Wednesdays:
 
-**2017:** 18 January, 15 February, 15 March, 12 April, 10 May, 7 June, 5 July, 2 August, 30 August, 27 September, 25 October, 22 November, 20 December
+**2017:** 20 December
+
+**2018:** 17 January, 14 February, 14 March, 11 April, 9 May, 6 June, 4 July, 1 August, 29 August, 26 September, 24 October, 21 November, 19 December

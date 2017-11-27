@@ -38,15 +38,15 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="139">
-      Wangford
+      Blythburgh
     </td>
 
     <td valign="bottom" width="176">
-      Mill Fields
+      Amberley Close
     </td>
 
     <td valign="bottom" width="97">
-      1000 &#8211; 1015
+      0940 &#8211; 1000
     </td>
   </tr>
 
@@ -60,17 +60,35 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="176">
-      Church
+      Mill Fields
     </td>
 
     <td valign="bottom" width="97">
-      1020 &#8211; 1040
+      1010 &#8211; 1030
     </td>
   </tr>
 
   <tr>
     <td valign="bottom" width="44">
       10C
+    </td>
+
+    <td valign="bottom" width="139">
+      Wangford
+    </td>
+
+    <td valign="bottom" width="176">
+      Church
+    </td>
+
+    <td valign="bottom" width="97">
+      1035 &#8211; 1045
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="44">
+      10D
     </td>
 
     <td valign="bottom" width="139">
@@ -82,13 +100,13 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1050 &#8211; 1110
+      1055 &#8211; 1110
     </td>
   </tr>
 
   <tr>
     <td valign="bottom" width="44">
-      10D
+      10E
     </td>
 
     <td valign="bottom" width="139">
@@ -106,7 +124,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="44">
-      10E
+      10F
     </td>
 
     <td valign="bottom" width="139">
@@ -124,7 +142,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="44">
-      10F
+      10G
     </td>
 
     <td valign="bottom" width="139">
@@ -136,13 +154,13 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1400 &#8211; 1420
+      1400 &#8211; 1425
     </td>
   </tr>
 
   <tr>
     <td valign="bottom" width="44">
-      10G
+      10H
     </td>
 
     <td valign="bottom" width="139">
@@ -154,13 +172,13 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1425 &#8211; 1510
+      1430 &#8211; 1510
     </td>
   </tr>
 
   <tr>
     <td valign="bottom" width="44">
-      10H
+      10I
     </td>
 
     <td valign="bottom" width="139">
@@ -179,4 +197,6 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Wednesdays:**
 
-**2017:** 25 January, 22 February, 22 March, 19 April, 17 May, 14 June, 12 July, 9 August, 6 September, 4 October, 1 November, 29 November, **no visit in December**
+**2017:** 29 November, **no visit in December**
+
+**2018:** 24 January, 21 February, 21 March, 18 April, 16 May, 13 June, 11 July, 8 August, 5 September, 3 October, 31 October, 28 November, **no visit in December**

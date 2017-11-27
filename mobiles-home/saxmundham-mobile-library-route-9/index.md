@@ -47,7 +47,7 @@ Telephone: 01473 351249
     </td>
 
     <td width="112">
-      1015 &#8211; 1040
+      0950 &#8211; 1005
     </td>
   </tr>
 
@@ -65,7 +65,7 @@ Telephone: 01473 351249
     </td>
 
     <td width="112">
-      1050 &#8211; 1100
+      1015 &#8211; 1030
     </td>
   </tr>
 
@@ -83,7 +83,7 @@ Telephone: 01473 351249
     </td>
 
     <td width="112">
-      1115 &#8211; 1145
+      1035 &#8211; 1055
     </td>
   </tr>
 
@@ -101,7 +101,7 @@ Telephone: 01473 351249
     </td>
 
     <td width="112">
-      1200 &#8211; 1215
+      1110 &#8211; 1125
     </td>
   </tr>
 
@@ -111,15 +111,15 @@ Telephone: 01473 351249
     </td>
 
     <td width="128">
-      Somerleyton
+      Lound
     </td>
 
     <td width="169">
-      Village Hall
+      Lound Hall
     </td>
 
     <td width="112">
-      1230 &#8211; 1250
+      1130 &#8211; 1200
     </td>
   </tr>
 
@@ -133,17 +133,35 @@ Telephone: 01473 351249
     </td>
 
     <td width="169">
-      Green
+      Village Hall
     </td>
 
     <td width="112">
-      1355 &#8211; 1415
+      1215 &#8211; 1235
     </td>
   </tr>
 
   <tr>
     <td width="48">
       9G
+    </td>
+
+    <td width="128">
+      Somerleyton
+    </td>
+
+    <td width="169">
+      Green
+    </td>
+
+    <td width="112">
+      1340 &#8211; 1400
+    </td>
+  </tr>
+
+  <tr>
+    <td width="48">
+      9H
     </td>
 
     <td width="128">
@@ -155,13 +173,31 @@ Telephone: 01473 351249
     </td>
 
     <td width="112">
-      1430 &#8211; 1450
+      1415 &#8211; 1430
     </td>
   </tr>
 
   <tr>
     <td width="48">
-      9H
+      9I
+    </td>
+
+    <td width="128">
+      Oulton
+    </td>
+
+    <td width="169">
+      Oulton Park
+    </td>
+
+    <td width="112">
+      1440 &#8211; 1520
+    </td>
+  </tr>
+
+  <tr>
+    <td width="48">
+      9J
     </td>
 
     <td width="128">
@@ -173,11 +209,13 @@ Telephone: 01473 351249
     </td>
 
     <td width="112">
-      1525 &#8211; 1550
+      1545 &#8211; 1600
     </td>
   </tr>
 </table>
 
 ### Calling every 4 weeks on Tuesdays:
 
-**2017:** 24 January, 21 February, 21 March, 18 April, 16 May, 13 June, 11 July, 8 August, 5 September, 3 October, 31 October, 28 November, **no visit in December**
+**2017:** 28 November, **no visit in December**
+
+**2018:** 23 January, 20 February, 20 March, 17 April, 15 May, 12 June, 10 July, 7 August, 4 September, 2 October, 30 October, 27 November, **no visit in December**

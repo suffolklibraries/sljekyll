@@ -118,7 +118,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1155-1220
+      1155-1215
     </td>
   </tr>
 
@@ -136,7 +136,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1230-1245
+      1225-1240
     </td>
   </tr>
 
@@ -154,7 +154,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1400-1445
+      1350-1435
     </td>
   </tr>
 
@@ -164,15 +164,15 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="139">
-      Occold
+      Eye
     </td>
 
     <td valign="bottom" width="176">
-      The Street
+      Hartismere House
     </td>
 
     <td valign="bottom" width="97">
-      1450-1505
+      1440-1505
     </td>
   </tr>
 
@@ -182,11 +182,11 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="139">
-      Rishangles
+      Occold
     </td>
 
     <td valign="bottom" width="176">
-      Baptist Church
+      The Street
     </td>
 
     <td valign="bottom" width="97">
@@ -208,11 +208,13 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1535-1555
+      1540-1555
     </td>
   </tr>
 </table>
 
 ****Calling every 4 weeks on Tuesday:****
 
-**2017:** 17 January, 14 February, 14 March, 11 April, 9 May, 6 June, 4 July, 1 August, 29 August, 26 September, 24 October, 21 November, 19 December
+**2017:** 19 December
+
+**2018:** 16 January. 13 February, 13 March, 10 April, 8 May, 5 June, 3 July, 31 July, 28 August, 25 September, 23 October, 20 November, 18 December

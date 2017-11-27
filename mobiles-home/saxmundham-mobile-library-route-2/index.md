@@ -78,11 +78,11 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="176">
-      School
+      Old School House
     </td>
 
     <td valign="bottom" width="97">
-      1100 &#8211; 1110
+      1100 &#8211; 1120
     </td>
   </tr>
 
@@ -100,7 +100,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1120 &#8211; 1135
+      1130 &#8211; 1145
     </td>
   </tr>
 
@@ -114,11 +114,11 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="176">
-      Shop Car Park
+      Shop car park
     </td>
 
     <td valign="bottom" width="97">
-      1150 &#8211; 1210
+      1200 &#8211; 1220
     </td>
   </tr>
 
@@ -136,7 +136,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1220 &#8211; 1235
+      1230 &#8211; 1245
     </td>
   </tr>
 
@@ -146,15 +146,15 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="139">
-      Ufford
+      Melton
     </td>
 
     <td valign="bottom" width="176">
-      Parklands
+      Nursery
     </td>
 
     <td valign="bottom" width="97">
-      1240 &#8211; 1250
+      1350 &#8211; 1430
     </td>
   </tr>
 
@@ -172,7 +172,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1410 &#8211; 1425
+      1445 &#8211; 1500
     </td>
   </tr>
 
@@ -190,7 +190,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1430 &#8211; 1500
+      1505 &#8211; 1530
     </td>
   </tr>
 
@@ -200,37 +200,21 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="139">
-      Cransford
+      Great Glemham
     </td>
 
     <td valign="bottom" width="176">
-      Oaklands
+      Village Hall
     </td>
 
     <td valign="bottom" width="97">
-      1505 &#8211; 1520
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="bottom" width="44">
-      2K
-    </td>
-
-    <td valign="bottom" width="139">
-      Rendham
-    </td>
-
-    <td valign="bottom" width="176">
-      Bruisyard Road
-    </td>
-
-    <td valign="bottom" width="97">
-      1535 &#8211; 1550
+      1545 &#8211; 1605
     </td>
   </tr>
 </table>
 
 **Calling every 4 weeks on Wednesdays:**
 
-**2017:** 11 January, 8 February, 8 March, 5 April, 3 May, 31 May, 28 June, 26 July, 23 August, 20 September, 18 October, 15 November, 13 December
+**2017:** 13 December
+
+**2018:** 10 January, 7 February, 7 March, 4 April, 2 May, 30 May, 27 June, 25 July, 22 August, 19 September, 17 October, 14 November, 12 December

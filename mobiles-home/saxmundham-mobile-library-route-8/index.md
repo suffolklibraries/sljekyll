@@ -215,4 +215,6 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Fridays:**
 
-**2017:** 20 January, 17 February, 17 March, **no visit in April**, 12 May, 9 June, 7 July, 4 August, 1 September, 29 September, 27 October, 24 November, 22 December
+**2017:** 22 December
+
+**2018:** 19 January, 16 February, 16 March, 13 April, 11 May, 8 June, 6 July, 3 August, 31 August, 28 September, 26 October, 23 November, 21 December
