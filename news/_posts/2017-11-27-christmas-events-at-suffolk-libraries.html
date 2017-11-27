@@ -1,0 +1,134 @@
+---
+layout: sidebar-right
+title: "Christmas events at Suffolk Libraries"
+date: 2017-11-27
+author: alice-violett
+category: news
+excerpt: "Whether you want to meet Father Christmas, pick up some presents, or enjoy some festive entertainment, we've got lots of Christmas events for all ages taking place across our libraries next month."
+breadcrumb: news
+---
+
+<p>Whether you want to meet Father Christmas, pick up some presents, or enjoy some festive entertainment, we've got lots of Christmas events for all ages taking place across our libraries next month.</p>
+
+<p class="{% include /c/inline-hnav-label.html %} b">Jump to:</p>
+
+<ul class="{% include /c/inline-hnav-list.html %}">
+
+  <li class="{% include /c/inline-hnav-list-item.html %}"><a href="#fairs" class="{% include /c/inline-hnav-list-item-link.html %}">Fairs and get-togethers</a></li>
+  <li class="{% include /c/inline-hnav-list-item.html %}"><a href="#ents" class="{% include /c/inline-hnav-list-item-link.html %}">Entertainment and games</a></li>
+  <li class="{% include /c/inline-hnav-list-item.html %}"><a href="#crafts" class="{% include /c/inline-hnav-list-item-link.html %}">Craft sessions</a></li>
+  <li class="{% include /c/inline-hnav-list-item.html %}"><a href="#children" class="{% include /c/inline-hnav-list-item-link.html %}">Events for children</a></li>
+
+</ul>
+
+<section id="fairs">
+
+      <h2>Fairs and get-togethers</h2>
+
+      <p>Meet Father Christmas and other special guests, pick up some Christmas gifts, try your luck in a competition or enjoy some festive food and drink.</p>
+
+      {% assign xmas-fair-events = (site.events | where: "event-category", "xmas-fair" | sort: "event-start-date" ) %}
+
+      {% for event in xmas-fair-events %}
+
+          <article class="{% include /c/listing.html %}">
+
+              <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+              <p class="{% include /c/page-meta.html %}">
+
+                  <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span>
+
+              <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+              </p>
+
+          </article>
+
+      {% endfor %}
+
+</section>
+
+<section id="ents">
+
+<h2>Entertainment and games</h2>
+
+      <p>See some beautifully-decorated trees, hear some festive music, enjoy some festive literary entertainment or take part in a quiz or game.</p>
+
+      {% assign xmas-ents-events = (site.events | where: "event-category", "xmas-ents" | sort: "event-start-date" ) %}
+
+      {% for event in xmas-ents-events %}
+
+          <article class="{% include /c/listing.html %}">
+
+              <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+              <p class="{% include /c/page-meta.html %}">
+
+                  <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span>
+
+              <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+              </p>
+
+          </article>
+
+      {% endfor %}
+
+</section>
+
+<section id="crafts">
+
+      <h2>Craft sessions</h2>
+
+      <p>Try out a new craft and create decorations for your home.</p>
+
+      {% assign xmas-crafts-events = (site.events | where: "event-category", "xmas-crafts" | sort: "event-start-date" ) %}
+
+      {% for event in xmas-crafts-events %}
+
+          <article class="{% include /c/listing.html %}">
+
+              <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+              <p class="{% include /c/page-meta.html %}">
+
+                  <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span>
+
+              <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+              </p>
+
+          </article>
+
+      {% endfor %}
+
+</section>
+
+<section id="children">
+
+      <h2>Events for children</h2>
+
+      <p>Events exclusively for children and accompanying parents/carers.</p>
+
+      {% assign xmas-children-events = (site.events | where: "event-category", "xmas-children" | sort: "event-start-date" ) %}
+
+      {% for event in xmas-children-events %}
+
+          <article class="{% include /c/listing.html %}">
+
+              <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+              <p class="{% include /c/page-meta.html %}">
+
+                  <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span>
+
+              <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+              </p>
+
+          </article>
+
+      {% endfor %}
+
+</section>
+
+<p>If you're feeling lonely or isolated, <a href="/news/elmswell-library-offers-festive-support/">Elmswell Library are offering extra support this Christmas</a>.</p></p>
+
+<p>That's not all that's happening this month. Five of our libraries are hosting <a href="/news/librarian-theatre/">Librarian Theatre's production, <cite>Alice in the Cuckoo's Nest</cite></a>, and a few libraries are hosting <a href="/events-activities/presents/"></a>Suffolk Libraries Presents screenings. Haverhill Library will be holding a <a href="/events/haverhill-2017-12-08-hp-book-trail/">Harry Potter book trail</a> around the town as our <a href="/news/history-of-magic/">Harry Potter: A History of Magic</a> display moves there on 8 December.</p>
