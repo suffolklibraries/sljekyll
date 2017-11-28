@@ -14,7 +14,7 @@ If you don't have a card number or don't remember your PIN please contact custom
 
 - [Aldeburgh Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Beccles Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
-- [Brandon Library](http://netloan.suffolklibraries.co.uk/)
+- [Brandon Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Broomhill Library (formerly Westbourne)](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Bungay Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Bury St Edmunds Library](http://netloan.suffolklibraries.co.uk/)
