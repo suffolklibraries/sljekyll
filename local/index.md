@@ -11,7 +11,7 @@ breadcrumb: home
 	<p><strong>The pilot period for Suffolk Libraries Local is coming to an end:</strong></p>
 
 	<ul>
-		<li>The last session at <a href="/libraries/moreton-hall">Moreton Hall</a> will be on Tuesday 28 November 2017.</li>
+		<li>The Suffolk Libraries Local sessions at <a href="/libraries/moreton-hall">Moreton Hall</a> have now ended.</li>
 		<li>The last session at <a href="/libraries/red-lodge">Red Lodge</a> will be on Thursday 30 November 2017.</li>
 		<li>The sessions at <a href="/libraries/shotley">Shotley</a> will continue until the end of March 2018.</li>
 	</ul>
@@ -26,7 +26,7 @@ Moreton Hall customers' closest static libraries are [Bury St Edmunds](/librarie
 
 Red Lodge customers' closest static libraries are [Mildenhall](/libraries/mildenhall-library/) and [Newmarket](/libraries/newmarket-library/), and [Bury St Edmunds Mobile Library Route 15](/mobiles-home/bury-st-edmunds-mobile-library-route-15/) stops at Heathersett Way every fourth Sunday.
 
-**The Shotley sessions have been chosen to continue until March 2017** as they have been the most popular and are in the location which is furthest from a static library.
+**The Shotley sessions have been chosen to continue until March 2018** as they have been the most popular and are in the location which is furthest from a static library.
 
 We would welcome opportunities to provide Suffolk Libraries Local sessions in the future and are interested in hearing from any local organisations who might be able to fund sessions in their area.
 
