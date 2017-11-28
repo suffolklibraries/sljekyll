@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Spanish conversation group"
-recurrent-description: "For beginners and improvers. Free."
+recurrent-description: "For beginners and improvers. Free. On Christmas break until mid-January 2018."
 recurrent-day: Saturday
 recurrent-times: 1115-1215
 recurrent-location: newmarket-library
