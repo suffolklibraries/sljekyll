@@ -1,6 +1,6 @@
 ---
 id: gains-xmas
-name: "Christmas fair"
+name: "Christmas Fair"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2017-12-08
