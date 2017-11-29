@@ -417,6 +417,24 @@ Telephone: 01473 351249
       1545 &#8211; 1605
     </td>
   </tr>
+
+  <tr>
+    <td valign="bottom" width="44">
+      2K
+    </td>
+
+    <td valign="bottom" width="139">
+      Rendham
+    </td>
+
+    <td valign="bottom" width="176">
+      Bruisyard Road
+    </td>
+
+    <td valign="bottom" width="97">
+      1535 &#8211; 1550
+    </td>
+  </tr>
 </table>
 
 **Calling every 4 weeks on Wednesdays:**
