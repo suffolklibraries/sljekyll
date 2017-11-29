@@ -435,6 +435,7 @@ Telephone: 01473 351249
       1545 &#8211; 1605
     </td>
   </tr>
+</table>
 
 **Calling every 4 weeks on Wednesdays:**
 

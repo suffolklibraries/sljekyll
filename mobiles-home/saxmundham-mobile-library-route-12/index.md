@@ -172,7 +172,7 @@ Telephone: 01473 351249
   </td>
 
   <td valign="bottom" width="97">
-    1425 &#8211; 1455
+    1500 &#8211; 1530
   </td>
 </tr>
 </table>

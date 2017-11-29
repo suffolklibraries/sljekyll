@@ -46,7 +46,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      0950 &#8211; 1015
+      0945 &#8211; 1015
     </td>
   </tr>
 
