@@ -436,25 +436,6 @@ Telephone: 01473 351249
     </td>
   </tr>
 
-  <tr>
-    <td valign="bottom" width="44">
-      2K
-    </td>
-
-    <td valign="bottom" width="139">
-      Rendham
-    </td>
-
-    <td valign="bottom" width="176">
-      Bruisyard Road
-    </td>
-
-    <td valign="bottom" width="97">
-      15 &#8211; 1605
-    </td>
-  </tr>
-</table>
-
 **Calling every 4 weeks on Wednesdays:**
 
 **2018:** 10 January, 7 February, 7 March, 4 April, 2 May, 30 May, 27 June, 25 July, 22 August, 19 September, 17 October, 14 November, 12 December
