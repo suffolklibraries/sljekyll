@@ -305,4 +305,6 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Wednesdays:**
 
-**2017:** 25 January, 22 February, 22 March, 19 April, 17 May, 14 June, 12 July, 9 August, 6 September, 4 October, 1 November, 29 November, 27 December
+**2017:** 27 December
+
+**2018:** 24 January, 21 February, 21 March, 18 April, 16 May, 13 June, 11 July, 8 August, 5 September, 3 October, 31 October, 28 November, **no visit in December**
