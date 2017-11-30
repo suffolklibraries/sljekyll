@@ -32,7 +32,7 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/ipswich-county-library
-branch-other-facilities: 'Board Games Library - see the <a href="/assets/pdf/ipswich-board-games-library.pdf">Board Games Library information sheet</a> (PDF) for further information.'
+branch-other-facilities: 'Board Games Library - see the <a href="/assets/pdf/ipswich-board-games-library.pdf">Ipswich Board Games Library information sheet</a> (PDF) for further information.'
 branch-news: 'The library will close at 1pm on Christmas Eve.'
 breadcrumb: y
 ---
