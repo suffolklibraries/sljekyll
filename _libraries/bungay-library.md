@@ -28,4 +28,5 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/bungay-library
 breadcrumb: y
+branch-other-facilities: "Memory Christmas tree supplied by local funeral directors Rosedale. Write on a tag in memory of a loved one and hang it on the tree."
 ---
