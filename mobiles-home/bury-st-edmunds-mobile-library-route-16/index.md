@@ -284,7 +284,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="176">
-      Phone Box
+      Phone box
     </td>
 
     <td valign="bottom" width="97">
@@ -302,29 +302,11 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="176">
-      Wheatsheaf
+      Wheatsheaf House
     </td>
 
     <td valign="bottom" width="97">
       1055-1120
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="bottom" width="44">
-      16E
-    </td>
-
-    <td valign="bottom" width="139">
-      Woolpit
-    </td>
-
-    <td valign="bottom" width="176">
-      The Green
-    </td>
-
-    <td valign="bottom" width="97">
-      1120-1140
     </td>
   </tr>
 
@@ -342,7 +324,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1150-1250
+      1130-1230
     </td>
   </tr>
 
