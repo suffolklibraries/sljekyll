@@ -30,5 +30,8 @@ branch-photocopying: A4 only
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/elmswell-library
 breadcrumb: y
-branch-news: 'The library will close at 12:30pm on Christmas Eve.'
+branch-news: '<ul>
+              <li>Elmswell Library are <a href="/news/elmswell-library-offers-festive-support/">offering extra support to lonely and isolated customers and collecting for Gatehouse Foodbank during December</a>.</li>
+              <li>The library will close at 12:30pm on Christmas Eve.</li>
+              </ul>'
 ---
