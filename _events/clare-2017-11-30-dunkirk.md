@@ -1,6 +1,6 @@
 ---
 id: clare-dunkirk
-name: "Film Night: <cite>Dunkirk</cite>"
+name: "Film Night: <cite>Dunkirk</cite> - CANCELLED"
 location: clare-library
 location-text: Clare Library
 event-start-date: 2017-11-30
@@ -8,6 +8,8 @@ event-start-time: 1830
 event-ticket-price: 5
 breadcrumb: y
 ---
+
+**We're sorry that this event has been cancelled**
 
 Join us for our monthly film night. This month's film is <cite>Dunkirk</cite>:
 
