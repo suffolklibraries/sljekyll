@@ -35,7 +35,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="67">
-      MIP/1A
+      1A
     </td>
 
     <td valign="bottom" width="139">
@@ -53,7 +53,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="67">
-      MIP/1B
+      1B
     </td>
 
     <td valign="bottom" width="139">
@@ -71,7 +71,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="67">
-      MIP/1C
+      1C
     </td>
 
     <td valign="bottom" width="139">
@@ -89,7 +89,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="67">
-      MIP/1D
+      1D
     </td>
 
     <td valign="bottom" width="139">
@@ -107,7 +107,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="67">
-      MIP/1E
+      1E
     </td>
 
     <td valign="bottom" width="139">
@@ -125,7 +125,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="67">
-      MIP/1F
+      1F
     </td>
 
     <td valign="bottom" width="139">
@@ -143,7 +143,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="67">
-      MIP/1G
+      1G
     </td>
 
     <td valign="bottom" width="139">
@@ -161,7 +161,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="67">
-      MIP/1I
+      1I
     </td>
 
     <td valign="bottom" width="139">
@@ -179,7 +179,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="67">
-      MIP/1J
+      1J
     </td>
 
     <td valign="bottom" width="139">
@@ -197,7 +197,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="67">
-      MIP/1K
+      1K
     </td>
 
     <td valign="bottom" width="139">
@@ -215,7 +215,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="67">
-      MIP/1L
+      1L
     </td>
 
     <td valign="bottom" width="139">
@@ -234,6 +234,8 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Tuesdays:**
 
-**2017:** 10 January, 7 February, 7 March, 4 April, 2 May, 30 May, 27 June, 25 July, 22 August, 19 September, 17 October, 14 November, 12 December
+**2017:** 12 December
 
-**2018:** 9 January
+**2018:** 9 January, 6 February, 6 March, 3 April, 1 May, 29 May, 26 June, 24 July, 21 August, 18 September, 16 October, 13 November, 11 December
+
+**2019:** 8 January

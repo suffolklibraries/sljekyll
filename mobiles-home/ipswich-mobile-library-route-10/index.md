@@ -35,11 +35,11 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/10A
+      10A
     </td>
 
     <td valign="bottom" width="161">
-      Rushmere St. Andrew
+      Rushmere St Andrew
     </td>
 
     <td valign="bottom" width="169">
@@ -53,11 +53,11 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/10B
+      10B
     </td>
 
     <td valign="bottom" width="161">
-      Rushmere St. Andrew
+      Rushmere St Andrew
     </td>
 
     <td valign="bottom" width="169">
@@ -71,11 +71,11 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/10C
+      10C
     </td>
 
     <td valign="bottom" width="161">
-      Rushmere St. Andrew
+      Rushmere St Andrew
     </td>
 
     <td valign="bottom" width="169">
@@ -89,11 +89,11 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/10D
+      10D
     </td>
 
     <td valign="bottom" width="161">
-      Rushmere St. Andrew
+      Rushmere St Andrew
     </td>
 
     <td valign="bottom" width="169">
@@ -107,7 +107,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/10E
+      10E
     </td>
 
     <td valign="bottom" width="161">
@@ -125,11 +125,11 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/10F
+      10F
     </td>
 
     <td valign="bottom" width="161">
-      Rushmere St. Andrew
+      Rushmere St Andrew
     </td>
 
     <td valign="bottom" width="169">
@@ -143,7 +143,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/10G
+      10G
     </td>
 
     <td valign="bottom" width="161">
@@ -161,7 +161,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/10H
+      10H
     </td>
 
     <td valign="bottom" width="161">
@@ -179,7 +179,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/10I
+      10I
     </td>
 
     <td valign="bottom" width="161">
@@ -197,7 +197,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/10J
+      10J
     </td>
 
     <td valign="bottom" width="161">
@@ -216,6 +216,8 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Tuesdays:**
 
-**2017:** 24 January, 21 February, 21 March, 18 April, 16 May, 13 June, 11 July, 8 August, 5 September, 3 October, 31 October, 28 November, **no visit in December**
+**2017:** **no visit in December**
 
-**2018:** 23 January
+**2018:** 23 January, 20 February, 20 March, 17 April, 15 May, 12 June, 10 July, 7 August, 4 September, 2 October, 30 October, 27 November, **no visit in December**
+
+**2019:** 22 January

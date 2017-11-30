@@ -34,7 +34,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="79">
-      MIP/17A
+      17A
     </td>
 
     <td valign="bottom" width="128">
@@ -52,7 +52,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="79">
-      MIP/17B
+      17B
     </td>
 
     <td valign="bottom" width="128">
@@ -70,7 +70,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="79">
-      MIP/17C
+      17C
     </td>
 
     <td valign="bottom" width="128">
@@ -88,7 +88,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="79">
-      MIP/17D
+      17D
     </td>
 
     <td valign="bottom" width="128">
@@ -106,7 +106,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="79">
-      MIP/17E
+      17E
     </td>
 
     <td valign="bottom" width="128">
@@ -124,7 +124,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="79">
-      MIP/17F
+      17F
     </td>
 
     <td valign="bottom" width="128">
@@ -142,7 +142,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="79">
-      MIP/17G
+      17G
     </td>
 
     <td valign="bottom" width="128">
@@ -160,7 +160,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="79">
-      MIP/17H
+      17H
     </td>
 
     <td valign="bottom" width="128">
@@ -178,7 +178,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="79">
-      MIP/17I
+      17I
     </td>
 
     <td valign="bottom" width="128">
@@ -196,7 +196,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="79">
-      MIP/17J
+      17J
     </td>
 
     <td valign="bottom" width="128">
@@ -214,7 +214,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="79">
-      MIP/17K
+      17K
     </td>
 
     <td valign="bottom" width="128">
@@ -222,7 +222,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="161">
-      Street
+      Freston Street
     </td>
 
     <td valign="bottom" width="110">
@@ -233,6 +233,8 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Fridays:**
 
-**2017:** 6 January, 3 February, 3 March, 31 March, 28 April, 26 May, 23 June, 21 July, 18 August, 15 September, 13 October, 10 November, 8 December
+**2017:** 8 December
 
-**2018:** 5 January
+**2018:** 5 January, 2 February, 2 March, **no visit on Good Friday**, 27 April, 25 May, 22 June, 20 July, 17 August, 14 September, 12 October, 9 November, 7 December
+
+**2019:** 4 January

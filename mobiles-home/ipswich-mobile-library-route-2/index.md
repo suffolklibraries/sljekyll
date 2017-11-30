@@ -34,7 +34,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/2A
+      2A
     </td>
 
     <td valign="bottom" width="117">
@@ -52,7 +52,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/2B
+      2B
     </td>
 
     <td valign="bottom" width="117">
@@ -70,7 +70,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/2C
+      2C
     </td>
 
     <td valign="bottom" width="117">
@@ -88,7 +88,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/2D
+      2D
     </td>
 
     <td valign="bottom" width="117">
@@ -106,7 +106,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/2E
+      2E
     </td>
 
     <td valign="bottom" width="117">
@@ -124,7 +124,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/2F
+      2F
     </td>
 
     <td valign="bottom" width="117">
@@ -142,7 +142,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/2G
+      2G
     </td>
 
     <td valign="bottom" width="117">
@@ -160,7 +160,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/2H
+      2H
     </td>
 
     <td valign="bottom" width="117">
@@ -178,7 +178,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/2I
+      2I
     </td>
 
     <td valign="bottom" width="117">
@@ -196,7 +196,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/2J
+      2J
     </td>
 
     <td valign="bottom" width="117">
@@ -214,7 +214,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/2K
+      2K
     </td>
 
     <td valign="bottom" width="117">
@@ -232,7 +232,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/2L
+      2L
     </td>
 
     <td valign="bottom" width="117">
@@ -250,7 +250,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/2M
+      2M
     </td>
 
     <td valign="bottom" width="117">
@@ -269,6 +269,8 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Wednesdays:**
 
-**2017:** 11 January, 8 February, 8 March, 5 April, 3 May, 31 May, 28 June, 26 July, 23 August, 20 September, 18 October, 15 November, 13 December
+**2017:** 13 December
 
-**2018:** 10 January
+**2018:** 10 January, 7 February, 7 March, 4 April, 2 May, 30 May, 27 June, 25 July, 22 August, 19 September, 17 October, 14 November, 12 December
+
+**2019:** 9 January

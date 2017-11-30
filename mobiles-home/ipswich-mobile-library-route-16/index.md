@@ -34,7 +34,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/16A
+      16A
     </td>
 
     <td valign="bottom" width="125">
@@ -52,7 +52,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/16B
+      16B
     </td>
 
     <td valign="bottom" width="125">
@@ -60,7 +60,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="183">
-      Community Shop
+      Community shop
     </td>
 
     <td valign="bottom" width="115">
@@ -70,7 +70,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/16C
+      16C
     </td>
 
     <td valign="bottom" width="125">
@@ -88,7 +88,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/16D
+      16D
     </td>
 
     <td valign="bottom" width="125">
@@ -96,7 +96,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="183">
-      Barking Fox
+      The Barking Fox
     </td>
 
     <td valign="bottom" width="115">
@@ -106,7 +106,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/16E
+      16E
     </td>
 
     <td valign="bottom" width="125">
@@ -124,7 +124,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/16F
+      16F
     </td>
 
     <td valign="bottom" width="125">
@@ -142,7 +142,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/16G
+      16G
     </td>
 
     <td valign="bottom" width="125">
@@ -160,7 +160,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/16G1
+      16G1
     </td>
 
     <td valign="bottom" width="125">
@@ -178,7 +178,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/16H
+      16H
     </td>
 
     <td valign="bottom" width="125">
@@ -196,7 +196,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/16I
+      16I
     </td>
 
     <td valign="bottom" width="125">
@@ -214,7 +214,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/16J
+      16J
     </td>
 
     <td valign="bottom" width="125">
@@ -232,7 +232,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="74">
-      MIP/16K
+      16K
     </td>
 
     <td valign="bottom" width="125">
@@ -251,6 +251,8 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Thursdays:**
 
-**2017:** 5 January, 2 February, 2 March, 30 March, 27 April, 25 May, 22 June, 20 July, 17 August, 14 September, 12 October, 9 November, 7 December
+**2017:** 7 December
 
-**2018:** 4 January
+**2018:** 4 January, 1 February, 1 March, 29 March, 26 April, 24 May, 21 June, 19 July, 16 August, 13 September, 11 October, 8 November, 6 December
+
+**2019:** 3 January, 31 January

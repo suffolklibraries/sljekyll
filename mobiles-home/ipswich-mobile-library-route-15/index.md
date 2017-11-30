@@ -35,7 +35,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="79">
-      MIP/15A
+      15A
     </td>
 
     <td valign="bottom" width="113">
@@ -53,7 +53,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="79">
-      MIP/15B
+      15B
     </td>
 
     <td valign="bottom" width="113">
@@ -71,7 +71,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="79">
-      MIP/15C
+      15C
     </td>
 
     <td valign="bottom" width="113">
@@ -89,7 +89,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="79">
-      MIP/15D
+      15D
     </td>
 
     <td valign="bottom" width="113">
@@ -97,7 +97,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="147">
-      Telephone Kiosk
+      Telephone kiosk
     </td>
 
     <td valign="bottom" width="127">
@@ -107,7 +107,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="79">
-      MIP/15E
+      15E
     </td>
 
     <td valign="bottom" width="113">
@@ -125,7 +125,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="79">
-      MIP/15F
+      15F
     </td>
 
     <td valign="bottom" width="113">
@@ -143,7 +143,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="79">
-      MIP/15G
+      15G
     </td>
 
     <td valign="bottom" width="113">
@@ -162,6 +162,8 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Wednesdays:**
 
-**2017:** 4 January, 1 February, 1 March, 29 March, 26 April, 24 May, 21 June, 19 July, 16 August, 13 September, 11 October, 8 November, 6 December
+**2017:** 6 December
 
-**2018:** 3 January, 31 January
+**2018:** 3 January, 31 January, 28 February, 28 March, 25 April, 23 May, 20 June, 18 July, 15 August, 12 September, 10 October, 7 November, 5 December
+
+**2019:** 2 January, 30 January

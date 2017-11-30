@@ -34,7 +34,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="69">
-      MIP/5A
+      5A
     </td>
 
     <td valign="bottom" width="130">
@@ -52,7 +52,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="69">
-      MIP/5B
+      5B
     </td>
 
     <td valign="bottom" width="130">
@@ -70,7 +70,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="69">
-      MIP/5C
+      5C
     </td>
 
     <td valign="bottom" width="130">
@@ -88,7 +88,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="69">
-      MIP/5D
+      5D
     </td>
 
     <td valign="bottom" width="130">
@@ -106,7 +106,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="69">
-      MIP/5E
+      5E
     </td>
 
     <td valign="bottom" width="130">
@@ -124,7 +124,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="69">
-      MIP/5F
+      5F
     </td>
 
     <td valign="bottom" width="130">
@@ -142,7 +142,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="69">
-      MIP/5G
+      5G
     </td>
 
     <td valign="bottom" width="130">
@@ -150,7 +150,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="176">
-      Post Box
+      Post box
     </td>
 
     <td valign="bottom" width="103">
@@ -160,7 +160,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="69">
-      MIP/5H
+      5H
     </td>
 
     <td valign="bottom" width="130">
@@ -178,7 +178,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="69">
-      MIP/5I
+      5I
     </td>
 
     <td valign="bottom" width="130">
@@ -196,7 +196,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="69">
-      MIP/5J
+      5J
     </td>
 
     <td valign="bottom" width="130">
@@ -214,7 +214,7 @@ Telephone: 01473 351249
 
   <tr>
     <td valign="bottom" width="69">
-      MIP/5K
+      5K
     </td>
 
     <td valign="bottom" width="130">
@@ -233,6 +233,8 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Tuesdays:**
 
-**2017:** 17 January, 14 February, 14 March, 11 April, 9 May, 6 June, 4 July, 1 August, 29 August, 26 September, 24 October, 21 November, 19 December
+**2017:** 19 December
 
-**2018:** 16 January
+**2018:** 16 January, 13 February, 13 March, 10 April, 8 May, 5 June, 3 July, 31 July, 28 August, 25 September, 23 October, 20 November, 18 December
+
+**2019:** 15 January
