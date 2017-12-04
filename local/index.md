@@ -22,7 +22,7 @@ breadcrumb: home
 
 Suffolk Libraries Local has been a Suffolk County Council funded experiment exploring ways of providing the library experience to communities not served by a static library. **Although the initial funding was for six months, we were able to extend the project until late November at Moreton Hall and Red Lodge**.
 
-Moreton Hall customers' closest static libraries are [Bury St Edmunds](/libraries/bury-st-edmunds-library) and [Thurston](/libraries/Thurston/). [Bury St Edmunds Mobile Library Route 17](/mobiles-home/bury-st-edmunds-mobile-library-route-17/) stops at the Community Centre every fourth Tuesday.
+Moreton Hall customers' closest static libraries are [Bury St Edmunds](/libraries/bury-st-edmunds-library) and [Thurston](/libraries/thurston-library/). [Bury St Edmunds Mobile Library Route 17](/mobiles-home/bury-st-edmunds-mobile-library-route-17/) stops at the Community Centre every fourth Tuesday.
 
 Red Lodge customers' closest static libraries are [Mildenhall](/libraries/mildenhall-library/) and [Newmarket](/libraries/newmarket-library/), and [Bury St Edmunds Mobile Library Route 15](/mobiles-home/bury-st-edmunds-mobile-library-route-15/) stops at Heathersett Way every fourth Sunday.
 

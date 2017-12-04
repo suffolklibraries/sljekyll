@@ -18,12 +18,6 @@ As the weather gets colder, the nights draw in and All Hallows Eve gets closer, 
 
 Visit our [eLibrary page](/elibrary/) for instructions on setting up our online services on your device.
 
-## OverDrive
-
-Our ['The horror... The horror...' Creepy classics for dark nights by the fire](https://suffolklibraries.overdrive.com/collection/106293) shelf features some of our favourite eBooks and eAudiobooks from Edgar Allan Poe, M. R. James, Stephen King and more.
-
-If you're looking to thrill your children, or find adult horror a bit too scary, our [Spooks and other spine-tinglers](https://suffolklibraries.overdrive.com/collection/106449) shelf features titles from Neil Gaiman, R. L. Stine and more.
-
 ## BorrowBox
 
 Looking for a creepy crime thriller? Take a look at our [chilling adult fiction](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/mainPage.html?b2bSite=4172&b2bSite=4172&b2bSite=4172&expand=10540&b2bSite=4172) collection, including titles from Thomas Harris, Nicci French and Alison Bruce.

@@ -11,5 +11,3 @@ breadcrumb: y
 **Please note date change**
 
 Whether you've made it through our auditions and it's your time to shine, or you want to enjoy and cheer on our talented performers, you're invited to our talent show.
-
-Auditions are on [Saturday 4 November](/events/gainsborough-2017-11-04-talent-show-auditions-1/), [Saturday 11 November](/events/gainsborough-2017-11-11-talent-show-auditions-2/) and [Saturday 18 November](/events/gainsborough-2017-11-18-talent-show-auditions-3/)

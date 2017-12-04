@@ -16,4 +16,4 @@ Many members go on to learn further skills at spin-off sessions and take part in
 
 The Libraries Change Lives Award recognises the work of libraries in driving integration and social cohesion and improving the health and life chances of individuals in their communities. It focusses on innovation, intelligent service design and best practice.
 
-The winner of the award will be announced at a ceremony in London in October. You can find out more about the award and watch a video about each of the shortlisted projects on the [CILIP website](https://www.cilip.org.uk/advocacy-awards/libraries-change-lives-award/libraries-change-lives-2017-shortlist).
+The winner of the award will be announced at a ceremony in London in October. You can find out more about the award and watch a video about each of the shortlisted projects on the [CILIP website](https://archive.cilip.org.uk/advocacy-awards/libraries-change-lives-award/libraries-change-lives-2017-shortlist).
