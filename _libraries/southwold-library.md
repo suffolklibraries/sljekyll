@@ -24,8 +24,14 @@ branch-payments: cash and cheques accepted, cards accepted over £5
 branch-parking: on-street parking only
 branch-bookdrop: y
 branch-refreshments: hot drinks for sale
-branch-for-sale: "Reydon and Southwold Pantomime Group <cite>Robinson Crusoe</cite> (21-27 January 2018) tickets; £8.50 adults, £4.50 under 16s, £20.50 family. Crafts, Southwold and Suffolk Coast Treasure Trails sheets, local authors' books, branded bags and pens, Southwold Voluntary Help Centre Christmas cards"
-branch-other-facilities: laminating (up to A4)
+branch-for-sale: "<ul>
+                  <li>Reydon and Southwold Pantomime Group <cite>Robinson Crusoe</cite> (21-27 January 2018) tickets; £8.50 adults, £4.50 under 16s, £20.50 family.</li>
+                  <li>Crafts, Southwold and Suffolk Coast Treasure Trails sheets.</li>
+                  <li>Local authors' books.</li>
+                  <li>Branded bags and pens.</li>
+                  <li>Southwold Voluntary Help Centre Christmas cards.</li>
+                  </ul>"
+branch-other-facilities: laminating (up to A4), foodbank collection point all year round.
 branch-wifi: y
 branch-netloan: old
 branch-borrowing-ereaders-and-ipads: an iPad
@@ -34,5 +40,7 @@ branch-photocopying: available in colour and black and white up to A4 size
 branch-faxing: y
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: 'The library will close at 1:30pm on Christmas Eve.'
+branch-news: "<ul>
+              <li>The library is collecting hats for the YMCA's Hats for the Homeless campaign over the Christmas period.</li>
+              <li>The library will close at 1:30pm on Christmas Eve.</li>"
 ---

@@ -9,6 +9,6 @@ event-end-time: 1500
 breadcrumb: y
 ---
 
-Pick up some special Christmas treats, presents and decorations at our craft fair.
+Pick up some special Christmas treats, presents and decorations at our craft fair. Try your luck with our tombola and enjoy some tea and coffee.
 
 Visit the library foyer desk to book a table for £5.

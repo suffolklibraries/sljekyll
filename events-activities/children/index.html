@@ -6,6 +6,12 @@ jquery: true
 dynatable: true
 ---
 
+<div class="{% include /c/generic-panel.html %}">
+
+<p>Check out our <a href="/parents-carers-and-children/childrens-ya-books/childrens-advent-calendar-2017/">Christmas children's book advent calendar</a>.<p>
+
+</div>
+
 <p>Most libraries run regular activity sessions and events for children of all ages, including songs, rhymes, stories, playtimes, crafts, clubs, reading groups and Minecraft clubs.</p>
 
 <p>You can also check out our <a href="/events-activities/upcoming">special events</a>.</p>
@@ -22,7 +28,7 @@ dynatable: true
     </tr>
   </thead>
   <tbody>
-      
+
     {% assign recurrents = site.recurrents | where: "recurrent-category", "children" | sort: 'recurrent-location' %}
 
     {% for recurrent in recurrents %}

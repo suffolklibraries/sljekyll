@@ -33,8 +33,11 @@ branch-colour-printing: available
 branch-photocopying: available in A3 and A4, black and white and colour
 branch-scan-to-email: y
 branch-faxing: y
-branch-for-sale: "Poetry book collated by Newmarket Library Friend Christine - £5 each with all proceeds to Friends of Newmarket Library and St Nicholas Hospice.
-Three volumes of poetry by local poet Yvonne Zellen - £5 each with all proceeds to charity. £1 from every sale goes to Newmarket Library."
+branch-for-sale: "<ul>
+                  <li>Poetry book collated by Newmarket Library Friend Christine - £5 each with all proceeds to Friends of Newmarket Library and St Nicholas Hospice.</li>
+                  <li>Three volumes of poetry by local poet Yvonne Zellen - £5 each with all proceeds to charity. £1 from every sale goes to Newmarket Library.</li>
+                  <li>Friends of Newmarket Library 2018 calendars - £5.95.</li>
+                  </ul>"
 breadcrumb: y
 branch-news: 'The library will close at 1pm on Christmas Eve and 5pm on Friday 29 December.'
 ---
