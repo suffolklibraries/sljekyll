@@ -12,4 +12,4 @@ breadcrumb: y
 
 Pre-school children and their parents/carers are invited to our Christmas party where they can meet Santa.
 
-Please book in advance so Santa can get his order in with the elves!
+Please contact the library to book in advance so Santa can get his order in with the elves!
