@@ -83,6 +83,10 @@ The longlist for the UK was compiled by The Internatonal Board on Books for Youn
 
 > "Ahmed is a poor orphan boy who lives with a travelling circus. His life is changed when he finds a beautiful egg in the forest, and brings it back to the circus. From the egg hatches a child, a little girl called Aurelia, a child who, as she grows, sprouts soft feathers that turn into wings."
 
+## [<cite>The Little Mermaid and other fishy tales</cite>, by Jane Ray](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1570471)
+
+> "Introducing the second magnificent volume of tales collected, retold and illustrated by Jane Ray. This volume, includes something for everyone: <cite>The Fisherman and His Wife</cite>, <cite>Whalesong</cite>, <cite>The Lobster Quadrille</cite>, <cite>A Ballad of John Silver</cite> and many more."
+
 ## [<cite>Animasaurus: incredible animals that roamed the Earth</cite>, illustrated by Harriet Russell, written by Tracey Turner](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2055561)
 
 > "Did you know: A shark as long as a bus roamed the oceans? Hamsters with horns once burrowed the Earth? Giant armadillos grew to the size of a family car?
