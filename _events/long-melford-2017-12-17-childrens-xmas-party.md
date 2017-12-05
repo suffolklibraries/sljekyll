@@ -1,8 +1,8 @@
 ---
-id: lav-xmas
+id: long-xmas
 name: "Children's Christmas party"
-location: lavenham-library
-location-text: Lavenham Library
+location: long-melford-library
+location-text: Long Melford Library
 event-start-date: 2017-12-17
 event-start-time: 1400
 event-end-time: 1530
