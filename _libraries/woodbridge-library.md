@@ -24,7 +24,7 @@ branch-payments: cash, cheques and cards accepted
 branch-parking: Pay & Display available outside
 branch-bookdrop: y
 branch-toilet: y
-branch-other-facilities: Suffolk Coastal customer services
+branch-other-facilities: Suffolk Coastal customer services, Scout and Guide Christmas postbox
 branch-special-collections: Edward Fitzgerald collection, Seckford collection
 branch-display-space: Display boards and staffed table display available for hire
 branch-for-sale: Friends of Woodbridge Library cotton shopping bags (£3) and magnetic bookmarks (£1)

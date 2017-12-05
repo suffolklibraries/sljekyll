@@ -32,7 +32,7 @@ branch-room-hire: /libraries/room-hire/stowmarket-library
 breadcrumb: y
 branch-for-sale: 'Cards for Good Causes - charity and Suffolk Wildlife Christmas cards.'
 branch-news: '<ul>
-              <li>The library is collecting for Stowmarket Food Bank over the Christmas period.</li>
+              <li>The library is collecting for Stowmarket Foodbank over the Christmas period.</li>
               <li>The library will close at 1pm on Christmas Eve.</li>
               </ul>'
 ---
