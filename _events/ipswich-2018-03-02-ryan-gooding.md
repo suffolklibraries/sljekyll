@@ -3,7 +3,7 @@ id: ipswich-ryan
 name: "An evening with psychic Ryan Gooding"
 location: ipswich-county-library
 location-text: Ipswich County Library
-event-start-date: 2017-03-02
+event-start-date: 2018-03-02
 event-doors-open: 1930
 event-ticket-price: 10
 breadcrumb: y
