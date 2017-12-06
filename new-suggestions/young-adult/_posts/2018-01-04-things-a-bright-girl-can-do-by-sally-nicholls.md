@@ -20,10 +20,10 @@ genre-alt: Things a Bright Girl Can Do
 
 > "'You tell me that women are weak-willed! You tell me that women are weak-spirited, and foolish, and ignorant, and only fit to stay at home and raise the children.' The woman on the orange crate paused, and then added, 'Hardly seems fair on the children, does it?"
 
-Evelyn is a 17-year-old girl with a rich family and a sharp mind, but she will never be able to go to university like her brother. Her life is already planned for her, with her fiancé leading her around parties and dances. But this is not what she wants – Evelyn wants freedom, even if it means paying a high price by joining the Suffragettes.
+Evelyn is a 17-year-old girl with a rich family and a sharp mind, but she will never be able to go to university like her brother. Her life is already planned for her, with her fiancé leading her around parties and dances. But this is not what she wants – Evelyn wants freedom, even if it means paying a high price by joining the suffragettes.
 
-May is 15, and already campaigning for women's rights as a non-violent Suffragist. She and her mother fight peacefully and tirelessly for women's votes.
+May is 15, and already campaigning for women's rights as a non-violent suffragist. She and her mother fight peacefully and tirelessly for women's votes.
 
-When the First World War is declared, more women join the Suffragettes. This is when May meets Nell – a kind, loving girl whose impoverished upbringing is a shocking contrast to May's experiences of comfort and plenty. May sees past Nell's rough, tomboy exterior and reaches into Nell's heart. Together and in love, May and Nell fight alongside Evelyn whilst the war rages on. But what are they willing to sacrifice for their rights?
+When the First World War is declared, more women join the suffragettes. This is when May meets Nell – a kind, loving girl whose impoverished upbringing is a shocking contrast to May's experiences of comfort and plenty. May sees past Nell's rough, tomboy exterior and reaches into Nell's heart. Together and in love, May and Nell fight alongside Evelyn whilst the war rages on. But what are they willing to sacrifice for their rights?
 
 This was a really good read, with twists and turns that made me gasp. I really enjoyed it, and I recommend it to someone who enjoys romance and history and is interested in the reality of life 100 years ago.
