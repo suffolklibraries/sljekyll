@@ -28,5 +28,8 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: 'The library will close at 12:30pm on Christmas Eve.'
+branch-news: '<ul>
+              <li>The library is only able to offer a limited service <strong>from 10am-2pm on Friday 8 December</strong>. Self-service machines and computers will be available. Call customer services on <a href="tel:01473351249">01473 351249</a> or <strong>help@suffolklibraries.co.uk</strong> with any enquiries.</li>
+              <li>The library will close at 12:30pm on Christmas Eve.</li>
+              </ul>'
 ---
