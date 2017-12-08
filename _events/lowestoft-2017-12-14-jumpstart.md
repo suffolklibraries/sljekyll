@@ -10,3 +10,5 @@ breadcrumb: y
 ---
 
 Experience the work of students on Suffolk Artlink's recent Protest Arts module. There will be a live protest art performance, an exhibition and a pop-up shop.
+
+JumpsART is an arts training course for people with learning disabilities, offering students the chance to enjoy an in-depth exploration of an art form whilst developing creative and life skills.
