@@ -233,8 +233,6 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Fridays:**
 
-**2017:** 8 December
-
 **2018:** 5 January, 2 February, 2 March, **no visit on Good Friday**, 27 April, 25 May, 22 June, 20 July, 17 August, 14 September, 12 October, 9 November, 7 December
 
 **2019:** 4 January
