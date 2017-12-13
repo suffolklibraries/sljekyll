@@ -26,11 +26,11 @@ Here are some of the organisations and information sources available for a varie
 		<li><a href="#depression">Depression</a></li>
 		<li><a href="#employment">Employment</a></li>
 		<li><a href="#epilepsy">Epilepsy</a></li>
+		<li><a href="#hallucinations">Hallucinations and voice hearing</a></li>
 	</ul>
 	</div>
 	<div class="custom-g-l3 custom-g-nm">
 	<ul>
-		<li><a href="#hallucinations">Hallucinations and voice hearing</a></li>
 		<li><a href="#local">Local organisations</a></li>
 		<li><a href="#medication">Medication</a></li>
 		<li><a href="#miscarriage">Miscarriage and postnatal depression</a></li>
@@ -43,6 +43,7 @@ Here are some of the organisations and information sources available for a varie
 		<li><a href="#sexual">Sexual health</a></li>
 		<li><a href="#stress">Stress</a></li>
 		<li><a href="#suicide">Suicide prevention and family support</a></li>
+		<li><a href="#young">Young people</a></li>
 	</ul>
 	</div>
 </div> <!-- end .cf -->
@@ -230,4 +231,11 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="http://uk-sobs.org.uk/">Survivors of Bereavement by Suicide</a> - National helpline and local groups in Ipswich, Bury St Edmunds, Lowestoft and Norfolk that provide support for those affected by suicide</li>
 	<li><a href="http://media.wix.com/ugd/a72b48_5318444c562a4d6195afc6bf4ff116ff.pdf">Norfolk and Suffolk NHS Foundation Trust (PDF)</a> - Local suicide prevention strategy on providing care and support</li>
 	<li><a href="http://www.healthysuffolk.org.uk/projects/suffolk-lives-matter/">Suffolk Lives Matter</a> - 24/7 free and anonymous chat or email as well as information on Suffolk's Suicide Prevention Strategy</li>
+</ul>
+<h3 id="young">Young people</h3>
+<ul>
+	<li><a href="http://www.4yp.org.uk/services/expert">4YP (Suffolk Young People's Health Project)</a> - Provides and coordinates support to improve the social, emotional and physical health of young people in Suffolk (aged 12-25). Confidential online chat available with a 4YP expert also available.</li>
+	<li><a href="https://www.suffolk.gov.uk/children-families-and-learning/childrens-health/school-nursing/#tab2">ChatHealth</a> - People aged 11-19 can text their school nurse on <a href="tel:07507333356">07507333356</a> for an appointment or advice on many health issues including sexual health, emotional wellbeing, bullying and self-harm</li>
+	<li><a href="http://www.thesource.me.uk/">The Source</a> - Offers young people in Suffolk information, advice and support on health, work, training, relationships and more.</li>
+	<li><a href="https://www.healthwatchsuffolk.co.uk/news/in-focus-young-peoples-emotional-wellbeing-support-in-suffolk/">Healthwatch</a> - Latest information report on Children and Young people’s mental health in Suffolk and extensive list of organisations for support and information</li>
 </ul>

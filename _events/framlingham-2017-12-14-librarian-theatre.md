@@ -5,11 +5,13 @@ location: framlingham-library
 location-text: Framlingham Library
 event-start-date: 2017-12-14
 event-start-time: 1930
-event-ticket-price: 7.50, concessions £4
+event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 event-ticket-url: https://www.librariantheatre.com/product-page/beccleslibrary
 event-category: librarian-theatre
 breadcrumb: y
 ---
+
+**This event is SOLD OUT**
 
 Librarian Theatre will be performing their experimental new adaptation of <cite>Alice in Wonderland</cite>, <cite>Alice in the Cuckoo's Nest</cite>.
 This library tour is being partly funded by Arts Council England’s Grants for the Arts scheme.
