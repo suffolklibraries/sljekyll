@@ -35,7 +35,6 @@ branch-scan-to-email: y
 branch-faxing: y
 branch-for-sale: "<ul>
                   <li>Poetry book collated by Newmarket Library Friend Christine - £5 each with all proceeds to Friends of Newmarket Library and St Nicholas Hospice.</li>
-                  <li>Three volumes of poetry by local poet Yvonne Zellen - £5 each with all proceeds to charity. £1 from every sale goes to Newmarket Library.</li>
                   <li>Friends of Newmarket Library 2018 calendars - £5.95.</li>
                   </ul>"
 breadcrumb: y
