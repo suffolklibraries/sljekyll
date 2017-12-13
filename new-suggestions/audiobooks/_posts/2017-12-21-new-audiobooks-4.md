@@ -40,7 +40,7 @@ featured-link-text: Check out our newest audiobooks
 
 > "But everyone is left reeling when the meticulously orchestrated evening is blown apart before Kirsch's precious discovery can be revealed. With his life under threat, Langdon is forced into a desperate bid to escape, along with the museum's director, Ambra Vidal. Together they flee to Barcelona on a perilous quest to locate a cryptic password that will unlock Kirsch's secret."
 
-### [<cite>Sugar Money</cite>, by Jan Harris](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2296745)
+### [<cite>Sugar Money</cite>, by Jane Harris, read by James Goode](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2296745)
 
 > "Martinique, 1765, and brothers Emile and Lucien are charged by their French master, Father Cleophas, with a mission. They must return to Grenada, the island they once called home, and smuggle back the 42 slaves claimed by English invaders at the hospital plantation in Fort Royal.
 
@@ -84,7 +84,7 @@ featured-link-text: Check out our newest audiobooks
 
 > "Can DI Nikki Galena stop them before anyone else suffers?"
 
-### [<cite>A Thousand Splendid Sons</cite>, by Khaled Hosseini, read by Atossa Leoni](https://suffolklibraries.overdrive.com/media/143480)
+### [<cite>A Thousand Splendid Suns</cite>, by Khaled Hosseini, read by Atossa Leoni](https://suffolklibraries.overdrive.com/media/143480)
 
 > "<cite>A Thousand Splendid Suns</cite> is a breathtaking story set against the volatile events of Afghanistan's last thirty years - from the Soviet invasion to the reign of the Taliban to post-Taliban rebuilding - that puts the violence, fear, hope and faith of this country in intimate, human terms. It is a tale of two generations of characters brought jarringly together by the tragic sweep of war, where personal lives - the struggle to survive, raise a family, find happiness - are inextricable from the history playing out around them."
 
@@ -138,7 +138,7 @@ featured-link-text: Check out our newest audiobooks
 
 > "Their martyred sister’s advice is clear. ‘Learn you to die,’ Jane wrote in her famous letter to Katherine. But Jane’s tragic story and her fatal choice is only the beginning for her two beloved sisters..."
 
-### [<cite>A Time of Love and Tartan</cite>, by Alexander McCall Smith, read by  David Rintoul](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_448454&fromPage=1&b2bSite=4172)
+### [<cite>A Time of Love and Tartan</cite>, by Alexander McCall Smith, read by David Rintoul](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_448454&fromPage=1&b2bSite=4172)
 
 In the 12th title in the 44 Scotland Street series:
 
