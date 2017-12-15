@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Haverhill Library consults customers on opening hours"
+title: "Have your say on Haverhill Library's proposed new opening hours"
 date: 2017-12-15
 author: james-powell
 category: news
