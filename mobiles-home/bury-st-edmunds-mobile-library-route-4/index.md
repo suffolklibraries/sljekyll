@@ -233,6 +233,4 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Saturdays:**
 
-**2017:** 16 December
-
 **2018:** 13 January, 10 February, 10 March, 7 April, 5 May, 2 June, 30 June, 28 July, 25 August, 22 September, 20 October, 17 November, 15 December
