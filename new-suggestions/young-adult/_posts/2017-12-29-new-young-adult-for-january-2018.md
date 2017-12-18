@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: New Young Adult books for January 2018
-date: 2017-12-18
+date: 2017-12-29
 author: sophie-green
 category: young-adult
 excerpt: "Exciting new titles from Philippa Gregory, Emily Barr and Kerry Drewery"
