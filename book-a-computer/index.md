@@ -24,7 +24,7 @@ If you don't have a card number or don't remember your PIN please contact custom
 - [Debenham Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Elmswell Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Eye Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
-- [Felixstowe Library](http://netloan.suffolklibraries.co.uk/)
+- [Felixstowe Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Framlingham Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Gainsborough Community Library](http://netloan.suffolklibraries.co.uk/)
 - [Glemsford Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
