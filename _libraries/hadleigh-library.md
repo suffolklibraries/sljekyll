@@ -31,5 +31,5 @@ branch-faxing: y
 branch-room-hire: /libraries/room-hire/hadleigh-library
 breadcrumb: y
 branch-for-sale: 'Cards for Good Causes - charity and Suffolk Wildlife Christmas cards.'
-branch-news: 'The library will close at 1pm on Christmas Eve.'
+branch-news: 'The library will close at 1pm on Christmas Eve. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a>'
 ---

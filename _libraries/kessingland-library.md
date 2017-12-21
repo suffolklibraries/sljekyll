@@ -23,7 +23,7 @@ branch-photocopying: available
 branch-colour-printing: available
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: 'The library will close at 12:30pm on Christmas Eve.'
+branch-news: 'The library will close at 12:30pm on Christmas Eve. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a>'
 branch-other-facilities: "Food bank collection point all year round."
 branch-refreshments: "available in our café, run by Access Community Trust."
 ---

@@ -30,5 +30,5 @@ branch-photocopying: black and white available
 branch-scan-to-email: y
 branch-for-sale: "Special sale of ex-library books at knockdown prices now on."
 breadcrumb: y
-branch-news: 'The library will close at 1pm on Christmas Eve.'
+branch-news: 'The library will close at 1pm on Christmas Eve. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a>'
 ---

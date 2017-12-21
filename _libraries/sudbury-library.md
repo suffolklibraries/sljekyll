@@ -32,5 +32,5 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/sudbury-library
 branch-other-facilities: 'Sudbury Tourist Information Centre is located within the library. See the <a class="blue" href="http://www.sudburytowncouncil.co.uk/culture-toursim/tourist-information-centres.html">Tourist Information Centre page on the Sudbury Town Council website</a> for opening hours and contact details.'
 breadcrumb: y
-branch-news: 'The library will close at 1pm on Christmas Eve.'
+branch-news: 'The library will close at 1pm on Christmas Eve. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a>'
 ---

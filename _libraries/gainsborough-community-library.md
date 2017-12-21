@@ -33,8 +33,8 @@ branch-photocopying: black and white, A4 or A3 available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/gainsborough-community-library
 breadcrumb: y
-branch-news: "<ul>
-              <li>The library is collecting for the local foodbank and is hosting the Scouts' Christmas postbox over the Christmas period.</li>
-              <li>The library will close at 1:30pm on Christmas Eve.</li>
-              <ul>"
+branch-news: '<ul>
+              <li>The library is collecting for the local foodbank and is hosting the Scouts&#39; Christmas postbox over the Christmas period.</li>
+              <li>The library will close at 1:30pm on Christmas Eve. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a></li>
+              <ul>'
 ---

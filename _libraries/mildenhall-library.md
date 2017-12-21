@@ -26,7 +26,7 @@ branch-netloan: old
 branch-photocopying: A4 colour photocopying
 branch-colour-printing: A4 colour printing
 branch-scan-to-email: y
-branch-news: 'The library will close at 1pm on Christmas Eve.'
+branch-news: 'The library will close at 1pm on Christmas Eve. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a>'
 branch-for-sale: handmade cards, postage stamps
 breadcrumb: y
 ---

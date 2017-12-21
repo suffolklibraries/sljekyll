@@ -27,5 +27,5 @@ branch-photocopying: available
 branch-room-hire: /libraries/room-hire/framlingham-library
 breadcrumb: y
 branch-other-facilities: 'Framlingham Town Council services Mon-Thu 10am-4pm and at other times by arrangement. See the <a class="blue" href="http://www.framlingham.com/council.php">Framlingham Town Council website</a>.'
-branch-news: 'The library will close at 1:30pm on Christmas Eve.'
+branch-news: 'The library will close at 1:30pm on Christmas Eve. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a>'
 ---

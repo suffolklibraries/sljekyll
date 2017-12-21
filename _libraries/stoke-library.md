@@ -26,6 +26,6 @@ branch-colour-printing: available
 branch-photocopying: available on printer
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: 'The library will close at 11:30am on Christmas Eve.'
+branch-news: 'The library will close at 11:30am on Christmas Eve. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a>'
 branch-for-sale: 'Tickets for <a href="/events/ipswich-2018-03-02-ryan-gooding/">An evening with psychic Ryan Gooding</a> at Ipswich County Library on Friday 2 March 2018.'
 ---
