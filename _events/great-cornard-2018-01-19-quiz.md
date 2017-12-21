@@ -1,6 +1,6 @@
 ---
 id: corn-quiz
-name: "Quiz with fish and chips"
+name: "Quiz with fish and chips from the Friends of Great Cornard Library"
 location: great-cornard-library
 location-text: Great Cornard Library
 event-start-date: 2018-01-19
