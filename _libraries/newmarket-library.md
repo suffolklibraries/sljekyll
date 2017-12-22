@@ -38,5 +38,8 @@ branch-for-sale: "<ul>
                   <li>Friends of Newmarket Library 2018 calendars - £5.95.</li>
                   </ul>"
 breadcrumb: y
-branch-news: 'The library will close at 1pm on Christmas Eve and 5pm on Friday 29 December. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a>'
+branch-news: '<ul>
+              <li><The library will close at 1pm on Christmas Eve and 5pm on Friday 29 December. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a>
+              <li>The library is looking for volunteers to help run its Baby Bounce and Tot Rock sessions on Tuesday and Thursday mornings. If you enjoy interacting with parents, babies and toddlers and are confident singing songs and rhymes, please speak to a member of staff or <a href="/volunteer/volunteer-application-form/">fill in our online volunteer application form</a>.</li>
+              </ul>'
 ---

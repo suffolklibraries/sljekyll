@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Tot Rock"
-recurrent-description: "Songs and action rhymes for toddlers."
+recurrent-description: "Songs and action rhymes for toddlers. If you are interested, please ask a member of staff or <a href="/volunteer/volunteer-application-form/">fill in our online volunteer application form</a>."
 recurrent-day: Thursday
 recurrent-times: 1000-1030
 recurrent-location: newmarket-library
