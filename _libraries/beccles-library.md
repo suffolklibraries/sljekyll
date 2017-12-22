@@ -31,7 +31,6 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/beccles-library
 branch-display-space: Double-sided noticeboard for non-commercial event posters
 breadcrumb: y
-branch-for-sale: 'Cards for Good Causes - charity and Suffolk Wildlife Christmas cards.'
 branch-other-facilities: '1940s, 1950s, 1960s and 1970s memory boxes available to local borrowers for up to three weeks. No library card required. Contact the library for more information.'
 branch-news: 'The library will close at 1pm on Christmas Eve. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a>'
 ---

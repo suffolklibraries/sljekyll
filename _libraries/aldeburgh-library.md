@@ -33,5 +33,4 @@ branch-room-hire: /libraries/room-hire/aldeburgh-library
 branch-display-space: "Two cork boards in the foyer: displays adverts for anyone selling items."
 breadcrumb: y
 branch-news: 'The library will close at 12:30pm on Christmas Eve. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a>'
-branch-for-sale: 'Cards for Good Causes - charity and Suffolk Wildlife Christmas cards.'
 ---
