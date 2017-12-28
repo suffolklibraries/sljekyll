@@ -32,6 +32,6 @@ branch-for-sale: "Special sale of ex-library books at knockdown prices now on."
 breadcrumb: y
 branch-news: '<ul>
               <li><a href="/news/chantry-library-temporarily-closed-sundays/">The library will be closed on Sundays 24 and 31 December and 7, 14 and 21 January</a> The closest alternative library is <a href="/libraries/stoke-library/">Stoke Library</a>.
-              <li><a href="/news/xmas-opening-hours/">See all our Christmas opening hours</a>.</li>
+              <li><a href="/news/xmas-opening-hours/">Check our Christmas opening hours</a>.</li>
               </ul>'
 ---

@@ -32,5 +32,5 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/aldeburgh-library
 branch-display-space: "Two cork boards in the foyer: displays adverts for anyone selling items."
 breadcrumb: y
-branch-news: 'The library will close at 12:30pm on Christmas Eve. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a>'
+branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 ---

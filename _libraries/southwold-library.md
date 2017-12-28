@@ -40,5 +40,5 @@ branch-scan-to-email: y
 breadcrumb: y
 branch-news: '<ul>
               <li>The library is collecting hats for the YMCA&#39;s Hats for the Homeless campaign over the Christmas period.</li>
-              <li>The library will close at 1:30pm on Christmas Eve. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a></li>'
+              <li><a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a></li>'
 ---

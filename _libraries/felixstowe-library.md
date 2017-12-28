@@ -28,5 +28,5 @@ branch-colour-printing: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/felixstowe-library
 breadcrumb: y
-branch-news: 'The library will close at 1pm on Christmas Eve. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a>'
+branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 ---

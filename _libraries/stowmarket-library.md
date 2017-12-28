@@ -32,6 +32,6 @@ branch-room-hire: /libraries/room-hire/stowmarket-library
 breadcrumb: y
 branch-news: '<ul>
               <li>The library is collecting for Stowmarket Foodbank over the Christmas period.</li>
-              <li>The library will close at 1pm on Christmas Eve. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a></li>
+              <li><a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a></li>
               </ul>'
 ---

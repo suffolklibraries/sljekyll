@@ -35,6 +35,6 @@ branch-display-space: Small table top/banner display spaces available in the foy
 breadcrumb: y
 branch-news: '<ul>
               <li><a href="/news/haverhill-library-consults-opening-hours/">Have your say on Haverhill Library&#39;s proposed new opening hours</a></li>
-              <li>The library will close at 1pm on Christmas Eve. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a></li>
+              <li><a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a></li>
               </ul>'
 ---

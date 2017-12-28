@@ -34,5 +34,5 @@ branch-faxing: y
 branch-room-hire: /libraries/room-hire/halesworth-library
 breadcrumb: y
 branch-for-sale: 'Reading glasses and accessories from ReadySpex.'
-branch-news: 'The library will close at 12:30pm on Christmas Eve. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a>'
+branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 ---

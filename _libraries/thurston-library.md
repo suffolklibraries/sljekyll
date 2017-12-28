@@ -31,5 +31,5 @@ branch-scan-to-email: y
 branch-faxing: y
 branch-borrowing-ereaders-and-ipads: an eReader
 breadcrumb: y
-branch-news: 'The library will close at 12:30pm on Christmas Eve. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a>'
+branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 ---

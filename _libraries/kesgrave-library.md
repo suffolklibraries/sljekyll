@@ -32,5 +32,5 @@ branch-photocopying: available in black and white (A4 or A3) or colour (A4)
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/kesgrave-library
 breadcrumb: y
-branch-news: 'The library will close at 12:30pm on Christmas Eve. <a href="/news/xmas-opening-hours/">See all our Christmas opening hours.</a>'
+branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 ---
