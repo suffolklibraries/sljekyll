@@ -8,7 +8,7 @@ hero-alt: Sporting Memories photo collage
 
 <div class="{% include /c/generic-panel.html %}">
 
-    <p>We're looking for friendly, enthusiastic volunteers to help run our Sporting Memories groups. <a href="/events-activities/sporting-memories/volunteer-for-sporting-memories/">Find out more &rarr;</a></p>
+    <p><a href="/events-activities/sporting-memories/volunteer-for-sporting-memories/">Find out about volunteering with our Sporting Memories groups &rarr;</a></p>
 
 </div>
 
@@ -43,4 +43,4 @@ We've teamed up with the Sporting Memories Network to host six Sporting Memories
 
 Just come along to a session to find out more, whether for yourself or someone else.
 
-People with dementia and other mental illnesses are especially welcome.
+People with dementia and mental health difficulties are especially welcome.
