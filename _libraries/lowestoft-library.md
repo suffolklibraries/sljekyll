@@ -36,5 +36,5 @@ branch-faxing: y
 branch-room-hire: /libraries/room-hire/lowestoft-library
 breadcrumb: y
 branch-other-facilities: 'Lowestoft branch of the Suffolk Record Office on the first floor. See the <a class="blue" href="https://www.suffolkarchives.co.uk/planning-your-visit/suffolk-record-office-branches/lowestoft-branch/">Suffolk Record Office website</a> for opening hours and contact details.'
-branch-news: 'The library will close at 1pm on Christmas Eve.'
+branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 ---

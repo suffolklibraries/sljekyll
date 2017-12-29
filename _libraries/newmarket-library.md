@@ -20,7 +20,7 @@ branch-social-media: y
 branch-facebook: friendsofnewmarketlibrary
 branch-twitter: newmarketlib
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/newmarket-library-2
-branch-payments: cash, cheques and cards accepted
+branch-payments: "cash, cheques and cards (£1 minimum payment, contactless up to £30) accepted"
 branch-parking: two public car parks within 5 minutes' walk
 branch-bookdrop: y
 branch-special-collections: Racing collection
@@ -38,5 +38,8 @@ branch-for-sale: "<ul>
                   <li>Friends of Newmarket Library 2018 calendars - £5.95.</li>
                   </ul>"
 breadcrumb: y
-branch-news: 'The library will close at 1pm on Christmas Eve and 5pm on Friday 29 December.'
+branch-news: '<ul>
+              <li><a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>
+              <li>The library is looking for volunteers to help run its Baby Bounce and Tot Rock sessions on Tuesday and Thursday mornings. If you enjoy interacting with parents, babies and toddlers and are confident singing songs and rhymes, please speak to a member of staff or <a href="/volunteer/volunteer-application-form/">fill in our online volunteer application form</a>.</li>
+              </ul>'
 ---

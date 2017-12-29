@@ -32,6 +32,6 @@ branch-room-hire: /libraries/room-hire/elmswell-library
 breadcrumb: y
 branch-news: '<ul>
               <li>Elmswell Library are <a href="/news/elmswell-library-offers-festive-support/">offering extra support to lonely and isolated customers and collecting for Gatehouse Foodbank during December</a>.</li>
-              <li>The library will close at 12:30pm on Christmas Eve.</li>
+              <li><a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a></li>
               </ul>'
 ---

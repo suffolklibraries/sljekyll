@@ -28,9 +28,7 @@ branch-for-sale: "<ul>
                   <li>Reydon and Southwold Pantomime Group <cite>Robinson Crusoe</cite> (21-27 January 2018) tickets; £8.50 adults, £4.50 under 16s, £20.50 family.</li>
                   <li>Crafts, Southwold and Suffolk Coast Treasure Trails sheets.</li>
                   <li>Local authors' books.</li>
-                  <li>Branded bags and pens.</li>
-                  <li>Southwold Voluntary Help Centre Christmas cards.</li>
-                  </ul>"
+                  <li>Branded bags and pens.</li>"
 branch-other-facilities: laminating (up to A4), foodbank collection point all year round.
 branch-wifi: y
 branch-netloan: old
@@ -40,7 +38,7 @@ branch-photocopying: available in colour and black and white up to A4 size
 branch-faxing: y
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: "<ul>
-              <li>The library is collecting hats for the YMCA's Hats for the Homeless campaign over the Christmas period.</li>
-              <li>The library will close at 1:30pm on Christmas Eve.</li>"
+branch-news: '<ul>
+              <li>The library is collecting hats for the YMCA&#39;s Hats for the Homeless campaign over the Christmas period.</li>
+              <li><a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a></li>'
 ---

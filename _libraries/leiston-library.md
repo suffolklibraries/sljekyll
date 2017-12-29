@@ -33,5 +33,5 @@ branch-faxing: y
 breadcrumb: y
 branch-for-sale: books of stamps
 branch-other-facilities: "Art in the Library - exhibitions of local artists' work"
-branch-news: 'The library will close at 12:30pm on Christmas Eve.'
+branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 ---

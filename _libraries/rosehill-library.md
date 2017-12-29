@@ -27,5 +27,5 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/rosehill-library
 breadcrumb: y
-branch-news: 'The library will close at 1:30pm on Christmas Eve.'
+branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 ---

@@ -19,6 +19,14 @@ breadcrumb: young-adult
 
 This eagerly-awaited multiple award winner in the State is finally published in the UK. Written in free verse, the action takes place over 60 seconds. Universal have already optioned the rights to a film version.
 
+## [<cite>Love, Hate & Other Filters</cite>, by Samira Ahmed](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2305526)
+
+> "Maya Aziz dreams of being a film maker in New York. Her family have other ideas. They want her to be a dutiful daughter who wears gold jewellery and high heels and trains to be a doctor. But jewellery and heels are so uncomfortable.
+
+> "She's also caught between the guy she should like and the guy she does like. But she doesn't want to let Kareem down and things with Phil would never work out anyway. Would they? 
+
+> "Then a suicide bomber who shares her last name strikes in a city hundreds of miles away and everything changes."
+
 ## [<cite>Zenith</cite>, by Sasha Alsberg & Lindsay Cummings](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2168643)
 
 > "There is darkness sweeping across the stars. Most know Androma Racella as the Bloody Baroness: a powerful mercenary whose reign of terror stretches across the Mirabel Galaxy. To those aboard her fearsome glass starship the Maurader, she's just Andi, their captain and protector.

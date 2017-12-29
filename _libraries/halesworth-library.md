@@ -33,6 +33,6 @@ branch-scan-to-email: y
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/halesworth-library
 breadcrumb: y
-branch-for-sale: 'Reading glasses and accessories from ReadySpex, Cards for Good Causes - charity and Suffolk Wildlife Christmas cards.'
-branch-news: 'The library will close at 12:30pm on Christmas Eve.'
+branch-for-sale: 'Reading glasses and accessories from ReadySpex.'
+branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 ---
