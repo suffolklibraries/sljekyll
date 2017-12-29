@@ -4,7 +4,7 @@ title: "Join the squad with our new Sporting Memories groups"
 date: 2017-12-29
 author: james-powell
 category: news
-excerpt: 'We're teaming up with the Sporting Memories Network to host Sporting Memories reminiscence groups at six of our libraries.'
+excerpt: "We're teaming up with the Sporting Memories Network to host Sporting Memories reminiscence groups at six of our libraries."
 breadcrumb: news
 ---
 
@@ -25,4 +25,4 @@ Richard Hunt, Sporting Memories Suffolk project manager, said: “Sport is a pow
 James Powell, marketing and communications manager at Suffolk Libraries, added: “We are delighted to be working with Sporting Memories in 2018. Sport has touched all of our lives at some time, either at school, as an activity, spectator, or in our leisure time. Using the Sporting Memories collections and resources are an excellent way to reconnect with those experiences, bring friends together and have fun.”
 
 * To find out more about the new groups, visit our [Sporting Memories page](/events-activities/sporting-memories/).
-* If you're interested in volunteering, visit our [Sporting Memories volunteering page](/events-activities/sporting-memories/volunteer-for-sporting-memories/). 
+* If you're interested in volunteering, visit our [Sporting Memories volunteering page](/events-activities/sporting-memories/volunteer-for-sporting-memories/).
