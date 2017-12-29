@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Royal British Legion drop-in"
-recurrent-description: "Information, advice & guidance for serving members of the armed forces, reservists, veterans & their families. No session in December."
+recurrent-description: "Information, advice & guidance for serving members of the armed forces, reservists, veterans & their families."
 recurrent-day: fourth Friday of the month
 recurrent-times: 1000-1200
 recurrent-location: haverhill-library

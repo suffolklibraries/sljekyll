@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Story time and coffee morning for adults"
-recurrent-description: "Listen to a story, enjoy tea or coffee for a small charge, and stay for a chat. No session 14, 21 or 28 December."
+recurrent-description: "Listen to a story, enjoy tea or coffee for a small charge, and stay for a chat."
 recurrent-day: Thursdays
 recurrent-times: 1030
 recurrent-location: aldeburgh-library

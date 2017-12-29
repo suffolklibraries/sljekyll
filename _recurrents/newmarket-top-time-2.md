@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Top Time: events and activities for older people - no session 28 December"
+recurrent-title: "Top Time: events and activities for older people"
 recurrent-day: Thursday
 recurrent-times: 1430-1530
 recurrent-location: newmarket-library
