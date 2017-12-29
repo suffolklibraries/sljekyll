@@ -10,4 +10,4 @@ A full library service is provided in all prisons in Suffolk, funded by the Home
 For more information contact us:
 
 * Email: **help@suffolklibraries.co.uk**
-* Telephone: **01473 263838**
+* Telephone: **01473 351249**

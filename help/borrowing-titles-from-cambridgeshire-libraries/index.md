@@ -52,4 +52,4 @@ You can choose which service you borrow a book from.
 
 Once you’ve completed your reservation we’ll tell you when it’s available in the normal way and you’ll be able to collect it from the library you chose earlier in the process.
 
-If you have any questions about this process email <help@suffolklibraries.co.uk> or call 01473 263838.
+If you have any questions about this process email <help@suffolklibraries.co.uk> or call 01473 351249.

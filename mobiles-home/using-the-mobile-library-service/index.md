@@ -9,7 +9,7 @@ If you live in Suffolk or a neighbouring county complete the [online form](https
 
 Alternatively, visit any Suffolk Mobile library with proof of identification and we&#8217;ll give you a card.
 
-It&#8217;s free. Children and young people up to the age of 16 need a guarantor. To use any of our online services you&#8217;ll also need a PIN. If you don&#8217;t know your PIN contact a member of staff, telephone 01473 263838 or email help@suffolklibraries.co.uk
+It&#8217;s free. Children and young people up to the age of 16 need a guarantor. To use any of our online services you&#8217;ll also need a PIN. If you don&#8217;t know your PIN contact a member of staff, telephone 01473 351249 or email help@suffolklibraries.co.uk
 
 ## Costs
 
