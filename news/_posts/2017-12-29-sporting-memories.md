@@ -14,7 +14,7 @@ These new groups for over-50s will be starting at Hadleigh Library, Ipswich Coun
 
 Anyone is welcome to come along to a session to find out more, whether it’s for themselves or a relative or friend. People with dementia and mental health difficulties are especially welcome. The groups cover all types of sport, though we expect that as 2018 marks 40 years since Ipswich Town won the FA Cup, the 1978 cup run will be a particular topic of conversation!
 
-We are also looking for volunteers to run and support these groups. Volunteers will receive full training at a special induction on Tuesday 23 January at Quay Place, Key Street, Ipswich.
+We are also looking for volunteers to run and support these groups. Volunteers will receive full training at a special induction on Tuesday 23 January from 10am - 2pm at Quay Place, Key Street, Ipswich.
 
 We will be launching the Sporting Memories groups on Tuesday 30 January at Ipswich County Library. Local Suffolk sporting ambassadors will be sharing some of their stories, and anyone is welcome to bring along their own memorabilia and photographs to trigger memories and start conversations.
 
