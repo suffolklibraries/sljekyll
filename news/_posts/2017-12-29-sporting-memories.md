@@ -16,7 +16,7 @@ Anyone is welcome to come along to a session to find out more, whether it’s fo
 
 We are also looking for volunteers to run and support these groups. Volunteers will receive full training at a special induction on Tuesday 23 January from 10am - 2pm at Quay Place, Key Street, Ipswich.
 
-We will be launching the Sporting Memories groups on Tuesday 30 January at Ipswich County Library. Local Suffolk sporting ambassadors will be sharing some of their stories, and anyone is welcome to bring along their own memorabilia and photographs to trigger memories and start conversations.
+We will be launching the Sporting Memories groups on Tuesday 6 February at Ipswich County Library. Local Suffolk sporting ambassadors will be sharing some of their stories, and anyone is welcome to bring along their own memorabilia and photographs to trigger memories and start conversations.
 
 Richard Hunt, Sporting Memories Suffolk project manager, said: “Sport is a powerful medium for many people, providing memories of great games, sporting legends and marvellous victories, but also the friendships made and the sense of community that playing or watching sports brings. Talking about sporting events and cultures of the time helps to give people their identity back and reconnect them to the people and generations around them.
 
