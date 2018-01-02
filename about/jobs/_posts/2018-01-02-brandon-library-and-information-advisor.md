@@ -26,7 +26,7 @@ We're looking for a library and information advisor at Brandon Library. We're lo
 
 If you have experience in a customer facing role, enjoy helping people, have a willingness to work within a team in a busy environment and an interest in books and computers, we would like to hear from you.
 
-This position is for 6.5 hours per week working alternate Sundays.
+This position is for 6.5 hours per week working alternate Saturdays.
 
 The rate of pay is &pound;8.01 per hour.
 
