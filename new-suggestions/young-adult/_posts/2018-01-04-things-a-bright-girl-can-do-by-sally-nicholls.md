@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: Things a Bright Girl Can Do by Sally Nicholls
-date: 2018-01-04
+date: 2018-01-02
 author: amelie-magotte
 category: young-adult
 excerpt: 'Amélie recommends <cite>Things a Bright Girl Can Do</cite> to fans of history and romance.'
