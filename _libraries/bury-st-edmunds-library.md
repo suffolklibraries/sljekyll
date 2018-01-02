@@ -32,6 +32,5 @@ branch-faxing: y
 branch-room-hire: /libraries/room-hire/bury-st-edmunds-library
 branch-display-space: Space available for table top or banner displays in internal and external foyer. Public notice board also available.
 breadcrumb: y
-branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 branch-other-facilities: 'Board Games available to borrow - see the <a href="/assets/pdf/bury-board-games.pdf">Bury board games information sheet</a> (PDF) for further information.'
 ---

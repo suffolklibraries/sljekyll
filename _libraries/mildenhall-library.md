@@ -26,7 +26,6 @@ branch-netloan: old
 branch-photocopying: A4 colour photocopying
 branch-colour-printing: A4 colour printing
 branch-scan-to-email: y
-branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 branch-for-sale: handmade cards, postage stamps
 breadcrumb: y
 ---

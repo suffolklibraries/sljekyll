@@ -38,8 +38,5 @@ branch-for-sale: "<ul>
                   <li>Friends of Newmarket Library 2018 calendars - £5.95.</li>
                   </ul>"
 breadcrumb: y
-branch-news: '<ul>
-              <li><a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>
-              <li>The library is looking for volunteers to help run its Baby Bounce and Tot Rock sessions on Tuesday and Thursday mornings. If you enjoy interacting with parents, babies and toddlers and are confident singing songs and rhymes, please speak to a member of staff or <a href="/volunteer/volunteer-application-form/">fill in our online volunteer application form</a>.</li>
-              </ul>'
+branch-news: 'The library is looking for volunteers to help run its Baby Bounce and Tot Rock sessions on Tuesday and Thursday mornings. If you enjoy interacting with parents, babies and toddlers and are confident singing songs and rhymes, please speak to a member of staff or <a href="/volunteer/volunteer-application-form/">fill in our online volunteer application form</a>.'
 ---

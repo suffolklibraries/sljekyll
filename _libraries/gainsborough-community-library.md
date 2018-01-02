@@ -33,5 +33,8 @@ branch-photocopying: black and white, A4 or A3 available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/gainsborough-community-library
 breadcrumb: y
+<<<<<<< HEAD
 branch-news: 'Gainsborough Library is currently closed due to problems with its heating system. We expect it to reopen on Tue 2 Jan.'
+=======
+>>>>>>> avfri
 ---

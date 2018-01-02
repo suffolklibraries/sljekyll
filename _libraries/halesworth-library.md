@@ -34,5 +34,4 @@ branch-faxing: y
 branch-room-hire: /libraries/room-hire/halesworth-library
 breadcrumb: y
 branch-for-sale: 'Reading glasses and accessories from ReadySpex.'
-branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 ---

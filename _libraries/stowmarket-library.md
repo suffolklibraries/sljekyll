@@ -30,8 +30,4 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/stowmarket-library
 breadcrumb: y
-branch-news: '<ul>
-              <li>The library is collecting for Stowmarket Foodbank over the Christmas period.</li>
-              <li><a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a></li>
-              </ul>'
 ---

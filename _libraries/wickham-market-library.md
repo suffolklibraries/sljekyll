@@ -26,5 +26,4 @@ branch-photocopying: available
 branch-colour-printing: available
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 ---

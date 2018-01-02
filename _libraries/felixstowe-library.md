@@ -28,5 +28,4 @@ branch-colour-printing: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/felixstowe-library
 breadcrumb: y
-branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 ---

@@ -27,6 +27,5 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/kedington-library
 branch-borrowing-ereaders-and-ipads: an iPad
-branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 breadcrumb: y
 ---

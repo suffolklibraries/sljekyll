@@ -23,7 +23,6 @@ branch-photocopying: available
 branch-colour-printing: available
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
-branch-other-facilities: "Food bank collection point all year round."
+branch-other-facilities: "Food bank collection point."
 branch-refreshments: "available in our café, run by Access Community Trust."
 ---
