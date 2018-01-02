@@ -31,5 +31,4 @@ branch-scan-to-email: y
 branch-faxing: y
 branch-borrowing-ereaders-and-ipads: an eReader
 breadcrumb: y
-branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 ---

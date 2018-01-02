@@ -32,5 +32,4 @@ branch-photocopying: available in black and white (A4 or A3) or colour (A4)
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/kesgrave-library
 breadcrumb: y
-branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 ---

@@ -32,5 +32,4 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/sudbury-library
 branch-other-facilities: 'Sudbury Tourist Information Centre is located within the library. See the <a class="blue" href="http://www.sudburytowncouncil.co.uk/culture-toursim/tourist-information-centres.html">Tourist Information Centre page on the Sudbury Town Council website</a> for opening hours and contact details.'
 breadcrumb: y
-branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 ---

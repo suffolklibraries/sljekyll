@@ -38,7 +38,4 @@ branch-photocopying: available in colour and black and white up to A4 size
 branch-faxing: y
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: '<ul>
-              <li>The library is collecting hats for the YMCA&#39;s Hats for the Homeless campaign over the Christmas period.</li>
-              <li><a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a></li>'
 ---

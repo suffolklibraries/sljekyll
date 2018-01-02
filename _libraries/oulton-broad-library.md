@@ -26,5 +26,4 @@ branch-photocopying: A4 available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/oulton-broad-library
 breadcrumb: y
-branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 ---

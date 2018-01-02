@@ -26,6 +26,5 @@ branch-colour-printing: available
 branch-photocopying: available on printer
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 branch-for-sale: 'Tickets for <a href="/events/ipswich-2018-03-02-ryan-gooding/">An evening with psychic Ryan Gooding</a> at Ipswich County Library on Friday 2 March 2018.'
 ---
