@@ -13,27 +13,18 @@ expiry-date: 2018-01-19
 We're looking for 2 caretakers at Lowestoft Library. We're looking for individuals who can:
 
 - Be a visible presence and carry out regular security patrols within and around the building
-
 - Maintain security, acting as key holder, and assisting with public order, taking appropriate action to ensure safety of users and staff
-
 - Maintain high standards of cleanliness and presentation within the premises
-
 - Meet basic repair and maintenance needs of the building and surrounding area
-
 - Move furniture around the building as required
-
 - Be customer-orientated and achieve good customer relations.
 
 The successful candidate will have:
 
 - The ability to communicate with a wide cross-section of people
-
 - Knowledge of IT skills to include emails and completing online forms
-
 - Basic DIY skills using hand and power tools
-
 - The ability to deal with difficult and disruptive people confidently and appropriately
-
 - Basic knowledge of health and safety requirements.
 
 **Role 1** is for on average 18.63 hours per week and will include alternate weekends and one evening shift
