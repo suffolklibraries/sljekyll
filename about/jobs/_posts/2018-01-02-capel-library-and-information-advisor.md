@@ -26,7 +26,7 @@ We're looking for a library and information advisor at Capel St Mary Library. We
 
 If you have experience in a customer facing role, enjoy helping people, have a willingness to work within a team in a busy environment and an interest in books and computers, we would like to hear from you.
 
-This position is for 1.5 hours on average per week and will include alternate Sundays.
+This position is for 1.5 hours on average per week working alternate Saturdays (3 hours).
 
 The rate of pay is &pound;8.01 per hour.
 
