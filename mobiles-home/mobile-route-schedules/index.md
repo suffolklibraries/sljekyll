@@ -129,14 +129,6 @@ breadcrumb: mobiles-home
 
 ### Saxmundham Mobile Library {#sax}
 
-<div class="{% include /c/generic-panel.html %}">
-
-    <p>Please note the Saxmundham Mobile library is currently broken and we don't expect it to run until <strong>Wednesday 3 January 2018</strong>. We will extend any loans due back while the mobile library is unavailable. Call 01473 351249 or email help@suffolklibraries.co.uk if you have any questions.</p>
-
-    <p>You can also <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB">renew your titles online</a>.</p>
-
-</div>
-
 #### Week 1
 
   * [Route 1 Tuesdays](/mobiles-home/saxmundham-mobile-library-route-1/ "Saxmundham Mobile Library Route 1")
