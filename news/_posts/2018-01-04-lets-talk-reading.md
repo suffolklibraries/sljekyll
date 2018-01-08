@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Ipswich Schools sign up to Reading Pledge"
+title: "Ipswich schools sign up to Reading Pledge"
 date: 2018-01-04
 author: james-powell
 category: news

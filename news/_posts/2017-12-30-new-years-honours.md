@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Suffolk Libraries Chief Executive recognised in New Year's Honours list"
+title: "Suffolk Libraries chief executive recognised in New Year's Honours list"
 date: 2017-12-30
 author: james-powell
 category: news
