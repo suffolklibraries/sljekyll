@@ -6,6 +6,7 @@ location-text: Ipswich County Library
 event-start-date: 2018-02-01
 event-start-time: 1630
 event-ticket-price: 4
+event-category: harry-potter
 breadcrumb: y
 ---
 
