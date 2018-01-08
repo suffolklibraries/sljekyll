@@ -59,6 +59,8 @@ Here are some of the organisations and information sources available for a varie
 <h3 id="alcohol">Alcohol and drug dependency</h3>
 <ul>
 	<li><a href="http://www.al-anonuk.org.uk">Al-anon</a> - National organisation with local groups offering support for family members affected by alcoholism</li>
+	<li><a href="http://www.alcoholics-anonymous.org.uk">Alcoholics Anonymous</a> - National organisation providing information and support groups for those recovering from alcoholism</li>
+	<li><a href="http://www.aainsuffolk.co.uk/">Alcoholics Anonymous in Suffolk</a> - Local support groups and information for those recovering from alcoholism</li>
 	<li><a href="http://www.hopefsg.org.uk/">HOPE family support group</a> - Ipswich based group providing information and support for family members and friends affected by alcoholism</li>
 	<li><a href="http://www.drinkaware.co.uk">Drinkaware</a> - Hints and tips on managing alcohol intake and fact sheets</li>
 	<li><a href="http://www.focus12.co.uk">Focus 12</a> - Drug and alcohol rehabilitation charity based in Bury St Edmunds</li>
