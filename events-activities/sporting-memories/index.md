@@ -36,7 +36,7 @@ We've teamed up with the Sporting Memories Network to host six Sporting Memories
       <li><a href="/libraries/lowestoft-library/">Lowestoft Library</a> - TBC</li>
       <li><a href="/libraries/newmarket-library/">Newmarket Library</a> - Fridays, 10:30am - 12:15pm from 9 February</li>
       <li><a href="/libraries/stowmarket-library/">Stowmarket Library</a> - Wednesdays, 10:30am - 12:15pm from 7 February</li>
-      <li><a href="/libraries/sudbury-library/">Sudbury Library</a> - TBC</li>
+      <li><a href="/libraries/sudbury-library/">Sudbury Library</a> - Tuesdays, 10:30am - 12:15pm from 13 February</li>
     </ul>
 
 </div>
