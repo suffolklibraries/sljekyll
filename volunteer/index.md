@@ -49,7 +49,7 @@ There are various volunteering opportunities across the county:
 
 To find out more about what our volunteers do, see our [volunteer case studies](/volunteer/volunteer-case-studies/)
 
-If you want to get involved, [contact your library](/libraries/) or [complete our form](/volunteer/volunteer-application-form/).
+If you want to get involved, [contact your local library](/libraries/).
 
 **If you’re thinking of volunteering take a look at our Volunteer and Equal Opportunities policies:**
 

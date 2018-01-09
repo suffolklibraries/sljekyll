@@ -27,5 +27,3 @@ Ipswich, IP1 3DE<br>
 Email: hls@suffolklibraries.co.uk
 
 Tel: 07752 380859
-
-Or [complete our volunteering form](/volunteer/volunteer-application-form/).

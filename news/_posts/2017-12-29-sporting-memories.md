@@ -26,3 +26,4 @@ James Powell, marketing and communications manager at Suffolk Libraries, added: 
 
 * To find out more about the new groups, visit our [Sporting Memories page](/events-activities/sporting-memories/).
 * If you're interested in volunteering, visit our [Sporting Memories volunteering page](/events-activities/sporting-memories/volunteer-for-sporting-memories/).
+* We've also put together a [list of our favourite sporting books](/new-suggestions/articles/sport-books/) to help you relive your memories.
