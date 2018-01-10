@@ -27,7 +27,7 @@ branch-special-collections: Racing collection
 branch-other-facilities: '<ul>
                           <li>Laminating service - £1 for A4, £2 for A3. Please allow 30 minutes for laminating. We cannot accept responsibility for any damage so laminating copies rather than originals of valuable items.</li>
                           <li><a href="http://www.westsuffolk.gov.uk/parking/Travel/shopmobility.cfm">Shopmobility:</a> hire an electric wheelchair or scooter from Newmarket Library if you have any mobility problems</li>
-                          </ul>''
+                          </ul>'
 branch-display-space: Wall space available for exhibition hire
 branch-wifi: y
 branch-netloan: new
