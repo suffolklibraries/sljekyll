@@ -1,7 +1,8 @@
 ---
 recurrent-title: "Ball sports for children from Positive Futures"
-recurrent-day: Friday
-recurrent-times: 1545-1645
+recurrent-description: "On hiatus - watch this space for updates"
+recurrent-day: "n/a"
+recurrent-times: "n/a"
 recurrent-location: chantry-library
 recurrent-location-display-name: Chantry Library
 recurrent-location-display-url: /branches/chantry-library/
