@@ -4,14 +4,14 @@ title: "New children's books for February 2018"
 date: 2018-01-29
 author: sophie-green
 category: childrens-ya-books
-excerpt: "."
+excerpt: "Are You There Little Bunny?, Twister, Under the Canopy"
 featured-image: /images/featured/featured-childrens-february-2018.jpg
-featured-alt: ""
+featured-alt: "This month's titles feature fictional and real-life heroes."
 featured-link-text: "Check out our latest titles for children."
 breadcrumb: childrens-ya-books
 ---
 
-![](/images/featured/featured-childrens-february-2018.jpg)
+![Are You There Little Bunny?, Twister, Under the Canopy](/images/featured/featured-childrens-february-2018.jpg)
 
 ## Board books
 
@@ -127,7 +127,9 @@ The Moomins return in comic book format.
 
 This first book in a new trilogy contains lost of insect facts alongside adventure and drama:
 
-> "Half bee. Half boy. Melvin Meadly is - bee boy. As a bee, Mel is ready to defend his hive against all enemies taking on killer wasps, terrifying hawkmoths, and battling queen bees. But as a boy, has he got what it takes to protect his bees (and himself) against the greatest menace of all: Nasty Norman Crudwell?"
+> "Half bee. Half boy. Melvin Meadly is - bee boy.
+
+> "As a bee, Mel is ready to defend his hive against all enemies taking on killer wasps, terrifying hawkmoths, and battling queen bees. But as a boy, has he got what it takes to protect his bees (and himself) against the greatest menace of all: Nasty Norman Crudwell?"
 
 ### [<cite>A Spoonful of Murder</cite>, by Robin Stevens](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2315877)
 
@@ -183,4 +185,30 @@ Lots of great new releases celebrating women and cultivating a love of life on E
 
 > "From Cleopatra to Amelia Earhart, Marie Curie to Malala Yousafzai, learn about powerful and inspiring women throughout history in this incredible book!"
 
-### [<cite>The Bee Book</cite>, by Charlotte Miller]()
+### [<cite>The Bee Book</cite>, by Charlotte Miller](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2318353)
+
+> "Bees are incredibly industrious, brilliant at building, super social, and - most importantly - along with other insects, they are responsible for a third of every mouthful of food you eat!
+
+> "<cite>The Bee Book</cite> is perfect to teach children age 5 and up all about our fuzzy little friends, how much they matter, why they are declining, and what we can do to help."
+
+### [<cite>Under the Canopy: tales of trees</cite>, by Iris Volant & Cynthia Alonso](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2322385)
+
+> "Trees are the lungs of the world. They have inspired our stories, myths and culture. Every climate, every nation has its tales of trees, true or legendary, that help us understand ourselves and the beauty of the natural world around us.
+
+> "Beyond their environmental significance, this illustrated book explores the cultural significance that trees have in different societies. From the olive trees of Athens to the Eucalyptus trees of Australia, discover the place of trees in history and mythology across the world."
+
+### [<cite>The Waggiest Tails</cite>, by Brian Moses, Roger Stevens & Ed Boxall](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2318706)
+
+> "From huskies, born to run, to those big bad bruisers, the security dogs. Meet Bruno, the smallest dog on the farm, and Charlie, the dancing chihuahua. Find rescue dogs, helping dogs, yappy dogs, happy dogs - and the dog with the waggiest tail!"
+
+This collection of poems is written from the perspective of the dogs themselves and is likely to be as much of a hit with dog-loving adults as children.
+
+### [<cite>What's Weird on Earth</cite>, by DK](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2335194)
+
+> "Covering everything from Pangea to the world's weirdest natural wonders, this is Earth in all its strange glory. '<cite>What's Weird on Earth</cite> is an entirely new atlas adventure, with maps of UFO sightings, popular foods, every country resized according to population density, and their popularity as holiday destinations. Kids can spot the strangest features on every corner of Earth; from ancient patterns carved in the desert sand to the 29,000 bath toys that sailed the world's ocean currents after a shipwreck.
+
+> "Travel back in time to discover maps from previous centuries or turn the globe upside down - literally."
+
+### [<cite>Politics for Beginners</cite>, by Usborne & Kellan Stover](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2322238)
+
+> "What is an election? Who gets to be Prime Minister or President? What does immigration mean? This essential introduction to politics for children answers all these questions and many more. Topics debated include capitalism, socialism, nationalism, terrorism, voting systems, free speech and human rights."
