@@ -162,3 +162,25 @@ In the second in the highly-illustrated Supersaurs series, which imagines the wo
 > "After leaving the rainforests of Indonesia, and outwitting the terrible Christian Hayter, Bunty Brownlee takes her grandchildren Bea and Carter, and Carter's newly domesticated Black Dwarf Tyrant, to a safari reserve in Kenya, built to protect the endangered White Titan Tyrants.
 
 > "But soon the children are caught up in a sinister plot involving poaching and diamond-mining. The young heroes require the aid of the Steggi, a nomadic tribe who live in harmony with their prized Stegosaurs."
+
+## Non-fiction
+
+Lots of great new releases celebrating women and cultivating a love of life on Earth this month!
+
+### [<cite>Amazing Women: 101 lives to inspire you</cite>, by Lucy Beevor & Sarah Green](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2317720)
+
+> "Discover the stories of 101 extraordinary women of our time. Featuring an international selection of female figures, this carefully curated collection highlights those who have achieved significantly in their fields, ranging from science and politics to sport and the arts."
+
+### [<cite>Little Leaders: bold women in black history</cite>, by Vashti Harrison](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2335201)
+
+> "Featuring 40 trailblazing black women in the world's history, this book educates and inspires as it relates true stories of women who broke boundaries and exceeded all expectations.
+
+> "Debut author/illustrator Vashti Harrison pairs captivating text with stunning illustrations as she tells the stories of both iconic and lesser-known female figures of black history - from nurse Mary Seacole, to politician Diane Abbott, mathematician Katherine Johnson and singer Shirley Bassey."
+
+### [<cite>What Would She Do?</cite>, by Kay Woodward](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2331356)
+
+> "Meet 25 of the most powerful and inspirational women of all time. From historical world leaders to modern pioneers and international muses, these are the incredible life stories of women from around the world to inspire and empower.
+
+> "From Cleopatra to Amelia Earhart, Marie Curie to Malala Yousafzai, learn about powerful and inspiring women throughout history in this incredible book!"
+
+### [<cite>The Bee Book</cite>, by Charlotte Miller]()
