@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Relief library and information advisors, Haverhill Library and surrounding libraries
+title: Relief library and information advisors, Lowestoft Library and surrounding libraries
 category: jobs
 sidebar: about
 breadcrumb: jobs
@@ -10,7 +10,7 @@ expiry-date: 2018-01-19
 
 [Download a role profile](/assets/pdf/library-and-information-advisor-jan-2018.pdf) (PDF).
 
-We're looking for relief library and information advisors for Haverhill Library and surrounding libraries. We're looking for an people who:
+We're looking for relief library and information advisors for Lowestoft Library and surrounding libraries. We're looking for an people who:
 
 - Have an aspiration to deliver excellent customer service
 
