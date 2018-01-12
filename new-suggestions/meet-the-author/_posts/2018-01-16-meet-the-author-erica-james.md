@@ -12,7 +12,7 @@ top-feature: true
 breadcrumb: meet-the-author
 ---
 
-![Erica James](/images/featured/featured-erica-james.jpg)
+{% include /c/figure.html alt="Erica James" src="/images/featured/featured-erica-james.jpg" caption="Erica James. Image &copy; Mikael Mammen" %}
 
 Erica James is the author of several bestselling novels, including [<cite>Gardens of Delight</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1596432), which won the Romantic Novel of the Year Award and the recent <cite>Sunday Times</cite> top ten bestseller, [<cite>The Dandelion Years</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1774687).
 

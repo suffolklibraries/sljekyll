@@ -20,7 +20,7 @@ branch-social-media: y
 branch-facebook: friendsofnewmarketlibrary
 branch-twitter: newmarketlib
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/newmarket-library-2
-branch-payments: "cash, cheques and cards (£1 minimum payment, contactless up to £30) accepted"
+branch-payments: "cash, cheques and cards (contactless up to £30) accepted"
 branch-parking: two public car parks within 5 minutes' walk
 branch-bookdrop: y
 branch-special-collections: Racing collection

@@ -20,7 +20,7 @@ branch-social-media: y
 branch-twitter: southwoldlib
 branch-facebook: southwoldlibrary
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/southwold-library-2
-branch-payments: cash and cheques accepted, cards accepted over £5
+branch-payments: cash, cheques and cards accepted
 branch-parking: on-street parking only
 branch-bookdrop: y
 branch-refreshments: hot drinks for sale
