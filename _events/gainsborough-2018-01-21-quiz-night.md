@@ -1,6 +1,6 @@
 ---
 id: gains-quiz
-name: "Fin quiz night, afternoon tea and bingo"
+name: "Fun quiz night, afternoon tea and bingo"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2018-01-21
