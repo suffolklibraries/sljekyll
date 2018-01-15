@@ -8,19 +8,21 @@ breadcrumb: hub
 
     <h1 class="{% include /c/page-title.html %} mb3">Enterprise + Innovation Hub</h1>
 
+    <p class="pb3 bb b--light-gray">Email: hub@suffolklibraries.co.uk</p>
+
     <p class="f3 lh-title">A fully-equipped space for meetings, presentations, workshops and private study in the heart of Ipswich.</p>
 
     <div class="cf">
 
         <div class="custom-g-l3">
 
-            <section class="{% include /c/block.html %}" id="business-advice">
+            <section class="{% include /c/block.html %}" id="space-hire">
 
-                <h1 class="{% include /c/block-title.html %}"><a href="/libraries/hub/business-advice/">Business advice from New Anglia Growth Hub</a></h1>
+                <h1 class="{% include /c/block-title.html %}"><a href="/libraries/hub/space-hire/">Work, meeting and presentation spaces</a></h1>
 
-                <a class="white custom-no-underline" href="/libraries/hub/business-advice/"><img src="/images/card/business-advice.jpg" alt="People receiving business advice in a pod"></a>
+                <a class="white custom-no-underline" href="/libraries/hub/space-hire/"><img src="/images/card/space-hire.jpg" alt="A meeting in the lounge, the presentation area and people working collaboratively on a computer"></a>
 
-                <p class="{% include /c/block-graf.html %}">Make an appointment for free advice on several aspects of your business.</p>
+                <p class="{% include /c/block-graf.html %}">Hire the whole Carnegie Room, lounge &amp; presentation suite, Lab or a pod.</p>
 
             </section>
 
@@ -46,13 +48,13 @@ breadcrumb: hub
 
         <div class="custom-g-l3">
 
-            <section class="{% include /c/block.html %}" id="space-hire">
+            <section class="{% include /c/block.html %}" id="business-advice">
 
-                <h1 class="{% include /c/block-title.html %}"><a href="/libraries/hub/space-hire/">Work, meeting and presentation spaces</a></h1>
+                <h1 class="{% include /c/block-title.html %}"><a href="/libraries/hub/business-advice/">Business advice from New Anglia Growth Hub</a></h1>
 
-                <a class="white custom-no-underline" href="/libraries/hub/space-hire/"><img src="/images/card/space-hire.jpg" alt="A meeting in the lounge, the presentation area and people working collaboratively on a computer"></a>
+                <a class="white custom-no-underline" href="/libraries/hub/business-advice/"><img src="/images/card/business-advice.jpg" alt="People receiving business advice in a pod"></a>
 
-                <p class="{% include /c/block-graf.html %}">Hire the whole Carnegie Room, lounge &amp; presentation suite, Lab or a pod.</p>
+                <p class="{% include /c/block-graf.html %}">Make an appointment for free advice on several aspects of your business.</p>
 
             </section>
 
@@ -74,48 +76,56 @@ breadcrumb: hub
 
             </div> <!-- end row -->
 
+            <h2>Contact</h2>
+
+            <p>Email: hub@suffolklibraries.co.uk</p>
+
         <h2>Upcoming events in the Hub</h2>
 
         {% assign hub-events = site.events | where: "event-category", "hub" | sort: "event-start-date" %}
 
-        {% for event in hub-events %}
+        {% assign special-event-check = false %}
 
-        {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+        {% if hub-events.size > 0 %}
 
-        {% if event.event-end-date %}
+            {% for event in hub-events %}
 
-            {% capture event-time-seconds %}{{event.event-end-date | date: '%s' }}{% endcapture %}
+            {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
 
-        {% else %}
+            {% if event.event-end-date %}
 
-            {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+                {% capture event-time-seconds %}{{event.event-end-date | date: '%s' }}{% endcapture %}
 
-        {% endif %}
+            {% else %}
 
-        {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+                {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
 
-        {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+            {% endif %}
 
-        {% if now-unix <= event-time %}
+            {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
 
-            {% assign special-event-check = true %}
+            {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
 
-            <article class="{% include /c/listing.html %}">
+            {% if now-unix <= event-time %}
 
-                <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+                {% assign special-event-check = true %}
 
-                <p class="{% include /c/page-meta.html %}">
+                <article class="{% include /c/listing.html %}">
 
-                    <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span>
+                    <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
 
-            </article>
+                    <p class="{% include /c/page-meta.html %}"><span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span></p>
 
-        {% endif %}
+                </article>
 
-        {% endfor %}
+            {% endif %}
 
-        {% if special-event-check == false %}
-          <p class="{% include /c/page-meta.html %} mb3">No upcoming events.</p>
+            {% endfor %}
+
+            {% if special-event-check == false %}
+                <p class="{% include /c/page-meta.html %} mb3">No upcoming events.</p>
+            {% endif %}
+
         {% endif %}
 
 </div>
