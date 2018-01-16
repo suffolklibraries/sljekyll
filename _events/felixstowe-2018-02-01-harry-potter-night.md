@@ -10,10 +10,14 @@ event-category: harry-potter
 breadcrumb: y
 ---
 
-This Harry Potter Book Night, everyone over the age of 7 is invited to test their Harry Potter knowledge. As well as fun questions to answer about Harry's adventures, there will be entertainment from the Rapscallion Theatre Company. You can also take a look at our [British Library Harry Potter: A History of Magic display](/events/felixstowe-2018-01-05-history-of-magic/).
+This Harry Potter Book Night, everyone over the age of 7 is invited to test their Harry Potter knowledge. As well as questions to answer about Harry's adventures, there will be fun team activities.
+
+The Rapscallion Theatre Company will also be here, bringing snippets of the stories to life. You can also take a look at our [British Library Harry Potter: A History of Magic display](/events/felixstowe-2018-01-05-history-of-magic/).
 
 Come in a team of 6 or we'll match you up on the night.
 
-Dressing up is encouraged!
+Dress up to win a prize!
+
+Refreshments available. Children must be accompanied.
 
 Tickets must be booked in advance by contacting the library.
