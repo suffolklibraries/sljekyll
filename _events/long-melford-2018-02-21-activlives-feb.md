@@ -4,8 +4,8 @@ name: "New Age Bowls, Kurling and Boccia taster session"
 location: long-melford-library
 location-text: Long Melford Library
 event-start-date: 2018-02-21
-event-start-time: 1430
-event-end-time: 1530
+event-start-time: 1400
+event-end-time: 1545
 event-category: health
 event-ticket-price: free but donations appreciated
 breadcrumb: y
