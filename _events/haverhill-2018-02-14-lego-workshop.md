@@ -4,8 +4,8 @@ name: "Lego workshop for ages 6+"
 location: haverhill-library
 location-text: Haverhill Library
 event-start-date: 2018-02-14
-event-start-time: 1300
-event-end-time: 1600
+event-start-time: 1400
+event-end-time: 1530
 event-ticket-price: 2 per child
 breadcrumb: y
 ---
