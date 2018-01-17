@@ -20,7 +20,7 @@ We're looking for a manager at Elmswell Library. We're looking for a dynamic and
 
 - Support, assist and train staff and customers to access IT, based on personal knowledge of PCs, the internet, online databases, library computer systems and MS Office
 
-- Work with the friends' group to further benefit the residents of Elmswell and the local community.
+- Work with the friends group to further benefit the residents of Elmswell and the local community.
 
 This position is for 17.5 hours on average per week working the following pattern:
 
