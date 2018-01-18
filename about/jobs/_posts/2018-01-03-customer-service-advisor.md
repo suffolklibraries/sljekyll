@@ -5,7 +5,7 @@ category: jobs
 sidebar: about
 breadcrumb: jobs
 excerpt: "Full time, 37 hours per week, &pound;15,100 to &pound;17,500, closing date Wed 17 Jan."
-expiry-date: 2018-01-18
+expiry-date: 2018-01-17
 ---
 
 [Download a role profile](/assets/pdf/customer-service-advisor-role-profile-2018.pdf) (PDF)
