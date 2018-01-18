@@ -5,6 +5,7 @@ location: great-cornard-library
 location-text: Great Cornard Library
 event-start-date: 2018-02-01
 event-start-time: 1530
+event-category: harry-potter
 breadcrumb: y
 ---
 
