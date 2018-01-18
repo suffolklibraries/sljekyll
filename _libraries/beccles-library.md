@@ -12,7 +12,7 @@ branch-sunday-hours: 1000 – 1600
 acting-branch-manager: Nicky Spindler
 branch-address: Blyburgate, Beccles
 branch-post-code: NR34 9TB
-branch-tel: 01502 714073
+branch-tel: 01502 442820
 branch-friends: Beccles Library Community Trust
 branch-friends-url: /about/member-organisations/beccles-library-community-trust-bclt
 branch-social-media: y
