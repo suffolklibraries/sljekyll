@@ -13,7 +13,7 @@ breadcrumb: y
 
 Teams of up to six are invited to test their Harry Potter knowledge in our fun quiz.
 
-This is aimed at older children and adults, but well-behaved younger children are welcome to come along.
+This is aimed at older children and adults, but well-behaved younger wiazrds are welcome to come along.
 
 Bring your own picnic and drinks.
 
