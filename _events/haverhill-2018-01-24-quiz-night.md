@@ -1,13 +1,15 @@
 ---
 id: hav-quiz
-name: "Quiz night with fish and chips"
+name: "Quiz night with fish and chips - SOLD OUT"
 location: haverhill-library
 location-text: Haverhill Library
 event-start-date: 2018-01-24
 event-doors-open: 1900
-event-ticket-price: 8 per person
+event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 breadcrumb: y
 ---
+
+**Please note this event has now SOLD OUT**
 
 Join us for a quiz, raffle and fish and chip supper.
 

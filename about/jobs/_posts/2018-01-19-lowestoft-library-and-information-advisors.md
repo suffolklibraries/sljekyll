@@ -4,7 +4,7 @@ title: 5x library and information advisors, Lowestoft Library
 category: jobs
 sidebar: about
 breadcrumb: jobs
-excerpt: "28, 18, 22, 19.25 and 17.63 average hours per week, &pound;8.01 per hour, closing date Fri 2 Feb."
+excerpt: "28, 18, 22, 19.25 or 17.63 average hours per week, &pound;8.01 per hour, closing date Fri 2 Feb."
 expiry-date: 2018-02-02
 ---
 
