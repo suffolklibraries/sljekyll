@@ -4,11 +4,11 @@ title: "Chantry Library to temporarily close on Sundays"
 date: 2017-12-21
 author: james-powell
 category: news
-excerpt: "Chantry Library will be closed on Sundays 24 and 31 December and 7, 14 and 21 January."
+excerpt: "Chantry Library will be closed on Sundays 24 and 31 December and 7, 14, 21 and 28 January."
 breadcrumb: news
 ---
 
-Chantry Library will be closed on Sundays 24 and 31 December and 7, 14 and 21 January.
+Chantry Library will be closed on Sundays 24 and 31 December and 7, 14, 21 and 28 January.
 
 This is a temporary measure while we work out how best to manage some anti-social behaviour issues which have escalated in recent weeks. Opening times on other days are unaffected. The closest alternative library is [Stoke Library](/libraries/stoke/), which opens from 10am-1pm on Sundays.
 
