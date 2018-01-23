@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Rowan Williams'
-date: 2018-02-06
+date: 2018-02-13
 author: brandon-king
 category: meet-the-author
 excerpt: "Rowan Williams, Baron Williams of Oystermouth and former Archbishop of Canterbury discusses his literary influences and memories of Suffolk."

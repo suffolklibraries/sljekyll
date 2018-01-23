@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Imogen Hermes Gowar'
-date: 2018-02-20
+date: 2018-02-27
 author: brandon-king
 category: meet-the-author
 excerpt: "Imogen Hermes Gowar tells us how she wrote her exciting debut novel <cite>The Mermaid and Mrs Hancock</cite>."
