@@ -4,7 +4,7 @@ title: 'Meet the Author: Chris Brookmyre'
 date: 2018-01-23
 author: brandon-king
 category: meet-the-author
-excerpt: "Chris Brookmyre tells us about his latest novel, his work-in-progress and how he created Jack Parlanne."
+excerpt: "Chris Brookmyre tells us about his latest novel, his work-in-progress and how he created Jack Parlabane."
 featured-image: /images/featured/featured-chris-brookmyre.jpg
 featured-alt: "Chris Brookmyre"
 featured-link-text: "Read our interview with Chris Brookmyre."
