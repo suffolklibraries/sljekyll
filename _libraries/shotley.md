@@ -3,7 +3,7 @@ branch-unique-id: shotley
 branch-name: "Shotley (Suffolk Libraries Local)"
 branch-image: /images/branches/sll-shotley.jpg
 branch-local-day: Monday
-branch-local-hours: 1300-1630
+branch-local-hours: 1300-1700
 branch-manager: Tom Veasey
 branch-address: Shotley Village Hall, The Street, Shotley, Ipswich
 branch-post-code: IP9 1LX
