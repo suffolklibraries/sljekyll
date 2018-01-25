@@ -17,4 +17,4 @@ Duke Dobing of Suffolk Philharmonic Orchestra said:
 
 [The Music and Drama Library](/music-and-drama/) is based at Ipswich County Library but can be accessed from across the county. It’s a subscription service for groups, orchestras, bands, repertory companies, dramatic societies, play reading circles or individuals.
 
-The outdoor event is being promoted by Ipswich Borough Council and will feature popular classics performed by Orchestra and will end with a firework finale. The gates open at 6pm for an 8pm start and although there is capacity for 5,000 anyone wishing to attend will need to book their ticket in advance. For more information visit [apps.ipswich.gov.uk/PEO/show_events_list.asp](https://apps.ipswich.gov.uk/PEO/show_events_list.asp).
+The outdoor event is being promoted by Ipswich Borough Council and will feature popular classics performed by Orchestra and will end with a firework finale.

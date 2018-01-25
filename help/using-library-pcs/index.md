@@ -12,7 +12,7 @@ Most libraries have computers that are **available without a booking**.
 
 ## What you can do on our computers
 
-We provide a mix of [Chromebase computers](http://www.lg.com/uk/chromebase), Windows computers and [Chromebook laptops](http://www.google.co.uk/chrome/devices/).
+We provide a mix of [Chromebase computers](http://www.lg.com/uk/chromebase), Windows computers and [Chromebook laptops](https://www.google.com/chromebook/).
 
 The Chromebase computers and Chromebook laptops are fast, simple machines ideal for browsing, checking email, going on Facebook etc.
 

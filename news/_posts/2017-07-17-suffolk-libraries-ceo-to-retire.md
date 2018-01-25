@@ -16,7 +16,7 @@ Alison has lived and worked in Suffolk for over 38 years. She qualified as a lib
 
 Alison has worked at regional and national levels to develop partnerships and profile for public libraries. In the late 1990s she set up and led a regional agency for libraries in the East of England, and in 2009 she led the development and signing of a national agreement between the Department of Health and the public library sector.
 
-Alison will not be standing down until February 2018 and [Suffolk Libraries is currently recruiting for a new chief executive](/about/jobs/chief-executive-officer/).
+Alison will not be standing down until February 2018 and Suffolk Libraries is currently recruiting for a new chief executive.
 
 Alison said: “I’ve worked for nearly 40 years in Suffolk’s public library service and it’s been a privilege and a pleasure to work with all of the staff over the years.
 

@@ -10,7 +10,7 @@ breadcrumb: news
 
 Chantry Library will be closed on Sundays 24 and 31 December and 7, 14, 21 and 28 January.
 
-This is a temporary measure while we work out how best to manage some anti-social behaviour issues which have escalated in recent weeks. Opening times on other days are unaffected. The closest alternative library is [Stoke Library](/libraries/stoke/), which opens from 10am-1pm on Sundays.
+This is a temporary measure while we work out how best to manage some anti-social behaviour issues which have escalated in recent weeks. Opening times on other days are unaffected. The closest alternative library is [Stoke Library](/libraries/stoke-library/), which opens from 10am-1pm on Sundays.
 
 We apologise for any inconvenience but feel this move is in the best interests of customers and staff, whose wellbeing is always our first priority. We hope that closing for a few Sundays, the day the problem has been worst, will help the situation and allow us to work with staff and other organisations on potential solutions.
 

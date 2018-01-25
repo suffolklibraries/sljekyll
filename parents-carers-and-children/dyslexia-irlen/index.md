@@ -62,7 +62,6 @@ If your child has Irlen syndrome, placing a simple coloured overlay across the p
 
 ## Resources
 
-* [Dyslexia Action](http://www.dyslexiaaction.org.uk/about-dyslexia) defines the characteristics of dyslexia
 * [NHS UK](http://www.nhs.uk/conditions/dyslexia/pages/introduction.aspx) information about dyslexia
 * [Irlen UK](http://www.irlenuk.com/irlen-symptoms-overview.htm) information about Irlen syndrome
 * Dyslexia-friendly picture books from [Booktrust](http://www.booktrust.org.uk/books/children/booklists/327/)

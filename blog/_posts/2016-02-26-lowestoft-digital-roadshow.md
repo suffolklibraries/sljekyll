@@ -17,7 +17,7 @@ For the 3D printing, pupils worked with Henry Evans from Suffolk Libraries IT de
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Group 2 are now building the Kano! Great teamwork! <a href="https://t.co/NKtO3IIUKY">pic.twitter.com/NKtO3IIUKY</a></p>&mdash; Suffolk Libraries UK (@SuffolkLibrary) <a href="https://twitter.com/SuffolkLibrary/status/698095094461816832">February 12, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The [Kano Computer Kit](http://uk.kano.me/) is a small but powerful computer with a difference: Pupils have to build it before they can use it! Working in a small team the pupils had to put the components together before crossing their fingers and pressing the on button. They were then able to use some of the preloaded Kano apps and take part in some Minecraft coding.
+The [Kano Computer Kit](https://kano.me/store/uk) is a small but powerful computer with a difference: Pupils have to build it before they can use it! Working in a small team the pupils had to put the components together before crossing their fingers and pressing the on button. They were then able to use some of the preloaded Kano apps and take part in some Minecraft coding.
 
 ![A laptop with coding program on screen](/images/article/congratulations-on-completing-one-hour-of-code.jpg)
 

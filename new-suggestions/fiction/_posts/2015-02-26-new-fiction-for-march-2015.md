@@ -49,7 +49,7 @@ Described as <cite>American Psycho</cite> meets <cite>Girls</cite>, this enterta
 
 [![The Girl in the Red Coat by Kate Hamer](/images/article/the-girl-in-the-red-coat.jpg)](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=FE6976F5-EBB8-4CA3-ADF9-6616B448C54D)
 
-8-year-old Carmel Wakeford becomes separated from her mother and is found by a man who claims to be her estranged grandfather. As days become weeks with her new family, Carmel realises that this man believes she has a special gift. [See our full review](/new-suggestions/fiction/lesleys-readers-girl-in-the-red-coat-by-kate-hamer/). Author Kate Hamer will be speaking at Bungay Library on 17 March for Suffolk Libraries Bookfest.
+8-year-old Carmel Wakeford becomes separated from her mother and is found by a man who claims to be her estranged grandfather. As days become weeks with her new family, Carmel realises that this man believes she has a special gift.
 
 ## [<cite>By a Spider&#8217;s Thread</cite> by Laura Lippman](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=1A4D3AF9-C68B-4D34-A5D2-7887BC210408) (eBook)
 

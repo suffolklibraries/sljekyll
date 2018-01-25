@@ -30,8 +30,8 @@ The display will be touring the three libraries from October to February as foll
 
 There will also be an opportunity to take selfies with the display and join in the conversation online with #BLHarryPotter.
 
-Ipswich County Library will be livestreaming two British Library Hogwarts Curriculum Lectures: [Astronomy with Maggie Aderin-Pocock on 29 October](/events/ipswich-2017-10-29-astronomy-lecture/) and [Herbology with Anna Pavord on 12 November](/events/ipswich-2017-11-12-herbology-lecture/).
+Ipswich County Library will be livestreaming two British Library Hogwarts Curriculum Lectures: Astronomy with Maggie Aderin-Pocock on 29 October and Herbology with Anna Pavord on 12 November.
 
-Two recorded talks will also be screened at Ipswich County Library: [Brooms, Witches and Cauldrons: The Instruments of Magic with Simon Costin on 26 November](/events/ipswich-2017-11-26-instruments-talk/) and [Women, Witches and Witch-Trials with Anita Anand & expert panel on 10 December](/events/ipswich-2017-12-10-witches-talk/).
+Two recorded talks will also be screened at Ipswich County Library: Brooms, Witches and Cauldrons: The Instruments of Magic with Simon Costin on 26 November and Women, Witches and Witch-Trials with Anita Anand & expert panel on 10 December.
 
 Harry Potter: A History of Magic is a major exhibition at The British Library in partnership with Bloomsbury. It is open in London from 20 October 2017–28 February 2018. If the Suffolk Libraries display whets your appetite for the full exhibition experience, you can book your ticket on [the British Library's website](https://bl.uk).

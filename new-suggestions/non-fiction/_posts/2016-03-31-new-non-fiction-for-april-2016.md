@@ -31,7 +31,7 @@ This volume tells the well-known story of the family using original letters and 
 
 [![It's all going wonderfully well by Rosa Hoskins](/images/article/its-all-going-wonderfully-well.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/25466701?QRY=CTIBIB%3C%20IRN(60138778)&QRYTEXT=It%27s%20all%20going%20wonderfully%20well)
 
-When Bob Hoskins died of Parkinson&#8217;s in 2014, his daughter posted a blog post called <a href="http://hautehoskins.com/2014/04/30/rosa-14/#sthash.wp6pH4Q5.dpbs">11 Lessons from my Dad</a>, which received an extraordinary response. In this emotional tribute, Rosa Hoskins remembers the times they shared &#8211; whether at home or on the set of Hook &#8211; and goes on a journey to learn more about him, gathering stories from the people he worked with over the years, including Robert De Niro and Helen Mirren.
+When Bob Hoskins died of Parkinson&#8217;s in 2014, his daughter posted a blog post called 11 Lessons from my Dad, which received an extraordinary response. In this emotional tribute, Rosa Hoskins remembers the times they shared &#8211; whether at home or on the set of Hook &#8211; and goes on a journey to learn more about him, gathering stories from the people he worked with over the years, including Robert De Niro and Helen Mirren.
 
 ## [<cite>Katherine Howard: the tragic story of Henry VIII&#8217;s fifth queen</cite> by Josephine Wilkinson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/25470681?QRY=CTIBIB%3C%20IRN(60139082)&QRYTEXT=Katherine%20Howard%20%3A%20the%20tragic%20story%20of%20Henry%20VIII%27s%20fifth%20queen)
 

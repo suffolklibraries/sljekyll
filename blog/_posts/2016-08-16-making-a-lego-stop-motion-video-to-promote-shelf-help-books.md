@@ -17,7 +17,7 @@ We wanted to develop a different way to get information about Shelf Help out to 
 <figcaption><p>Matt Shenton and Sarah Lungley</p></figcaption>
 </figure>
 
-We booked a slot in the maker space at the [Business and Innovation Hub at Ipswich library](https://www.suffolklibraries.co.uk/libraries/hub/), gathered together some Lego sets, printed off a storyboard sheets and downloaded a superb free [Lego Movie Maker app](https://itunes.apple.com/gb/app/lego-movie-maker/id516001587?mt=8) from the Apple app store.
+We booked a slot in the maker space at the [Business and Innovation Hub at Ipswich library](https://www.suffolklibraries.co.uk/libraries/hub/), gathered together some Lego sets, printed off a storyboard sheets and downloaded a superb free Lego Movie Maker app from the Apple app store.
 
 <div class="custom-constrain"><iframe width="800" height="450" src="https://www.youtube.com/embed/COtyp-l2iVo?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div>
 
