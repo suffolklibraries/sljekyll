@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Open Space &#8211; Ipswich County Library timetable for 24 January - 16 May 2018'
-date: 2017-01-18
+date: 2018-01-18
 author: sarah-lungley
 category: health
 excerpt: "Here is the new timetable for Open Space at Ipswich County Library for 24 January - 16 May 2018! Lots of exciting things coming up and some great discussions."
