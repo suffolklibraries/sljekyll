@@ -13,6 +13,6 @@ Award-winning crime writer Elly Griffiths will be talking about her Dr Ruth Gall
 
 You can buy a copy of Elly's new book, [<cite>The Dark Angel</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2317358), on the night and get it signed.
 
-**This is a Woodbridge Emporium event. Book tickets by visiting the shop at 66 Thoroughfare, Woodbridge, IP12 1AL or calling 01394 382382.**
+To book tickets, contact the library. You can also get tickets from Woodbridge Emporium at 66 Thoroughfare, Woodbridge, IP12 1AL or by calling them on 01394 382382.
 
 Ticket price includes refreshments, raffle ticket and book discount.
