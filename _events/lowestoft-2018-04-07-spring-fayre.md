@@ -5,7 +5,7 @@ location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2018-04-07
 event-start-time: 0900
-event-end-time: 1700
+event-end-time: 1600
 event-ticket-price: free entry, £5 + a raffle prize from stallholders
 breadcrumb: y
 ---
