@@ -134,9 +134,9 @@ Discussion/activity: Arts and crafts: making Easter decorations and cards/talkin
 <td>
 04.04.18
 </td>
-Activity: Pub/cafe lunch (venue to be decided the week before)
-<td>
 
+<td>
+Activity: Pub/cafe lunch (venue to be decided the week before)
 </td>
 </tr>
 
