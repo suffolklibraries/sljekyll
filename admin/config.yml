@@ -1,0 +1,21 @@
+backend:
+  name: github
+  branch: master # Branch to update (optional; defaults to master)
+  repo: suffolklibraries/sljekyll # Path to your Github repository
+
+media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
+
+collections:
+  - name: "news" # Used in routes, e.g., /admin/collections/blog
+    label: "News posts" # Used in the UI
+    folder: "news/_posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "sidebar-right"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publication date", name: "date", widget: "datetime"}
+      - {label: "Category", name: "category", widget: "hidden", default: "news"}
+      - {label: "Breadcrumb", name: "breadcrumb", widget: "hidden", default: "news"}
+      - {label: "Excerpt", name: "excerpt", widget: "text"}
+      - {label: "Body", name: "body", widget: "markdown"}
