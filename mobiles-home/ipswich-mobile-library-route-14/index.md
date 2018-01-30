@@ -111,7 +111,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="128">
-      Highham
+      Higham
     </td>
 
     <td valign="bottom" width="161">
