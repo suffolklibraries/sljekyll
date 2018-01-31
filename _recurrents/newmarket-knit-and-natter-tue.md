@@ -1,7 +1,7 @@
 ---
 recurrent-title: "Knit and Natter"
 recurrent-description: "Bring your work in progress along and have a chat while you knit or crochet. Refreshments provided."
-recurrent-day: Tuesdays from 6 February
+recurrent-day: Tuesdays
 recurrent-times: 1400
 recurrent-location: newmarket-library
 recurrent-location-display-name: Newmarket Library
