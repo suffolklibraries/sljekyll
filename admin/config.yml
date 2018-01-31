@@ -26,11 +26,11 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Title", name: "name", widget: "string"}
       - {label: "Location key (e.g. stowmarket-library)", name: "location", widget: "string"}
       - {label: "Location text (e.g. Stowmarket Library)", name: "location-text", widget: "string"}
-      - {label: "Start date", name: "event-start-date", widget: "date"}
-      - {label: "End date", name: "event-end-date", widget: "date"}
+      - {label: "Start date (format YYYY-MM-DD)", name: "event-start-date", widget: "string"}
+      - {label: "End date  (format YYYY-MM-DD)", name: "event-end-date", widget: "string"}
       - {label: "Start time (24h clock, no punctuation)", name: "event-start-time", widget: "string"}
       - {label: "End time (24h clock, no punctuation)", name: "event-end-time", widget: "string"}
       - {label: "Breadcrumb", name: "breadcrumb", widget: "hidden", default: "y"}
