@@ -29,7 +29,7 @@ collections:
       - {label: "Title", name: "name", widget: "string"}
       - {label: "Location key (e.g. stowmarket-library)", name: "location", widget: "string"}
       - {label: "Location text (e.g. Stowmarket Library)", name: "location-text", widget: "string"}
-      - {label: "Start date (format YYYY-MM-DD)", name: "event-start-date", widget: "date"}
+      - {label: "Start date (format YYYY-MM-DD)", name: "event-start-date", required: "false", widget: "date"}
       - {label: "End date  (format YYYY-MM-DD)", name: "event-end-date", required: "false", widget: "date"}
       - {label: "Start time (24h clock, no punctuation)", name: "event-start-time", required: "false", widget: "string"}
       - {label: "End time (24h clock, no punctuation)", name: "event-end-time", required: "false", widget: "string"}
