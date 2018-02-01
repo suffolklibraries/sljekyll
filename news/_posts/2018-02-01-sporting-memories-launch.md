@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Sporting legends to help launch Sporting Memories Groups"
+title: "Sporting legends to help launch Sporting Memories groups"
 date: 2018-02-01
 author: james-powell
 category: news
