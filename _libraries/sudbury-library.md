@@ -32,5 +32,4 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/sudbury-library
 branch-other-facilities: 'Sudbury Tourist Information Centre is located within the library. See the <a class="blue" href="http://www.sudburytowncouncil.co.uk/culture-toursim/tourist-information-centres.html">Tourist Information Centre page on the Sudbury Town Council website</a> for opening hours and contact details.'
 breadcrumb: y
-branch-news: 'Sudbury Library has had to close this afternoon (31 January). Call <a href="tel:01473351249">01473 351249</a> or email <strong>help@suffolklibraries.co.uk</strong> for renewals and other customer services.'
 ---

@@ -1,15 +1,17 @@
 ---
 id: ipswich-bean
-name: "Mr Bean's Magic Show and balloon modelling - 2pm session"
+name: "Mr Bean's Magic Show and balloon modelling - 2pm session - SOLD OUT"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2018-02-12
 event-start-time: 1400
 event-end-time: 1500
-event-ticket-price: 4 per child
+event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 event-category: half-term
 breadcrumb: y
 ---
+
+**This event has now sold out. Tickets are still available for the [3:30pm session](/events/ipswich-2018-02-12-mr-bean-330pm/)**
 
 Experience the mysteries of magic with Mr Bean's Magic Show!
 
