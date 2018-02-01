@@ -1,6 +1,6 @@
 ---
 id: gains-story
-name: "Interactive story time: <cite<Where's My Teddy?</cite>"
+name: "Interactive story time: <cite>Where's My Teddy?</cite>"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2018-02-21

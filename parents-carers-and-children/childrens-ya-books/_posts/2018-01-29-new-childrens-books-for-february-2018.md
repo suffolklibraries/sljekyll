@@ -157,6 +157,12 @@ In the latest Baby Aliens story from the Blue Peter Award winners:
 
 > "Izzy and her friends are shocked when they find their lollipop man has disappeared! Maisie thinks he's gone to Rome but if that's true, why do they keep seeing a weird white wispy cloud around the school? And why do Izzy's legs feel cold even though she's got tights on? Could it be that the lollipop man is a phantom and he's come to spook them all?!"
 
+### [<cite>Make More Noise!</cite>, by various](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2320491)
+
+> "Ten brand new short stories celebrating inspiring female characters by award-winning and bestselling women writers, being published to commemorate the 100th anniversary of women's suffrage in the UK."
+
+Contributors include Patrice Lawrence, Catherine Johnson and Sally Nicholls.
+
 ### [<cite>The Stegosorcerer</cite>, by Jay Burridge](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2317387)
 
 In the second in the highly-illustrated Supersaurs series, which imagines the world as if dinosaurs had never become extinct:
