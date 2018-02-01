@@ -20,7 +20,7 @@ We're looking for **group facilitators** to take charge of and promote the group
 * [Group supporter role profile](/assets/pdf/sporting-memories-group-supporter.pdf) (PDF)
 * [One to one supporter role profile](/assets/pdf/sporting-memories-one-to-one-supporter.pdf) (PDF)
 
-The Sporting Memories Network team and Suffolk project coordinator will provide you with ongoing training and support to ensure you have everything you need for a fun, rewarding and enjoyable volunteering experience. This includes an **induction at Quay Place, Key Street, Ipswich, on 23 January from 10am - 2pm.**
+The Sporting Memories Network team and Suffolk project coordinator will provide you with ongoing training and support to ensure you have everything you need for a fun, rewarding and enjoyable volunteering experience.
 
 The Sporting Memories Network facilitates sporting reminiscence groups for wellbeing all over the world with easy-to-use products and services. As a volunteer with the Sporting Memories Network, you can expect:
 
