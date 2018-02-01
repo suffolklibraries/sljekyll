@@ -1,11 +1,12 @@
 ---
 id: alde-lear
-name: "Puppetry in performance workshop with Bears and Vagabonds Productions"
+name: "Puppetry in performance workshop with Bears & Vagabonds Productions"
 location: aldeburgh-library
 location-text: Aldeburgh Library
 event-start-date: 2018-02-12
 event-start-time: 1130
 event-ticket-price: free
+event-category: half-term
 breadcrumb: y
 ---
 

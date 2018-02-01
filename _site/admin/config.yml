@@ -7,7 +7,7 @@ media_folder: "images/uploads" # Media files will be stored in the repo under im
 
 collections:
   - name: "news" # Used in routes, e.g., /admin/collections/blog
-    label: "News posts" # Used in the UI
+    label: "News post" # Used in the UI
     folder: "news/_posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -15,7 +15,7 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "sidebar-right"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Author (e.g. james-powell)", name: "author", widget: "string"}
-      - {label: "Publication date", name: "date", widget: "datetime"}
+      - {label: "Publication date", name: "date", widget: "date"}
       - {label: "Category", name: "category", widget: "hidden", default: "news"}
       - {label: "Breadcrumb", name: "breadcrumb", widget: "hidden", default: "news"}
       - {label: "Excerpt", name: "excerpt", widget: "text"}
