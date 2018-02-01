@@ -2,6 +2,7 @@
 branch-unique-id: oulton-broad-library
 branch-name: Oulton Broad Library
 branch-image: /images/branches/oulton-broad-library.jpg
+branch-manager: Jane Rothon
 branch-monday-hours: 1000 – 1200
 branch-tuesday-hours:	1000 – 1300, 1400 – 1700
 branch-wednesday-hours: 1000 – 1300, 1400 – 1700
