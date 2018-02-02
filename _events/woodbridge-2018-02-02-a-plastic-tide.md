@@ -11,6 +11,8 @@ event-alt-location: Salvation Army Hall, New Street, Woodbridge, IP12 1DT (acros
 breadcrumb: y
 ---
 
+**Please note venue change**
+
 Join Transition Woodbridge and Greenpoint Forum for a screening of Sky Ocean Rescue's documentary <cite>A Plastic Tide</cite>:
 
 > "Over eight million tonnes of plastic enters the ocean each year, killing sea life. Now new evidence says it's entering our food chain with unknown health effects."
