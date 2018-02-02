@@ -50,7 +50,7 @@ Here are some of the organisations and information sources available for a varie
 
 <h3 id="advocacy">Advocacy and mediation</h3>
 <ul>
-	<li><a href="http://www.aceanglia.com/ace-easy-read">Ace Anglia</a> - An independent Suffolk based advocacy service for people with learning disabilities</li>
+	<li><a href="http://www.aceanglia.com/">Ace Anglia</a> - An independent Suffolk based advocacy service for anyone who requires it</li>
 	<li><a href="http://feedbackhealth.uk/">Feedback</a> - Offers support to help express your views on mental health in Great Yarmouth and Waveney</li>
 	<li><a href="http://www.suffolkfamilycarers.org">Suffolk Family Carers</a> - Support and advice for unpaid family carers in Suffolk</li>
 	<li><a href="http://www.suffolkuserforum.co.uk">Suffolk User Forum</a> - Operating through the east and west of Suffolk helping to shape the mental health services</li>
