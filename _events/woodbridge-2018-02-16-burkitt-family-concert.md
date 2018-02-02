@@ -1,6 +1,6 @@
 ---
 id: woodbridge-burkitt
-name: "Concert: An Evening with The Burkitt Family"
+name: "Concert: An evening with The Burkitt Family"
 location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2018-02-16
