@@ -7,6 +7,7 @@ event-start-date: 2018-02-02
 event-start-time: 1930
 event-end-time: 2100
 event-ticket-price: free but donations appreciated
+event-alt-location: Salvation Army Hall, New Street, Woodbridge, IP12 1DT (across the car park from the library)
 breadcrumb: y
 ---
 
