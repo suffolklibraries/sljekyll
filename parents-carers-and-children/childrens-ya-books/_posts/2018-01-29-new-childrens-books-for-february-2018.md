@@ -4,9 +4,9 @@ title: "New children's books for February 2018"
 date: 2018-01-29
 author: sophie-green
 category: childrens-ya-books
-excerpt: "Are You There Little Bunny?, Twister, Under the Canopy"
+excerpt: "This month's titles feature fictional and real-life heroes"
 featured-image: /images/featured/featured-childrens-february-2018.jpg
-featured-alt: "This month's titles feature fictional and real-life heroes."
+featured-alt: "Are You There Little Bunny?, Twister, Under the Canopy."
 featured-link-text: "Check out our latest titles for children."
 breadcrumb: childrens-ya-books
 ---
