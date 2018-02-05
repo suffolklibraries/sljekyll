@@ -1,6 +1,6 @@
 ---
 id: beccles-agm
-name: "Beccles Libary Community Trust AGM"
+name: "Beccles Library Community Trust AGM"
 location: beccles-library
 location-text: Beccles Library
 event-start-date: 2018-02-20
