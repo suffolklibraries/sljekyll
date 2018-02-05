@@ -6,7 +6,7 @@ location-text: Chantry Library
 event-start-date: 2018-02-13
 event-start-time: 1000
 event-end-time: 1130
-event-category: children
+event-category: half-term
 breadcrumb: y
 ---
 
