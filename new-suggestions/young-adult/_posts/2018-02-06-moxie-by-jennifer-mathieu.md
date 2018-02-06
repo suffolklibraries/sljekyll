@@ -4,7 +4,7 @@ title: "Moxie by Jennifer Mathieu"
 date: 2018-02-06
 author: emily-mitchell
 category: young-adult
-excerpt: "<cite>Moxie</cite> is a powerful and brilliant book and real call to action, making it a must-read."
+excerpt: "<cite>Moxie</cite> is a powerful and brilliant book and real call to action."
 featured-image: /images/featured/featured-moxie.jpg
 featured-alt: "Moxie"
 featured-link-text: "Read library volunteer Emily's review of <cite>Moxie</cite>, by Jennifer Mathieu."
