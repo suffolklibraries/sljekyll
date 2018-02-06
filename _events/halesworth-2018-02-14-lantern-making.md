@@ -11,4 +11,4 @@ event-ticket-price: free, donations appreciated
 breadcrumb: y
 ---
 
-Children of all ages are invited to make lanterns for the Winterlight Festival, which starts at dusk on Saturday 17 February.
+Children of all ages are invited to make lanterns for the [Winterlight Festival](/events/halesworth-2018-02-17-winterlight/), which starts at dusk on Saturday 17 February.
