@@ -1,7 +1,7 @@
 ---
 recurrent-title: "Sporting Memories reminiscence group"
 recurrent-description: "Handle sports images and memorabilia, revisit and share memories of sport, talk about any kind of sport, take part in quizzes, games and gentle activities and make new friends."
-recurrent-day: Tuesdays from 6 February 2018
+recurrent-day: Tuesdays
 recurrent-times: 1400-1545
 recurrent-location: ipswich-county-library
 recurrent-location-display-name: Ipswich County Library
