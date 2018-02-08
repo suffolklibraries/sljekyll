@@ -6,6 +6,7 @@ location-text: Lavenham Library
 event-start-date: 2018-02-15
 event-start-time: 1415
 event-end-time: 1515
+event-category: half-term
 breadcrumb: y
 ---
 
