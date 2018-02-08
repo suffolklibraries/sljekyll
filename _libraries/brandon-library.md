@@ -28,5 +28,4 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: 'Self-service only until 11:30am today (Wednesday 7 February). Contact <a href="tel:01473351249">01473 351249</a> or <strong>help@suffolklibraries.co.uk</strong> for customer services.'
 ---
