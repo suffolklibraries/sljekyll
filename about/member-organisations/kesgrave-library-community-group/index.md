@@ -4,6 +4,9 @@ title: Kesgrave Library Community Group
 sidebar: about
 breadcrumb: member-organisations
 ---
+
+![Kesgrave Library Community Group logo](/images/featured/featured-kesgrave-library-community-group-logo.jpg)
+
 ## Who we are
 
 * Chair: Jonathan Ogden
