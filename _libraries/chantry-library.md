@@ -30,5 +30,8 @@ branch-photocopying: black and white available
 branch-scan-to-email: y
 branch-for-sale: "Special sale of ex-library books at knockdown prices now on."
 breadcrumb: y
-branch-news: 'The library is <a href="/news/chantry-library-closed-temporarily-on-sundays">temporarily closed on Sundays</a>. The monthly health walks will still go ahead. The closest alternative library is <a href="/libraries/stoke-library/">Stoke Library</a>.'
+branch-news: '<ul>
+              <li><li>The library close at 1pm on Saturday 9 February due to staff sickness. Call <a href="tel:01473351249">01473 351249</a> or email <strong>help@suffolklibraries.co.uk</strong> with any enquiries.</li></li>
+              <li>The library is <a href="/news/chantry-library-closed-temporarily-on-sundays">temporarily closed on Sundays</a>. The monthly health walks will still go ahead. The closest alternative library is <a href="/libraries/stoke-library/">Stoke Library</a>.</li>
+            </ul>'
 ---
