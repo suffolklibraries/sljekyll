@@ -1,6 +1,6 @@
 ---
 id: alde-lear
-name: "Bears & Vagabonds present: <cite>Lear</cite>"
+name: "Bears & Vagabonds present: <cite>Lear</cite> - CANCELLED"
 location: aldeburgh-library
 location-text: Aldeburgh Library
 event-start-date: 2018-02-12
@@ -8,6 +8,8 @@ event-start-time: 1500
 event-ticket-price: Pay what you like
 breadcrumb: y
 ---
+
+We're afraid this event has been **cancelled** due to unforeseen circumstances.
 
 > “This cold night will turn us all to fools and madmen.”
 
