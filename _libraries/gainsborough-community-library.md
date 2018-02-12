@@ -33,5 +33,4 @@ branch-photocopying: black and white, A4 or A3 available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/gainsborough-community-library
 breadcrumb: y
-branch-news: 'The library will be closed from 1pm - 2pm on Saturday 10 February due to staff shortages. Call <a href="tel:01473351249">01473 351249</a> or email <strong>help@suffolklibraries.co.uk</strong> with any enquiries.'
 ---
