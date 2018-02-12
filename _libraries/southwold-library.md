@@ -25,7 +25,6 @@ branch-parking: on-street parking only
 branch-bookdrop: y
 branch-refreshments: hot drinks for sale
 branch-for-sale: "<ul>
-                  <li>Reydon and Southwold Pantomime Group <cite>Robinson Crusoe</cite> (21-27 January 2018) tickets; £8.50 adults, £4.50 under 16s, £20.50 family.</li>
                   <li>Crafts, Southwold and Suffolk Coast Treasure Trails sheets.</li>
                   <li>Local authors' books.</li>
                   <li>Branded bags and pens.</li>"
