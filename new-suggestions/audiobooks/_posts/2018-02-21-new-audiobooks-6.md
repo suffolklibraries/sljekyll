@@ -4,15 +4,15 @@ title: "Recommended new audiobooks #6"
 date: 2018-02-21
 author: sophie-green
 category: audiobooks
-excerpt: ""
+excerpt: "From crime fiction to historical fiction to non-fiction, our latest audiobook list has something for all ears."
 featured-image: /images/featured/featured-audiobooks-6.jpg
-featured-alt: ""
+featured-alt: "Ikigai, Birdy Flynn"
 breadcrumb: audiobooks
 featured-excerpt: "Reserve or download our newest audiobooks and enjoy great stories while working, travelling or simply relaxing at home."
 featured-link-text: Check out our newest audiobooks
 ---
 
-![](/images/featured/featured-audiobooks-6.jpg)
+![Ikigai, Birdy Flynn](/images/featured/featured-audiobooks-6.jpg)
 
 ## CD audiobooks
 
@@ -161,3 +161,59 @@ featured-link-text: Check out our newest audiobooks
 ## BorrowBox
 
 [Set up BorrowBox](/elibrary/borrowbox/)
+
+### [<cite>The Innocent Wife</cite>, by Amy Lloyd, read by Christina Cole](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_468798&fromPage=1&b2bSite=4172)
+
+> "Twenty years ago, Dennis Danson was arrested and imprisoned for the brutal murder of a young girl in Florida’s Red River County.
+
+> "Now he’s the subject of a true-crime documentary that’s whipping up a frenzy online to uncover the truth and free him from his wrongful conviction.
+
+> "Thousands of miles away in England, Samantha is obsessed with Dennis’s case. She exchanges letters with him, and is quickly won over by his apparent charm and kindness to her.
+
+> "Soon she has left her old life behind to marry him and campaign for his release.
+
+> "But when the campaign is successful and Dennis is freed, Sam begins to discover new details that suggest he may not be quite so innocent after all.
+
+> "But how do you confront your husband when you don’t want to know the truth?"
+
+### [<cite>The News Quiz: the best of 2017</cite>, by various](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_469087&fromPage=1&b2bSite=4172)
+
+> "2017 marked the 40th anniversary of <cite>The News Quiz</cite>, ‘the finest topical comedy panel game known to radio’ and a guaranteed provider of headlines, punchlines and sparkling satirical wit.
+
+> "The panellists in these four shows from Series 92 and 93 find the funny in topics ranging from Donald Trump to Morris dancing, and from by-elections to pie selections, taking in Brexit, Theresa May, Jeremy Corbyn, urban foxes and an unorthodox lifeguard recruitment drive – not to mention the small matter of a UK General Election. To add to the hilarity, newsreaders Alan Smith, Corrie Corfield and Kathy Clugston read a selection of humorous press cuttings contributed by listeners."
+
+### [<cite>Little Bones</cite>, by Sam Blake, read by Aoife McMahon](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_467407&fromPage=1&b2bSite=4172)
+
+> "Detective Garda Cathy Connolly’s life has taken an unexpected turn. Faced with an unplanned pregnancy, Cathy’s struggling with how she’s going to balance motherhood with the very real dangers of life on the job.
+
+> "Called to what seems like a routine break-in, Cathy discovers a baby’s bones concealed in the hem of an old wedding dress. When the dress’s original owner, Lavinia Grant, is found dead, Cathy is drawn deep into a complex web of secrets and lies spun by three generations of women.
+
+> "Meanwhile, a fugitive killer has arrived in Dublin with old scores to settle. Struggling with her own secrets, Cathy doesn’t know how dangerous – and personal – this case is about to become..."
+
+### [<cite>Nucleus</cite>, by Rory Clements, read by Adam Sims](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_469107&fromPage=1&b2bSite=4172)
+
+> "June 1939. England is partying like there is no tomorrow, gas masks at the ready... but the good times won’t last. In Europe, the Nazis have invaded Czechoslovakia, and in Germany Jewish persecution is rife. Closer to home, the IRA has embarked on a bombing campaign throughout Britain.
+
+> "But the most far-reaching event of all goes largely unreported: in Germany, Otto Hahn has made the atomic bomb possible. German High Command fears that Cambridge’s Cavendish Laboratory could be close behind; they must discover its secrets before it is safe to wage war.
+
+> "When one of the Cavendish’s finest brains is murdered, Professor Tom Wilde is drawn into the investigation. He unveils a conspiracy in which the fate of the world rests on the discovery of a kidnapped child. Can Tom Wilde discover the truth before it is too late?"
+
+### [<cite>True Girt: the unauthorised history of Australia, volume 2</cite>, written and read by David Hunt](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_460314&fromPage=1&b2bSite=4172)
+
+> "In this side-splitting sequel to his bestselling history, David Hunt takes us to the Australian frontier. This was the Wild South, home to hardy pioneers, gun-slinging bushrangers, directionally challenged explorers, nervous indigenous people, Caroline Chisholm and sheep. Lots of sheep.
+
+> "<cite>True Girt</cite> introduces Thomas Davey, the hard-drinking Tasmanian governor who invented the Blow My Skull cocktail, and Captain Moonlite, Australia's most famous LGBTI bushranger. Meet William Nicholson, the Melbourne hipster who gave Australia the steam-powered coffee roaster and the world the secret ballot. And say hello to Harry, the first camel used in Australian exploration, who shot dead his owner, the explorer John Horrocks.
+
+> "Learn how Truganini's death inspired the Martian invasion of Earth. Discover the role of Hall and Oates in the Myall Creek Massacre. And be reminded why you should never ever smoke with the Wild Colonial Boy and Mad Dan Morgan."
+
+### [<cite>Birdy Flinn</cite>, by Helen Donohue, read by Caroline Lennon](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_386710&fromPage=1&b2bSite=4172)
+
+> "There is the secret of Birdy’s dead grandmother’s cat – how the boys tortured it and Birdy Flynn had to drown her in the river to stop her suffering. There’s the secret of Mrs Cope, the popular teacher, who touched Birdy in the cupboard. There's the secret of the gypsy girl at school who Birdy likes, but she can’t tell anyone. Because Birdy’s other secret is that while she plays and fights as good as the boys, she is a girl, and she doesn’t always feel like a girl is supposed to.
+
+> "Her beloved Irish mother has her own troubles, as does the rest of her rowdy family. So Birdy decides to do what she feels she has to – hold onto her secrets and try and become what others want, even if it means suffering and the risk of losing herself."
+
+### [<cite>Fight Like a Girl</cite>, written and read by Clementine Ford](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_460313&fromPage=1&b2bSite=4172)
+
+> "Online sensation, fearless feminist heroine and scourge of trolls and misogynists everywhere, Clementine Ford is a beacon of hope and inspiration to thousands of women and girls. Her incendiary debut, Fight Like a Girl, is an essential manifesto for feminists new, old and soon to be, and exposes just how unequal the world continues to be for women. Crucially, it is a call to arms for all women to rediscover the fury that has been suppressed by a society that still considers feminism a threat.
+
+> "<cite>Fight Like a Girl</cite> will make you laugh, cry and scream. But above all it will make you demand and fight for a world in which women have real equality and not merely the illusion of it."
