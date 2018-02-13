@@ -14,7 +14,7 @@ breadcrumb: meet-the-author
 
 ![Rowan Williams](/images/featured/featured-rowan-williams.jpg)
 
-Rowan Williams, Baron Williams of Oystermouth held the offices ofArchbishop of Canterbury, Metropolitan of the Province of Canterbury and Primate of All England between 2002 and 2012. He was previously the Bishop of Monmouth and Archbishop of Wales, making him the first Archbishop of Canterbury in modern times not to be appointed from within the Church of England.
+Rowan Williams, Baron Williams of Oystermouth held the offices of Archbishop of Canterbury, Metropolitan of the Province of Canterbury and Primate of All England between 2002 and 2012. He was previously the Bishop of Monmouth and Archbishop of Wales, making him the first Archbishop of Canterbury in modern times not to be appointed from within the Church of England.
 
 He is also a talented writer and poet. His most recent book is [<cite>Holy living: the Christian tradition for today</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2203169).
 
