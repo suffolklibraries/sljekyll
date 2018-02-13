@@ -142,4 +142,22 @@ featured-link-text: Check out our newest audiobooks
 
 > "It starts with Rosie Williams, a prostitute, stripped naked and beaten to death down by the docks – the heart of Aberdeen's red light district. For DS Logan McRae it's a bad start to another bad day. Rosie won't be the only one making an unscheduled trip to the morgue. Across the city six people are burning to death in a petrol-soaked squat, the doors and windows screwed shut from the outside. And despite Logan's best efforts, it's not long before another prostitute turns up on the slab..."
 
-### [<cite>Sapiens: a b]
+### [<cite>Sapiens: a brief history of humankind</cite>, by Yuval Noah Harari, read by Derek Perkins](https://suffolklibraries.overdrive.com/media/3032518)
+
+> "Planet Earth is 4.5 billion years old. In just a fraction of that time, one species among countless others has conquered it. Us.
+
+> "We are the most advanced and most destructive animals ever to have lived. What makes us brilliant? What makes us deadly? What makes us Sapiens?
+
+> "In this bold and provocative book, Yuval Noah Harari explores who we are, how we got here and where we're going.
+
+> "Sapiens is a thrilling account of humankind's extraordinary history – from the Stone Age to the Silicon Age – and our journey from insignificant apes to rulers of the world."
+
+### [<cite>Child 44</cite>, by Tom Rob Smith, read by Steven Pacey](https://suffolklibraries.overdrive.com/media/3645998)
+
+> "MGB officer Leo is a man who never questions the Party Line. He arrests whomever he is told to arrest. He dismisses the horrific death of a young boy because he is told to, because he believes the Party stance that there can be no murder in Communist Russia. Leo is the perfect soldier of the regime.
+
+> "But suddenly his confidence that everything he does serves a great good is shaken. He is forced to watch a man he knows to be innocent be brutally tortured. And then he is told to arrest his own wife. Leo understands how the State works: Trust and check, but check particularly on those we trust. He faces a stark choice: his wife or his life. And still the killings of children continue..."
+
+## BorrowBox
+
+[Set up BorrowBox](/elibrary/borrowbox/)
