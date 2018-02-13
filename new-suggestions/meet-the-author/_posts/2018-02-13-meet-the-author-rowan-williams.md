@@ -34,7 +34,7 @@ I am finishing a long novel by a Norwegian writer, Sigrid Undset (in translation
 
 I also want to read George Saunders’ Booker Prize novel, [<cite>Lincoln in the Bardo</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2115917), as I very much like his short stories. And I usually have a detective story on the go (I very much like Sophie Hannah).
 
-## 4. Which books have more influenced your life?
+## 4. Which books have most influenced your life?
 
 Apart from the Bible and Shakespeare, as they say? Probably the novels of Dostoevsky and William Golding, the poetry of Eliot and Auden. Also a couple of biographies, including Evelyn Waugh’s [<cite>The Life of the Right Reverend Ronald Knox</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=702531) and Nicholas Mosley’s <cite>The Life of Raymond Raynes</cite> and a not so well known historical novel, <cite>The Man on a Donkey</cite> by H. F. M. Prescott. This is a long, brilliant, enormously moving story about the Reformation in Yorkshire.
 
