@@ -4,7 +4,7 @@ title: "Check out a beautiful book from the 2017 Klaus Flugge Prize shortlist"
 date: 2017-09-13
 author: sophie-green
 category: childrens-ya-books
-excerpt: "The Klaus Flugge Prize recognises promosing and exciting newcomers to children's picture book illustration."
+excerpt: "The Klaus Flugge Prize recognises promising and exciting newcomers to children's picture book illustration."
 featured-image: /images/featured/featured-klaus-flugge-prize.jpg
 featured-alt: "The Museum of Me, First Snow, Hannah and Sugar"
 featured-link-text: "Check out the 2017 Klaus Flugge Prize shortlist."
@@ -13,7 +13,7 @@ breadcrumb: childrens-ya-books
 
 ![The Museum of Me, First Snow, Hannah and Sugar](/images/featured/featured-klaus-flugge-prize.jpg)
 
-The Klaus Flugge Prize recognises promosing and exciting newcomers to children's picture book illustration. Named after the influential children's book publisher who founded Andersen Press, which specialises in picture books and children's fiction, it is now in its second year, with the winner being announced today (13 September)
+The Klaus Flugge Prize recognises promising and exciting newcomers to children's picture book illustration. Named after the influential children's book publisher who founded Andersen Press, which specialises in picture books and children's fiction, it is now in its second year, with the winner being announced today (13 September)
 
 Last year's winner was [<cite>Hector and the Hummingbird</cite>, by Nicholas John Frith](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1818990), a story about a quiet bear and his noisy best friend.
 
