@@ -126,7 +126,7 @@ featured-link-text: Check out our newest audiobooks
 
 > "Patrick has decided to have one last hurrah before closing the doors of his family home for good. All of the old crowd, back together for a weekend. It's not long before secrets begin to float to the surface. Everything that Lindsey shared with her best friend at sixteen and everything that she didn't. But some secrets should never be told. They need to be taken to the grave, while others require revenge at any cost."
 
-### [<cite>Ikigai: The Japanese Secret to a Long and Happy Life</cite>, by Héctor García and Francesc Miralles, read by Noako Mori](https://suffolklibraries.overdrive.com/media/3398737)
+### [<cite>Ikigai: the Japanese secret to a long and happy life</cite>, by Héctor García and Francesc Miralles, read by Noako Mori](https://suffolklibraries.overdrive.com/media/3398737)
 
 > "The people of Japan believe that everyone has an ikigai – a reason for being; the thing that gets you out of bed each morning. And according to the residents of the Japanese island of Okinawa – the world's longest-living people – finding it is the key to a longer and more fulfilled life.
 
@@ -206,7 +206,7 @@ featured-link-text: Check out our newest audiobooks
 
 > "Learn how Truganini's death inspired the Martian invasion of Earth. Discover the role of Hall and Oates in the Myall Creek Massacre. And be reminded why you should never ever smoke with the Wild Colonial Boy and Mad Dan Morgan."
 
-### [<cite>Birdy Flinn</cite>, by Helen Donohue, read by Caroline Lennon](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_386710&fromPage=1&b2bSite=4172)
+### [<cite>Birdy Flynn</cite>, by Helen Donohue, read by Caroline Lennon](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_386710&fromPage=1&b2bSite=4172)
 
 > "There is the secret of Birdy’s dead grandmother’s cat – how the boys tortured it and Birdy Flynn had to drown her in the river to stop her suffering. There’s the secret of Mrs Cope, the popular teacher, who touched Birdy in the cupboard. There's the secret of the gypsy girl at school who Birdy likes, but she can’t tell anyone. Because Birdy’s other secret is that while she plays and fights as good as the boys, she is a girl, and she doesn’t always feel like a girl is supposed to.
 
