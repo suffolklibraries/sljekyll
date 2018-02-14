@@ -30,11 +30,15 @@ He has led successful bids to national and regional funding bodies, and implemen
 
 ### Sylvia Knights
 
-Sylvia has volunteered her support for many libraries, as well as her local library in Bungay.
+Sylvia has been a member of the board since Suffolk Libraries' creation in 2012, serving first on the Interim Board and then as an elected board member since 2013.
 
-She was appointed an interim board member of Suffolk Libraries in February 2012 and was recently re-elected as a trustee and secretary to the Friends of Bungay Community Library. She helped the friends group achieve CIO registration.
+She was instrumental in setting up the Friends of Bungay Library, where she remains a trustee and secretary, and is very active in both the group’s activities and in promoting the library as a vital hub for the community.
 
-Sylvia is Bungay deputy town mayor and a trustee of Bungay Town Trust.
+Having taken initial responsibility for encouraging and assisting other friends groups to set up across the county, she continues to advise and assist with governance issues.
+
+In 2004, following a long career in IT, she moved with her husband from London to Bungay, where he was born. She is very active in the community. She has served as a town councillor for five years and was Bungay Town Mayor 2015/16.
+
+She is a feoffee (trustee) of Bungay Town Trust, a charitable trust which owns and manages fourteen almshouses in the town. As a trustee of The Honeypot Company, which administers the existing community centre, she has been helping to spearhead a project seeking to build a new community centre for the town. She is also a governor at Bungay High School.
 
 ### Jonathan Ogden
 

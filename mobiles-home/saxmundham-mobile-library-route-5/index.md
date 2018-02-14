@@ -4,12 +4,6 @@ title: Saxmundham Mobile Library Route 5
 breadcrumb: mobiles-home
 ---
 
-<div class="{% include /c/generic-panel.html %}">
-
-<p>Saxmundham Mobile Library Route 5 is not running today (5 February) due to vehicle problems.</p>
-
-</div>
-
 ## Contact us:
 
 Manager: Helen Hudson and Peter Fiske
