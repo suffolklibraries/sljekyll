@@ -17,11 +17,11 @@ Our member organisations elect our board.
 * Sue Buck (Friends of Long Melford Library)
 * Sarah Wilson (Friends of Capel St Mary Library)
 
-[Suffolk Libraries board member photos](/assets/zip/suffolk-libraries-ips-board-members-photos.zip) (ZIP file, 2.5MB)
-
 ## Biographies
 
 ### Tony Brown
+
+<img src="/images/board/tony-brown-200.jpg" alt="Tony Brown" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
 
 Tony worked in marketing after graduating from Oxford with a degree in English. He's worked with brands such as Beecham, Perrier and NatWest.
 
@@ -30,6 +30,8 @@ He moved to Suffolk in 1991 when he was appointed director of Management Educati
 He has led successful bids to national and regional funding bodies, and implemented change management programmes with, among others, Virgin and Norfolk Constabulary.
 
 ### Sylvia Knights
+
+<img src="/images/board/sylvia-knights-200.jpg" alt="Sylvia Knights" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
 
 Sylvia has been a member of the board since Suffolk Libraries' creation in 2012, serving first on the Interim Board and then as an elected board member since 2013.
 
@@ -41,6 +43,8 @@ In 2004, following a long career in IT, she moved with her husband from London t
 
 She is a feoffee (trustee) of Bungay Town Trust, a charitable trust which owns and manages fourteen almshouses in the town. As a trustee of The Honeypot Company, which administers the existing community centre, she has been helping to spearhead a project seeking to build a new community centre for the town. She is also a governor at Bungay High School.
 
+<img src="/images/board/jonathan-ogden-200.jpg" alt="Jonathan Ogden" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+
 ### Jonathan Ogden
 
 Jonathan is a Kesgrave town councillor and Explorer scout leader, teaching young adults new skills.
@@ -48,6 +52,8 @@ Jonathan is a Kesgrave town councillor and Explorer scout leader, teaching young
 He works for a major retailer and is the trustee to Kesgrave Library's friends group.
 
 ### Colin Rockall
+
+<img src="/images/board/colin-rockall-200.jpg" alt="Colin Rockall" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
 
 Colin has been a resident of Lavenham since 2000 and is the current Chairman of Friends of Lavenham Library.
 
@@ -59,7 +65,11 @@ Within Lavenham, Colin undertakes voluntary work, which includes being a Directo
 
 ### Maureen Garratt Simpson
 
-Maureen has been the chair of the Friends of Ipswich County Library for almost two years; she brings great enthusiasm to the role.  She is experienced in media, having worked for the BBC and lectured in Media Studies at New Suffolk College.  In earlier years, Maureen worked for Cambridgeshire libraries and when her children were small, ran some story time sessions in Gainsborough and Ipswich libraries.  As a teacher, she has worked with students of many nationalities and varied ages and has seen at first hand the need for good books that are readily available to aid research and lead to qualifications that enhance a person’s life and self-esteem.  Maureen’s personal interests involve reading and early music.
+<img src="/images/board/maureen-garratt-simpson-200.jpg" alt="Maureen Garratt Simpson" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+
+Maureen has been the chair of the Friends of Ipswich County Library for almost two years; she brings great enthusiasm to the role. She is experienced in media, having worked for the BBC and lectured in Media Studies at New Suffolk College.
+
+In earlier years, Maureen worked for Cambridgeshire libraries and when her children were small, ran some story time sessions in Gainsborough and Ipswich libraries. As a teacher, she has worked with students of many nationalities and varied ages and has seen at first hand the need for good books that are readily available to aid research and lead to qualifications that enhance a person’s life and self-esteem. Maureen’s personal interests include reading and early music.
 
 ### Bruce Leeke
 
@@ -79,6 +89,10 @@ Now retired, Sue worked for many years as a self-employed barrister. She also se
 
 ### Sarah Wilson
 
-Sarah has lived in Suffolk for over 30 years, and she has been a lifelong lover of reading, and user of public libraries. She is a regular user of Capel St Mary library, and a member of the Library Friends Group, and has been a member of a book group for over 20 years! She volunteers at various book festivals. Sarah is a strong supporter of Suffolk Libraries, and very aware of how lucky we are to have access to such an excellent library service. She values and supports the inclusive and diverse services Suffolk Libraries offers to everyone in the community.
+<img src="/images/board/sarah-wilson-200.jpg" alt="Sarah Wilson" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+
+Sarah has lived in Suffolk for over 30 years, and she has been a lifelong lover of reading, and user of public libraries. She is a regular user of Capel St Mary library, and a member of the Library Friends Group, and has been a member of a book group for over 20 years! She volunteers at various book festivals.
+
+Sarah is a strong supporter of Suffolk Libraries, and very aware of how lucky we are to have access to such an excellent library service. She values and supports the inclusive and diverse services Suffolk Libraries offers to everyone in the community.
 
 Sarah has had a long, varied and interesting career in the public sector associated with farming and the environment. This originally involved time as an agronomist and farm business adviser in East Suffolk, which was followed by many years working at a broader level in environmental policy, organisational management, business development and change management.
