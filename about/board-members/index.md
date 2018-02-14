@@ -73,6 +73,8 @@ In earlier years, Maureen worked for Cambridgeshire libraries and when her child
 
 ### Bruce Leeke
 
+<img src="/images/board/bruce-leeke-200.jpg" alt="Bruce Leeke" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+
 Bruce joined Suffolk Libraries as our new chief executive in February 2018. As the chief executive officer he is accountable to the board for the day to day management of the organisation and is also a member of the Board.
 
 Bruce spent the early part of his career in the commercial conference sector for large publishing companies, before moving into the charity sector. He worked for the Institute of Fundraising where he was director of events, before becoming chief operating officer and then interim CEO.
