@@ -22,6 +22,7 @@ Our member organisations elect our board.
 ## Biographies
 
 ### Tony Brown
+
 Tony worked in marketing after graduating from Oxford with a degree in English. He's worked with brands such as Beecham, Perrier and NatWest.
 
 He moved to Suffolk in 1991 when he was appointed director of Management Education by the University of East Anglia. He subsequently held senior academic and management roles at UEA, including dean of Continuing Education, and Business Development director.
@@ -70,7 +71,7 @@ He was regional director for St John Ambulance for five years, with responsibili
 
 ### Sue Buck
 
-Sue is secretary of the Friends of Long Melford Library, and has been energetic, enthusiastic and successful in establishing the group and raising its profile through events.
+Sue is trustee of the Friends of Long Melford Library, and has been energetic, enthusiastic and successful in establishing the group and raising its profile through events.
 
 She is very active in her local community, fundraising for organisations including the Children's Society, St Nicholas Hospice and her church, where she also served as an officer on the church Council for many years.
 
