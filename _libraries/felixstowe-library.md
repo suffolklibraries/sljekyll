@@ -28,4 +28,5 @@ branch-colour-printing: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/felixstowe-library
 breadcrumb: y
+branch-news: "The library's customer toilet will be closed for redecoration from 19 February - 5 March."
 ---
