@@ -23,6 +23,10 @@ This LGBT History Month, we've made our Young Adult LGBT recommendation list big
 
 > "Today will change Adam Thorn's life. Between his religious family, unpleasant boss and his ex-boyfriend, the bindings of his world are coming undone. And way across town, a ghost has risen from the lake. Is there time for Adam to find his release?"
 
+<cite>Release</cite> is also available as an [eBook on OverDrive](https://suffolklibraries.overdrive.com/media/3280775) and an [eAudiobook on BorrowBox](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_455091&fromPage=1&b2bSite=4172).
+
+[Read Kate's review of <cite>Release</cite> &rarr;](/new-suggestions/young-adult/release-by-patrick-ness/)
+
 ## [<cite>The Gentleman's Guide to Vice and Virtue</cite>, by Mackenzi Lee](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2278312)
 
 > "Henry 'Monty' Montague doesn't care that his roguish passions are far from suitable for the gentleman he was born to be. But as Monty embarks on his grand tour of Europe, his quests for pleasure and vice are in danger of coming to an end. Not only does his father expect him to take over the family's estate upon his return, but Monty is also nursing an impossible crush on his best friend and traveling companion, Percy. So Monty vows to make this yearlong escapade one last hedonistic hurrah and flirt with Percy from Paris to Rome.
