@@ -23,7 +23,7 @@ breadcrumb: young-adult
 
 > "Sixteen-year-old Starr lives in two worlds: the poor neighbourhood where she was born and raised and her posh high school in the suburbs. The uneasy balance between them is shattered when Starr is the only witness to the fatal shooting of her unarmed best friend, Khalil, by a police officer. Now what Starr says could destroy her community. It could also get her killed."
 
-Check out [Emily's review of <cite>The Hate U Give</cite>](/new-suggestions/young-adult/the-hate-u-give-by-angie-thomas/).
+[Read Emily's review of <cite>The Hate U Give</cite> &rarr;](/new-suggestions/young-adult/the-hate-u-give-by-angie-thomas/).
 
 ## [<cite>Ink</cite>, by Alice Broadway](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2100209)
 
@@ -36,6 +36,8 @@ Check out [Emily's review of <cite>The Hate U Give</cite>](/new-suggestions/youn
 > "When a lone soldier, Cole, arrives with news of Lachlan Agatta's death, all hope seems lost for Catarina. Her father was the world's leading geneticist, and humanity's best hope of beating a devastating virus.
 
 > "Then, hidden beneath Cole's genehacked enhancements she finds a message of hope: Lachlan created a vaccine. Only she can find and decrypt it, if she can unravel the clues he left for her. The closer she gets, the more she finds herself at risk from Cartaxus, a shadowy organization with a stranglehold on the world's genetic tech. But it's too late to turn back. As the pieces fit together it's clear there is one final secret that Cat must unlock. A secret that will change everything."
+
+[Read Amélie's review of <cite>This Mortal Coil</cite> &rarr;](/new-suggestions/young-adult/this-mortal-coil-by-emily-suvada/)
 
 ## [<cite>Thornhill</cite>, by Pam Smy](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2183579)
 

@@ -6,12 +6,7 @@ breadcrumb: elibrary
 
 <div class="{% include /c/generic-panel.html %}">
 
-    <ul>
-
-        <li>The name of the Zinio service has changed to RBdigital.</li>
-        <li>You can still use the Zinio app to access any magazines you have previously downloaded. However, <strong>you need to download the new RBdigital app to download new magazines on a tablet</strong>.</li>
-
-    </ul>
+        <p>The Zinio for Libraries app will be discontinued on <strong>3 April 2018</strong>. Follow the instructions below to download the new RBdigital app, which offers the same functionality.</p>
 
 </div>
 
