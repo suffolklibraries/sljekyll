@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Borrow a stunning book from the 2018 CILIP Kate Greenaway Medal longlist"
-date: 2019-02-16
+date: 2018-02-16
 author: alice-violett
 category: childrens-ya-books
 excerpt: "The 2018 CILIP Kate Greenaway Medal longlist has been announced. The prize celebrates the best-illustrated children's and Young Adult books from the past year."
@@ -91,7 +91,7 @@ Harry Potter's second adventure is brought to life by Jim Kay's superb illustrat
 
 > "There are living things everywhere: the more we look, the more we find. There are creatures on the tops of the tallest jungle trees, at the bottom of the coldest oceans, even under the feathers of birds and in boiling volcanic pools. So how many different kinds are there? One, two, three - lots!"
 
-## [<cite>Storm Whale</cite>, illustrated by Jane Tanner, written by Sarah Brennan]()
+## [<cite>Storm Whale</cite>, illustrated by Jane Tanner, written by Sarah Brennan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2191482)
 
 > "'Bleak was the day and the wind whipped down, when I and my sisters walked to town...'
 
