@@ -8,7 +8,7 @@ excerpt: "<cite>Show Boat</cite> gives us a vivid glimpse into the world of floa
 event-start-date: 2018-03-03
 event-start-time: 1430
 event-ticket-price: 10, under 12s £8
-event-image-small: featured/featured-presents-show-boat.jpg
+event-image-small: featured/featured-show-boat.jpg
 event-category: presents
 breadcrumb: y
 ---

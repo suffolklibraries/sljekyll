@@ -8,7 +8,7 @@ excerpt: "The operatic story of dying courtesan Violetta Valéry."
 event-start-date: 2018-03-15
 event-start-time: 1430
 event-ticket-price: 10, under 12s £8
-event-image-small: featured/featured-presents-la-traviata.jpg
+event-image-small: featured/featured-la-traviata.jpg
 event-category: presents
 breadcrumb: y
 ---

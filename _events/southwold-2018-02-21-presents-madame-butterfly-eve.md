@@ -1,14 +1,14 @@
 ---
 id: swold-butterfly
-name: "Suffolk Libraries Presents: <cite>Madame Butterfly</cite> - evening showing"
+name: "Suffolk Libraries Presents: <cite>Madama Butterfly</cite> - evening showing"
 location: southwold-library
 location-text: Southwold Library
 event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, Southwold, IP18 6JP"
-excerpt: "Set against the backdrop of 20th century Japan, <cite>Madame Butterfly</cite> triggers ideas about cultural and sexual imperialism."
+excerpt: "Set against the backdrop of 20th century Japan, <cite>Madama Butterfly</cite> triggers ideas about cultural and sexual imperialism."
 event-start-date: 2018-02-21
 event-start-time: 1930
 event-ticket-price: 10, under 12s £8
-event-image-small: article/presents-butterfly.jpg
+event-image-small: featured/presents-butterfly.jpg
 event-category: presents
 breadcrumb: y
 ---
