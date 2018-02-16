@@ -28,4 +28,5 @@ branch-colour-printing: A4 colour printing
 branch-scan-to-email: y
 branch-for-sale: handmade cards, postage stamps
 breadcrumb: y
+branch-news: 'The library will be closing at 2pm on Sunday 18 February due to staff sickness.'
 ---
