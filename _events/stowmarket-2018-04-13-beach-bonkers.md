@@ -3,7 +3,7 @@ id: stow-seaside
 name: Seaside crafts
 location: stowmarket-library
 location-text: Stowmarket Library
-event-start-date: 2018-04-11
+event-start-date: 2018-04-13
 event-start-time: 1000
 event-end-time: 1200
 event-ticket-price: free
