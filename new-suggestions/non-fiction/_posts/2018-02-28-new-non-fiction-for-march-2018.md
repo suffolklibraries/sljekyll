@@ -15,11 +15,11 @@ breadcrumb: non-fiction
 
 ## [<cite>Rebel Prince: the power, passion and defiance of Prince Charles</cite>, by Tom Bower](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2365176)
 
+Prince Charles gets the Tom Bower treatment. Expect this one to be serialised in the newspapers.
+
 > "Few heirs to the throne have suffered as much humiliation as Prince Charles. Despite his hard work and genuine concern for the disadvantaged, he has struggled to overcome his unpopularity. After Diana's death, his approval rating crashed to 4% and has been only rescued by his marriage to Camilla.
 
 > "Nevertheless, just one third of Britons now support him to be the next king. Many still fear that his accession to the throne will cause a constitutional crisis. That mistrust climaxed in the aftermath of the trial of Paul Burrell, Diana's butler, acquitted after the Queen's sensational 'recollection'. In unearthing many secrets surrounding that and many other dramas, Bower's book, relying on the testimony from over 120 people employed or welcomed into the inner sanctum of Clarence House, reveals a royal household rife with intrigue and misconduct."
-
-Prince Charles gets the Tom Bower treatment. There are bound to be newspaper serialisations to whet your appetite.
 
 ## [<cite>The Reykjavik Confessions: the incredible true story of Iceland's most notorious murder case</cite>, by Simon Cox](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2334436)
 
@@ -37,7 +37,7 @@ Depending on your point of view, getting up in the morning is either something y
 
 ## [<cite>Ed Sheeran: the stories behind the songs</cite>, by Caroline Sullivan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2349989)
 
-In this new biography of the Framlingham singer who's very much at the top of his game right now:
+Framlingham's own Ed Sheeran is at the top of his game right now. In this new biography:
 
 > "Caroline Sullivan, an experienced music journalist who has interviewed the biggest popstars in the world, goes behind the scenes to discover the stories behind the creation of Ed Sheeran's award-winning music. As well as analysis of his ground-breaking albums, there is an in-depth reflection on Ed Sheeran's life and where he has drawn his talent and inspiration."
 

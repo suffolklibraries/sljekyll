@@ -15,7 +15,7 @@ breadcrumb: fiction
 
 ## [<cite>Panic Room</cite>, by Robert Goddard](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2154011)
 
-Like our other Robert Goddard books, this is already racking up the reservations!
+We always get a waiting list for any new Robert Goddard book. This is no exception.
 
 > "High on a Cornish cliff sits a vast uninhabited mansion. Uninhabited except for Blake, a young woman of dubious background, secretive and alone, currently acting as housesitter. The house has a panic room. Cunningly concealed, steel lined, impregnable - and apparently closed from within. Even Blake doesn't know it's there. She's too busy being on the run from life, from a story she thinks she's escaped.
 
@@ -23,7 +23,7 @@ Like our other Robert Goddard books, this is already racking up the reservations
 
 ## [<cite>The Western Wind</cite>, by Samantha Harvey](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2334744)
 
-If you are not already aware of Samantha Harvey's work, she has already appeared on longlists for the Booker and the Bailey's Prize. Her new novel is set in the medieval period.
+If you are not already aware of Samantha Harvey's work, she has previously been longlisted for the Booker and the Bailey's Prize. Her new novel is set in the medieval period.
 
 > "Oakham, near Bruton, is a tiny village by a big river without a bridge. When a man is swept away by the river in the early hours of Shrove Saturday, an explanation has to be found. Was it murder, or suicide, or an accident?
 
@@ -31,15 +31,15 @@ If you are not already aware of Samantha Harvey's work, she has already appeared
 
 ## [<cite>The Perfect Girlfriend</cite>, by Karen Hamilton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2333542)
 
-In this debut thriller:
+In this debut novel:
 
 > "Juliette loves Nate. She will follow him anywhere. She's even become a flight attendant for his airline, so she can keep a closer eye on him. They are meant to be. The fact that Nate broke up with her six months ago means nothing. Because Juliette has a plan to win him back. She is the perfect girlfriend. And she'll make sure no one stops her from getting exactly what she wants. True love hurts, but Juliette knows it's worth all the pain."
 
-This psychological thriller is bound to be popular. Anna Friel is already confirmed as the reader of the audiobook.
+This archetypal psychological thriller has had a huge marketing push and is bound to be popular. Anna Friel is already confirmed as the reader of the audiobook.
 
 ## [<cite>Let Me Lie</cite>, by Clare Mackintosh](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2334673)
 
-Another new psychological thriller, this time from the author of [<cite>I Let You Go</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1738493) and [<cite>I See You</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2132001):
+Another new psychological thriller from a writer who has made quite a reputation for herself with 2015's [<cite>I Let You Go</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1738493), as well as [<cite>I See You</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2132001):
 
 > "The police say it was suicide. Anna says it was murder. They're both wrong.
 
@@ -47,7 +47,7 @@ Another new psychological thriller, this time from the author of [<cite>I Let Yo
 
 ## [<cite>The Trick to Time</cite>, by Kit De Waal](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2337634)
 
-The new title from the author of the critically-acclaimed [<cite>My Name is Leon</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1963426).
+Kit De Waal is the author of the critically-acclaimed [<cite>My Name is Leon</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1963426), so there will be a lot of interest in her new title.
 
 > "Birmingham, 1972. Mona is a young Irish girl in a big city, with the thrill of a new job and a room of her own in a busy boarding house. On her first night out in town, she meets William, a charming Irish boy with an easy smile and an open face. They embark upon a dizzying love affair, a whirlwind marriage, an unexpected pregnancy - before a sudden tragedy tears them apart.
 
@@ -55,7 +55,7 @@ The new title from the author of the critically-acclaimed [<cite>My Name is Leon
 
 ## [<cite>Money in the Morgue</cite>, by Stella Duffy & Ngaio Marsh](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2333486)
 
-Stella Duffy has completed a unique crime novel the late Ngaio Marsh started during the Second World War:
+Ngaio March died in 1982, but her creation Roderick Alleyn returns in Stella Duffy's completion of a unique crime novel that Marsh started during the Second World War.
 
 > "It’s business as usual for Mr Glossop as he does his regular round delivering wages to government buildings scattered across New Zealand’s lonely Canterbury plains. But when his car breaks down he is stranded for the night at the isolated Mount Seager Hospital, with the telephone lines down, a storm on its way and the nearby river about to burst its banks.
 
