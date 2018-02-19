@@ -7,6 +7,7 @@ event-start-date: 2018-03-13
 event-start-time: 1630
 event-end-time: 1700
 event-category: science-week
+event-ticket-price: free but donations welcome
 breadcrumb: y
 ---
 

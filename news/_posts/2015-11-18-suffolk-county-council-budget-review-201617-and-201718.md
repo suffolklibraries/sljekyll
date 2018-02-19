@@ -7,7 +7,7 @@ category: news
 excerpt: "Our response to Suffolk County Council's budget proposals."
 breadcrumb: news
 ---
-The county council’s budget proposals include a reduction of 11% to Suffolk’s library service over the next two years &#8211; £350,000 each year in 2016/17 and 2017/18 (see <a href="https://committeeminutes.suffolk.gov.uk/DocSetPage.aspx?MeetingTitle=(26-11-2015),%20Scrutiny%20Committee">Agenda Item 05 Evidence Set 1, Scrutiny Committee meeting 26 November 2015</a>).
+The county council’s budget proposals include a reduction of 11% to Suffolk’s library service over the next two years &#8211; £350,000 each year in 2016/17 and 2017/18.
 
 Alison Wheeler, General Manager, Suffolk Libraries, said:
 

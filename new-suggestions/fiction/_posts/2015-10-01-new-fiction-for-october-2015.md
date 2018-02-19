@@ -31,7 +31,7 @@ You will not be able to put this one down. Diane Chamberlain is one of our most 
 
 [![Dishing the dirt by M C Beaton](/images/article/dishing-the-dirt.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10661047?QRY=CTIBIB%3C%20IRN(844339)&QRYTEXT=Dishing%20the%20dirt)
 
-Another instalment in the hugely successful Agatha Raisin series, in which Agatha finds herself prime suspect in a murder. <a href="/news/haverhill-library-to-host-best-selling-author-m-c-beaton-after-winning-competition">Author M C Beaton will be visiting Haverhill Library this month.</a>
+Another instalment in the hugely successful Agatha Raisin series, in which Agatha finds herself prime suspect in a murder.
 
 ## [<cite>The house on Cold Hill</cite> by Peter James](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10662506?QRY=CTIBIB%3C%20IRN(53434343)&QRYTEXT=The%20house%20on%20Cold%20Hill)
 
