@@ -3,7 +3,7 @@ id: deb-deben
 name: "Film screening: <cite>Life on the Deben</cite>"
 location: debenham-library
 location-text: Debenham Library
-event-start-date: 2018-02-23
+event-start-date: 2018-02-24
 event-doors-open: 1400
 event-start-time: 1430
 event-ticket-price: 5
