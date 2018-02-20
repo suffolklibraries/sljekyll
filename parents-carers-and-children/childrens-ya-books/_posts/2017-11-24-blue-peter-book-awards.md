@@ -39,7 +39,7 @@ The shortlist for the 2018 Blue Peter Book Awards has been announced. The two ca
 
 > "Ami lives on Culion, an island for people who have leprosy. Her mother is infected. She loves her home - but then islanders untouched by sickness are forced to leave. Ami's desperate to return before her mother's death. She finds a strange and fragile hope in a colony of butterflies. Can they lead her home before it's too late?"
 
-<cite>The Island at the End of Everything</cite> has also been nominated for a [Costs Children's Book Award](/parents-carers-and-children/childrens-ya-books/costa-shortlist/) and is available as an [eBook on OverDrive](https://suffolklibraries.overdrive.com/media/3244813).
+<cite>The Island at the End of Everything</cite> has also been nominated for a [Costa Children's Book Award](/parents-carers-and-children/childrens-ya-books/costa-shortlist/) and is available as an [eBook on OverDrive](https://suffolklibraries.overdrive.com/media/3244813).
 
 ## Best Book with Facts
 
