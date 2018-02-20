@@ -10,7 +10,7 @@ breadcrumb: hub
 
 	<p><img src="/images/featured/featured-makerspace-minecraft.jpg" alt="Children playing Minecraft in the MakerSpace"></p>
 
-	<p class="tc"><a class="custom-force-white custom-no-underline pure-button pure-button-primary" href="https://uk.bookingbug.com/home/45066-Enterprise-+-Innovation-Hub">Book a machine →</a></p>
+	<p class="tc">Email <strong>hub@suffolklibraries.co.uk</strong> to book a machine</p>
 
 	<div class="custom-prose custom-lh-copy">
 
@@ -178,6 +178,6 @@ breadcrumb: hub
 
 	</div>
 
-	<p class="tc"><a class="custom-force-white custom-no-underline pure-button pure-button-primary" href="https://uk.bookingbug.com/home/45066-Enterprise-+-Innovation-Hub">Book a machine →</a></p>
+	<p class="tc">Email <strong>hub@suffolklibraries.co.uk</strong> to book a machine</p>
 
 </article>

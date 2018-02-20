@@ -31,11 +31,9 @@ sidebar: health
 
 > "Plot 29 is on a London allotment site where people come together to grow. It's just that sometimes what Allan Jenkins grows there, along with marigolds and sorrel, is solace."
 
-## <cite>The White Book</cite>, by Han Kang, translated by Deborah Smith
+## [<cite>The White Book</cite>, by Han Kang, translated by Deborah Smith](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2268076)
 
-> "while on a writer's residency in Warsaw, a city palpably scarred by the violence of the past, the narrator finds herself haunted by the story of her older sister, who died a mere two hours after birth. A fragmented exploration of white things - the swaddling bands that were also her shroud, the breast milk she did not live to drink, the blank page on which the narrator herself attempts to reconstruct the story - unfold in a powerfully poetic distillation. As she walks the unfamiliar, snow-streaked streets, lined by buildings formerly obliterated in the Second World War, their identities blur and overlap as the narrator wonders, 'Can I give this life to you?'."
-
-This book isn't in our catalogue just yet, but it's coming soon!
+> "While on a writer's residency in Warsaw, a city palpably scarred by the violence of the past, the narrator finds herself haunted by the story of her older sister, who died a mere two hours after birth. A fragmented exploration of white things - the swaddling bands that were also her shroud, the breast milk she did not live to drink, the blank page on which the narrator herself attempts to reconstruct the story - unfold in a powerfully poetic distillation. As she walks the unfamiliar, snow-streaked streets, lined by buildings formerly obliterated in the Second World War, their identities blur and overlap as the narrator wonders, 'Can I give this life to you?'"
 
 ## [<cite>With the End in Mind: Dying, death and wisdom in an age of denial</cite>, by Kathryn Mannix](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2284334)
 
