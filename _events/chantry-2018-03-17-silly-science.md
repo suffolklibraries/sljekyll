@@ -6,7 +6,7 @@ location-text: Chantry Library
 event-start-date: 2018-03-17
 event-start-time: 1430
 event-end-time: 1630
-event-category: children
+event-category: science-week
 event-ticket-price: free
 breadcrumb: y
 ---
