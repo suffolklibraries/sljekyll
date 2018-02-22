@@ -11,7 +11,7 @@ featured-link-text: "Check out the 2018 CILIP Kate Greenaway Medal longlist"
 breadcrumb: childrens-ya-books
 ---
 
-![Under the Same Sky, The Pond, The Song from Somewhere Else"](/images/featured/featured-kate-greenaway-2018.jpg)
+![Under the Same Sky, The Pond, The Song from Somewhere Else](/images/featured/featured-kate-greenaway-2018.jpg)
 
 The 2018 CILIP Kate Greenaway Medal longlist has been announced. The prize was established in 1955 and is named after a 19th century artist renowned for her brilliant illustrations and designs for children. It celebrates the best-illustrated children's and Young Adult editions from the past year.
 
