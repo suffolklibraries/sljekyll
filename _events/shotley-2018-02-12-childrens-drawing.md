@@ -1,6 +1,6 @@
 ---
-id: shot-draw
-name: "Children's drawing workshop"
+id: shot-little
+name: "<cite>Ten Little Fingers and Ten Little Toes</cite> 10th anniversary storytime"
 location: shotley
 location-text: Shotley (Suffolk Libraries Local)
 event-start-date: 2018-02-12
