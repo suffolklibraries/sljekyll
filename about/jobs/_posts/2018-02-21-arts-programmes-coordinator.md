@@ -8,7 +8,7 @@ excerpt: "Full time, &pound;25,000 per annum, closing date Fri 9 Mar."
 expiry-date: 2018-03-09
 ---
 
-[Download a role profile](/assets/pdf/arts-programme-coordinator-feb-2018.pdf) (PDF).
+[Download a role profile](/assets/pdf/arts-programmes-coordinator-feb-2018.pdf) (PDF).
 
 [Find out more about the NPO programme](/assets/pdf/npo-information.pdf) (PDF).
 
