@@ -4,7 +4,7 @@ title: New films and DVDs for February 2018
 date: 2018-02-02
 author: brandon-king
 category: films-dvds
-excerpt: "Featuring <cite>Thor: Ragnarok</cite> and <cite>Blade Runner 2049</cite."
+excerpt: "Featuring <cite>Thor: Ragnarok</cite> and <cite>Blade Runner 2049</cite>."
 featured-image: /images/featured/featured-february-2018-dvds.jpg
 featured-alt: "Thor: Ragnarok, Blade Runner 2049, The Lego Ninjago Movie"
 featured-link-text: Check out our new films and DVDs for February.
