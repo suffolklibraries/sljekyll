@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Tot Rock"
-recurrent-description: "Songs and action rhymes for toddlers, no need to book. <strong>No session 26 February</strong>."
+recurrent-description: "Songs and action rhymes for toddlers, no need to book."
 recurrent-day: Monday
 recurrent-times: 1100-1200
 recurrent-location: eye-library

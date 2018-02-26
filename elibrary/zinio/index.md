@@ -6,10 +6,7 @@ breadcrumb: elibrary
 
 <div class="{% include /c/generic-panel.html %}">
 
-        <ul>
-        <li>RBdigital will be unavailable between approximately <strong>10am and 12pm on Monday 26 February</strong>.</li>
-        <li>The Zinio for Libraries app will be discontinued on <strong>3 April 2018</strong>. Follow the instructions below to download the new RBdigital app, which offers the same functionality.</li>
-        </ul>
+        <p>The Zinio for Libraries app will be discontinued on <strong>3 April 2018</strong>. Follow the instructions below to download the new RBdigital app, which offers the same functionality.</p>
 
 </div>
 
