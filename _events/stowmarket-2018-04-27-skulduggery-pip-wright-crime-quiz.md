@@ -9,6 +9,7 @@ event-start-time: 1900
 event-ticket-price: 12.50
 event-category: skulduggery-2018
 event-image: featured/featured-pip-wright.jpg
+event-image-alt: Pip Wright
 breadcrumb: y
 ---
 
