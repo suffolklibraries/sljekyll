@@ -343,9 +343,9 @@
 
                             {% if recurrents.size > 0 %}
 
-                                <section class="pb2">
+                                <details class="pb1 mb1 bb b--light-gray">
 
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pb2 bb b--light-gray">{{ current-recurrent.title }}</h1>
+                                    <summary><h1 class="dib f4 ma0">{{ current-recurrent.title }}</h1></summary>
 
                                     {% for recurrent in recurrents %}
 
@@ -389,7 +389,7 @@
 
                                     {% endfor %}
 
-                                </section>
+                                </details>
 
                             {% endif %}
 
