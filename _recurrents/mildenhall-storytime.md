@@ -1,5 +1,6 @@
 ---
 recurrent-title: "Storytime: stories and rhymes for pre-school children"
+recurrent-description: "Term-time only."
 recurrent-day: Wednesday
 recurrent-times: 1030-1115
 recurrent-location: mildenhall-library
