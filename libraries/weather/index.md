@@ -34,6 +34,7 @@ time-updated: 1537
     <li><a href="/libraries/haverhill-library/">Haverhill Library</a> closed from 1700 28 Feb</li>
     <li><a href="/libraries/ipswich-county-library">Ipswich County Library</a> closed from 1700 28 Feb</li>
     <li><a href="/libraries/kedington-library/">Kedington Library</a> closed 28 Feb</li>
+    <li><a href="/libraries/kesgrave-library/">Kesgrave Library</a> closed from 1700 28 Feb</li>
     <li><a href="/libraries/kessingland-library/">Kessingland Library</a> closed from 1200 28 Feb</li>
     <li><a href="/libraries/lowestoft-library/">Lowestoft Library</a> closed from 1200 28 Feb</li>
     <li><a href="/libraries/mildenhall-library/">Mildenhall Library</a> closed from 1330 28 Feb</li>
