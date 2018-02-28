@@ -41,7 +41,7 @@ time-updated: 1537
     <li><a href="/libraries/newmarket-library/">Newmarket Library</a> closed 28 Feb and provisionally open 1000 - 1700 1 Mar</li>
     <li><a href="/libraries/oulton-broad-library">Oulton Broad Library</a> closed 28 Feb</li>
     <li><a href="/libraries/stoke-library">Stoke Library</a> closed 28 Feb</li>
-    <li><a href="/libraries/stowmarket-library">Stowmarket Library</a> closed until 1000 1 Mar</li>
+    <li><a href="/libraries/stowmarket-library">Stowmarket Library</a> opening at 1000 1 Mar</li>
     <li><a href="/libraries/sudbury-library">Sudbury Library</a> closed from 1300 28 Feb</li>
     <li><a href="/libraries/thurston-library">Thurston Library</a> closed 28 Feb</li>
 </ul>
