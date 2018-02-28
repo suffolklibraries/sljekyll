@@ -30,4 +30,5 @@ branch-scan-to-email: y
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/hadleigh-library
 breadcrumb: y
+branch-news: "The library will be closed from 1-2pm today (Wednesday 28 February)"
 ---
