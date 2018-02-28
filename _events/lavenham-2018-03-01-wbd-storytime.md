@@ -1,6 +1,6 @@
 ---
 id: lav-wbd
-name: "World Book Day storytime"
+name: "World Book Day storytime - CANCELLED"
 location: lavenham-library
 location-text: Lavenham Library
 event-start-date: 2018-03-01
@@ -9,6 +9,8 @@ event-end-time: 1515
 event-ticket-price: free
 breadcrumb: y
 ---
+
+**This event has been cancelled as the library is closed due to poor weather conditions**
 
 Preschoolers and their parents/carers are invited to join us for special World Book Day session in our usual Tot Rock slot.
 
