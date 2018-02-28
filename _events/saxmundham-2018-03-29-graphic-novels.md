@@ -9,6 +9,6 @@ event-ticket-price: 1
 breadcrumb: y
 ---
 
-Amazing artist and cartoonist Bluna will be at the library talking about graphic novels and offering you the opportunity to have a go at making your own.
+Amazing artist and cartoonist [Bluna](http://www.cartebluna.co.uk/) will be at the library talking about graphic novels and offering you the opportunity to have a go at making your own.
 
 Ticket price includes refreshments. No need to book.
