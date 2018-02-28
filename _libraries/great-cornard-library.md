@@ -26,5 +26,4 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: "The library will be closed for lunch from 12:15-1:15pm today (Wednesday 28 February)."
 ---
