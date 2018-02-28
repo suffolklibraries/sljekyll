@@ -10,6 +10,8 @@ event-ticket-price: 1
 breadcrumb: y
 ---
 
+**Please call the library on [01683 713558](tel:01683 713558) before attending this event as it may be cancelled due to poor weather conditions**
+
 Staff from Burwell Museum will be visiting us to talk about and show some of the items in their collection.
 
 Ticket price includes refreshments.
