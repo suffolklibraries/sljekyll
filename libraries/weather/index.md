@@ -3,7 +3,7 @@ layout: full-width
 title: Library and mobile library closures due to weather conditions
 breadcrumb: branches
 date-updated: 2018-02-28
-time-updated: 1043
+time-updated: 1143
 ---
 
 <h2>Updated: {{ page.date-updated | date: "%b %-d, %Y" }} at {{ page.time-updated }}</h2>
@@ -32,6 +32,8 @@ time-updated: 1043
     <li><a href="/libraries/hadleigh-library/">Hadleigh Library</a> closed 1300-1400, 28 Feb</li>
     <li><a href="/libraries/halesworth-library/">Halesworth Library</a> closed 28 Feb</li>
     <li><a href="/libraries/kedington-library/">Kedington Library</a> closed 28 Feb</li>
+    <li><a href="/libraries/kessingland-library/">Kessingland Library</a> closed from 1200 28 Feb</li>
+    <li><a href="/libraries/lowestoft-library/">Lowestoft Library</a> closed from 1200 28 Feb</li>
     <li><a href="/libraries/mildenhall-library/">Mildenhall Library</a> closed from 1330 28 Feb</li>
     <li><a href="/libraries/newmarket-library/">Newmarket Library</a> closed 28 Feb</li>
     <li><a href="/libraries/oulton-broad-library">Oulton Broad Library</a> closed 28 Feb</li>
