@@ -3,7 +3,7 @@ layout: full-width
 title: Library and mobile library closures due to weather conditions
 breadcrumb: branches
 date-updated: 2018-02-28
-time-updated: 1147
+time-updated: 1210
 ---
 
 <h2>Updated: {{ page.date-updated | date: "%b %-d, %Y" }} at {{ page.time-updated }}</h2>
@@ -39,6 +39,7 @@ time-updated: 1147
     <li><a href="/libraries/newmarket-library/">Newmarket Library</a> closed 28 Feb</li>
     <li><a href="/libraries/oulton-broad-library">Oulton Broad Library</a> closed 28 Feb</li>
     <li><a href="/libraries/stoke-library">Stoke Library</a> closed 28 Feb</li>
+    <li><a href="/libraries/sudbury-library">Sudbury Library</a> closed from 1300 28 Feb</li>
     <li><a href="/libraries/thurston-library">Thurston Library</a> closed 28 Feb</li>
 </ul>
 
