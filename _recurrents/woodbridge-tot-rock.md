@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Tot Rock"
-recurrent-description: "Songs and action rhymes for toddlers. 28 February session will be a Stay and Play instead due to poor weather conditions."
+recurrent-description: "Songs and action rhymes for toddlers."
 recurrent-day: Wednesday
 recurrent-times: 1115-1145
 recurrent-location: woodbridge-library
