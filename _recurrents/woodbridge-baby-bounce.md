@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Baby Bounce"
-recurrent-description: "Soothing songs and gentle nursery rhymes for babies. 28 February session will be a Stay and Play instead due to poor weather conditions."
+recurrent-description: "Soothing songs and gentle nursery rhymes for babies."
 recurrent-day: Wednesday
 recurrent-times: 1030-1050
 recurrent-location: woodbridge-library
