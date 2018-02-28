@@ -8,7 +8,7 @@ time-updated: 0937
 
 <h2>Updated: {{ page.date-updated | date: "%b %-d, %Y" }} at {{ page.time-updated }}</h2>
 
-<p><strong>Please note our customer service line (01473 351249) is currently not staffed. You can contact us at:</strong></p>
+<p><strong>Please note we have limited coverage on our customer service line (01473 351249). If you can't get through contact us at:</strong></p>
 
 <ul>
     <li>help@suffolklibraries.co.uk</li>
