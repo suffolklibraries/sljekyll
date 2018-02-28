@@ -3,7 +3,7 @@ layout: full-width
 title: Library and mobile library closures due to weather conditions
 breadcrumb: branches
 date-updated: 2018-02-28
-time-updated: 1620
+time-updated: 1649
 ---
 
 <h2>Updated: {{ page.date-updated | date: "%b %-d, %Y" }} at {{ page.time-updated }}</h2>
@@ -24,26 +24,33 @@ time-updated: 1620
 </ul>
 
 <ul>
-    <li><a href="/libraries/beccles-library/">Beccles Library</a> closed from 1300 28 Feb</li>
+    <li><a href="/libraries/beccles-library/">Beccles Library</a> closed from 1300 28 Feb and open from 1100 1 Mar</li>
+    <li><a href="/libraries/brandon-library/">Brandon Library</a> open 1130 - 1430 1 Mar</li>
+    <li><a href="/libraries/broomhill-library/">Broomhill Library</a> open from 1100 1 Mar</li>
+    <li><a href="/libraries/bungay-library/">Bungay Library</a> open 0930 - 1300 1 Mar</li>
+    <li><a href="/libraries/bury-st-edmunds-library/">Bury St Edmunds Library</a> open from 1000 1 Mar</li>
     <li><a href="/libraries/clare-library/">Clare Library</a> closed from 1100 28 Feb</li>
     <li><a href="/libraries/debenham-library/">Debenham Library</a> closed 28 Feb</li>
     <li><a href="/libraries/elmswell-library/">Elmswell Library</a> closed 28 Feb</li>
     <li><a href="/libraries/eye-library/">Eye Library</a> closed from 1600 28 Feb</li>
-    <li><a href="/libraries/great-cornard-library/">Great Cornard Library</a> closed from 1300 28 Feb</li>
+    <li><a href="/libraries/framlingham-library/">Framlingham Library</a> closed from 1230 1 Mar</li>
+    <li><a href="/libraries/glemsford-library/">Glemsford Library</a> open from 1100 1 Mar</li>
+    <li><a href="/libraries/great-cornard-library/">Great Cornard Library</a> closed from 1300 28 Feb and open from 1000 1 Mar</li>
     <li><a href="/libraries/halesworth-library/">Halesworth Library</a> closed 28 Feb</li>
-    <li><a href="/libraries/haverhill-library/">Haverhill Library</a> closed from 1700 28 Feb</li>
+    <li><a href="/libraries/haverhill-library/">Haverhill Library</a> closed from 1700 28 Feb and open from 1000 1 Mar</li>
     <li><a href="/libraries/ipswich-county-library">Ipswich County Library</a> closed from 1700 28 Feb</li>
-    <li><a href="/libraries/kedington-library/">Kedington Library</a> closed 28 Feb</li>
+    <li><a href="/libraries/kedington-library/">Kedington Library</a> closed 28 Feb and 1 Mar</li>
     <li><a href="/libraries/kesgrave-library/">Kesgrave Library</a> closed from 1700 28 Feb</li>
     <li><a href="/libraries/kessingland-library/">Kessingland Library</a> closed from 1200 28 Feb</li>
+    <li><a href="/libraries/lavenham-library/">Lavenham Library</a> closed 1 Mar</li>
     <li><a href="/libraries/lowestoft-library/">Lowestoft Library</a> closed from 1200 28 Feb</li>
-    <li><a href="/libraries/mildenhall-library/">Mildenhall Library</a> closed from 1330 28 Feb</li>
+    <li><a href="/libraries/mildenhall-library/">Mildenhall Library</a> closed from 1330 28 Feb and open from 1000 1 Mar</li>
     <li><a href="/libraries/needham-market-library/">Needham Market Library</a> closed from 1700 28 Feb</li>
-    <li><a href="/libraries/newmarket-library/">Newmarket Library</a> closed 28 Feb and provisionally open 1000 - 1700 1 Mar</li>
+    <li><a href="/libraries/newmarket-library/">Newmarket Library</a> closed 28 Feb and open 1000 - 1700 1 Mar</li>
     <li><a href="/libraries/oulton-broad-library">Oulton Broad Library</a> closed 28 Feb</li>
-    <li><a href="/libraries/stoke-library">Stoke Library</a> closed 28 Feb</li>
-    <li><a href="/libraries/stowmarket-library">Stowmarket Library</a> opening at 1000 1 Mar</li>
-    <li><a href="/libraries/sudbury-library">Sudbury Library</a> closed from 1300 28 Feb</li>
-    <li><a href="/libraries/thurston-library">Thurston Library</a> closed 28 Feb</li>
+    <li><a href="/libraries/stoke-library">Stoke Library</a> closed 28 Feb and 1 Mar</li>
+    <li><a href="/libraries/stowmarket-library">Stowmarket Library</a> open from 1000 1 Mar</li>
+    <li><a href="/libraries/sudbury-library">Sudbury Library</a> closed from 1300 28 Feb and open from 1000 1 Mar</li>
+    <li><a href="/libraries/thurston-library">Thurston Library</a> closed 28 Feb and open from 1630 1 Mar</li>
 </ul>
 
