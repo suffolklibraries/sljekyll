@@ -12,7 +12,7 @@ time-updated: 0856
 
 <ul>
     <li>help@suffolklibraries.co.uk</li>
-    <li><a href="https://mobile.twitter.com/suffolklibrary</a>@suffolklibrary</li>
+    <li><a href="https://mobile.twitter.com/suffolklibrary">@suffolklibrary</a></li>
 <ul>
 
     <li><a href="/mobiles-home/bury-st-edmunds-mobile-library-route-18/">Bury St Edmunds mobile route 18</a> not running 28 Feb</li>
