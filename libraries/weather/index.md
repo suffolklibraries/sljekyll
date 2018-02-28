@@ -19,5 +19,5 @@ time-updated: 0729
 <ul>
     <li><a href="/libraries/halesworth-library/">Halesworth Library</a> closed 28 Feb</li>
     <li><a href="/libraries/kedington-library/">Kedington Library</a> closed 28 Feb</li>
-    li><a href="/libraries/newmarket-library/">Newmarket Library</a> closed 28 Feb</li>
+    <li><a href="/libraries/newmarket-library/">Newmarket Library</a> closed 28 Feb</li>
 </ul>
