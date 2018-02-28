@@ -32,5 +32,4 @@ branch-room-hire: /libraries/room-hire/beccles-library
 branch-display-space: Double-sided noticeboard for non-commercial event posters
 breadcrumb: y
 branch-other-facilities: '1940s, 1950s, 1960s and 1970s memory boxes available to local borrowers for up to three weeks. No library card required. Contact the library for more information.'
-branch-news: 'Waveney District Council services unavailable today (Wednesday 28 February) due to poor weather conditions.'
 ---
