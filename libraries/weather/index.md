@@ -15,3 +15,7 @@ time-updated: 0729
     <li><a href="/mobiles-home/saxmundham-mobile-library-route-14/">Saxmundham mobile route 14</a> not running 28 Feb</li>
 
 </ul>
+
+<ul>
+    <li><a href="/libraries/halesworth-library/">Halesworth Library</a> closed 28 Feb</li>
+</ul>
