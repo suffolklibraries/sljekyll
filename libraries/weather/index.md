@@ -3,11 +3,16 @@ layout: full-width
 title: Library and mobile library closures due to weather conditions
 breadcrumb: branches
 date-updated: 2018-02-28
-time-updated: 0830
+time-updated: 0856
 ---
 
 <h2>Updated: {{ page.date-updated | date: "%b %-d, %Y" }} at {{ page.time-updated }}</h2>
 
+<p><strong>Please note our customer service line (01473 351249) is currently not staffed. You can contact us at:</strong></p>
+
+<ul>
+    <li>help@suffolklibraries.co.uk</li>
+    <li><a href="https://mobile.twitter.com/suffolklibrary</a>@suffolklibrary</li>
 <ul>
 
     <li><a href="/mobiles-home/bury-st-edmunds-mobile-library-route-18/">Bury St Edmunds mobile route 18</a> not running 28 Feb</li>
@@ -21,4 +26,5 @@ time-updated: 0830
     <li><a href="/libraries/kedington-library/">Kedington Library</a> closed 28 Feb</li>
     <li><a href="/libraries/newmarket-library/">Newmarket Library</a> closed 28 Feb</li>
     <li><a href="/libraries/oulton-broad-library">Oulton Broad Library</a> closed 28 Feb</li>
+    <li><a href="/libraries/thurston-library">Thurston Library</a> closed 28 Feb</li>
 </ul>
