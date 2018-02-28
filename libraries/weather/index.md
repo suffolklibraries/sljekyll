@@ -3,7 +3,7 @@ layout: full-width
 title: Library and mobile library closures due to weather conditions
 breadcrumb: branches
 date-updated: 2018-02-28
-time-updated: 0729
+time-updated: 0830
 ---
 
 <h2>Updated: {{ page.date-updated | date: "%b %-d, %Y" }} at {{ page.time-updated }}</h2>
@@ -20,4 +20,5 @@ time-updated: 0729
     <li><a href="/libraries/halesworth-library/">Halesworth Library</a> closed 28 Feb</li>
     <li><a href="/libraries/kedington-library/">Kedington Library</a> closed 28 Feb</li>
     <li><a href="/libraries/newmarket-library/">Newmarket Library</a> closed 28 Feb</li>
+    <li><a href="/libraries/oulton-broad-library">Oulton Broad Library</a> closed 28 Feb</li>
 </ul>
