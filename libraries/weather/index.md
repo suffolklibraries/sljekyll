@@ -24,9 +24,14 @@ time-updated: 0856
 </ul>
 
 <ul>
+    <li><a href="/libraries/debenham-library/">Debenham Library</a> closed 28 Feb</li>
+    <li><a href="/libraries/elmswell-library/">Elmswell Library</a> closed 28 Feb</li>
+     <li><a href="/libraries/great-cornard-library/">Great Cornard Library</a> closed 1215-1315 28 Feb</li>
+    <li><a href="/libraries/hadleigh-library/">Hadleigh Library</a> closed 1300-1400 28 Feb</li>
     <li><a href="/libraries/halesworth-library/">Halesworth Library</a> closed 28 Feb</li>
     <li><a href="/libraries/kedington-library/">Kedington Library</a> closed 28 Feb</li>
     <li><a href="/libraries/newmarket-library/">Newmarket Library</a> closed 28 Feb</li>
     <li><a href="/libraries/oulton-broad-library">Oulton Broad Library</a> closed 28 Feb</li>
     <li><a href="/libraries/thurston-library">Thurston Library</a> closed 28 Feb</li>
 </ul>
+
