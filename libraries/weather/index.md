@@ -32,6 +32,7 @@ time-updated: 1426
     <li><a href="/libraries/great-cornard-library/">Great Cornard Library</a> closed from 1300 28 Feb</li>
     <li><a href="/libraries/halesworth-library/">Halesworth Library</a> closed 28 Feb</li>
     <li><a href="/libraries/haverhill-library/">Haverhill Library</a> closed from 1700 28 Feb</li>
+    <li><a href="/libraries/ipswich-county-library">Ipswich County Library</a> closed from 1700 28 Feb</li>
     <li><a href="/libraries/kedington-library/">Kedington Library</a> closed 28 Feb</li>
     <li><a href="/libraries/kessingland-library/">Kessingland Library</a> closed from 1200 28 Feb</li>
     <li><a href="/libraries/lowestoft-library/">Lowestoft Library</a> closed from 1200 28 Feb</li>
@@ -40,6 +41,7 @@ time-updated: 1426
     <li><a href="/libraries/newmarket-library/">Newmarket Library</a> closed 28 Feb and provisionally open 1000 - 1700 1 Mar</li>
     <li><a href="/libraries/oulton-broad-library">Oulton Broad Library</a> closed 28 Feb</li>
     <li><a href="/libraries/stoke-library">Stoke Library</a> closed 28 Feb</li>
+    <li><a href="/libraries/stowmarket-library">Stowmarket Library</a> closed until 1000 1 Mar</li>
     <li><a href="/libraries/sudbury-library">Sudbury Library</a> closed from 1300 28 Feb</li>
     <li><a href="/libraries/thurston-library">Thurston Library</a> closed 28 Feb</li>
 </ul>
