@@ -3,7 +3,7 @@ layout: full-width
 title: Library and mobile library closures due to weather conditions
 breadcrumb: branches
 date-updated: 2018-02-28
-time-updated: 1040
+time-updated: 1043
 ---
 
 <h2>Updated: {{ page.date-updated | date: "%b %-d, %Y" }} at {{ page.time-updated }}</h2>
@@ -27,6 +27,7 @@ time-updated: 1040
     <li><a href="/libraries/clare-library/">Clare Library</a> closed from 1100 28 Feb</li>
     <li><a href="/libraries/debenham-library/">Debenham Library</a> closed 28 Feb</li>
     <li><a href="/libraries/elmswell-library/">Elmswell Library</a> closed 28 Feb</li>
+    <li><a href="/libraries/eye-library/">Eye Library</a> closed from 1600 28 Feb</li>
     <li><a href="/libraries/great-cornard-library/">Great Cornard Library</a> closed 1215-1315, 28 Feb</li>
     <li><a href="/libraries/hadleigh-library/">Hadleigh Library</a> closed 1300-1400, 28 Feb</li>
     <li><a href="/libraries/halesworth-library/">Halesworth Library</a> closed 28 Feb</li>
