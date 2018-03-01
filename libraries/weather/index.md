@@ -3,7 +3,7 @@ layout: full-width
 title: Library and mobile library closures due to weather conditions
 breadcrumb: branches
 date-updated: 2018-03-01
-time-updated: 0913
+time-updated: 0924
 ---
 
 <h2>Updated: {{ page.date-updated | date: "%b %-d, %Y" }} at {{ page.time-updated }}</h2>
@@ -25,13 +25,12 @@ time-updated: 0913
 
 <ul>
     <li><a href="/libraries/beccles-library/">Beccles Library</a> open from 1100 1 Mar</li>
-    <li><a href="/libraries/brandon-library/">Brandon Library</a> open 1130 - 1430 1 Mar</li>
+    <li><a href="/libraries/brandon-library/">Brandon Library</a> self-service only until 1130, then open until 1300 1 Mar</li>
     <li><a href="/libraries/broomhill-library/">Broomhill Library</a> open from 1100 1 Mar</li>
     <li><a href="/libraries/bungay-library/">Bungay Library</a> open 0930 - 1300 1 Mar</li>
     <li><a href="/libraries/bury-st-edmunds-library/">Bury St Edmunds Library</a> open from 1000 1 Mar</li>
     <li><a href="/libraries/debenham-library/">Debenham Library</a> closed 28 Feb</li>
     <li><a href="/libraries/eye-library/">Eye Library</a> closed from 1600 28 Feb</li>
-    <li><a href="/libraries/framlingham-library/">Framlingham Library</a> closed from 1230 1 Mar</li>
     <li><a href="/libraries/glemsford-library/">Glemsford Library</a> open from 1100 1 Mar</li>
     <li><a href="/libraries/great-cornard-library/">Great Cornard Library</a> open from 1000 1 Mar</li>
     <li><a href="/libraries/haverhill-library/">Haverhill Library</a> closed from 1700 28 Feb and open 1000 - 1700 1 Mar</li>
@@ -43,7 +42,6 @@ time-updated: 0913
     <li><a href="/libraries/mildenhall-library/">Mildenhall Library</a> open from 1000 1 Mar</li>
     <li><a href="/libraries/needham-market-library/">Needham Market Library</a> closed from 1700 28 Feb</li>
     <li><a href="/libraries/newmarket-library/">Newmarket Library</a> closed 1 Mar</li>
-    <li><a href="/libraries/stoke-library">Stoke Library</a> closed 1 Mar</li>
     <li><a href="/libraries/stowmarket-library">Stowmarket Library</a> open from 1000 1 Mar</li>
     <li><a href="/libraries/sudbury-library">Sudbury Library</a> open from 1000 1 Mar</li>
 </ul>
