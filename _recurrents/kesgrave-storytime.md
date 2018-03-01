@@ -1,5 +1,6 @@
 ---
 recurrent-title: "Storytime: stories, songs and activities for pre-school children (term-time only)"
+recurrent-description: No session Friday 2 March.
 recurrent-day: Friday
 recurrent-times: 0945-1015
 recurrent-location: kesgrave-library
