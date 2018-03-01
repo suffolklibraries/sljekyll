@@ -52,7 +52,7 @@ If you don't have a card number or don't remember your PIN please contact custom
 - [Stoke Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Stowmarket Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Stradbroke Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
-- [Sudbury Library](http://netloan.suffolklibraries.co.uk/)
+- [Sudbury Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Thurston Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [West Suffolk House Library](http://netloan.suffolklibraries.co.uk/)
 - [Wickham Market Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
