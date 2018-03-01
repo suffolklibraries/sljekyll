@@ -3,7 +3,16 @@ layout: full-width
 title: Library and mobile library closures due to weather conditions
 breadcrumb: branches
 date-updated: 2018-03-01
+<<<<<<< HEAD
 time-updated: 1137
+=======
+time-updated: 1018
+featured: true
+featured-image: "/images/featured/featured-bury-snow.jpg"
+featured-alt: "Bury Cathedral at sunset covered in snow"
+featured-excerpt: "The recent poor weather has affected library opening times and mobile library services."
+featured-link-text: "Get the latest updates"
+>>>>>>> working
 ---
 
 <h2>Updated: {{ page.date-updated | date: "%b %-d, %Y" }} at {{ page.time-updated }}</h2>
@@ -41,4 +50,3 @@ time-updated: 1137
     <li><a href="/libraries/stowmarket-library">Stowmarket Library</a> open from 1000 1 Mar</li>
     <li><a href="/libraries/sudbury-library">Sudbury Library</a> open from 1000 1 Mar</li>
 </ul>
-
