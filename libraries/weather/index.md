@@ -20,13 +20,7 @@ featured-link-text: "Get the latest updates"
     <li><a href="https://mobile.twitter.com/suffolklibrary">@suffolklibrary</a></li>
 </ul>
 
-<ul>
-
-    <li><a href="/mobiles-home/bury-st-edmunds-mobile-library-route-18/">Bury St Edmunds mobile</a> not running 1 Mar or 2 Mar</li>
-    <li><a href="/mobiles-home/ipswich-mobile-library-route-17/">Ipswich mobile route 17</a> not running 1 Mar or 2 Mar</li>
-    <li><a href="/mobiles-home/saxmundham-mobile-library-route-16/">Saxmundham mobile route 16</a> not running 1 Mar or 2 Mar</li>
-
-</ul>
+<p>None of our <a href="/mobiles-home/">mobile libraries</a> are running on 1, 2 or 3 March.</p>
 
 <ul>
     <li><a href="/libraries/beccles-library/">Beccles Library</a> open from 1100 1 Mar</li>
