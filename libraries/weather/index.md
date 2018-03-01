@@ -33,6 +33,7 @@ time-updated: 1018
     <li><a href="/libraries/great-cornard-library/">Great Cornard Library</a> from 1000 - 1700 1 Mar</li>
     <li><a href="/libraries/haverhill-library/">Haverhill Library</a> open 1000 - 1700 1 Mar</li>
     <li><a href="/libraries/kedington-library/">Kedington Library</a> closed 1 Mar</li>
+    <li><a href="/libraries/kesgrave-library/">Kesgrave Library</a> open 1200 - 1700 1 Mar</li>
     <li><a href="/libraries/lavenham-library/">Lavenham Library</a> closed 1 Mar</li>
     <li><a href="/libraries/newmarket-library/">Newmarket Library</a> closed 1 Mar</li>
     <li><a href="/libraries/rosehill-library/">Rosehill Library</a> open from 1000 1 Mar</li>
