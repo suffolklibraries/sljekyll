@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Reading group"
-recurrent-description: "Held in the Navigator room."
+recurrent-description: "Held in the Navigator room. No session 1 March due to poor weather conditions."
 recurrent-day: first Thursday of the month
 recurrent-times: 1730-1900
 recurrent-location: lowestoft-library
