@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Baby Bounce"
-recurrent-description: "Soothing songs and gentle nursery rhymes for babies, term-time only. No session 1 March."
+recurrent-description: "Soothing songs and gentle nursery rhymes for babies, term-time only."
 recurrent-day: Thursday (library otherwise closed until 1430)
 recurrent-times: 1030-1100
 recurrent-location: kesgrave-library

@@ -9,7 +9,7 @@ branch-thursday-hours: 0930 – 1700
 branch-friday-hours: 0930 – 1930
 branch-saturday-hours: 0930 – 1700
 branch-sunday-hours: 1000 – 1600
-acting-branch-manager: Nicky Spindler
+branch-manager: Annaliese Matheron-Avery
 branch-address: Blyburgate, Beccles
 branch-post-code: NR34 9TB
 branch-tel: 01502 442820
