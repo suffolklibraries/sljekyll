@@ -29,6 +29,7 @@ time-updated: 1018
     <li><a href="/libraries/broomhill-library/">Broomhill Library</a> open from 1100 1 Mar</li>
     <li><a href="/libraries/bungay-library/">Bungay Library</a> open 0930 - 1300 1 Mar</li>
     <li><a href="/libraries/bury-st-edmunds-library/">Bury St Edmunds Library</a> open from 1000 1 Mar</li>
+    <li><a href="/libraries/chantry-library/">Chantry Library</a> closed from 1130 1 Mar</li>
     <li><a href="/libraries/glemsford-library/">Glemsford Library</a> open from 1100 1 Mar</li>
     <li><a href="/libraries/great-cornard-library/">Great Cornard Library</a> from 1000 - 1700 1 Mar</li>
     <li><a href="/libraries/haverhill-library/">Haverhill Library</a> open 1000 - 1700 1 Mar</li>
