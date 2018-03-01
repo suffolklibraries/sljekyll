@@ -3,7 +3,7 @@ layout: full-width
 title: Library and mobile library closures due to weather conditions
 breadcrumb: branches
 date-updated: 2018-03-01
-time-updated: 1302
+time-updated: 1345
 featured: true
 featured-image: "/images/featured/featured-bury-snow.jpg"
 featured-alt: "Bury Cathedral at sunset covered in snow"
@@ -37,6 +37,7 @@ featured-link-text: "Get the latest updates"
     <li><a href="/libraries/chantry-library/">Chantry Library</a> closed from 1130 1 Mar</li>
     <li><a href="/libraries/elmswell-library/">Elmswell Library</a> closed from 1300 1 Mar, closed 2 Mar</li>
     <li><a href="/libraries/eye-library/">Eye Library</a> closed 1 Mar</li>
+    <li><a href="/libraries/gainsborough-community-library/">Gainsborough Community Library</a> open from 1015 2 Mar</li>
     <li><a href="/libraries/glemsford-library/">Glemsford Library</a> open until 1600 1 Mar</li>
     <li><a href="/libraries/great-cornard-library/">Great Cornard Library</a> from 1000 - 1700 1 Mar</li>
     <li><a href="/libraries/haverhill-library/">Haverhill Library</a> open 1000 - 1700 1 Mar</li>
@@ -46,6 +47,7 @@ featured-link-text: "Get the latest updates"
     <li><a href="/libraries/lavenham-library/">Lavenham Library</a> closed 1 Mar</li>
     <li><a href="/libraries/lowestoft-library/">Lowestoft Library</a> closed from 1600 1 Mar and 2 Mar</li>
     <li><a href="/libraries/newmarket-library/">Newmarket Library</a> closed 1 Mar</li>
+    <li><a href="/libraries/oulton-broad-library/">Oulton Broad Library</a> closed from 1600 1 and 2 Mar</li>
     <li><a href="/libraries/rosehill-library/">Rosehill Library</a> open 1000 - 1445 1 Mar</li>
     <li><a href="/libraries/stowmarket-library">Stowmarket Library</a> open from 1000 1 Mar</li>
     <li><a href="/libraries/sudbury-library">Sudbury Library</a> open from 1000 1 Mar</li>
