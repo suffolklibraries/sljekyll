@@ -27,5 +27,4 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/rosehill-library
 breadcrumb: y
-branch-news: The library will be closed between 1pm and 2pm on Thursday 22 and Friday 23 February due to staff shortages.
 ---
