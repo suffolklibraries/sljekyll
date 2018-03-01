@@ -36,6 +36,7 @@ featured-link-text: "Get the latest updates"
     <li><a href="/libraries/great-cornard-library/">Great Cornard Library</a> from 1000 - 1700 1 Mar</li>
     <li><a href="/libraries/haverhill-library/">Haverhill Library</a> open 1000 - 1700 1 Mar</li>
     <li><a href="/libraries/ipswich-county-library/">Ipswich County Library</a> closing at 1700 1 Mar</li>
+    <li><a href="/libraries/ixworth-library/">Ixworth Library</a> closing at 1600 1 Mar</li>
     <li><a href="/libraries/kedington-library/">Kedington Library</a> closed 1 Mar</li>
     <li><a href="/libraries/kesgrave-library/">Kesgrave Library</a> open 1200 - 1700 1 Mar</li>
     <li><a href="/libraries/lavenham-library/">Lavenham Library</a> closed 1 Mar</li>
