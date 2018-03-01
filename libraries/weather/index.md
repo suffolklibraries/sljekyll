@@ -3,7 +3,7 @@ layout: full-width
 title: Library and mobile library closures due to weather conditions
 breadcrumb: branches
 date-updated: 2018-03-01
-time-updated: 0924
+time-updated: 0929
 ---
 
 <h2>Updated: {{ page.date-updated | date: "%b %-d, %Y" }} at {{ page.time-updated }}</h2>
@@ -42,6 +42,7 @@ time-updated: 0924
     <li><a href="/libraries/mildenhall-library/">Mildenhall Library</a> open from 1000 1 Mar</li>
     <li><a href="/libraries/needham-market-library/">Needham Market Library</a> closed from 1700 28 Feb</li>
     <li><a href="/libraries/newmarket-library/">Newmarket Library</a> closed 1 Mar</li>
+    <li><a href="/libraries/rosehill-library/">Rosehill Library</a> open from 1000 1 Mar</li>
     <li><a href="/libraries/stowmarket-library">Stowmarket Library</a> open from 1000 1 Mar</li>
     <li><a href="/libraries/sudbury-library">Sudbury Library</a> open from 1000 1 Mar</li>
 </ul>
