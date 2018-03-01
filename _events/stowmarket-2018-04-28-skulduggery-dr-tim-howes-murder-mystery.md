@@ -5,7 +5,7 @@ location: stowmarket-library
 location-text: Stowmarket Library
 event-start-date: 2018-04-28
 event-start-time: 1830
-event-ticket-price: 12.50
+event-ticket-price: 12.50 - on sale from 6 March
 event-category: skulduggery-2018
 event-image: featured/featured-tim-howes.jpg
 event-image-alt: Tim Howes

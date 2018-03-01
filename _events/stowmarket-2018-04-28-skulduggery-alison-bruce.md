@@ -5,7 +5,7 @@ location: stowmarket-library
 location-text: Stowmarket Library
 event-start-date: 2018-04-28
 event-start-time: 1500
-event-ticket-price: 5, or £20 for all 6 festival talks
+event-ticket-price: 5, or £20 for all 6 festival talks - on sale from 6 March
 event-category: skulduggery-2018
 event-image: featured/featured-alison-bruce.jpg
 event-image-alt: Alison Bruce
@@ -20,4 +20,4 @@ Alison has written eight crime novels and two non-fiction titles. Her first nove
 
 Alison was born in Croydon and grew up in Wiltshire before moving to Cambridgeshire in 1998. She worked as an electroplater, taxi driver and band promoter and spent ten years working in the IT industry before leaving to concentrate on completing her first novel. She also teaches creative writing at Anglia Ruskin University, Cambridge.
 
-Alison is a proud supporter of local libraries and is the patron of [Lakenheath Library](/libraries/lakenheath-library/). 
+Alison is a proud supporter of local libraries and is the patron of [Lakenheath Library](/libraries/lakenheath-library/).
