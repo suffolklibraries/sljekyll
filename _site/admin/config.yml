@@ -21,21 +21,19 @@ collections:
       - {label: "Excerpt", name: "excerpt", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
 
+
 files:
-    - label: "Pages"
-      name: "pages"
-      files:
-        - label: "Weather updates"
-          name: "index.md"
-          file: "libraries/weather/index.md"
-          fields:
-            - {label: "Layout", name: "layout", widget: "hidden", default: "full-width"}
-            - {label: "Title", name: "title", widget: "string"}
-            - {label: "Breadcrumb", name: "breadcrumb", widget: "hidden", default: "branches"}
-            - {label: "Date updated", name: "date-updated", widget: "date"}
-            - {label: "Time updated", name: "time-updated", widget: "string"}
-            - {label: "Featured", name: "featured", widget: "boolean"}
-            - {label: "Featured image (full path and file extension)", name: "featured-image", widget: "string"}
-            - {label: "Featured alt text", name: "featured-alt", widget: "string"}
-            - {label: "Featured excerpt", name: "featured-excerpt", widget: "string"}
-            - {label: "Featured link text", name: "featured-link-text", widget: "string"}
+  - label: "Weather updates"
+    name: "index.md"
+    file: "libraries/weather/index.md"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "full-width"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Breadcrumb", name: "breadcrumb", widget: "hidden", default: "branches"}
+      - {label: "Date updated", name: "date-updated", widget: "date"}
+      - {label: "Time updated", name: "time-updated", widget: "string"}
+      - {label: "Featured", name: "featured", widget: "boolean"}
+      - {label: "Featured image (full path and file extension)", name: "featured-image", widget: "string"}
+      - {label: "Featured alt text", name: "featured-alt", widget: "string"}
+      - {label: "Featured excerpt", name: "featured-excerpt", widget: "string"}
+      - {label: "Featured link text", name: "featured-link-text", widget: "string"}
