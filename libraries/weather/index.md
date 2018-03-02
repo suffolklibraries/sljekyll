@@ -3,7 +3,7 @@ layout: full-width
 title: Library and mobile library closures due to weather conditions
 breadcrumb: branches
 date-updated: 2018-03-02
-time-updated: 1111
+time-updated: 1212
 featured: true
 featured-image: "/images/featured/featured-bury-snow.jpg"
 featured-alt: "Bury Cathedral at sunset covered in snow"
@@ -36,10 +36,10 @@ featured-link-text: "Get the latest updates"
     <li><a href="/libraries/lavenham-library/">Lavenham Library</a> closed 2 Mar</li>
     <li><a href="/libraries/long-melford-library/">Long Melford Library</a> closed from 1800 2 Mar</li>
     <li><a href="/libraries/lowestoft-library/">Lowestoft Library</a> closed from 1600 2 Mar</li>
-    <li><a href="/libraries/newmarket-library/">Newmarket Library</a> open 1000 - 1700 2 Mar</li>
+    <li><a href="/libraries/newmarket-library/">Newmarket Library</a> open 1000 - 1600 2 Mar</li>
     <li><a href="/libraries/oulton-broad-library/">Oulton Broad Library</a> closed from 1600 2 Mar</li>
     <li><a href="/libraries/rosehill-library/">Rosehill Library</a> open until 1700 2 Mar</li>
-    <li><a href="/libraries/stowmarket-library">Stowmarket Library</a> open from 0930 2 Mar</li>
+    <li><a href="/libraries/stowmarket-library">Stowmarket Library</a> open until 1700 2 Mar</li>
     <li><a href="/libraries/sudbury-library">Sudbury Library</a> open from 1000 2 Mar</li>
     <li><a href="/libraries/woodbridge-library">Woodbridge Library</a> closed from 1700 2 Mar</li>
 </ul>
