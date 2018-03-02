@@ -33,6 +33,7 @@ featured-link-text: "Get the latest updates"
     <li><a href="/libraries/gainsborough-community-library/">Gainsborough Community Library</a> open from 0930 2 Mar</li>
     <li><a href="/libraries/glemsford-library/">Glemsford Library</a> open 1100 - 1600 2 Mar</li>
     <li><a href="/libraries/halesworth-library/">Halesworth Library</a> closed 1300 - 1400 and from 1700 2 Mar</li>
+    <li><a href="/libraries/lavenham-library/">Lavenham Library</a> closed 2 Mar</li>
     <li><a href="/libraries/long-melford-library/">Long Melford Library</a> closed from 1800 2 Mar</li>
     <li><a href="/libraries/lowestoft-library/">Lowestoft Library</a> closed from 1600 2 Mar</li>
     <li><a href="/libraries/newmarket-library/">Newmarket Library</a> open 1000 - 1700 2 Mar</li>
