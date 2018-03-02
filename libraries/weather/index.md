@@ -3,7 +3,7 @@ layout: full-width
 title: Library and mobile library closures due to weather conditions
 breadcrumb: branches
 date-updated: 2018-03-02
-time-updated: 0748
+time-updated: 0949
 featured: true
 featured-image: "/images/featured/featured-bury-snow.jpg"
 featured-alt: "Bury Cathedral at sunset covered in snow"
@@ -31,7 +31,7 @@ featured-link-text: "Get the latest updates"
     <li><a href="/libraries/elmswell-library/">Elmswell Library</a> closed from 1300 1 Mar, closed 2 Mar</li>
     <li><a href="/libraries/eye-library/">Eye Library</a> closed 1 Mar</li>
     <li><a href="/libraries/framlingham-library/">Framlingham Library</a> open from 0930 2 Mar</li>
-    <li><a href="/libraries/gainsborough-community-library/">Gainsborough Community Library</a> open from 1015 2 Mar</li>
+    <li><a href="/libraries/gainsborough-community-library/">Gainsborough Community Library</a> open from 0930 2 Mar</li>
     <li><a href="/libraries/glemsford-library/">Glemsford Library</a> open until 1600 1 Mar and 1100 - 1600 2 Mar</li>
     <li><a href="/libraries/great-cornard-library/">Great Cornard Library</a> open 1000 - 1700 1 Mar</li>
     <li><a href="/libraries/halesworth-library/">Halesworth Library</a> open 1000 - 1700 1 Mar and closed 1300 - 1400 and from 1700 2 Mar</li>
