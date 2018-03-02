@@ -36,7 +36,7 @@ featured-link-text: "Get the latest updates"
     <li><a href="/libraries/lavenham-library/">Lavenham Library</a> closed 2 Mar</li>
     <li><a href="/libraries/long-melford-library/">Long Melford Library</a> closed from 1800 2 Mar</li>
     <li><a href="/libraries/lowestoft-library/">Lowestoft Library</a> closed from 1600 2 Mar</li>
-    <li><a href="/libraries/newmarket-library/">Newmarket Library</a> open 1000 - 1600 2 Mar</li>
+    <li><a href="/libraries/newmarket-library/">Newmarket Library</a> open 1000 - 1600 2 Mar and 3 Mar</li>
     <li><a href="/libraries/oulton-broad-library/">Oulton Broad Library</a> closed from 1600 2 Mar</li>
     <li><a href="/libraries/rosehill-library/">Rosehill Library</a> open until 1700 2 Mar</li>
     <li><a href="/libraries/stowmarket-library">Stowmarket Library</a> open until 1700 2 Mar</li>
