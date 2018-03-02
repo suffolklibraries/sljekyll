@@ -1,6 +1,6 @@
 ---
 id: stow-seaside
-name: Seaside crafts
+name: Beach Bonkers
 location: stowmarket-library
 location-text: Stowmarket Library
 event-start-date: 2018-04-13
