@@ -10,6 +10,6 @@ event-ticket-price: free entry, £5 + a raffle prize from stallholders
 breadcrumb: y
 ---
 
-Pick up some crafts and food at our spring fayre.
+Pick up some local handmade gifts. cards and crafts and try your luck in the grand raffle at our spring fayre.
 
 Do you want to sell your wares? Stalls are £5 per pitch plus a raffle prize from your selection. Tickets and forms available from the library from January.

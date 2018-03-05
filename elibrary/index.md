@@ -85,17 +85,17 @@ breadcrumb: home
 
         <div class="custom-g-l3">
 
-            <section class="{% include /c/block.html %}" id="zinio">
+            <section class="{% include /c/block.html %}" id="RBdigital">
 
-                <h1 class="{% include /c/block-title.html %}">RBdigital magazines (formerly Zinio)</h1>
+                <h1 class="{% include /c/block-title.html %}">RBdigital magazines</h1>
 
-                <a class="white" href="/elibrary/zinio"><img src="/images/card/zinio.jpg" alt="Screenshot of the Zinio website and some titles available on it"></a>
+                <a class="white" href="/elibrary/RBdigital"><img src="/images/card/RBdigital.jpg" alt="Screenshot of the RBdigital website and some titles available on it"></a>
 
                 <p class="{% include /c/block-graf.html %}">Download titles like <cite>Top Gear Magazine</cite> and <cite>Good Food</cite> to your device to keep forever. Use the RBdigital website with your library card, or download apps for Android, Kindle Fire and iOS.</p>
 
                 <ul class="{% include /c/block-list.html %}">
 
-                    <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="/elibrary/zinio/">RBdigital instructions</a></li>
+                    <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="/elibrary/RBdigital/">RBdigital instructions</a></li>
                     <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="https://www.rbdigital.com/Suffolk/service/magazines/landing?">RBdigital website</a></li>
 
                 </ul>

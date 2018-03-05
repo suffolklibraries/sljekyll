@@ -1,5 +1,5 @@
 ---
-title: Setting up RBdigital (formerly Zinio) on your device
+title: Setting up RBdigital on your device
 layout: sidebar-left
 breadcrumb: elibrary
 ---
