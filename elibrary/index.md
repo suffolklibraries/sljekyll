@@ -89,7 +89,7 @@ breadcrumb: home
 
                 <h1 class="{% include /c/block-title.html %}">RBdigital magazines</h1>
 
-                <a class="white" href="/elibrary/RBdigital"><img src="/images/card/RBdigital.jpg" alt="Screenshot of the RBdigital website and some titles available on it"></a>
+                <a class="white" href="/elibrary/RBdigital"><img src="/images/card/zinio.jpg" alt="Screenshot of the RBdigital website and some titles available on it"></a>
 
                 <p class="{% include /c/block-graf.html %}">Download titles like <cite>Top Gear Magazine</cite> and <cite>Good Food</cite> to your device to keep forever. Use the RBdigital website with your library card, or download apps for Android, Kindle Fire and iOS.</p>
 
