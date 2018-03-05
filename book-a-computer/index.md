@@ -32,7 +32,7 @@ If you don't have a card number or don't remember your PIN please contact custom
 - [Hadleigh Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Halesworth Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Haverhill Library](http://netloan.suffolklibraries.co.uk/)
-- [Ipswich County Library](http://netloan.suffolklibraries.co.uk/)
+- [Ipswich County Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Ixworth Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Kedington Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Kesgrave Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
