@@ -23,5 +23,6 @@ branch-netloan: new
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
+branch-news: '<a href="/news/needham-market-opening-hours-proposal/">Have your say on Needham Market Library&#39;s proposed new opening hours.</a>'
 breadcrumb: y
 ---

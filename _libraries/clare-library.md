@@ -29,5 +29,6 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/clare-library
 branch-borrowing-ereaders-and-ipads: an iPad
+branch-news: '<a href="/news/clare-opening-hours/">Have your say on Clare Library&#39;s proposed new opening hours.</a>'
 breadcrumb: y
 ---
