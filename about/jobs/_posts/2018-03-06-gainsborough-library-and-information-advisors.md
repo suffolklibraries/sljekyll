@@ -4,7 +4,7 @@ title: 2x library and information advisors, Gainsborough Community Library
 category: jobs
 sidebar: about
 breadcrumb: jobs
-excerpt: "27 or 26.13 average hours a week, &pound;8.01 per hour, closing date Wed 21 Mar."
+excerpt: "27 or 26.125 average hours a week, &pound;8.01 per hour, closing date Wed 21 Mar."
 expiry-date: 2018-03-21
 ---
 
@@ -31,7 +31,7 @@ If you have experience in a customer facing role, enjoy helping people, have a w
   * **Week 1:** Mon 8:45am - 6:15pm; Fri 8:45am - 6:15pm
   * **Week 2:** Mon 8:45am - 6:15pm; Tue 8:45am - 5:15pm; Fri 8:45am - 6:15pm; Sat 8:45am - 5:15pm; Sun 11am - 4pm
 
-**Role 2** is for on average 11 hours a week in the following pattern:
+**Role 2** is for on average 26.125 hours a week in the following pattern:
 
   * **Week 1:** Tue 8:45am - 5:15pm; Wed 8:45am - 5:15pm; Thu 11am - 5:15pm; Fri 1pm - 6:15pm; Sat 8:45am - 5:15pm
   * **Week 2:** Wed 8:45am - 5:15pm; Thu 11am - 5:15pm; Sun 10:45am - 4:15pm
