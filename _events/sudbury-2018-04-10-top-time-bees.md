@@ -5,6 +5,7 @@ location: sudbury-library
 location-text: Sudbury Library
 event-start-date: 2018-04-10
 event-start-time: 1430
+event-category: older
 breadcrumb: y
 ---
 
