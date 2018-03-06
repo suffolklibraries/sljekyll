@@ -41,5 +41,4 @@ branch-for-sale: "<ul>
                   <li>Friends of Newmarket Library 2018 calendars - £5.95.</li>
                   </ul>"
 breadcrumb: y
-branch-news: 'Due to adverse weather conditions, <strong>none of our regular groups are currently running</strong>.'
 ---
