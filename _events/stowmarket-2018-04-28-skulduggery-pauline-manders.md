@@ -6,10 +6,11 @@ location-text: Stowmarket Library
 event-start-date: 2018-04-28
 event-start-time: 1100
 event-end-time: 1150
-event-ticket-price: 5, or £20 for all 6 festival talks - on sale from 6 March
+event-ticket-price: 5, or £20 for all 6 festival talks
 event-category: skulduggery-2018-sat
 event-image: featured/featured-pauline-manders.jpg
 event-image-alt: Pauline Manders
+event-ticket-url: https://www.ticketsource.co.uk/stowmarket-library
 breadcrumb: y
 ---
 

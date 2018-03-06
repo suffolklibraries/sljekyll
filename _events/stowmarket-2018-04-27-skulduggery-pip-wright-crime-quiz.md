@@ -6,10 +6,11 @@ location-text: Stowmarket Library
 event-start-date: 2018-04-27
 event-doors-open: 1845
 event-start-time: 1900
-event-ticket-price: 12.50 - on sale from 6 March
+event-ticket-price: 12.50
 event-category: skulduggery-2018-fri
 event-image: featured/featured-pip-wright.jpg
 event-image-alt: Pip Wright
+event-ticket-url: https://www.ticketsource.co.uk/stowmarket-library
 breadcrumb: y
 ---
 

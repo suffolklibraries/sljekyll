@@ -6,10 +6,11 @@ location-text: Stowmarket Library
 event-start-date: 2018-04-28
 event-start-time: 1400
 event-end-time: 1450
-event-ticket-price: 5, or £20 for all 6 festival talks - on sale from 6 March
+event-ticket-price: 5, or £20 for all 6 festival talks
 event-category: skulduggery-2018-sat
 event-image: featured/featured-nicola-and-mandy.jpg
 event-image-alt: Mandy Morton and Nicola Upson
+event-ticket-url: https://www.ticketsource.co.uk/stowmarket-library
 breadcrumb: y
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: kes-paddington
-name: Paddington and Friends event
+name: Paddington and Friends event and launch of new comfy corner
 location: kesgrave-library
 location-text: Kesgrave Library
 event-start-date: 2018-03-18

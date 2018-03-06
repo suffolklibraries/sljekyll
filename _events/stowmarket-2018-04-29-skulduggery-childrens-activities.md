@@ -6,10 +6,11 @@ location-text: Stowmarket Library
 event-start-date: 2018-04-29
 event-start-time: 1000
 event-end-time: 1300
-event-ticket-price: 5 - on sale from 6 March
+event-ticket-price: 5
 event-category: skulduggery-2018-sun
 event-image: featured/featured-funny-life-of-pets.jpg
 event-image-alt: The Funny Life of Pets
+event-ticket-url: https://www.ticketsource.co.uk/stowmarket-library
 breadcrumb: y
 ---
 
