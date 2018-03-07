@@ -27,6 +27,7 @@ branch-wifi: y
 branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: available
+branch-other-facilities: 'Waveney District Council customer services. Visit the <a href="http://www.eastsuffolk.gov.uk/contact-us/">Suffolk Coastal and Waveney Councils website</a> for opening times.'
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/beccles-library
 branch-display-space: Double-sided noticeboard for non-commercial event posters

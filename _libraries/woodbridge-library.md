@@ -36,5 +36,6 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/woodbridge-library
+branch-other-facilities: 'Suffolk Coastal District Council customer services. Visit the <a href="http://www.eastsuffolk.gov.uk/contact-us/">Suffolk Coastal and Waveney Councils website</a> for opening times.'
 breadcrumb: y
 ---

@@ -27,5 +27,6 @@ branch-photocopying: available
 branch-colour-printing: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/felixstowe-library
+branch-other-facilities: 'Suffolk Coastal District Council customer services. Visit the <a href="http://www.eastsuffolk.gov.uk/contact-us/">Suffolk Coastal and Waveney Councils website</a> for opening times.'
 breadcrumb: y
 ---
