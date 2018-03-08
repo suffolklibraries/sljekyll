@@ -1,7 +1,7 @@
 ---
-recurrent-title: "Free street dance taster sessions with Just Jay: for age 8+"
-recurrent-description: "Six sessions from 2 November to 7 December."
-recurrent-expiry: 2017-12-07
+recurrent-title: "Street and hip hop dance classes with Just Jay: for ages 8+"
+recurrent-description: "Suitable for complete beginners of any ability. 50p per session."
+recurrent-expiry: 2018-08-23
 recurrent-day: Thursday
 recurrent-times: 1600-1700
 recurrent-location: gainsborough-community-library
