@@ -5,7 +5,7 @@ branch-image: /images/branches/sll-rushmere.jpg
 branch-local-day: Wednesday
 branch-local-hours: 1330-1630
 branch-manager: Tom Veasey
-branch-address: Ransomes Sports Pavilion, 23 Sidegate Avenue, Ipswich
+branch-address: Ransomes Sports Pavilion, Sidegate Avenue, Ipswich
 branch-post-code: IP4 4JJ
 branch-social-media: y
 branch-facebook: SLLRushmere
