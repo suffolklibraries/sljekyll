@@ -9,7 +9,7 @@ branch-thursday-hours: 0930 – 1730
 branch-friday-hours: 0930 – 1730
 branch-saturday-hours: 0930 – 1700
 branch-sunday-hours: 1100 – 1600
-branch-manager: Lesley Clouting
+branch-manager: Stella Houlihan
 branch-address: The Old Court House, Bridge Street, Framlingham
 branch-post-code: IP13 9AJ
 branch-tel: 01728 723735

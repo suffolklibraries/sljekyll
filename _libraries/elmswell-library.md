@@ -9,7 +9,7 @@ branch-thursday-hours: 1000 – 1300, 1400 – 1900
 branch-friday-hours: 1400 – 1700
 branch-saturday-hours: 1000 – 1300
 branch-sunday-hours: 1000 – 1500
-branch-manager: Emma Yarrow
+branch-manager: Zoe Clark
 branch-address: Memorial Library, Cooks Road, Elmswell
 branch-post-code: IP30 9BX
 branch-tel: 01359 240974
