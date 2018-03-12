@@ -41,7 +41,7 @@ If you don't have a card number or don't remember your PIN please contact custom
 - [Lavenham Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Leiston Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Long Melford Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
-- [Lowestoft Library](http://netloan.suffolklibraries.co.uk/)
+- [Lowestoft Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Mildenhall Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Needham Market Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Newmarket Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
