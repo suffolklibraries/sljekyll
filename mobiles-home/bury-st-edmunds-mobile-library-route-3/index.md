@@ -240,7 +240,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="161">
-      Crossroads
+      Village Hall
     </td>
 
     <td valign="bottom" width="112">

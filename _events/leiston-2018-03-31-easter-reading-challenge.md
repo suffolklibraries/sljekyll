@@ -3,8 +3,9 @@ id: leiston-read
 name: "Easter holidays reading challenge"
 location: leiston-library
 location-text: Leiston Library
-event-start-date: 2018-03-21
+event-start-date: 2018-03-31
 event-end-date: 2018-04-14
+event-category: easter-holidays
 breadcrumb: y
 ---
 
