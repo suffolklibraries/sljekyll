@@ -3,7 +3,7 @@ id: ipswich-quiz-night
 name: Quiz night
 location: ipswich-county-library
 location-text: Ipswich County Library
-event-start-date: 2018-04-25
+event-start-date: 2018-04-18
 event-start-time: 1900
 event-doors-open: 1830
 event-ticket-price: 6 per person
