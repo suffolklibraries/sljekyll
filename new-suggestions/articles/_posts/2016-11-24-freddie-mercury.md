@@ -24,6 +24,6 @@ This album starts with <cite>Another One Bites the Dust</cite> and also includes
 
 This essential 80s compilation opens with <cite>A Kind Of Magic</cite>. Other 80s classics on the album include <cite>Tainted Love</cite< by Soft Cell, <cite>True Faith</cite> by New Order and <cite>Just Can't Get Enough</cite> by Depeche Mode.
 
-**[Various - <cite>Eddie Stobart Trucking Songs</cite<](http://suffolklibraries.freegalmusic.com/artists/view/27695248/c29ueQ)**
+**[Various - <cite>Eddie Stobart Trucking Songs</cite>](http://suffolklibraries.freegalmusic.com/artists/view/27695248/c29ueQ)**
 
 This great compilation album includes <cite>Don’t Stop Me Now</cite>, as well as great tracks from the likes of Thin Lizzy, Meat Loaf, Fleetwood Mac and Toto. Perfect for Friday drivetime.
