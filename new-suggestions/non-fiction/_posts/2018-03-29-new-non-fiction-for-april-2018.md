@@ -41,7 +41,7 @@ This follow-up is about those discoveries and what they reveal about "human dysf
 
 > "At Peverels, Charlie found an expanse of virgin meadowland, the perfect setting for an audacious garden. A garden that is now known as Skymeadow and grows with a lusty, almost biblical vigour."
 
-## [<cite>Civilisations: first contact: the cult of progress</cite>, by David Olusoga](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2332282)
+## [<cite>Civilisations: first contact / the cult of progress</cite>, by David Olusoga](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2332282)
 
 Following on from [Mary Beard’s recent volume](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2332283) in this BBC series David Olusoga pieces together the shared histories that link nations.
 
