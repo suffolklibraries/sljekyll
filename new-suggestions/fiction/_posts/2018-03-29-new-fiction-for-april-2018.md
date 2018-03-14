@@ -69,7 +69,7 @@ The charming debut from A. J. Pearce, who is one of the 2018 Picador New Voices.
 
 > "When Carl protests that this is not his daughter at all, the nurses are all too ready to excuse it as a product of his steadily deteriorating mind. But were those old suspicions about him true? And if he is an honest man, who has just driven him away from safety?"
 
-## [<cite>The Temptation of Forgivenes</cite>, by Donna Leon](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2352868)
+## [<cite>The Temptation of Forgiveness</cite>, by Donna Leon](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2352868)
 
 Commissario Guido Brunetti returns to delight his many fans:
 

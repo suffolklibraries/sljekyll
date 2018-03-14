@@ -132,7 +132,7 @@ featured-link-text: Check out our newest audiobooks
 
 > "But interspersed with the scatology was actually quite interesting stuff about septic tanks and dunnakin divers and gongfermors and how dog muck helped make the very best leather, and other things that you never thought you would need to know, but once heard somehow lodged in your mind."
 
-### [<cite>Only Fools and Horses 2</cite> by BBC, read by various](https://suffolklibraries.overdrive.com/media/89667)
+### [<cite>Only Fools and Horses 2</cite>, by BBC, read by various](https://suffolklibraries.overdrive.com/media/89667)
 
 > "The adventures of Del Boy and Rodney have become part of the nation’s consciousness, and for many years record-breaking audiences have followed their hilarious wheeling and dealing on BBC1.
 
@@ -150,7 +150,9 @@ featured-link-text: Check out our newest audiobooks
 
 ### [<cite>The Tattooist of Auschwitz</cite>, by Heather Morris, read by Richard Armitage](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_462336&fromPage=1&b2bSite=4172)
 
-> "<cite>The Tattooist of Auschwitz</cite> is based on the true story of Lale and Gita Sokolov, two Slovakian Jews, who survived Auschwitz and eventually made their home in Australia. In that terrible place, Lale was given the job of tattooing the prisoners marked for survival – literally scratching numbers into his fellow victims' arms in indelible ink to create what would become one of the most potent symbols of the Holocaust. Lale used the infinitesimal freedom of movement that this position awarded him to exchange jewels and money taken from murdered Jews for food to keep others alive. If he had been caught he would have been killed; many owed him their survival.
+> "<cite>The Tattooist of Auschwitz</cite> is based on the true story of Lale and Gita Sokolov, two Slovakian Jews, who survived Auschwitz and eventually made their home in Australia.
+
+> "In that terrible place, Lale was given the job of tattooing the prisoners marked for survival – literally scratching numbers into his fellow victims' arms in indelible ink to create what would become one of the most potent symbols of the Holocaust. Lale used the infinitesimal freedom of movement that this position awarded him to exchange jewels and money taken from murdered Jews for food to keep others alive. If he had been caught he would have been killed; many owed him their survival.
 
 > "Terrible though this story is, it is also a story of hope and of courage. It is also – almost unbelievably – a love story. Waiting in line to be tattooed, terrified and shaking, was a young girl. For Lale – a dandy, a jack-the-lad, a bit of a chancer – it was love at first sight and he determined not only to survive himself, but to ensure that Gita did, too. His story – their story – will make you weep, but you will also find it uplifting. It shows the very best of humanity in the very worst of circumstances."
 
