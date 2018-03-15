@@ -33,9 +33,5 @@ branch-photocopying: available
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/ipswich-county-library
 branch-other-facilities: 'Board Games Library - see the <a href="/assets/pdf/ipswich-board-games-library.pdf">Ipswich Board Games Library information sheet</a> (PDF) for further information.'
-branch-news: '<ul>
-              <li>The library will be <strong>opening at 11am on Thursday 15 March</strong> due to staff training.</li>
-              <li>The library is collecting non-perishables, socks and men&#39;s toiletries for Families in Need Ipswich Foodbank.</li>
-              <ul>'
 breadcrumb: y
 ---
