@@ -5,7 +5,7 @@ location: kesgrave-library
 location-text: Kesgrave Library
 event-start-date: 2018-03-18
 event-start-time: 1000
-event-end-time: 1230
+event-end-time: 1200
 event-ticket-price: free
 breadcrumb: y
 ---
