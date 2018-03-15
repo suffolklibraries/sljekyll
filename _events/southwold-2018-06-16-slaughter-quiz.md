@@ -1,6 +1,6 @@
 ---
 id: slaughter-quiz-night
-name: "Elementary My Dear Watson: fun crime quiz night"
+name: "Slaughter in Southwold: Elementary My Dear Watson: fun crime quiz night"
 location: southwold-library
 location-text: Southwold Library
 event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, Southwold, IP18 6JP"
@@ -10,7 +10,7 @@ event-ticket-price: 3 per person. On sale 1 April.
 event-ticket-url: https://www.ticketsource.co.uk/event/FGIGHD
 event-category: slaughter-2018-activity
 breadcrumb: y
-event-image: /images/featured/featured-magnifying-glass.jpg
+event-image: featured/featured-magnifying-glass.jpg
 event-image-alt: A magnifying glass
 ---
 

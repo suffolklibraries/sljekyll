@@ -10,7 +10,7 @@ event-ticket-price: 10. On sale 1 April, must be booked by 2 June.
 event-ticket-url: https://www.ticketsource.co.uk/event/FGIGJK
 event-category: slaughter-2018-activity
 breadcrumb: y
-event-image: /images/featured/featured-wenlock.jpg
+event-image: featured/featured-wenlock.jpg
 event-image-alt: The Wenlock Mummy
 ---
 

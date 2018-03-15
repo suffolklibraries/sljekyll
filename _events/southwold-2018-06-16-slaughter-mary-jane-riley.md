@@ -10,7 +10,7 @@ event-ticket-price: "5 / £15 day ticket / £20 weekend ticket. On sale 1 April.
 event-ticket-url: https://www.ticketsource.co.uk/event/FGIFLD
 event-category: slaughter-2018-talk-sat
 breadcrumb: y
-event-image: /images/featured/featured-mary-jane-riley.jpg
+event-image: featured/featured-mary-jane-riley.jpg
 event-image-alt: "Mary-Jane Riley"
 ---
 

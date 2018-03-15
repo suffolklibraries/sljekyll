@@ -10,7 +10,7 @@ event-ticket-price: 5 for one film, £7.50 for both. On sale 1 April.
 event-ticket-url: https://www.ticketsource.co.uk/event/FGIHKK
 event-category: slaughter-2018-film
 breadcrumb: y
-event-image: /images/featured/featured-strangers-on-a-train-dial-m-for-murder.jpg
+event-image: featured/featured-strangers-on-a-train-dial-m-for-murder.jpg
 event-image-alt: Strangers on a Train and Dial M for Murder
 ---
 
