@@ -17,7 +17,7 @@ If you don't have a card number or don't remember your PIN please contact custom
 - [Brandon Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Broomhill Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Bungay Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
-- [Bury St Edmunds Library](http://netloan.suffolklibraries.co.uk/)
+- [Bury St Edmunds Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Capel St Mary Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Chantry Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [Clare Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
