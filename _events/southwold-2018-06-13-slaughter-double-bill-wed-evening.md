@@ -10,7 +10,7 @@ event-ticket-price: 5 for one film, £7.50 for both. On sale 1 April.
 event-ticket-url: https://www.ticketsource.co.uk/event/FGIHKG
 event-category: slaughter-2018-film
 breadcrumb: y
-event-image: /images/featured/featured-touch-of-evil-third-man.jpg
+event-image: featured/featured-touch-of-evil-third-man.jpg
 event-image-alt: Touch of Evil and The Third Man
 ---
 

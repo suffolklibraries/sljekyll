@@ -10,7 +10,7 @@ event-ticket-price: 5 for one film, £7.50 for both. On sale 1 April.
 event-ticket-url: https://www.ticketsource.co.uk/event/FGIHLE
 event-category: slaughter-2018-film
 breadcrumb: y
-event-image: /images/featured/featured-double-indemnity-postman-always-rings-twice.jpg
+event-image: featured/featured-double-indemnity-postman-always-rings-twice.jpg
 event-image-alt: Double Indemnity and The Postman Always Rings Twice
 ---
 
