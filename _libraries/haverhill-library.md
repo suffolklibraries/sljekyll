@@ -9,7 +9,7 @@ branch-thursday-hours: 0900 – 1900
 branch-friday-hours: 0900 – 1700
 branch-saturday-hours: 0900 – 1630
 branch-sunday-hours: 1000 – 1600
-branch-manager: Sanphra Willmott
+branch-manager: Audrey Woodley
 branch-address: Camps Road, Haverhill
 branch-post-code: CB9 8HB
 branch-tel: 01440 702638

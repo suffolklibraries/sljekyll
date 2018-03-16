@@ -1,6 +1,6 @@
 ---
 id: newm-creative
-name: "Get Creative: Quilting taster session with the Quilters Guild"
+name: "Get Creative: Quilting taster session with the Quilters' Guild"
 location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2018-03-25

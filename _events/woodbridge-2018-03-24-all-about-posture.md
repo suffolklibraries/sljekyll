@@ -1,6 +1,6 @@
 ---
 id: woodbridge-posture
-name: "All About Posture with the National Health Centre's Izzy Ixer & Lesley Terry"
+name: "All About Posture with the Natural Health Centre's Izzy Ixer & Lesley Terry"
 location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2018-03-24
