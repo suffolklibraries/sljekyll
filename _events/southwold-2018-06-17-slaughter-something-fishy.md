@@ -14,9 +14,11 @@ event-image: featured/featured-something-fishy.jpg
 event-image-alt: Fishes
 ---
 
-Have lunch, cake and hot drinks with the authors visiting for [Slaughter in Southwold](/slaughter). Choose from:
+Have lunch, cake and hot drinks with the authors visiting for [Slaughter in Southwold](/slaughter).
 
 <img src="/images/featured/featured-something-fishy.jpg" alt="Fishes" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+
+Choose from:
 
 * Cod, plaice or haddock & chips
 * Sausage & chips

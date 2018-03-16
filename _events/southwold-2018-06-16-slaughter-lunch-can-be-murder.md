@@ -14,9 +14,11 @@ event-image: featured/featured-cafe-51.jpg
 event-image-alt: Cafe 51
 ---
 
-Have lunch, cake and hot drinks with authors visiting for [Slaughter in Southwold](/slaughter). Choose from:
+Have lunch, cake and hot drinks with authors visiting for [Slaughter in Southwold](/slaughter).
 
 <img src="/images/featured/featured-cafe-51.jpg" alt="Cafe 51" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+
+Choose from:
 
 * Coronation chicken mango salad with green beans
 * Poached salmon fillet with asparagus & hollandaise sauce

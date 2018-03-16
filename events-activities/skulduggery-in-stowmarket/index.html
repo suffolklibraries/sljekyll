@@ -6,9 +6,53 @@ breadcrumb: events
 
 <h1 class="{% include /c/page-title.html %} tc">Skulduggery in Stowmarket</h1>
 
-<p class="tc b f4">27 - 30 April 2018</p>
+<p class="tc b f4">26 - 30 April 2018</p>
 
 <p class="tc ma0 mb2">Join us for Suffolk's newest crime writers' festival. Tickets on sale from <a href="/libraries/stowmarket-library/">Stowmarket Library</a> and <a href="https://www.visiteastofengland.com/Stowmarket-Mid-Suffolk-Tourist-Information-Centre/details/?dms=3&venue=0140657">Mid Suffolk Tourist Information Centre</a> or <a href="https://www.ticketsource.co.uk/stowmarket-library">Ticketsource</a>. &pound;5 per author talk or &pound;20 for all six.</p>
+
+<h2>Thursday 26 April</h2>
+
+<div class="custom-prose custom-lh-copy pb4">
+
+  {% assign current_event_list = site.events | where: "event-category", "skulduggery-2018-thu" | sort: 'event-start-time' %}
+
+  {% for current_event in current_event_list %}
+
+      <article class="{% include /c/slot.html %}">
+
+          <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ current_event.url }}" class="blue">{{ current_event.name | remove: "Skulduggery in Stowmarket: " }}</a></h1>
+
+          <p class="{% include /c/page-meta.html %} mb0">{{ current_event.event-start-time }}{% if current_event.event-end-time %}&#8211;{{ current_event.event-end-time }}{% endif %}</p>
+
+          <div class="cf{% if current_event.event-image %} pt3{% endif %}">
+
+              {% if current_event.event-image %}
+
+                <div class="custom-g-l2">
+
+                    <img src="/images/{{ current_event.event-image }}" alt="{{ current_event.name }}" class="db center br-100">
+
+                </div>
+
+              {% endif %}
+
+              {% if current_event.event-image %}<div class="custom-g-l4 custom-g-nm">{% endif %}
+
+              <div class="custom-prose custom-lh-copy">
+
+                  {{ current_event.excerpt }}
+
+              </div>
+
+               {% if current_event.event-image %}</div>{% endif %}
+
+          </div>
+
+      </article>
+
+  {% endfor %}
+
+</div>
 
 <h2>Friday 27 April</h2>
 

@@ -1,6 +1,6 @@
 ---
 id: ipswich-ryan
-name: "An evening with psychic Ryan Gooding - POSTPONED"
+name: "An evening with psychic Ryan Gooding"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2018-04-19
