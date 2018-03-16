@@ -23,7 +23,3 @@ Convicted of over 100 crimes and known as 'the man who got away with murder', Jo
 After Pip's talk, teams of up to 6 are invited to test their crime knowledge over pizza for the chance to win a prize.
 
 Retired primary school teacher Pip hails from Stowmarket and has spent many years researching local history, writing books and giving talks. He has a particular interest in amusing items from 18th and 19th century newspapers. Including <cite>Whistlecraft</cite>, he has written four historical novels about real people who lived in Suffolk.
-
-Tickets available from the library and Mid Suffolk Tourist Information Centre, Crowe Street, Stowmarket, IP14 1DL.
-
-[&larr; Back to Skulduggery in Stowmarket](/events-activities/skulduggery-in-stowmarket/)

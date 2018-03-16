@@ -13,7 +13,7 @@ event-ticket-url: https://www.ticketsource.co.uk/stowmarket-library
 breadcrumb: y
 ---
 
-Ian Andrew will be talking about his Wright & Tran novels, the most recent of which is <cite>Fall Guys</cite>
+Ian Andrew will be talking about his Wright & Tran novels, the most recent of which is <cite>Fall Guys</cite>.
 
 <img src="/images/featured/featured-ian-andrew.jpg" alt="Ian Andrew" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
 
