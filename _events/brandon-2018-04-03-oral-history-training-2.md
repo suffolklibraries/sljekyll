@@ -10,7 +10,7 @@ event-ticket-price: free
 breadcrumb: y
 ---
 
-The follow-up workshop to [Talkin' 'Bout My Generation: Free oral history training workshop 1 - Interviewing](/events/brandon-2018-03-17-oral-history-training-1./).
+The follow-up workshop to [Talkin' 'Bout My Generation: Free oral history training workshop 1 - Interviewing](/events/brandon-2018-03-17-oral-history-training-1/).
 
 Talkin’ 'Bout My Generation is a heritage project capturing teenage
 musical memories from the 1960s, '70s and '80s in the Fens and Brecks. They are offering FREE Oral History Recording Training for up to 12 local residents interested in interviewing and recording the memories of residents, friends or relatives as part of this exciting pop-culture heritage project.

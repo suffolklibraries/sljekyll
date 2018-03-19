@@ -8,7 +8,7 @@ excerpt: 'Three Suffolk libraries will be taking visitors on a journey to where 
 breadcrumb: news
 ---
 
-**New dates added:** the display will be at [Newmarket Library from 8 - 28 February](/events/newmarket-2018-02-08-history-of-magic/)
+**New dates added:** the display will be at Newmarket Library from 8 - 28 February.
 
 Three Suffolk libraries will be taking visitors on a journey to where magic and myth began with Harry Potter: A History of Magic.
 
@@ -24,9 +24,9 @@ Paul Howarth, Suffolk Libraries stock and content manager, said: “J.K. Rowling
 
 The display will be touring the three libraries from October to February as follows:
 
-* [Ipswich County Library – 20 October-4 December](/events/ipswich-2017-10-20-history-of-magic/)
-* [Haverhill Library – 8-31 December](/events/haverhill-2017-12-08-history-of-magic/)
-* [Felixstowe Library – 5 January-5 February 2018](/events/felixstowe-2018-01-05-history-of-magic/)
+* Ipswich County Library – 20 October-4 December
+* Haverhill Library – 8-31 December
+* Felixstowe Library – 5 January-5 February 2018
 
 There will also be an opportunity to take selfies with the display and join in the conversation online with #BLHarryPotter.
 

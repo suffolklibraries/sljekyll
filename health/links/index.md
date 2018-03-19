@@ -82,8 +82,7 @@ Here are some of the organisations and information sources available for a varie
 <h3 id="ask">Ask for help</h3>
 <ul>
 	<li><a href="http://www.nhs.uk/Pages/HomePage.aspx">NHS Choices</a> - Your GP contact details and local NHS services can be found here</li>
-	<li><a href="https://www.readytochange.org.uk/suffolk/pages/home.aspx">Suffolk Wellbeing service</a> - for East and West Suffolk</li>
-	<li><a href="https://www.readytochange.org.uk/norfolk/pages/Home.aspx">Norfolk Wellbeing service</a> - for Waveney and Norfolk</li>
+	<li><a href="https://www.wellbeingnands.co.uk/">Norfolk and Suffolk Wellbeing service</a></li>
 	<li><a href="http://www.samaritans.org/how-we-can-help-you">Samaritans</a> - There for you 24 hours a day, 7 days a week</li>
 </ul>
 <h3 id="bereavement">Bereavement</h3>

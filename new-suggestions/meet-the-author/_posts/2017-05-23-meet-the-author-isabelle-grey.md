@@ -20,8 +20,6 @@ Isabelle began her career as a freelance journalist, contributing reviews and fe
 
 Her most recent television credit is for 'Tina's Story', the finale of BBC1’s award-winning <cite>Accused</cite>, co-written with Jimmy McGovern and described by <cite>The Times</cite> as "the most moving and powerful drama on television in a long time".
 
-[See Isabelle at Slaughter in Southwold on 18 June](/events/southwold-2017-06-18-slaughter-in-southwold-isabelle-grey/).
-
 ## 1. Who were your literary influences as you were growing up?
 
 To begin with, everyone from Lewis Carroll to Enid Blyton. Then I began picking up whatever books my family put down. I was the youngest, so I read my brothers’ A Level set books, new novels my mum had seen reviewed in the Sunday papers, and my dad’s old anthologies of Conan Doyle, John Buchan or Leslie Charteris. I wasn’t always old enough to understand everything I read, but I loved the variety of voices.
