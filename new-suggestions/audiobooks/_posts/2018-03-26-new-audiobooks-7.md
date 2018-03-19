@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Recommended new audiobooks #7"
-date: 2018-03-21
+date: 2018-03-26
 author: sophie-green
 category: audiobooks
 excerpt: "Whether you want to hear hard-hitting recent releases or modern classics, our new audiobooks list has you covered."
