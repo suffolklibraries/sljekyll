@@ -4,6 +4,8 @@ name: "Iris folded card-making: for children aged 8+ and adults"
 location: needham-market-library
 location-text: Needham Market Library
 event-start-date: 2018-04-11
+event-start-time: 1430
+event-end-time: 1630
 event-category: easter-holidays
 event-ticket-price: 1
 breadcrumb: y
