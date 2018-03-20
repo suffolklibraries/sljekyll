@@ -11,6 +11,6 @@ breadcrumb: y
 
 Buy your ticket by 12pm on 23 March for the FOGL Easter raffle!
 
-1st prize: Large Lindt Lindor egg - donated by Anne Edwards
-2nd prize: Cadbury Peter Rabbit egg - donated by Spar
-3rd prize - Cadbury Heroes - donated by Goodchild Plasterers
+* 1st prize: Large Lindt Lindor egg - donated by Anne Edwards
+* 2nd prize: Cadbury Peter Rabbit egg - donated by Spar
+* 3rd prize - Cadbury Heroes - donated by Goodchild Plasterers

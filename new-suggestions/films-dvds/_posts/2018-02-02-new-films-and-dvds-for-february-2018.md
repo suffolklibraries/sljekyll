@@ -6,12 +6,12 @@ author: brandon-king
 category: films-dvds
 excerpt: "Featuring <cite>Thor: Ragnarok</cite> and <cite>Blade Runner 2049</cite>."
 featured-image: /images/featured/featured-february-2018-dvds.jpg
-featured-alt: "Thor: Ragnarok, Blade Runner 2049, The Lego Ninjago Movie"
+featured-alt: "Thor: Ragnarok, Blade Runner 2049, The Death of Stalin"
 featured-link-text: Check out our new films and DVDs for February.
 breadcrumb: films-dvds
 ---
 
-![Thor: Ragnarok, Blade Runner 2049, The Lego Ninjago Movie](/images/featured/featured-february-2018-dvds.jpg)
+![Thor: Ragnarok, Blade Runner 2049, The Death of Stalin](/images/featured/featured-february-2018-dvds.jpg)
 
 ## [<cite>Thor: Ragnarok</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2364039)
 
@@ -30,14 +30,6 @@ breadcrumb: films-dvds
 > "Ben Affleck, Henry Cavill and Gal Gadot return to star in this superhero action adventure, directed by Zack Snyder, which follows on from the events of [<cite>Batman v Superman - Dawn of Justice</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1996385) (2016).
 
 > "Following Superman (Cavill)'s death, and with the world mourning his demise, Batman (Affleck) and Wonder Woman (Gadot) unite to form a team of superheroes to protect Earth from the looming invasion of Steppenwolf (voice of Ciarán Hinds) and his army of Parademons. They recruit metahumans Aquaman (Jason Momoa), Cyborg (Ray Fisher) and The Flash (Ezra Miller) to join them. But will the new league of heroes be able to put a stop to Steppenwolf's quest for world domination?"
-
-## [<cite>The Lego Ninjago Movie</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2361572)
-
-> "Animated feature based on the line of toys manufactured by Lego following six ninjas as they strive to protect their home city, Ninjago.
-
-> "Ninjas Kai (voice of Michael Pe3na), Cole (Fred Armisen), Nya (Abbi Jacobson), Jay (Kumail Nanjiani), Zane (Zach Woods) and Lloyd (Dave Franco), trained by Master Wu (Jackie Chan), are forced into action to repel the daily attacks of the evil Lord Garmadon (Justin Theroux), who also happens to be Lloyd's dad. A recent battle between the forces of good and evil leads Lloyd to call upon the services of Master Wu's ultimate weapon, a cat named Meowthra, that proceeds to destroy the city.
-
-> "To stop it, the ninjas embark on a quest to the Forest of Dangers, the Canyon of Death, and the Temple of Fragile Foundations in search of the ultimate-ultimate weapon. Can they succeed in defeating Meowthra and Lord Garmadon once and for all?"
 
 ## [<cite>The Death of Stalin</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2361567)
 

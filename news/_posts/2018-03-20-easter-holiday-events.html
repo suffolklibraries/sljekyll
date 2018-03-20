@@ -1,0 +1,41 @@
+---
+layout: sidebar-right
+title: "Easter holiday events at Suffolk Libraries"
+date: 2018-03-20
+author: alice-violett
+category: news
+excerpt: "Wondering what to do during the Easter holidays? We've got children's activities planned across our libraries"
+breadcrumb: news
+featured: true
+featured-image: "/images/featured/featured-hadleigh-easter.jpg"
+featured-alt: "Children making bunny ears at Hadleigh Library"
+featured-excerpt: "Wondering what to do during the Easter holidays? We've got children's activities planned across our libraries."
+featured-link-text: "Find out more &rarr;"
+---
+
+<p>Wondering what to do during the Easter holidays? We've got children's activities planned across our libraries.</p>
+
+<p>Children can hunt for Easter eggs, make Easter-themed crafts and Lego structures, have beach-themed fun, learn how to code, watch films, hear stories and much more.</p>
+
+<p>All of our libraries will be closed for Easter on <strong>Friday 30 March, Sunday 1 April and Monday 2 April.</strong></p>
+
+<p>See below for our full list of Easter holiday events.</p>
+
+{% assign easter-events = (site.events | where: "event-category", "easter-holidays" | sort: "event-start-date" ) %}
+
+{% for event in easter-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> - {{ event.event-end-date | date: "%a %-d %b" }} <span>{{ event.event-start-time }}</span>
+
+        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+        </p>
+
+    </article>
+
+{% endfor %}

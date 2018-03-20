@@ -6,6 +6,7 @@ location-text: Woodbridge Library
 event-start-date: 2018-03-31
 event-start-time: 1300
 event-end-time: 1500
+event-category: easter-holidays
 breadcrumb: y
 ---
 

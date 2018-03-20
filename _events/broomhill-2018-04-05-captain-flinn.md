@@ -6,7 +6,7 @@ location-text: Broomhill Library
 event-start-date: 2018-04-05
 event-start-time: 1030
 event-end-time: 1130
-event-category: children
+event-category: easter-holidays
 event-ticket-price: free
 breadcrumb: y
 ---

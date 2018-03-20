@@ -7,7 +7,7 @@ event-start-date: 2018-04-12
 event-start-time: 1400
 event-doors-open: 1600
 event-ticket-price: free
-event-category: hub
+event-category: ["hub", "easter-holidays"]
 breadcrumb: y
 ---
 
