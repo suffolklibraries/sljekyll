@@ -7,6 +7,7 @@ event-start-date: 2018-03-24
 event-start-time: 1000
 event-end-time: 1300
 event-ticket-price: 1
+event-category: easter-holidays
 breadcrumb: y
 ---
 

@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Mini Teenz, Hama-beads and loombands"
+recurrent-title: "Hama-beads"
 recurrent-day: Wednesday
 recurrent-times: 1545-1645 (1530-1645 during summer holidays)
 recurrent-location: gainsborough-community-library
