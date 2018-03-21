@@ -7,7 +7,7 @@ category: meet-the-author
 excerpt: "Stuart MacBride discusses Logan McRae, his upcoming work and his love for libraries."
 featured-image: /images/featured/featured-stuart-macbride-2.jpg
 featured-alt: "Stuart MacBride"
-featured-link-text: "Read our interview with Staurt MacBride."
+featured-link-text: "Read our interview with Stuart MacBride."
 top-feature: true
 breadcrumb: meet-the-author
 ---
