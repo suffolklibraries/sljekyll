@@ -56,4 +56,4 @@ If you don't have a card number or don't remember your PIN please contact custom
 - [Thurston Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
 - [West Suffolk House Library](http://netloan.suffolklibraries.co.uk/)
 - [Wickham Market Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)
-- [Woodbridge Library](http://netloan.suffolklibraries.co.uk/)
+- [Woodbridge Library](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)

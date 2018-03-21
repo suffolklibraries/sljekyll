@@ -52,4 +52,4 @@ The book behind Joaquin Phoenix’s latest film, which has been nominated for th
 
 > "A former Marine and ex-FBI agent, Joe has seen one too many crime scenes and known too much trauma, and not just in his professional life. Solitary and haunted, he prefers to be invisible. He doesn't allow himself friends or lovers and makes a living rescuing young girls from the deadly clutches of the sex trade.
 
-> "But when a high-ranking New York politician hires him to extricate his teenage daughter from a Manhattan brothel, Joe uncovers a web of corruption that even he may be able to unravel. When the men on his trial take the only person left in the world who matters to him, he forsakes his pledge to do no harm. If anyone can kill his way to the truth, it's Joe."
+> "But when a high-ranking New York politician hires him to extricate his teenage daughter from a Manhattan brothel, Joe uncovers a web of corruption that even he may not be able to unravel. When the men on his trail take the only person left in the world who matters to him, he forsakes his pledge to do no harm. If anyone can kill his way to the truth, it's Joe."
