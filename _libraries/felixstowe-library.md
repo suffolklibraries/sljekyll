@@ -23,8 +23,8 @@ branch-toilet: y
 branch-wifi: y
 branch-netloan: old
 branch-borrowing-ereaders-and-ipads: an iPad
-branch-photocopying: available
-branch-colour-printing: available
+branch-photocopying: available up to A3 size
+branch-colour-printing: available up to A4 size
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/felixstowe-library
 branch-other-facilities: 'Suffolk Coastal District Council customer services. Visit the <a href="http://www.eastsuffolk.gov.uk/contact-us/">Suffolk Coastal and Waveney Councils website</a> for opening times.'

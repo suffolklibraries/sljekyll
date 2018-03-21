@@ -27,10 +27,12 @@ branch-wifi: y
 branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: available
-branch-other-facilities: 'Waveney District Council customer services. Visit the <a href="http://www.eastsuffolk.gov.uk/contact-us/">Suffolk Coastal and Waveney Councils website</a> for opening times.'
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/beccles-library
 branch-display-space: Double-sided noticeboard for non-commercial event posters
 breadcrumb: y
-branch-other-facilities: '1940s, 1950s, 1960s and 1970s memory boxes available to local borrowers for up to three weeks. No library card required. Contact the library for more information.'
+branch-other-facilities: '<ul>
+                          <li>Waveney District Council customer services. Visit the <a href="http://www.eastsuffolk.gov.uk/contact-us/">Suffolk Coastal and Waveney Councils website</a> for opening times.</li>
+                          <li>1940s, 1950s, 1960s and 1970s memory boxes available to local borrowers for up to three weeks. No library card required. Contact the library for more information.</li>
+                          </ul>'
 ---
