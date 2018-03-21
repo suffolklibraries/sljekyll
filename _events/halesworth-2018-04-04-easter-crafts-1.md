@@ -1,6 +1,6 @@
 ---
 id: halesworth-raffle
-name: "Easter crafts and fun"
+name: "Children's Easter crafts: bunny bunting"
 location: halesworth-library
 location-text: Halesworth Library
 event-start-date: 2018-04-04
@@ -9,4 +9,6 @@ event-ticket-price: free but donations appreciated
 breadcrumb: y
 ---
 
-Children and their parents/carers are invited to enjoy some Easter-themed activities.
+Children of all ages are invited to make some bunny bunting.
+
+Under 8s must be accompanied by an adult.
