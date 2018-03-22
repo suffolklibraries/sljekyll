@@ -16,4 +16,4 @@ Perfect for adult beginners and all abilities.
 
 Price includes demonstrations, all art materials and light refreshments.
 
-Book in advance by contacting Amy Beckwith on [07936 798687](tel:07936798687) or email **amy@amynadiadesigns.co.uk**.
+Book in advance by contacting Amy Beckwith on [07936 798687](tel:07936798687) or email **amy@amynadiadesigns.co.uk**

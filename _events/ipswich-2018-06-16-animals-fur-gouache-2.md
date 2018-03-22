@@ -1,16 +1,16 @@
 ---
 id: ipswich-gouache
-name: "Painting birds and flowers in gouache and inks with artist Amy Beckwith"
+name: "Painting animals and fur features in gouache and inks with artist Amy Beckwith"
 location: ipswich-county-library
 location-text: Ipswich County Library
-event-start-date: 2018-05-12
+event-start-date: 2018-06-16
 event-start-time: 1000
 event-doors-open: 1300
 event-ticket-price: 25 per person
 breadcrumb: y
 ---
 
-Discover the beauty of painting birds and flowers and create striking feathers and expressive florals and foliage in inks in this inspiring class.
+Examine spectacular ways to paint animals in gouache. Learn how to create effects and add fur features and detail to your paintings.
 
 Perfect for adult beginners and all abilities.
 
