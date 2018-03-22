@@ -30,11 +30,11 @@ Fill in the form below to request an appointment and we'll get back to you as so
         <label class="f5 db pt2">Full name <span class="red">*</span></label>
         <input class="border-box w-100" type="text" name="full-name" required>
 
-        <label class="f5 db pt2">Company name <span class="red">*</span></label>
+        <label class="f5 db pt2">Company name</label>
         <input class="border-box w-100" type="text" name="company-name">
 
-        <label class="f5 db pt2">Company address (including postcode)<span class="red">*</span></label>
-        <textarea name="company-address" class="border-box w-100" required></textarea>
+        <label class="f5 db pt2">Company address (including postcode)</label>
+        <textarea name="company-address" class="border-box w-100"></textarea>
 
         <label class="f5 db pt2">Company website</label>
         <input class="border-box w-100" type="url" name="website">
@@ -51,8 +51,10 @@ Fill in the form below to request an appointment and we'll get back to you as so
         <label class="f5 db pt2">Nature of enquiry</label>
         <textarea name="nature-of-enquiry" class="border-box w-100"></textarea>
 
-        <p class="dn"><input name="bot-field"></p>
+    </fieldset>
 
-        {% include /c/button-submit-blue.html text="Submit" %}
+    <p class="dn"><input name="bot-field"></p>
+
+    {% include /c/button-submit-blue.html text="Submit" %}
 
 </form>
