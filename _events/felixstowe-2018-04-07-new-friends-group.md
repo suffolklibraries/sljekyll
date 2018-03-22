@@ -10,6 +10,6 @@ event-ticket-price: free
 breadcrumb: y
 ---
 
-Anyone interested in joining the new Friends of Felixstowe Library group or finding out how they can get more involved in supporting their library is invited to drop in for a chat.
+Anyone interested in joining the [new Friends of Felixstowe Library group](/news/new-felixstowe-friends-group/) or finding out how they can get more involved in supporting their library is invited to drop in for a chat.
 
-Further details TBC.
+BBC Radio Suffolk presenter Lesley Dolphin and Mayor of Felixstowe Nick Barber will be helping to launch the group.
