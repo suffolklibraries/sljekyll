@@ -1,6 +1,6 @@
 ---
 recurrent-title: 'Open space: drop in for health info and chats. All welcome.'
-recurrent-day: Thursdays from 29 March
+recurrent-day: Thursday
 recurrent-times: 1230-1430
 recurrent-location: sudbury-library
 recurrent-location-display-name: Sudbury Library
