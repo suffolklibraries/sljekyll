@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Borrow a highly regarded book from the 2018 UKLA Book Awards shortlist"
+title: "Borrow a highly regarded children's or YA book from the 2018 UKLA Book Awards shortlist"
 date: 2018-03-26
 author: alice-violett
 category: childrens-ya-books
