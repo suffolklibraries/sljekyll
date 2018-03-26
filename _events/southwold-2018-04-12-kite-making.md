@@ -1,6 +1,6 @@
 ---
 id: swold-kite
-name: "Kite Making and Stories with Reydon Community Gardeners at Jubilee Greem"
+name: "Kite Making and Stories with Reydon Community Gardeners at Jubilee Green"
 location: southwold-library
 location-text: Southwold Library
 event-alt-location: "Jubilee Green, Reydon (by the Sole Bay Health Centre)"
