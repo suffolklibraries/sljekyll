@@ -25,3 +25,5 @@ In <cite>The Dark Angel</cite>:
 > "So Ruth travels to Castello degli Angeli, accompanied by her daughter Kate and friend Shona. In the town she finds a baffling Roman mystery and a dark secret involving the war years and the Resistance. To her amazement she also soon finds Harry Nelson, with Cathbad in tow. But there is no time to overcome their mutual shock - the ancient bones spark a modern murder, and Ruth must discover what secrets there are in Castello degli Angeli that someone would kill to protect."
 
 As well as the Dr Ruth Galloway series, Elly is the author of the Stephens and Mephisto mysteries, set in 1950s Brighton. Elly took her inspiration for Ruth from her husband who gave up his city job to train as an archaeologist and her aunt who lives in North Norfolk and filled her nieces head with the myths and legends of the area. In 2016, she was awarded the CWA Dagger in the Library for her body of work.
+
+[&larr; Back to Skulduggery in Stowmarket](/skulduggery/)

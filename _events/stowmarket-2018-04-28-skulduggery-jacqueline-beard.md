@@ -23,3 +23,5 @@ Jacqueline Beard will be talking about her Victorian murder mysteries, [<cite>Th
 <cite>The Fressingfield Witch</cite> is set in 1890, where two mysterious deaths stir up rumours of witchcraft. The area already has a history with witchcraft, with scores of women executed in Suffolk during the 1645 trials. Can Lawrence Harpham discover who is behind the deaths while overcoming his own demons?
 
 Jacqueline is a writer and genealogist who lives in Glocestershire and has an East Anglian ancestry going back to the 1500s. When she is not writing about and researching 'dead people' (as her husband puts it), she enjoys walking her border terrier and gardening.
+
+[&larr; Back to Skulduggery in Stowmarket](/skulduggery/)

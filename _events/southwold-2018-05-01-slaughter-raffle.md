@@ -10,3 +10,5 @@ breadcrumb: y
 ---
 
 Buy a strip of raffle tickets for £1 from the library or during the [Slaughter in Southwold weekend](/slaughter/) for the chance to win a luxury crime themed hamper.
+
+[&larr; Back to Slaughter in Southwold](/slaughter/)

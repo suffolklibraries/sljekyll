@@ -29,3 +29,5 @@ Pauline was born in London where she trained as a doctor at University College. 
 Since retiring from medicine in 2010 she has pursued her interest in writing crime fiction as well as becoming an active member of a local carpentry group and following her husband's interest in classic cars.
 
 Pauline lives deep in the Suffolk countryside, some of her novels have been designated as 'Suffolk Loves' titles in our libraries, and she has been a sofa guest on BBC Radio Suffolk's Lesley Dolphin Show, with her latest book being given away as a prize.
+
+[&larr; Back to Skulduggery in Stowmarket](/skulduggery/)

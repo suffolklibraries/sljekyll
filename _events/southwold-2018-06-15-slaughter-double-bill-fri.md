@@ -23,3 +23,5 @@ In <cite>Double Indemnity</cite>, an insurance representative lets himself be ta
 In <cite>The Postman Always Rings Twice</cite>, a married woman and a drifter fall in love, then plot to murder her husband. Once the deed is done, they must live with the consequences of their actions. Starring Lana Turner, John Garfield & Cecil Kellaway.
 
 This event is not included in Slaughter in Southwold day or weekend passes.
+
+[&larr; Back to Slaughter in Southwold](/slaughter/)

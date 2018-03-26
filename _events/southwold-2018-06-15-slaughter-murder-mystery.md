@@ -27,4 +27,6 @@ Menu:
 * Lamb kofte with tahini salad & flatbreads *or* Falafel with tahini salad & flatbreads (vegetarian)
 * Chocolate molten pudding & cream *or* fruit salad with cream.
 
-This event is not included in Slaughter in Southwold day or weekend passes. Tickets must be booked by **Saturday 2 June**
+This event is not included in Slaughter in Southwold day or weekend passes. Tickets must be booked by **Saturday 2 June**.
+
+[&larr; Back to Slaughter in Southwold](/slaughter/)

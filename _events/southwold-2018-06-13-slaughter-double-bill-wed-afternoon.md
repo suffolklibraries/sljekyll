@@ -23,3 +23,5 @@ In <cite>The Big Sleep</cite>, private detective Philip Marlowe is hired by a ri
 In <cite>Key Largo</cite>, a man visits his old friend's hotel and finds a gangster running things. As a hurricane approaches, the two end up confronting each other. Starring Humphrey Bogart, Edward G. Robinson & Lauren Bacall.
 
 This event is not included in Slaughter in Southwold day or weekend passes.
+
+[&larr; Back to Slaughter in Southwold](/slaughter/)

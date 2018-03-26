@@ -23,3 +23,5 @@ Robert was born in Hampshire in 1954 and read History at Cambridge. After pursui
 > "For 30 years Goddard has been my go-to guy for a certain kind of storytelling, full of easy charm blended with sinister menace, and propulsive pace with twisty plotting, and likable characters in bad situations." - Lee Child
 
 There will be an opportunity to buy Robert's books from Beccles Books and have them signed after the talk.
+
+[&larr; Back to Slaughter in Southwold](/slaughter/)

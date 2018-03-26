@@ -22,3 +22,5 @@ Tim qualified as a doctor at St Mary’s Hospital in London in 1983. He trained 
 In his spare time, Tim sails and races a boat with varying degrees of success. He also spends quite a lot of time taking apart perfectly good cars and putting them back together again badly (at least it feels like that!).
 
 After Tim's talk, you're invited to our murder mystery evening with fish and chips. Decipher the clues, question the suspects and solve the crime before the other participants!
+
+[&larr; Back to Skulduggery in Stowmarket](/skulduggery/)

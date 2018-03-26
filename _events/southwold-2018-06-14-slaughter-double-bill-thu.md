@@ -23,3 +23,5 @@ In <cite>Strangers on a Train</cite>, a psychotic socialite confronts a pro tenn
 In <cite>Dial M for Murder</cite>, an ex-tennis pro carries out a plot to murder his wife. When things go wrong, he improvises a brilliant plan B. Starring Ray Milland, Grace Kelly & Robert Cummings.
 
 This event is not included in Slaughter in Southwold day or weekend passes.
+
+[&larr; Back to Slaughter in Southwold](/slaughter/)

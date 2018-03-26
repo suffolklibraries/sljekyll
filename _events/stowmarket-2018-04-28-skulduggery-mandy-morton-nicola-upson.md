@@ -27,3 +27,5 @@ Mandy was born in Framlingham, Suffolk, and pursued a successful music recording
 Nicola's new novel, [<cite>Nine Lessons</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2263788), is the seventh in her bestselling series featuring the Golden Age writer Josephine Tey. Set in the winter of 1937, and featuring a series of baffling murders inspired by M.R. James's famous ghost stories, the book takes readers on a gripping journey from King's College, Cambridge to the bleak, atmospheric Suffolk coast, where some of James's greatest tales are set.
 
 Nicola was born in Suffolk and read English at Downing College, Cambridge. She has worked in theatre and as a freelance journalist, and is the author of two works of non-fiction.
+
+[&larr; Back to Skulduggery in Stowmarket](/skulduggery/)

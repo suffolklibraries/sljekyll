@@ -23,3 +23,5 @@ Stella joined the Security Service (MI5) in 1968. During her career she worked i
 Her latest book is [<cite>Breaking Cover</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2161430), the ninth Liz Carlyle book.
 
 There will be an opportunity to buy Stella's books from Beccles Books and have them signed after the talk.
+
+[&larr; Back to Slaughter in Southwold](/slaughter/)

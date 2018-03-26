@@ -21,3 +21,5 @@ Simon Scarrow will be talking about his latest thriller, <cite>Playing With Deat
 Simon's Eagles of the Empire novels are legendary amongst readers of historical fiction, and all his novels, including the World War II thriller [<cite>Hearts of Stone</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1877516). He is a regular on the <cite>Sunday Times</cite> bestseller list. Before becoming a full-time writer, Simon worked as a teacher and lecturer.
 
 There will be an opportunity to buy Simon's books from Beccles Books and have them signed after the talk.
+
+[&larr; Back to Slaughter in Southwold](/slaughter/)

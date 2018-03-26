@@ -23,3 +23,5 @@ Mary-Jane spent many years as a BBC journalist before becoming a crime fiction w
 The first Alex Devlin novel is [<cite>The Bad Things</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1857684), set in Southwold. The latest, [<cite>Dark Waters</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2363721), is a story of family secrets and jealousies from the past, set on the atmospheric Norfolk Broads.
 
 There will be an opportunity to buy Mary-Jane's books from Beccles Books and have them signed after the talk.
+
+[&larr; Back to Slaughter in Southwold](/slaughter/)

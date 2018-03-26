@@ -27,3 +27,5 @@ Choose from:
 With a slice of cake & a hot drink for dessert.
 
 This event is not included in Slaughter in Southwold day or weekend passes and must be booked, with choices stated, by contacting the library by **Saturday 2 June**.
+
+[&larr; Back to Slaughter in Southwold](/slaughter/)

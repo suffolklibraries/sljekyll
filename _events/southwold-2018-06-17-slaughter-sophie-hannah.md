@@ -21,3 +21,5 @@ Sophie will be discussing the influence of Agatha Christie on her writing and sh
 Sophie is known for her bestselling psychological thrillers, and since 2014 she has been publishing Hercule Poirot continuation novels, with the blessing of the Agatha Christie estate.
 
 There will be an opportunity to buy Sophie's books from Beccles Books and have them signed after the talk.
+
+[&larr; Back to Slaughter in Southwold](/slaughter/)

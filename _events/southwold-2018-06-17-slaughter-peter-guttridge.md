@@ -21,3 +21,5 @@ Peter Guttridge presents "Crimewriters and Other Liars", a talk about the world 
 Peter is a journalist and crime novelist. He has written thirteen crime novels, including the acclaimed Brighton Trilogy. For twelve years he was the crime fiction critic for <cite>The Observer</cite>, so has read far more crime fiction and knows more crime writers than is healthy for anyone.
 
 There will be an opportunity to buy Peter's books from Beccles Books and have them signed after the talk.
+
+[&larr; Back to Slaughter in Southwold](/slaughter/)

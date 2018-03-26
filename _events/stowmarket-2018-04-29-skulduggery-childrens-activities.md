@@ -25,3 +25,5 @@ Writer and comedian James Campbell will be telling hilarious stories about cats,
 <img src="/images/featured/featured-funny-life-of-pets.jpg" alt="The Funny Life of Pets" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
 
 James first wanted to be a writer when he was seven. Before that he wanted to be a duck. Now he lives in Suffolk and spends a lot of time visiting local primary schools and making children laugh.
+
+[&larr; Back to Skulduggery in Stowmarket](/skulduggery/)

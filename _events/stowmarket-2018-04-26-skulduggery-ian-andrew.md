@@ -26,3 +26,5 @@ Kara Wright and Tien Tran, combat veterans of an elite intelligence unit, now ma
 Ian was born in Northern Ireland in 1966. At 18, he joined the Royal Air Force, rising through the ranks from aircraft technician to specialist electronic warfare duties and then intelligence officer. On leaving the Service he relocated to Western Australia and established a training and management consultancy. His rural home is surrounded by a resident mob of Kangaroos who bounce past his house each day. They remind him of his previous colleagues.
 
 His first novel <cite>A Time To Every Purpose</cite>, an alternative history with a religious twist, was published in 2014 and gained positive critical acclaim. His Wright and Tran series of detective novels was launched with the publication of <cite>Face Value</cite> in 2015. The third in the series, <cite>Fall Guys/cite>, won the <cite>Publishers Weekly</cite> BookLife grand prize.
+
+[&larr; Back to Skulduggery in Stowmarket](/skulduggery/)

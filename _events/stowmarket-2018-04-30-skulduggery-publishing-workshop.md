@@ -17,3 +17,5 @@ breadcrumb: y
 Budding authors are invited to learn all about the self-publishing process, including proofreading and bookbinding.
 
 <img src="/images/featured/featured-gipping-press.jpg" alt="Gipping Press" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+
+[&larr; Back to Skulduggery in Stowmarket](/skulduggery/)

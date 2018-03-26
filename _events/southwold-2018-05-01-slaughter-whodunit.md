@@ -10,3 +10,5 @@ breadcrumb: y
 ---
 
 Pick up our crime puzzle sheet and help Inspector Puzzler find the murderer for £1 from the library or during the [Slaughter in Southwold weekend](/slaughter/) for the chance to win a £10 book token.
+
+[&larr; Back to Slaughter in Southwold](/slaughter/)

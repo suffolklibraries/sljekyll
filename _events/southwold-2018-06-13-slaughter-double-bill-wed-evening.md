@@ -23,3 +23,5 @@ Join us for a classic crime double bill as part of the Slaughter in Southwold cr
 In <cite>The Third Man</cite>, pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime. Starring Orson Welles, Joseph Cotten & Alida Valli.
 
 This event is not included in Slaughter in Southwold day or weekend passes.
+
+[&larr; Back to Slaughter in Southwold](/slaughter/)

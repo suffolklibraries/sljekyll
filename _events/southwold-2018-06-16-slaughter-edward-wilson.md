@@ -23,3 +23,5 @@ Edward Wilson is a native of Baltimore and served as a Special Forces officer in
 Edward's latest novel is [<cite>A Very British Ending</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1934079). As well as six novels, he has written as a commentator and reviewer for <cite>The Independent</cite>, <cite>Tribune Magazine</cite>, <cite>The Guardian</cite> and <cite>Open Democracy</cite>.
 
 There will be an opportunity to buy Edward's books from Beccles Books and have them signed after the talk.
+
+[&larr; Back to Slaughter in Southwold](/slaughter/)

@@ -21,3 +21,5 @@ Get together a team of 4 and take part in our fun quiz, with rounds on crime fro
 Teams of 4. There will be a bar, but bring your own snacks. There will also be a raffle.
 
 This event is not included in Slaughter in Southwold day or weekend passes.
+
+[&larr; Back to Slaughter in Southwold](/slaughter/)

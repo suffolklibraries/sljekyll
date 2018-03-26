@@ -23,3 +23,5 @@ Mark began his career as an actor. While writing for a variety of TV shows, he b
 Martyn Waites was born in Newcastle-Upon-Tyne. He trained at the Birmingham School of Speech and Drama and worked as an actor for many years before becoming a writer. He has been nominated fir every major British crime fiction award and has enjoyed international commercial success with the eight-novel Brennan and Esposito series, set in Colchester and Birmingham, written under the name Tania Carver.
 
 There will be an opportunity to buy Mark and Martyn's books from Beccles Books and have them signed after the talk.
+
+[&larr; Back to Slaughter in Southwold](/slaughter/)
