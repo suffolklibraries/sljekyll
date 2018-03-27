@@ -77,7 +77,7 @@ Here are some of the organisations and information sources available for a varie
 <ul>
 	<li><a href="http://www.nhs.uk/conditions/stress-anxiety-depression/pages/understanding-panic.aspx">NHS Choices</a> - Why do you feel anxious and panicky? Video and information to help</li>
 	<li><a href="http://www.rethink.org/diagnosis-treatment/conditions/anxiety-disorders">Rethink</a> - What are anxiety disorders and how can they be treated</li>
-	<li><a href="http://www.mind.org.uk/help/diagnoses_and_conditions/anxiety">Mind (National)</a> - Downloadable fact sheet on anxiety and panic attacks</li>
+	<li><a href="https://www.mind.org.uk/information-support/types-of-mental-health-problems/anxiety-and-panic-attacks/#.WrphqtPwai4">Mind (National)</a> - Downloadable fact sheet on anxiety and panic attacks</li>
 </ul>
 <h3 id="ask">Ask for help</h3>
 <ul>
@@ -90,7 +90,7 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="http://www.cruse.org.uk/">Cruse Bereavement Care</a> - Offering support you need after losing someone you care about</li>
 	<li><a href="http://www.winstonswish.org.uk/supporting-you/">Winston's Wish</a> - Support for those who are caring for bereaved children</li>
 	<li><a href="http://www.ageuk.org.uk/health-wellbeing/relationships-and-family/bereavement/emotional-effects-of-bereavement/">Age UK</a> - Practical support and advice on bereavement</li>
-	<li><a href="http://uk-sobs.org.uk/">Survivors of those bereaved by suicide (SOBS)</a> - National helpline and groups in Ipswich, Bury St Edmunds, Lowestoft and Norfolk</li>
+	<li><a href="http://suffolk-sobs.org.uk/">Survivors of those bereaved by suicide (SOBS)</a> - National helpline and groups in Ipswich, Bury St Edmunds, Lowestoft and Norfolk</li>
 </ul>
 <h3 id="bipolar">Bipolar disorder</h3>
 <ul class="xoxo blogroll">
@@ -105,13 +105,13 @@ Here are some of the organisations and information sources available for a varie
 </ul>
 <h3 id="consult">Consultation</h3>
 <ul class="xoxo blogroll">
-	<li><a href="http://www.healthwatchsuffolk.co.uk/content/about">Health Watch Suffolk</a> - Have your say about local health services in Suffolk</li>
+	<li><a href="http://www.healthwatchsuffolk.co.uk/content/about">Healthwatch Suffolk</a> - Have your say about local health services in Suffolk</li>
 </ul>
 <h3 id="therapy"><b>Counselling and online </b>therapy</h3>
 <ul class="xoxo blogroll">
 	<li><a href="http://www.nhs.uk/Livewell/counselling/Pages/Counsellinghome.aspx">NHS Choices</a> - The benefits of talking therapy explained</li>
 	<li><a href="http://www.counselling-directory.org.uk/search.php?search=Suffolk">Counselling Directory</a> - Suffolk based counsellors, contact details and what services they charge</li>
-	<li><a href="http://www.cruse.org.uk">Cruse bereavement care</a> - Organisation to help with grief after the death of someone</li>
+	<li><a href="http://www.cruse.org.uk">Cruse bereavement care</a> - Organisation to help with grief</li>
 	<li><a href="http://www.llttf.com">Living Life to the Full</a> - UK online based therapy</li>
 	<li><a href="http://ptsdresolution.org">PTSD Resolution</a> - Counselling for veterans and their families</li>
 	<li><a href=" http://www.suffolkmind.org.uk/healthy-mind-counselling.asp">Suffolk Mind</a> - Healthy Minds counselling services information</li>
@@ -156,12 +156,12 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="http://www.insideoutcommunity.com/">Inside Out Arts</a> - Locally based organisation that helps recovery through art and full details on workshops and contacts</li>
 	<li><a href="http://onelifesuffolk.co.uk/">OneLife Suffolk</a> - Valuable practical advice, guidance and courses to improve your physical wellbeing</li>
 	<li><a href="http://www.lofty-heights.org">Lofty Heights</a> - Loft clearing and decluttering service in Suffolk to improve wellbeing</li>
+	<li><a href="http://www.steppingstonescommunity.com">Mavam</a> - Community support, decluttering services and much more</li>
 	<li><a href="http://www.nsft.nhs.uk/Our-services/Pages/Service-Search-Results.aspx">Norfolk and Suffolk Foundation NHS Trust</a> - Find out about inpatient and community services</li>
 	<li><a href="http://infolink.suffolk.gov.uk/kb5/suffolk/infolink/service.page?id=p8orsprFAcw">The Phoenix Project Club</a> - Supportive group that meets in Ipswich with details on how to get in touch</li>
-	<li><a href="http://www.steppingstonescommunity.com">Stepping Stones</a> - Community support, decluttering services and much more</li>
 	<li><a href="http://infolink.suffolk.gov.uk/kb5/suffolk/infolink/home.page">Suffolk Infolink</a> - Community based database from Suffolk County Council</li>
 	<li><a href="http://www.suffolkmind.org.uk/">Suffolk Mind</a> - Website for mental health charity with opportunities to improve mental wellbeing in Suffolk</li>
-	<li><a href="https://www.suffolk.gov.uk/children-families-and-learning/send-and-the-local-offer/sendiass/sendiass-leaflets/">SENDISS leaflets and resources</a> - Leaflets and guides for children, young people and their parents about Special Educational Needs (SEN) from Suffolk County Council</li>
+	<li><a href="https://www.suffolk.gov.uk/children-families-and-learning/send-and-the-local-offer/sendiass/">SENDIASS leaflets and resources</a> - Leaflets and guides for children, young people and their parents about Special Educational Needs (SEN) from Suffolk County Council</li>
 </ul>
 <h3 id="medication">Medication</h3>
 <ul>
@@ -229,7 +229,7 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="http://www.samaritans.org/">Samaritans</a> - If something's troubling you, then get in touch. Available 24 hours a day, 365 days a year</li>
 	<li><a href="https://www.mentalhealth.org.uk/a-to-z/s/suicide">Mental Health Foundation</a> - Information and guidance regarding suicide prevention</li>
 	<li><a href="https://www.thecalmzone.net/about-calm/what-is-calm/">CALM (Campaign Against Living Miserably)</a> - Offering support to men in the UK, of any age, who are down or in crisis via a helpline and website</li>
-	<li><a href="http://uk-sobs.org.uk/">Survivors of Bereavement by Suicide</a> - National helpline and local groups in Ipswich, Bury St Edmunds, Lowestoft and Norfolk that provide support for those affected by suicide</li>
+	<li><a href="http://suffolk-sobs.org.uk/">Survivors of Bereavement by Suicide</a> - National helpline and local groups in Ipswich, Bury St Edmunds, Lowestoft and Norfolk that provide support for those affected by suicide</li>
 	<li><a href="http://media.wix.com/ugd/a72b48_5318444c562a4d6195afc6bf4ff116ff.pdf">Norfolk and Suffolk NHS Foundation Trust (PDF)</a> - Local suicide prevention strategy on providing care and support</li>
 	<li><a href="http://www.healthysuffolk.org.uk/projects/suffolk-lives-matter/">Suffolk Lives Matter</a> - 24/7 free and anonymous chat or email as well as information on Suffolk's Suicide Prevention Strategy</li>
 </ul>
