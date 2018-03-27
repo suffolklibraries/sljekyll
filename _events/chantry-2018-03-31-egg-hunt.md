@@ -11,6 +11,6 @@ event-ticket-price: 1
 breadcrumb: y
 ---
 
-Find our Easter eggs!
+Find our Easter eggs and enjoy some Easter crafts.
 
-Price includes chocolate prize and refreshments.
+Price includes chocolate prize courtesy of Tesco at Copdock) and refreshments.
