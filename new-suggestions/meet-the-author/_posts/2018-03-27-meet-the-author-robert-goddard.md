@@ -16,7 +16,7 @@ breadcrumb: meet-the-author
 
 British novelist Robert Goddard won the inaugural WHSmith Thumping Good Read Award in 1990 for [<cite>Into the Blue</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=99972). Since then he has written many bestsellers including the Wide World Trilogy which was very popular among our readers. His latest book is [<cite>Panic Room</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2154011).
 
-You can see Robert at [Slaughter in Southwold](/events-activities/slaughter/) on 16 June.
+You can see Robert at [Slaughter in Southwold](/events-activities/slaughter-in-southwold/) on 16 June.
 
 ## 1. Who were your literary influences as you were growing up?
 
