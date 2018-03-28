@@ -88,7 +88,7 @@ Here are some of the organisations and information sources available for a varie
 <h3 id="bereavement">Bereavement</h3>
 <ul>
 	<li><a href="http://www.cruse.org.uk/">Cruse Bereavement Care</a> - Offering support you need after losing someone you care about</li>
-	<li><a href="http://www.winstonswish.org.uk/supporting-you/">Winston's Wish</a> - Support for those who are caring for bereaved children</li>
+	<li><a href="http://www.winstonswish.org.uk/">Winston's Wish</a> - Support for those who are caring for bereaved children</li>
 	<li><a href="http://www.ageuk.org.uk/health-wellbeing/relationships-and-family/bereavement/emotional-effects-of-bereavement/">Age UK</a> - Practical support and advice on bereavement</li>
 	<li><a href="http://suffolk-sobs.org.uk/">Survivors of those bereaved by suicide (SOBS)</a> - National helpline and groups in Ipswich, Bury St Edmunds, Lowestoft and Norfolk</li>
 </ul>
