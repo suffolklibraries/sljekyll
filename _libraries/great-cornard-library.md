@@ -26,4 +26,5 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
+branch-news: "The library will be opening at 11am today (Wednesday 28 March)."
 ---

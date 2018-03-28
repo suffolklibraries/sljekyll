@@ -86,3 +86,5 @@ Commissario Guido Brunetti returns to delight his many fans:
 ## [<cite>The Librarian</cite>, by Salley Vickers](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2353564)
 
 > "Sylvia Blackwell, a young woman in her twenties, moves to East Mole, a quaint market town in middle England, to start a new job as a children's librarian. But the apparently pleasant town is not all it seems. Sylvia falls in love with an older man - but it's her connection to his precocious young daughter and her neighbours' son which will change her life and put them, the library and her job under threat. How does the library alter the young children's lives and how do the children fare as a result of the books Sylvia introduces them to?"
+
+Salley Vickers will be talking about <cite>The Librarian</cite> at [Felixstowe Book Festival](https://felixstowebookfestival.co.uk/events) in June.
