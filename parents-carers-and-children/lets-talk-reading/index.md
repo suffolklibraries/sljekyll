@@ -7,7 +7,7 @@ sidebar: children-parents
 
 <img class="db center" src="/images/featured/featured-lets-talk-reading-logo.jpg">
 
-Let's Talk Reading is a voluntary project that aims to <strong>eradicate low literacy in Ipswich by 2025</strong> by supporting communication and reading for children and adults in conjunction with early years providers, schools and community organisations.
+Let's Talk Reading is a voluntary project that aims to <strong>eradicate low literacy in Ipswich by 2025</strong> by supporting communication and reading for children and adults. It works in conjunction with early years providers, schools and community organisations.
 
 ## What we do
 
