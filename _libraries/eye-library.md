@@ -16,6 +16,7 @@ branch-tel: 01379 870515
 branch-friends: Eye Library Friends
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/eye-library-2
 branch-parking: free parking available
+branch-which: y
 branch-bookdrop: y
 branch-wifi: y
 branch-netloan: old

@@ -22,6 +22,7 @@ branch-payments: cash, cheques and cards accepted
 branch-parking: available for blue badge holders only
 branch-bookdrop: y
 branch-toilet: y
+branch-which: y
 branch-wifi: y
 branch-netloan: old
 branch-colour-printing: available

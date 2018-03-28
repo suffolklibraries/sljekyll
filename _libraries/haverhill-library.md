@@ -33,6 +33,7 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/haverhill-library
 branch-display-space: Small table top/banner display spaces available in the foyer and library, glass display cabinet and large display board available in the library
+branch-which: y
 breadcrumb: y
 branch-news: '<a href="/news/haverhill-opening-hours-change/">The library&#39;s opening hours are changing in the first week of April 2018.</a>'
 ---

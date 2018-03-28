@@ -25,6 +25,7 @@ branch-bookdrop: y
 branch-toilet: y
 branch-refreshments: available in our café
 branch-display-space: two cork boards in cafe area for A3, A4 or A5 posters
+branch-which: y
 branch-wifi: y
 branch-netloan: old
 branch-borrowing-ereaders-and-ipads: an eReader

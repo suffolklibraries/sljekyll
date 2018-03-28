@@ -21,6 +21,7 @@ branch-payments: 'cash and cheques accepted. Call <a class="blue" href="tel:0147
 branch-parking: available
 branch-toilet: y
 branch-wifi: y
+branch-which: y
 branch-netloan: old
 branch-photocopying: available
 branch-colour-printing: available

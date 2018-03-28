@@ -29,6 +29,7 @@ branch-other-facilities: '<ul>
                           <li><a href="http://www.westsuffolk.gov.uk/parking/Travel/shopmobility.cfm">Shopmobility:</a> hire an electric mobility scooter from Newmarket Library.</li>
                           </ul>'
 branch-display-space: Wall space available for exhibition hire
+branch-which: y
 branch-wifi: y
 branch-netloan: new
 branch-borrowing-microbits: y

@@ -24,6 +24,7 @@ branch-payments: cash, cheques and cards accepted
 branch-parking: on-street parking only
 branch-bookdrop: y
 branch-refreshments: hot drinks for sale
+branch-which: y
 branch-for-sale: "<ul>
                   <li>Latitude Festival tickets at face value: weekend adult £197.50; day adult £77.50. No charges for card payment.</li>
                   <li>Crafts, Southwold and Suffolk Coast Treasure Trails sheets.</li>

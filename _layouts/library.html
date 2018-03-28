@@ -162,6 +162,18 @@
                                   </li>
                                 {% endif %}
 
+                                {% if page.branch-which %}
+                                  <li>
+                                  <cite>Which?</cite> available - ask staff for magazine or to log in
+                                  </li>
+                                {% endif %}
+
+                                {% if page.branch-which-travel %}
+                                  <li>
+                                  <cite>Which?</cite> and <cite>Which? Travel</cite> available - ask staff for magazine or to log in
+                                  </li>
+                                {% endif %}
+
                                 {% if page.branch-for-sale %}
                                   <li>
                                   For sale: {{ page.branch-for-sale }}

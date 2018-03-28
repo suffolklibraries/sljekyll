@@ -27,6 +27,7 @@ branch-toilet: y
 branch-other-facilities: Suffolk Coastal customer services
 branch-special-collections: Edward Fitzgerald collection, Seckford collection
 branch-display-space: Display boards and staffed table display available for hire
+branch-which: y
 branch-for-sale: Friends of Woodbridge Library cotton shopping bags (£3) and magnetic bookmarks (£1)
 branch-wifi: y
 branch-netloan: old

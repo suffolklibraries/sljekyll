@@ -27,6 +27,7 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/bungay-library
+branch-which: y
 breadcrumb: y
 branch-news: '<a href="/news/xmas-opening-hours/">Check our Christmas opening hours.</a>'
 branch-other-facilities: "Foodbank collection point throughout the year."

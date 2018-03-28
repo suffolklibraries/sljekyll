@@ -22,6 +22,7 @@ branch-payments: cash, cheques and cards accepted
 branch-parking: available for one hour in front of the library, free parking available within walking distance
 branch-bookdrop: y
 branch-refreshments: coffee, tea and hot chocolate for sale
+branch-which: y
 branch-wifi: y
 branch-netloan: old
 branch-colour-printing: available

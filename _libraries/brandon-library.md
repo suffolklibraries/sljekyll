@@ -22,6 +22,7 @@ branch-parking: free car park available adjacent to the library
 branch-toilet: y
 branch-room-hire: /libraries/room-hire/brandon-library
 branch-display-space: Space for A3, A4 and A5 posters advertising local events
+branch-which: y
 branch-wifi: y
 branch-netloan: old
 branch-colour-printing: available

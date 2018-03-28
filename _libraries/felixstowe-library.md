@@ -19,6 +19,7 @@ branch-facebook: felixstowelibrary
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/felixstowe-library-2
 branch-parking: Pay & Display car park opposite
 branch-bookdrop: y
+branch-which: y
 branch-toilet: y
 branch-wifi: y
 branch-netloan: old

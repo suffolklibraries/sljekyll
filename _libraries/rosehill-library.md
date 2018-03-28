@@ -19,6 +19,7 @@ branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-coun
 branch-parking: available
 branch-toilet: y
 branch-bookdrop: y
+branch-which: y
 branch-for-sale: I love Rosehill Library wristbands £1
 branch-wifi: y
 branch-netloan: old
