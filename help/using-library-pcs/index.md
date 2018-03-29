@@ -9,7 +9,7 @@ You can use one of our computers for **up to two hours**.
 
 You can book a computer at **all Suffolk libraries and Suffolk record offices**. You can book up to 21 days in advance with a maximum of 15 bookings every 21 days.
 
-You can also [book a computer online](/book-a-computer/).
+You can also [book a computer online](https://suffolk.getnetloan.co.uk/netloan/Home.aspx).
 
 Most libraries have computers that are **available without a booking**.
 
