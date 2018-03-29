@@ -1,6 +1,6 @@
 ---
-recurrent-title: "Baby Bounce"
-recurrent-description: "Soothing songs and gentle nursery rhymes for babies."
+recurrent-title: "Baby Bounce and Tot Rock"
+recurrent-description: "Stories, songs and nursery rhymes for babies and toddlers. Term time and during summer holidays - next session 20 April"
 recurrent-day: Friday
 recurrent-times: 0945-1030
 recurrent-location: elmswell-library
