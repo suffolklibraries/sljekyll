@@ -4,8 +4,8 @@ branch-name: Haverhill Library
 branch-image: /images/branches/haverhill-library-2.jpg
 branch-monday-hours: 0900 – 1300
 branch-tuesday-hours:	0900 – 1900
-branch-wednesday-hours: 0900 – 1300, 1600 – 1800
-branch-thursday-hours: 0900 – 1900
+branch-wednesday-hours: 0900 – 1700
+branch-thursday-hours: 0900 – 1700
 branch-friday-hours: 0900 – 1700
 branch-saturday-hours: 0900 – 1630
 branch-sunday-hours: 1000 – 1600
