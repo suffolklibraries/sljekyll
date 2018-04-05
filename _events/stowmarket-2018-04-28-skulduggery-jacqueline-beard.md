@@ -1,6 +1,6 @@
 ---
 id: skulduggery-jac
-name: "Jacqueline Beard: Crime and My Ancestors"
+name: "Skulduggery in Stowmarket: Jacqueline Beard: Crime and My Ancestors"
 location: stowmarket-library
 location-text: Stowmarket Library
 event-start-date: 2018-04-28
