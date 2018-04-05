@@ -7,7 +7,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2018-06-16
 event-start-time: 1300
 event-end-timme: 1400
-event-ticket-price: 10. On sale 1 April, must be booked with choices stated by 2 June.
+event-ticket-price: 10. Must be booked with choices stated by 2 June
 event-category: slaughter-2018-food
 breadcrumb: y
 event-image: featured/featured-cafe-51.jpg

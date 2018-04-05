@@ -6,7 +6,7 @@ location-text: Felixstowe Library
 event-start-date: 2018-07-01
 event-start-time: 1400
 event-end-time: 1530
-event-ticket-price: 4. Tickets available from 31 March.
+event-ticket-price: 4
 breadcrumb: y
 event-category: fbf
 event-ticket-url: http://felixstowe-book-festival.bitballoon.com/event?event=150137

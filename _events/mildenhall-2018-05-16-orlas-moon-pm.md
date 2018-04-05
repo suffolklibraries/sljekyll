@@ -1,14 +1,13 @@
 ---
 id: mild-orla
-name: "Wonderful Beast presents: <cite>Orla's Moon</cite> for 0-3 year-olds"
+name: "Wonderful Beast presents: <cite>Orla's Moon</cite> for 0-3 year-olds - afternoon performance"
 location: mildenhall-library
 location-text: Mildenhall Library
 event-start-date: 2018-05-16
-event-start-time: 1030
-event-end-time: 1130
+event-start-time: 1330
+event-end-time: 1430
 event-ticket-price: "free - one child and one adult per ticket"
 breadcrumb: y
-event-category: hub
 ---
 
 0-3 year-olds and their parents/carers are invited to Wonderful Beast's performance of <cite>Orla's Moon</cite>, featuring music and sensory and creative play.

@@ -6,7 +6,7 @@ location-text: Felixstowe Library
 event-start-date: 2018-06-30
 event-start-time: 0930
 event-end-time: 1200
-event-ticket-price: 8 adult; £6 under 18s/students. Tickets available from 31 March.
+event-ticket-price: 8 adult; £6 under 18s/students
 breadcrumb: y
 event-category: fbf
 event-ticket-url: http://felixstowe-book-festival.bitballoon.com/event?event=150535

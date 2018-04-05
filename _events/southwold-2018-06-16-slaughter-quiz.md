@@ -6,7 +6,7 @@ location-text: Southwold Library
 event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, Southwold, IP18 6JP"
 event-start-date: 2018-06-16
 event-start-time: 1900
-event-ticket-price: 3 per person. On sale 1 April.
+event-ticket-price: 3 per person
 event-ticket-url: https://www.ticketsource.co.uk/event/FGIGHD
 event-category: slaughter-2018-activity
 breadcrumb: y

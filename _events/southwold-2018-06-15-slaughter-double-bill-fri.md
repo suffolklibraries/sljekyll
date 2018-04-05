@@ -6,7 +6,7 @@ location-text: Southwold Library
 event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, Southwold, IP18 6JP"
 event-start-date: 2018-06-15
 event-start-time: "1400 & 1600"
-event-ticket-price: 5 for one film, £7.50 for both. On sale 1 April.
+event-ticket-price: 5 for one film, £7.50 for both
 event-ticket-url: https://www.ticketsource.co.uk/event/FGIHLE
 event-category: slaughter-2018-film
 breadcrumb: y
