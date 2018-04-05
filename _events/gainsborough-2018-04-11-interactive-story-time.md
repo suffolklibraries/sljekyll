@@ -1,6 +1,6 @@
 ---
 id: gains-story
-name: "Interactive story time fir 2-5 year-olds: <cite>Never Tickle a Tiger</cite>"
+name: "Interactive story time for 2-5 year-olds: <cite>Never Tickle a Tiger</cite>"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2018-04-11
