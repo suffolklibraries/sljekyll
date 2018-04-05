@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Long Way Down by Jason Reyolds"
+title: "Long Way Down by Jason Reynolds"
 date: 2018-03-29
 author: emily-mitchell
 category: young-adult
