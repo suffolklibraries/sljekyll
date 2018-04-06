@@ -7,6 +7,7 @@ event-start-date: 2018-05-16
 event-start-time: 1100
 event-end-time: 1200
 event-ticket-price: "free - one child and one adult per ticket"
+event-category: orla-moon
 breadcrumb: y
 ---
 

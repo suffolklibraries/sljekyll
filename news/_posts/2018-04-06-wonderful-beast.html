@@ -1,0 +1,61 @@
+---
+layout: sidebar-right
+title: "Suffolk Libraries to host musical theatre performances for young children"
+date: 2018-04-06
+author: james-powell
+category: news
+excerpt: "We are hosting an amazing and interactive music theatre tour for babies and young children next month."
+breadcrumb: news
+---
+
+<p>We are hosting an amazing and interactive music theatre tour for babies and young children next month.</p>
+
+<p>Suffolk-based theatre company Wonderful Beast are bringing two of their popular shows, <cite>Orla's Moon</cite> and <cite>Orla and the Sun</cite> to seven of our libraries in May. Tickets to the immersive musical performances will be free thanks to funding from Arts Council England.</p>
+
+<p>The shows are aimed at babies and children aged 0-3 years. They involve music, dance, and plenty of sensory and creative play.</p>
+
+<p>Each show lasts about an hour with a ten-minute pre-show, a 30-minute show and 20 minutes free play afterwards. As places are limited to 25 children per performance, the free tickets must be reserved in advance at the library in question.</p>
+
+<p>The full programme for the tour follows. You can find out more on <a href="http://www.wonderfulbeast.co.uk/home.html">Wonderful Beast's website</a>.</p>
+
+<h2>Orla's Moon</h2>
+
+{% assign orla-events = (site.events | where: "event-category", "orla-moon" | sort: "event-start-date" ) %}
+
+{% for event in orla-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> - {{ event.event-end-date | date: "%a %-d %b" }} <span>{{ event.event-start-time }}</span>
+
+        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+        </p>
+
+    </article>
+
+{% endfor %}
+
+<h2>Orla and the Sun</h2>
+
+{% assign orla-events = (site.events | where: "event-category", "orla-sun" | sort: "event-start-date" ) %}
+
+{% for event in orla-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> - {{ event.event-end-date | date: "%a %-d %b" }} <span>{{ event.event-start-time }}</span>
+
+        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+        </p>
+
+    </article>
+
+{% endfor %}

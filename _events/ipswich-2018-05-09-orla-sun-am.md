@@ -8,7 +8,7 @@ event-start-time: 1100
 event-end-time: 1200
 event-ticket-price: "free - one child and one adult per ticket"
 breadcrumb: y
-event-category: hub
+event-category: ["hub", "orla-sun"]
 ---
 
 0-3 year-olds and their parents/carers are invited to Wonderful Beast's performance of <cite>Orla and the Sun</cite>, featuring music and sensory and creative play.

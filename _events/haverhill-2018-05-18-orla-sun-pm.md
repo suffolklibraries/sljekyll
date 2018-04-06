@@ -7,6 +7,7 @@ event-start-date: 2018-05-18
 event-start-time: 1330
 event-end-time: 1430
 event-ticket-price: "free - one child and one adult per ticket"
+event-category: orla-sun
 breadcrumb: y
 ---
 
