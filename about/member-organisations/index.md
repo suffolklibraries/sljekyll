@@ -24,7 +24,7 @@ The following member organisations are members of Suffolk's Libraries Industrial
 * Debenham Library Foundation
 * [Elmswell Library Friends (ELF)](/about/member-organisations/elmswell-library-friends-elf/)
 * Eye Library Friends (ELF)
-* Felixstowe Town Council
+* Friends of Felixstowe Library
 * Framlingham Town Council
 * [Voices for Gainsborough Community Library](/about/member-organisations/voices-for-gainsborough-community-library/)
 * Friends of Glemsford Library

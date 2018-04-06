@@ -13,7 +13,7 @@ branch-manager: Steph Merrett
 branch-address: Crescent Road, Felixstowe
 branch-post-code: IP11 7BY
 branch-tel: 01394 694880
-branch-friends: Felixstowe Town Council
+branch-friends: Friends of Felixstowe Library
 branch-social-media: y
 branch-facebook: felixstowelibrary
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/felixstowe-library-2
