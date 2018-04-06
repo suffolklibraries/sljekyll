@@ -35,13 +35,13 @@ breadcrumb: films-dvds
 
 > "Ferdinand struggles to adapt to his new home and feels out of his depth when he is encouraged to be violent for the purposes of entertainment. To escape his situation and return to his human family, he enlists the help of some animal friends to embark on an exciting adventure."
 
-## The Disaster Artist
+## [<cite>The Disaster Artist</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2336017)
 
 This hasn't arrived in our catalogue yet, but it's coming soon!
 
-> "James Franco transforms the tragicomic true-story of aspiring filmmaker and infamous Hollywood outsider Tommy Wiseau - an artist whose passion was as sincere as his methods were questionable - into a celebration of friendship, artistic expression, and dreams pursued against insurmountable odds.
+> After meeting in an acting class Sestero (Dave Franco) befriends wannabe actor Tommy Wiseau (James Franco) and the pair move to Los Angeles in the hope of getting their big break.
 
-> "Based on Greg Sestero’s best-selling tell-all about the making of Tommy's cult-classic disasterpiece <cite<The Room</cite> (“The Greatest Bad Movie Ever Made”), <cite>The Disaster Artist</cite> is a hilarious and welcome reminder that there is more than one way to become a legend - and no limit to what you can achieve when you have absolutely no idea what you're doing."
+> "But when Hollywood refuses to grant them work, Wiseau decides to make his own movie. The film follows the troubled making of Wiseau's debut feature - <cite>The Room</cite> and its unexpected success which garnered it cult status as an accidental comedy and made a star of its creator.
 
 ## [<cite>Hostiles</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2390740)
 
