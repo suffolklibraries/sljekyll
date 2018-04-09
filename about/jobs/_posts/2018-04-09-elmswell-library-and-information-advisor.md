@@ -1,16 +1,16 @@
 ---
 layout: sidebar-right
-title: Library and information advisor, Kesgrave Library
+title: Library and information advisor, Elmswell Library
 category: jobs
 sidebar: about
 breadcrumb: jobs
-excerpt: "4.25 average hours a week, &pound;8.01 per hour, closing date Thu 15 Mar."
-expiry-date: 2018-03-15
+excerpt: "5.5 hours on alternate Sundays, &pound;8.01 per hour, closing date Sun 22 April."
+expiry-date: 2018-04-22
 ---
 
-[Download a role profile](/assets/pdf/library-and-information-advisor-mar-2018.pdf) (PDF).
+[Download a role profile](/assets/pdf/library-and-information-advisor-apr-2018.pdf) (PDF).
 
-We're looking for a library and information advisor at Kesgrave Library. We're looking for an individual who:
+We're looking for a library and information advisor at Elmswell Library. We're looking for an individual who:
 
 - Has an aspiration to deliver excellent customer service
 
@@ -26,12 +26,10 @@ We're looking for a library and information advisor at Kesgrave Library. We're l
 
 If you have experience in a customer facing role, enjoy helping people, have a willingness to work within a team in a busy environment and an interest in books and computers, we would like to hear from you.
 
-This position is for 4.25 hours a week on average working every Sunday.
-
-As this is a single staffed library all applicants need to be 18 years of age or over.
+This role is for 5.5 hours working on alternate Sundays.
 
 The rate of pay is &pound;8.01 per hour.
 
 If you are interested, please send a CV and supporting statement outlining what you could bring to this position and Suffolk Libraries to: **recruitment@suffolklibraries.co.uk**
 
-The closing date for applications is **Thursday 15 March**. Interviews will be held on the morning of **Wednesday 21 March 2018**.
+The closing date for applications is **Sunday 22 April 2018**. Interviews will be held on **Wednesday 2 May 2018**.
