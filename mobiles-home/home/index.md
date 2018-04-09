@@ -18,12 +18,4 @@ Our volunteers work with library staff to regularly visit customers, providing s
 
 The minimum volunteers contribute is a morning or afternoon each month. They need access to a car, driving themselves or pairing up with another volunteer.
 
-# Contact
-Lynette Brooks, Volunteering Coordinator<br>
-Ipswich County Library<br>
-Northgate Street<br>
-Ipswich, IP1 3DE<br>
-
-Email: hls@suffolklibraries.co.uk
-
-Tel: 07752 380859
+For more information, contact **hls@suffolklibraries.co.uk**
