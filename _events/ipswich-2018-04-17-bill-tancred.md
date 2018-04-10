@@ -5,7 +5,7 @@ location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2018-04-17
 event-start-time: 1415
-event-doors-open: 1545
+event-end-time: 1545
 event-ticket-price: free, refreshments 50p
 breadcrumb: y
 ---
