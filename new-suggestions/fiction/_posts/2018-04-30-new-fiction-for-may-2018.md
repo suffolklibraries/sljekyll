@@ -16,16 +16,6 @@ breadcrumb: fiction
 
 The 14th Detective Roy Grace novel from the ever popular peter James probably does not need promotion as we already have a long waiting list for it. When the child of businessman and gambler Kipp Brown is kidnapped Roy Grace is called in to investigate.
 
-## [<cite>The Blood Road</cite>, by Stuart MacBride](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2364250)
-
-The latest bestseller from our recent [Meet the Author](/new-suggestions/meet-the-author/meet-the-author-stuart-macbride/) interviewee.
-
-> "Some things just won't stay buried. Logan McRae's personal history is hardly squeaky clean, but now that he works for Professional Standards it's his job to police his fellow officers.
-
-> "When Detective Inspector Bell turns up dead in the driver's seat of a crashed car it's a shock to everyone. Because Bell died two years ago, they buried him. Or they thought they did. As an investigation is launched into Bell's stabbing, Logan digs into his past. Where has he been all this time? Why did he disappear? And what's so important he felt the need to come back from the dead?
-
-> "But the deeper Logan digs, the more bones he uncovers - and there are people out there who'll kill to keep those skeletons buried. If Logan can't stop them, DI Bell won't be the only one to die."
-
 ## [<cite>Meet Me at the Museum</cite>, by Anne Youngson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2366356)
 
 This will hold a particular interest for Suffolk readers as it is set in the county, Bury St Edmunds to be precise. Look out for a [Meet the Author](/new-suggestions/meet-the-author/) interview with Anne Youngson next week.
