@@ -24,13 +24,13 @@ A recent Radio 4 Book of the Week.
 
 ## [<cite>Never Mind</cite>, <cite>Bad News</cite>, and <cite>Some Hope</cite>, by Edward St Aubyn](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2374946)
 
-Recently films for Sky Atlantic and starring Benedict Cumberbatch, <cite>Patrick Melrose Volume 1</cite> contains the first three novels in Edward St Aubyn's semi-autobiographical series.
+Recently filmed for Sky Atlantic and starring Benedict Cumberbatch, <cite>Patrick Melrose Volume 1</cite> contains the first three novels in Edward St Aubyn's semi-autobiographical series.
 
 > "Moving from Provence to New York to Gloucestershire, from the savageries of a childhood with a cruel father and an alcoholic mother to an adulthood fraught with addiction, Patrick Melrose is on a mission to escape himself. But the drugs don't make him forget his past, and the glittering parties offer him no redemption."
 
 ## [<cite>The Guernsey Literary & Potato Peel Pie Society</cite>, by Mary Ann Shaffer & Annie Barrows](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2381197)
 
-This is much beloved of book groups. It has fallen slightly out of fashion in recent years but the new film starring Lily James should give it another lease of life.
+This is highly beloved of book groups. It has fallen slightly out of fashion in recent years but the new film starring Lily James should give it another lease of life.
 
 > "It's January, 1946, and writer Juliet Ashton sits at her desk, vainly seeking a subject for her next book. Out of the blue, she receives a letter from one Dawsey Adams of Guernsey - by chance, he's acquired a secondhand book that once belonged to Juliet - and, spurred on by their mutual love of Charles Lamb, they begin a correspondence."
 

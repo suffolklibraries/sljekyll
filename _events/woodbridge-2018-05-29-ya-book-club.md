@@ -1,6 +1,6 @@
 ---
 id: woodbridge-club
-name: "Young Adult book club: <cite>Wonder Woman: Warbringer</cite>"
+name: "Young Adult book club: <cite>Wonder Woman: Warbringer</cite> by Leigh Bardugo"
 location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2018-05-29

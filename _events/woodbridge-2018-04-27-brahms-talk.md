@@ -5,7 +5,7 @@ location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2018-04-27
 event-start-time: 1700
-event-doors-open: 1800
+event-end-time: 1800
 event-ticket-price: 4, or £10 for three talks
 breadcrumb: y
 ---

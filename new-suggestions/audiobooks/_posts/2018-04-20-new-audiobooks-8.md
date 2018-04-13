@@ -96,7 +96,7 @@ breadcrumb: audiobooks
 
 [Set up OverDrive](/elibrary/overdrive/)
 
-### [<cite>Happy: why more of less everything is absolutely fine</cite>, by Derren Brown, read by Jot Davies](https://suffolklibraries.overdrive.com/media/3032094)
+### [<cite>Happy: why more or less everything is absolutely fine</cite>, by Derren Brown, read by Jot Davies](https://suffolklibraries.overdrive.com/media/3032094)
 
 > "Across the millennia, philosophers have thought long and hard about happiness. They have defined it in many different ways and come up with myriad strategies for living the good life.
 
@@ -114,7 +114,7 @@ breadcrumb: audiobooks
 
 > "Meanwhile, the prime suspect in the rape case turns out to be Aberdeen Football Club's star striker. Logan thinks they've got it horribly wrong, but Jackie is convinced the footballer's guilty and she's hell-bent on a conviction at any cost..."
 
-### [<cite>To the Bright and Shining Sun</cite>, by James Lee Burke](https://suffolklibraries.overdrive.com/media/3640912)
+### [<cite>To the Bright and Shining Sun</cite>, by James Lee Burke, read by Tom Stechschulte](https://suffolklibraries.overdrive.com/media/3640912)
 
 > "For generations, Perry James' family, staunch unionists, has lived under the shadow of the Cumberland range and worked in the coal mines. To escape from the cycle of poverty, Perry signs up with the Jobs Corps, where they begin to teach him a skilled trade and how to read and write. But Perry is torn between family honour and the lure of seedy beer joints where he can drink and escape..."
 

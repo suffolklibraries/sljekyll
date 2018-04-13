@@ -4,7 +4,8 @@ name: "Friends of Woodbridge Library AGM"
 location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2018-04-19
-event-start-time: 1800
+event-doors-open: 1845
+event-start-time: 1900
 breadcrumb: y
 ---
 
