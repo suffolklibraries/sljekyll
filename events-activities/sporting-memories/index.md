@@ -34,7 +34,7 @@ We've teamed up with the Sporting Memories Network to host six Sporting Memories
       <li><a href="/libraries/hadleigh-library/">Hadleigh Library</a> - Fridays, 2pm - 3:45pm</li>
       <li><a href="/libraries/ipswich-county-library/">Ipswich County Library</a> - Tuesdays, 2:15pm - 3:45pm</li>
       <li><a href="/libraries/lowestoft-library/">Lowestoft Library</a> - Thursdays, 10:30am - 12:15pm</li>
-      <li><a href="/libraries/newmarket-library/">Newmarket Library</a> - Fridays, 10:30am - 12:15pm</li>
+      <li><a href="/libraries/newmarket-library/">Newmarket Library</a> - Fridays, 10:30am - 12:15pm - <strong>Currently being held at Newmarket Racing Centre</strong></li>
       <li><a href="/libraries/stowmarket-library/">Stowmarket Library</a> - Wednesdays, 10:30am - 12:15pm</li>
       <li><a href="/libraries/sudbury-library/">Sudbury Library</a> - Tuesdays, 10:30am - 12:15pm</li>
     </ul>

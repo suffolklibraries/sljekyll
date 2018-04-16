@@ -1,6 +1,6 @@
 ---
 id: lav-activ
-name: "New Age Bowls, Kurling and Boccia taster session with ActivLives"
+name: "Top Time: New Age Bowls, Kurling and Boccia taster session with ActivLives"
 location: lavenham-library
 location-text: Lavenham Library
 event-start-date: 2018-04-24
