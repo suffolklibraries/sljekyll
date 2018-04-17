@@ -1,6 +1,6 @@
 ---
 recurrent-title: 'Poetry group'
-recurrent-description: "Contact the library for more information."
+recurrent-description: "Contact the library for more information. Please note April's meeting is on <strong>Monday 30 April at 10:30</strong>."
 recurrent-day: first Monday of the month
 recurrent-times: 1030
 recurrent-location: brandon-library
