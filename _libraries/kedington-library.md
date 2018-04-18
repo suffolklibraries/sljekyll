@@ -28,4 +28,5 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/kedington-library
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
+branch-news: '<a href="/news/kedington-opening-hours/">Have your say on Kedington Library&#39;s proposed new opening hours</a>.'
 ---

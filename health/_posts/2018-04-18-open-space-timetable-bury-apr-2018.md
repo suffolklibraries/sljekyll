@@ -52,6 +52,16 @@ Visit to Abbey Gardens
 
 <tr>
 <td>
+07.05.18
+</td>
+
+<td>
+<strong>No session</strong>
+</td>
+</tr>
+
+<tr>
+<td>
 14.05.18
 </td>
 
