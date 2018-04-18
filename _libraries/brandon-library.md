@@ -12,7 +12,7 @@ branch-sunday-hours: 1000 – 1500
 branch-manager: Mathew Sheldrick
 branch-address: Bury Road, Brandon
 branch-post-code: IP27 0BQ
-branch-tel: 01842 816106
+branch-tel: 01842 773390
 branch-friends: Friends of Brandon Library
 branch-social-media: y
 branch-facebook: brandonlibrarysuffolk
