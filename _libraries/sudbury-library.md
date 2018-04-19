@@ -12,7 +12,7 @@ branch-sunday-hours: 1000 – 1600
 branch-manager: Gareth Lewry
 branch-address: Market Hill, Sudbury
 branch-post-code: CO10 2EN
-branch-tel: 01787 242570
+branch-tel: 01787 321595
 branch-friends: Friends of Sudbury Library
 branch-friends-url: /about/member-organisations/friends-of-sudbury-library-fosl
 branch-social-media: y
