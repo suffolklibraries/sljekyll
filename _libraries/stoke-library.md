@@ -26,5 +26,4 @@ branch-colour-printing: available
 branch-photocopying: available on printer
 branch-scan-to-email: y
 breadcrumb: y
-branch-for-sale: 'Tickets for <a href="/events/ipswich-2018-04-19-ryan-gooding/">An evening with psychic Ryan Gooding at Ipswich County Library on Thursday 19 April</a>.'
 ---
