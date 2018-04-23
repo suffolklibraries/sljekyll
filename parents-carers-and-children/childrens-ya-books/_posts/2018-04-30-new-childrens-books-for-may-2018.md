@@ -178,6 +178,10 @@ A collection of comic strips about the wild housecat from the pages of the brill
 
 > "Looshkin is the maddest cat in the world. You might think that your cat is the maddest cat in the world, but he's got nothing on Looshkin. Look away for just one moment and you'll discover that your house has flooded, a miniature hot air balloon filled with intreped explorers is making its way across the kitchen sink, and a portal to a hell dimension has opened in your loft."
 
+### [<cite>The Breadwinner: a graphic novel</cite>, by Shelley Tanaka, Deborah Ellis & Anita Doron](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2366962)
+
+> "This graphic-novel adaptation of <cite>The Breadwinner</cite> animated film tells the story of eleven-year-old Parvana who must disguise herself as a boy to support her family during the Taliban's rule in Afghanistan."
+
 ## Junior non-fiction
 
 ### [<cite>Minecraft Guide to Enchantments and Potions</cite>, by Mojang](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2367459)
