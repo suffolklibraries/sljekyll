@@ -6,11 +6,11 @@ author: brandon-king
 category: articles
 excerpt: "Stock librarian Brandon King looks at some items that have recently been in the media that you can borrow from Suffolk Libraries."
 featured-image: /images/featured/featured-in-the-media-3.jpg
-featured-alt: ""
+featured-alt: "Packing My Library, The City & The City, Patrick Melrose Volume 1"
 breadcrumb: articles
 ---
 
-![](/images/featured/featured-in-the-media-3.jpg)
+![Packing My Library, The City & The City, Patrick Melrose Volume 1](/images/featured/featured-in-the-media-3.jpg)
 
 **Stock librarian Brandon King looks at some items that have recently been in the media that you can borrow from Suffolk Libraries.**
 
