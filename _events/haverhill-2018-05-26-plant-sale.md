@@ -11,4 +11,4 @@ breadcrumb: y
 
 Are you green fingered? Donate some plants, or pick up something new at our plant sale. All proceeds towards the library.
 
-Donations received from week commencing 14 May.
+Donations received from week commencing 21 May.

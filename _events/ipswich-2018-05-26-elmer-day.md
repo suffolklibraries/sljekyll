@@ -6,6 +6,7 @@ location-text: Ipswich County Library
 event-start-date: 2018-05-26
 event-start-time: 1430
 event-doors-open: 1530
+event-category: ["elmer-day", "half-term"]
 breadcrumb: y
 ---
 
