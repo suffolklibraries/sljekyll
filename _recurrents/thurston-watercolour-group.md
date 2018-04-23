@@ -1,6 +1,7 @@
 ---
 recurrent-title: "Watercolour group: run by Thurston Friends"
-recurrent-day: Monday
+recurrent-description: Contact the library for more information.
+recurrent-day: third Wednesday of the month
 recurrent-times: 1400-1730
 recurrent-location: thurston-library
 recurrent-location-display-name: Thurston Library

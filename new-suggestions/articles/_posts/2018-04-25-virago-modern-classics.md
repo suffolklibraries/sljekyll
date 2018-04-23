@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Celebrate the 40th anniversary of Virago Modern Classics with these stunning new editions of some of their classic titles"
-date: 2018-04-26
+date: 2018-04-25
 author: alice-violett
 category: articles
 excerpt: "Publisher Virago are marking the 40th anniversary of their Modern Classics novels with a set of deluxe reissues, designed by Hannah Wood and featuring artwork by Yehrin Tong."
