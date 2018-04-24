@@ -6,7 +6,7 @@ location-text: Lavenham Library
 event-alt-location: Lavenham Village Hall
 event-start-date: 2018-07-07
 event-start-time: 1430
-event-ticket-url: https://www.theatreroyal.org/shows/an-afternoon-with-tracey-borman/
+event-ticket-url: https://www.theatreroyal.org/shows/an-afternoon-with-tracy-borman-2/
 event-ticket-price: 10
 breadcrumb: y
 ---

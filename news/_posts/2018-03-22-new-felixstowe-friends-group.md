@@ -10,7 +10,7 @@ breadcrumb: news
 
 Felixstowe Library's new friends group, Friends of Felixstowe Library, will be officially launched on Saturday 7 April, with help from BBC Radio Suffolk presenter Lesley Dolphin and Mayor of Felixstowe Nick Barber.
 
-This will be a [special coffee morning from 10:30am - 12noon](/events/felixstowe-2018-04-07-new-friends-group/). Anyone who is interested in finding out more about the new group, or about the wide range of services and activities going on at the library, is welcome to come along.
+This will be a special coffee morning from 10:30am - 12noon. Anyone who is interested in finding out more about the new group, or about the wide range of services and activities going on at the library, is welcome to come along.
 
 Sarah Wilson, member of Suffolk Libraries Board and chair of the Friends of Felixstowe Library said: “I’m delighted that we are able to launch our new group. We aim to support the library, help to raise funds to provide improvements and promote the wide range of services which our wonderful library offers to our community. Everyone is warmly invited to come along to our coffee morning on Saturday 7 April.”  
 

@@ -14,7 +14,6 @@ branch-address: Chestnut Close, Mildenhall
 branch-post-code: IP28 7NL
 branch-tel: 01638 713558
 branch-friends: Friends of Mildenhall Library
-branch-newsletter: http://suffolklibraries.us13.list-manage.com/subscribe?u=bdf6db87a812a1f4bcbbcb396&id=838b9b3fd3
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/mildenhall-library-2
 branch-parking: free parking next to the library
 branch-bookdrop: y
