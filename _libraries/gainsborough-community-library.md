@@ -9,7 +9,10 @@ branch-thursday-hours: 0900 – 1700
 branch-friday-hours: 0900 – 1800
 branch-saturday-hours: 0900 – 1700
 branch-sunday-hours: 1100 – 1600
-branch-news: "Please note that the library is <strong>self-service only</strong> until 9:30am Monday-Saturday."
+branch-news: "<ul>
+              <li>Please note that the library is <strong>self-service only</strong> until 9:30am Monday-Saturday.</li>
+              <li>The library will be opening at 10:30am on Thursday 24 May due to staff training.</li>
+              </ul>"
 branch-manager: Mandy Grimwood
 branch-address: Clapgate Lane, Ipswich
 branch-post-code: IP3 0RL
@@ -34,5 +37,4 @@ branch-photocopying: black and white, A4 or A3 available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/gainsborough-community-library
 breadcrumb: y
-branch-news: "The library will be opening at 10:30am on Thursday 24 May due to staff training."
 ---
