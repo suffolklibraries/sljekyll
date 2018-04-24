@@ -1,6 +1,6 @@
 ---
 id: bury-orla
-name: "Wonderful Beast presents: <cite>Orla and the Sun</cite> for 0-3 year-olds"
+name: "Wonderful Beast presents: <cite>Orla and the Sun</cite> for 0-3 year-olds - SOLD OUT"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
 event-start-date: 2018-05-17
@@ -10,6 +10,8 @@ event-ticket-price: "free - one child and one adult per ticket"
 event-category: orla-sun
 breadcrumb: y
 ---
+
+**This event is now SOLD OUT. Contact the library to join the returns list.**
 
 0-3 year-olds and their parents/carers are invited to Wonderful Beast's performance of <cite>Orla and the Sun</cite>, featuring music and sensory and creative play.
 
