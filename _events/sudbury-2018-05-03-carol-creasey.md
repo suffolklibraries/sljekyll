@@ -6,6 +6,7 @@ location-text: Sudbury Library
 event-start-date: 2018-05-03
 event-start-time: 1930
 event-ticket-price: free
+event-ticket-url: https://www.eventbrite.co.uk/e/carol-m-creasey-author-talk-tickets-44674527715
 breadcrumb: y
 ---
 

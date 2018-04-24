@@ -1,10 +1,10 @@
 ---
 layout: sidebar-right
 title: "Download or stream music from some of Freegal's top artists"
-date: 2018-05-03
+date: 2018-05-02
 author: lisa-brennan
 category: articles
-excerpt: "Did you know you can stream unlimited music or download five tracks a week with your library card using Freegal? Freegal's 'featured' list showcases the most popular and best-known artists in their collection and is just a small sample of what they offer."
+excerpt: "Did you know you can stream unlimited tracks, or download five tracks a week with your library card using Freegal? Freegal's 'featured' list showcases the most popular and best-known artists in their collection and is just a small sample of what they offer."
 featured-image: /images/featured/featured-top-freegal-1.jpg
 featured-alt: "Elvis Is Back!, Concrete and Gold"
 breadcrumb: articles
@@ -12,7 +12,7 @@ breadcrumb: articles
 
 ![Elvis Is Back!, Concrete and Gold](/images/featured/featured-top-freegal-1.jpg)
 
-Did you know you can stream unlimited music or download five tracks a week with your library card using Freegal? Freegal's 'featured' list showcases the most popular and best-known artists in their collection and is just a small sample of what they offer.
+Did you know you can stream unlimited tracks, or download five tracks a week with your library card using Freegal? Freegal's 'featured' list showcases the most popular and best-known artists in their collection and is just a small sample of what they offer.
 
 You can also stream or download music videos. One video uses up two tracks from your weekly allowance.
 
