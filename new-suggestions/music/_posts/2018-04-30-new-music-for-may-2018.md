@@ -13,9 +13,11 @@ breadcrumb: music
 
 ![Arctic Monkeys, CHVRCHES](/images/featured/featured-music-may-2018.jpg)
 
-## [Arctic Monkeys - <cite>Tranquility Base Hotel + Casino</cite>]()
+## Arctic Monkeys - <cite>Tranquility Base Hotel + Casino</cite>
 
 The standout title on this month's list. The sixth studio album from Arctic Monkeys is their first new material in five years and has been eagerly awaited by fans.
+
+This isn't in our catalogue just yet, but it will be soon!
 
 ## [James Bay - <cite>Electric Light</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2394828)
 
