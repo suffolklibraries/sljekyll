@@ -6,5 +6,5 @@ recurrent-times: 1000-1200
 recurrent-location: stradbroke-library
 recurrent-location-display-name: Stradbroke Library
 recurrent-location-display-url: /branches/stradbroke-library/
-recurrent-category: cafes-stalls
+recurrent-category: older
 ---
