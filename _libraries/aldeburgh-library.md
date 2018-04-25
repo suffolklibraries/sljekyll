@@ -33,5 +33,4 @@ branch-room-hire: /libraries/room-hire/aldeburgh-library
 branch-display-space: "Two cork boards in the foyer: displays adverts for anyone selling items."
 branch-which: y
 breadcrumb: y
-branch-news: 'The Aldeburgh Library Foundation <a href="http://aldeburghlibraryfoundation.weebly.com/uploads/1/4/3/1/14312796/alf_courses_brochure_spring__2018.pdf">adult learning programme for spring 2018</a> is now available (PDF).'
 ---
