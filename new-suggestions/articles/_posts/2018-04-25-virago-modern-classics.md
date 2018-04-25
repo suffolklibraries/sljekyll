@@ -6,7 +6,7 @@ author: alice-violett
 category: articles
 excerpt: "Publisher Virago are marking the 40th anniversary of their Modern Classics novels with a set of deluxe reissues, designed by Hannah Wood and featuring artwork by Yehrin Tong."
 featured-image: /images/featured/featured-virago-modern-classics.jpg
-featured-alt: "Memento Mori, The Dud Avocafo, The Weather in the Streets"
+featured-alt: "Memento Mori, The Dud Avocado, The Weather in the Streets"
 breadcrumb: articles
 ---
 
