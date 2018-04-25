@@ -14,6 +14,10 @@ Several library projects have recently received funding from [Suffolk Libraries 
 
 The scheme, which offers individuals and local businesses the chance to make an annual donation to provide some ‘extra’ support to our service, has raised over £5,000 so far. Monies raised are placed in a development fund to help libraries provide extra services or initiatives in their communities.
 
+Bruce Leeke, Chief Executive of Suffolk Libraries, said: "I’m delighted that we’ve been able to fund such a wide range of innovative and exciting projects through the Suffolk Libraries Extra Initiative. We launched this scheme to harness the amazing support we have from customers and the great ideas that our staff come up with.
+
+"We’re very grateful to everyone who has signed up to support the scheme so far and I hope to see it develop further in future."
+
 Libraries were recently invited to apply for the first round of funding and a variety of exciting initiatives across the county have been awarded a total of £1,600. The rest of the money will be made available in further funding rounds later in the year. The projects which have received funding so far are as follows:
 
 ## Aldeburgh Library
