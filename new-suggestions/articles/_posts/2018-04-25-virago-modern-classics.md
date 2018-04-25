@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Celebrate the 40th anniversary of Virago Modern Classics with these stunning new editions of some of their classic titles"
+title: "Celebrate the 40th anniversary of Virago Modern Classics with these stunning new editions"
 date: 2018-04-25
 author: alice-violett
 category: articles
