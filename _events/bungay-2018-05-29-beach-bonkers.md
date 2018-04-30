@@ -11,6 +11,6 @@ event-category: half-term
 breadcrumb: y
 ---
 
-Discover the treasures you can find at the beach with Beach Bonkers.
+Find the treasures in Beach Bonkers' mini shingle beach, handle their amazing artefacts including a mammoth's tooth and play their giant beachcombing board game.
 
 4 x 30 minute sessions available, **please book in advance by contacting the library**.
