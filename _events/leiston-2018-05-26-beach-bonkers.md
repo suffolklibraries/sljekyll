@@ -14,5 +14,3 @@ breadcrumb: y
 Find the treasures in Beach Bonkers' mini shingle beach, handle their amazing artefacts including a mammoth's tooth and play their giant beachcombing board game.
 
 This beachcomb is possible thanks to a grant from the Galloper Wind Farm Fund.
-
-Please contact the library in advance to book.
