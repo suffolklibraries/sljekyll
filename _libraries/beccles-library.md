@@ -36,5 +36,5 @@ branch-other-facilities: '<ul>
                           <li>Waveney District Council customer services. Visit the <a href="http://www.eastsuffolk.gov.uk/contact-us/">Suffolk Coastal and Waveney Councils website</a> for opening times.</li>
                           <li>1940s, 1950s, 1960s and 1970s memory boxes available to local borrowers for up to three weeks. No library card required. Contact the library for more information.</li>
                           </ul>'
-branch-news: 'The library will be closed for refurbishments from 18 - 25 June. The closest alternative library is <a href="/libraries/bungay-library">Bungay Library</a>.'
+branch-news: 'The library will be closed for refurbishments from 18 - 24 June. The closest alternative library is <a href="/libraries/bungay-library">Bungay Library</a>.'
 ---
