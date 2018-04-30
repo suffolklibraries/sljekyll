@@ -3,7 +3,7 @@ id: swold-plant
 name: "Friends of Southwold Library plant sale"
 location: southwold-library
 location-text: Southwold Library
-event-start-date: 2018-05-28
+event-start-date: 2018-05-27
 event-start-time: 1000
 event-end-time: 1600
 breadcrumb: y

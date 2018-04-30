@@ -1,6 +1,6 @@
 ---
 id: ipswich-orla
-name: "Wonderful Beast presents: <cite>Orla and the Sun</cite> for 0-3 year-olds - morning performance"
+name: "Wonderful Beast presents: <cite>Orla and the Sun</cite> for 0-3 year-olds - morning performance - SOLD OUT"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2018-05-09
@@ -10,6 +10,8 @@ event-ticket-price: "free - one child and one adult per ticket"
 breadcrumb: y
 event-category: ["hub", "orla-sun"]
 ---
+
+**This event is now SOLD OUT. Contact the library to join the returns list.**
 
 0-3 year-olds and their parents/carers are invited to Wonderful Beast's performance of <cite>Orla and the Sun</cite>, featuring music and sensory and creative play.
 
