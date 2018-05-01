@@ -25,6 +25,6 @@ genre-alt: "The Hazel Wood"
 
 Fairytales just got darker. These aren’t the saccharine Disney versions of your childhood; these are dark, creepy and bizarre.
 
-My favourite parts of <cite>The Hazel Wood</cite> are definitely the extracts from Alice's grandmother's book, <cite>Tales from the Hinterland</cite>. Albert plans to publish a full collection of the tales in 2020, and I can't wait. The stories are just so intoxicatingly creepy and dark.
+My favourite parts of <cite>The Hazel Wood</cite> are definitely the extracts from Alice's grandmother's book, <cite>Tales from the Hinterland</cite>. The author plans to publish a full collection of the tales in 2020, and I can't wait. The stories are just so intoxicatingly creepy and dark.
 
 <cite>The Hazel Wood</cite> is a mesmerizing, intriguing debut that will sweep you off your feet.

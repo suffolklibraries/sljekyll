@@ -3,7 +3,7 @@ id: low-soanes
 name: "Storytelling and book signing with <cite>Gaspard the Fox</cite> authors Zeb Soanes and James Mayhew"
 location: lowestoft-library
 location-text: Lowestoft Library
-event-start-date: 2018-05-25
+event-start-date: 2018-05-26
 event-start-time: 1100
 event-end-time: 1200
 event-ticket-price: free
