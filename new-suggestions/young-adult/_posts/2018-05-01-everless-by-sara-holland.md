@@ -4,7 +4,7 @@ title: "Everless by Sara Holland"
 date: 2018-05-01
 author: emily-mitchell
 category: young-adult
-excerpt: "<cite>Everless</cite> is an awesome, fantastic and really riveting debut in a new fantasy series that you should keep an eye out for."
+excerpt: "<cite>Everless</cite> is an awesome, fantastic and really riveting debut in a new fantasy series you should keep an eye out for."
 featured-image: /images/featured/featured-everless.jpg
 featured-alt: "Everless"
 featured-link-text: "Read library volunteer Emily's review of <cite>Everless</cite> by Sara Holland."
@@ -26,4 +26,4 @@ Wow, <cite>Everless</cite> was an awesome read. It just captivated me, with Sara
 
 I was immediately drawn to this book by the fascinating idea of time as a currency. Beyond the gorgeous cover is a carefully-crafted world of secrets and lies. It is full of strong yet relateable and flawed characters, whom I loved. I also really liked the twists, which I didn’t see coming.
 
-<cite>Everless</cite> is an awesome, fantastic and really riveting debut in a new fantasy series that you should keep an eye out for.
+<cite>Everless</cite> is an awesome, fantastic and really riveting debut in a new fantasy series you should keep an eye out for.
