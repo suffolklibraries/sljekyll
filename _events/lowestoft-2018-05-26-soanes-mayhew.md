@@ -7,7 +7,7 @@ event-start-date: 2018-05-26
 event-start-time: 1100
 event-end-time: 1200
 event-ticket-price: free
-event-category: children
+event-category: half-term
 breadcrumb: y
 ---
 

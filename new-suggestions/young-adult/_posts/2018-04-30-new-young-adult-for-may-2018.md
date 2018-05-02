@@ -4,9 +4,9 @@ title: New Young Adult books for May 2018
 date: 2018-04-30
 author: sophie-green
 category: young-adult
-excerpt: "Station Zero, The Poet X, Leah on the Offbeat"
+excerpt: "New titles from Louise O'Neill, Becky Albertalli and Sarah J. Maas"
 featured-image: /images/featured/featured-young-adult-may-2018.jpg
-featured-alt: ""
+featured-alt: "Station Zero, The Poet X, Leah on the Offbeat"
 breadcrumb: young-adult
 ---
 
@@ -70,7 +70,7 @@ Fans of Sarah Crossan, Angie Thomas and Jason Reynolds will especially enjoy thi
 
 > "Xiomara has always kept her words to herself. When it comes to standing her ground in her Harlem neighbourhood, she lets her fists and her fierceness do the talking. But X has secrets - her feelings for a boy in her bio class, and the notebook full of poems that she keeps under her bed. And a slam poetry club that will pull those secrets into the spotlight. Because in spite of a world that might not want to hear her, Xiomara refuses to stay silent."
 
-## [<cite>White Rabbit, Red Wolf</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2377190)
+## [<cite>White Rabbit, Red Wolf</cite>, by Tom Pollock ](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2377190)
 
 > "17-year-old Peter Blankman is a maths prodigy. He also suffers from severe panic attacks. Afraid of everything, he finds solace in the orderly and logical world of mathematics and in the love of his family: his scientist mum and his tough twin sister Bel, as well as Ingrid, his only friend.
 
