@@ -4,7 +4,7 @@ title: New music for May 2018
 date: 2018-04-30
 author: brandon-king
 category: music
-excerpt: 'New music from Arctic Monkey, Plan B and CHVRCHES'
+excerpt: 'New music from Arctic Monkeys, Plan B and CHVRCHES'
 featured-image: /images/featured/featured-music-may-2018.jpg
 featured-alt: "Arctic Monkeys, CHVRCHES"
 featured-link-text: Check out our newest CDs.
