@@ -5,7 +5,7 @@ location: chantry-library
 location-text: Chantry Library
 event-start-date: 2018-05-26
 event-start-time: 0930
-event-doors-open: 1700
+event-end-time: 1700
 event-category: ["elmer-day", "half-term"]
 breadcrumb: y
 ---

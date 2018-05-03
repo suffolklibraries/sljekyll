@@ -5,7 +5,7 @@ location: hadleigh-library
 location-text: Hadleigh Library
 event-start-date: 2018-05-26
 event-start-time: 1100
-event-doors-open: 1200
+event-end-time: 1200
 event-category: ["elmer-day", "half-term"]
 breadcrumb: y
 ---

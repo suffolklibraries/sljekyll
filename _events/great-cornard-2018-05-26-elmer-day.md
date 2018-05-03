@@ -5,7 +5,7 @@ location: great-cornard-library
 location-text: Great Cornard Library
 event-start-date: 2018-05-26
 event-start-time: 1200
-event-doors-open: 1400
+event-end-time: 1400
 event-category: ["elmer-day", "half-term"]
 breadcrumb: y
 ---
