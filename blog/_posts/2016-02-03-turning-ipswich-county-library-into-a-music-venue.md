@@ -24,5 +24,3 @@ On 15 April, we’ve got a rhythm and blues night featuring a couple of popular 
 In June, we are again working with Simon Doling on a gig featuring Dream Themes – a band that specialises in performing television theme tunes. In November, we will welcome ten piece funk band Primo Nelson to the library.
 
 Ipswich County Library proved to be a great space for live music back in November 2015, so we’re delighted to be building on that during 2016. We’re proud that the library can be added to the list of well-regarded mid-sized live music venues in Ipswich.
-
-{% include post-bio.html %}

@@ -22,5 +22,3 @@ The word was put out to Ipswich County Library groups, staff, volunteers and peo
 <div class="vid"><iframe src="https://www.youtube.com/embed/V8CFiesLJbA" frameborder="0" allowfullscreen></iframe></div>
 
 <div class="vid"><iframe src="https://www.youtube.com/embed/WOtGu7ougcw" frameborder="0" allowfullscreen></iframe></div>
-
-{% include post-bio.html %}

@@ -32,5 +32,3 @@ On Saturdays The Lab will be taken over by the popular [Creative Computing Club]
 If you think that you might have something to offer in regards to business and management or design and technology, or if you are looking for hireable function and meeting rooms, then email hub@suffolklibraries.co.uk
 
 We’ll be sharing project news and photos so keep your eyes peeled for further updates and information.
-
-{% include post-bio.html %}

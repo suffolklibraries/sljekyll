@@ -34,5 +34,3 @@ They’re still near neighbours so you’ve got that natural progression from Yo
 It was a slow start and we didn’t really notice a change at first, but slowly and surely readers are borrowing more teenage books. There are more gaps on the shelves in both the Younger and Older Teen sections and borrowers are asking us where we’ve moved the stock. We know it’s being used.
 
 I think it’s been great for the adults who like to dip into the Older Teen stock; they feel less conspicuous browsing at the end of the adult fiction, and it’s been a boon for those older children who are moving on from the junior fiction but find the step into the teenage library a step too far!
-
-{% include post-bio.html %}

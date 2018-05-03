@@ -24,5 +24,3 @@ I love to be creative and in my spare time I can often be found surrounded by ar
 I'm thrilled to be a part of Suffolk Libraries and I hope to continue the excellent reputation the lovely David Grimmer built for this valuable service.
 
 Please don’t hesitate to contact me at sarah.lungley@suffolklibraries.co.uk if there is anything I can do to help or if you have any questions!
-
-{% include post-bio.html %}

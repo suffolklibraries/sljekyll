@@ -31,5 +31,3 @@ Young people are free to set up their own Reading Hack groups without any input 
 The decision to write [week-by-week blog posts](/schools-literacy/literacy/tag/reading-hack/) was a great way for me to reflect on what went well and the challenges faced during each session. If you are considering starting your own group in a library or school setting, I would encourage you to read those blog posts – if only to learn from my mistakes!
 
 Reading Hack is a mix of advocacy, volunteering, competitions and fun activities linked to reading. The activities (called Hacks) involve using technology, art, storytelling, etc. to engage and inspire young people. You can find out more on the [Reading Hack website](http://readinghack.org.uk/about).
-
-{% include post-bio.html %}

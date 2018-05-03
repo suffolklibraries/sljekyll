@@ -36,5 +36,3 @@ It was fantastic for us to welcome such a superb selection of authors to the cou
 We are reviewing the festival in April with plans to bring more great events and authors to Suffolk again next year.
 
 Thank you to all of you that supported us in this new venture and if you did not get a chance to come to the festival this year, we hope to see you in 2016!
-
-{% include post-bio.html %}

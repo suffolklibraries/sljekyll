@@ -52,5 +52,3 @@ However, we did establish we could use an API rather than the SIP protocol (real
 *An early self-service prototype.*
 
 We now have a choice of new self-service machine options; from buying traditional, larger units from existing suppliers, to building something more portable and flexible. Perhaps this is the future of self-service in libraries?
-
-{% include post-bio.html %}

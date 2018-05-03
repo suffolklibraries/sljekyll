@@ -48,5 +48,3 @@ We are also looking ahead. In October last year we launched [our 2020 Vision](/a
 Even a quick read will show you that reading, learning, information and help will always be at the heart of what we are and what we do.
 
 Thank you all for your support. In the past it made the difference between closure and decline. In the future it will help us to survive and flourish as a well-used and thriving library service.
-
-{% include post-bio.html %}

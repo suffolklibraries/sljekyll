@@ -36,5 +36,3 @@ I have always believed that libraries are there for people, from the moment they
 Even though I know times will continue to be tough for us and for our colleagues everywhere, I take inspiration and heart from our expert and helpful staff, our customers, our volunteers and our community groups. Their support has made all the difference
 
 So I can still celebrate [National Libraries Day](http://nationallibrariesday.org.uk/) with passion and confidence. I hope you do too.
-
-{% include post-bio.html %}

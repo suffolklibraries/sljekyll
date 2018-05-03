@@ -36,5 +36,3 @@ We are thinking of calling the project <cite>Beyond the Book</cite> because that
 ## My new blog: An Ambassadorial Diary
 
 I’m launching a new blog about books, reading and young people in Suffolk. I&#8217;m beginning with **Banned Books Week**, a celebration of books that the American public has (unsuccessfully) tried to remove from their public libraries. Believe it or not, they tried to ban Harry Potter claiming that it was promoting the occult and that the lead character fails to set a good example to children as he &#8220;lies, breaks rules, and disobeys authority figures, including the professors at Hogwarts,&#8221;. Powerful things, books…
-
-{% include post-bio.html %}

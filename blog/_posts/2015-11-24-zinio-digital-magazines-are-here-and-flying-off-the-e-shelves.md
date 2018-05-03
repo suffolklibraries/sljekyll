@@ -18,5 +18,3 @@ We’ve launched the service with a selection of 34 top name magazines covering 
 All you need is a library card number and a device to read your magazine on, such as your PC or laptop at home, or a smartphone or tablet on the move. Once the magazine has been downloaded you can read it offline so it’s perfect for when you’re out and about (unless you’ve only got a PC which might be a bit cumbersome to carry around).
 
 The Christmas issues are all coming out this month. Perfect for discovering new recipes in [BBC Good Food](https://www.rbdigital.com/Suffolk/service/zinio/landing?mag_id=441), getting Christmas inspiration from [Good Housekeeping](https://www.rbdigital.com/Suffolk/service/zinio/landing?mag_id=744) or finding something special to make for Christmas gifts in [Knit Today](https://www.rbdigital.com/Suffolk/service/zinio/landing?mag_id=6559) and [Cross Stitch Crazy](https://www.rbdigital.com/Suffolk/service/zinio/landing?mag_id=6556).
-
-{% include post-bio.html %}

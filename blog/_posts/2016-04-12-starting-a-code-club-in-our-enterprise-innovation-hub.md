@@ -28,5 +28,3 @@ Our group started off at 8 children, after the first group of sessions this was 
 The greatest challenge for our Code Club is also our greatest triumph. The club has been more popular than I imagined. The waiting list continues to grow faster than we can create spaces in our club! I’m now considering starting a second Code Club. I’ve approached a local college who have Level 3 Game Design and IT students to see any of them would like to gain some valuable work experience.
 
 My advice to anyone else working in a library and considering starting a Code Club would be: Go for it, what have you got to lose? It’s a really great experience to see the children engaged and learning at a Club they have chosen to come to.
-
-{% include post-bio.html %}

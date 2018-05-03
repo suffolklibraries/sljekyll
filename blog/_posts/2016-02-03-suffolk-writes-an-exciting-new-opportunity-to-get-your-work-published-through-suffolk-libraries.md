@@ -26,5 +26,3 @@ Local published author Alison Bruce has already contributed some of her short st
 There’s also an opportunity to get involved even if you are not a writer yourself. We would like to recruit a team of volunteers to help us read through submitted work and help us make a decision on whether it can be added to library stock.
 
 If you would like to get involved in this project either as an author or volunteer please visit the [Suffolk Writes page](/events-activities/suffolk-writes) or email **suffolkwrites@suffolklibraries.co.uk** for more information.
-
-{% include post-bio.html %}

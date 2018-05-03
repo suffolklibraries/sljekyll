@@ -37,5 +37,3 @@ Just for a flavour here’s the top 10 search terms used in October this year, a
 | 8.    | Victorian tuberulosis               |
 | 9.    | <cite>New Scientist</cite> magazine |
 | 10.   | Process theology                    |
-
-{% include post-bio.html %}

@@ -14,5 +14,3 @@ We were divested from council control in 2012, but we’re not run by a company 
 This structure poses problems but also offers us lots of opportunities. For example, we were able to run a book festival during March. More practically, we can buy our own library IT equipment and install wifi cheaply across all our libraries, which should mean a better service for our customers.
 
 This blog will give you an insight into what we’re doing, and the reasons behind it. Look out over the following weeks for posts on making a books podcast, choosing computers for libraries and organising a book hunt across Bury’s shops.
-
-{% include post-bio.html %}

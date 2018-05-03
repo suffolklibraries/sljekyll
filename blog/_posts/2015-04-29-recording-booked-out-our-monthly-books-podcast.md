@@ -40,5 +40,3 @@ We choose show subjects based on our personal passions or genres that might be t
 If you’d like to be involved you can contact us on 01394 446510 or at sophie.green@suffolklibraries.co.uk and we’ll send you a list of up and coming shows to choose from.
 
 Past and present editions of Booked Out are now available from [the Booked Out Suffolk Libraries page](/new-suggestions/booked-out) or find us on [SoundCloud](https://soundcloud.com/suffolk-libraries).
-
-{% include post-bio.html %}

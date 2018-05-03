@@ -15,6 +15,4 @@ The fun didn’t stop there. Our enthusiastic staff held over 120 record breaker
 
 > This scheme encourages both my boys to read — which is especially good for the ‘non-reader’ of the two. It is getting him into the habit of picking up a book to read and we will be continuing to use the library regularly.
 
-Children have more reading adventures to look forward to next summer, when in honour of Roald Dahls’ centenary, The Reading Agency launch “The Big Friendly Read”, with illustrations by Quentin Blake.
-
-{% include post-bio.html %}
+Children have more reading adventures to look forward to next summer, when in honour of Roald Dahl's centenary, The Reading Agency launch “The Big Friendly Read”, with illustrations by Quentin Blake.

@@ -28,5 +28,3 @@ Feedback about the roadshow from the young people was universally positive with 
 Pupils also had a tour of the library, took over the [@SuffolkLibrary](http://twitter.com/SuffolkLibrary) Twitter account, activated their new &#8216;Beyond the Book&#8217; library cards and borrowed some books.
 
 The digital roadshow was made possible through a successful grant bid by Nicky Evans of the Suffolk Libraries&#8217; IT department to the Arts Council ‘Making the Most of WIFI’ programme. We hope to offer more Digital Roadshow days to schools across Suffolk over the coming months.
-
-{% include post-bio.html %}

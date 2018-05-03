@@ -26,5 +26,3 @@ We have had a steady amount of interest since I first put them out (just over a 
 *There are moments in your life that change everything*
 
 As you can see, the first line can vary in length. Sometimes I will add a little bit more if it&#8217;s extremely short and I don&#8217;t think it holds any interest. Luckily, I&#8217;m a fairly quick typer so it doesn&#8217;t take me too long!
-
-{% include post-bio.html %}

@@ -46,5 +46,3 @@ The LAN party regularly attracts more than 20 children. Cathy’s delighted with
 > I really look forward to the children coming in as it makes the library feel alive and their enthusiasm is infectious. I was a bit apprehensive at first as I know very little about Minecraft however once the children are connected to our wifi they pretty much just get on with it in the way that children and technology tend to do.
 
 Libraries are traditionally seen as place where you simply come in to find a book; similarly, our computers have been used for a few common purposes over the last few years — job searches, email and CV writing for example. It’s important we offer these services to customers who might not be able to access a PC, but we want to get more people into libraries, especially those who might not normally visit us. Software and wifi can help us reach new customers.
-
-{% include post-bio.html %}

@@ -44,5 +44,3 @@ You can search the Access to Research database from any computer, but to actuall
 To gauge the success of this project data is being collected throughout the 2 year pilot. We are also keen to collect the thoughts of people actually using the service.
 
 If you have been using Access to Research and have feedback you would like to share, or if you would be interested in being interviewed as part of the evaluation please get in touch with me helen.haynes@suffolklibraries.co.uk
-
-{% include post-bio.html %}
