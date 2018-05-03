@@ -12,4 +12,4 @@ breadcrumb: y
 
 Children and their parents/carers are invited to help us celebrate Elmer Day with stories and crafts. Come in your brightest clothes!
 
-Help us raise a new rug in the children's library by colouring in a rectangle for our giant Elmer for 50p.
+Help us raise money for a new rug in the children's library by colouring in a rectangle for our giant Elmer for 50p.
