@@ -22,10 +22,7 @@ We're looking for a manager at Chantry Library. We're looking for a dynamic and 
 
 - Work with the library community group to further benefit the residents of the community around Chantry Library.
 
-This role is for on average 30 hours a week in the following pattern:
-
-  * **Week 1:** Mon 2pm - 5pm; Tue 9am - 6pm; Wed 9am - 1pm; Thurs 9am - 6pm; Fri 9am - 1pm
-  * **Week 2:** Tue 9am - 6pm; Wed 9am - 1pm; Thu 9am - 6pm; Fri 9am - 5pm; Sun 10am - 4pm
+This role is for on average 30 hours a week.
 
 The rate of pay is &pound;20,093.81 pro-rata &#8212; &pound;10.42 per hour.
 
