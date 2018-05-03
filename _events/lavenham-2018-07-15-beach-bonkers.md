@@ -10,3 +10,7 @@ breadcrumb: y
 ---
 
 Find the treasures in Beach Bonkers' mini shingle beach, handle their amazing artefacts including a mammoth's tooth and play their giant beachcombing board game.
+
+There will also be a chance to sign up for the [Summer Reading Challenge](/src/) ahead of the summer holidays.
+
+Funded by the Friends of Lavenham Library.
