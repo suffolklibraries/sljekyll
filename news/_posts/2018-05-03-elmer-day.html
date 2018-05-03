@@ -1,0 +1,36 @@
+---
+layout: sidebar-right
+title: "Suffolk Libraries to celebrate Elmer Day"
+date: 2018-05-03
+author: james-powell
+category: news
+excerpt: "Several libraries in Suffolk are holding colourful events to celebrate Elmer the Patchwork Elephant this month."
+breadcrumb: news
+---
+
+<p>Several libraries in Suffolk are holding colourful events to celebrate Elmer the Patchwork Elephant this month.</p>
+
+<p>Elmer Day celebrates the ongoing popularity of the colourful elephant who has featured in over 30 books by David McKee. Elmer Day is also a celebration of reading, elephants and accepting yourself and others. Activities will be taking place across the country with children being encouraged to dress up in bright colours.</p>
+
+<p>The <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1765621">first Elmer book</a> was published in 1989. It was inspired by an incident where McKee’s mixed-race daughter was verbally abused. His stories promote acceptance both in other people and ourselves and have sold millions of copies round the world.</p>
+
+<p>Elmer Day takes place on Saturday 26 May, with many libraries holding events on or around this date:</p>
+
+{% assign elmer-events = (site.events | where: "event-category", "elmer-day" | sort: "event-start-date" ) %}
+
+{% for event in elmer-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> - {{ event.event-end-date | date: "%a %-d %b" }} <span>{{ event.event-start-time }}</span>
+
+        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+        </p>
+
+    </article>
+
+{% endfor %}

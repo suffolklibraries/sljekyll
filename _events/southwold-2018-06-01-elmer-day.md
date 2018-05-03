@@ -1,6 +1,6 @@
 ---
 id: swold-elmer
-name: "Elmer stories, crafts & art"
+name: "Elmer Day celebration"
 location: southwold-library
 location-text: Southwold Library
 event-start-date: 2018-06-01

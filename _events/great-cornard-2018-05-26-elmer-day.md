@@ -1,6 +1,6 @@
 ---
 id: ipswich-elmer
-name: Elmer Day
+name: Elmer Day celebration
 location: great-cornard-library
 location-text: Great Cornard Library
 event-start-date: 2018-05-26

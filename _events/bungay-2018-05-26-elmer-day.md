@@ -1,6 +1,6 @@
 ---
 id: bung-elmer
-name: "Elmer Day"
+name: "Elmer Day celebration"
 location: bungay-library
 location-text: Bungay Library
 event-start-date: 2018-05-26

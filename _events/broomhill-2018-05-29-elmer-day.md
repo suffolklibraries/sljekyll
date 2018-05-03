@@ -1,6 +1,6 @@
 ---
 id: broom-elmer
-name: "Elmer Day"
+name: "Elmer Day celebration"
 location: broomhill-library
 location-text: Broomhill Library
 event-start-date: 2018-05-29
