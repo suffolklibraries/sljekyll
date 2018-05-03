@@ -30,4 +30,5 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/clare-library
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
+branch-news: '<a href="/news/clare-and-needham-change-opening-hours/">Clare Library&#39;s opening hours are changing from Monday 5 June</a>.'
 ---

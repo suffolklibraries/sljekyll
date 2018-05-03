@@ -24,4 +24,5 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
+branch-news: '<a href="/news/clare-and-needham-change-opening-hours/">Needham Market Library&#39;s opening hours are changing from Monday 5 June</a>.'
 ---
