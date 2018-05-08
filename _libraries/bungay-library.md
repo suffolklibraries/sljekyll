@@ -25,7 +25,7 @@ branch-wifi: y
 branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: available
-branch-scan-to-email: y
+branch-scan-to-usb: y
 branch-room-hire: /libraries/room-hire/bungay-library
 branch-which: y
 breadcrumb: y
