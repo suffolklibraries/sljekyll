@@ -15,7 +15,7 @@ branch-post-code: CO10 9QT
 branch-tel: 01787 247729
 branch-friends: Friends of Lavenham Library
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/lavenham-library-2
-branch-payments: 'cash and cheques accepted. Call <a class="blue" href="tel:01473351249">01473 351249</a> for card payments.'
+branch-payments: cash, cheques and cards accepted
 branch-parking: large free public car park nearby
 branch-bookdrop: y
 branch-toilet: y
