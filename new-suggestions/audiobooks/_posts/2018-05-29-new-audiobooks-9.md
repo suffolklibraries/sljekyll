@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Recommended new audiobooks #9"
-date: 2018-05-23
+date: 2018-05-29
 author: sophie-green
 category: audiobooks
 excerpt: "Listen to top titles from C. J. Sansom, M. C. Beaton, Jill Mansell and more"
