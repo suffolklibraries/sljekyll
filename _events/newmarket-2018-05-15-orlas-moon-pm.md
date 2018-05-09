@@ -1,6 +1,6 @@
 ---
 id: new-orla
-name: "Wonderful Beast presents: <cite>Orla's Moon</cite> for 0-3 year-olds - afternoon performance" - SOLD OUT
+name: "Wonderful Beast presents: <cite>Orla's Moon</cite> for 0-3 year-olds - afternoon performance - SOLD OUT"
 location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2018-05-15
