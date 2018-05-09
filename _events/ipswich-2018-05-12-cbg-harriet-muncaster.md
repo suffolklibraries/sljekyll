@@ -1,6 +1,6 @@
 ---
 id: ipswich-cbg
-name: "Ipswich Children's Book Group Children's Book Festival: Harriet Muncaster"
+name: "Ipswich Children's Book Group Children's Book Festival: Harriet Muncaster - CANCELLED"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2018-05-12
@@ -9,6 +9,8 @@ event-doors-open: 1530
 event-ticket-price: "5 adults; £3 children (£4/£2 for ICBG members)"
 breadcrumb: y
 ---
+
+**We're sorry that this event has been cancelled**
 
 Join the creator of adorable vampire fairy Isadora Moon for a magical adventure.
 
