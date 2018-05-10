@@ -9,4 +9,4 @@ event-end-time: 1300
 breadcrumb: y
 ---
 
-All are welcome to drop in to the library to chat about and relieve stress over tea and coffee. Find out about stress and its effects and how you can handle it and think about it differently.
+All are welcome to drop in to the library to chat about and relieve stress over tea and coffee. Find out about stress and its effects and how you can cope with it and think about it differently.
