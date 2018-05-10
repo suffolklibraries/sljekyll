@@ -4,7 +4,7 @@ title: Library and information advisors, Chantry Library
 category: jobs
 sidebar: about
 breadcrumb: jobs
-excerpt: "9 hours a week (permanent) or 6 hours a week (fixed term for 6 months), &pound;8.17 per hour, closing date ."
+excerpt: "9 hours a week (permanent) or 6 hours a week (fixed term for 6 months), &pound;8.17 per hour, closing date Fri 1 June."
 expiry-date: 2018-06-01
 ---
 
