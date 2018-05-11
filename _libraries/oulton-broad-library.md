@@ -17,7 +17,7 @@ branch-friends: Friends of Oulton Broad Library
 branch-social-media: y
 branch-facebook: Oulton-Broad-Library-224683134540328
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/oulton-broad-library-2
-branch-payments: 'cash and cheques accepted. Call <a class="blue" href="tel:01473351249">01473 351249</a> for card payments.'
+branch-payments: cash, cheques and cards accepted
 branch-parking: available
 branch-bookdrop: y
 branch-wifi: y

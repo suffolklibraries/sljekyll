@@ -28,4 +28,5 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/rosehill-library
 breadcrumb: y
+branch-payments: cash, cheques and cards accepted
 ---

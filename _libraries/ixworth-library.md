@@ -18,7 +18,7 @@ branch-friends-url: /about/member-organisations/friends-of-ixworth-library-foil
 branch-social-media: y
 branch-facebook: Ixworth-Library-1454121214829698
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/ixworth-library-2
-branch-payments: 'cash and cheques accepted. Call <a class="blue" href="tel:01473351249">01473 351249</a> for card payments.'
+branch-payments: cash, cheques and cards accepted
 branch-parking: available
 branch-toilet: y
 branch-wifi: y

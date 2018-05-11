@@ -15,7 +15,7 @@ branch-post-code: IP14 6PL
 branch-tel: 01728 861940
 branch-friends: Debenham Library Foundation
 branch-accessibility: https://www.disabledgo.com/access-guide/suffolk-county-council/debenham-library
-branch-payments: 'cash and cheques accepted. Call <a class="blue" href="tel:01473351249">01473 351249</a> for card payments.'
+branch-payments: cash, cheques and cards accepted
 branch-parking: disabled only during school hours, otherwise available to all
 branch-bookdrop: y
 branch-toilet: y

@@ -25,4 +25,5 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
+branch-payments: cash, cheques and cards accepted
 ---

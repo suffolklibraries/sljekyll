@@ -19,7 +19,7 @@ branch-social-media: y
 branch-facebook: aldeburghlibrary
 branch-twitter: aldeburghlib
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/aldeburgh-library-2
-branch-payments: 'cash and cheques accepted. Call <a class="blue" href="tel:01473351249">01473 351249</a> for card payments.'
+branch-payments: cash, cheques and cards accepted
 branch-parking: free parking available nearby
 branch-bookdrop: y
 branch-toilet: y

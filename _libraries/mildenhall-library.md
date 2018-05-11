@@ -28,4 +28,5 @@ branch-colour-printing: A4 colour printing
 branch-scan-to-email: y
 branch-for-sale: handmade cards, postage stamps
 breadcrumb: y
+branch-payments: cash, cheques and cards accepted
 ---

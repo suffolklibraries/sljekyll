@@ -25,4 +25,5 @@ branch-scan-to-email: y
 breadcrumb: y
 branch-other-facilities: "Food bank collection point."
 branch-refreshments: "available in our café, run by Access Community Trust."
+branch-payments: cash, cheques and cards accepted
 ---

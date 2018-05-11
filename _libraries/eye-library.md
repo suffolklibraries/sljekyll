@@ -24,4 +24,5 @@ branch-colour-printing: available
 branch-photocopying: A4 available
 branch-scan-to-email: y
 breadcrumb: y
+branch-payments: cash, cheques and cards accepted
 ---
