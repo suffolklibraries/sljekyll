@@ -19,7 +19,7 @@ branch-social-media: y
 branch-twitter: halesworthlib
 branch-facebook: Halesworth-Library-391603700955116
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/halesworth-library-2
-branch-payments: 'cash and cheques accepted. Call <a class="blue" href="tel:01473351249">01473 351249</a> for card payments.'
+branch-payments: 'cash, cheques and cards accepted'
 branch-parking: unavailable
 branch-bookdrop: y
 branch-toilet: y
@@ -34,5 +34,6 @@ branch-scan-to-email: y
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/halesworth-library
 breadcrumb: y
-branch-for-sale: 'Reading glasses and accessories from ReadySpex.'
+branch-for-sale: 'Stamps, cards, artwork, jewellery, books from local authors, reading glasses and accessories from ReadySpex, Halesworth Library bags, bookmarks and pens.'
+branch-display-space: "Window space available to hire for posters and notices. Contact the library for more details."
 ---
