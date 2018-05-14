@@ -22,7 +22,7 @@ branch-newsletter: http://eepurl.com/dfWGUj
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/haverhill-library-2
 branch-payments: cash, cheques and cards accepted
 branch-autism-guide: true
-branch-parking: available for disabled customers and deliveries only
+branch-parking: "on-site parking available for disabled customers and deliveries only, public car park behind the library"
 branch-bookdrop: y
 branch-refreshments: café open 1000-1600 on weekdays
 branch-wifi: y
