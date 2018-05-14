@@ -12,4 +12,4 @@ breadcrumb: y
 
 Children and their parents/carers are invited to celebrate everyone's favourite colourful elephant with stories and activities.
 
-Places must be booked in advance by contacting the library or texting names and telephone numbers to 07519 663040.
+Places must be booked in advance by contacting the library.
