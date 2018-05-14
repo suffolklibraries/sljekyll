@@ -10,7 +10,6 @@ Our member organisations elect our board.
 
 * Tony Brown (Beccles Library Community Trust) — board chair
 * Sylvia Knights (Bungay Community Library) — board vice chair
-* Jonathan Ogden (Kesgrave Library Community)
 * Maureen Garratt Simpson (Ipswich County Library Friends Group) - board honorary secretary
 * Colin Rockall (Friends of Lavenham Library)
 * Suffolk Libraries Chief Executive, Bruce Leeke (_ex officio_)
@@ -44,12 +43,6 @@ In 2004, following a long career in IT, she moved with her husband from London t
 She is a feoffee (trustee) of Bungay Town Trust, a charitable trust which owns and manages fourteen almshouses in the town. As a trustee of The Honeypot Company, which administers the existing community centre, she has been helping to spearhead a project seeking to build a new community centre for the town. She is also a governor at Bungay High School.
 
 <img src="/images/board/jonathan-ogden-200.jpg" alt="Jonathan Ogden" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
-
-### Jonathan Ogden
-
-Jonathan is a Kesgrave town councillor and Explorer scout leader, teaching young adults new skills.
-
-He works for a major retailer and is the trustee to Kesgrave Library's friends group.
 
 ### Colin Rockall
 
