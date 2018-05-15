@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "New children's books for June 2018"
-date: 2018-05-15
+date: 2018-05-30
 author: sophie-green
 category: childrens-ya-books
 excerpt: "New titles from ."
