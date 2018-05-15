@@ -1,6 +1,6 @@
 ---
 id: ipswich-craft
-name: "Art and gifts sale from The Crafty Collective Ipswich"
+name: "Craft and gift sale from The Crafty Collective Ipswich"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2018-08-04
