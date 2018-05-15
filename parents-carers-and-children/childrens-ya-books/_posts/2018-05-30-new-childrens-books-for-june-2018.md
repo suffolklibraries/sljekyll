@@ -157,3 +157,43 @@ The sequel to [<cite>Love from Lexie</cite>](https://suffolk.spydus.co.uk/cgi-bi
 > "Can his new friends in the Lost and Found band and a blossoming romance with the girl of his dreams melt his frozen heart or is it too late to find a silver lining?
 
 ## Junior non-fiction
+
+### [<cite>1000 Things Under the Sea</cite>, by Jessica Greenwell & Nikki Dyson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2390957)
+
+> "This beautifully illustrated picture reference book contains exactly 1000 fascinating things that can be found in our seas and oceans. From crabs on the seashore to deep sea creatures, enormous whales, colourful jellyfish and even undersea machines, every page is full of things for children to discover."
+
+### [<cite>Moth</cite>, by Isabel Thomas & Daniel Egnéus](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2379598)
+
+> "Against a lush backdrop of lichen-covered trees, the peppered moth lies hidden. Until the world begins to change. Along come people with their magnificent machines which stain the land with soot. In a beautiful landscape changed by humans how will one little moth survive?"
+
+### [<cite>The Funny Life of Pets</cite>, by James Campbell & Rob Jones](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2378273)
+
+> "Uncover the sidesplitting life of cucumber scaredy-cats, non-stop pooping hamsters, exploding fish and everything in-between (and some things that have nothing to do with pets but are still ridiculously funny). This hilarious book answers all the big questions, like: do sausage dogs eat sausages? Why has my cat done a poo behind my wardrobe? And how can I persuade my parents to get me a pet? For real-life pet facts, imaginary stories, and a generally laugh-so-hard-snot-comes-out-your-nose read, this is the only pet book you'll ever need!"
+
+### [<cite>Suffragette</cite>, by David Roberts](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2364698)
+
+It’s 100 years since the first women won the vote in the UK, and this book tells the story of their fight.
+
+### [<cite>Welcome to our World: a celebration of children everywhere!</cite>, by Moira Butterfield & Harriet Lynas](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2378532)
+
+> "Children all over the world are very different, but they also have much in common. In this beautifully illustrated book, young children can learn all about what people in other countries eat, wear and play, and how they speak and celebrate.
+
+> "From breakfasts to birthdays, cakes to clothes, and hiccups to hellos, there are so many ways to say and do things - but everyone shares a love of family, friends, food and fun. This delightful book teaches us that despite different languages, customs and traditions, it really is a small world, after all."
+
+### [<cite>Amelia Earhart</cite>, by Isabel Thomas & Dalia Adillon](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2400960)
+
+From new series Little Guides to Great Lives.
+
+> "The first woman to fly solo across the Atlantic Ocean, Amelia Earhart was a superstar of aviation in the 1920s and 1930s and a pioneer of women's rights. Her disappearance in 1937, while attempting to fly around the world, remains an unsolved mystery."
+
+### [<cite>Amazing Animal Homes</cite>, by Chris Packham & Jason Cockroft](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2384528)
+
+> "Get ready to meet some fascinating animals and find out all about their incredible homes in this beautiful and informative non-fiction picture book written by wildlife expert Chris Packham.
+
+> "Just like us, animals need a place to call home. From a beaver's dam and a honey bee's hive to a red ovenbird's nest and a snail's shell, explore the amazing homes of some incredible creatures from all over the world."
+
+### [<cite>Happy Poems</cite>, chosen by Roger McGough](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2382998)
+
+> "Poems to make you smile! Critically acclaimed poet Roger McGough has drawn together a collection of upbeat poems to bring happiness into your day. He reminds us that happiness can be found all around us in the everyday, in family, in books in nature and, of course, in our pets!
+
+> "Includes gems from the very best classic and contemporary poets, such as John Agard, Adrian Henri, Brian Patten, Carol Ann Duffy, Joseph Coelho, William Wordsworth and William Blake."
