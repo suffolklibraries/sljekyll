@@ -5,7 +5,7 @@ location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2018-05-17
 event-start-time: 1000
-event-doors-open: 1630
+event-end-time: 1630
 breadcrumb: y
 ---
 

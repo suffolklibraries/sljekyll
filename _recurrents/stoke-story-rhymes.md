@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Story, rhymes and play for pre-school children - no session 15 May"
+recurrent-title: "Story, rhymes and play for pre-school children"
 recurrent-day: Tuesday
 recurrent-times: 1000-1130
 recurrent-location: stoke-library

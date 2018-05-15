@@ -1,7 +1,7 @@
 ---
 recurrent-title: 'Table top sale'
 recurrent-description: 'To reserve a table, email a completed <a href="/assets/doc/ipswich-stall-booking-form.doc">booking form</a> (.docx) to ipswich.library@suffolklibraries.co.uk and see our <a href="/assets/pdf/ipswich-stall-terms-and-conditions.pdf">Terms and Conditions</a> (PDF) and <a href="/assets/pdf/ipswich-stall-code-of-conduct.pdf">Code of Conduct</a> (PDF).'
-recurrent-day: "first Saturday of the month. <strong>March's sale postponed until 10 March due to poor weather conditions</strong>."
+recurrent-day: "first Saturday of the month."
 recurrent-times: 1000-1600
 recurrent-location: ipswich-county-library
 recurrent-location-display-name: Ipswich County Library

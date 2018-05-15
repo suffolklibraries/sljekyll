@@ -4,13 +4,13 @@ title: "New children's books for June 2018"
 date: 2018-05-30
 author: sophie-green
 category: childrens-ya-books
-excerpt: "New titles from ."
+excerpt: "New titles for fans of Supertato, Peppa Pig, Dork Diaries and more."
 featured-image: /images/featured/featured-childrens-june-2018.jpg
-featured-alt: ""
+featured-alt: "Something Fishy, 1000 Things Under the Sea, The Boy Who Grew Dragons"
 breadcrumb: childrens-ya-books
 ---
 
-![](/images/featured/featured-childrens-june-2018.jpg)
+![Something Fishy, 1000 Things Under the Sea, The Boy Who Grew Dragons](/images/featured/featured-childrens-june-2018.jpg)
 
 ## Board books
 
@@ -76,7 +76,7 @@ From the author and illustrator of [<cite>The Night Box</cite>](https://suffolk.
 
 ### [<cite>The Station Mouse</cite>, by Meg McLaren](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2378794)
 
-From the author of [<cite>Pigeon P. I.](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2110824).
+From the author of [<cite>Pigeon P. I.</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2110824).
 
 > "Maurice is the Station Mouse, and so he must follow The Station Mouse Handbook - Rule 1: A Station Mouse must remain unseen; Rule 2: A Station Mouse must never go out in the daytime; Rule 3: A Station Mouse must never approach the passengers.
 
