@@ -16,6 +16,14 @@
 
     </div>
 
+    {% elsif page.breadcrumb == 'work-and-benefits' %}
+
+    <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
+
+        <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
     {% elsif page.event-start-date and page.event-category != 'bookfest' %}
 
         <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
