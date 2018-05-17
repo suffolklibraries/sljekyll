@@ -1,6 +1,6 @@
 ---
 id: chantry-boogie
-name: BookStart Bird Boogie
+name: Bookstart Bird Boogie
 location: chantry-library
 location-text: Chantry Library
 event-start-date: 2018-06-07

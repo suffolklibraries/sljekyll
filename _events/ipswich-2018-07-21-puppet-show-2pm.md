@@ -7,6 +7,7 @@ event-start-date: 2018-07-21
 event-start-time: 1400
 event-end-time: 1430
 event-ticket-price: "2.50; accompanying adult free"
+event-category: summer-holidays
 breadcrumb: y
 ---
 
