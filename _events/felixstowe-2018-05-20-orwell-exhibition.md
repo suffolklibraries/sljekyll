@@ -3,9 +3,9 @@ id: felix-exhib
 name: "Orwell Art Group spring exhibition"
 location: felixstowe-library
 location-text: Felixstowe Library
-event-start-date: 2018-05-18
-event-start-time: 1400
-event-end-time: 1700
+event-start-date: 2018-05-20
+event-start-time: 1000
+event-end-time: 1400
 breadcrumb: y
 ---
 
