@@ -190,7 +190,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1240-1300
+      1240-1255
     </td>
   </tr>
 
