@@ -3,7 +3,7 @@ id: bec-elmer
 name: "Elmer Week: frog-themed crafts"
 location: beccles-library
 location-text: Beccles Library
-event-start-date: 2018-05-30
+event-start-date: 2018-05-31
 event-start-time: 1000
 event-end-time: 1100
 event-ticket-price: 1.50
