@@ -7,7 +7,7 @@ category: blog
 excerpt: "Matt looks at the how, costs and why of running a 'reading hack' &#8211; and of passing over its organisation to students."
 breadcrumb: blog
 ---
-Anyone who works in libraries is always keen to find new ways of engaging with young people, so hearing about something called ‘[Reading Hack](http://readinghack.org.uk/about)’ from The [Reading Agency](https://readingagency.org.uk/) in 2015 certainly piqued my interest. This mix of creative activities, volunteering and reading advocacy certainly sounded brilliant to staff at Suffolk Libraries, but I found the concept quite difficult to grasp - even after the Reading Agency introduced it at an [LBaRTS](/schools-literacy/schools) county training day. Who organised and ran Reading Hack groups? What would be the cost to the library service? How is it promoted to [young people](http://readinghack.org.uk/toolkits)? What resources were available?
+Anyone who works in libraries is always keen to find new ways of engaging with young people, so hearing about something called ‘[Reading Hack](http://readinghack.org.uk/about)’ from The [Reading Agency](https://readingagency.org.uk/) in 2015 certainly piqued my interest. This mix of creative activities, volunteering and reading advocacy certainly sounded brilliant to staff at Suffolk Libraries, but I found the concept quite difficult to grasp - even after the Reading Agency introduced it at an LBaRTs county training day. Who organised and ran Reading Hack groups? What would be the cost to the library service? How is it promoted to [young people](http://readinghack.org.uk/toolkits)? What resources were available?
 
 Many of these questions were answered in mid-2016 at the end of the national Reading Hack pilot, with a number of free interactive resources appearing on the Reading Hack website for both [young people](http://readinghack.org.uk/toolkits) and [library professionals](https://readingagency.org.uk/young-people/reading-hack-groups/) to access. Armed with this new information, and invited to work with a group of year 7 pupils from a local school as part of a six-week enrichment programme, Suffolk Libraries dipped their first toe into the world of Reading Hack in April 2016.
 
@@ -18,7 +18,7 @@ I would run a group at [Beccles Library](/branches/beccles-library) once a week 
 
 Over six weeks the ‘[Beccles Book Bunnies](http://readinghack.org.uk/groups/23)’ were introduced to the Reading Hack concept, took part in activities (both created by me and taken from the Reading Hack website), logged what they did on their online profile, before finally taking ownership of the group by creating and running their own Hacks. Members of the group progressed from passive participants to active leaders and creators.
 
-My own involvement was quite intensive for the first few sessions as I planned a [range of activities](/schools-literacy/literacy/resources), demonstrated the website and directed the sessions. Towards the end of the pilot I was really only supplying resources requested by the young people and providing enthusiasm!
+My own involvement was quite intensive for the first few sessions as I planned a range of activities, demonstrated the website and directed the sessions. Towards the end of the pilot I was really only supplying resources requested by the young people and providing enthusiasm!
 
 <img src="/images/article/reading-hack-top-trumps.jpg" alt="Book character Top Trumps" />
 

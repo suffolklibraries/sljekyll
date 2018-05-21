@@ -1,0 +1,41 @@
+---
+layout: sidebar-right
+title: "Half-term events at Suffolk Libraries"
+date: 2018-05-21
+author: alice-violett
+category: news
+excerpt: "Wondering what to do during half-term? We've got children's activities planned across our libraries."
+breadcrumb: news
+featured: true
+featured-image: "/images/featured/featured-craft.jpg"
+featured-alt: "Children's craft materials"
+featured-excerpt: "Wondering what to do during half-term? We've got children's activities planned across our libraries."
+featured-link-text: "Find out more"
+---
+
+<p>Wondering what to do during half-term? We've got children's activities planned across our libraries.</p>
+
+<p>As well as several <a href="/news/elmer-day/">Elmer Day events</a> across the county, children can enjoy <a href="/news/beach-bonkers">Beach Bonkers events at three libraries</a>, craft sessions, a film screening, a magic show and an author visit.</p>
+
+<p>All of our libraries will be closed on Monday 28 May due to the Bank Holiday.</strong></p>
+
+<p>See below for our full list of half-term events.</p>
+
+{% assign half-term-events = (site.events | where: "event-category", "half-term" | sort: "event-start-date" ) %}
+
+{% for event in half-term-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> - {{ event.event-end-date | date: "%a %-d %b" }} <span>{{ event.event-start-time }}</span>
+
+        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+        </p>
+
+    </article>
+
+{% endfor %}

@@ -8,7 +8,6 @@ event-start-date: 2018-06-09
 event-start-time: 1030
 event-end-time: 1300
 event-ticket-price: 3 for one child and up to two carers
-event-category: half-term
 breadcrumb: y
 ---
 

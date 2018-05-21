@@ -50,8 +50,6 @@ The Branford Boase prize recognises the authors and editors of the year's best d
 
 > "udi's going to play for the greatest team on earth, instead of sweating over each stitch he sews, each football boot he makes. But one unlucky kick brings Budi's world crashing down. Now he owes the Dragon, the most dangerous man in Jakarta. Soon it isn't only Budi's dreams at stake, but his life."
 
-You can meet author Mitch Johnson with Ipswich Children's Book Group at [Ipswich County Library on Saturday 12 May](/events/ipswich-2018-05-12-cbg-mitch-johnson/).
-
 *Editors: Rebecca Hill & Becky Walker*
 
 ## [<cite>Potter's Boy</cite>, by Tony Mitton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2271833)
