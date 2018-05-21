@@ -1,6 +1,6 @@
 ---
 id: ipswich-craft
-name: "Craft and gift sale from The Crafty Collective Ipswich"
+name: "Fathers' Day craft and gift sale from The Crafty Collective Ipswich"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2018-06-02
@@ -9,4 +9,4 @@ event-end-time: 1630
 breadcrumb: y
 ---
 
-Pick up some beautiful art and gifts from The Crafty Collective Ipswich. Refreshments available.
+Pick up some beautiful Fathers' Day cards and gifts from The Crafty Collective Ipswich. Refreshments available.
