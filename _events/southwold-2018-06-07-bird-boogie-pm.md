@@ -1,6 +1,6 @@
 ---
 id: southwold-boogie
-name: BookStart Bird Boogie - afternoon session
+name: Bookstart Bird Boogie - afternoon session
 location: southwold-library
 location-text: Southwold Library
 event-alt-location: "Southwold Boating Lake & Tearoom, North Parade Car Park, Southwold, IP18 6BN"
