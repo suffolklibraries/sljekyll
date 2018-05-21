@@ -16,6 +16,16 @@ a.gs-title {
     color: #0074D9;
 }
 
+.gs-result .gs-title,
+.gs-result .gs-title * {
+    text-decoration: none !important
+}
+
+.gsc-table-result {
+    margin-top: 0 !important;
+    font-size: 0.875em !important;
+}
+
 .gcsc-branding-text,
 .gcsc-branding-img-noclear {
     display: none;
