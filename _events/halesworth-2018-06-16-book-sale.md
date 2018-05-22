@@ -9,4 +9,6 @@ event-end-time: 1500
 breadcrumb: y
 ---
 
-Pick up some bargain second-hand good quality books and help raise money for the library.
+Pick up some bargain second-hand good quality books, CDs and DVDs and help raise money for the library. 50p a book or bring and fill a (sensibly sized!) bag for £5.
+
+Please bring any donations to the library between 11 and 16 June.
