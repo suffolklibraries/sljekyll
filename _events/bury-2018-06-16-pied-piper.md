@@ -15,4 +15,6 @@ breadcrumb: y
 
 > "Norwich Puppet Theatre’s humorous and irresistible one person show combines a skilful mix of puppetry, foot-tapping music and storytelling and will have audiences young and old entranced."
 
+**Book in advance by contacting the library to guarantee a place**
+
 ![Arts Council England logo](/images/featured/featured-arts-council-england-logo.jpg)

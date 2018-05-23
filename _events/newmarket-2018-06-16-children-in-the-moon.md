@@ -13,4 +13,6 @@ breadcrumb: y
 
 <cite>The Children in the Moon</cite> is a wonderfully visual and original take on centuries-old children’s verse. Packed with puppetry and live music, this is an ideal show for all the family.
 
+**Book in advance by contacting the library to guarantee a place**
+
 ![Arts Council England logo](/images/featured/featured-arts-council-england-logo.jpg)

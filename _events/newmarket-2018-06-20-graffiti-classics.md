@@ -12,4 +12,6 @@ breadcrumb: y
 
 > "6 strings, 8 dancing feet and 4 voices with 1 aim: to make classical music wickedly funny and fantastically exhilarating for everyone, young and old. Graffiti Classics burst the elitist boundaries of the traditional string quartet with their hilarious all-singing, all-dancing musical comedy show."
 
+**Book in advance by contacting the library to guarantee a place**
+
 ![Arts Council England logo](/images/featured/featured-arts-council-england-logo.jpg)
