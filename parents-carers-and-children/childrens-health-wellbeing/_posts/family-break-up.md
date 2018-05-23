@@ -4,7 +4,7 @@ title: "Family break-up"
 date: 2018-05-17
 author: sophie-green
 category: childrens-health-wellbeing
-excerpt: "A list of books for parents and/or children dealing with family break-up."
+excerpt: "A list of books for parents and children dealing with family break-up."
 breadcrumb: childrens-ya-books
 ---
 

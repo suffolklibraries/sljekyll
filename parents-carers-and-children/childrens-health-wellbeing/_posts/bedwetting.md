@@ -4,7 +4,7 @@ title: "Bedwetting"
 date: 2018-05-17
 author: sophie-green
 category: childrens-health-wellbeing
-excerpt: "A list of books for parents and/or children dealing with bedwetting."
+excerpt: "A list of books for parents and children dealing with bedwetting."
 breadcrumb: childrens-ya-books
 ---
 

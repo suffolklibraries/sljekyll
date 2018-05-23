@@ -4,7 +4,7 @@ title: "Autism and Asperger's"
 date: 2018-05-17
 author: sophie-green
 category: childrens-health-wellbeing
-excerpt: "A list of books for parents and/or children dealing with autism and Asperger's."
+excerpt: "A list of books for parents and children dealing with autism and Asperger's."
 breadcrumb: childrens-ya-books
 ---
 

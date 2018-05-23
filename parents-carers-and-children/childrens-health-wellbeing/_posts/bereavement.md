@@ -4,7 +4,7 @@ title: "Bereavement"
 date: 2018-05-17
 author: sophie-green
 category: childrens-health-wellbeing
-excerpt: "A list of books for parents and/or children dealing with bereavement."
+excerpt: "A list of books for parents and children dealing with bereavement."
 breadcrumb: childrens-ya-books
 ---
 

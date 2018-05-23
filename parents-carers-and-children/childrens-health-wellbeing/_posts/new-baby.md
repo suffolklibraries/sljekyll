@@ -12,6 +12,8 @@ To reserve any of the following books for children dealing with a new baby to [y
 
 You can [sign up for a library card online](/help/joining-the-library/) for free. You can sign your child up for a library card at any age.
 
+See also: [Books for children dealing sibling rivalry](/parents-carers-and-children/childrens-health-wellbeing/sibling-rivalry/)
+
 ## [<cite>A Baby Sister for Frances</cite>, by Russell & Lilian Hoban](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=221768)
 
 > "With a new baby in the family, no one pays much attention to Frances any more, at least that is what she thinks. So Frances decides to run away. Not too far, just far enough so that she can hear how much she'll be missed, even by baby Gloria."

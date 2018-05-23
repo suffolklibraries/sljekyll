@@ -4,7 +4,7 @@ title: "Dyslexia"
 date: 2018-05-17
 author: sophie-green
 category: childrens-health-wellbeing
-excerpt: "A list of books for parents and/or children dealing with dyslexia."
+excerpt: "A list of books for parents and children dealing with dyslexia."
 breadcrumb: childrens-ya-books
 ---
 

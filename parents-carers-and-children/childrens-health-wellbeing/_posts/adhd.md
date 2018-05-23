@@ -4,7 +4,7 @@ title: "ADHD"
 date: 2018-05-17
 author: sophie-green
 category: childrens-health-wellbeing
-excerpt: "A list of books for parents and/or children dealing with ADHD."
+excerpt: "A list of books for parents and children dealing with ADHD."
 breadcrumb: childrens-ya-books
 ---
 
