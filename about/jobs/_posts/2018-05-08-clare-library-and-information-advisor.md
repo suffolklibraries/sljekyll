@@ -5,7 +5,7 @@ category: jobs
 sidebar: about
 breadcrumb: jobs
 excerpt: "4 average hours a week, &pound;8.17 per hour, closing date Wed 30 May."
-expiry-date: 2018-06-30
+expiry-date: 2018-05-30
 ---
 
 [Download a role profile](/assets/pdf/library-and-information-advisor-may-2018.pdf) (PDF).
