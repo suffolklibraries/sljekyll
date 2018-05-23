@@ -13,7 +13,7 @@ breadcrumb: member-organisations
 ## Who we are
 
 * Chair: Claire Boorman
-* Secretary: Pat Welland
+* Secretary: Caroline Southgate
 * Treasurer: John Baldwin
 * Minutes secretary: Diane Tarrant
 * Library representative: Frances Law
