@@ -4,12 +4,6 @@ title: Bury St Edmunds Mobile Library Route 19
 breadcrumb: mobiles-home
 ---
 
-<div class="{% include /c/generic-panel.html %}">
-
-  <p>Bury St Edmunds Mobile Library is unable to serve Wickhambrook, Depden Green or Chedburgh today (Thursday 24 May) due to a vehicle fault.</p>
-
-</div>
-
 ## Contact us:
 
 Managers: Steve Adams and Kevin Lambert
