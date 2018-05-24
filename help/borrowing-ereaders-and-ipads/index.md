@@ -44,16 +44,20 @@ The main terms of the loan are:
 
 ### Libraries that lend iPads
 
+  * [Beccles Library](/libraries/beccles-library)]
+  * [Bungay Library](/libraries/bungay-library)
   * [Capel Library](/libraries/capel-st-mary-library)
   * [Clare Library](/libraries/clare-library)
   * [Felixstowe Library](/libraries/felixstowe-library)
   * [Halesworth Library](/libraries/halesworth-library)
+  * [Haverhill Library](/libraries/haverhill-library) (two Nexus 7 tablets also available to borrow)
   * [Ixworth Library](/libraries/ixworth-library)
   * [Kedington Library](/libraries/kedington-library)
   * [Lakenheath Library](/libraries/lakenheath-library)
   * [Leiston Library](/libraries/leiston-library)
   * [Long Melford Library](/libraries/long-melford-library/)
   * [Mildenhall Library](/libraries/mildenhall-library) (available to use in the library only)
+  * [Saxmundham Library](/libraries/saxmundham-library) (available to use in the library only)
   * [Southwold Library](/libraries/southwold-library)
 
 ### How to borrow an iPad
