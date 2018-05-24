@@ -1,6 +1,6 @@
 ---
 id: bec-elmer
-name: "Elmer Week: dragon and butterfly crafts"
+name: "Elmer Week: dragonfly and butterfly crafts"
 location: beccles-library
 location-text: Beccles Library
 event-start-date: 2018-06-02
