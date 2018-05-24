@@ -1,14 +1,14 @@
 ---
 layout: sidebar-right
-title: "Teenage mental health"
+title: "Young adults: mental health"
 date: 2018-05-17
 author: sophie-green
 category: childrens-health-wellbeing
-excerpt: "A list of books for parents and teenagers dealing with mental health."
+excerpt: "A list of books for parents/carers and young adults dealing with mental health."
 breadcrumb: childrens-ya-books
 ---
 
-To reserve any of the following books for parents and teenagers dealing with mental health to [your local library](/libraries/), click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on [01473 351249](tel:01473351249) or **help@suffolklibraries.co.uk**
+To reserve any of the following books for parents/carers and young adults dealing with mental health to [your local library](/libraries/), click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on [01473 351249](tel:01473351249) or **help@suffolklibraries.co.uk**
 
 You can [sign up for a library card online](/help/joining-the-library/) for free. You can sign your child up for a library card at any age.
 

@@ -4,11 +4,11 @@ title: "Tantrums"
 date: 2018-05-17
 author: sophie-green
 category: childrens-health-wellbeing
-excerpt: "A list of books for children and parents dealing with tantrums."
+excerpt: "A list of books for parents/carers and children dealing with tantrums."
 breadcrumb: childrens-ya-books
 ---
 
-To reserve any of the following books for children and parents dealing with tantrums to [your local library](/libraries/), click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on [01473 351249](tel:01473351249) or **help@suffolklibraries.co.uk**
+To reserve any of the following books for parents/carers and children dealing with tantrums to [your local library](/libraries/), click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on [01473 351249](tel:01473351249) or **help@suffolklibraries.co.uk**
 
 You can [sign up for a library card online](/help/joining-the-library/) for free. You can sign your child up for a library card at any age.
 
