@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Andy Weir'
-date: 2018-06-05
+date: 2018-06-19
 author: brandon-king
 category: meet-the-author
 excerpt: "Andy Weir talks about his latest novel, <cite>Artemis</cite>, and tells us how sci-fi writers might attract new readers to the genre."
