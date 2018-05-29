@@ -16,7 +16,7 @@ As part of Year 1 of the Suffolk Libraries Arts Programme, we are inviting Suffo
 
 The residency will not only explore the role of the arts in the community but will also provide artists the opportunity to research and develop their own ideas and practice, with the opportunity to present their own concepts of a ‘blue-sky’ community programme to stakeholders and the general public.
 
-In April 2018, Suffolk Libraries were awarded NPO status by Arts Council England. Suffolk Libraries is made up of 44 individual libraries across the county and as part of this creative process each artist will be matched with a library to explore its history and understand the landscape of its community and asked to incorporate this narrative into their practice.
+[In April 2018, Suffolk Libraries were awarded NPO status by Arts Council England](/news/national-portfolio-organisation/). Suffolk Libraries is made up of 44 individual libraries across the county and as part of this creative process each artist will be matched with a library to explore its history and understand the landscape of its community and asked to incorporate this narrative into their practice.
 
 Following the residency, artists may be approached by Suffolk Libraries to be commissioned to deliver pilots of their projects from September 2018.
 
