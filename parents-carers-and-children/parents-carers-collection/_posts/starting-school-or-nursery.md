@@ -1,16 +1,38 @@
 ---
 layout: sidebar-right
-title: "Starting school"
+title: "Starting school or nursery"
 date: 2018-05-17
 author: sophie-green
 category: parents-carers-collection
-excerpt: "A list of books for children dealing with starting school."
+excerpt: "A list of books for children dealing with starting school or nursery."
 breadcrumb: childrens-ya-books
 ---
 
-To reserve any of the following books for children dealing with starting school to [your local library](/libraries/), click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on [01473 351249](tel:01473351249) or **help@suffolklibraries.co.uk**
+To reserve any of the following books for children dealing with starting school or nursery to [your local library](/libraries/), click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on [01473 351249](tel:01473351249) or **help@suffolklibraries.co.uk**
 
 You can [sign up for a library card online](/help/joining-the-library/) for free. You can sign your child up for a library card at any age.
+
+## [<cite>I'm Starting Nursery</cite>, by Marion Cocklico](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2408594)
+
+> "A practical and fun first experiences book for toddlers about starting nursery - with parent and carer tips."
+
+## [<cite>Alfie at Nursery School</cite>, by Shirley Hughes](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2411369)
+
+> "Alfie loves Nursery School - and so does Annie Rose. She can't wait to go there with him - in fact she's so desperate to join in that she gets Alfie into a very sticky situation in this collection of nursery school tales. Join Alfie as he navigates playground games and special concerts in this heartwarming book."
+
+## [<cite>Mr Men go to School</cite>, by Adam & Roger Hargreaves](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2396371)
+
+> "Little Miss Tiny is going to school and some of the other Mr Men and Little Miss with a few things to learn are joining her! How will Mr Muddle get on with maths and will Mr Messy create a work of art in painting?"
+
+## [<cite>I Love My Teacher</cite>, by Giles Andreae & Emma Dodd](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2392792)
+
+> "A colourful, fun-filled picture book all about school! Put your coat on the hook, play with friends and join in all the day's activities. Start with show and tell, reading and writing, then playtime, making things and singing. Teacher makes sure every school day is the best!
+
+> "This sweet and simple story follows a typical school day - from morning hellos to hometime."
+
+## [<cite>Stuff to Know when you Start School</cite>, by Hélène Hilton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2372305)
+
+> "Learn all the super-important life skills you need to become a big boy or girl with this ultimate guide to being a toddler and starting school."
 
 ## [<cite>Billy and the Big New School</cite>, by Catherine & Laurence Anholt](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1755727)
 

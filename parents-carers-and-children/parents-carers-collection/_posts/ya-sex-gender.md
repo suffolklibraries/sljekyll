@@ -45,9 +45,17 @@ See also:
 
 > "Thankfully 'The Sex Lady' breaks it down in <cite>Doing it Right</cite>, which deals with issues like STIs, birth control and being emotionally ready. The more teens know and understand about the issues surrounding sex, the easier it is for them to make safe, smart and satisfying decisions about their sexuality."
 
+## [<cite>This is Not a Sex Book</cite>, by Chusita Fashion Fever](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2172996)
+
+> "YouTube sensation Chusita Fashion Fever explores every aspect of sexuality for teenagers, covering everything from how to tell if he or she likes you, to sexual orientation, kissing, your first time and the difference between on-screen sex and what to expect in real life."
+
 ## [<cite>This Book is Gay</cite>, by Juno (formerly James) Dawson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1646443)
 
 > "Former PSHCE teacher and acclaimed YA author Juno Dawson, formerly known as James Dawson, gives an uncensored look at sexual orientation and gender identity. Including testimonials from people across the gender and sexual spectrums, this frank, funny, fully inclusive book explores everything anyone who ever dared to wonder wants to know - from sex to politics, how to pull, stereotypes, how to come out and more."
+
+## [<cite>Understanding Sexuality: what it means to be lesbian, gay or bisexual</cite>, by Honor Head](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2199657)
+
+> "This title looks at the issues around sexuality - what it means, being lesbian, gay or bisexual, coming out, homophobia and accepting yourself and being happy in your own skin."
 
 ## [<cite>Beyond Magenta: transgender teens speak out</cite>, by Susan Kuklin](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2003875)
 
@@ -56,3 +64,19 @@ See also:
 ## [<cite>How to be Happy: a memoir of sex, love and teenage confusion</cite>, by David Burton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2176514)
 
 > "A funny, sad and serious memoir, <cite>How to Be Happy</cite> is David Burton's story of his turbulent life at high school and beyond. He longs to have a girlfriend, but his first date is a disaster. There's the catastrophe of the school swimming carnival and friendships that take devastating turns. Then he finds some solace in drama classes with the creation of 'Crazy Dave', and he builds a life where everything is fine. But everything is not fine. And, at the centre of it all, trying desperately to work it all out, is the real David."
+
+## [<cite>Trans Mission: my quest to a beard</cite>, by Alex Bertie](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2271482)
+
+> "Being a teenager is difficult enough, but having to go through puberty whilst realising you're in the wrong body means dealing with a whole new set of problems: bullying, self-doubt and in some cases facing a physical and medical transition.
+
+> "Alex is an ordinary teenager: he likes pugs, donuts, retro video games and he sleeps with his socks on. He's also transgender, and was born female. He's been living as a male for the past few years and he has recently started his physical transition. Throughout this book, Alex will share what it means to be in his shoes, as well as his personal advice to other trans teens."
+
+## [<cite>Queer, There, and Everywhere: 23 people who changed the world</cite>, by Sarah Prager & Zoe More O'Ferrall](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2364442)
+
+> "World history has been made by countless lesbian, gay, bisexual, transgender, and queer individuals - and you've never heard of many of them.
+
+> "Queer author and activist Sarah Prager delves deep into the lives of 23 people who fought, created, and loved on their own terms. From high-profile figures like Abraham Lincoln and Eleanor Roosevelt to the trailblazing gender-ambiguous Queen of Sweden and a bisexual blues singer who didn't make it into your history books, these astonishing true stories uncover a rich queer heritage that encompasses every culture, in every era."
+
+## [<cite>Understanding Transgender</cite>, by Honor Head](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2199662)
+
+> "Exploring the issue of people who feel they do not belong to the gender they were born with, this sensitive book looks at what this means for the person and their family, issues around school policy, bullying and discrimination and explores the journey of transitioning."

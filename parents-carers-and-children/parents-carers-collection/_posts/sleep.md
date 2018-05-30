@@ -1,14 +1,14 @@
 ---
 layout: sidebar-right
-title: "Sleep problems"
+title: "Sleep"
 date: 2018-05-17
 author: sophie-green
 category: parents-carers-collection
-excerpt: "A list of books for parents/carers and children dealing with sleep problems."
+excerpt: "A list of books for parents/carers and children dealing with sleep."
 breadcrumb: childrens-ya-books
 ---
 
-To reserve any of the following books for parents and children dealing with sleep problems to [your local library](/libraries/), click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on [01473 351249](tel:01473351249) or **help@suffolklibraries.co.uk**
+To reserve any of the following books for parents and children dealing with sleep to [your local library](/libraries/), click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on [01473 351249](tel:01473351249) or **help@suffolklibraries.co.uk**
 
 You can [sign up for a library card online](/help/joining-the-library/) for free. You can sign your child up for a library card at any age.
 
@@ -41,3 +41,17 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 ## [<cite>The Gentle Sleep Solution</cite>, by Chireal Shallow](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1856432)
 
 > "<cite>The Gentle Sleep Solution</cite> shows you the powerful yet gentle way to help your baby enjoy a good night's sleep. Drawing on CBT and mindfulness, it moves away from outdated approaches to ensure that your child feels comforted, reassured and loved as they drift off to sleep."
+
+## [<cite>Goodnight Songs</cite>, by Margaret Wise Brown and various artists](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2294490)
+
+> "A board-book edition of a collection of charming lullabies, gorgeously illustrated by 12 award-winning artists. Soothing words, quiet rhythmic poetry and diverse illustrations create the perfect bedtime-story book."
+
+## [<cite>Goodnight, Mr Panda</cite>, by Steve Antony](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2408043)
+
+> "Mr Panda and his friends are getting ready for bed. But some won't brush their teeth, others won't have a bath, and one won't even wear pyjamas! It's down to Mr Panda to show them how to do bedtime properly."
+
+## [<cite>Goodnight World</cite>, by Debi Gliori](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2186823)
+
+> "Goodnight ice and goodnight snow, Goodnight lights above, aglow.
+
+> "Join in the list of important things to say goodnight to - ships, animals, plants, toys and, of course, the sun - in this illustrated rhyming text, perfect for bedtime."

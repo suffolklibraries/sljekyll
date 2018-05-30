@@ -47,3 +47,9 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 ## [<cite>Where Do Babies Come From?</cite>, by Katie Daynes & Christine Pym](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1978231)
 
 > "This is a simple but effective book that explains the facts of life to young children with easy, comprehensive text. Lift the flaps to see how baby animals and people are born, why babies cry, and how they learn to speak."
+
+## [<cite>Let's Talk about the Birds and the Bees</cite>, by Molly Potter & Sarah Jennings](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2260603)
+
+> "It's natural for young children to have questions about their bodies and where they came from, but it can seem a daunting task to answer honestly so that they understand the subtleties of puberty, sex, reproduction and relationships, and are comfortable with their bodies.
+
+> "This books uses clear, easy to understand language to answer complex questions about sex and relationships, and covers all manner of tricky subjects from puberty to consent with delicate accuracy and honesty."

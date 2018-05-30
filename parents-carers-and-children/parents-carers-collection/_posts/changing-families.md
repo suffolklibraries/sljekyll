@@ -92,4 +92,10 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 
 > "<cite>The Daddy Book</cite> celebrates all kinds of dads and highlights the many reasons they are so special. Whether your dad walks you to school or walks you to the bus, whether he wears suits or two different socks, whether he has a lot of hair or a little, Todd Parr assures readers that every dad is special in his own way."
 
-## [<cite>Milly, Molly and Different Dads</cite>, by Gill Potter]()
+## [<cite>Dealing with my Stepfamily</cite>, by Jane Lacey & Venitia Dean](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2287077)
+
+> "Sometimes you can sort out a problem on your own. But sometimes you need to ask for help. This book helps young children aged 7+ to make this decision and find out about and understand life in a step family. It features seven case studies from children who have a range of stepfamily issues from a girl who doesn't want to share to a boy who is worried because he likes his stepdad more than his 'real' dad. The end of the book features a short playscript to act out and discuss."
+
+## [<cite>Family Differences</cite>, by Honor Head](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2171462)
+
+> "<cite>Family Differences</cite> looks at different family set-ups including single parents and step-families and examines issues that can arise within families - sibling fall-outs, poverty, abuse, illness and child carers, and getting on with parents. It is part of the series 'My Life, Your Life', which takes a sensitive and positive look at some of the issues that concern children aged 10+."

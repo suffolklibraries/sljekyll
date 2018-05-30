@@ -71,4 +71,10 @@ See also:
 
 ## [<cite>The Teenage Guide to Friends</cite>, by Nicola Morgan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2137733)
 
-> "A comprehensive guide to teenage friendships, by award-winning author and well-being expert Nicola Morgan. Essential reading for teenagers and the adults who care about them. Contents include a section on making friends, keeping friendships strong, and what happens when they break down - as well as a look at online friendships, cyber-bullying, toxic friendships and frenemies, and empathy. There is also a section on personality types - introverts and extroverts - and quizzes to help you discover what sort of person you are, how you relate to others and how to deal with difficult situations."
+> "A comprehensive guide to teenage friendships, by award-winning author and well-being expert Nicola Morgan. Essential reading for teenagers and the adults who care about them. Contents include a section on making friends, keeping friendships strong, and what happens when they break down - as well as a look at online friendships, cyber-bullying, toxic friendships and frenemies, and empathy.
+
+> "There is also a section on personality types - introverts and extroverts - and quizzes to help you discover what sort of person you are, how you relate to others and how to deal with difficult situations."
+
+## [<cite>Open Your Heart: learn to love your life and love yourself</cite>, by Gemma Cairney & Aurelia Lange](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2305957)
+
+> "Full of honest and practical advice from The Surgery agony aunt Gemma Cairney and a whole host of trained professionals and real people, <cite>Open Your Heart</cite> is a best friend in a book. From heartbreak and heartache to body image and everything in between, it will help you learn to love your body, your friends and your family, and tell you what to do if things go wrong."
