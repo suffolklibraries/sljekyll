@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "ADHD"
 date: 2018-05-17
 author: sophie-green
-category: childrens-health-wellbeing
+category: parents-carers-collection
 excerpt: "A list of books for parents/carers and children dealing with ADHD."
 breadcrumb: childrens-ya-books
 ---
@@ -43,3 +43,7 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 ## [<cite>I Know Someone with ADHD</cite>, by Elizabeth Raum](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=359857)
 
 > "This series presents common behavioural and physiological health issues in a simple and inclusive way. It demystifies common health issues and also helps afflicted children feel as though they aren't alone."
+
+## [<cite>Winston Wallaby Can't Stop Bouncing: what to do about hyperactivity in children including those with ADHD, SPD and ASD</cite>, by K. I. Al-Ghani, Joy Beaney & Haitham Al-Ghani](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2292469)
+
+> "This illustrated storybook explains hyperactivity through the story of Winston Wallaby and his uncontrollable bouncing at school. It allows children with ADHD, SPD & ASD to recognise and support their additional sensory needs. A helpful introduction for parents/carers and appendices with strategies to be used at home and in school are included."

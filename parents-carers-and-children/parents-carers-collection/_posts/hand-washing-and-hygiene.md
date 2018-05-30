@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Handwashing and hygiene"
 date: 2018-05-17
 author: sophie-green
-category: childrens-health-wellbeing
+category: parents-carers-collection
 excerpt: "A list of books for children dealing with handwashing and hygiene."
 breadcrumb: childrens-ya-books
 ---

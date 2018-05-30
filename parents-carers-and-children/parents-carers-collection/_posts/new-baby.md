@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "New baby"
 date: 2018-05-17
 author: sophie-green
-category: childrens-health-wellbeing
+category: parents-carers-collection
 excerpt: "A list of books for children dealing with a new baby."
 breadcrumb: childrens-ya-books
 ---

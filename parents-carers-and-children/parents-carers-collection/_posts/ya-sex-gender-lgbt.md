@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Young adults: sex and gender"
 date: 2018-05-17
 author: sophie-green
-category: childrens-health-wellbeing
+category: parents-carers-collection
 excerpt: "A list of books for young adults dealing with sex, gender and LGBT awareness."
 breadcrumb: childrens-ya-books
 ---

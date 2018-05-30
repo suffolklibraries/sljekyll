@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Healthy living for children"
 date: 2018-05-17
 author: sophie-green
-category: childrens-health-wellbeing
+category: parents-carers-collection
 excerpt: "A list of books about healthy living for children."
 breadcrumb: childrens-ya-books
 ---

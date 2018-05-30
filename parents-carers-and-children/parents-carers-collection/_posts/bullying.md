@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Bullying"
 date: 2018-05-17
 author: sophie-green
-category: childrens-health-wellbeing
+category: parents-carers-collection
 excerpt: "A list of books for children dealing with bullying."
 breadcrumb: childrens-ya-books
 ---
@@ -49,3 +49,7 @@ See also: [Top titles about bullying for children and young adults for Anti Bull
 ## [<cite>Willy the Wimp</cite>, by Anthony Browne](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1639721)
 
 > "Willy wouldn't hurt a fly - he even apologises when someone hits him. The suburban gorillas call him Willy the Wimp. Then, one day, Willy answers a bodybuilding advertisement - with hilarious results!"
+
+## [<cite>Tug of War</cite>, by Anthony Browne](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1367051)
+
+> "Hare, Hippopotamus and Elephant live together, but not happily, for Hippopotamus and Elephant are forever teasing poor Hare. One day, Hare decides to teach his friends a lesson, and so the great tug of war begins."

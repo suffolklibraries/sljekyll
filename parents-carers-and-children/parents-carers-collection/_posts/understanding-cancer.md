@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Understanding cancer"
 date: 2018-05-17
 author: sophie-green
-category: childrens-health-wellbeing
+category: parents-carers-collection
 excerpt: "A list of books to help children understand cancer."
 breadcrumb: childrens-ya-books
 ---

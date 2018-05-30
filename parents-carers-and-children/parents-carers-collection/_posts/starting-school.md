@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Starting school"
 date: 2018-05-17
 author: sophie-green
-category: childrens-health-wellbeing
+category: parents-carers-collection
 excerpt: "A list of books for children dealing with starting school."
 breadcrumb: childrens-ya-books
 ---

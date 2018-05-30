@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Bereavement"
 date: 2018-05-17
 author: sophie-green
-category: childrens-health-wellbeing
+category: parents-carers-collection
 excerpt: "A list of books for parents/carers and children dealing with bereavement."
 breadcrumb: childrens-ya-books
 ---
@@ -65,3 +65,51 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 ## [<cite>Michael Rosen's Sad Book</cite>, by Michael Rosen](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=289146)
 
 > "We all have 'sad stuff' to deal with in life. What makes Michael Rosen most sad is thinking about his son, Eddie, who died. In this book he writes about his sadness, how it affects him, and some of the things he does to try to cope with it."
+
+## [<cite>The Pond</cite>, by Nicola Davies & Cathy Fisher](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2138273)
+
+> "<cite>The Pond</cite> is a touching picture book about a young boy and his family, overcoming the loss of his father through a small pond in the garden. This colourful, emotional book is filled with natural imagery and will teach children not only about death and loss, but the importance of the natural world."
+
+## [<cite>The Scar</cite>, by Charlotte Moundlic & Oliver Tallec](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1308052)
+
+> "With tenderness, touches of humour and unflinching emotional truth, Charlotte Moundlic captures the loneliness of grief through the eyes of a child, rendered with sympathy and charm in Olivier Tallec's expressive illustrations."
+
+## [<cite>Grandma and Grandpa's Garden</cite>, by Neil Griffiths](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=391321)
+
+> "Grandma and Grandpa loved being together in their beautiful garden. They loved it too when their granddaughter Lucy visited and they taught her many skills. Sadly, these long, happy days were not to last, but memories of them would live on."
+
+## [<cite>The Goodbye Boat</cite>, by Mary Joslin & Claire St Louis Little](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=313826)
+
+> "With its open ending, the story of <cite>The Goodbye Boat</cite> is told in pictures and simple text. The story concerns the sorrow of seeing a friend sail away and the confidence of knowing that they travel to a bright shore beyond."
+
+## [<cite>Heaven</cite>, by Nicholas Allan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=232235)
+
+> "A touching tale of a child's final farewell to her opinionated dog who goes off to heaven."
+
+## [<cite>If All the World Were...</cite>, by Joseph Coelho & Allison Colpoys](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2378820)
+
+> "A moving, lyrical picture book about a young girl's love for her granddad and how she copes when he dies, written by poet and playwright Joseph Coelho. This powerful and ultimately uplifting text is the ideal way to introduce children to the concept of death and dying, particularly children who have lost a grandparent."
+
+## [<cite>A Place in My Heart</cite>, by Annette Aubrey & Patrice Barton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1887843)
+
+> "“My heart feels so sad and empty, And my tummy is churning inside. Things won’t ever be the same again. I want Grandad by my side.”
+
+> "Andrew’s grandad has died, and Andrew is feeling very sad and confused. Explore with your child the difficult issue of bereavement as Andrew talks about his feelings with his mum and dad."
+
+## [<cite>Goodbye Grandma</cite>, by Melanie Walsh](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1754086)
+
+> "When a little boy is told that his grandma has died, he isn't really sure what death means. In this reassuring lift-the-flap book with bold and colourful illustrations, he asks his mum important questions about death and bereavement. Why do people have to die? What happens to them once they are dead? What can he do to remember his grandma?"
+
+## [<cite>Gentle Willow: a story for children about dying</cite>, by Joyce C. Mills & Cary Pillo](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1540414)
+
+> "Written for children who may not survive their illness or for the children who know them, the second edition of this tender and touching tale helps address feelings of disbelief, anger, and sadness, along with love and compassion."
+
+## [<cite>The Copper Tree</cite>, by Hilary Robinson & Mandy Stanley](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=565878)
+
+> "When Olivia's teacher, Miss Evans, dies, the children at her school are encouraged to think of everything that reminds them of her. This book is about love and legacy and will help children understand that while sadness is an inevitable part of grief, death is not necessarily the end for what is left behind can be everlasting."
+
+See also:
+
+* [Child Bereavement UK](https://childbereavementuk.org/)
+* [Cruse Bereavement Care - Children](https://www.cruse.org.uk/children)
+* [Winston's Wish](https://www.winstonswish.org/)

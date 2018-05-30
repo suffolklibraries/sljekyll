@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Potty training"
 date: 2018-05-17
 author: sophie-green
-category: childrens-health-wellbeing
+category: parents-carers-collection
 excerpt: "A list of books for parents/carers and children dealing with potty training."
 breadcrumb: childrens-ya-books
 ---
@@ -44,6 +44,14 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 
 > "Hoping to teach little Ba to use his new potty, George uses every form of encouragement he can think of but is thwarted when the little bear simply remains unenthusiastic."
 
+## [<cite>Skip to the Loo: a potty book</cite>, by Sally Lloyd James & Anita Jeram](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2324748)
+
+> "Bunny wants his potty. What will Bunny do? Only one thing for it - skip to the loo! Bunny's not the only one skipping to the loo. Look who else wants their potty! Quite a few. In vibrant, rhythmic, rhyming beats, Sally Lloyd-Jones gets the party going in a book that simply rejoices in the call of nature!"
+
+## [<cite>No More Nappies</cite>, by Marion Cocklico & Amanda Gummer](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2339266)
+
+> "In <cite>No More Nappies</cite>, meet Millie and Mo - two adorable toddlers who are ready to ditch their nappies and learn how to use the potty. Follow the ups and downs of their potty-training journey brought to life with fun flaps and mechanisms."
+
 ## [<cite>The Gentle Potty Training Book</cite>, by Sarah Ockwell-Smith](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2256752)
 
 > "<cite>The Gentle Potty Training Book</cite> is a concise guide to the toilet training process. It will help parents understand when to start the process, and provide a step by step guide to the best, most gentle and easiest approach to take, as well as how to cope with the inevitable regressions and setbacks."
@@ -51,3 +59,19 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 ## [<cite>Potty Training: a practical guide for parents</cite>, by Claire Cross](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1844940)
 
 > "<cite>Potty Training</cite> offers you a stress-free way to teach your toddler to give up nappies. This realistic, reassuring guide begins at the very beginning with recognising the signs your little one is ready to start training, then takes you through the whole process, from potty to toilet, to staying dry at night."
+
+## [<cite>Potty Training: making the transition to dry days and nights</cite>, by Jane Gilbert](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=259429)
+
+> "Offering a host of practical suggestions to help you cope with potty training your child, this title will show you how to recognize the signs that your child is ready to move out of nappies. It includes tips from parents on how to deal with problems such as bedwetting."
+
+## [<cite>Potty Training</cite>, by Jane Gilbert](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=260316)
+
+> "Offering a host of practical suggestions to help you cope with potty training your child, this title will show you how to recognize the signs that your child is ready to move out of nappies. It includes tips from parents on how to deal with problems such as bedwetting."
+
+## [<cite>Baby & Toddler Sleep Solutions for Dummies</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=279487)
+
+> "This reassuring resource provides the essential hands-on information parents need to get their kids to sleep - and stay asleep - all night long. The authors offer a variety of nurturing sleep solutions to fit every parenting style. They explain how to deal with such key issues as teething, snoring, night terrors, and bedwetting."
+
+## [<cite>Potty Training</cite>, by Alison Mackonochie](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=371175)
+
+> "A major parental task is changing an infant's nappies to toilet training a toddler and possibly dealing with a school-age child's bedwetting problems. This practical, all-inclusive guide provides lots of solid information on managing these very important functions."

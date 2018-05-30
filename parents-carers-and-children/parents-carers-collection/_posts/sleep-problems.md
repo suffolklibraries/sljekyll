@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Sleep problems"
 date: 2018-05-17
 author: sophie-green
-category: childrens-health-wellbeing
+category: parents-carers-collection
 excerpt: "A list of books for parents/carers and children dealing with sleep problems."
 breadcrumb: childrens-ya-books
 ---

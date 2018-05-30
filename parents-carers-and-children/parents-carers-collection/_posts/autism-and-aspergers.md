@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Autism and Asperger's"
 date: 2018-05-17
 author: sophie-green
-category: childrens-health-wellbeing
+category: parents-carers-collection
 excerpt: "A list of books for parents and children dealing with autism and Asperger's."
 breadcrumb: childrens-ya-books
 ---
@@ -38,6 +38,10 @@ This introduction to the issue of autism shows how - through imagination, kindne
 
 > "This title explains the facts behind the growth spurts, body changes and mood swings of adolescence for boys aged 9-14 on the autism spectrum. Using direct literal language and cool colour illustrations, this book tells boys all they need to know about growing hair in new places, shaving, wet dreams, and unexpected erections."
 
+## [<cite>The Growing Up Guide for Girls: what girls on the autism spectrum need to know!</cite>, by Davida Hartman & Margaret Suggs](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1787399)
+
+> "This illustrated guide for girls is full of facts and advice about growing up, puberty, body image, friendship, crushes, and more. Written in literal language and addressing sensory issues, safety, and social skills throughout, it offers an ideal introduction to the teenage years for girls with autism, aged 9 to 14."
+
 ## [<cite>M in the Middle: secret crushes, mega-colossal anxiety and the People's Republic of Autism</cite>, by Vicky Martin & the students of Limpsfield Grange School](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2048823)
 
 > "Life after diagnosis isn't easy for M. Back in her wobbly world, there are lots of changes and ups and downs to get used to, not just for M, but for her friends and family too. Faced with an exciting crush, a pushy friend and an unhelpful headteacher, how long until the beast of anxiety pounces again?
@@ -59,3 +63,11 @@ This introduction to the issue of autism shows how - through imagination, kindne
 ## [<cite>The Red Beast: controlling anger in children with Asperger's Syndrome</cite>, by K. I. Al-Ghani](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=671151)
 
 > "This fully illustrated children's storybook presents an accessible, fun way to talk about anger. It also includes useful tips about how to 'tame the red beast' and gives guidance for parents on how anger affects children with Asperger's syndrome."
+
+## [<cite>Sometimes Noise is Big: life with autism</cite>, by Angela Coelho & Camille Robertson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2252157)
+
+> "What would life be like if the world was too noisy for your eyes, or your clothes always felt too itchy? This picture book describes the world from the point of view of a child with autism and the sensory issues and big feelings they often encounter. This simple explanation is ideal for children aged 5+ to help understanding of sensory issues."
+
+## [<cite>Maria and Me: a father, a daughter (and autism)</cite>, by Maria & Miguel Gallardo](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2272559)
+
+> "A father's first-hand account of what life is like with his daughter María who has autism. On a trip to the Canary Islands in Spain, some challenges arise as a result. This book shows how the two work around these issues, and gives insight into how María sees and experiences the world."
