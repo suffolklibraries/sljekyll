@@ -12,6 +12,8 @@ To reserve any of the following books for parents/carers of young adults to [you
 
 You can [sign up for a library card online](/help/joining-the-library/) for free. You can sign your child up for a library card at any age.
 
+See also: [Links for your health and wellbeing](/health/links/)
+
 ## [<cite>Get Out of My Life ... but first take me and Alex into town</cite>, by Anthony E. Wolf & Suzanne Franks](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1686240)
 
 > "Teenagers are tough, and anyone who has their own, or has to spend time with other peoples', often need help. Tony Wolf and Suzanne Franks have written a witty and helpful guide to living with teenagers."

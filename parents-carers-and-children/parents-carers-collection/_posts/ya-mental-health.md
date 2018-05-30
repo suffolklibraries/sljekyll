@@ -15,6 +15,7 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 See also:
 * [Moodboosting books for young people for 2017](/health/lists/health-lists/moodboosting-books-for-children-2017/)
 * [Reading Well for young people](/health/lists/health-lists/reading-well-for-young-people/)
+* [Links for your health and wellbeing](/health/links/)
 
 ## Depression and anxiety
 

@@ -28,6 +28,10 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 
 > "Realistic and optimistic, this book is the ideal source of information and advice for parents and professionals who are trying to keep up with children who are living without brakes."
 
+## [<cite>Zak has ADHD</cite>, by Jenny Leigh](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1441554)
+
+> "Poor Zak the Zebra! He's naughty, rude and unpopular - but all he wants to be is just like the other children. So when Doctor Spot and his friends are brought in to help, they find he has ADHD - attention deficit hyperactivity disorder. Soon, Zak is winning gold stars for his behaviour - and making new friends!"
+
 ## [<cite>Step by Step Help for Children with ADHD: a self-help manual for parents</cite>, by Cathy Laver-Bradbury](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=594683)
 
 > "Raising a child with ADHD can be distressing and exhausting for the whole family. This easy-to-follow guide, including games, tips and exercises, will give every parent the knowledge they need to deal with the condition, which will improve your child's confidence, relationships at home and bring success at school."

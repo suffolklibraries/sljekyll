@@ -1,14 +1,14 @@
 ---
 layout: sidebar-right
-title: "Family break-up"
+title: "Changing families"
 date: 2018-05-17
 author: sophie-green
 category: parents-carers-collection
-excerpt: "A list of books for parents/carers and children dealing with family break-up."
+excerpt: "A list of books for parents/carers and children dealing with changing families."
 breadcrumb: childrens-ya-books
 ---
 
-To reserve any of the following books for parents/carers and children dealing with family break-up to [your local library](/libraries/), click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on [01473 351249](tel:01473351249) or **help@suffolklibraries.co.uk**
+To reserve any of the following books for parents/carers and children dealing with changing families to [your local library](/libraries/), click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on [01473 351249](tel:01473351249) or **help@suffolklibraries.co.uk**
 
 You can [sign up for a library card online](/help/joining-the-library/) for free. You can sign your child up for a library card at any age.
 
@@ -65,3 +65,31 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 ## [<cite>Weekends with Dad: what to expect when your parents divorce</cite>, by Melissa Higgins & Wednesday Kirwan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1974667)
 
 > "When your parents divorce, it can feel like the world turns upside down. What do you do? Whether you live mostly with your mum or dad, this story can help you through the tough times."
+
+## [<cite>Mum and Dad Glue</cite>, by Kes Gray & Lee Wildish](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=329155)
+
+> "This picture book looks at divorce from a child's eye view. A little boy tries to find a pot of parent glue to stick his mum and dad back together. His parents have come undone and he wants to mend their marriage, stick their smiles back on and make them better. Even though his parents may be broken, their love for him is not."
+
+## [<cite>My Daddy is a Silly Monkey</cite>, by Dianne Hofmeyr & Carol Thompson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2360521)
+
+> "My daddy is a great big bear. He gets out of bed and grumbles and grouches, scratches and yawns!
+
+> "This charming picture book for younger children portrays a day in the life of a dad and daughter in a single-parent home, as they get up, have breakfast, go to school, go swimming, make dinner and prepare for bedtime. Dad is a great big bear, a silly monkey, a crocodile, an octopus and, at bedtime, a scary monster for a little while - but in the end it's Daddy being Daddy that the little girl loves best."
+
+## [<cite>All About Families</cite>, by Felicity Brooks & Mar Ferrero](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2395460)
+
+> "Families come in all shapes and sizes and from all sorts of backgrounds. They speak various languages, eat different sorts of food, live in different kinds of homes and celebrate special occasions in a variety of ways. This book lets children explore questions such as 'What is a family?', 'What different sorts of families are there?' and more."
+
+## [<cite>The Great Big Book of Families</cite>, by Mary Hoffman & Ros Asquith](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1726812)
+
+> "What is a family? Once, it was said to be a father, mother, boy, girl, cat and dog living in a house with a garden. But as times have changed, families have changed too. Mary Hoffman takes a look through children's eyes at the wide varieties of family life, from homes, food and schools to holidays, jobs and housework."
+
+## [<cite>The Family Book</cite>, by Todd Parr](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1826179)
+
+> "<cite>The Family Book</cite> celebrates the love we feel for our families and all the different varieties they come in. Whether you have two mothers or two dads, a big family or a small family, a clean family or a messy one, Todd Parr assures readers that no matter what kind of family you have, every family is special in its own unique way."
+
+## [<cite>The Daddy Book</cite>, by Todd Parr](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2206372)
+
+> "<cite>The Daddy Book</cite> celebrates all kinds of dads and highlights the many reasons they are so special. Whether your dad walks you to school or walks you to the bus, whether he wears suits or two different socks, whether he has a lot of hair or a little, Todd Parr assures readers that every dad is special in his own way."
+
+## [<cite>Milly, Molly and Different Dads</cite>, by Gill Potter]()

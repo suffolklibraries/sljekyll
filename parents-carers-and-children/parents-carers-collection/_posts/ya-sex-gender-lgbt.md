@@ -15,6 +15,7 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 See also:
 * [Recommended Young Adult titles to mark LGBT History Month 2018](/new-suggestions/young-adult/lgbt-history-month-2018/)
 * [Recommended Young Adult titles to mark LGBT History Month 2017](/new-suggestions/young-adult/titles-for-lgbt-history-month/)
+* [Links for your health and wellbeing](/health/links/)
 
 ## [<cite>Being a Girl</cite>, by Hayley Long & Gemma Correll](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1763170)
 
