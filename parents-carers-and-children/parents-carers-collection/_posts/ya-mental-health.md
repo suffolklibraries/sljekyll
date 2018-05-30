@@ -41,6 +41,10 @@ See also:
 
 > "Welcome to Camp Reset, a summer camp with a difference. A place offering a shot at 'normality' for Olive, a girl on the edge, and for the new friends she never expected to make - who each have their own reasons for being there. Luckily Olive has a plan to solve all their problems. But how do you fix the world when you can't fix yourself?"
 
+## [<cite>The Rest of Us Just Live Here</cite>, by Patrick Ness](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1958138)
+
+> "This bold, irreverent novel powerfully asks what if you weren't the 'chosen one'? The one who's supposed to fight the zombies, or the soul-eating ghosts, or whatever this new thing is, with the blue lights and the death? What if you were like Mikey? Who just wants to graduate and go to prom and maybe finally work up the courage to ask Henna out before someone goes and blows up his high school. Again. Because sometimes there are problems bigger than this week's end of the world and sometimes you just have to find the extraordinary in your ordinary life. Even if your best friend might just be the God of mountain lions!"
+
 ## Body image and eating disorders
 
 ### [<cite>Can I Tell You About Eating Disorders? A guide for friends, family and professionals</cite>, by Bryan Lask, Lucy Watson & Fiona Field](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1665826)
