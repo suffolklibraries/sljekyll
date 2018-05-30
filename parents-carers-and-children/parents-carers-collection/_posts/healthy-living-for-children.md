@@ -24,6 +24,16 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 
 > "Too wrinkly, too squishy, too fruity, too fishy! It's lunchtime, but our fussy little boy doesn't like a single item on his plate. What is a boy to eat?"
 
+## [<cite>Fussy Freda</cite>, by Julia Jarman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2304226)
+
+> "Dinnertime isn't easy in Freda's house. Mum cooks beans. YUK! Grandma cooks fish and chips. YUK! Dad cooks crispy duck. YUK! YUK! YUK! There just isn't any pleasing Fussy Freda! Will anything change her mind about eating dinner? This deliciously funny story will have toddlers calling out for more, and more."
+
+## [<cite>Lunch on a Pirate Ship</cite>, by Caryl Hart & Kristina Stephenson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2392012)
+
+> "Come with Jack on a quest for the perfect lunch - you never know who you might meet!
+
+> "Jack doesn't want to eat his boring old lunch. He'd rather have lunch on a pirate ship! But what do pirates actually eat? Rotten fish stew - eeuuuwwww! And so begins a rollicking, imaginative adventure over sea, through caves and into the lair of a troll before Jack decides that actually Mum's cooking is pretty good after all."
+
 ## [<cite>Oliver's Fruit Salad</cite>, by Vivian French & Alison Bartlett](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=278738)
 
 > "Oliver has returned from his happy, healthy holiday at his grandparents' houses, and suddenly nothing at home seems good enough. How can Oliver's long-suffering mum make Oliver happy?"

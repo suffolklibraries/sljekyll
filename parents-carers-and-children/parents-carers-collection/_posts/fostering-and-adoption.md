@@ -64,3 +64,19 @@ Now we are a family."
 ## [<cite>And Tango Makes Three</cite>, by Justin Richardson, Peter Parnell & Henry Cole](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1086837)
 
 > "Based on a true story, this charming and heart-warming tale proves that all you need to make a family is love."
+
+## [<cite>I've Loved You Since Forever</cite>, by Hoda Kotb & Suzie Mason](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2419925)
+
+> "This beautiful picture book is inspired by Hoda Kotb's heartwarming adoption of her baby girl. With Kotb's lyrical text and stunning pictures by Suzie Mason, young ones and parents will want to snuggle up and read the pages of this book together, over and over again."
+
+## [<cite>Josh and Jaz have Three Mums</cite>, by Hedi Argent & Amanda Wood](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1728224)
+
+> "This book for young children aged five to eight helps to explain the diversity and difference of family groups, and encourages an understanding and appreciation of same-sex parents.
+
+> "Will Josh and Jaz's class laugh because they live with two mums and what will they say about their birth parents? They want to be like everyone else and have just one mum and dad.
+
+> "Mummy Sue and Mummy Fran help Josh and Jaz to understand that every family tree will tell a different story and that life would be boring if they were all the same. Working together, they produce a family tree that Josh and Jaz are truly proud of and one that wins the admiration of all their classmates."
+
+## [<cite>Heather has Two Mummies</cite>, by Lesléa Newman & Laura Cornell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1737144)
+
+> "Heather's favourite number is two - she has two arms, two legs, two pets and two lovely mummies. But when Heather goes to school for the first time, someone asks her about her daddy - and Heather doesn't have a daddy! But then the class all draw portraits of their families, and not one single drawing is the same. Heather and her classmates realise - it doesn't matter who makes up a family, the most important thing is that all the people in it love one another very much."

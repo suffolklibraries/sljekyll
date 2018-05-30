@@ -67,3 +67,15 @@ And potatoes grow out of his pants!"
 ## [<cite>Wash, Scrub, Brush! A book about keeping clean</cite>, by Mick Manning & Brita Granstrom](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1580112)
 
 > "How often do you wash your hands? When did you last scrub your nails? And did you brush your hair this morning? Children can find out the reasons for doing these things in this exploration of personal hygiene."
+
+## [<cite>Atchoo! The complete guide to good manners</cite>, by Mij Kelly & Mary McQuillan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=327472)
+
+> "This is the story of Suzy Sue and the fateful day when she went 'Atchoo!'.
+
+> "Suzy Sue sneezes but forgets to cover her mouth. The animals are astounded and decide it's time to teach her some manners."
+
+## [<cite>Tiger, Tiger, Time to take a Bath!</cite>, by Jo Lodge](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2321721)
+
+> "What do you do if your ears are dirty, your nose is blocked or your hair is sticking up like a mad haystack? And just how do you achieve a really snappy, bright-white smile? Wiggle the sliding tabs and giggle as the animals show you how to take care of yourself.
+
+> "With brilliant bold, bright pictures and a funny rhyming narrative, <cite>Tiger, Tiger, Time to Take a Bath!</cite> is sure to put a big smile on your toddler's face while showing them how to take care of themselves."

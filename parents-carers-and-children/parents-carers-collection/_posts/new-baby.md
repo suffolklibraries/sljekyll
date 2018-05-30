@@ -48,7 +48,7 @@ See also: [Books for children dealing sibling rivalry](/parents-carers-and-child
 
 > "From the authors of [<cite>Going to Playgroup</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=688771) and [<cite>The New Puppy</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=428142) comes this warm, reassuring picture book about the birth of a new baby and the effect this has on a young sibling."
 
-## [<cite>My Sister is an Alien!</cite>, by Rachel Bright](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=69649)
+## [<cite>My Sister is an Alien</cite>, by Rachel Bright](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=69649)
 
 > "Alfie is crazy about space. He doesn't think much about anything else, until his new baby sister comes along. Then he notices that she looks a bit funny, she talks funny and sometimes smells funny - she must be an alien! Alfie knows he must take her back to the moon where she belongs."
 
@@ -79,3 +79,15 @@ See also: [Books for children dealing sibling rivalry](/parents-carers-and-child
 ## [<cite>Brand New Baby</cite>, by Bob Graham](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=371510)
 
 > "The Arnolds are a family awaiting the arrival of a new baby. Starting with the final days of Mum's pregnancy Bob Graham's wry and delightfully observed story chronicles the arrival of baby Walter and his effect upon the rest of the family."
+
+## [<cite>Baby on Board</cite>, by Kes Gray & Sarah Nayler](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1614826)
+
+> "There is a baby growing inside Mum's tum. At one month, he is just a blob - at two months, he is half a piece of chewing gum long - and at three months he is as big as Mum's thumb. Watch him grow as the pages get bigger."
+
+## [<cite>We're Having a Baby</cite>, by Marion Cocklico](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2408593)
+
+> "A practical and fun first experiences book for toddlers who are expecting a baby brother or sister - with parent and carer tips."
+
+## [<cite>Lulu and the Noisy Baby: a busy book about becoming a big sister</cite>, by Camila Reid & Ailie Busby](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2011401)
+
+> "Lulu is the perfect character to introduce preschoolers to new experiences and here she is welcoming her new baby brother. With an accessible, warm and reassuring text and interactive flaps to lift on every page, <cite>Lulu and the Noisy Baby</cite> offers a gentle introduction to the arrival of a new baby through the eyes of the older sibling."

@@ -1,14 +1,14 @@
 ---
 layout: sidebar-right
-title: "Fears"
+title: "Fear and anxiety"
 date: 2018-05-17
 author: sophie-green
 category: parents-carers-collection
-excerpt: "A list of books for children dealing with fears."
+excerpt: "A list of books for children dealing with fear and anxiety."
 breadcrumb: childrens-ya-books
 ---
 
-To reserve any of the following books for children dealing with fears to [your local library](/libraries/), click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on [01473 351249](tel:01473351249) or **help@suffolklibraries.co.uk**
+To reserve any of the following books for children dealing with fear and anxiety to [your local library](/libraries/), click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on [01473 351249](tel:01473351249) or **help@suffolklibraries.co.uk**
 
 You can [sign up for a library card online](/help/joining-the-library/) for free. You can sign your child up for a library card at any age.
 
@@ -77,3 +77,21 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 ## [<cite>I Want My Light On!</cite>, by Tony Ross](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=660160)
 
 > "Everyone insists there are no such things as ghosts. But if that is the case, just what is it that is lurking under the Little Princess's bed?"
+
+## [<cite>Ruby's Worry</cite>, by Tom Percival](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2403768)
+
+> "Ruby loves being Ruby. Until, one day, she finds a worry. at first it's not such a big worry, and that's alright, but then it starts to grow. It gets bigger and bigger every day and it makes Ruby sad. How can Ruby get rid of her worry and feel like herself again?"
+
+## [<cite>Where the Bugagoo Lives</cite>, by Sean Taylor & Neal Layton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2003928)
+
+> "A wonderfully interactive, which-way adventure story which follows Floyd and his sister into the dark, shadowy valley behind their house. The valley is full of all kinds of creepy, freaky, weaselly creatures and the scariest of them all is the bugaboo!"
+
+## [<cite>Willy and the Cloud</cite>, by Anthony Browne](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2257878)
+
+> "A stunning and perceptive story about worry and anxiety, featuring his much loved chimp, Willy.
+
+> "One day Willy goes to the park. It's a sunny day, but a cloud hovers over him and he can't join in the fun. What can Willy do to make this mysterious cloud go away?"
+
+## [<cite>Little Mouse's Big Book of Fears</cite>, by Emily Gravett](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=244156)
+
+> "Young children will identify with the little mouse who documents his fears in the pages of this book - from loud noises and the dark to being sucked down the plughole."
