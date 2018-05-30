@@ -9,4 +9,6 @@ event-end-time: 1630
 breadcrumb: y
 ---
 
+![Fathers' Day craft and gift sale poster](/images/featured/featured-tcci-jun-2018.jpg)
+
 Pick up some beautiful Fathers' Day cards and gifts from The Crafty Collective Ipswich. Refreshments available.
