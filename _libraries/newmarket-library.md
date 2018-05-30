@@ -42,7 +42,7 @@ branch-for-sale: "<ul>
                   <li>Friends of Newmarket Library 2018 calendars - £5.95.</li>
                   </ul>"
 branch-news: "<ul>
-              <li>The library's lift is currently out of order. Please ask a member of staff if you require assistance.</li>
+              <li>We're sorry that <strong>the customer lift is currently out of order.</strong> Please ask a member of staff if you require assistance and we will do our best to help.</li>
               <li>Newmarket Library is currently looking for volunteers to help run its new code club for 9-13 year-olds. Please contact the library if you're interested.</li>
               </ul>"
 breadcrumb: y
