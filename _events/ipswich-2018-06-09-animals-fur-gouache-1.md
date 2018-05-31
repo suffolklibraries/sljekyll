@@ -5,7 +5,7 @@ location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2018-06-09
 event-start-time: 1000
-event-doors-open: 1300
+event-end-time: 1300
 event-ticket-price: 25 per person
 breadcrumb: y
 ---

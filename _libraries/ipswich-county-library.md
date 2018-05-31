@@ -33,6 +33,9 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/ipswich-county-library
-branch-other-facilities: 'Board Games Library - see the <a href="/assets/pdf/ipswich-board-games-library.pdf">Ipswich Board Games Library information sheet</a> (PDF) for further information.'
+branch-other-facilities: '<ul>
+                          <li>Board Games Library - see the <a href="/assets/pdf/ipswich-board-games-library.pdf">Ipswich Board Games Library information sheet</a> (PDF) for further information.</li>
+                          <li>Jigsaw swap - bring in a complete puzzle and exchange it for one from the table.</li>
+                          </ul>'
 breadcrumb: y
 ---

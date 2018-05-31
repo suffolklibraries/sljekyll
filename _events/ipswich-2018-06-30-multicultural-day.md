@@ -5,11 +5,14 @@ location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2018-06-30
 event-start-time: 1030
-event-doors-open: 1530
+event-end-time: 1530
+event-ticket-price: free
 breadcrumb: y
 ---
 
 Celebrating its tenth year, Multicultural Day is now a firm fixture in Ipswich County Library’s calendar and sees thousands of people of different ages, cultures and backgrounds turn out to enjoy the celebration.
+
+Drop in for music, dance, children's crafts, stalls and more.
 
 It is more important than ever to celebrate the diversity and creativity in Ipswich and what better way to celebrate than with a free day of performances, activities, food and kids crafts.
 
