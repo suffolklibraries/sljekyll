@@ -21,7 +21,7 @@ Computers in the library can get busy so you can book one in advance. You will n
 
 Universal Credit applications take 20-30 minutes for one person and about 1 hour for a couple. You can normally book a computer for 1 hour but ask staff if you think you might need longer.
 
-Read the [list of documents and information you will need](https://www.citizensadvice.org.uk/benefits/universal-credit/apply/apply-for-universal-credit/) and have everything ready before you start.
+Check whether you're [ready for Universal Credit](http://ucpp.dwp.gov.uk/universal-credit-preparation/Default.aspx) and read the [list of documents and information you will need](https://www.citizensadvice.org.uk/benefits/universal-credit/apply/apply-for-universal-credit/) to make sure you have everything you need before you start.
 
 ### Help completing your application
 
