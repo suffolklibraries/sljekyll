@@ -4,7 +4,7 @@ title: New fiction for June 2018
 date: 2018-05-30
 author: brandon-king
 category: fiction
-excerpt: "New titles from Helen Dunmore, Mick Herron Mark Billingham and more."
+excerpt: "New titles from Helen Dunmore, Mick Herron, Mark Billingham and more."
 featured-image: /images/featured/featured-june-2018-fiction.jpg
 featured-alt: "The King's Witch, The Death of Mrs Westaway, This is What Happened"
 breadcrumb: fiction
