@@ -38,7 +38,7 @@ Not something to which I've ever aspired, but it's an interesting question. Perh
 
 ## 5. If someone read this and thought ‘I’d like to read some of his books’, where would be a good starting point for the new reader?
 
-Probably the first volumes of each of my three major series: [<cite>The Sins of the Fathers</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=255982) (Matthew Scudder), <cite>Burglars Can't be Choosers</cite> (Bernie Rhodenbarr), <cite>Hit Man</cite> (Keller).
+Probably the first volumes of each of my three major series: [<cite>The Sins of the Fathers</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=255982) (Matthew Scudder), <cite>Burglars Can't be Choosers</cite> (Bernie Rhodenbarr), [<cite>Hit Man</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=254942) (Keller).
 
 *Editor's note: We've replenished our stock of <cite>Burglars Can't Be Choosers</cite> and it will be in our catalogue soon.*
 
