@@ -3,11 +3,11 @@ branch-unique-id: needham-market-library
 branch-name: Needham Market Library
 branch-image: /images/branches/needham-market-library.jpg
 branch-monday-hours: Closed
-branch-tuesday-hours:	1000 – 1500
-branch-wednesday-hours: 1400 – 1700, 1730 – 1930
+branch-tuesday-hours:	1000 – 1300, 1400 - 1700
+branch-wednesday-hours: 1400 – 1900
 branch-thursday-hours: 1000 – 1300, 1400 – 1700
 branch-friday-hours: 1400 – 1700
-branch-saturday-hours: 1000 – 1700
+branch-saturday-hours: 1000 - 1300, 1400 - 1700
 branch-sunday-hours: 1100 – 1600
 branch-manager: Donna Grand
 branch-address: School Street, Needham Market
@@ -24,5 +24,4 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: '<a href="/news/clare-and-needham-change-opening-hours/">Needham Market Library&#39;s opening hours are changing from Monday 5 June</a>.'
 ---

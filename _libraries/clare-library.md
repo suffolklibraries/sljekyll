@@ -6,9 +6,9 @@ branch-monday-hours: Closed
 branch-tuesday-hours:	1000 – 1300, 1400 – 1700
 branch-wednesday-hours: 1000 – 1300, 1400 – 1700
 branch-thursday-hours: Closed
-branch-friday-hours: 1230 – 1700
-branch-saturday-hours: 0930 – 1300
-branch-sunday-hours: 1100 – 1600
+branch-friday-hours: 1000 - 1300, 1400 - 1700
+branch-saturday-hours: 1000 - 1300
+branch-sunday-hours: 1000 – 1400
 branch-manager: Karla Greenwood
 branch-address: The Guildhall, High Street, Clare
 branch-post-code: CO10 8NY
@@ -30,5 +30,4 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/clare-library
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
-branch-news: '<a href="/news/clare-and-needham-change-opening-hours/">Clare Library&#39;s opening hours are changing from Monday 5 June</a>.'
 ---
