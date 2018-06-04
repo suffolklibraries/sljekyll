@@ -1,6 +1,6 @@
 ---
 id: alde-1984
-name: "<cite>Down and Out in Paris and London: LIVE</cite> screening"
+name: "<cite>Orwell's Down and Out: LIVE</cite> screening"
 location: aldeburgh-library
 location-text: Aldeburgh Library
 event-start-date: 2018-06-06
