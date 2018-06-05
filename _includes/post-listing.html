@@ -4,118 +4,241 @@
 
 {% endif %}
 
-{% for post in site.categories.[page.category] limit:20 %}
+{% if page.sort == 'alphabetical' %}
 
-  {% if post.expiry-date %}
+  {% assign posts = site.categories.[page.category] sort: "title" | reverse %}
 
-        {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+  {% for post in posts %}
 
-        {% capture expires %}{{post.expiry-date | date: '%s' }}{% endcapture %}
+    {% if post.expiry-date %}
 
-        {% capture expires-date %}{{ expires | divided_by: 86400}}{% endcapture %}
+          {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
 
-        {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+          {% capture expires %}{{post.expiry-date | date: '%s' }}{% endcapture %}
 
-        {% if now-unix <= expires-date %}
+          {% capture expires-date %}{{ expires | divided_by: 86400}}{% endcapture %}
 
-            <article class="{% include /c/slot.html %}">
+          {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
 
-                <header class="{% include /c/slot-header.html %}">
+          {% if now-unix <= expires-date %}
 
-                    {% assign posts-check = true %}
+              <article class="{% include /c/slot.html %}">
 
-                    <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+                  <header class="{% include /c/slot-header.html %}">
 
-                    <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
+                      {% assign posts-check = true %}
 
-                </header>
+                      <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url }}">{{ post.title }}</a></h1>
 
-                {% if post.featured-image %}
 
-                    <a href="{{ post.url }}" class="white"><img class="db mb2" src="{{ post.featured-image }}" alt="post.featured-alt"></a>
+                  </header>
 
-                    <p class="{% include /c/slot-excerpt.html %} dib-ns">{{ post.excerpt }}</p>
+                  {% if post.featured-image %}
 
-                {% else %}
+                      <a href="{{ post.url }}" class="white"><img class="db mb2" src="{{ post.featured-image }}" alt="post.featured-alt"></a>
 
-                    <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
+                      <p class="{% include /c/slot-excerpt.html %} dib-ns">{{ post.excerpt }}</p>
 
-                {% endif %}
+                  {% else %}
 
-            </article>
+                      <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
 
-        {% endif %}
+                  {% endif %}
 
-    {% else %}
+              </article>
 
-        {% if page.category == 'health' %}
+          {% endif %}
 
-            {% if post.category != 'health-lists' %}
+      {% else %}
 
-                <article class="{% include /c/slot.html %}">
+          {% if page.category == 'health' %}
 
-                    <header class="{% include /c/slot-header.html %}">
+              {% if post.category != 'health-lists' %}
 
-                        {% assign posts-check = true %}
+                  <article class="{% include /c/slot.html %}">
 
-                        <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+                      <header class="{% include /c/slot-header.html %}">
 
-                        <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
+                          {% assign posts-check = true %}
 
-                    </header>
+                          <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url }}">{{ post.title }}</a></h1>
 
-                    {% if post.featured-image %}
+                          <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
 
-                        <a href="{{ post.url }}" class="white"><img class="db mb2" src="{{ post.featured-image }}" alt="post.featured-alt"></a>
+                      </header>
 
-                        <p class="{% include /c/slot-excerpt.html %} dib-ns">{{ post.excerpt }}</p>
+                      {% if post.featured-image %}
 
-                    {% else %}
+                          <a href="{{ post.url }}" class="white"><img class="db mb2" src="{{ post.featured-image }}" alt="post.featured-alt"></a>
 
-                        <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
+                          <p class="{% include /c/slot-excerpt.html %} dib-ns">{{ post.excerpt }}</p>
 
-                    {% endif %}
+                      {% else %}
 
-                </article>
+                          <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
 
-            {% endif %}
+                      {% endif %}
 
-        {% else %}
+                  </article>
 
-            <article class="{% include /c/slot.html %}">
+              {% endif %}
 
-                <header class="{% include /c/slot-header.html %}">
+          {% else %}
 
-                    {% assign posts-check = true %}
+              <article class="{% include /c/slot.html %}">
 
-                    <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+                  <header class="{% include /c/slot-header.html %}">
 
-                    <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
+                      {% assign posts-check = true %}
 
-                </header>
+                      <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url }}">{{ post.title }}</a></h1>
 
-                {% if post.featured-image %}
+                      <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
 
-                    <a href="{{ post.url }}" class="white"><img class="db mb2" src="{{ post.featured-image }}" alt="post.featured-alt"></a>
+                  </header>
 
-                    <p class="{% include /c/slot-excerpt.html %} dib-ns">{{ post.excerpt }}</p>
+                  {% if post.featured-image %}
 
-                {% else %}
+                      <a href="{{ post.url }}" class="white"><img class="db mb2" src="{{ post.featured-image }}" alt="post.featured-alt"></a>
 
-                    <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
+                      <p class="{% include /c/slot-excerpt.html %} dib-ns">{{ post.excerpt }}</p>
 
-                {% endif %}
+                  {% else %}
 
-            </article>
+                      <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
 
-        {% endif %}
+                  {% endif %}
 
-    {% endif %}
+              </article>
 
-{% endfor %}
+          {% endif %}
 
-{% if posts-check != true %}
+      {% endif %}
 
-    <p>Unfortunately there are currently no {{ page.category  | downcase }}.</p>
+  {% endfor %}
+
+  {% if posts-check != true %}
+
+      <p>Unfortunately there are currently no {{ page.category  | downcase }}.</p>
+
+  {% endif %}
+
+{% else %}
+
+  {% for post in site.categories.[page.category] limit:100 %}
+
+    {% if post.expiry-date %}
+
+          {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+
+          {% capture expires %}{{post.expiry-date | date: '%s' }}{% endcapture %}
+
+          {% capture expires-date %}{{ expires | divided_by: 86400}}{% endcapture %}
+
+          {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+
+          {% if now-unix <= expires-date %}
+
+              <article class="{% include /c/slot.html %}">
+
+                  <header class="{% include /c/slot-header.html %}">
+
+                      {% assign posts-check = true %}
+
+                      <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+
+                      <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
+
+                  </header>
+
+                  {% if post.featured-image %}
+
+                      <a href="{{ post.url }}" class="white"><img class="db mb2" src="{{ post.featured-image }}" alt="post.featured-alt"></a>
+
+                      <p class="{% include /c/slot-excerpt.html %} dib-ns">{{ post.excerpt }}</p>
+
+                  {% else %}
+
+                      <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
+
+                  {% endif %}
+
+              </article>
+
+          {% endif %}
+
+      {% else %}
+
+          {% if page.category == 'health' %}
+
+              {% if post.category != 'health-lists' %}
+
+                  <article class="{% include /c/slot.html %}">
+
+                      <header class="{% include /c/slot-header.html %}">
+
+                          {% assign posts-check = true %}
+
+                          <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+
+                          <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
+
+                      </header>
+
+                      {% if post.featured-image %}
+
+                          <a href="{{ post.url }}" class="white"><img class="db mb2" src="{{ post.featured-image }}" alt="post.featured-alt"></a>
+
+                          <p class="{% include /c/slot-excerpt.html %} dib-ns">{{ post.excerpt }}</p>
+
+                      {% else %}
+
+                          <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
+
+                      {% endif %}
+
+                  </article>
+
+              {% endif %}
+
+          {% else %}
+
+              <article class="{% include /c/slot.html %}">
+
+                  <header class="{% include /c/slot-header.html %}">
+
+                      {% assign posts-check = true %}
+
+                      <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+
+                      <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
+
+                  </header>
+
+                  {% if post.featured-image %}
+
+                      <a href="{{ post.url }}" class="white"><img class="db mb2" src="{{ post.featured-image }}" alt="post.featured-alt"></a>
+
+                      <p class="{% include /c/slot-excerpt.html %} dib-ns">{{ post.excerpt }}</p>
+
+                  {% else %}
+
+                      <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
+
+                  {% endif %}
+
+              </article>
+
+          {% endif %}
+
+      {% endif %}
+
+  {% endfor %}
+
+  {% if posts-check != true %}
+
+      <p>Unfortunately there are currently no {{ page.category  | downcase }}.</p>
+
+  {% endif %}
 
 {% endif %}
