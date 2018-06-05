@@ -95,3 +95,7 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 ## [<cite>Little Mouse's Big Book of Fears</cite>, by Emily Gravett](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=244156)
 
 > "Young children will identify with the little mouse who documents his fears in the pages of this book - from loud noises and the dark to being sucked down the plughole."
+
+## [<cite>Is a Worry Worrying You?</cite>, by Ferida Wolff](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2342226)
+
+> "Adults think of childhood as a carefree time, but the truth is that children worry, and worry a lot, especially in our highly pressurized era. This book addresses children's worries with humor and imagination, as hilarious scenarios teach kids the use of perspective and the art of creative problem-solving."
