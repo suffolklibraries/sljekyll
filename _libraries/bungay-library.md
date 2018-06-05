@@ -30,4 +30,5 @@ branch-room-hire: /libraries/room-hire/bungay-library
 branch-which: y
 breadcrumb: y
 branch-other-facilities: "Foodbank collection point throughout the year."
+branch-news: '<a href="/news/bungay-library-refurbishment/">The library will be closed for refurbishment from 10 - 18 July</a>. The closest alternative library is <a href="/libraries/beccles-library">Beccles Library</a>.'
 ---
