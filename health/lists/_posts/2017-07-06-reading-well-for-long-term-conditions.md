@@ -6,7 +6,7 @@ author: alice-violett
 category: health-lists
 excerpt: The Reading Agency and Society of Chief Librarians have released a new list of Reading Well books for people with long-term conditions such as chronic pain, arthritis and diabetes.
 featured-image: /images/featured/featured-reading-well-long-term.jpg
-featured-alt: Pain Is Really Strange, How I Rescued My Brain, The Selfish Pig's Guide to Caring
+featured-alt: "Pain Is Really Strange, How I Rescued My Brain, The Selfish Pig's Guide to Caring"
 breadcrumb: health
 sidebar: health
 ---
