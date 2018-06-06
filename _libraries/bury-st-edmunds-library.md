@@ -23,7 +23,6 @@ branch-payments: cash, cheques and cards accepted
 branch-bookdrop: y
 branch-toilet: y
 branch-wifi: y
-branch-netloan: old
 branch-borrowing-microbits: y
 branch-colour-printing: available
 branch-photocopying: available

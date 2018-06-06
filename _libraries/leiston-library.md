@@ -24,7 +24,6 @@ branch-bookdrop: y
 branch-refreshments: coffee, tea and hot chocolate for sale
 branch-which: y
 branch-wifi: y
-branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y

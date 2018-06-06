@@ -1,6 +1,6 @@
 ---
 id: haverhill-suff
-name: "Suffolk Day: find out about your Suffolk Roots with Haverhill Family History Group"
+name: "Suffolk Day: find out about your Suffolk roots with Haverhill Family History Group"
 location: haverhill-library
 location-text: Haverhill Library
 event-start-date: 2018-06-21

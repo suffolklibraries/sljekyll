@@ -21,7 +21,6 @@ branch-payments: cash, cheques and cards accepted
 branch-parking: available
 branch-bookdrop: y
 branch-wifi: y
-branch-netloan: new
 branch-colour-printing: A4 available
 branch-photocopying: A4 available
 branch-scan-to-email: y

@@ -21,7 +21,6 @@ branch-payments: cash, cheques and cards accepted
 branch-parking: available on school site
 branch-toilet: y
 branch-wifi: y
-branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: available on printer
 branch-scan-to-email: y

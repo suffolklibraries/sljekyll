@@ -22,7 +22,7 @@ branch-which: y
 branch-social-media: y
 branch-facebook: mildenhalllibrary
 branch-wifi: y
-branch-netloan: old
+branch-borrowing-ereaders-and-ipads: an iPad for use in the library only
 branch-photocopying: A4 colour photocopying
 branch-colour-printing: A4 colour printing
 branch-scan-to-email: y

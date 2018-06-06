@@ -13,5 +13,3 @@ breadcrumb: y
 Join us for the third in this short series of talks about Three Great Romantic Composers. This month, Chris Milton will be focussing on Berlioz.
 
 Call the library on [01394 446510](tel:01394446510) or email **woodbridge.library@suffolklibraries.co.uk** for more details and to book.
-
-The other talks are on [Brahms on Friday 27 April](/events/woodbridge-2018-04-27-brahms-talk/) and [Tchaikovsky on Friday 18 May](/events/woodbridge-2018-05-18-tchaikovsky-talk/).

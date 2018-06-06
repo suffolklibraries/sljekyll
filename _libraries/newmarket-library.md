@@ -31,7 +31,6 @@ branch-other-facilities: '<ul>
 branch-display-space: Wall space available for exhibition hire
 branch-which: y
 branch-wifi: y
-branch-netloan: new
 branch-borrowing-microbits: y
 branch-colour-printing: available
 branch-photocopying: available in A3 and A4, black and white and colour
@@ -41,6 +40,9 @@ branch-for-sale: "<ul>
                   <li>Poetry book collated by Newmarket Library Friend Christine - £5 each with all proceeds to Friends of Newmarket Library and St Nicholas Hospice.</li>
                   <li>Friends of Newmarket Library 2018 calendars - £5.95.</li>
                   </ul>"
-branch-news: "Newmarket Library is currently looking for volunteers to help run its new code club for 9-13 year-olds. Please contact the library if you're interested."
+branch-news: "<ul>
+              <li>We're sorry that <strong>the customer lift is currently out of order.</strong> Please ask a member of staff if you require assistance and we will do our best to help.</li>
+              <li>Newmarket Library is currently looking for volunteers to help run its new code club for 9-13 year-olds. Please contact the library if you're interested.</li>
+              </ul>"
 breadcrumb: y
 ---

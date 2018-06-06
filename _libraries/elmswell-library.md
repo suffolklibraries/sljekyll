@@ -24,7 +24,6 @@ branch-bookdrop: y
 branch-toilet: y
 branch-refreshments: coffee machine available
 branch-wifi: y
-branch-netloan: old
 branch-colour-printing: A4 only
 branch-photocopying: A4 only
 branch-scan-to-email: y

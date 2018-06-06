@@ -25,7 +25,6 @@ branch-toilet: y
 branch-display-space: Glass display cabinet available for hire in whole or part
 branch-which: y
 branch-wifi: y
-branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: black and white available
 branch-scan-to-email: y

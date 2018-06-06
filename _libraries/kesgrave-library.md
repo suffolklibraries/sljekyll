@@ -26,11 +26,9 @@ branch-other-facilities: used postage stamp collection point in aid of St Elizab
 branch-display-space: available for A4 or smaller posters
 branch-facebook: kesgravelibrary
 branch-wifi: y
-branch-netloan: new
 branch-colour-printing: available in A4 only
 branch-photocopying: available in black and white (A4 or A3) or colour (A4)
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/kesgrave-library
-branch-news: '<a href="https://www.suffolklibraries.co.uk/news/extra-kesgrave-hours/">Have your say on Kesgrave Library&#39;s proposed extra opening hours &rarr;</a>'
 breadcrumb: y
 ---

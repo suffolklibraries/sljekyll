@@ -33,7 +33,6 @@ branch-for-sale: '<ul>
                   <li>Branded bags and pens.</li>'
 branch-other-facilities: laminating (up to A4), foodbank collection point all year round.
 branch-wifi: y
-branch-netloan: old
 branch-borrowing-ereaders-and-ipads: an iPad
 branch-colour-printing: available up to A4 size
 branch-photocopying: available in colour and black and white up to A4 size

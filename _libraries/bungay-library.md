@@ -22,7 +22,7 @@ branch-payments: cash, cheques and cards accepted
 branch-parking: car park available opposite the library
 branch-refreshments: coffee, tea and hot chocolate for sale
 branch-wifi: y
-branch-netloan: old
+branch-borrowing-ereaders-and-ipads: an iPad
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-usb: y
@@ -30,4 +30,5 @@ branch-room-hire: /libraries/room-hire/bungay-library
 branch-which: y
 breadcrumb: y
 branch-other-facilities: "Foodbank collection point throughout the year."
+branch-news: '<a href="/news/bungay-library-refurbishment/">The library will be closed for refurbishment from 10 - 18 July</a>. The closest alternative library is <a href="/libraries/beccles-library">Beccles Library</a>.'
 ---

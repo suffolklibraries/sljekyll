@@ -27,12 +27,14 @@ branch-special-collections: African Caribbean resources, Indic language resource
 branch-display-space: Double sided display case available for hire - please book 2 weeks in advance
 branch-which-travel: y
 branch-wifi: y
-branch-netloan: old
 branch-borrowing-microbits: y
 branch-colour-printing: available
 branch-photocopying: available
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/ipswich-county-library
-branch-other-facilities: 'Board Games Library - see the <a href="/assets/pdf/ipswich-board-games-library.pdf">Ipswich Board Games Library information sheet</a> (PDF) for further information.'
+branch-other-facilities: '<ul>
+                          <li>Board Games Library - see the <a href="/assets/pdf/ipswich-board-games-library.pdf">Ipswich Board Games Library information sheet</a> (PDF) for further information.</li>
+                          <li>Jigsaw swap - bring in a complete puzzle and exchange it for one from the table.</li>
+                          </ul>'
 breadcrumb: y
 ---

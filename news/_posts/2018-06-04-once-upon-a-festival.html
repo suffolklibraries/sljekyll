@@ -1,0 +1,36 @@
+---
+layout: sidebar-right
+title: "Suffolk Libraries to host Once Upon a Festival events in June"
+date: 2018-06-04
+author: james-powell
+category: news
+excerpt: "We're teaming up with Theatre Royal Bury St Edmunds this month to host five performances as part of the ‘Once Upon A Festival’ children’s arts festival."
+breadcrumb: news
+---
+
+<p>We're teaming up with Theatre Royal Bury St Edmunds this month to host five performances as part of the ‘Once Upon A Festival’ children’s arts festival.</p>
+
+<p>The events, aimed at children aged 7-13, are taking place at Bury, Newmarket, Ipswich and Lowestoft libraries. All of the events are free apart from <cite>The Children in the Moon</cite> at Newmarket Library on Saturday 16 June, which costs £1 per child. There are limited places at all performances so we advise parents to contact the library to book their ticket in advance.</p>
+
+<p>Melissa Matthews, Suffolk Libraries art programme co-ordinator, said: “We’re delighted to host these events. Once Upon A Festival delivers high quality dynamic performances from a variety of companies and libraries are a great place to host exciting events like this in the community. We want to deliver more events like this as part of our arts programme to open up new and accessible arts experiences for children and young people.”</p>
+
+<p>We are hosting the following events:</p>
+
+{% assign festival-events = (site.events | where: "event-category", "once-upon-a-festival" | sort: "event-start-date" ) %}
+
+{% for event in festival-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> - {{ event.event-end-date | date: "%a %-d %b" }} <span>{{ event.event-start-time }}</span>
+
+        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+        </p>
+
+    </article>
+
+{% endfor %}

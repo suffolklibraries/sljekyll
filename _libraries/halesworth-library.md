@@ -26,7 +26,6 @@ branch-toilet: y
 branch-refreshments: £1 for a cup of coffee or tea
 branch-which: y
 branch-wifi: y
-branch-netloan: new
 branch-borrowing-ereaders-and-ipads: an iPad
 branch-colour-printing: available in A4 only
 branch-photocopying: available

@@ -23,7 +23,6 @@ branch-toilet: available
 branch-refreshments: cafe available on Thursdays and Saturdays 0930-1230
 branch-other-facilities: Stradbroke Post Office is in the library
 branch-wifi: y
-branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y

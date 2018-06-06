@@ -23,7 +23,6 @@ branch-parking: available
 branch-refreshments: self-service tea and coffee available
 branch-which: y
 branch-wifi: y
-branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y

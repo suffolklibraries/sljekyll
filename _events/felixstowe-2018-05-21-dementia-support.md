@@ -1,7 +1,7 @@
 ---
 id: felix-dementia
 name: "Alzheimer's Society drop-in"
-location: felix-library
+location: felixstowe-library
 location-text: Felixstowe Library
 event-start-date: 2018-05-21
 event-start-time: 1000

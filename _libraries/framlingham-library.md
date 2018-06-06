@@ -21,7 +21,6 @@ branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-coun
 branch-payments: cash, cheques and cards accepted
 branch-parking: available
 branch-wifi: y
-branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: available
 branch-room-hire: /libraries/room-hire/framlingham-library

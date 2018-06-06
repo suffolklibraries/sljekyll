@@ -11,7 +11,7 @@ branch-social-media: y
 branch-facebook: SLLRushmere
 branch-local-internet: y
 branch-news: '<ul>
-                <li>Rushmere Library @ the Pavilion opens on <strong>Wednesday 14 March 2018</strong>.</li>
+                <li>There will be <strong>no session on Wednesday 1 August</strong>.</li>
                 <li>Browse and borrow books, attend a range of activities and use IT facilities.</li>
                 <li>Part of the <a href="/local/">Suffolk Libraries Local</a> scheme, the sessions are funded by Ipswich Borough Council&#39;s North East Area Committee and Suffolk County Councillor Sandra Gage&#39;s Locality Budget.</li>
                 <li>Self-service available during activities.</li>
