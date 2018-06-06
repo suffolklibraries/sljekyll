@@ -18,7 +18,6 @@ branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-coun
 branch-parking: available at the rear of the complex
 branch-toilet: y
 branch-wifi: y
-branch-netloan: new
 branch-photocopying: available
 branch-colour-printing: available
 branch-scan-to-email: y

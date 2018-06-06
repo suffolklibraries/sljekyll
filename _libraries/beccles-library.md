@@ -24,7 +24,7 @@ branch-toilet: y
 branch-bookdrop: y
 branch-refreshments: Fairtrade coffee machine and snacks for sale
 branch-wifi: y
-branch-netloan: old
+branch-borrowing-ereaders-and-ipads: an iPad
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y

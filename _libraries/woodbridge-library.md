@@ -30,7 +30,6 @@ branch-display-space: Display boards and staffed table display available for hir
 branch-which: y
 branch-for-sale: Friends of Woodbridge Library cotton shopping bags (£3) and magnetic bookmarks (£1)
 branch-wifi: y
-branch-netloan: old
 branch-borrowing-ereaders-and-ipads: an eReader
 branch-colour-printing: available
 branch-photocopying: available

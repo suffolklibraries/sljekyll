@@ -22,7 +22,6 @@ branch-toilet: y
 branch-social-media: y
 branch-facebook: LavenhamLibrary
 branch-wifi: y
-branch-netloan: new
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y

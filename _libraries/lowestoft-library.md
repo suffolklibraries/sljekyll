@@ -28,7 +28,6 @@ branch-toilets: y
 branch-refreshments: café open 1000-1600 Tuesday-Friday
 branch-which: y
 branch-wifi: y
-branch-netloan: old
 branch-colour-printing: available
 branch-borrowing-microbits: y
 branch-photocopying: available

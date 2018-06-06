@@ -31,7 +31,6 @@ branch-other-facilities: '<ul>
 branch-display-space: Wall space available for exhibition hire
 branch-which: y
 branch-wifi: y
-branch-netloan: new
 branch-borrowing-microbits: y
 branch-colour-printing: available
 branch-photocopying: available in A3 and A4, black and white and colour

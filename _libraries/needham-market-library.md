@@ -19,7 +19,6 @@ branch-payments: cash, cheques and cards accepted
 branch-parking: available; one space reserved for disabled customers
 branch-bookdrop: y
 branch-wifi: y
-branch-netloan: new
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y

@@ -27,7 +27,6 @@ branch-refreshments: available in our café
 branch-display-space: two cork boards in cafe area for A3, A4 or A5 posters
 branch-which: y
 branch-wifi: y
-branch-netloan: old
 branch-borrowing-ereaders-and-ipads: an eReader
 branch-colour-printing: A4 or smaller available
 branch-photocopying: black and white, A4 or A3 available

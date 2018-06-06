@@ -22,7 +22,6 @@ branch-bookdrop: y
 branch-which: y
 branch-for-sale: I love Rosehill Library wristbands £1
 branch-wifi: y
-branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y

@@ -24,7 +24,6 @@ branch-parking: available
 branch-toilet: y
 branch-refreshments: available
 branch-wifi: y
-branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y

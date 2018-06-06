@@ -25,7 +25,6 @@ branch-parking: unavailable
 branch-bookdrop: y
 branch-which: y
 branch-wifi: y
-branch-netloan: old
 branch-borrowing-microbits: y
 branch-colour-printing: available
 branch-photocopying: available

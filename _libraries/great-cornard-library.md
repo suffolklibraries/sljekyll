@@ -21,7 +21,6 @@ branch-parking: available in school car park
 branch-bookdrop: y
 branch-refreshments: sometimes available at Sports Centre café next door
 branch-wifi: y
-branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y

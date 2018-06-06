@@ -22,7 +22,7 @@ branch-payments: cash, cheques and cards accepted
 branch-parking: car park available opposite the library
 branch-refreshments: coffee, tea and hot chocolate for sale
 branch-wifi: y
-branch-netloan: old
+branch-borrowing-ereaders-and-ipads: an iPad
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-usb: y

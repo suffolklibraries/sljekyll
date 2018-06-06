@@ -19,7 +19,6 @@ branch-parking: some spaces available outside
 branch-bookdrop: y
 branch-toilet: y
 branch-wifi: y
-branch-netloan: new
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y

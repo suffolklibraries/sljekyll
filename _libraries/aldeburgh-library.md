@@ -25,7 +25,6 @@ branch-bookdrop: y
 branch-toilet: y
 branch-other-facilities: "Memories Corner - memorabilia and books to encourage reminiscence and conversation and reference books for dementia carers."
 branch-wifi: y
-branch-netloan: new
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y

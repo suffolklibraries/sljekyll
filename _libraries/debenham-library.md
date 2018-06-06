@@ -20,7 +20,6 @@ branch-parking: disabled only during school hours, otherwise available to all
 branch-bookdrop: y
 branch-toilet: y
 branch-wifi: y
-branch-netloan: new
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y

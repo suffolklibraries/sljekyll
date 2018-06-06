@@ -21,7 +21,6 @@ branch-payments: cash, cheques and cards accepted
 branch-parking: free parking available on street
 branch-toilet: y
 branch-wifi: y
-branch-netloan: new
 branch-borrowing-ereaders-and-ipads: an iPad
 branch-colour-printing: available
 branch-photocopying: available

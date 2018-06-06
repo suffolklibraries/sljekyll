@@ -24,7 +24,6 @@ branch-bookdrop: y
 branch-toilet: y
 branch-display-space: Small, free local noticeboard available
 branch-wifi: y
-branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: available courtesy of the Community Trust
 branch-scan-to-email: y

@@ -19,7 +19,6 @@ branch-parking: free parking available
 branch-which: y
 branch-bookdrop: y
 branch-wifi: y
-branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: A4 available
 branch-scan-to-email: y

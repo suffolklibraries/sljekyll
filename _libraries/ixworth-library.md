@@ -22,7 +22,6 @@ branch-payments: cash, cheques and cards accepted
 branch-parking: available
 branch-toilet: y
 branch-wifi: y
-branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y

@@ -20,7 +20,6 @@ branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-coun
 branch-parking: available
 branch-bookdrop: y
 branch-wifi: y
-branch-netloan: new
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
