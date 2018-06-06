@@ -33,17 +33,21 @@
 
                   </header>
 
-                  {% if post.featured-image %}
+                  {% unless page.category == 'parents-carers-collection' %}
 
-                      <a href="{{ post.url }}" class="white"><img class="db mb2" src="{{ post.featured-image }}" alt="post.featured-alt"></a>
+                        {% if post.featured-image %}
 
-                      <p class="{% include /c/slot-excerpt.html %} dib-ns">{{ post.excerpt }}</p>
+                            <a href="{{ post.url }}" class="white"><img class="db mb2" src="{{ post.featured-image }}" alt="post.featured-alt"></a>
 
-                  {% else %}
+                            <p class="{% include /c/slot-excerpt.html %} dib-ns">{{ post.excerpt }}</p>
 
-                      <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
+                        {% else %}
 
-                  {% endif %}
+                            <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
+
+                        {% endif %}
+
+                  {% endunless %}
 
               </article>
 
