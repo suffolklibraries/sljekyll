@@ -61,7 +61,7 @@ See also:
 
 ## ADHD
 
-### [<cite>Putting on the Brakes: understanding and taking control of your ADD or ADHD</cite., by Patricia O. Quinn & Judith M. Stern](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1955228)
+### [<cite>Putting on the Brakes: understanding and taking control of your ADD or ADHD</cite>, by Patricia O. Quinn & Judith M. Stern](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1955228)
 
 > "Written by two nationally recognized ADHD experts, <cite>Putting on the Brakes</cite> is loaded with practical ways to improve organizational, focusing, studying, and homework skills and contains more strategies for making friends, controlling emotions, and being healthy. This book gives kids with ADHD the tools for success in and out of school and helps them to feel empowered to be the best they can be!"
 

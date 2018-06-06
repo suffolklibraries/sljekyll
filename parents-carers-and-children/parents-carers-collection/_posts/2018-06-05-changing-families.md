@@ -12,7 +12,7 @@ To reserve any of the following books for parents/carers and children dealing wi
 
 You can [sign up for a library card online](/help/joining-the-library/) for free. You can sign your child up for a library card at any age.
 
-## [<cite>My Family's Changing: a first look at family break-up</cute>, by Pat Thomas & Lesley Harker](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1630593)
+## [<cite>My Family's Changing: a first look at family break-up</cite>, by Pat Thomas & Lesley Harker](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1630593)
 
 > "Using beautiful but realistic artwork, Pat Thomas and Lesley Harker take the extremely sensitive and often painful subject of divorce and explain the facts, gently but seriously, for the very youngest of readers."
 
