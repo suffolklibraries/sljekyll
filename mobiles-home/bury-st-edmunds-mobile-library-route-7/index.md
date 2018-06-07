@@ -4,6 +4,12 @@ title: Bury St Edmunds Mobile Library Route 7
 breadcrumb: mobiles-home
 ---
 
+<div class="{% include /c/generic-panel.html %}">
+
+<p>Bury St Edmunds Mobile Library Route 7 will not be running this afternoon (Thursday 7 June) due to staff sickness.</p>
+
+</div>
+
 ## Contact us:
 
 Managers: Steve Adams and Kevin Lambert
