@@ -28,7 +28,7 @@ breadcrumb: help
       Overdue charge
     </th>
     <th>
-      Maximum overdue charge
+      Maximum overdue charge (per title)
     </th>
   </thead>
   <tbody>
