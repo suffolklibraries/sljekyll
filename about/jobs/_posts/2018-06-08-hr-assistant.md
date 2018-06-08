@@ -10,7 +10,7 @@ expiry-date: 2018-06-22
 
 [Download a role profile](/assets/pdf/hr-and-training-assistant-june-2018.pdf) (PDF).
 
-We're looking for a HR advisor based at Ipswich County Library to:
+We're looking for a HR assistant based at Ipswich County Library to:
 
 - Be a first line response for HR queries, including those to the HR inbox
 - Ensure HR files and the HR system are kept up to date
