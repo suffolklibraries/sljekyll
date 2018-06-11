@@ -1,6 +1,6 @@
 ---
 id: newm-top
-name: "Top Time: Talk the Caribbean by Sharon Taylor"
+name: "Top Time: Talk on the Caribbean by Sharon Taylor"
 location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2018-06-14
