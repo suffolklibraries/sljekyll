@@ -22,7 +22,7 @@ branch-parking: 8 free spaces available in front of the library
 branch-bookdrop: y
 branch-refreshments: £1 for a cup of coffee or tea
 branch-for-sale: 1st and 2nd class stamps, greetings cards, hand-made bookmarks, fudge, withdrawn adult fiction and withdrawn children's fiction
-branch-other-facilities: used postage stamp collection point in aid of St Elizabeth's Hospice
+branch-other-facilities: "used postage stamp collection point in aid of St Elizabeth's Hospice"
 branch-display-space: available for A4 or smaller posters
 branch-facebook: kesgravelibrary
 branch-wifi: y
