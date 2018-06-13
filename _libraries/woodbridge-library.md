@@ -38,4 +38,5 @@ branch-faxing: y
 branch-room-hire: /libraries/room-hire/woodbridge-library
 branch-other-facilities: 'Suffolk Coastal District Council customer services. Visit the <a href="http://www.eastsuffolk.gov.uk/contact-us/">Suffolk Coastal and Waveney Councils website</a> for opening times.'
 breadcrumb: y
+branch-news: The front entrance to the library will be unavailable on Thursday 14 June. Customers can use the staff and delivery entrances instead.
 ---

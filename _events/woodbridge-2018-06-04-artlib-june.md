@@ -4,7 +4,7 @@ name: 'ArtLib: "A Baker&apos;s Dozen - drawings and paintings by Michael Richard
 location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2018-06-04
-event-end-date: 2018-06-30
+event-end-date: 2018-07-31
 breadcrumb: y
 ---
 
