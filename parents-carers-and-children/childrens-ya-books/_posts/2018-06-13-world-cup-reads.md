@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Check out our champion children's football reads"
+title: "Check out our champion children's football reads for Russia 2018"
 date: 2018-06-13
 author: sophie-green
 category: childrens-ya-books
