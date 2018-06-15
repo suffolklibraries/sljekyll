@@ -17,6 +17,12 @@ breadcrumb: non-fiction
 
 Sean Spicer was Donald Trump’s press secretary during his first seven months in the White House. As the person who was put up to explain Trump’s policy decisions, he had a front row seat for the early months of the presidency. This is sure to be widely reviewed in the media.
 
+## [<cite>Calypso</cite>, by David Sedaris](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2404102)
+
+> "When he buys a beach house on the Carolina coast, David Sedaris envisions long, relaxing vacations spent playing board games and lounging in the sun with those he loves most. And life at the Sea Section, as he names the vacation home, is exactly as idyllic as he imagined, except for one tiny, vexing realisation: it's impossible to take a vacation from yourself.
+
+> "With <cite>Calypso</cite>, Sedaris sets his formidable powers of observation toward middle age and mortality."
+
 ## [<cite>Rather His Own Man: reliable memoirs</cite>, by Geoffrey Robertson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2405552)
 
 Geoffrey Robertson is far more entertaining than most lawyers tend to be. This memoir charts his progress from state schoolboy to the Old Bailey featuring the likes of Nigella Lawson, General Pinochet and Julian Assange.

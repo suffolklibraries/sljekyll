@@ -22,7 +22,7 @@ This is now a major film.
 
 ## [<cite>Feel Free: essays</cite>, by Zadie Smith](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2319522)
 
-> "In <cite>Feel Free</cite>, pop culture, high culture, social change, and political debate all get the Zadie Smith treatment, dissected with razor-sharp intellect, set brilliantly against the context of the utterly contemporary, and considered with a deep humanity and compassion"
+> "In <cite>Feel Free</cite>, pop culture, high culture, social change, and political debate all get the Zadie Smith treatment, dissected with razor-sharp intellect, set brilliantly against the context of the utterly contemporary, and considered with a deep humanity and compassion."
 
 <cite>Feel Free</cite> has been a Radio 4 Book of the Week. Smart, charming and witty, Zadie Smith’s topics include the closure of public libraries.
 
@@ -34,7 +34,7 @@ Drawing on 50 years of experience in medical practice, Le Fanu reveals the truth
 
 ## [<cite>The Good Son</cite>, by Yu-Jeong Jeong & Chi-Young Kim (trans.)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2360436)
 
-You-jeong Jeong is South Korea’s bestselling crime novelist. If you have tired of Scandi crime I would urge you to try this one. The premise is not the most original – a man wakes up covered in blood and with a dead body beside him - but there is enough here to interest the most jaded crime reader.
+Yu-Jeong Jeong is South Korea’s bestselling crime novelist. If you have tired of Scandi crime I would urge you to try this one. The premise is not the most original – a man wakes up covered in blood and with a dead body beside him - but there is enough here to interest the most jaded crime reader.
 
 ## [<cite>Frida Kahlo: making her self up</cite>, by Frida Kahlo, Claire Wilcox & Circe Henestrosa](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2400596)
 
