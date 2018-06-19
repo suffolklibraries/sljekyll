@@ -126,6 +126,10 @@ Some parents might remember the Animal Ark series from the 1990s. Nearly 25 year
 
 > "But the truth is, Ahmet really isn't very strange at all. He's a refugee who's run away from a war. A real one. With bombs and fires and bullies that hurt people. And the more I find out about him, the more I want to be his friend. That's where my best friends Josie, Michael and Tom come in. Because you see, together we've come up with a plan."
 
+### [<cite>A Goat Called Willow</cite>, by Helen Peters & Ellie Snowdon](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2400091)
+
+> "Jasmine has secretly rescued a baby goat. She's gorgeous but really naughty! Will her amazing antics persuade Jasmine's parents to let her stay, or will Jasmine have to say goodbye to Willow forever?"
+
 ### [<cite>Mystery of the Skull</cite>, by Pamela Butchart & Tony Ross](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2392796)
 
 Another re-imagining, this time of Enid Blyton's classic Secret Seven detective series, from the author of the Wigglesbottom Primary books.
