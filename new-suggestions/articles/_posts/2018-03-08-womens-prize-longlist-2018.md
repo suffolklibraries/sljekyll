@@ -76,7 +76,7 @@ The prestigious Women's Prize for Fiction celebrates the writing of women throug
 
 > "One simple act of kindness is about to shatter the walls Eleanor has built around herself. Now she must learn how to navigate the world that everyone else seems to take for granted - while searching for the courage to face the dark corners she's avoided all her life."
 
-## [<cite>When I Hit You: or, a portrait of the writers a young wife</cite>, by Meena Kandasamy](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2137352)
+## [<cite>When I Hit You: or, a portrait of the writer as a young wife</cite>, by Meena Kandasamy](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2137352)
 
 > “Seduced by politics and poetry, the unnamed narrator falls in love with a university professor and agrees to be his wife, but what for her is a contract of love is for him a contract of ownership.
 

@@ -4,7 +4,7 @@ title: Library and information advisor, Ipswich County Library
 category: jobs
 sidebar: about
 breadcrumb: jobs
-excerpt: "17.25 average a week, &pound;8.17 per hour, closing date Sun 24 June."
+excerpt: "17.25 average hours a week, &pound;8.17 per hour, closing date Sun 24 June."
 expiry-date: 2018-06-24
 ---
 

@@ -25,5 +25,8 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-room-hire: /libraries/room-hire/framlingham-library
 breadcrumb: y
-branch-other-facilities: 'Framlingham Town Council services Mon-Thu 10am-4pm and at other times by arrangement. See the <a class="blue" href="https://framlingham.com/framlingham-town-council/">Framlingham Town Council website</a>.'
+branch-other-facilities: '<ul>
+                          <li>Framlingham Town Council services Mon-Thu 10am-4pm and at other times by arrangement. See the <a class="blue" href="https://framlingham.com/framlingham-town-council/">Framlingham Town Council website</a>.</li>
+                          <li>Used postage stamp collection point in aid of St Elizabeth&apos;s Hospice</li>
+                          </ul>'
 ---

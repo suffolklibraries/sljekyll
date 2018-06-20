@@ -12,8 +12,21 @@ breadcrumb: y
 
 Celebrating its tenth year, Multicultural Day is now a firm fixture in Ipswich County Library’s calendar and sees thousands of people of different ages, cultures and backgrounds turn out to enjoy the celebration.
 
-Drop in for music, dance, children's crafts, stalls and more.
+## Programme
 
-It is more important than ever to celebrate the diversity and creativity in Ipswich and what better way to celebrate than with a free day of performances, activities, food and kids crafts.
+* 10:30am - 11am: Ipswich Piping Society
+* 11am - 11:30am: Westbourne Academy Samba Band
+* 11:30am - 12pm: Hara Tribal Bellydance
+* 12pm - 1pm: Steve & Joe - guitarists
+* 1pm - 1:30pm: Chantelle & Megan - singers
+* 1:30pm - 2pm: Terry Mackley - organ
+* 2pm - 2:30pm: Suffolk Soul Singers
+* 2:30pm - 3pm: Hara Tribal Bellydance
+* 3pm - 3:30pm: TBC
 
-Watch this space for further information on performers and activities.
+## Workshops
+
+* 10:30am - 3pm: Chinese calligraphy
+* 11am - 2pm: Painting workshop with Amy for all abilities, ages 16+
+
+There will also be drop-in children's crafts, information, craft and food stalls, and an exhibition of paintings by artist Alina.

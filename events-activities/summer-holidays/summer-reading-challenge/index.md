@@ -19,7 +19,7 @@ sidebar: summer-reading-challenge
 
 We're excited to announce this year's Summer Reading Challenge Theme: **Mischief Makers**, inspired by the much loved iconic children's comic the <cite>Beano</cite>, which celebrates its 80th anniversary this year.
 
-Children aged 4-11 are invited to sign up at their local library during the summer holidays to read six library books of their choice, collect special stickers and other incentives along the way and receive a certificate and other goodies at a special presentation in the autumn.
+The challenge runs from Saturday 21 July to Sunday 2 September, with some libraries holding special early registration events. Children aged 4-11 are invited to sign up at their local library to read six library books of their choice, collect special stickers and other incentives along the way and receive a certificate and other goodies at a special presentation in the autumn.
 
 <img src="/images/featured/featured-gnasher.png" alt="Gnasher" class="custom-br-50 mw-40 {% include /c/img-float-left.html %}" />
 

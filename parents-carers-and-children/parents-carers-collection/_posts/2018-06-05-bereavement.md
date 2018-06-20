@@ -12,6 +12,10 @@ To reserve any of the following books for parents/carers and children dealing wi
 
 You can [sign up for a library card online](/help/joining-the-library/) for free. You can sign your child up for a library card at any age.
 
+## [<cite>If All the World Were...</cite>, by Joseph Coelho & Allison Colpoys](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2378820)
+
+> "A moving, lyrical picture book about a young girl's love for her granddad and how she copes when he dies, written by poet and playwright Joseph Coelho. This powerful and ultimately uplifting text is the ideal way to introduce children to the concept of death and dying, particularly children who have lost a grandparent."
+
 ## [<cite>Badger's Parting Gifts</cite>, by Susan Varley](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1333585)
 
 > "Badger was dependable, and always ready to lend a helping paw. He was very old and wise, and knew that he would die soon. Susan Varley wrote this book to help children overcome the death of loved ones, and it has since become a children's classic."
@@ -85,10 +89,6 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 ## [<cite>Heaven</cite>, by Nicholas Allan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=232235)
 
 > "A touching tale of a child's final farewell to her opinionated dog who goes off to heaven."
-
-## [<cite>If All the World Were...</cite>, by Joseph Coelho & Allison Colpoys](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2378820)
-
-> "A moving, lyrical picture book about a young girl's love for her granddad and how she copes when he dies, written by poet and playwright Joseph Coelho. This powerful and ultimately uplifting text is the ideal way to introduce children to the concept of death and dying, particularly children who have lost a grandparent."
 
 ## [<cite>A Place in My Heart</cite>, by Annette Aubrey & Patrice Barton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1887843)
 
