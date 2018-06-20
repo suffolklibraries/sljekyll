@@ -3,7 +3,7 @@ id: eye-colouring
 name: "Colouring for all: mandalas"
 location: eye-library
 location-text: Eye Library
-event-start-date: 2018-07-01
+event-start-date: 2018-07-08
 event-start-time: 1030
 event-end-time: 1230
 breadcrumb: y
