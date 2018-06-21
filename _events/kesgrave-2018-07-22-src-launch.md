@@ -6,6 +6,7 @@ location-text: Kesgrave Library
 event-start-date: 2018-07-22
 event-start-time: 1000
 event-end-time: 1200
+event-category: summer-holidays
 breadcrumb: y
 ---
 
