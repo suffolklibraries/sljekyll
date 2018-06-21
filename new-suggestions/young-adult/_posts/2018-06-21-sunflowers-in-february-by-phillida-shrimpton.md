@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Sunflowers in February by Phillida Shrimpton"
+title: "Sunflowers in February by Phyllida Shrimpton"
 date: 2018-06-21
 author: emily-mitchell
 category: young-adult
