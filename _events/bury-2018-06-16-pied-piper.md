@@ -1,6 +1,6 @@
 ---
 id: bury-piper
-name: "Once Upon a Festival: <cite>Pied Piper</cite>"
+name: "Once Upon a Festival: <cite>Pied Piper</cite> - SOLD OUT"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
 event-start-date: 2018-06-16
@@ -10,6 +10,8 @@ event-ticket-price: free
 event-category: once-upon-a-festival
 breadcrumb: y
 ---
+
+**This event is now SOLD OUT**
 
 > "When the Pied Piper plays his flute the rats run, the greedy mayor rubs his hands and the children dance...
 

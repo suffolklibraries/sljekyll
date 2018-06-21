@@ -7,6 +7,12 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+	<!-- REMOVE FROM LIVE DEPLOY
+	     THIS STOPS GOOGLE INDEXING THE SITE
+	-->
+
+	<meta name="robots" content="noindex,nofollow">
+
 	<!--[if lt IE 9]>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
 	<![endif]-->
@@ -39,7 +45,7 @@
 
 <body class="custom-sans-serif lh-copy dark-gray bg-light-gray">
 
-	<ul class="dn">
+	<ul class="clip">
 
 		<li><a href="#content">Skip to content</a></li>
 		<li><a href="#footer-nav">Skip to navigation menu</a></li>
@@ -387,7 +393,13 @@
                     <h1 class="f6 f5-ns pa0 ma0 mb2 tracked ttu normal
 ">Privacy &amp; cookies</h1>
 
-                    <p class="ma0 light-gray">By using our site you agree to our use of cookies. Find out what cookies we use, how they affect you and how you can control them: <a href="/help/privacy-and-cookies/" class="aqua">our cookie policy</a>.</p>
+                    <ul class="list pa0 ma0">
+
+                          <li class="mb2 mb1-ns">By using our site you agree to our use of cookies. Find out what cookies we use, how they affect you and how you can control them: <a href="/help/privacy-and-cookies/" class="aqua">our cookie policy</a>.</li>
+
+                          <li class="mb2 mb1-ns"><a href="/about/jobs/privacy-notice-for-job-applicants/" class="aqua">Privacy notice for job applicants</a></li>
+
+                    </ul>
 
                 </section>
 

@@ -20,7 +20,7 @@ sidebar: children-parents
 
 <h2 id="preschool">Pre-school children</h2>
 
-All our libraries run activities for children of all ages, including Bookstart sessions such as baby bounce and tot rock.
+All our libraries run activities for children of all ages, including [Bookstart Baby Bounce and Tot Rock sessions](/parents-carers-and-children/bookstart-storytime-resources/).
 
 Babies and toddlers can have their own library card and borrow books for free.
 
@@ -32,6 +32,7 @@ Babies and toddlers can have their own library card and borrow books for free.
 * rhyme books
 * fairy tales
 * TV favourites
+* [Storysacks and BIG books](/parents-carers-and-children/bookstart-storytime-resources/)
 
 ### Helping your baby or toddler to enjoy reading and prepare for them for school
 
@@ -56,15 +57,19 @@ Your child will often want to borrow the same book several times. Choosing their
 
 <h2 id="primary">Primary school children</h2>
 
+[How our libraries help children with dyslexia and Irlen syndrome](/parents-carers-and-children/dyslexia-irlen/).
+
 Our libraries are family friendly places that offer free internet use and wifi.
 
-All our libraries run [activities for children](/events-activities/children/) of all ages, including craft sessions, story times and author visits. We also run the national [Summer Reading Challenge](http://summerreadingchallenge.org.uk/) every year.
+All our libraries run [activities for children](/events-activities/children/) of all ages, including craft sessions, story times and author visits. We also run the national [Summer Reading Challenge](/src/) every year.
 
 Children can have their own library card and borrow books for free.
 
 ### What we stock
 
 We arrange children’s books to match with the way your child learns.
+
+We also stock books optimised for children with [Dyslexia and Irlen Syndrome](/parents-carers-and-children/dyslexia-irlen/).
 
 <strong>We don’t stock reading schemes</strong>. Instead, we buy as wide a range of other books as we can that will support your child’s reading at school. These include:
 

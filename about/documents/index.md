@@ -25,7 +25,7 @@ Contact our marketing and communications manager for a full report:
 
 ## Board meeting minutes
 
-[Copies of our board meetings minutes](/about/documents/board-meeting-minutes)
+[Copies of our board meetings' minutes](/about/documents/board-meeting-minutes)
 
 ## AGM minutes
 
@@ -51,6 +51,10 @@ Contact our marketing and communications manager for a full report:
 ## Policy documents
 
 * [Volunteer Policy](/assets/pdf/volunteer-policy.pdf) (PDF)
+
+## Privacy notices
+
+* [Privacy notice for job applicants](/assets/pdf/privacy-notice-for-job-applicants.pdf) (PDF)
 
 ## 2011 Review of library services
 

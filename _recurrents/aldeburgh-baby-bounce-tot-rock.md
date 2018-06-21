@@ -7,4 +7,5 @@ recurrent-location: aldeburgh-library
 recurrent-location-display-name: Aldeburgh Library
 recurrent-location-display-url: /branches/aldeburgh-library/
 recurrent-category: children
+recurrent-bookstart: y
 ---

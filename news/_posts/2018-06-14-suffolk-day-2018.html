@@ -1,0 +1,40 @@
+---
+layout: sidebar-right
+title: "Celebrate Suffolk Day with Suffolk Libraries"
+date: 2018-06-14
+author: james-powell
+category: news
+excerpt: "It's Suffolk Day next week (Thursday 21 June). We've talked to some Suffolk authors about finding inspiration in the county and are holding events at some of our libraries. We'd also like to encourage writers to self-publish with our Suffolk Writes project."
+breadcrumb: news
+---
+
+<p>It's Suffolk Day next week (Thursday 21 June). We've talked to some Suffolk authors about finding inspiration in the county and are holding events at some of our libraries. We'd also like to encourage writers to self-publish with our Suffolk Writes project.</p>
+
+<p>We asked four local authors, Mary-Jane Riley, Ruth Dugdall, Francesca Armour-Chelu and Edward Wilson: <a href="/new-suggestions/articles/suffolk-day-2018/">What makes Suffolk such a great place to set a story?</a> Their answers captured the harsh beauty and remoteness of some parts of the county, from its isolated villages, vast fields and desolate marshes, to its wide skies, sandy beaches and cold sea. These create the perfect atmosphere for mysterious and magical yarns.</p>
+
+<p>You can meet Mary-Jane Riley and Edward Wilson at <a href="/slaughter/">Slaughter in Southwold</a> this weekend (16 - 17 June).</p>
+
+<p>If you've been inspired to write a novel, short story or poetry by living in Suffolk, why not self-publish your novel for Suffolk readers as an eBook with our <a href="/events-activities/suffolk-writes">Suffolk Writes</a> project? You retain all rights over your work while making it available to our borrowers with our <a href="/elibrary/overdrive/">OverDrive</a> eBook service.</p>
+
+<p>Some of our libraries are holding events for Suffolk Day on Thursday 21 June:</p>
+
+{% assign suffolk-day-events = (site.events | where: "event-category", "suffolk-day" | sort: "event-start-date" ) %}
+
+{% for event in suffolk-day-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> - {{ event.event-end-date | date: "%a %-d %b" }} <span>{{ event.event-start-time }}</span>
+
+        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+        </p>
+
+    </article>
+
+{% endfor %}
+
+<p>See also: <a href="/new-suggestions/articles/titles-for-suffolk-day/">Top titles to read for Suffolk Day 2017</a></p>

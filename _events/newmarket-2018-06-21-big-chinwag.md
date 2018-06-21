@@ -6,6 +6,7 @@ location-text: Newmarket Library
 event-start-date: 2018-06-21
 event-start-time: 0830
 event-end-time: 1700
+event-category: suffolk-day
 breadcrumb: y
 ---
 

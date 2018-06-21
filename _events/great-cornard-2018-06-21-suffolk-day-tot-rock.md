@@ -6,6 +6,7 @@ location-text: Great Cornard Library
 event-start-date: 2018-06-21
 event-start-time: 1800
 event-end-time: 1900
+event-category: suffolk-day
 breadcrumb: y
 ---
 
