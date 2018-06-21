@@ -7,4 +7,5 @@ recurrent-location: capel-st-mary-library
 recurrent-location-display-name: Capel St Mary Library
 recurrent-location-display-url: /branches/capel-st-mary-library/
 recurrent-category: children
+recurrent-bookstart: y
 ---

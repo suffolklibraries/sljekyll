@@ -7,4 +7,5 @@ recurrent-location: rosehill-library
 recurrent-location-display-name: Rosehill Library
 recurrent-location-display-url: /branches/rosehill-library/
 recurrent-category: children
+recurrent-bookstart: y
 ---
