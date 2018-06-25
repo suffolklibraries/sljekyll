@@ -42,8 +42,6 @@ In 2004, following a long career in IT, she moved with her husband from London t
 
 She is a feoffee (trustee) of Bungay Town Trust, a charitable trust which owns and manages fourteen almshouses in the town. As a trustee of The Honeypot Company, which administers the existing community centre, she has been helping to spearhead a project seeking to build a new community centre for the town. She is also a governor at Bungay High School.
 
-<img src="/images/board/jonathan-ogden-200.jpg" alt="Jonathan Ogden" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
-
 ### Colin Rockall
 
 <img src="/images/board/colin-rockall-200.jpg" alt="Colin Rockall" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
