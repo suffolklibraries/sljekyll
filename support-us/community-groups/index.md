@@ -10,7 +10,20 @@ Suffolk Libraries is a membership organisation made up of 44 member groups, know
 
 You can get involved with your local community group in various ways, including supporting the library with an annual subscription, voting on the group's leadership and goals and helping to recruit new members, raise funds and organise and run events.
 
-RECENT ACHIEVEMENTS AND PICTURES OR LINK TO LEAFLET HERE
+## Recent community group achievements
+
+* [The Friends of Bungay Community Library are part-funding the library's refurbishment in July 2018](/news/bungay-library-refurbishment/)
+<img src="/images/featured/featured-halesworth-refurbishment.jpg" alt="Children in Halesworth Library's refurbished children's area" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+* [The Beccles Library Community Trust funded the library's refurbishment in June 2018](/news/beccles-library-refurbishment/)
+* [The Friends of Sudbury Library helped to launch a fundraising children's writing competition in autumn 2017](/news/sudbury-story-compilation/)
+* The Friends of Halesworth Library funded a new look children's library area in 2017 (pictured)
+* [The Friends of Newmarket Library refurbished the library and won funding from the Racing Foundation to improve library's Racing Collection in late 2016](/news/funding-boost-for-newmarket-library-racing-collection/)
+<img src="/images/featured/featured-primo-nelson.jpg" alt="Primo Nelson" class="custom-br-50 mw-40 {% include /c/img-float-left.html %}" />
+* The Friends of Ipswich County Library helped to run several major events including a sold out live music gig with funk band Primo Nelson (pictured).
+
+[See what all our community groups achieved in 2016-17 &rarr;](/assets/pdf/community-group-activities-2016-17.pdf) (PDF)
+
+## Join a community group
 
 You can find out more about joining your local library's community group by visiting their page below or [contacting the library](/libraries).
 
