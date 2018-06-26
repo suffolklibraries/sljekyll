@@ -1,6 +1,6 @@
 ---
 id: kes-src
-name: "Football crafts and Panini sticker swap"
+name: "Crab crafts and Panini sticker swap"
 location: kesgrave-library
 location-text: Kesgrave Library
 event-start-date: 2018-07-08
@@ -9,4 +9,4 @@ event-end-time: 1200
 breadcrumb: y
 ---
 
-Join us for some football-themed crafts and swap your spare Panini Fifa World Cup Russia 2018 stickers.
+Help us make a crab collage using muffin cases and swap your spare Panini Fifa World Cup Russia 2018 stickers.
