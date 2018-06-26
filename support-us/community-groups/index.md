@@ -6,13 +6,13 @@ breadcrumb: support-us
 
 <h1 class="{% include /c/page-title.html %}">{{ page.title }}</h1>
 
-Suffolk Libraries is a membership organisation made up of 44 member groups, known as community or friends groups. These groups provide support and ideas for the development of their local library. They also help to raise funds for improvements or new equipment.
+Suffolk Libraries is a membership organisation made up of 44 member groups, known as community or friends groups. These groups provide support and ideas for the development of their local library. They also help to raise funds for library improvements.
 
 You can get involved with your local community group in various ways, including supporting the library with an annual subscription, voting on the group's leadership and goals and helping to recruit new members, raise funds and organise and run events.
 
 ## Recent community group achievements
 
-Many community groups have helped to support or fund significant refurbishments and improvements and buy new equipment for their library. Some recent examples are listed below.
+Many community groups have helped to support or fund refurbishments or buy new equipment for their library. Some recent examples are listed below.
 
 * [The Friends of Bungay Community Library are part-funding the library's refurbishment in July 2018](/news/bungay-library-refurbishment/)
 <img src="/images/featured/featured-halesworth-refurbishment.jpg" alt="Children in Halesworth Library's refurbished children's area" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
