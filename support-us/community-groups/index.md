@@ -12,14 +12,16 @@ You can get involved with your local community group in various ways, including 
 
 ## Recent community group achievements
 
+Many community groups have helped to support or fund significant refurbishments and improvements and buy new equipment for their library. Some recent examples are listed below.
+
 * [The Friends of Bungay Community Library are part-funding the library's refurbishment in July 2018](/news/bungay-library-refurbishment/)
 <img src="/images/featured/featured-halesworth-refurbishment.jpg" alt="Children in Halesworth Library's refurbished children's area" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
 * [The Beccles Library Community Trust funded the library's refurbishment in June 2018](/news/beccles-library-refurbishment/)
 * [The Friends of Sudbury Library helped to launch a fundraising children's writing competition in autumn 2017](/news/sudbury-story-compilation/)
-* The Friends of Halesworth Library funded a new look children's library area in 2017 (pictured)
+* The Friends of Halesworth Library funded a new look children's library area in July 2017 (pictured)
 * [The Friends of Newmarket Library refurbished the library and won funding from the Racing Foundation to improve library's Racing Collection in late 2016](/news/funding-boost-for-newmarket-library-racing-collection/)
-<img src="/images/featured/featured-primo-nelson.jpg" alt="Primo Nelson" class="custom-br-50 mw-40 {% include /c/img-float-left.html %}" />
-* The Friends of Ipswich County Library helped to run several major events including a sold out live music gig with funk band Primo Nelson (pictured).
+<img src="/images/featured/featured-long-melford-refurbishment.jpg" alt="Improved layout and decoration at Long Melford Library" class="custom-br-50 mw-40 {% include /c/img-float-left.html %}" />
+* The Friends of Long Melford Library contributed to and supported a significant library refurbishment along with the United Reformed Church and The Hamilton Charity in March 2017 (pictured).
 
 [See what all our community groups achieved in 2016-17 &rarr;](/assets/pdf/community-group-activities-2016-17.pdf) (PDF)
 
