@@ -226,25 +226,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1445 &#8211; 1515
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="bottom" width="44">
-      1L
-    </td>
-
-    <td valign="bottom" width="139">
-      Risby
-    </td>
-
-    <td valign="bottom" width="176">
-      Hall Lane
-    </td>
-
-    <td valign="bottom" width="97">
-      1520 &#8211; 1545
+      1445 &#8211; 1530
     </td>
   </tr>
 </table>
