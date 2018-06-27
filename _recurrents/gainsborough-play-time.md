@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Tuesday Play Time"
-recurrent-description: "Social time for parents and small children. Toys, colouring, storytime and trained volunteers available to help parents with reading if needed."
+recurrent-description: "Social time for parents and small children. Toys and colouring, plus story and rhyme time from 11-11:30am."
 recurrent-day: Tuesday
 recurrent-times: 0930-1130
 recurrent-location: gainsborough-community-library
