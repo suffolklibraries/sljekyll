@@ -20,7 +20,7 @@ Eligibility criteria:
 * No current diagnoses of or medication for:
     * Heart disease
     * High blood pressure
-    * Artial fibrillation
+    * Atrial fibrillation
     * High cholesterol
     * Diabetes
     * Stroke or mini stroke

@@ -3,7 +3,7 @@ id: kess-agm
 name: "Quiz night with fish & chips and dessert"
 location: kessingland-library
 location-text: Kessingland Library
-event-start-date: 2018-06-26
+event-start-date: 2018-06-22
 event-doors-open: 1900
 event-start-time: 1930
 event-ticket-price: 6

@@ -1,6 +1,6 @@
 ---
 id: fex-fbf
-name: "Felixstowe Book Festival: Kev F's Comic Art Masterclass - morning session"
+name: "Felixstowe Book Festival: Kev F's Comic Art Masterclass - morning session - SOLD OUT"
 location: felixstowe-library
 location-text: Felixstowe Library
 event-start-date: 2018-06-30
@@ -11,6 +11,8 @@ breadcrumb: y
 event-category: fbf
 event-ticket-url: http://felixstowe-book-festival.bitballoon.com/event?event=150535
 ---
+
+**This event is now SOLD OUT**
 
 Back by popular demand!
 

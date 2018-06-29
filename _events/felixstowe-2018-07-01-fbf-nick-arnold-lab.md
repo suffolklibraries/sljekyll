@@ -1,6 +1,6 @@
 ---
 id: fex-fbf
-name: "Felixstowe Book Festival: Nick Arnold's <cite>Horrible Science</cite> Lab for ages 6-13"
+name: "Felixstowe Book Festival: Nick Arnold's <cite>Horrible Science</cite> Lab for ages 6-13 - SOLD OUT"
 location: felixstowe-library
 location-text: Felixstowe Library
 event-start-date: 2018-07-01
@@ -11,6 +11,8 @@ breadcrumb: y
 event-category: fbf
 event-ticket-url: http://felixstowe-book-festival.bitballoon.com/event?event=150336
 ---
+
+**This event is now SOLD OUT**
 
 Calling all Horrible Scientists – here’s a rare chance to learn some gross funny Horrible Science experiments from the actual creator of the <cite>Horrible Science</cite> series – Nick Arnold!
 
