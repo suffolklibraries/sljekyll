@@ -9,7 +9,7 @@ event-end-time: 1630
 breadcrumb: y
 ---
 
-**Please note this library is for Friends of Halesworth County Library only.** To find out how to join, see the [Friends of Halesworth County Library page](/about/member-organisations/friends-of-halesworth-county-library/).
+**Please note this event is for Friends of Halesworth County Library only.** To find out how to join, see the [Friends of Halesworth County Library page](/about/member-organisations/friends-of-halesworth-county-library/).
 
 Enjoy afternoon tea with Suffolk author and stand-up comedian Gavin Milnthorpe, who recently published [<cite>Second Hand Scott</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2331637):
 
