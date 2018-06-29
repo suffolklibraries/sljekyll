@@ -7,4 +7,5 @@ recurrent-location: elmswell-library
 recurrent-location-display-name: Elmswell Library
 recurrent-location-display-url: /branches/elmswell-library/
 recurrent-category: children
+recurrent-bookstart: y
 ---

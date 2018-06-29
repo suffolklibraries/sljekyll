@@ -4,6 +4,9 @@ title: Dyslexia and Irlen syndrome
 breadcrumb: children-parents
 sidebar: children-parents
 ---
+
+See also: [Books for parents/carers and children dealing with dyslexia](/parents-carers-children/child-family-problems/dyslexia/)
+
 ## Table of contents
 
 1. What is dyslexia?
