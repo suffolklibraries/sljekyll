@@ -49,6 +49,12 @@
 
                   {% endunless %}
 
+                  {% if page.category == 'child-family-problems' %}
+
+                    <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
+
+                  {% endif %}
+
               </article>
 
           {% endif %}
@@ -117,6 +123,12 @@
 
                 {% endunless %}
 
+                {% if page.category == 'child-family-problems' %}
+
+                  <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
+
+                {% endif %}
+
               </article>
 
           {% endif %}
@@ -174,6 +186,12 @@
                       {% endif %}
 
                 {% endunless %}
+
+                {% if page.category == 'child-family-problems' %}
+
+                  <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
+
+                {% endif %}
 
               </article>
 
@@ -242,6 +260,12 @@
                       {% endif %}
 
                 {% endunless %}
+
+                {% if page.category == 'child-family-problems' %}
+
+                  <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
+
+                {% endif %}
 
               </article>
 
