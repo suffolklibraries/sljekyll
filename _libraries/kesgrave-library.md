@@ -2,7 +2,7 @@
 branch-unique-id: kesgrave-library
 branch-name: Kesgrave Library
 branch-image: /images/branches/kesgrave-library.jpg
-branch-monday-hours: Closed
+branch-monday-hours: 0900 - 1200
 branch-tuesday-hours:	0900 – 1200, 1430 – 1700
 branch-wednesday-hours: 1430 – 1800
 branch-thursday-hours: 1430 – 2000
