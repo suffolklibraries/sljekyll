@@ -7,4 +7,5 @@ recurrent-location: bungay-library
 recurrent-location-display-name: Bungay Library
 recurrent-location-display-url: /branches/bungay-library/
 recurrent-category: children
+recurrent-bookstart: y
 ---

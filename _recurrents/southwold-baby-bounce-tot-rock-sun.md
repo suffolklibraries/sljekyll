@@ -7,4 +7,5 @@ recurrent-location: southwold-library
 recurrent-location-display-name: Southwold Library
 recurrent-location-display-url: /branches/southwold-library/
 recurrent-category: children
+recurrent-bookstart: y
 ---

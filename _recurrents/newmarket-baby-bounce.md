@@ -7,4 +7,5 @@ recurrent-location: newmarket-library
 recurrent-location-display-name: Newmarket Library
 recurrent-location-display-url: /branches/newmarket-library/
 recurrent-category: children
+recurrent-bookstart: y
 ---
