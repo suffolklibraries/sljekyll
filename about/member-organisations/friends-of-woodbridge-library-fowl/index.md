@@ -4,6 +4,7 @@ title: Friends of Woodbridge Library (FOWL)
 sidebar: about
 breadcrumb: member-organisations
 ---
+
 [Join FOWL &rarr;](/about/member-organisations/friends-of-woodbridge-library-fowl/join-the-friends-of-woodbridge-library-fowl)
 
 ## Contact us
@@ -13,7 +14,8 @@ breadcrumb: member-organisations
 
 ## Downloads
 
-* [Constitution](/assets/pdf/fowl-constitution-as-of-april-2014.pdf) (PDF)
+* [FOWL Constitution](/assets/pdf/fowl-constitution-apr-2018.pdf) (PDF)
+* [FOWL GDPR policy](/assets/pdf/fowl-gdpr-policy-apr-2018.pdf) (PDF)
 
 ## Who are we?
 
@@ -37,9 +39,9 @@ We promote interesting events, raise funds for library programme enhancement an
 
 Anyone aged 16 or older who has a Suffolk Libraries card and is a user of the Woodbridge Library is eligible to join FOWL. There is no membership fee or dues to pay.
 
-## How to join the Friends of Woodbridge Library
+## How do I join?
 
-Download a [membership application form](/assets/doc/fowl-application-form.doc) (Word doc, 1.9MB)  and email it to friendsofwoodbridgelibrary@gmail.com or pop into the library and ask for one.
+Complete the [FOWL membership form](/about/member-organisations/friends-of-woodbridge-library-fowl/join-the-friends-of-woodbridge-library-fowl) and we'll get back to you as soon as possible.
 
 ## How are we governed?
 
@@ -49,14 +51,16 @@ We have a Committee of Trustees elected from the membership at FOWL’s annual g
 
 ### FOWL Committee members
 
-* Richard Bull (chair)
+* Doreen Bartlett
+* Richard Bull
 * Tim Cornford
+* Anne Gartley (treasurer)
 * Yvonne Holdcroft
 * Jane Lynam
 * Tracy Rogers (secretary)
 * Helen Scrivener
-* Henning Sieverts (treasurer)
-* Kay Yule
+* Henning Sieverts (vice-chair)
+* Kay Yule (chair)
 
 ## The back story
 
@@ -68,13 +72,13 @@ The goal was to save all of the libraries from closure while reducing costs by 2
 
 We work closely with library staff to help to organise and run a very wide range of community activities. So far these have included:
 
-* Table top sales
-* Lunch time concerts
-* Jazz evening
+* Tabletop sales
+* Lunchtime concerts
+* Jazz evenings
 * Poetry readings
 * Craft fairs
 * Art classes
-* Summer Reading Game presentation
+* Summer Reading Challenge presentation
 * Writing groups
 
 ## What we don’t do!
@@ -84,23 +88,21 @@ Our role is to be helpful in many ways, but we are not the library’s governing
 Suffolk Libraries is governed by a board of directors elected at its AGM, and FOWL has a voting representative at all general meetings.
 
 ## What has been achieved so far?
+
 Since its formation in the spring of 2013, FOWL has sponsored or organised dozens of projects and programmes at the library.
 
-Some of these have been fundraisers; others have been educational and recreational events. The library’s outreach has been strengthened, and library staff have welcomed the support and assistance of FOWL members and volunteers in many areas.
+Some of these have been fundraisers, others have been educational and recreational events. The library’s outreach has been strengthened, and library staff have welcomed the support and assistance of FOWL members and volunteers in many areas.
 
 ## Where does the money go?
 
-FOWL is organised as a small charity. All money donated to FOWL and raised through its fundraising efforts is held in an account at Lloyd’s Bank in Woodbridge.
+FOWL is a Charitable Incorporated Organisation. All money donated to FOWL and raised through its fundraising efforts is held in an account at Lloyd’s Bank in Woodbridge.
 
-During the 2015-16 financial year our income totalled £3,474 and we spent a little over £3000, more than half of which was spent on equipment to enhance the services provided by the Library. This included a coffee machine and a water cooler. We have also been donated a piano which has made an important contribution to lunchtime music events.
+During the 2017-18 financial year our income totalled £7,163.46 and we spent £5,323.86, largely on equipment to enhance the services provided by the library. This included office equipment, expanded storage and moveable shelving for the children's library to allow more room for events.
 
-## Our Library and the Future
+## Our library and the future
 
 The long-term future of the library and the other public libraries in Suffolk appears to be secure under the ownership and leadership of Suffolk Libraries IPS Ltd.
 
-During the early part of 2016 the library and Council service desks were re-sited and enlarged to enable Suffolk Coastal District Council to provide a full customer service in the town centre as well as its tourist information function.
-
-<img src="/images/article/fowl-richard-bull.jpg" alt="Customer service opening at Woodbridge Library" />
-*FOWL chairman, Richard Bull, speaking at the opening of the new service arrangements*
+During the early part of 2016 the library and council service desks were re-sited and enlarged to enable Suffolk Coastal District Council to provide a full customer service in the town centre as well as its tourist information function.
 
 What the Friends of Woodbridge Library can do, and are helping to do on behalf of the larger Woodbridge community, is to strengthen the library’s offerings, to increase the appreciation and use of the library, and to demonstrate that public libraries are a vital public service that merits continued public finance.
