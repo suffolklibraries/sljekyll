@@ -11,6 +11,7 @@ You can download copies of our board meeting minutes. We redact information from
 
 ## 2018
 
+* [Board meeting minutes 2018-04-24](/assets/pdf/board-meeting-minutes-2018-04-24.pdf)
 * [Board meeting minutes 2018-02-22](/assets/pdf/board-meeting-minutes-2018-02-22.pdf)
 
 ## 2017
