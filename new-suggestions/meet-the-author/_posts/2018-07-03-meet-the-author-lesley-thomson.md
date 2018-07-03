@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: 'Meet the Author: Lesley Thomsom'
+title: 'Meet the Author: Lesley Thomson'
 date: 2018-07-03
 author: brandon-king
 category: meet-the-author
