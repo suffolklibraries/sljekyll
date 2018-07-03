@@ -50,6 +50,7 @@ Contact our marketing and communications manager for a full report:
 
 ## Policy documents
 
+* [Safeguarding Children and Vulnerable Adults Policy](/assets/pdf/safeguarding-policy-jul-2018.pdf) (PDF)
 * [Volunteer Policy](/assets/pdf/volunteer-policy.pdf) (PDF)
 
 ## Privacy notices
