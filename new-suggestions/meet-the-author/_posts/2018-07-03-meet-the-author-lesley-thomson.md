@@ -16,11 +16,11 @@ Lesley Thomson is a British crime writer born in London. Her first novel, [<cite
 
 ## 1. Who were your literary influences and heroes as you were growing up?
 
-E. Nesbit’s Bastable stories and [<cite>The Railway Children</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1931504). Like C.S. Lewis’s Narnia chronicles, they are as vivid to me as my own memories. Joan Aitkin wrote magical books, Miss Slighcarp in [<cite>The Wolves of Willoughby Chase</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1831123) rivals Narnia’s White Witch for cold fear.
+E. Nesbit’s Bastable stories and [<cite>The Railway Children</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1931504). Like C.S. Lewis’s Narnia chronicles, they are as vivid to me as my own memories. Joan Aitkin wrote magical books, Miss Slighcarp, the wicked governess in [<cite>The Wolves of Willoughby Chase</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1831123) rivals Narnia’s White Witch for cold fear.
 
 The cobbled pavements glistening in lamplight and dark River Thames in my novels owe much to Dickens and Wilkie Collins. [<cite>The Woman in White</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=524917) scared me witless. Count Fosco (those white mice inside his waistcoat) is chilling. If you saw the TV adaptation, I recommend you borrow the book.
 
-Barbara Vine (Ruth Rendell of course was a Suffolk resident) inspired me to become a crime writer. I learnt that the genre embraced not only whodunnits, but whydunnits; [<cite>A Fatal Inversion</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=47421) is a fab read. Sue Grafton inspired me to write a detective series. I could go on!
+Barbara Vine (Ruth Rendell of course was a Suffolk resident) inspired me to become a crime writer. I learnt that the genre embraced not only whodunnits, but *whydunnits*; [<cite>A Fatal Inversion</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=47421) is a fab read. Sue Grafton inspired me to write a detective series. I could go on!
 
 ## 2. When she is not solving crimes, Stella Darnell is a house cleaner. What made you choose cleaning as a job for her?
 
@@ -56,9 +56,9 @@ When I was researching <cite>The Playground Murders</cite>, I read that the lumb
 
 I’ve just finished Agatha Christie’s [<cite>They Do It with Mirrors</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=54770). The Queen of Crime knows how to plot. Respect!
 
-I’m halfway through <cite>Rex v Bywaters and Thompson</cite>, a fascinating account of the passion between Edith Thompson and Freddy Bywaters, executed in 1923 for the murder of Edith’s husband Percy. I’m also reading a biography of the 1940s/50s pathologist Bernard Spilsbury (he gave evidence in the Bywaters-Thompson trial).
+I’m halfway through <cite>Rex v Edith Thompson</cite>, a fascinating account of the passion between Edith Thompson and Freddy Bywaters, executed in 1923 for the murder of Edith’s husband Percy. I’m also reading a biography of the 1940s/50s pathologist Bernard Spilsbury (he gave evidence in the Bywaters-Thompson trial).
 
-I’m enjoying Gore Vidal’s Narratives of Empire series, a great way to understand US history. I’ve started an early copy of Elly Griffith’s <cite>The Stranger Diaries</cite>, and am gripped!
+I’m enjoying Gore Vidal’s Narratives of Empire series, a great way to understand US history. I’ve started an early copy of Elly Griffiths' <cite>The Stranger Diaries</cite>, and am gripped!
 
 Next it’s [<cite>The Dark Isle</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2157825), third in Clare Carson’s fab Sam Coyle crime series. In the car, I’m listening to Kathy Reichs’ [<cite>Fatal Voyage</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=426895), borrowed from my local library.
 
@@ -72,6 +72,6 @@ It’s so interesting to hear readers’ impressions of my novels. I’d love to
 
 ## 8. Can you tell us one thing your readers may not know about you?
 
-I wonder how many of you know that I’m a fan of scriptwriter Amy Sherman Palladino. She wrote <cite>Gilmore Girls</cite> and The Amazing Mrs Maisel. If you haven’t seen these shows, do check them out, you’re in for a treat. I imagine living in Stars Hollow with Lorelei Gilmore and Luke Danes. The writing is funny, moving, disturbing and sad, like the best crime novels it covers the gamut of life.
+I wonder how many of you know that I’m a fan of scriptwriter Amy Sherman Palladino. She wrote <cite>Gilmore Girls</cite> and <cite>The Amazing Mrs Maisel</cite>. If you haven’t seen these shows, do check them out, you’re in for a treat. I imagine living in Stars Hollow with Lorelei Gilmore and Luke Danes. The writing is funny, moving, disturbing and sad, like the best crime novels it covers the gamut of life.
 
 When I’m stuck on a chapter, I ask Alfred, my raggle-taggle poodle, for advice. He gave me the idea for [<cite>The Dog Walker</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2200270), so he’s worth listening to.
