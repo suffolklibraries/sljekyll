@@ -15,4 +15,4 @@ Hear Jackie Carreira talk about her debut novel, [<cite>Sleeping Through War</ci
 
 > "Against this volatile background, three women strive to keep everything together. Rose must keep her dignity and compassion as a West Indian nurse in East London. Amalia must keep hoping that her son can escape their seedy life in Lisbon. And Mrs Johnson in Washington DC must keep writing to her son in Vietnam. She has no-one else to talk to."
 
-There will also be an opportunity to buy a signed copy of the book.
+There will also be an opportunity to ask questions and buy a signed copy of the book.
