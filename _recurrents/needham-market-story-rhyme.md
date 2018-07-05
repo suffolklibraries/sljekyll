@@ -7,4 +7,5 @@ recurrent-location: needham-market-library
 recurrent-location-display-name: Needham Market Library
 recurrent-location-display-url: /branches/needham-market-library/
 recurrent-category: children
+recurrent-bookstart: y
 ---

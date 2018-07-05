@@ -6,4 +6,5 @@ recurrent-location: woodbridge-library
 recurrent-location-display-name: Woodbridge Library
 recurrent-location-display-url: /branches/woodbridge-library/
 recurrent-category: children
+recurrent-bookstart: y
 ---

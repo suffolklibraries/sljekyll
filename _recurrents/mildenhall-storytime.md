@@ -7,4 +7,5 @@ recurrent-location: mildenhall-library
 recurrent-location-display-name: Mildenhall Library
 recurrent-location-display-url: /branches/mildenhall-library/
 recurrent-category: children
+recurrent-bookstart: y
 ---
