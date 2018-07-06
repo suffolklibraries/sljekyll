@@ -3,7 +3,7 @@ id: new-dogs
 name: "Storytelling and craft activities for under 12s from Dogs Trust"
 location: newmarket-library
 location-text: Newmarket Library
-event-start-date: 2018-07-12
+event-start-date: 2018-07-27
 event-start-time: 1030
 event-end-time: 1200
 event-ticket-price: free
