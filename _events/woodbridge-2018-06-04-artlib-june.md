@@ -8,7 +8,7 @@ event-end-date: 2018-07-31
 breadcrumb: y
 ---
 
-Drop in to the library to view collection of drawings and paintings on a range of themes, from Martha Stewart’s peppermint fudge to the beauty of the bergamot, from Toscanini as an Englishman to the joy of swedes.
+Drop in to the library to view a collection of drawings and paintings on a range of themes, from Martha Stewart’s peppermint fudge to the beauty of the bergamot, from Toscanini as an Englishman to the joy of swedes.
 
 Artist Michael Richards has always drawn, but over the past two decades, art has become a huge part of his life and he has attended workshops and courses by Annie Rice, Ed Cooper, Annabel Mednick, Helen Gilbart and Emily Ball. He works full-time for a Suffolk book publisher and paints and draws during evenings and weekends:
 
