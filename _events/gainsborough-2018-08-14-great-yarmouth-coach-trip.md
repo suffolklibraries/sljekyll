@@ -6,6 +6,7 @@ location-text: Gainsborough Community Library
 event-start-date: 2018-08-14
 event-start-time: 0900
 event-ticket-price: 10 for a family of 4 (max 2 adults) or £3 per person
+event-category: summer-holidays
 breadcrumb: y
 ---
 
