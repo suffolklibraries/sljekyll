@@ -12,7 +12,7 @@ To reserve any of the following books for children dealing with sibling rivalry 
 
 You can [sign up for a library card online](/help/joining-the-library/) for free. You can sign your child up for a library card at any age.
 
-See also: [Books for children dealing with a new baby](/parents-carers-and-children/childrens-health-wellbeing/new-baby/)
+See also: [Books for children dealing with a new baby](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/new-baby/)
 
 ## [<cite>Stardust</cite>, by Jeanne Willis & Briony May Smith](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2206950)
 

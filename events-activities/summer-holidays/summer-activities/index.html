@@ -1,18 +1,33 @@
 ---
-layout: default
+layout: full-width
 title: Summer holiday activities
 breadcrumb: summer
+jquery: true
+dynatable: true
 ---
 
-<h1 class="{% include /c/page-title.html %} tc">Summer holiday activities</h1>
+<p>We've got lots of children's events taking place across our libraries over the summer holidays. <a href="/libraries/">Contact your local library</a> to find out about any additional events they have planned.</p>
 
-<p>You can also find events on <a class="blue" href="/libraries/">individual libraries' pages</a> or check out our <a class="blue" href="/events-activities/presents/">Suffolk Libraries Presents</a> screenings.</p>
+<p>We're also running the <a href="/src/">Summer Reading Challenge</a> for 4-11 year-olds and <a href="/events-activities/summer-holidays/imagination/">ImagiNation</a> for 10-18 year-olds at all of our libraries.</p>
 
-<div class="custom-flex-container">
+{% include dynatable-library-list.html %}
 
-    {% assign summer_holiday_events = (site.events | where: "event-category", "summer-holidays" | sort: "event-start-date" ) %}
+<table id="search-table" class="pure-table pure-table-bordered">
 
-    {% for event in summer_holiday_events %}
+    <thead>
+        <tr>
+            <th data-dynatable-column="event">Event</th>
+            <th data-dynatable-column="library">Library</th>
+            <th data-dynatable-column="date">Date</th>
+            <th data-dynatable-column="time">Time</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+    {% assign summer-holiday-events = (site.events | where: "event-category", "summer-holidays" | sort: 'event-start-date'%}
+
+    {% for event in summer-holiday-events %}
 
     {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
 
@@ -32,16 +47,32 @@ breadcrumb: summer
 
     {% if now-unix <= event-time %}
 
-        <article class="custom-flex-row pv2 bt b--light-gray">
+        <tr>
 
-        <p class ="f5 ma0">{{ event.event-start-date | date: "%a %-d %b" }}, {{ event.event-start-time }}<br><a class="blue" href="/libraries/{{ event.location}}"><strong>{{ event.location-text}}</a></strong><br><a class="white custom-no-underline" href="{{ event.url }}"><img src="{{ event.event-image }}" class="custom-constrain-img" alt="{{ event.event-image-alt }}"></a></p>
+            <td><a href="{{ event.url }}">{{ event.name }}</a></td>
+            <td>{{ event.location-text }}</td>
+            <td>{{ event.event-start-date | date: "%a %-d %b, %Y" }}{% if event.event-end-date %} &#8211; {{ event.event-end-date | date: "%a %-d %b, %Y" }}{% endif %}</td>
+            <td>{{ event.event-start-time }}</td>
 
-        <p class="f5 ma0 {% include /c/block-graf.html %}"><a class="blue" href="{{ event.url }}" class="blue">{{ event.name }}</a></p>
-
-        </article>
+        </tr>
 
     {% endif %}
 
     {% endfor %}
 
-</div>
+    </tbody>
+
+</table>
+
+<script>
+$('#search-table').dynatable({
+  features: {
+    paginate: false,
+    recordCount: false,
+    sorting: false
+  },
+  inputs: {
+    queries: $('#search-library')
+  }
+});
+</script>

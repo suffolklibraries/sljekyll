@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Suffolk Libraries reserve, renew, branches and eLibrary
-featured-story: false
+featured-story: true
 ---
 
 <section class="pb3 pb4-ns custom-underline">
@@ -29,7 +29,7 @@ featured-story: false
 
  {% if page.featured-story %}
 
-     {% assign featured_pages = (site.pages | where: "featured", "true") %}
+     {% assign featured_pages = (site.posts | where: "featured", "true") %}
 
      {% for post in featured_pages limit:1 %}
 
@@ -47,7 +47,7 @@ featured-story: false
 
              <div class="custom-g-l3 custom-g-nm">
 
-                 <a class="white" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
+                 <a class="custom-force-white" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
 
              </div>
 
