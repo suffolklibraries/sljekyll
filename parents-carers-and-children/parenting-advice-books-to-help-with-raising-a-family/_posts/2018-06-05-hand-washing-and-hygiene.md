@@ -4,7 +4,7 @@ title: "Handwashing and hygiene"
 date: 2018-06-05
 author: sophie-green
 category: child-family-problems
-excerpt: "Includes books on bath-time, brushing teeth and not spreading germs."
+excerpt: "Includes books on bathtime, brushing teeth and not spreading germs."
 breadcrumb: childrens-ya-books
 ---
 
