@@ -11,7 +11,7 @@ event-category: summer-holidays
 breadcrumb: y
 ---
 
-Come to the library for some colouring fun. We've got honeycomb bigs and flowers colouring for younger children and bugs and butterflies colouring for children aged 8+ and adults.
+Come to the library for some colouring fun. We've got honeycomb bugs and flowers colouring for younger children and bugs and butterflies colouring for children aged 8+ and adults.
 
 Ticket price includes two crafts and refreshments.
 
