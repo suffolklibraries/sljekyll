@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: ImagiNation
-breadcrumb: events
+breadcrumb: summer
 sidebar: summer-reading-challenge
 hero-image: hero-imagination-2018.jpg
 hero-image-alt: ImagiNation imagery

@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: Summer Reading Challenge
-breadcrumb: events
+breadcrumb: summer
 jquery: true
 dynatable: true
 hero-image: hero-src-2018-2.jpg

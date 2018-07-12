@@ -36,6 +36,5 @@ branch-other-facilities: '<ul>
                           <li>Board Games Library - see the <a href="/assets/pdf/ipswich-board-games-library.pdf">Ipswich Board Games Library information sheet</a> (PDF) for further information.</li>
                           <li>Jigsaw swap - bring in a complete puzzle and exchange it for one from the table.</li>
                           </ul>'
-branch-news: "The library will be opening at <strong>11am on Wednesday 11 July</strong> due to staff training."
 breadcrumb: y
 ---
