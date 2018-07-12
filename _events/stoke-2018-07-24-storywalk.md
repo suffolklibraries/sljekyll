@@ -3,7 +3,7 @@ id: stoke-story
 name: Storywalk
 location: stoke-library
 location-text: Stoke Library
-event-start-date: 2018-07-31
+event-start-date: 2018-07-24
 event-start-time: 1130
 event-end-time: 1230
 event-ticket-price: free

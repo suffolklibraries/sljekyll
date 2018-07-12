@@ -26,11 +26,11 @@ branch-bookdrop: y
 branch-refreshments: hot drinks for sale
 branch-which: y
 branch-for-sale: '<ul>
-                  <li>Tickets for <a href="/slaughter/">Slaughter in Southwold crime writers&#39; festival</a>, Saturday 16 and Sunday 17 June.</li>
                   <li>Latitude Festival tickets at face value: weekend adult £197.50; day adult £77.50. No charges for card payment.</li>
                   <li>Crafts, Southwold and Suffolk Coast Treasure Trails sheets.</li>
                   <li>Local authors&#39; books.</li>
-                  <li>Branded bags and pens.</li>'
+                  <li>Branded bags and pens.</li>
+                  </ul>'
 branch-other-facilities: laminating (up to A4), foodbank collection point all year round.
 branch-wifi: y
 branch-borrowing-ereaders-and-ipads: an iPad
