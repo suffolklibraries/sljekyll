@@ -22,7 +22,7 @@ A new Val McDermid novel will need no promotion from us - all we need to tell yo
 
 ## [<cite>The Way of All Flesh</cite>, by Ambrose Parry](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2411375)
 
-‘Ambrose Parry’ is the pseudonym of former [Meet the Author interviewee Chris Brookmyre](/new-suggestions/meet-the-author/meet-the-author-christopher-brookmyre/) and his wife Dr Marisa Heatzman, an anaethetist whose research into the history of medicine inspired this novel.
+Ambrose Parry is the pseudonym of former [Meet the Author interviewee Chris Brookmyre](/new-suggestions/meet-the-author/meet-the-author-christopher-brookmyre/) and his wife Dr Marisa Heatzman, an anaethetist whose research into the history of medicine inspired this novel.
 
 > "Young women are being discovered dead across the Old Town, all having suffered similarly gruesome ends. In the New Town, medical student Will Raven is about to start his apprenticeship with the brilliant and renowned Dr Simpson. Simpson's patients range from the richest to the poorest of this divided city. His house is like no other, full of visiting luminaries and daring experiments in the new medical frontier of anaesthesia.
 

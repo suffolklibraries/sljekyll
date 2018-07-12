@@ -44,7 +44,7 @@ Joan Weigall Lindsay's 1968 is now a classic and the subject of a [BBC Drama sta
 
 ## [<cite>Damaged Goods: the inside story of Sir Philip Green, the collapse of BHS and the death of the high street</cite>, by Oliver Shah](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2377988)
 
-Warts-and-all story by the City editor of <cite>The Sunday Times</cite>.
+Warts-and-all story by the City editor of the <cite>Sunday Times</cite>.
 
 > "In March 2015, British businessman and the chairman of Arcadia Group Sir Philip Green sold BHS for £1 to Retail Acquisitions, owned by Dominic Chappell, a serial bankrupt who filed BHS for administration shortly after. By April 2016, BHS had debts of £1.3bn, including a pensions deficit of £571m. This title follows Green's journey to the big time, the sale of BHS and the subsequent investigation that concluded with Green paying £363m to the Pensions Regulator."
 
@@ -56,7 +56,9 @@ We are not expecting the DVD until September but you can catch the original seri
 
 I’m not sure how best to describe this, but it was 25 years in the writing and is said to be a love story, a crime thriller and a sci-fi epic in one. It originally came in three volumes in the original Icelandic, but they all come at once for UK readers.
 
-> "Jósef Loewe enters the world as a lump of clay - carried in a hatbox by his Jewish father Leo, a fugitive in WWII Germany. Taking refuge in a small-town guesthouse, Leo discovers a kindred spirit in the young woman who nurses him back to health and together they shape the clay into a baby. But en route to safety in Iceland, he is robbed of the ring needed to bring the child to life. It is not until 1962 that Jósef can be 'born', only to grow up with a rare disease. 53 years on, it leads him into the hands of a power-hungry Icelandic geneticist, just when science and politics are threatening to lead us all down a dark, dangerous road."
+> "Jósef Loewe enters the world as a lump of clay - carried in a hatbox by his Jewish father Leo, a fugitive in WWII Germany. Taking refuge in a small-town guesthouse, Leo discovers a kindred spirit in the young woman who nurses him back to health and together they shape the clay into a baby.
+
+> "But en route to safety in Iceland, he is robbed of the ring needed to bring the child to life. It is not until 1962 that Jósef can be 'born', only to grow up with a rare disease. 53 years on, it leads him into the hands of a power-hungry Icelandic geneticist, just when science and politics are threatening to lead us all down a dark, dangerous road."
 
 ## [<cite>Imperium</cite>, by Robert Harris](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=240698)
 
@@ -70,6 +72,6 @@ This has already been picked by some experts as an early contender for the next 
 
 > "When Cy Bellman, American settler and widowed father of Bess, reads in the newspaper that huge ancient bones have been discovered in a Kentucky swamp, he leaves his small Pennsylvania farm and young daughter to find out if the rumours are true: that the giant monsters are still alive, and roam the uncharted wilderness beyond the Mississippi River."
 
-## [John Coltrane - <cite>Both Directions at Once: The Lost Album</cite> - CD]()
+## [John Coltrane - <cite>Both Directions at Once: the lost album</cite> - CD](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2445171)
 
 Previously unreleased and ‘lost’ 1963 set from Rudy Van Gelder’s studio which has caused a stir in the jazz world.
