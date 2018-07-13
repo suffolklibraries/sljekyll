@@ -1,6 +1,6 @@
 ---
 id: new-connie
-name: "Human Story Theatre present: <cite>Connie's Colander</cite>"
+name: "Human Story Theatre presents: <cite>Connie's Colander</cite>"
 location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2018-07-18

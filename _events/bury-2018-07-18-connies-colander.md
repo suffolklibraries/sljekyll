@@ -1,6 +1,6 @@
 ---
 id: bury-connie
-name: "Human Story Theatre present: <cite>Connie's Colander</cite>"
+name: "Human Story Theatre presents: <cite>Connie's Colander</cite>"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
 event-start-date: 2018-07-18
