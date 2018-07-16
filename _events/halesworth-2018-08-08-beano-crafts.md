@@ -1,6 +1,6 @@
 ---
 id: halesworth-craft
-name: "Holiday crafts"
+name: "Holiday crafts: <cite>Beano</cite> bonanza!"
 location: halesworth-library
 location-text: Halesworth Library
 event-start-date: 2018-08-08
@@ -11,6 +11,6 @@ event-category: summer-holidays
 breadcrumb: y
 ---
 
-Children are invited to make some crafts.
+Children are invited to make some <cite>Beano</cite> themed crafts to tie in with this year's [Summer Reading Challenge](/src/).
 
 Under 8s must be accompanied by an adult.
