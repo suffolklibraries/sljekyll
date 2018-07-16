@@ -12,6 +12,8 @@ breadcrumb: meet-the-author
 
 ![Harriet Evans](/images/featured/featured-harriet-evans.jpg)
 
+Harriet Evans grew up in Chiswick. She worked in publishing before becoming an author Her ten bestselling novels include [<cite>A Place for Us</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1746235), [<cite>Going Home</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=72741) and [<cite>Love Always</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=399495). Her latest book is [<cite>The Wildflowers</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2360453).
+
 ## 1. Who were your literary influences and heroes as you were growing up?
 
 I absolutely loved Enid Blyton, CS Lewis, Lorna Hill’s Ballet School books, Noel Streatfeild. Classic English children’s literature. Anything that created a world you were utterly absorbed in. I love that now, too.

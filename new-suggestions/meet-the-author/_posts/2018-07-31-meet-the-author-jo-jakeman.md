@@ -12,6 +12,10 @@ breadcrumb: meet-the-author
 
 ![Jo Jakeman](/images/featured/featured-jo-jakeman.jpg)
 
+Jo Jakeman was born in Cyprus and worked for many years in the City of London. She was the 2016 winner of the prestigious Friday Night Live Award at York Festival of Writing where she was also shortlisted for Best Opening Chapter.
+
+Jo is now based in Derbyshire. Following the completion of a creative writing course from Curtis Brown Creative, her first novel [<cite>Sticks and Stones</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2395723) was published earlier this month.
+
 ## 1. Who were your literary influences and heroes as you were growing up?
 
 Before I discovered the local library, I was limited to reading the books my parents had around the house. I grew up on a diet of classics. I adored [<cite>Pride and Prejudice</cite> by Jane Austen](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1753009), [<cite>The Secret Garden</cite> by Frances Hodgson Burnett](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1835549), and [<cite>Little Women</cite> by Louisa May Alcott](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1730482). I liked to think of myself as Jo from <cite>Little Women</cite> and [<cite>Jo’s Boys</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1824196). Like her, I considered myself a tomboy and would-be writer.
