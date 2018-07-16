@@ -10,7 +10,7 @@ featured-alt: "You Can't Let an Elephant Drive a Digger, The Boy Who Hit Play, T
 breadcrumb: childrens-ya-books
 ---
 
-![Featuring stories for animal lovers, reboots of old favourites and future classics](/images/featured/featured-childrens-july-2018.jpg)
+![You Can't Let an Elephant Drive a Digger, The Boy Who Hit Play, The Storm Keeper's Island](/images/featured/featured-childrens-july-2018.jpg)
 
 ## Board books
 
