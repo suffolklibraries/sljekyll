@@ -18,7 +18,7 @@ breadcrumb: news
 
 <p>Some of our libraries are holding events for Suffolk Day on Thursday 21 June:</p>
 
-{% assign suffolk-day-events = (site.events | where: "event-category", "suffolk-day" | sort: "event-start-date" ) %}
+{% assign suffolk-day-events = site.events | where: "event-category", "suffolk-day" | sort: "event-start-date" %}
 
 {% for event in suffolk-day-events %}
 

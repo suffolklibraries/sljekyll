@@ -9,7 +9,7 @@ hnav: genre
 
 <div class="custom-flex-container">
 
-{% assign science_fiction_and_fantasy_posts = (site.posts | where: "genre", "sci-fi-and-fantasy" ) %}
+{% assign science_fiction_and_fantasy_posts = site.posts | where: "genre", "sci-fi-and-fantasy" %}
 
 {% for post in science_fiction_and_fantasy_posts limit:24 %}
 

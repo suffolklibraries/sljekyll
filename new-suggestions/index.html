@@ -18,7 +18,7 @@ breadcrumb: home
 
             <h1 class="{% include /c/block-title.html %}">{% if current.stub !='staff-picks' and current.stub !='childrens-ya-books' and current.stub !='health-lists' %}<a class="blue" href="/new-suggestions/{{ current.stub }}">{{ current.full-name }}</a>{% elsif current.stub == 'staff-picks' %}<a class="blue" href="/new-suggestions/reviews/">{{ current.full-name }}{% elsif current.stub == 'childrens-ya-books' %}<a class="blue" href="/parents-carers-and-children/childrens-ya-books/">Children's books</a>{% elsif current.stub == 'health-lists' %}<a class="blue" href="/health/lists/">Health &amp; wellbeing</a>{% endif %}</h1>
 
-            {% for post in site.categories.[current.stub] limit:1 %}
+            {% for post in site.categories[current.stub] limit:1 %}
 
               {% if post.featured-image %}
 
@@ -29,7 +29,7 @@ breadcrumb: home
             {% endfor %}
 
             <ul class="{% include /c/block-list.html %}">
-              {% for post in site.categories.[current.stub] limit:3 %}
+              {% for post in site.categories[current.stub] limit:3 %}
                 <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url }}">{{ post.title }}</a></li>
               {% endfor %}
           </ul>

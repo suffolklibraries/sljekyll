@@ -10,7 +10,7 @@ breadcrumb: staff-picks
 
 <div class="custom-flex-container">
 
-{% assign advent_posts = (site.posts | where: "tag", "advent" | reverse ) %}
+{% assign advent_posts = site.posts | where: "tag", "advent" | reverse %}
 
 {% for post in advent_posts limit:24 %}
 

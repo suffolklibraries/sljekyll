@@ -9,7 +9,7 @@ hnav: genre
 
 <div class="custom-flex-container">
 
-{% assign literary_fiction_posts = (site.posts | where: "genre", "literary-fiction" ) %}
+{% assign literary_fiction_posts = site.posts | where: "genre", "literary-fiction" %}
 
 {% for post in literary_fiction_posts limit:24 %}
 

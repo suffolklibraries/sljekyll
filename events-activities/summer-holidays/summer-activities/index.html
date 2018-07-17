@@ -25,7 +25,7 @@ dynatable: true
 
     <tbody>
 
-    {% assign summer-holiday-events = (site.events | where: "event-category", "summer-holidays" | sort: 'event-start-date'%}
+    {% assign summer-holiday-events = site.events | where: "event-category", "summer-holidays" | sort: 'event-start-date' %}
 
     {% for event in summer-holiday-events %}
 

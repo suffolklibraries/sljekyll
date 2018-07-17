@@ -21,7 +21,7 @@ featured-link-text: "Find out more"
 
 <p>See below for our full list of half-term events.</p>
 
-{% assign half-term-events = (site.events | where: "event-category", "half-term" | sort: "event-start-date" ) %}
+{% assign half-term-events = site.events | where: "event-category", "half-term" | sort: "event-start-date" %}
 
 {% for event in half-term-events %}
 

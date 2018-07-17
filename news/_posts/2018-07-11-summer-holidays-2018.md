@@ -23,4 +23,4 @@ As ever, we're running the annual [Summer Reading Challenge](/src/) for children
 
 We're also encouraging young people aged 10-18 to take part in [ImagiNation](/events-activities/summer-holidays/imagination/), which offers them the opportunity to creatively express their feelings about the books they read and recommend them to others.
 
-[See our full list of summer holiday activities &rarr;](/summer-holidays/summer-activities/)
+[See our full list of summer holiday activities &rarr;](/events-activities/summer-holidays/summer-activities/)

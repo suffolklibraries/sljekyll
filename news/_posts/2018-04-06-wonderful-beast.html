@@ -20,7 +20,7 @@ breadcrumb: news
 
 <h2>Orla's Moon</h2>
 
-{% assign orla-events = (site.events | where: "event-category", "orla-moon" | sort: "event-start-date" ) %}
+{% assign orla-events = site.events | where: "event-category", "orla-moon" | sort: "event-start-date" %}
 
 {% for event in orla-events %}
 
@@ -41,7 +41,7 @@ breadcrumb: news
 
 <h2>Orla and the Sun</h2>
 
-{% assign orla-events = (site.events | where: "event-category", "orla-sun" | sort: "event-start-date" ) %}
+{% assign orla-events = site.events | where: "event-category", "orla-sun" | sort: "event-start-date" %}
 
 {% for event in orla-events %}
 
