@@ -24,7 +24,7 @@ breadcrumb: news
 
 <p>Elmer Day takes place on Saturday 26 May, with many libraries holding events on or around this date:</p>
 
-{% assign elmer-events = (site.events | where: "event-category", "elmer-day" | sort: "event-start-date" ) %}
+{% assign elmer-events = site.events | where: "event-category", "elmer-day" | sort: "event-start-date" %}
 
 {% for event in elmer-events %}
 

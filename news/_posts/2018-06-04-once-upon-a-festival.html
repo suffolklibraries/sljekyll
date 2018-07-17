@@ -16,7 +16,7 @@ breadcrumb: news
 
 <p>We are hosting the following events:</p>
 
-{% assign festival-events = (site.events | where: "event-category", "once-upon-a-festival" | sort: "event-start-date" ) %}
+{% assign festival-events = site.events | where: "event-category", "once-upon-a-festival" | sort: "event-start-date" %}
 
 {% for event in festival-events %}
 

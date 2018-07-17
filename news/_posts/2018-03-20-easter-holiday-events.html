@@ -20,7 +20,7 @@ featured-link-text: "Find out more"
 
 <p>See below for our full list of Easter holiday events.</p>
 
-{% assign easter-events = (site.events | where: "event-category", "easter-holidays" | sort: "event-start-date" ) %}
+{% assign easter-events = site.events | where: "event-category", "easter-holidays" | sort: "event-start-date"  %}
 
 {% for event in easter-events %}
 

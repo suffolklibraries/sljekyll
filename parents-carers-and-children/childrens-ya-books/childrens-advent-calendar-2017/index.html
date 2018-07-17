@@ -10,7 +10,7 @@ breadcrumb: childrens-ya-books
 
 <div class="custom-flex-container">
 
-{% assign advent_posts = (site.posts | where: "tag", "childrens-advent-2017" | reverse ) %}
+{% assign advent_posts = site.posts | where: "tag", "childrens-advent-2017" | reverse %}
 
 {% for post in advent_posts limit:24 %}
 

@@ -14,7 +14,7 @@ breadcrumb: news
 
 <p>We are hosting five performances of <cite>Alice in the Cuckoo's Nest</cite>:</p>
 
-{% assign librarian-theatre-events = (site.events | where: "event-category", "librarian-theatre" | sort: "event-start-date" ) %}
+{% assign librarian-theatre-events = site.events | where: "event-category", "librarian-theatre" | sort: "event-start-date"  %}
 
 {% for event in librarian-theatre-events %}
 

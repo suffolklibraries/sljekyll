@@ -20,7 +20,7 @@ breadcrumb: news
 
 <h2>Tuesday 24 October</h2>
 
-{% assign flipside-events = (site.events | where: "event-tag", "flipside" | where: "event-start-date", "2017-10-24" | sort: "event-start-time" ) %}
+{% assign flipside-events = site.events | where: "event-tag", "flipside" | where: "event-start-date", "2017-10-24" | sort: "event-start-time"  %}
 
 {% for event in flipside-events %}
 
@@ -40,7 +40,7 @@ breadcrumb: news
 
 <h2>Wednesday 25 October</h2>
 
-{% assign flipside-events = (site.events | where: "event-tag", "flipside" | where: "event-start-date", "2017-10-25" | sort: "event-start-time" ) %}
+{% assign flipside-events = site.events | where: "event-tag", "flipside" | where: "event-start-date", "2017-10-25" | sort: "event-start-time" %}
 
 {% for event in flipside-events %}
 
@@ -60,7 +60,7 @@ breadcrumb: news
 
 <h2>Thursday 26 October</h2>
 
-{% assign flipside-events = (site.events | where: "event-tag", "flipside" | where: "event-start-date", "2017-10-26" | sort: "event-start-time" ) %}
+{% assign flipside-events = site.events | where: "event-tag", "flipside" | where: "event-start-date", "2017-10-26" | sort: "event-start-time" %}
 
 {% for event in flipside-events %}
 
