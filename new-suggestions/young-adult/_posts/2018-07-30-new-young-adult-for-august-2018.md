@@ -20,7 +20,9 @@ From the acclaimed author of [<cite>Tall Story</cite>](https://suffolk.spydus.co
 
 > "However, Samkad's world is about to change utterly. He discovers the brother he never knew he had. A brother who tells him of a people called 'Americans'. A people who are bringing war and destruction, right to their home."
 
-## [<cite>Are We All Lemmings and Snowflakes?</cite>, by Holly Bourne]()
+## [<cite>Are We All Lemmings and Snowflakes?</cite>, by Holly Bourne](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2403252)
+
+> "Welcome to Camp Reset, a summer camp with a difference. A place offering a shot at “normality” for Olive, a girl on the edge, and for the new friends she never expected to make – who each have their own reasons for being there. Luckily Olive has a plan to solve all their problems. But how do you fix the world when you can’t fix yourself?"
 
 A funny and honest exploration of mental health from one of the UK’s top YA authors.
 
@@ -54,7 +56,11 @@ The story of young girl who is losing her sight, inspired by the author's own ex
 
 > "Mafalda is a 9-year-old girl who knows one thing: some time in the next six months her sight will fail completely. Can Mafalda find a way through a seemingly dark future and still go to school, play football and look after her beloved cat? With the help of her family, and her friends, Mafalda needs to discover the things that will be important to her when her sight has failed."
 
-## [<cite>Catwoman: Soul Stealer</cite>, by Sarah J. Maas]()
+## [<cite>Catwoman: Soul Stealer</cite>, by Sarah J. Maas](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2408532)
+
+> "Two years after escaping Gotham City's slums, Selina Kyle returns as the mysterious and wealthy Holly Vanderhees. She quickly discovers that with Batman off on a vital mission, Batwing is left to hold back the tide of notorious criminals. Gotham City is ripe for the taking.
+
+> "Meanwhile, Luke Fox wants to prove he has what it takes to help people in his role as Batwing. He targets a new thief on the prowl who seems cleverer than most. She has teamed up with Poison Ivy and Harley Quinn, and together they are wreaking havoc. This Catwoman may be Batwing's undoing."
 
 Latest edition to the DC Icons series from the author of the Throne of Glass and A Court of Thorns and Roses series.
 

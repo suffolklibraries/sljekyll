@@ -66,7 +66,7 @@ The former children’s laureate’s first stand-alone picture book for 8 years 
 
 A rhyming introduction to colours and numbers.
 
-### [<cite>Sweep</cite>, by Louise Greig & Julia Sarda]() and [<cite>A Whisper from Grey</cite>, by Louise Greig & Lo Cole](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2395648)
+### [<cite>Sweep</cite>, by Louise Greig & Júlia Sardà](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2396366) and [<cite>A Whisper from Grey</cite>, by Louise Greig & Lo Cole](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2395648)
 
 Two new titles from the author of the acclaimed [<cite>The Night Box</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2156821).
 
@@ -150,7 +150,15 @@ The sequel to [<cite>Bee Boy: Clash of the Killer Queens</cite>](https://suffolk
 
 Based on the video game of the same name, the <cite>Bookseller</cite> describes this title as punchy, action-packed, full of laughs and bursting with cartoon-style illustrations – so it should be popular.
 
-### [<cite>Daisy and the Trouble with School Trips</cite>, by Kes Gray]()
+### [<cite>Daisy and the Trouble with School Trips</cite>, by Kes Gray](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2423273)
+
+> "Daisy is on a school trip.
+
+> "With lots of other children and few teachers.
+
+> "Daisy likes being out of school.
+
+> "Daisy also likes TROUBLE!"
 
 ### [<cite>Will You Catch Me?</cite>, by Jane Elson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2361845)
 
