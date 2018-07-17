@@ -2,7 +2,7 @@
 recurrent-title: "Reading group"
 recurrent-description: "Contact Donna in the library."
 recurrent-day: first Wednesday of the month
-recurrent-times: 1930-2030
+recurrent-times: 1900-2000
 recurrent-location: needham-market-library
 recurrent-location-display-name: Needham Market Library
 recurrent-location-display-url: /branches/needham-market-library/
