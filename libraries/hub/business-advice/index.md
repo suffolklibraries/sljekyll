@@ -21,7 +21,7 @@ Business advisors from the [New Anglia Growth Hub](http://www.newangliagrowthhub
 
 </div>
 
-Fill in the form below to request an appointment and we'll get back to you as soon as possible. We won't share the information you provide with anyone else.
+If you fill in the form below, we'll pass your information on to the New Anglia Growth Hub so they can set up an appointment. We won't share the information you provide with anyone else.
 
 <form id="form" class="pure-form pure-form-stacked" netlify netlify-honeypot="bot-field" name="business-advisors" action="/libraries/hub/business-advice/confirmation/">
 
