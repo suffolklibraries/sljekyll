@@ -40,6 +40,6 @@ branch-for-sale: "<ul>
                   <li>Poetry book collated by Newmarket Library Friend Christine - £5 each with all proceeds to Friends of Newmarket Library and St Nicholas Hospice.</li>
                   <li>Friends of Newmarket Library 2018 calendars - £5.95.</li>
                   </ul>"
-branch-news: "Newmarket Library is currently looking for volunteers to help run its new code club for 9-13 year-olds. Please contact the library if you're interested."
+branch-news: 'Newmarket Library is currently looking for volunteers for the <a href="/src/">Summer Reading Challenge</a> for Tuesday afternoons, Fridays and weekends. It is also looking for volunteers for its new Code Club.'
 breadcrumb: y
 ---
