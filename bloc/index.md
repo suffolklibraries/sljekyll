@@ -5,7 +5,7 @@ layout: blank
 
 <article>
 
-    <div class="bg-black light-silver bb b--white">
+    <header class="bg-black light-silver bb b--white">
 
         <div class="custom-max-width flex-l flex-wrap-l flex-row-reverse-l">
 
@@ -53,9 +53,9 @@ layout: blank
 
         </div>
 
-    </div>
+    </header>
 
-    <div class="bg-lightest-blue dark-gray pa2 pa3-ns pv5-l bb b--moon-gray">
+    <section class="bg-lightest-blue dark-gray pa2 pa3-ns pv5-l bb b--moon-gray">
 
         <div class="custom-max-width flex flex-wrap justify-center justify-between-l">
 
@@ -101,9 +101,9 @@ layout: blank
 
         </div>
 
-    </div>
+    </section>
 
-    <div class="pl2 pl3-ns bg-black gold bb b--white">
+    <section class="pl2 pl3-ns bg-black gold bb b--white">
 
         <div class="custom-max-width flex-l flex-wrap-l justify-between-l">
 
@@ -127,18 +127,80 @@ layout: blank
 
         </div>
 
-    </div>
+    </section>
 
-    <div class="pa2 pa3-ns bg-dark-blue orange b bb b--white">
+    <section class="pa2 pa3-ns pv5-l bg-white dark-gray b bb b--silver">
 
         <div class="custom-max-width">
 
-            <h2 class="f2 lh-title mt0">Our partners</h2>
+            <h2 class="f3 f2-ns lh-title mt0">Our partners</h2>
 
-            <p class="f3 f1-l lh-title">Put any content in this space including pics, text, videos. We can use any layout and any colours in this space.</p>
+            <div class="flex flex-wrap justify-between pv2">
+
+                <div class="w-40">
+
+                    <a href="http://www.metalculture.com/"><img class="db center" alt="METAL" src="/images/featured/metal-logo.jpg"></a>
+
+                </div>
+
+                <div class="w-40">
+
+                    <a href="https://www.artscouncil.org.uk/"><img class="db center" alt="Arts Council England" src="/images/featured/ace-logo.jpg"></a>
+
+                </div>
+
+            </div>
 
         </div>
 
-    </div>
+    </section>
+
+    <footer class="bg-light-gray pa2 pa3-ns pv5-l">
+
+        <div class="custom-max-width">
+
+            <h2 class="f3 f2-ns lh-title mt0">More info</h2>
+
+            <div class="flex-l flex-wrap-l justify-between-l">
+
+                <div class="w-30-l mt3 mt0-l">
+
+                    <h3 class="dark-red">Contact us</h3>
+
+                    <ul class="list ma0 pa0">
+
+                        <li>Tel: <strong>01473 351249</strong></li>
+                        <li>Email: <strong>arts@suffolklibraries.co.uk</strong></li>
+
+                    </ul>
+
+                </div>
+
+                <div class="w-30-l mt3 mt0-l">
+
+                    <h3 class="dark-red">Arts @ Suffolk Libraries</h3>
+
+                    <p class="ma0">In summer 2017, we were awarded National Portfolio Organisation (NPO) status and &pound;740,000 from Arts Council England to help young people develop arts and culture activities in libraries from 2018-22. We were offically granted NPO status in April 2018. <a href="/arts/" class="dark-blue no-underline underline-hover">Find out more about the arts in libraries</a>.</p>
+
+                </div>
+
+                <div class="w-30-l mt3 mt0-l">
+
+                    <h3 class="dark-red">BLOC news</h3>
+
+                    <ul class="list ma0 pa0">
+
+                        <li><a href="/arts/" class="dark-blue no-underline underline-hover">Arts news story 1</a></li>
+                        <li><a href="/arts/" class="dark-blue no-underline underline-hover">Arts news story 2</a></li>
+
+                    </ul>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </footer>
 
 </article>
