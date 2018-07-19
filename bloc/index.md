@@ -2,27 +2,18 @@
 title: "BLOC: Building Libraries on Creativity"
 layout: blank
 ---
+
 <article>
 
-    <div class="pa2 pa3-ns bg-black light-silver bb b--white">
+    <div class="bg-black light-silver bb b--white">
 
-        <div class="custom-max-width flex-l flex-wrap-l">
-
-            <div class="w-50-l">
-
-                <div class="custom-constrain">
-
-                    <iframe width="800" height="450" src="https://www.youtube.com/embed/659pppwniXA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-                </div>
-
-            </div>
+        <div class="custom-max-width flex-l flex-wrap-l flex-row-reverse-l">
 
             <div class="w-50-l">
 
-                <h1 class="pl4-l ttl small-caps tracked f4 f2-ns pv2 white mt4 mb2 bb b--light-silver">BLOC</h1>
+                <h1 class="ph2 ph3-ns ttl small-caps tracked f4 f2-ns white mb2">BLOC</h1>
 
-                <div class="pl4-l">
+                <div class="ph2 ph3-ns pb3">
 
                     <div class="flex-l flex-wrap-l justify-between-l">
 
@@ -38,7 +29,7 @@ layout: blank
 
                             <h2 class="white f5 ttl small-caps tracked">From the blog</h2>
 
-                            <ul class="f6 f5-ns list ma0 pa0">
+                            <ul class="f6 f5-ns list mt0 pa0">
 
                                 <li class="ma0 pa0"><a href="#" class="lightest-blue no-underline underline-hover">BLOC: Build your story</a></li>
                                 <li class="ma0 pa0"><a href="#" class="lightest-blue no-underline underline-hover">BLOC: Build your story</a></li>
@@ -54,18 +45,59 @@ layout: blank
 
             </div>
 
+            <div class="w-50-l">
+
+                <video class="mw-100 h-auto db ma0 pa0" src="/videos/vid02.mp4" controls></video>
+
+            </div>
+
         </div>
 
     </div>
 
     <div class="bg-lightest-blue dark-gray pa2 pa3-ns pv5-l bb b--moon-gray">
 
-        <div class="custom-max-width flex flex-wrap justify-between">
+        <div class="custom-max-width flex flex-wrap justify-center justify-between-l">
 
-            <div class="w-40 w-20-l"><img class="db br-100" src="/images/authors/kipling.png"></div>
-            <div class="w-40 w-20-l"><img class="db br-100" src="/images/authors/kipling.png"></div>
-            <div class="w-40 w-20-l"><img class="db br-100" src="/images/authors/kipling.png"></div>
-            <div class="w-40 w-20-l"><img class="db br-100" src="/images/authors/kipling.png"></div>
+            <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
+
+                <img class="db br-100 mw3 mw4-ns mw-100-l h-auto center" src="/images/authors/kipling.png">
+
+                <p class="f6 lh-title tc">Creativity</p>
+
+            </div>
+
+            <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
+
+                <img class="db br-100 mw3 mw4-ns mw-100-l h-auto center" src="/images/authors/kipling.png">
+
+                <p class="f6 lh-title tc">Creativity</p>
+
+            </div>
+
+            <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
+
+                <img class="db br-100 mw3 mw4-ns mw-100-l h-auto center" src="/images/authors/kipling.png">
+
+                <p class="f6 lh-title tc">Creativity</p>
+
+            </div>
+
+            <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
+
+                <img class="db br-100 mw3 mw4-ns mw-100-l h-auto center" src="/images/authors/kipling.png">
+
+                <p class="f6 lh-title tc">Creativity</p>
+
+            </div>
+
+            <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
+
+                <img class="db br-100 mw3 mw4-ns mw-100-l h-auto center" src="/images/authors/kipling.png">
+
+                <p class="f6 lh-title tc">Creativity</p>
+
+            </div>
 
         </div>
 
