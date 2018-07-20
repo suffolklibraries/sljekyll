@@ -1,6 +1,6 @@
 ---
 id: chantry-cartoon
-name: "'Salty Dogs' cartoon workshop with illustator Matty Long - 2pm session"
+name: "'Salty Dogs' cartoon workshop with illustrator Matty Long - 2pm session"
 location: chantry-library
 location-text: Chantry Library
 event-start-date: 2018-08-02
