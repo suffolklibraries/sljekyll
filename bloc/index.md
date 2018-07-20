@@ -31,9 +31,12 @@ layout: blank
 
                             <ul class="f6 f5-ns list mt0 pa0">
 
-                                <li class="ma0 pa0"><a href="#" class="dark-blue no-underline underline-hover">BLOC: Build your story</a></li>
-                                <li class="ma0 pa0"><a href="#" class="dark-blue no-underline underline-hover">BLOC: Build your story</a></li>
-                                <li class="ma0 pa0"><a href="#" class="dark-blue no-underline underline-hover">BLOC: Build your story</a></li>
+                            {% for post in site.categories.bloc limit:1 %}
+
+                                <li class="ma0 pa0"><a href="{{ post.url }}" class="dark-blue no-underline underline-hover">{{ post.title }}</a></li>
+
+                            {% endfor %}
+
 
                             </ul>
 
@@ -46,8 +49,6 @@ layout: blank
             </div>
 
             <div class="w-50-l">
-
-                <!-- <video class="mw-100 h-auto db ma0 pa0" src="bloc_files/vid02.mp4" controls="controls"></video> -->
 
                 <video class="mw-100 h-auto db ma0 pa0" controls>
 
@@ -202,8 +203,11 @@ April 2018. <a href="/arts/" class="dark-blue no-underline underline-hover">Find
 
                     <ul class="list ma0 pa0">
 
-                        <li><a href="/arts/" class="dark-blue no-underline underline-hover">Arts news story 1</a></li>
-                        <li><a href="/arts/" class="dark-blue no-underline underline-hover">Arts news story 2</a></li>
+                    {% for post in site.categories.bloc-news limit:1 %}
+
+                        <li class="ma0 pa0"><a href="{{ post.url }}" class="dark-blue no-underline underline-hover">{{ post.title }}</a></li>
+
+                    {% endfor %}
 
                     </ul>
 

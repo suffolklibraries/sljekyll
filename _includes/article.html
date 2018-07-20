@@ -6,9 +6,9 @@
 
         <header>
 
-            <h1 {% if page.category %}itemprop="name headline"{% endif %}class="{% include /c/page-title.html %}}">{{ page.title }}</h1>
+            <h1 {% if page.categories %}itemprop="name headline"{% endif %}class="{% include /c/page-title.html %}}">{{ page.title }}</h1>
 
-            {% if page.category %}
+            {% if page.categories %}
 
                 {% include post-meta.html %}
 
@@ -16,7 +16,7 @@
 
         </header>
 
-        <div {% if page.category %}itemprop="articleBody"{% endif %}class="{% include /c/prose.html %} custom-underline custom-visited">
+        <div {% if page.categories %}itemprop="articleBody"{% endif %}class="{% include /c/prose.html %} custom-underline custom-visited">
 
             {{ content }}
 
@@ -43,13 +43,13 @@
             {% endif %}
 
 
-            {% unless page.category == 'news' %}
+            {% unless page.categories contains "news" %}
 
               {% include post-bio.html %}
 
             {% endunless %}
 
-            {% if page.category == 'literacy' %}
+            {% if page.categories contains "literacy" %}
 
                 {% include tag-listing.html %}
 
