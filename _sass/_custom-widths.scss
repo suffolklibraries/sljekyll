@@ -1,0 +1,25 @@
+@media screen, projection {
+
+.c-w-17 {
+    width: 17%;
+}
+
+.c-w-17-ns {
+    @media (min-width: 30em) {
+        width: 17%;
+    }
+}
+
+.c-w-17-m {
+    @media (min-width: 30em) and (max-width: 60em) {
+        width: 17%;
+    }
+}
+
+.c-w-17-l {
+    @media (min-width: 60em) {
+        width: 17%;
+    }
+}
+
+}
