@@ -5,7 +5,7 @@ breadcrumb: children-parents
 sidebar: children-parents
 ---
 
-See also: [Books for parents/carers and children dealing with dyslexia](/parents-carers-children/child-family-problems/dyslexia/)
+See also: [Books for parents/carers and children dealing with dyslexia](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/dyslexia/)
 
 ## Table of contents
 

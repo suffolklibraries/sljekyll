@@ -13,8 +13,8 @@ To reserve any of the following books for children dealing with a new baby to [y
 You can [sign up for a library card online](/help/joining-the-library/) for free. You can sign your child up for a library card at any age.
 
 See also:
-* [Books for children dealing with a new baby](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/new-baby/)
-* [Books for children dealing with sibling rivalry](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/sibling-rivalry/)
+* [Books for children dealing with a new baby](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/new-baby/)
+* [Books for children dealing with sibling rivalry](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/sibling-rivalry/)
 
 ## [<cite>On Sudden Hill</cite>, by Linda Sarah & Benji Davies](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1631491)
 
