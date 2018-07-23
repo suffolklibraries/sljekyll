@@ -12,7 +12,7 @@ branch-sunday-hours: 1000 – 1600
 branch-manager: Marion Harvey
 branch-address: Northgate Street, Ipswich
 branch-post-code: IP1 3DE
-branch-tel: 01473 263810
+branch-tel: 01473 927260
 branch-friends: Friends of Ipswich County Library
 branch-newsletter: /assets/pdf/friends-of-ipswich-county-library-membership-form.pdf
 branch-social-media: y

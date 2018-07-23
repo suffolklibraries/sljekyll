@@ -12,7 +12,7 @@ branch-sunday-hours: 1000 – 1600
 branch-manager: Neil Holmes
 branch-address: Sergeants Walk, St Andrews Street North, Bury St Edmunds
 branch-post-code: IP33 1TZ
-branch-tel: 01284 732255
+branch-tel: 01284 338830
 branch-friends: Friends of Bury St Edmunds Library
 branch-for-sale: Stamps, A4 envelopes, plastic wallets, ballpoint pens, canvas bags
 branch-social-media: y

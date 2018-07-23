@@ -13,7 +13,7 @@ branch-news: "Please note that the library is <strong>self-service only</strong>
 branch-manager: Mandy Grimwood
 branch-address: Clapgate Lane, Ipswich
 branch-post-code: IP3 0RL
-branch-tel: 01473 260888
+branch-tel: 01473 927270
 branch-friends: Voices for Gainsborough Community Library
 branch-friends-url: /about/member-organisations/voices-for-gainsborough-community-library
 branch-social-media: y

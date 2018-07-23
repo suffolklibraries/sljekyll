@@ -12,7 +12,7 @@ branch-sunday-hours: Temporarily closed
 branch-manager: Emma Currie and Cathy Gale
 branch-address: Hawthorn Drive, Ipswich
 branch-post-code: IP2 0QY
-branch-tel: 01473 260880
+branch-tel: 01473 927275
 branch-friends: Friends of Chantry Library
 branch-social-media: y
 branch-facebook: Chantry-Library-797858243630998

@@ -12,7 +12,7 @@ branch-sunday-hours: 1000 – 1600
 branch-manager: Steph Merrett
 branch-address: Crescent Road, Felixstowe
 branch-post-code: IP11 7BY
-branch-tel: 01394 694880
+branch-tel: 01394 330850
 branch-friends: Friends of Felixstowe Library
 branch-social-media: y
 branch-facebook: felixstowelibrary

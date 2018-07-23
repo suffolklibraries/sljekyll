@@ -12,7 +12,7 @@ branch-sunday-hours: 1000 – 1600
 branch-manager: Helen Scrivener
 branch-address: New Street, Woodbridge
 branch-post-code: IP12 1DT
-branch-tel: 01394 446510
+branch-tel: 01394 330855
 branch-friends: Friends of Woodbridge Library (FOWL)
 branch-friends-url: /about/member-organisations/friends-of-woodbridge-library-fowl
 branch-social-media: y
