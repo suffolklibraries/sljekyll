@@ -35,5 +35,4 @@ branch-room-hire: /libraries/room-hire/halesworth-library
 breadcrumb: y
 branch-for-sale: 'Stamps, cards, artwork, jewellery, books from local authors, reading glasses and accessories from ReadySpex, Halesworth Library bags, bookmarks and pens.'
 branch-display-space: "Window space available to hire for posters and notices. Contact the library for more details."
-branch-news: '<a href="/assets/pdf/halesworth-spring-quiz-answers-2018.pdf">See the answers to the Halesworth Library Grand Spring Quiz 2018</a> (PDF)'
 ---

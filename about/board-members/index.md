@@ -84,8 +84,8 @@ Now retired, Sue worked for many years as a self-employed barrister. She also se
 
 <img src="/images/board/sarah-wilson-200.jpg" alt="Sarah Wilson" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
 
-Sarah has lived in Suffolk for over 30 years, and she has been a lifelong lover of reading, and user of public libraries. She is a regular user of Capel St Mary library, and a member of the Library Friends Group, and has been a member of a book group for over 20 years! She volunteers at various book festivals.
+Sarah is an enthusiastic supporter of Suffolk Libraries and very aware of how lucky we are to have access to such an excellent library service. She values and supports the inclusive and diverse services Suffolk Libraries offers to everyone in the community.
 
-Sarah is a strong supporter of Suffolk Libraries, and very aware of how lucky we are to have access to such an excellent library service. She values and supports the inclusive and diverse services Suffolk Libraries offers to everyone in the community.
+She has lived in Suffolk for over 30 years, and has used public libraries since her childhood. Following four years on the committee of the Friends of Capel St Mary Library she moved to Felixstowe in 2017, where she helped to establish the new Friends of Felixstowe Library group.
 
-Sarah has had a long, varied and interesting career in the public sector associated with farming and the environment. This originally involved time as an agronomist and farm business adviser in East Suffolk, which was followed by many years working at a broader level in environmental policy, organisational management, business development and change management.
+Sarah has had a varied and interesting career in the public sector associated with farming and the environment. This included many years in senior management roles based in East Anglia and London, which were associated with government environmental policy, business development and change management.

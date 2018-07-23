@@ -12,20 +12,19 @@ breadcrumb: member-organisations
 
 ## Who we are
 
-* Chair: Claire Boorman
+* Chair and signatory: Diane Tarrant
 * Secretary: Caroline Southgate
-* Treasurer: John Baldwin
-* Minutes secretary: Diane Tarrant
-* Library representative: Frances Law
+* Treasurer and library representative: Ursula Scott
+* Suffolk Libraries advisor: Jack Norman
 * Library representative: Sherrie Rozier
 
 ## Other committee members
 
-* Nigel Rozier
-* Marian Weir
-* Anne-Marie Garner
+* Graham Harris
+* Mary Jones
+* Pauline Manders
 * Brian Matthews
-* Steve Smith
+* David Welland
 
 ## Contact us
 
@@ -37,14 +36,15 @@ We were established in March 2013.
 
 ## Recent successes
 
-* Raised almost £1,500 from grants and activities including a race night, book sales, craft and cake stalls and grants from the county, district and town councils
-* Arranged for the library courtyard to be refurbished, with the help of Stowmarket Rotary Club
-* Held a successful event during the evening of the Stowmarket Christmas lights switch-on with refreshments, live music and children’s craft sessions
+* Supported the first Skulduggery in Stowmarket crime festival by providing initial funding
+* Bought seating and shelving to refurbish the teenage area of the library
+* Funded several children's activities such as Harry Potter Night and Beach Bonkers event.
 
 ## Future plans
 
-* A quarterly newsletter covering stories and issues relating to Stowmarket Library and the Friends group
-* Support for the ‘Job Club’ scheme being held in the library
+* Purchase moveable screens so that the library can be sectioned off for future events
+* To start regular author events
+* Produce a bi-monthly newsletter about Stowmarket Library and friends group activities.
 
 ## Minutes
 

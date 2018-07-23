@@ -6,6 +6,7 @@ location-text: Lowestoft Library
 event-start-date: 2018-07-28
 event-start-time: 1045
 event-end-time: 1200
+event-category: summer-holidays
 breadcrumb: y
 ---
 
