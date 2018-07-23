@@ -90,7 +90,7 @@ A comforting bedtime read filled with intricate patterned illustrations, based o
 
 ### [<cite>Gaspard the Fox</cite>, by Zeb Soanes & James Mayhew](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2396720)
 
-First in a new series about urban fox and internet sensation Gaspard, by Radio 4 news and shipping forecast reader Zeb Soanes. You can [meet the authors at Lowestoft Library on 26 May](/events/lowestoft-2018-05-26-soanes-mayhew/).
+First in a new series about urban fox and internet sensation Gaspard, by Radio 4 news and shipping forecast reader Zeb Soanes.
 
 ### [<cite>There's a Dragon in your Book</cite>, by Tom Fletcher & Greg Abbott](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2363771)
 

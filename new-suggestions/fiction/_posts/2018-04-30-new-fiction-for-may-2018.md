@@ -59,5 +59,3 @@ The sequel to [<cite>The Gospel of Loki</cite>](https://suffolk.spydus.co.uk/cgi
 ## [<cite>Jane Seymour: The Haunted Queen</cite>, by Alison Weir](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2361867)
 
 The acclaimed historian and Suffolk readers' favourite tells the story of Henry VIII’s third wife, who found herself marrying the king less than two weeks after the execution of Anne Boleyn.
-
-You can meet Alison Weir and hear her talk about <cite>Jane Seymour: The Haunted Queen</cite> at [Woodbridge Library on 2 June](/events/woodbridge-2018-06-02-alison-weir/).

@@ -103,7 +103,7 @@ breadcrumb: hub
 
 		<p>Your embroidery design options needn't be limited to the Innov-is 750E's inbuilt designs as this machine is compatible with Brother’s optional embroidery card library.</p>
 
-		<p>If you dream of designing your own patterns we recommend <a href="https://www.brothersewing.co.uk/en_GB/software?p_p_id=cataloguedisplay_WAR_Catalogueportlet_INSTANCE_n7YK&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_cataloguedisplay_WAR_Catalogueportlet_INSTANCE_n7YK_articleId=PEDPLUS2XX1">Brother’s PE Design Software</a>, which lets you create your own designs from scratch, save them onto a USB stick and transfer to our Innov-is.</p>
+		<p>If you dream of designing your own patterns we recommend <a href="http://www.brothersewing.co.uk/en_GB/software/">Brother’s PE Design Software</a>, which lets you create your own designs from scratch, save them onto a USB stick and transfer to our Innov-is.</p>
 
 		<p>We do not currently supply Brother embroidery cards or PE Design Software.</p>
 

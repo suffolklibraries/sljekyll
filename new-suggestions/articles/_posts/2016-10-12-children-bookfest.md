@@ -22,8 +22,6 @@ Armour-Chelu's first book, <cite>Fenn Halflin and the Fearzero</cite> was publis
 
 Having produced such an imaginative debut, there is little doubt that Armour-Chelu will have excellent advice for young writers who want to spin their own otherworldly yarns.
 
-You can read an interview with Hughes [here](/schools-literacy/literacy/go-beyond-the-book-fenn-halflin/).
-
 ## Emily Hughes
 
 ![Emily Hughes](images/article/emily-hughes-200.jpg)
@@ -33,10 +31,3 @@ If your child is a bit younger (aged 5-8) and artistically-inclined, they will e
 At this workshop, Emily will teach children how to draw the main character and woodland creatures from <cite>Wild</cite>, the tale of a 'completely wild' little girl, raised by creatures in the forest, who is discovered and taken to the city.  
 
 This is sure to be a really fun session, as Emily is an exciting and energetic presenter who will encourage children's creativity and boost their confidence.  She will be available to sign copies of her books after the session.  Remember to bring along some old clothing or an apron as paints and crayons will be used!
-
-<div class="{% include /c/generic-panel.html %}">
-
-<p>Cook-up-a-story with Francesca Armour-Chelu at Woodbridge Library - Friday 28 October, 10-11:30am, £5. <a href="http://www.eventbrite.co.uk/e/cook-up-a-story-with-francesca-armour-chelu-tickets-27403795490">Buy tickets</a>.</p>
-
-<p>Going Wild with Emily Hughes at Woodbridge Library - Saturday 29 October, 11:30am-12:30pm, £5  Book signing at 12:30pm.. Space is limited so please reserve your ticket early.<a href="https://www.eventbrite.co.uk/e/born-survivors-eva-clarke-with-author-wendy-holden-tickets-27624969026">Buy tickets</a>.</p>
-</div>
