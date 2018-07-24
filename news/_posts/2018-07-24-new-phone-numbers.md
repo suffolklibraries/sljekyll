@@ -10,6 +10,7 @@ breadcrumb: news
 
 Several of our libraries have recently changed their telephone numbers:
 
+* [Beccles Library](/libraries/beccles-library/)
 * [Brandon Library](/libraries/brandon-library/)
 * [Bury St Edmunds Library](/libraries/bury-st-edmunds-library/)
 * [Chantry Library](/libraries/chantry-library/)

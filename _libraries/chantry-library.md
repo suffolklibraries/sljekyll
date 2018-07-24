@@ -9,7 +9,6 @@ branch-thursday-hours: 1000 – 1300, 1400 – 1800
 branch-friday-hours: 	1000 – 1300, 1400 – 1700
 branch-saturday-hours: 0930 – 1300, 1400 – 1700
 branch-sunday-hours: Temporarily closed
-branch-manager: Emma Currie and Cathy Gale
 branch-address: Hawthorn Drive, Ipswich
 branch-post-code: IP2 0QY
 branch-tel: 01473 927275
