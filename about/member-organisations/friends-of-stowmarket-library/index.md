@@ -48,4 +48,5 @@ We were established in March 2013.
 
 ## Minutes
 
+* [Minutes - 3 May 2018](/assets/pdf/2018-05-03-fsl-minutes.pdf) (PDF)
 * [Minutes - 12 May 2017](/assets/pdf/2017-05-12-fsl-minutes.pdf) (PDF)
