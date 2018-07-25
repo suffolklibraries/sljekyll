@@ -10,4 +10,4 @@ event-ticket-price: small donation to Age UK Suffolk
 breadcrumb: y
 ---
 
-All ages are invited to drop in and celebrate International Friendship Day by decorating rocks in aid of Age UK Suffolk.
+All ages are invited to drop in and celebrate International Friendship Day by decorating pebbles in aid of Age UK Suffolk.
