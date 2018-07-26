@@ -24,7 +24,6 @@ breadcrumb: member-organisations
 * Mary Jones
 * Pauline Manders
 * Brian Matthews
-* David Welland
 
 ## Contact us
 
