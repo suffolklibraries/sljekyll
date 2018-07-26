@@ -35,7 +35,6 @@ We've teamed up with the Sporting Memories Network to host six Sporting Memories
       <li><a href="/libraries/lowestoft-library/">Lowestoft Library</a> - Thursdays, 10:30am - 12:15pm</li>
       <li><a href="/libraries/newmarket-library/">Newmarket Library</a> - Fridays, 10:30am - 12:15pm - <strong>Currently being held at Newmarket Racing Centre</strong></li>
       <li><a href="/libraries/shotley/">Shotley (Suffolk Libraries Local)</a> - second Monday of the month, 1pm - 2:45pm</li>
-      <li><a href="/libraries/stowmarket-library/">Stowmarket Library</a> - Wednesdays, 10:30am - 12:15pm</li>
     </ul>
 
 </div>
