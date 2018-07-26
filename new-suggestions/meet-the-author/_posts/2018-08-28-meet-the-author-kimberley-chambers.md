@@ -12,6 +12,8 @@ breadcrumb: meet-the-author
 
 ![Kimberley Chambers](/images/featured/featured-kimberley-chambers.jpg)
 
+Kimberley Chambers is a British crime writer known as ‘The Queen of Gangland Crime Fiction’. Kimberley is the author of 13 books. Her latest is [<cite>Life of Crime</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2409815).
+
 ## 1. Who were your literary influences as you were growing up?
 
 I was a mad Enid Blyton fan as a child. I read the Famous Five and the Land of the Faraway Tree over and over again.
