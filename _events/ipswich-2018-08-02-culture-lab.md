@@ -3,7 +3,7 @@ id: ipswich-quiz
 name: "Culture Lab: official launch of our new arts programme"
 location: ipswich-county-library
 location-text: Ipswich County Library
-event-start-date: 2018-07-26
+event-start-date: 2018-08-02
 event-start-time: 1900
 event-end-time: 2100
 breadcrumb: y
