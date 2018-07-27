@@ -24,10 +24,6 @@ The ever popular Fairport Convention have recorded many cover versions of songs 
 
 The post punk icons return with their sixth album.
 
-## [Jake Shears - <cite>Jake Shears</cite>]()
-
-The lead vocalist and a primary songwriter for the Scissor Sisters releases his first solo album. Shears has also recently published his tell-all memoir, [<cite>Boys Keep Swinging</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2425882).
-
 ## [Passenger - <cite>Runaway</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2445147)
 
 New LP from Passenger, aka Brighton’s Mike Rosenberg. There will be a European tour to support the new album.

@@ -1,6 +1,6 @@
 ---
 id: becc-holiday
-name: "Make a puppy collage"
+name: "Make a paper plate goldfish"
 location: beccles-library
 location-text: Beccles Library
 event-start-date: 2018-07-30
