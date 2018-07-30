@@ -12,7 +12,7 @@ branch-sunday-hours: 1000 – 1600
 branch-manager: Audrey Woodley
 branch-address: Camps Road, Haverhill
 branch-post-code: CB9 8HB
-branch-tel: 01440 702638
+branch-tel: 01440 848095
 branch-friends: Friends of Haverhill Library
 branch-social-media: y
 branch-twitter: haverhillibrary
