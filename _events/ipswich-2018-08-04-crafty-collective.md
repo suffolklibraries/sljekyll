@@ -9,4 +9,6 @@ event-end-time: 1630
 breadcrumb: y
 ---
 
+![The Crafty Collective Ipswich poster](/images/featured-tcci-aug-2018.jpg)
+
 Pick up some beautiful art and gifts from The Crafty Collective Ipswich. Refreshments available.
