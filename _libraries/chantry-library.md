@@ -8,7 +8,7 @@ branch-wednesday-hours: 1000 – 1300
 branch-thursday-hours: 1000 – 1300, 1400 – 1800
 branch-friday-hours: 	1000 – 1300, 1400 – 1700
 branch-saturday-hours: 0930 – 1300, 1400 – 1700
-branch-sunday-hours: Temporarily closed
+branch-sunday-hours: 1000 - 1600
 branch-manager: Vicki Mann
 branch-address: Hawthorn Drive, Ipswich
 branch-post-code: IP2 0QY
@@ -30,5 +30,4 @@ branch-photocopying: black and white available
 branch-scan-to-email: y
 branch-for-sale: "Special sale of ex-library books at knockdown prices now on."
 breadcrumb: y
-branch-news: 'The library will be reopening on Sundays from 1000-1600 on 5 August. The closest alternative library is <a href="/libraries/stoke-library/">Stoke Library</a>.'
 ---
