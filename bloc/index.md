@@ -70,41 +70,41 @@ layout: blank
 
             <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
 
-                <img class="db br-100 mw3 mw4-ns mw-100-l h-auto center" src="/images/article/kipling.png">
+                <img class="db mw3 mw4-ns mw-100-l h-auto center" src="/images/featured/featured-arts-and-creativity.png" alt="Arts and Creativity">
 
-                <p class="f6 mb0 lh-title tc">Creativity</p>
-
-            </div>
-
-            <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
-
-                <img class="db br-100 mw3 mw4-ns mw-100-l h-auto center" src="/images/article/kipling.png">
-
-                <p class="f6 mb0 lh-title tc">Creativity</p>
+                <p class="f6 mb0 lh-title tc">Arts and Creativity</p>
 
             </div>
 
             <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
 
-                <img class="db br-100 mw3 mw4-ns mw-100-l h-auto center" src="/images/article/kipling.png">
+                <img class="db mw3 mw4-ns mw-100-l h-auto center" src="/images/featured/featured-film-and-digital.png" alt="Film and Digital">
 
-                <p class="f6 mb0 lh-title tc">Creativity</p>
-
-            </div>
-
-            <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
-
-                <img class="db br-100 mw3 mw4-ns mw-100-l h-auto center" src="/images/article/kipling.png">
-
-                <p class="f6 mb0 lh-title tc">Creativity</p>
+                <p class="f6 mb0 lh-title tc">Film and Digital</p>
 
             </div>
 
             <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
 
-                <img class="db br-100 mw3 mw4-ns mw-100-l h-auto center" src="/images/article/kipling.png">
+                <img class="db mw3 mw4-ns mw-100-l h-auto center" src="/images/featured/featured-literature.png" alt="Literature">
 
-                <p class="f6 mb0 lh-title tc">Creativity</p>
+                <p class="f6 mb0 lh-title tc">Literature</p>
+
+            </div>
+
+            <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
+
+                <img class="db  mw3 mw4-ns mw-100-l h-auto center" src="/images/featured/featured-music-and-dance.png" alt="Music and Dance">
+
+                <p class="f6 mb0 lh-title tc">Music and Dance</p>
+
+            </div>
+
+            <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
+
+                <img class="db mw3 mw4-ns mw-100-l h-auto center" src="/images/featured/featured-wellbeing-and-inclusion.png" alt="Wellbeing and Inclusion">
+
+                <p class="f6 mb0 lh-title tc">Wellbeing and Inclusion</p>
 
             </div>
 
