@@ -13,10 +13,9 @@ breadcrumb: member-organisations
 
 ## Who we are
 
-* Chairperson: Marie Lewis
+* Chairperson: Anne Lowe
 * Secretary: Janet Cruttenden
 * Treasurer: Kay Mason
-* Anne Lowe
 * Anthony Platt
 * Gladis Garcia-Soza
 * Laurence Reynolds
