@@ -4,13 +4,13 @@ title: New non-fiction for August 2018
 author: brandon-king
 category: non-fiction
 date: 2018-07-30
-excerpt: "Endeavour, Migrant Mother colourised by Marina Amaral for <cite>The Colour of Time</cite>, State of Play."
+excerpt: "See historical photographs brought to life with digital techniques, find out how we can deal with the world's most urgent problems and read an up-to-the-minute analysis of modern football."
 featured-image: /images/featured/featured-august-2018-non-fiction.jpg
-featured-alt: "See historical photographs brought to life with digital techniques, find out how we can deal with the world's most urgent problems and read an up-to-the-minute analysis of modern football."
+featured-alt: "Endeavour, Migrant Mother colourised by Marina Amaral for The Colour of Time, State of Play"
 breadcrumb: non-fiction
 ---
 
-{% include /c/figure.html alt="Endeavour, Migrant Mother colourised by Marina Amaral for <cite>The Colour of Time</cite>, State of Play" src="/images/featured/featured-august-2018-non-fiction.jpg" caption="<cite>Endeavour</cite>, Migrant Mother colourised by Marina Amaral for <cite>The Colour of Time</cite>, <cite>State of Play</cite>" %}
+{% include /c/figure.html alt="Endeavour, Migrant Mother colourised by Marina Amaral for The Colour of Time, State of Play" src="/images/featured/featured-august-2018-non-fiction.jpg" caption="<cite>Endeavour</cite>, Migrant Mother colourised by Marina Amaral for <cite>The Colour of Time</cite>, <cite>State of Play</cite>" %}
 
 ## [<cite>The Colour of Time: a new history of the world, 1850-1960</cite>, by Dan Jones & Marina Amaral](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2408256)
 
