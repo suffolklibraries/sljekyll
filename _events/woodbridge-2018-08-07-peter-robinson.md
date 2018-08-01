@@ -1,6 +1,6 @@
 ---
 id: woodbridge-robinson
-name: "Browers Bookshop presents: Peter Robinson in conversation with Catherine Larner"
+name: "Browsers Bookshop presents: Peter Robinson in conversation with Catherine Larner"
 location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2018-08-07
