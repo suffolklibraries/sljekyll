@@ -23,3 +23,5 @@ Bruce Leeke, chief executive of Suffolk Libraries, said: “Libraries at their h
 Suffolk Libraries arts programmes coordinator Melissa Matthews added: “We decided we wanted our first artist residency to explore the role of arts in the community and how being creative can be used as a catalyst for bringing communities together and to support wellbeing in young people (11–25 years).
 
 “We were keen for the focus to represent the range of creative community activities which libraries now offer, so our ten artists are from a variety of disciplines and backgrounds, from a digital sound artist through to writers and illustrators.”
+
+See also: [Developing a library arts programme with young people, library staff and artists](/blog/bloc/arts-programme/)
