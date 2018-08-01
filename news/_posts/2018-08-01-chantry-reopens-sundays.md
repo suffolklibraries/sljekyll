@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "CHantry Library to reopen on Sundays from this weekend"
+title: "Chantry Library to reopen on Sundays from this weekend"
 date: 2018-08-01
 author: james-powell
 category: news
