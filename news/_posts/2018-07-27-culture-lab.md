@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Suffolk Libraries ‘Meet the Artist’ event to introduce new arts programme"
 date: 2018-07-27
 author: james-powell
-category: news
+category: ["news", "bloc-news"]
 excerpt: 'Suffolk Libraries will be officially introducing its exciting new arts programme at a special event at Ipswich County Library next Thursday evening (2 August).'
 breadcrumb: news
 ---

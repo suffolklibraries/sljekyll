@@ -13,6 +13,8 @@ breadcrumb: y
 
 **This event is now FULLY BOOKED**
 
+**This event is now FULLY BOOKED**
+
 Residents of IP3 are invited on a family coach trip to Great Yarmouth Pleasure Beach.
 
 The coach will leave the library at 9am and leave Great Yarmouth at 4:30pm - don't be late as it won't wait!
