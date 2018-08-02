@@ -5,12 +5,12 @@ date: 2018-07-31
 author: melissa-matthews
 category: ["blog", "bloc"]
 excerpt: "Arts programme coordinator Melissa Matthews talks about the next big step in the development of the Suffolk Libraries Arts Programme."
-featured-image: /images/featured/featured-arts-blog-3.jpg
+featured-image: /images/featured/featured-arts-blog-1.jpg
 featured-alt: A collage produced at an arts workshop at Sybil Andrews Academy
 breadcrumb: blog
 ---
 
-{% include /c/figure.html alt="Collage produced at an arts workshop at Sybil Andrews Academy" src="/images/featured/featured-arts-blog-3.jpg" caption="A collage produced at an arts workshop at Sybil Andrews Academy" %}
+{% include /c/figure.html alt="Collage produced at an arts workshop at Sybil Andrews Academy" src="/images/featured/featured-arts-blog-1.jpg" caption="A collage produced at an arts workshop at Sybil Andrews Academy" %}
 
 **Arts programme coordinator Melissa Matthews talks about the next big step in the development of the Suffolk Libraries Arts Programme.**
 
@@ -22,7 +22,7 @@ I was thrilled to join the Suffolk Libraries team at the beginning of such an am
 
 I have also been reaching out to young people in schools, pupil referral units and community projects to gauge how they are already using the library service and what they would like to see more of.
 
-{% include /c/figure.html alt="Things young people would like to see in libraries. Image produced at an arts workshop at Sybil Andrews Academy" src="/images/featured/featured-arts-blog-1.jpg" caption="Things young people would like to see in libraries. Image produced at an arts workshop at Sybil Andrews Academy" %}
+{% include /c/figure.html alt="Things young people would like to see in libraries. Image produced at an arts workshop at Sybil Andrews Academy" src="/images/featured/featured-arts-blog-3.jpg" caption="Things young people would like to see in libraries. Image produced at an arts workshop at Sybil Andrews Academy" %}
 
 From the offset we decided that we wanted young people to own the programme and have their voices heard. We therefore designed it with, rather than for, them. We went out into schools and approached community groups to ask the opinions of young people from a variety of educational settings and backgrounds from across the county. We asked them what they wanted in their libraries and in their communities and we were flooded with ideas, suggestions... and demands!
 
