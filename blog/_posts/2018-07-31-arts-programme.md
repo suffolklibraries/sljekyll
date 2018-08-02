@@ -10,7 +10,7 @@ featured-alt: A collage produced at an arts workshop at Sybil Andrews Academy
 breadcrumb: blog
 ---
 
-{% include /c/figure.html alt="A collage produced at an arts workshop at Sybil Andrews Academy" src="/images/featured/featured-arts-blog-3.jpg" caption="A collage produced at an arts workshop at Sybil Andrews Academy" %}
+{% include /c/figure.html alt="Collage produced at an arts workshop at Sybil Andrews Academy" src="/images/featured/featured-arts-blog-3.jpg" caption="A collage produced at an arts workshop at Sybil Andrews Academy" %}
 
 **Arts programme coordinator Melissa Matthews talks about the next big step in the development of the Suffolk Libraries Arts Programme.**
 
