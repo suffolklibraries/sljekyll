@@ -3,7 +3,7 @@ id: low-summer
 name: "Minibeast Madness with Butterflies of Britain"
 location: lowestoft-library
 location-text: Lowestoft Library
-event-start-date: 2018-08-03
+event-start-date: 2018-08-08
 event-start-time: 1030
 event-end-time: 1130
 event-category: summer-holidays
