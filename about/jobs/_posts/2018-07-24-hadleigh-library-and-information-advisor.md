@@ -4,7 +4,7 @@ title: Library and information advisor, Hadleigh Library
 category: jobs
 sidebar: about
 breadcrumb: jobs
-excerpt: "7 hours every other Saturday, &pound;8.17 per hour, closing date Mon 6 Aug."
+excerpt: "7 hours every other Saturday, &pound;8.17 per hour, closing date Fri 10 Aug."
 expiry-date: 2018-08-10
 ---
 
