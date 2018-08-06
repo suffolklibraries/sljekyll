@@ -9,7 +9,10 @@ event-ticket-price: 10 for a family of 4 (max 2 adults) or £3 per person
 event-category: summer-holidays
 breadcrumb: y
 ---
+<<<<<<< HEAD
 **This event is now FULLY BOOKED**
+=======
+>>>>>>> parent of 5ebf3eca5e... booked
 
 Residents of IP3 are invited on a family coach trip to Great Yarmouth Pleasure Beach.
 
