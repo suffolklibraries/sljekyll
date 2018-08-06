@@ -4,7 +4,7 @@ title: "Lesley’s Readers on BBC Radio Suffolk – book choice for September"
 date: 2018-08-06
 author: alice-violett
 category: news
-excerpt: 'This month Lesley will be discussing <cite>The Sealwoman's Gift</cite>, by Sally Magnusson.'
+excerpt: "This month Lesley will be discussing <cite>The Sealwoman's Gift</cite>, by Sally Magnusson."
 breadcrumb: news
 ---
 
