@@ -1,6 +1,6 @@
 ---
 id: gains-coach
-name: "Summer Family Coach Trip to Great Yarmouth Pleasure Beach - FULLY BOOKED"
+name: "Summer Family Coach Trip to Great Yarmouth Pleasure Beach"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2018-08-14
@@ -9,8 +9,6 @@ event-ticket-price: 10 for a family of 4 (max 2 adults) or £3 per person
 event-category: summer-holidays
 breadcrumb: y
 ---
-**This event is now FULLY BOOKED**
-
 **This event is now FULLY BOOKED**
 
 **This event is now FULLY BOOKED**
