@@ -16,6 +16,7 @@ Several of our libraries have recently changed their telephone numbers:
 * [Chantry Library](/libraries/chantry-library/)
 * [Felixstowe Library](/libraries/felixstowe-library/)
 * [Gainsborough Community Library](/libraries/gainsborough-community-library/)
+* [Haverhill Library](/libraries/haverhill-library/)
 * [Ipswich County Library](/libraries/ipswich-county-library/)
 * [Sudbury Library](/libraries/sudbury-library/)
 * [Woodbridge Library](/libraries/woodbridge-library/)
