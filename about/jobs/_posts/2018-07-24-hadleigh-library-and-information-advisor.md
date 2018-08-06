@@ -5,7 +5,7 @@ category: jobs
 sidebar: about
 breadcrumb: jobs
 excerpt: "7 hours every other Saturday, &pound;8.17 per hour, closing date Mon 6 Aug."
-expiry-date: 2018-08-06
+expiry-date: 2018-08-10
 ---
 
 [Download a role profile](/assets/pdf/library-and-information-advisor-july-2018.pdf) (PDF).
@@ -32,4 +32,4 @@ The rate of pay is &pound;8.17 per hour.
 
 If you are interested, please send a CV and supporting statement outlining what you could bring to this position and Suffolk Libraries to: **recruitment@suffolklibraries.co.uk**
 
-The closing date for applications is **Monday 6 August 2018**. Interviews will be held on **Friday 17 August 2018**.
+The closing date for applications is **Friday 10 August 2018**. Interviews will be held on **Friday 17 August 2018**.

@@ -1,10 +1,10 @@
 ---
-id: elm-src
+id: bran-src
 name: "Summer Reading Challenge presentation"
-location: elmswell-library
-location-text: Elmswell Library
-event-start-date: 2018-09-07
-event-start-time: 1700
+location: brandon-library
+location-text: Brandon Library
+event-start-date: 2018-09-14
+event-start-time: 1545
 event-category: src-presentation
 breadcrumb: y
 ---
