@@ -49,9 +49,11 @@ layout: blank
 
                 <div class="ph2 ph3-ns pv3">
 
-                    <h2 class="mt0 f4 lh-title white">Mike Challis</h2>
+                    <h2 class="mt0 f4 lh-title white">Stella Woolnough</h2>
 
-                    <p class="ma0 measure">Mike Challis is a freelance sound artist, maker and educator. His work increasingly engages with the sounds of nature. His SoundHide for SPILL 2016 created a den in a straw lined hut where the audience could relax and listen to the sounds of nature in Ipswich’s green spaces. He's made sound designs for Oily Cart Theatre Company’s Kubla Khan and Hush-A-Bye. Mike enjoys making work by walking, creating pieces from the resulting sound material collected. He also enjoys making devices to do interesting, useful and useless things.</p>
+                    <p class="ma0 measure">Stella Woolnough creates colourful collage collections of drawn buildings, small in size but great in detail which are brought together creating diverse communities. These communities explore concepts of the human condition that exists within individual homes which disperses into the local community.  Consumption is investigated through the injection of receipt cuttings, questioning the impact belongings have upon human beings. Using her creative core in drawing, Stella creates larger installations, and childish short films that explore the roles that communities have within society and use a childish approach to communicate complex thinking through naïve, playful aesthetics.</p>
+
+
 
                 </div>
 
@@ -59,7 +61,7 @@ layout: blank
 
             <div class="w-50-l pb4 pb0-l flex-l flex-column-l justify-center-l items-center-l">
 
-                <img alt="Mike Challis" class="db center" src="/images/bloc/artists/mike-challis.jpg">
+                <img alt="Stella Woolnough" class="db center" src="/images/bloc/artists/stella-woolnough.jpg">
 
             </div>
 
@@ -87,7 +89,7 @@ layout: blank
 
             <div class="w-50-l pb4 pb0-l flex-l flex-column-l justify-center-l items-center-l">
 
-                <img alt="Alice Andrea Ewing" class="db center" src="/images/bloc/artists/alice-andrea-ewing.jpg">
+                <img alt="Hanging sculpture of thin hooks and lines" class="db center" src="/images/bloc/artists/alice-andrea-ewing.jpg">
 
             </div>
 
@@ -149,6 +151,34 @@ layout: blank
 
     <section class="bg-black gold">
 
+        <div class="custom-max-width flex-l flex-wrap-l justify-between-l flex-row-reverse-l">
+
+            <div class="w-50-l">
+
+                <div class="ph2 ph3-ns pv3">
+
+                    <h2 class="f4 lh-title mt1">Kristy Campbell</h2>
+
+                    <p class="ma0 measure">Kristy Campbell’s practice aims to convey a visual language that demonstrates the fluid ambiguity of meaning, hence of reading; through discourse, design, and changing contexts. This study of semiotics challenges linguistic traditions, methods of curation, and medium, but more intensively it confronts the connotation forced and attached to particular words. Deconstruction and Deconstructivism theory fuel this. They intend to tilt, to fragment, and to stylize forming a dysfunctional and seemingly misguided structure, making way for an accessible alternative freedom within language.</p>
+
+
+
+                </div>
+
+            </div>
+
+            <div class="w-50-l pb4 pb0-l flex-l flex-column-l justify-center-l items-center-l">
+
+                <img alt="Painting of a red square at an angle on an orange background" class="db center" src="/images/bloc/artists/kristy-campbell.jpg">
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section class="bg-lightest-blue dark-gray">
+
         <div class="custom-max-width flex-l flex-wrap-l justify-between-l">
 
             <div class="w-50-l">
@@ -175,34 +205,6 @@ layout: blank
 
     </section>
 
-    <section class="bg-lightest-blue dark-gray">
-
-        <div class="custom-max-width flex-l flex-wrap-l justify-between-l flex-row-reverse-l">
-
-            <div class="w-50-l">
-
-                <div class="ph2 ph3-ns pv3">
-
-                    <h2 class="f4 lh-title mt1">Kristy Campbell</h2>
-
-                    <p class="ma0 measure">Kristy Campbell’s practice aims to convey a visual language that demonstrates the fluid ambiguity of meaning, hence of reading; through discourse, design, and changing contexts. This study of semiotics challenges linguistic traditions, methods of curation, and medium, but more intensively it confronts the connotation forced and attached to particular words. Deconstruction and Deconstructivism theory fuel this. They intend to tilt, to fragment, and to stylize forming a dysfunctional and seemingly misguided structure, making way for an accessible alternative freedom within language.</p>
-
-
-
-                </div>
-
-            </div>
-
-            <div class="w-50-l pb4 pb0-l flex-l flex-column-l justify-center-l items-center-l">
-
-                <img alt="Kristy Campbell" class="db center" src="/images/bloc/artists/kristy-campbell.jpg">
-
-            </div>
-
-        </div>
-
-    </section>
-
     <section class="bg-black gold">
 
         <div class="custom-max-width flex-l flex-wrap-l justify-between-l">
@@ -221,7 +223,7 @@ layout: blank
 
             <div class="w-50-l pb4 pb0-l flex-l flex-column-l justify-center-l items-center-l">
 
-                <img alt="Lynnette King" class="db center" src="/images/bloc/artists/lynette-king.jpg">
+                <img alt="A woman at the bottom of a cliff in a pink dress" class="db center" src="/images/bloc/artists/lynette-king.jpg">
 
             </div>
 
@@ -265,11 +267,9 @@ layout: blank
 
                 <div class="ph2 ph3-ns pv3">
 
-                    <h2 class="mt0 f4 lh-title white">Stella Woolnough</h2>
+                    <h2 class="mt0 f4 lh-title white">Mike Challis</h2>
 
-                    <p class="ma0 measure">Stella Woolnough creates colourful collage collections of drawn buildings, small in size but great in detail which are brought together creating diverse communities. These communities explore concepts of the human condition that exists within individual homes which disperses into the local community.  Consumption is investigated through the injection of receipt cuttings, questioning the impact belongings have upon human beings. Using her creative core in drawing, Stella creates larger installations, and childish short films that explore the roles that communities have within society and use a childish approach to communicate complex thinking through naïve, playful aesthetics.</p>
-
-
+                    <p class="ma0 measure">Mike Challis is a freelance sound artist, maker and educator. His work increasingly engages with the sounds of nature. His SoundHide for SPILL 2016 created a den in a straw lined hut where the audience could relax and listen to the sounds of nature in Ipswich’s green spaces. He's made sound designs for Oily Cart Theatre Company’s Kubla Khan and Hush-A-Bye. Mike enjoys making work by walking, creating pieces from the resulting sound material collected. He also enjoys making devices to do interesting, useful and useless things.</p>
 
                 </div>
 
@@ -277,7 +277,7 @@ layout: blank
 
             <div class="w-50-l pb4 pb0-l flex-l flex-column-l justify-center-l items-center-l">
 
-                <img alt="Stella Woolnough" class="db center" src="/images/bloc/artists/stella-woolnough.jpg">
+                <img alt="A hut in the Suffolk countryside" class="db center" src="/images/bloc/artists/mike-challis.jpg">
 
             </div>
 
@@ -295,7 +295,7 @@ layout: blank
 
                     <h2 class="f4 lh-title mt1">Tommy Norris</h2>
 
-                    <p class="ma0 measure">Tommy Norris is a Suffolk and Norfolk based community dance artist whose trained in contemporary release, Cunningham, improvisational, somatic and health related techniques. He has experience in working with a range of ages, from primary children all the way through to the elderly, but Tommy’s main passion in community dance practice is making work, and moving, with people living with additional needs.</p>
+                    <p class="ma0 measure">Tommy Norris is a Suffolk and Norfolk based community dance artist who has trained in contemporary release, Cunningham, improvisational, somatic and health related techniques. He has worked with a range of ages, from primary children all the way through to the elderly, but Tommy’s main passion in community dance practice is making work, and moving, with people living with additional needs.</p>
 
 
 
@@ -305,7 +305,7 @@ layout: blank
 
             <div class="w-50-l pb4 pb0-l flex-l flex-column-l justify-center-l items-center-l">
 
-                <img alt="Tommy Norris" class="db center" src="/images/bloc/artists/tommy-norris.jpg">
+                <img alt="Two men dancing by a rail crossing in the dark" class="db center" src="/images/bloc/artists/tommy-norris.jpg">
 
             </div>
 
