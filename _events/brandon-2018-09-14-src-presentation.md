@@ -9,4 +9,4 @@ event-category: src-presentation
 breadcrumb: y
 ---
 
-Children who have completed this year's Summer Reading Challenge are invited to receive their certificates and prizes.
+Children who have completed this year's Summer Reading Challenge are invited to receive their certificates and prizes from Cllr Victor Lukaniuk.
