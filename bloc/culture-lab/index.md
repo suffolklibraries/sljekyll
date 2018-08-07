@@ -151,13 +151,13 @@ layout: blank
 
     <section class="bg-black gold">
 
-        <div class="custom-max-width flex-l flex-wrap-l justify-between-l flex-row-reverse-l">
+        <div class="custom-max-width flex-l flex-wrap-l justify-between-l">
 
             <div class="w-50-l">
 
                 <div class="ph2 ph3-ns pv3">
 
-                    <h2 class="f4 lh-title mt1">Kristy Campbell</h2>
+                    <h2 class="f4 lh-title mt1 white">Kristy Campbell</h2>
 
                     <p class="ma0 measure">Kristy Campbell’s practice aims to convey a visual language that demonstrates the fluid ambiguity of meaning, hence of reading; through discourse, design, and changing contexts. This study of semiotics challenges linguistic traditions, methods of curation, and medium, but more intensively it confronts the connotation forced and attached to particular words. Deconstruction and Deconstructivism theory fuel this. They intend to tilt, to fragment, and to stylize forming a dysfunctional and seemingly misguided structure, making way for an accessible alternative freedom within language.</p>
 
@@ -179,13 +179,13 @@ layout: blank
 
     <section class="bg-lightest-blue dark-gray">
 
-        <div class="custom-max-width flex-l flex-wrap-l justify-between-l">
+        <div class="custom-max-width flex-l flex-wrap-l justify-between-l flex-row-reverse-l">
 
             <div class="w-50-l">
 
                 <div class="ph2 ph3-ns pv3">
 
-                    <h2 class="mt0 f4 lh-title white">Emily Godden</h2>
+                    <h2 class="mt0 f4 lh-title">Emily Godden</h2>
 
                     <p class="ma0 measure">Emily Godden is based in Suffolk and is inspired by the diverse rural landscape and coastline. This has fed into recent work using virtual reality as a mechanism to transmit data, and communicate traces, to exploit the essence of print in a post-digital landscape. Emily is currently researching and developing the application of AI to VR. She hopes to create positive behaviour changing experiences surrounding sustainability issues. She has exhibited and presented works in Suffolk at Aldeburgh Beach Lookout and SPILL Festival, as well as further afield at galleries including Somerset House.</p>
 
