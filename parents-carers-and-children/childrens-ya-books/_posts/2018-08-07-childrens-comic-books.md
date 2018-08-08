@@ -10,7 +10,9 @@ featured-alt: "Hilda and the Troll, Dog Man, El Deafo"
 breadcrumb: childrens-ya-books
 ---
 
-![](/images/featured/featured-childrens-comic-books.jpg)
+![Hilda and the Troll, Dog Man, El Deafo](/images/featured/featured-childrens-comic-books.jpg)
+
+Did you know that comic books count towards the Summer Reading Challenge? We've picked out some of our favourites to help you choose.
 
 ## [<cite>Hilda and the Troll</cite>, by Luke Pearson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1821385)
 
