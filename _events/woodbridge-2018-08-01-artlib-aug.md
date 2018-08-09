@@ -4,7 +4,7 @@ name: 'ArtLib: Waldringfield Art Group'
 location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2018-08-01
-event-end-date: 2018-08-31
+event-end-date: 2018-09-30
 breadcrumb: y
 ---
 
