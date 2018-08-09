@@ -1,11 +1,13 @@
 ---
 layout: sidebar-right
-title: Re–registering an expired library card
+title: Updating your library account
 breadcrumb: help
 sidebar: help
 ---
 
-<p>Your library card membership expires automatically after 3 years. This helps us keep your information up to date.</p>
+<p>Complete this form if you wish to change the name and/or address on your library account.</p>
+
+<p>You can also use this form to re-register your library account, which expires automatically after 3 years. This helps us keep your information up to date.</p>
 
 <p>You can continue to use our services when this happens, but confirming your details will help us provide a better service.</p>
 
@@ -15,10 +17,26 @@ sidebar: help
 
     <fieldset>
 
-        <label class="f5 pt2 mb2">Name <span class="red">*</span></label>
+        <label class="f5 pt2 mb2">Name you have registered with us <span class="red">*</span></label>
         <input class="border-box w-100" type="text" required name="name">
 
-        <label class="f5 pt2 mb2">Title</label>
+        <label class="f5 pt2 mb2">New name (if applicable) </label>
+        <input class="border-box w-100" type="text" name="name">
+
+        <label class="f5 pt2 mb2">Title you have registered with us </label>
+        <select name="title">
+          <option value="miss">Miss</option>
+          <option value="mr">Mr</option>
+          <option value="mrs">Mrs</option>
+          <option value="ms">Ms</option>
+          <option value="other">Other</option>
+          <option value="other">Unsure</option>
+        </select>
+
+        <label class="f5 pt2 mb2">Please specify title if you selected 'other'</label>
+        <input type="text" name="other-title">
+
+        <label class="f5 pt2 mb2">New title (if applicable) </label>
         <select name="title">
           <option value="miss">Miss</option>
           <option value="mr">Mr</option>
@@ -97,7 +115,7 @@ sidebar: help
         <label class="f5 pt2 mb2">Address you have registered with us <span class="red">*</span></label>
         <textarea name="address" required class="border-box w-100"></textarea>
 
-        <label class="f5 pt2 mb2">Your current address (if different)</label>
+        <label class="f5 pt2 mb2">New address (if applicable)</label>
         <textarea name="new-address" class="border-box w-100"></textarea>
 
         <label class="f5 pt2 mb2">Phone number</label>
