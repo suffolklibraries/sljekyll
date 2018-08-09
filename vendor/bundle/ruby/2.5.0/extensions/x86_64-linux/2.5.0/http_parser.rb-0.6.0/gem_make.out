@@ -1,0 +1,16 @@
+current directory: /home/leon/Sites/sljekyll/vendor/bundle/ruby/2.5.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/usr/bin/ruby2.5 -r ./siteconf20180809-20861-vpkvkr.rb extconf.rb
+creating Makefile
+
+current directory: /home/leon/Sites/sljekyll/vendor/bundle/ruby/2.5.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /home/leon/Sites/sljekyll/vendor/bundle/ruby/2.5.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/leon/Sites/sljekyll/vendor/bundle/ruby/2.5.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20180809-20861-1d7ghtk
