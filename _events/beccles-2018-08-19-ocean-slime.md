@@ -1,6 +1,6 @@
 ---
 id: becc-holiday
-name: "Make your ocean slime and sand foam"
+name: "Make your own ocean slime and sand foam"
 location: beccles-library
 location-text: Beccles Library
 event-start-date: 2018-08-19
