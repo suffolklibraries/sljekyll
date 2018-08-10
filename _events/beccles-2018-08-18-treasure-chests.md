@@ -1,6 +1,6 @@
 ---
 id: becc-holiday
-name: "Make your treasure chests"
+name: "Make your own treasure chests"
 location: beccles-library
 location-text: Beccles Library
 event-start-date: 2018-08-18
