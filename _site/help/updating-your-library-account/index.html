@@ -152,15 +152,15 @@
 
 <p>Fields marked with a <span class="red">*</span> are required.</p>
 
-<form class="pure-form pure-form-stacked" netlify name="re-register-library-card" action="/help/reregistering-an-expired-library-card/confirmation" netlify-honeypot="bot-field">
+<form class="pure-form pure-form-stacked" netlify name="re-register-library-card" action="/help/updating-your-library-account/confirmation" netlify-honeypot="bot-field">
 
     <fieldset>
 
         <label class="f5 pt2 mb2">Name you have registered with us <span class="red">*</span></label>
-        <input class="border-box w-100" type="text" required name="name">
+        <input class="border-box w-100" type="text" required name="current-name">
 
         <label class="f5 pt2 mb2">New name (if applicable) </label>
-        <input class="border-box w-100" type="text" name="name">
+        <input class="border-box w-100" type="text" name="new-name">
 
         <label class="f5 pt2 mb2">Title you have registered with us </label>
         <select name="title">
@@ -169,19 +169,19 @@
           <option value="mrs">Mrs</option>
           <option value="ms">Ms</option>
           <option value="other">Other</option>
-          <option value="other">Unsure</option>
+          <option value="unsure">Unsure</option>
         </select>
 
         <label class="f5 pt2 mb2">Please specify title if you selected 'other'</label>
         <input type="text" name="other-title">
 
         <label class="f5 pt2 mb2">New title (if applicable) </label>
-        <select name="title">
-          <option value="miss">Miss</option>
-          <option value="mr">Mr</option>
-          <option value="mrs">Mrs</option>
-          <option value="ms">Ms</option>
-          <option value="other">Other</option>
+        <select name="new-title">
+          <option value="new-miss">Miss</option>
+          <option value="new-mr">Mr</option>
+          <option value="new-mrs">Mrs</option>
+          <option value="new-ms">Ms</option>
+          <option value="new-other">Other</option>
         </select>
 
         <label class="f5 pt2 mb2">Please specify title if you selected 'other'</label>
@@ -269,7 +269,7 @@
 
         <p class="dn"><input name="bot-field"></p>
 
-        <button type="submit" class="custom-no-underline ba b--white br2 custom-force-white bg-blue pv2 ph3 hover-bg-white hover-white">Submit</button>
+        <button type="submit" class="custom-no-underline ba b--white br2 custom-force-white bg-blue pv2 ph3 pointer hover-white">Submit</button>
 
 
 </form>
