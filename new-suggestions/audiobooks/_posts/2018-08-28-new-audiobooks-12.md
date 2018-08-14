@@ -150,7 +150,7 @@ breadcrumb: audiobooks
 
 > "But as small acts of mischief escalate into a vicious battle, Lord Blackheart realizes that Nimona's powers are as murky and mysterious as her past. And her unpredictable wild side might be more dangerous than he is willing to admit."
 
-### [<cite>Adolf Hitler: my part in his downfall</cite> written and read by Spike Milligan](https://suffolklibraries.overdrive.com/media/2527164)
+### [<cite>Adolf Hitler: my part in his downfall</cite>, written and read by Spike Milligan](https://suffolklibraries.overdrive.com/media/2527164)
 
 > "'At Victoria station the R.T.O. gave me a travel warrant, a white feather and a picture of Hitler marked "This is your enemy". I searched every compartment, but he wasn't on the train...'
 
@@ -210,10 +210,9 @@ breadcrumb: audiobooks
 
 > "Both a searing first-hand account of the human cost of the criminal justice system, and a guide to how we got into this mess, <cite>The Secret Barrister</cite> wants to show you what it’s really like and why it really matters."
 
-### [<cite>Sing, Unburied, Sing</cite>, by Jesmyn Ward, read by Chris Chalk, Rutina Wesley and Kelvin Harrison Jr.](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_504455&fromPage=1&b2bSite=4172)
+### [<cite>Sing, Unburied, Sing</cite>, by Jesmyn Ward, read by Chris Chalk, Rutina Wesley & Kelvin Harrison Jr.](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_504455&fromPage=1&b2bSite=4172)
 
-> "
-Jojo is 13 years old and trying to understand what it means to be a man. His mother, Leonie, is in constant conflict with herself and those around her. She is black and her children's father is white. Embattled in ways that reflect the brutal reality of her circumstances, she wants to be a better mother but can't put her children above her own needs, especially her drug use.
+> "Jojo is 13 years old and trying to understand what it means to be a man. His mother, Leonie, is in constant conflict with herself and those around her. She is black and her children's father is white. Embattled in ways that reflect the brutal reality of her circumstances, she wants to be a better mother but can't put her children above her own needs, especially her drug use.
 
 > "When the children's father is released from prison, Leonie packs her kids and a friend into her car and drives north to the heart of Mississippi and Parchman Farm, the State Penitentiary. At Parchman, there is another boy, the ghost of a dead inmate who carries all of the ugly history of the South with him in his wandering. He too has something to teach Jojo about fathers and sons, about legacies, about violence, about love."
 

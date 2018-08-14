@@ -54,7 +54,7 @@ Another Radio 4 Book of the Week.
 
 North Korea is never far from the headlines. In this new book concentrating mainly on the architecture of the country, <cite>Guardian</cite> journalist and photographer Oliver Wainwright takes us behind closed doors in the world's most secretive nation.
 
-## [<cite>Drive your Plow over the Bones of the Dead</cite>, by Olga Tokarczuk & Antonia Lloyd-Jones (ed.)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2439234)
+## [<cite>Drive your Plow over the Bones of the Dead</cite>, by Olga Tokarczuk & Antonia Lloyd-Jones (trans.)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2439234)
 
 > "The novel takes place in a remote village in south-west Poland where Janina, an eccentric woman in her 60s, describes the events surrounding the disappearance of her two dogs. When members of a local hunting club are subsequently found murdered, she becomes involved in the investigation.
 

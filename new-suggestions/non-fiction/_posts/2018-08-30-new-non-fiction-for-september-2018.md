@@ -34,11 +34,11 @@ Hilary Mantel has said: “This is the biography we have been awaiting for 400 y
 
 ## [<cite>The Spy and the Traitor: the greatest espionage story of the Cold War</cite>, by Ben MacIntyre](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2423891)
 
-Any non-fiction by Ben Macintyre is invariably popular so get your reservation in quickly.
+Any non-fiction by Ben Macintyre is invariably popular, so get your reservation in quickly.
 
 Macintyre tells the story of Russian double agent Oleg Gordievsky and a defection that changed the course of the Cold War.
 
-## [<cite>How Does it Feel? A life of musical misadventures</cite>, by Mark Kermode](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2434323)
+## [<cite>How Does It Feel? A life of musical misadventures</cite>, by Mark Kermode](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2434323)
 
 Anyone who is a fan of Mark Kermode’s hilarious film reviews is likely to enjoy this autobiographical account of his riotous attempts to become a pop star.
 
