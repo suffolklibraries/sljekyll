@@ -23,4 +23,4 @@ genre-alt: "Simon vs. the Homo Sapiens Agenda"
 
 Although they are very different books, <cite>Simon vs. the Homo Sapiens Agenda</cite> reminded me of the excellent [<cite>Wonder</cite>, by R. J Palacio](/new-suggestions/young-adult/wonder-by-r-j-palacio/), perhaps because they are both based in schools and focus on how the main characters deal with their particular situations. We find out early on that Simon is being blackmailed by someone who knows he is gay, and he has to deal with this as well as finding out who the mysterious 'Blue' is.
 
-I loved this book, and would recommend it and its successor, [<cite>Leah on the Offbeat</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2360401), to anyone with an interest in LGBT issues.
+I loved this book, and would recommend it and its successor, [<cite>Leah on the Offbeat</cite>](/new-suggestions/young-adult/leah-on-the-offbeat-by-becky-albertalli/), to anyone with an interest in LGBT issues.

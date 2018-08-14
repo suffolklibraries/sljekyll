@@ -4,7 +4,7 @@ title: 'Meet the Author: Harriet Evans'
 date: 2018-08-14
 author: brandon-king
 category: meet-the-author
-excerpt: "Harriet Evans tells us about her latest novel, <cite>The Wildflowers</cite> and how she spends four days a week writing in a library."
+excerpt: "Harriet Evans tells us about her latest novel, <cite>The Wildflowers</cite>, and how she spends four days a week writing in a library."
 featured-image: /images/featured/featured-harriet-evans.jpg
 featured-alt: "Harriet Evans"
 breadcrumb: meet-the-author
