@@ -18,6 +18,7 @@ Several of our libraries have recently changed their telephone numbers:
 * [Gainsborough Community Library](/libraries/gainsborough-community-library/)
 * [Haverhill Library](/libraries/haverhill-library/)
 * [Ipswich County Library](/libraries/ipswich-county-library/)
+* [Lowestoft Library](/libraries/lowestoft-library/)
 * [Sudbury Library](/libraries/sudbury-library/)
 * [Woodbridge Library](/libraries/woodbridge-library/)
 

@@ -12,7 +12,7 @@ branch-sunday-hours: 1000 – 1600
 branch-manager: Jo Wilde
 branch-address: Clapham Road South, Lowestoft
 branch-post-code: NR32 1DR
-branch-tel: 01502 674660
+branch-tel: 01502 442810
 branch-fax: 01502 528562
 branch-friends: Friends of Lowestoft Library
 branch-friends-url: /about/member-organisations/friends-of-lowestoft-library

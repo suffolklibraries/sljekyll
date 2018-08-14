@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Singing and stories"
-recurrent-description: "Stories, nursery rhymes and songs for 0-4 year-olds."
+recurrent-description: "Stories, nursery rhymes and songs for 0-4 year-olds. No session 20 August."
 recurrent-day: Monday
 recurrent-times: 1415-1445
 recurrent-location: shotley
