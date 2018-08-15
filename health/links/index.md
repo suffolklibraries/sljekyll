@@ -84,6 +84,8 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="http://www.nhs.uk/Pages/HomePage.aspx">NHS Choices</a> - Your GP contact details and local NHS services can be found here</li>
 	<li><a href="https://www.wellbeingnands.co.uk/">Norfolk and Suffolk Wellbeing service</a></li>
 	<li><a href="http://www.samaritans.org/how-we-can-help-you">Samaritans</a> - There for you 24 hours a day, 7 days a week</li>
+	<li><a href="http://www.emotionalwellbeinggateway.org.uk/">Suffolk Children and Young People's Emotional Wellbeing Hub Service</a> - A multi-agency team offering a central point of contact for parents, carers, and professionals to make a referral or get advice if they are concerned about the wellbeing and mental health of a child or young person in <strong>East or West Suffolk</strong>.</li>
+	<li><a href="https://point-1.org.uk/">Point 1</a> - A multi-agency team offering a central point of contact for parents, carers, and professionals to make a referral or get advice if they are concerned about the wellbeing and mental health of a child or young person in <strong>Waveney or Norfolk</strong>.</li>
 </ul>
 <h3 id="bereavement">Bereavement</h3>
 <ul>
@@ -235,6 +237,7 @@ Here are some of the organisations and information sources available for a varie
 </ul>
 <h3 id="young">Young people</h3>
 <ul>
+	<li><a href="http://www.thesource.me.uk/health/emotional-health-and-wellbeing-hub/">Suffolk Children and Young People's Emotional Wellbeing Hub</a> - Provides information, advice, and guidance if you are a young person who needs emotional wellbeing support. <strong>If you are a parent</strong> concerned about the emotional wellbeing and mental health of a child or young person aged 0-25 years, please use the <a href="http://www.emotionalwellbeinggateway.org.uk/">Emotional Wellbeing Gateway</a>.</li>
 	<li><a href="http://www.4yp.org.uk/">4YP (Suffolk Young People's Health Project)</a> - Provides and coordinates support to improve the social, emotional and physical health of young people in Suffolk (aged 12-25). Confidential online chat available with a 4YP expert also available.</li>
 	<li><a href="https://www.suffolk.gov.uk/children-families-and-learning/childrens-health/school-nursing/#tab2">ChatHealth</a> - People aged 11-19 can text their school nurse on <a href="tel:07507333356">07507333356</a> for an appointment or advice on many health issues including sexual health, emotional wellbeing, bullying and self-harm</li>
 	<li><a href="http://www.thesource.me.uk/">The Source</a> - Offers young people in Suffolk information, advice and support on health, work, training, relationships and more.</li>
