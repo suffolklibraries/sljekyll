@@ -11,3 +11,5 @@ breadcrumb: y
 ---
 
 9-12 year-olds are invited for a taster of Woodcraft Folk, a new group in the local area where young people can explore the social and natural world around them.
+
+Visit the [Woodcraft Folk website](https://woodcraft.org.uk/) for more information about the organisation and what they do.
