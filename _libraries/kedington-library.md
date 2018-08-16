@@ -3,12 +3,12 @@ branch-unique-id: kedington-library
 branch-name: Kedington Library
 branch-image: /images/branches/kedington-library.jpg
 branch-monday-hours: Closed
-branch-tuesday-hours:	1400 – 1700, 1730 – 1930
-branch-wednesday-hours: 0900 – 1300, 1400 – 1700
-branch-thursday-hours: 1100 – 1300, 1400 – 1700
-branch-friday-hours: Closed
+branch-tuesday-hours:	1130 - 1300, 1330 - 1800
+branch-wednesday-hours: 0900 – 1300, 1330 – 1630
+branch-thursday-hours: 1300 - 1700
+branch-friday-hours: 1100 - 1500
 branch-saturday-hours: 0900 – 1300
-branch-sunday-hours: 1300 – 1700
+branch-sunday-hours: Closed
 branch-manager: Dawn Bamford
 branch-address: Community Centre, Arms Lane, Kedington
 branch-post-code: CB9 7QQ
@@ -27,5 +27,4 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/kedington-library
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
-branch-news: '<a href="/news/kedington-opening-hours-change/">Kedington Library opening hours to change in August</a></li>'
 ---
