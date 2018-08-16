@@ -20,7 +20,7 @@ Your library card allows you to:
 
 - borrow titles from all [our libraries](/libraries/)
 - renew, reserve and view your details and loans online
-- download ebooks, online magazines, audiobooks and music for free
+- download [eBooks, eAudiobooks, online newspapers and magazines and music](/elibrary/) for free
 
 Your library card is free.
 
