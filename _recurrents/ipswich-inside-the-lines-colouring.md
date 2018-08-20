@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Inside the lines: adult colouring group"
-recurrent-description: "Held in the Hub, £1 a session."
+recurrent-description: "Held in 'The Corner Place' on the ground floor, £1 a session."
 recurrent-day: Tuesday
 recurrent-times: 1030-1130
 recurrent-location: ipswich-county-library

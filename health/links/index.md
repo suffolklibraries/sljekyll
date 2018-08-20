@@ -27,15 +27,16 @@ Here are some of the organisations and information sources available for a varie
 		<li><a href="#employment">Employment</a></li>
 		<li><a href="#epilepsy">Epilepsy</a></li>
 		<li><a href="#hallucinations">Hallucinations and voice hearing</a></li>
+		<li><a href="#local">Local organisations</a></li>
 	</ul>
 	</div>
 	<div class="custom-g-l3 custom-g-nm">
 	<ul>
-		<li><a href="#local">Local organisations</a></li>
 		<li><a href="#medication">Medication</a></li>
 		<li><a href="#miscarriage">Miscarriage and postnatal depression</a></li>
 		<li><a href="#money">Money &amp; debt</a></li>
 		<li><a href="#national">National organisations</a></li>
+		<li><a href="#parents">Parents and carers</a></li>
 		<li><a href="#personality">Personality disorder</a></li>
 		<li><a href="#psychosis">Psychosis</a></li>
 		<li><a href="#schizophrenia">Schizophrenia</a></li>
@@ -190,6 +191,11 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="http://www.rethink.org">Rethink</a> - Information and guidance, local support groups and telephone support both locally and nationally</li>
 	<li><a href="http://www.samaritans.org/">Samaritans</a> - Available 24 hours, 7 days a week</li>
 	<li><a href="http://www.sane.org.uk/what_we_do/support/helpline">Saneline</a> - National campaigning charity, phone helpline (available 1800-2300), information and guidance</li>
+</ul>
+<h3 id="parents">Parents and carers</h3>
+<ul>
+	<li><a href="https://www.parentsandcarerstogether.uk/">Parents and Carers Together (PACT)</a> - Support for parents and carers of children and young people with mental health issues of any kind. See also: <a href="https://www.facebook.com/parentsandcarerstogether">PACT Facebook page</a>; <a href="https://www.twitter.com/pactenquiries">PACT Twitter feed</a></li>
+	<li><a href="https://suffolkfamilycarers.org/">Suffolk Family Carers</a> - support for family carers of all ages</li>
 </ul>
 <h3 id="personality">Personality disorder</h3>
 <ul class="xoxo blogroll">
