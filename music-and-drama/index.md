@@ -12,7 +12,7 @@ Northgate Street<br>
 Ipswich<br>
 IP1 3DE
 
-Tel: **01473 927260**
+Tel: **01473 927267**
 
 Email: **music.drama.library@suffolklibraries.co.uk**
 
