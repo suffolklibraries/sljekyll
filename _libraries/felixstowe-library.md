@@ -30,5 +30,4 @@ branch-room-hire: /libraries/room-hire/felixstowe-library
 branch-other-facilities: 'Suffolk Coastal District Council customer services. Visit the <a href="http://www.eastsuffolk.gov.uk/contact-us/">Suffolk Coastal and Waveney Councils website</a> for opening times.'
 breadcrumb: y
 branch-payments: cash, cheques and cards accepted
-branch-for-sale: '<a href="https://ferryfestfelixstow.wixsite.com/portal">Ferry Fest Felixstowe</a> tickets on sale 10am-12pm on Tuesday 7, 14 and 21 August.'
 ---
