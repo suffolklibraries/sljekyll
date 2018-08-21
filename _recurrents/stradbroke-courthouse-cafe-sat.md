@@ -1,9 +1,9 @@
 ---
-recurrent-title: "Thursday book group: for over 50s"
-recurrent-day: last Thursday of the month
-recurrent-times: 1430-1600
+recurrent-title: "Courthouse café"
+recurrent-day: Saturday
+recurrent-times: 0915-1215
 recurrent-location: stradbroke-library
 recurrent-location-display-name: Stradbroke Library
 recurrent-location-display-url: /branches/stradbroke-library/
-recurrent-category: reading-groups
+recurrent-category: cafes-stalls
 ---
