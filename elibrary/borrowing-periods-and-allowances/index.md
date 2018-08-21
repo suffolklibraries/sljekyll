@@ -72,10 +72,24 @@ breadcrumb: elibrary
     </tr>
     <tr>
       <td>
-        <a href="/elibrary/zinio/">RBdigital (formerly Zinio)</a>
+        <a href="/elibrary/rbdigital/">RBdigital</a>
       </td>
       <td>
         Magazines
+      </td>
+      <td>
+        Unlimited
+      </td>
+      <td>
+        Unlimited
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="/elibrary/press-reader/">PressReader</a>
+      </td>
+      <td>
+        Newspapers and magazines
       </td>
       <td>
         Unlimited
