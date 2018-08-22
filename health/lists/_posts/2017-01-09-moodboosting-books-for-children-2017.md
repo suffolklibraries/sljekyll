@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: New moodboosting books for young people for 2017
+title: Moodboosting books for young people 2017
 date: 2017-01-10
 author: alice-violett
 category: health-lists

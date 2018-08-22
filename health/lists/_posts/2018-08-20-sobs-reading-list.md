@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Recommended titles for those affected by suicide
+title: "Suicide: recommended titles"
 date: 2018-08-20
 author: sarah-lungley
 category: health-lists

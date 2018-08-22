@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Check out a health or medicine-related book from the longlist for the 2017 Wellcome Prize
+title: Wellcome longlist 2017
 date: 2017-01-30
 author: alice-violett
 category: health-lists
