@@ -17,3 +17,5 @@ breadcrumb: articles
 > "To be alive is to be inside the wave, always travelling until it breaks and is gone. These poems are concerned with the borderline between the living and the dead – the underworld and the human living world – and the exquisitely intense being of both. They possess a spare, eloquent lyricism as they explore the bliss and anguish of the voyage."
 
 Tenth and final book of poetry from the late writer and winner of the 2017 Costa Poetry Award.
+
+## [<cite>The Poetry Pharmacy</cite> by William Sieghart]
