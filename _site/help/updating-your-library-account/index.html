@@ -144,58 +144,58 @@
         <div class="lh-copy custom-hyphens custom-prose
  custom-underline custom-visited">
 
-            <p>Complete this form if you wish to change the name and/or address on your library account.</p>
+            <p>Complete this form to change details on your library account.</p>
 
-<p>You can also use this form to re-register your library account, which expires automatically after 3 years. This helps us keep your information up to date.</p>
+<p>You can also use this it to re-register your library account, which expires automatically after 3 years. This helps us keep your information up to date.</p>
 
 <p>You can continue to use our services when this happens, but confirming your details will help us provide a better service.</p>
 
 <p>Fields marked with a <span class="red">*</span> are required.</p>
 
-<form class="pure-form pure-form-stacked" netlify name="re-register-library-card" action="/help/updating-your-library-account/confirmation" netlify-honeypot="bot-field">
+<form class="pure-form pure-form-stacked pa3 bg-light-gray" netlify name="re-register-library-card" action="/help/updating-your-library-account/confirmation" netlify-honeypot="bot-field">
 
-    <fieldset>
+      <label for="current-name" class="f5 pt2 mb2">Name you have registered with us <span class="red">*</span></label>
+      <input class="border-box w-100" type="text" required name="current-name" id="current-name">
 
-        <label class="f5 pt2 mb2">Name you have registered with us <span class="red">*</span></label>
-        <input class="border-box w-100" type="text" required name="current-name">
+      <label for="new-name" class="f5 pt2 mb2">New name (if applicable) </label>
+      <input class="border-box w-100" type="text" name="new-name" id="new-name">
 
-        <label class="f5 pt2 mb2">New name (if applicable) </label>
-        <input class="border-box w-100" type="text" name="new-name">
+      <input class="clip" hidden name="subject" type="text" value="Updating your Suffolk Libraries details">
 
-        <label class="f5 pt2 mb2">Title you have registered with us </label>
-        <select name="title">
-          <option value="miss">Miss</option>
-          <option value="mr">Mr</option>
-          <option value="mrs">Mrs</option>
-          <option value="ms">Ms</option>
-          <option value="other">Other</option>
-          <option value="unsure">Unsure</option>
-        </select>
+      <label for="title" class="f5 pt2 mb2">Title you have registered with us:</label>
+      <select name="title" id="title">
+        <option value="miss">Miss</option>
+        <option value="mr">Mr</option>
+        <option value="mrs">Mrs</option>
+        <option value="ms">Ms</option>
+        <option value="other">Other</option>
+        <option value="unsure">Unsure</option>
+      </select>
 
-        <label class="f5 pt2 mb2">Please specify title if you selected 'other'</label>
-        <input type="text" name="other-title">
+      <label for="other-title" class="f5 pt2 mb2">Please specify title if you selected 'other'</label>
+      <input type="text" name="other-title" id="other-title">
 
-        <label class="f5 pt2 mb2">New title (if applicable) </label>
-        <select name="new-title">
-          <option value="miss">Miss</option>
-          <option value="mr">Mr</option>
-          <option value="mrs">Mrs</option>
-          <option value="ms">Ms</option>
-          <option value="other">Other</option>
-        </select>
+      <label for="new-title" class="f5 pt2 mb2">New title (if applicable) </label>
+      <select name="new-title" id="new-title">
+        <option value="miss">Miss</option>
+        <option value="mr">Mr</option>
+        <option value="mrs">Mrs</option>
+        <option value="ms">Ms</option>
+        <option value="other">Other</option>
+      </select>
 
-        <label class="f5 pt2 mb2">Please specify title if you selected 'other'</label>
-        <input type="text" name="other-title">
+      <label for="other-new-title" class="f5 pt2 mb2">Please specify title if you selected 'other'</label>
+      <input type="text" name="other-new-title" id="other-new-title">
 
-        <h2>Library card number (with no spaces)</h2>
+      <label for="number" class="f5 mb2 pt2">Library card number (with no spaces)<br>This is the number across the middle of your library card beginning 20127 <span class="red">*</span></label>
+      <input class="border-box w-100" required type="text" name="number" id="number" minlength="14" maxlength="14">
 
-        <label class="f5 pt2 mb2">This is the number across the middle of your library card beginning 20127 <span class="red">*</span></label>
-        <input class="border-box w-100" required type="text" name="number" minlength="14" maxlength="14">
+      <fieldset>
 
-        <h2>Date of birth</h2>
+        <legend class="b">Date of birth</legend>
 
-        <label class="f5 pt2 mb2">Day <span class="red">*</span></label>
-        <select required name="day">
+        <label for="day" class="f5 mb2">Day <span class="red">*</span></label>
+        <select required name="day" id="day">
           <option value="1">1</option>
           <option value="2">2</option>
           <option value="3">3</option>
@@ -229,8 +229,8 @@
           <option value="31">31</option>
         </select>
 
-        <label class="f5 pt2 mb2">Month <span class="red">*</span></label>
-        <select required name="month">
+        <label for="month" class="f5 pt2 mb2">Month <span class="red">*</span></label>
+        <select required name="month" id="month">
           <option value="january">January</option>
           <option value="february">February</option>
           <option value="march">March</option>
@@ -245,31 +245,42 @@
           <option value="december">December</option>
         </select>
 
-        <label class="f5 pt2 mb2">Year (XXXX, e.g. 1945, 2004) <span class="red">*</span></label>
-        <input required type="text" name="year" maxlength="4">
+        <label for="year" class="f5 pt2 mb2">Year (XXXX, e.g. 1945, 2004) <span class="red">*</span></label>
+        <input required type="text" name="year" id="year" maxlength="4">
 
-        <label class="f5 pt2 mb2">Email <span class="red">*</span></label>
-        <input class="border-box w-100" required type="email" name="email">
+      </fieldset>
 
-        <label class="f5 pt2 mb2">Address you have registered with us <span class="red">*</span></label>
-        <textarea name="address" required class="border-box w-100"></textarea>
+      <label for="email" class="f5 pt2 mb2">Email <span class="red">*</span></label>
+      <input class="border-box w-100" required type="email" name="email" id="email">
 
-        <label class="f5 pt2 mb2">New address (if applicable)</label>
-        <textarea name="new-address" class="border-box w-100"></textarea>
+      <label for="address" class="f5 pt2 mb2">Address you have registered with us <span class="red">*</span></label>
+      <textarea name="address" id="address" required class="border-box w-100"></textarea>
 
-        <label class="f5 pt2 mb2">Phone number</label>
-        <input type="tel" name="phone">
+      <label for="new-address" class="f5 pt2 mb2">New address (if applicable)</label>
+      <textarea name="new-address" id="new-address" class="border-box w-100"></textarea>
 
-        <label class="f5 pt2 mb2">Any further information</label>
-        <textarea name="further-info" class="border-box w-100"></textarea>
+      <label for="phone" class="f5 pt2 mb2">Phone number</label>
+      <input type="tel" name="phone" id="phone">
 
-        <label class="f5 pt2 mb2">Receive our monthly email newsletter? <input type="checkbox" name="newsletter" id="newsletter" value="yes"></label>
+      <label for="further-info" class="f5 pt2 mb2">Any further information</label>
+      <textarea name="further-info" id="further-info" class="border-box w-100"></textarea>
 
-        <p class="mt0 custom-lh-title"><small>We can send you a monthly email with our latest books, films, DVDs and music. We don't share your email with anyone else and you can unsubscribe at any time.</small></p>
+      <div class="pa2 ba b--light-gray mv3">
 
-        <p class="dn"><input name="bot-field"></p>
+        <div class="cf">
 
-        <button type="submit" class="custom-no-underline ba b--white br2 custom-force-white bg-blue pv2 ph3 pointer hover-white">Submit</button>
+          <input type="checkbox" name="newsletter" id="newsletter" value="yes" class="fl f4 mt2 mr2">
+          <label for="newsletter" class="f5 fl">Receive our monthly email newsletter?</label>
+
+        </div>
+
+        <p class="ma0 custom-lh-title"><small>We can send you a monthly email with our latest books, films, DVDs and music. We don't share your email with anyone else and you can unsubscribe at any time.</small></p>
+
+      </div>
+
+      <p class="dn"><input name="bot-field"></p>
+
+      <button type="submit" class="custom-no-underline ba b--white br2 custom-force-white bg-blue pv2 ph3 pointer hover-white">Submit</button>
 
 
 </form>
