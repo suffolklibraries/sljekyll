@@ -8,6 +8,8 @@ excerpt: "&pound;60,000-65,000 plus bonuses."
 expiry-date: 2018-08-10
 ---
 
+**The closing date for this job was Aug 10 2018.**
+
 We're looking for a director of business development and customer experience.
 
 Suffolk Libraries is one of only five library mutuals in the UK, which means we're independent and can think differently about the way we deliver our customer experience.
