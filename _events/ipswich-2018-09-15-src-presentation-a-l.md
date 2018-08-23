@@ -1,6 +1,6 @@
 ---
 id: ips-src
-name: "Summer Reading Challenge presentation for surnames beginning A-L"
+name: "Summer Reading Challenge presentation for surnames beginning L-A"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2018-09-15
