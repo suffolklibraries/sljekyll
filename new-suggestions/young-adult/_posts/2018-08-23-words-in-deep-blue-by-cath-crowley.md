@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Words in Deep Blue by T. E. Carter"
+title: "Words in Deep Blue by Cath Crowley"
 date: 2018-08-23
 author: emily-mitchell
 category: young-adult
