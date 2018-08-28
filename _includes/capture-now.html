@@ -1,0 +1,7 @@
+{% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+
+{% capture expires %}{{post.expiry-date | date: '%s' }}{% endcapture %}
+
+{% capture expires-date %}{{ expires | divided_by: 86400}}{% endcapture %}
+
+{% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}

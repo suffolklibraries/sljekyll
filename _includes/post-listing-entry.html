@@ -1,0 +1,35 @@
+<article class="{% include /c/slot.html %}">
+
+    <header class="{% include /c/slot-header.html %}">
+
+        {% assign posts-check = true %}
+
+        <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+
+        {% unless page.category == 'child-family-problems' %}<p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>{% endunless %}
+
+    </header>
+
+    {% unless page.category == 'child-family-problems' %}
+
+        {% if post.featured-image %}
+
+            <a href="{{ post.url }}" class="white"><img class="db mb2" src="{{ post.featured-image }}" alt="post.featured-alt"></a>
+
+            <p class="{% include /c/slot-excerpt.html %} dib-ns">{{ post.excerpt }}</p>
+
+        {% else %}
+
+            <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
+
+        {% endif %}
+
+  {% endunless %}
+
+  {% if page.category == 'child-family-problems' %}
+
+    <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
+
+  {% endif %}
+
+</article>

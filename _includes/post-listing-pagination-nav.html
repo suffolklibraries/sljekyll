@@ -1,0 +1,11 @@
+<div class="cf ph2 pv3 ba b--light-gray bg-near-white">
+
+    {% if paginator.previous_page %}
+    <p class="ma0 fr tr w-40 b"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer posts &rarr;</a></p>
+    {% endif %}
+
+    {% if paginator.next_page %}
+    <p class="ma0 fl w-40 b"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">&larr; Older posts</a></p>
+    {% endif %}
+
+</div>
