@@ -4,13 +4,21 @@
 
 {% endif %}
 
-{% if page.sort == 'alphabetical' %}
+{% if page.pagination %}
 
-  {% assign posts = site.categories.[page.category] sort: "title" | reverse %}
+  {% assign posts = paginator.posts %}
 
 {% else %}
 
-  {% assign posts = site.categories.[page.category] %}
+  {% if page.sort == 'alphabetical' %}
+
+    {% assign posts = site.categories.[page.category] sort: "title" | reverse %}
+
+  {% else %}
+
+    {% assign posts = site.categories.[page.category] %}
+
+  {% endif %}
 
 {% endif %}
 
@@ -33,6 +41,12 @@
     {% endif %}
 
 {% endfor %}
+
+{% if page.pagination and paginator.total_pages > 1 %}
+
+  {% include post-listing-pagination-nav.html %}
+
+{% endif %}
 
 {% if posts-check != true %}
 
