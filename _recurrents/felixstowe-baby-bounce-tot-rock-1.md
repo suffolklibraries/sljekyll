@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Baby Bounce and Tot Rock"
-recurrent-description: "Songs and rhymes for babies and toddlers. No sessions in August."
+recurrent-description: "Songs and rhymes for babies and toddlers."
 recurrent-day: Friday
 recurrent-times: 0930-1000
 recurrent-location: felixstowe-library
