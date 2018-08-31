@@ -71,6 +71,34 @@
 
     {% endif %}
 
+    {% if page.breadcrumb == 'bloc' %}
+
+        {% include /sidebar/blog.html %}
+
+        <section class="{% include /c/sidebar-section.html %}">
+
+            <h1 class="{% include /c/sidebar-section-title.html %}">About BLOC</h1>
+
+            <p class="mt0 mb2 f6 f5-ns">Building Libraries on Creativity is our youth arts programme. <a href="/bloc/" class="blue link">More on BLOC &rarr;</a></p>
+
+        </section>
+
+        <section class="{% include /c/sidebar-section.html %}">
+
+            <h1 class="{% include /c/sidebar-section-title.html %}">Latest BLOC blog posts</h1>
+
+            <ul class="{% include /c/sidebar-section-list.html %}">
+
+                {% for post in site.categories.['bloc'] limit:10 %}
+                    <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+                {% endfor %}
+
+            </ul>
+
+        </section>
+
+    {% endif %}
+
     {% if page.category == 'meet-the-author' %}
 
         <section class="{% include /c/sidebar-section.html %}">

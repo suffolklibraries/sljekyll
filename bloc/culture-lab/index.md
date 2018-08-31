@@ -27,9 +27,9 @@ layout: blank
 
                         <h1 class="ma0 f6 f5-ns tracked ttl small-caps fw3 dark-red lh-title">Culture Lab</h1>
 
-                        <p class="ma0 f4 f2-ns b">A week-long, mixed media residency working in partnership with METAL (30 July&#8211;3 August)</p>
+                        <p class="ma0 f4 f2-ns b">A week-long, mixed media residency working in partnership with METAL (30 July&#8211;3 August 2018)</p>
 
-                        <p class="pt3 mt3 bt b--dark-red f5 f4-ns fw3">10 Suffolk-based artists have been invited to take over Ipswich County Library to look at the role creativity plays in nurturing community. They'll also get a chance to develop their own ideas and practice. Meet the artists&hellip;</p>
+                        <p class="pt3 mt3 bt b--dark-red f5 f4-ns fw3">10 Suffolk-based artists took over Ipswich County Library to look at the role creativity plays in nurturing community, developing their ideas and practice. Meet the artists&hellip;</p>
 
                     </div>
 

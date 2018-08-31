@@ -5,64 +5,43 @@ layout: blank
 
 <article>
 
-    <header class="bg-black light-silver bb b--light-gray">
+    <header class="ph2 ph3-ns bg-washed-blue bb b--light-gray pv3 pv4-l">
 
-        <div class="custom-max-width flex-l flex-wrap-l flex-row-reverse-l">
+        <div class="custom-max-width">
 
-            <div class="w-50-l">
+          <div class="flex-l justify-between-l flex-wrap-l mb2 mb4-l">
 
-                <h1 class="ph2 ph3-ns pl4-l"><img class="db" src="/images/bloc/bloc-logo.png" alt="Building Libraries on Creativity"></h1>
+            <div class="w-third-l pr3-l">
 
-                <div class="ph2 ph3-ns pl4-l pb3">
-
-                    <div class="flex-l flex-wrap-l justify-between-l">
-
-                        <section class="w-40-l">
-
-                            <h2 class="white f6 ttl small-caps tracked fw3">About</h2>
-
-                            <p class="ma0 f6 f5-ns">Suffolk Libraries' youth arts programme.</p>
-
-                        </section>
-
-                        <section class="w-40-l">
-
-                            <h2 class="white f6 ttl small-caps tracked fw3">From the blog</h2>
-
-                            <ul class="f6 f5-ns list mt0 pa0">
-
-                            {% for post in site.categories.bloc limit:1 %}
-
-                                <li class="ma0 pa0"><a href="{{ post.url }}" class="lightest-blue no-underline underline-hover">{{ post.title }}</a></li>
-
-                            {% endfor %}
-
-
-                            </ul>
-
-                        </section>
-
-                    </div>
-
-                </div>
+              <h1><img class="db" src="/images/bloc/bloc-logo.png" alt="Building Libraries on Creativity"></h1>
 
             </div>
 
-            <div class="w-50-l">
+            <div class="w-two-thirds-l pl3-l">
 
-                <video class="mw-100 h-auto db ma0 pa0" controls>
+              <p class="f4 f3-l mt2 mb1">BLOC is our youth arts programme, helping young people develop arts and culture activities in libraries from 2018-22.</p>
 
-                    <source src="/videos/bloc.webm" type="video/webm">
-                    <source src="/videos/bloc.mp4" type="video/mp4">
-                    <p>Your browser doesn't support HTML5 video. Here is a <a href="/videos/vid02.mp4">link to the video</a> instead.</p>
+              <ul class="list ma0 pa0">
 
-                </video>
+                <li><a href="https://twitter.com/BLOC_arts" class="mr3 custom-icon-twitter blue no-underline underline-hover">Follow BLOC on Twitter &rarr;</a></li>
+
+              </ul>
 
             </div>
+
+          </div>
+
+          <video class="mw-100 h-auto db ma0 pa0" controls>
+
+              <source src="/videos/bloc.webm" type="video/webm">
+              <source src="/videos/bloc.mp4" type="video/mp4">
+              <p>Your browser doesn't support this video. Instead, you can <a href="/videos/bloc.mp4">watch the video</a> in a video player.</p>
+
+          </video>
 
         </div>
 
-    </header>
+      </header>
 
     <section class="bg-lightest-blue dark-gray pa2 ph3-ns pv4 pv5-ns bb b--moon-gray">
 
@@ -112,23 +91,53 @@ layout: blank
 
     </section>
 
-    <section class="bg-black gold bb b--white">
+    <section class="bg-white bb b--light-gray pv3 pv4-ns">
+
+        <article class="custom-max-width flex-l flex-wrap-l justify-between-l flex-row-reverse-l">
+
+            <div class="w-60-l pv2 pv3-ns ph2 ph3-ns">
+
+              <p class="ma0 f6 mid-gray ttl small-caps tracked">From the BLOC blog</p>
+
+              {% for post in site.categories.bloc limit:1 %}
+
+              <h2 class="pt1 f4 lh-title mt0"><a href="{{ post.url }}" class="dark-red no-underline underline-hover">{{ post.title }}</a></h2>
+
+              <p class="ma0">{{ post.excerpt }}</p>
+
+              <p class="mb0 mt1"><a href="{{ post.url }}" class="dark-blue no-underline underline-hover">Read more →</a></p>
+
+            </div>
+
+            <div class="w-40-l pv2 pv3-ns pb0-l">
+
+                <a href="{{ post.url }}"><img alt="{{ post.featured-alt }}" class="db center" src="{{ post.featured-image }}"></a>
+
+            </div>
+
+              {% endfor %}
+
+        </article>
+
+    </section>
+
+    <section class="bg-black gold bb b--white pv3 pv4-ns">
 
         <div class="custom-max-width flex-l flex-wrap-l justify-between-l">
 
-            <div class="w-50-l pv2 pv3-ns pv4-ns ph2 ph3-ns">
+            <div class="w-40-l pv2 pv3-ns pv4-ns ph2 ph3-ns">
 
-                <h2 class="f4 lh-title mt1 white">Culture LAB: Arts in the community</h2>
+                <h2 class="f4 lh-title mt1"><a href="/bloc/culture-lab/" class="white no-underline underline-hover">Culture LAB: Arts in the community</a></h2>
 
-                <p class="ma0">A week-long, mixed media residency in Ipswich County Library working in partnership with METAL (30 July&#8211;3 August)</p>
+                <p class="ma0">A week-long, mixed media residency in Ipswich County Library working in partnership with METAL (30 July&#8211;3 August 2018)</p>
 
                 <p class="mb0"><a href="/bloc/culture-lab/" class="lightest-blue no-underline underline-hover">Find out about Culture Lab →</a></p>
 
             </div>
 
-            <div class="w-50-l pb4 pb0-l">
+            <div class="w-60-l pb4 pb0-l">
 
-                <img class="db" src="/images/bloc/culture-lab.jpg">
+                <a href="/bloc/culture-lab/"><img class="db" src="/images/bloc/culture-lab.jpg"></a>
 
             </div>
 
