@@ -32,17 +32,19 @@ The Sutton Hoo roadshow is coming to several of our libraries over the next few 
 
 > "The Viking town of Kilsgard has its fair share of mysteries and in this exciting new series, young investigator and shield maiden Alva follows the clues to solve them. Fierce, stubborn, and curious-Alva's bound to get in trouble along the way, but all that matters is being first to the crime scene."
 
-## [<cite>Freedom for Bron: the boy who saved a kingdom</cite>, by N. S. Blackman]()
+## [<cite>Freedom for Bron: the boy who saved a kingdom</cite>, by N. S. Blackman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1979359)
 
-> ""
+> "Slave boy Bron can usually avoid the wrath and the stick of his master, the grumpy village blacksmith. But Bron's life is dull and lacking in friendship - and he is always hungry.
+
+> "Then, one day, a Saxon lord arrives in the village, and Bron is finally granted a chance to escape."
 
 ## [<cite>Beowulf: Dragonslayer</cite>, by Rosemary Sutcliffe](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1389833)
 
 > "Rosemary Sutcliff recount's Beowulf's most terrifying quests: against Grendel the man-wolf; against the hideous sea-hag; and, most courageously of all, his fight to the death with the monstrous fire-drake."
 
-## [<cite>You Wouldn't Want to be an Anglo-Saxon Peasant!</cite>, by Jacqueline Morley & David Antram]()
+## [<cite>You Wouldn't Want to be an Anglo-Saxon Peasant!</cite>, by Jacqueline Morley & David Antram](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1979754)
 
-> ""
+> "You're a farmer's son living in England in the early seventh century. Your people are descendants of invaders from Northern Europe: the Angles, the Saxons and the Jutes, who arrived about 200 years earlier, seized land from the native Britons and made themselves at home here. You will experience first-hand the culture and history of the Anglo-Saxon peoples, including how they survived, ate and dressed, the stories they told, and how they responded to the coming of Christianity."
 
 ## [<cite>Smashing Saxons</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2003880) and [<cite>Vicious Vikings</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2305112), by Terry Deary & Martin Brown
 

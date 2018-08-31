@@ -6,7 +6,6 @@ author: alice-violett
 category: news
 excerpt: "Children and families are invited to join us for stories, crafts and more this summer."
 breadcrumb: news
-featured: true
 featured-image: "/images/featured/featured-craft.jpg"
 featured-alt: "Children's craft materials"
 featured-excerpt: "Children and families are invited to join us for stories, crafts and more this summer."
