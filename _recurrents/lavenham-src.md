@@ -7,5 +7,5 @@ recurrent-location: lavenham-library
 recurrent-location-display-name: Lavenham Library
 recurrent-location-display-url: /branches/lavenham-library/
 recurrent-category: src
-recurrent-expiry: 2018-09-02
+recurrent-expiry: 2018-09-09
 ---
