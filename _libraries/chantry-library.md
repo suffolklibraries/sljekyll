@@ -28,6 +28,6 @@ branch-wifi: y
 branch-colour-printing: available
 branch-photocopying: black and white available
 branch-scan-to-email: y
-branch-for-sale: "Special sale of ex-library books at knockdown prices now on."
+branch-other-facilities: "Foodbank collection point throughout the year."
 breadcrumb: y
 ---
