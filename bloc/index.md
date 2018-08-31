@@ -1,6 +1,11 @@
 ---
 title: "BLOC: Building Libraries on Creativity"
 layout: blank
+featured: true
+featured-excerpt: BLOC is our youth arts programme, helping young people develop arts and culture activities in libraries from 2018-22.
+featured-link-text: Find out about BLOC
+featured-image: "/images/bloc/culture-lab.jpg"
+featured-alt: "Magazine cut out collage"
 ---
 
 <article>
@@ -23,7 +28,8 @@ layout: blank
 
               <ul class="list ma0 pa0">
 
-                <li><a href="https://twitter.com/BLOC_arts" class="mr3 custom-icon-twitter blue no-underline underline-hover">Follow BLOC on Twitter &rarr;</a></li>
+                <li class="dib"><a href="https://twitter.com/BLOC_arts" class="mr3 custom-icon-twitter blue no-underline underline-hover">Twitter</a></li>
+                <li class="dib"><a href="/blog/bloc/" class="custom-icon-pen blue no-underline underline-hover">BLOC Blog</a></li>
 
               </ul>
 
@@ -137,7 +143,7 @@ layout: blank
 
             <div class="w-60-l pb4 pb0-l">
 
-                <a href="/bloc/culture-lab/"><img class="db" src="/images/bloc/culture-lab.jpg"></a>
+                <a href="/bloc/culture-lab/"><img alt="Magazine cut out collage" class="db" src="/images/bloc/culture-lab.jpg"></a>
 
             </div>
 
