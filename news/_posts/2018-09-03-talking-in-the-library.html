@@ -1,0 +1,48 @@
+---
+layout: sidebar-right
+title: "Local theatre company to tour Suffolk libraries in October"
+date: 2018-09-03
+author: james-powell
+category: news
+excerpt: "QuirkHouse Theatre Company will be bringing their flagship play, <cite>Talking in the Library</cite>, to its natural home for Libraries Week 2018."
+breadcrumb: news
+---
+
+<p><a href="http://www.quirkhousetheatreco.com/">QuirkHouse Theatre Company</a> will be bringing their flagship play, <cite>Talking in the Library</cite>, to its natural home for <a href="http://www.librariesweek.org.uk/">Libraries Week 2018</a>.</p>
+
+<p>Written by award-winning playwright and novelist Jackie Carreira, <cite>Talking In The Library</cite> was the company's inaugural play in 2014. Since then, the play has been performed by companies around the UK and was voted runner-up in the Fringe Guru Audience Choice Awards at the Brighton Fringe Festival. Now, by popular demand, it’s back home in Suffolk and being performed in six libraries from 11-20 October.</p>
+
+<p>This time QuirkHouse are performing to raise funds for local libraries and to promote the importance of literacy and the library service. They are generously donating all funds raised from ticket sales to the libraries.</p>
+
+<p>"Without public libraries," Jackie said, "I know I wouldn't be a writer today. I will always champion them whenever I can."</p>
+
+<p>Actor and co-founder of QuirkHouse Theatre Company, AJ Deane, will be reprising his role as 'Jay' and said: "We are delighted that this tour starts during Libraries Week and are proud to be supporting them and the essential work they do in the community."</p>
+
+<p>Melissa Matthews, Suffolk Libraries arts programmes coordinator, said: “We are thrilled to be welcoming the team at QuirkHouse to libraries and very grateful they are also helping to raise money to support the library service. It’s a perfect way to launch National Libraries Week which is all about supporting libraries and showing people how important they are.”</p>
+
+<p>There will be a special preview show at the Constitutional Club in Bury St Edmunds, before a performance across the border in Thetford on Wednesday 10 October, then the tour gets underway in Suffolk by visiting the following six Suffolk libraries:</p>
+
+{% assign theatre-events = site.events | where: "event-category", "talking-in-the-library" | sort: "event-start-date" %}
+
+{% for event in theatre-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> - {{ event.event-end-date | date: "%a %-d %b" }} <span>{{ event.event-start-time }}</span>
+
+        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+        </p>
+
+    </article>
+
+{% endfor %}
+
+<p>Tickets are £8 and £5 for concessions (all tickets are £5 at Glemsford) and are available from the library. You can also <a href="/events/ipswich-2018-09-26-jackie-carreira/">meet writer Jackie Carreira at Ipswich County Library on Wednesday 26 September</a>.</p>
+
+<p>Independent theatre reviewer <a href="http://broadwaybaby.com/">Broadway Baby</a> has described <cite>Talking in the Library</cite> as: <em>“Full of touching observations and warm humour, with an abundance of clever parallels to famous literary pieces, making it a real treat for theatre and literary fans to unpick.”</em></p>
+
+<p>Libraries Week 2018 takes place between 8–13 October to celebrate the nation’s libraries. This year there is a focus on wellbeing and how libraries bring communities together, combat loneliness, provide a space for reading and creativity and support people with their mental health.</p>
