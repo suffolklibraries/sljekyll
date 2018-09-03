@@ -16,15 +16,15 @@ featured-alt: "Magazine cut out collage"
 
           <div class="flex-l justify-between-l flex-wrap-l mb2 mb4-l">
 
-            <div class="w-third-l pr3-l">
+            <div class="w-30-l pr3-l">
 
               <h1><img class="db" src="/images/bloc/bloc-logo.png" alt="Building Libraries on Creativity"></h1>
 
             </div>
 
-            <div class="w-two-thirds-l pl3-l">
+            <div class="w-70-l pl3-l">
 
-              <p class="f4 f3-l mt2 mb1">BLOC is our youth arts programme, helping young people develop arts and culture activities in libraries from 2018-22.</p>
+              <p class="f4 mt2 mb1">BLOC is Suffolk Libraries' youth arts programme. Across the county we're working with young people and artists to develop fun and creative activities, happenings &amp; events.</p>
 
               <ul class="list ma0 pa0">
 
