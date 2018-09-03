@@ -6,11 +6,15 @@ author: lisa-brennan
 category: articles
 excerpt: "Are you in the mood for some verse? We've put together a list of some of our favourite poetry books on our OverDrive service."
 featured-image: /images/featured/featured-overdrive-poetry.jpg
-featured-alt: ""
+featured-alt: "Ten Years in an Open Necked Shirt, Paper Aeroplane, Dragon Talk"
 breadcrumb: articles
 ---
 
-![](/images/featured/featured-overdrive-poetry.jpg)
+![Ten Years in an Open Necked Shirt, Paper Aeroplane, Dragon Talk](/images/featured/featured-overdrive-poetry.jpg)
+
+Are you in the mood for some verse? We've put together a list of some of our favourite poetry books on our OverDrive service.
+
+[Set up OverDrive &rarr;](/elibrary/overdrive/)
 
 ## [<cite>Inside the Wave</cite>, by Helen Dunmore](https://suffolklibraries.overdrive.com/media/3295068)
 

@@ -60,7 +60,7 @@ published: true
 
    </div>
 
-   <div class="{% include /c/generic-panel.html %}"><p>Anyone interested in booking the venue is encouraged to arrange a visit by contacting Ipswich County Library on <strong>01473 263815</strong> or emailing <strong>ceremonies@suffolklibraries.co.uk</strong>.</p></div>
+   <div class="{% include /c/generic-panel.html %}"><p>Anyone interested in booking the venue is encouraged to arrange a visit by contacting Ipswich County Library on <strong>01473 927260</strong> or emailing <strong>ceremonies@suffolklibraries.co.uk</strong>.</p></div>
 
    <p class="custom-lh-title"><small>Suffolk Libraries is grateful to The Suffolk Bridal Co. and Bedwells Florist for their help in setting up a dress rehearsal wedding to showcase how the room would look for a real ceremony.</small></p>
 
