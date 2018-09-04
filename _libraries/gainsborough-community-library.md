@@ -34,4 +34,5 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/gainsborough-community-library
 breadcrumb: y
 branch-other-facilities: Literacy and learning games available to borrow.
+branch-news: "The library will be opening at 10:30am on Thursday 27 September due to staff training."
 ---

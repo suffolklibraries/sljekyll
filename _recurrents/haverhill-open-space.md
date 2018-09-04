@@ -1,6 +1,6 @@
 ---
 recurrent-title: 'Open space: drop in for mental health info and chats. All welcome.'
-recurrent-description: 'See the <a href="/health/open-space-timetable-haverhill-june-2018/">latest Haverhill Open Space timetable</a>.'
+recurrent-description: 'See the <a href="/health/open-space-timetable-haverhill-sept-2018/">latest Haverhill Open Space timetable</a>.'
 recurrent-day: Friday
 recurrent-times: 1230-1430
 recurrent-location: haverhill-library
