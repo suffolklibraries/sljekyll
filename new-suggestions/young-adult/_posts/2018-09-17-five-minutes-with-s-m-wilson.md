@@ -10,7 +10,7 @@ featured-alt: "S. M. Wilson"
 breadcrumb: young-adult
 ---
 
-![Clean](/images/featured/featured-s-m-wilson.jpg)
+![S. M. Wilson](/images/featured/featured-s-m-wilson.jpg)
 
 S. M. Wilson is the author of [<cite>The Extinction Trials</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2169907) and [<cite>The Extinction Trials: Exile</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2372702). They're a mix of dinosaurs, dystopia and deceit that I found impossible to put down.
 
@@ -30,6 +30,8 @@ My boys. I have two sons who I was trying to encourage to read. I couldn’t get
 
 I asked them what they wanted to read and they told me: young Indiana Jones, young Lara Croft and dinosaurs. I was already writing romance books and thought 'hmmmm... I can do that!'
 
+![The Extinction Trials](/images/featured/featured-the-extinction-trials.jpg)
+
 ## Can we expect to see the return of any particular dinosaurs in book three?
 
 Book three will involve the return of Milo the pterosaur. I had requests for a return!
@@ -41,6 +43,8 @@ Definitely the most scary. The T-Rex will always be my favourite. but I’ve jus
 ## Which songs would you include on a writing playlist?
 
 I don’t do playlists at all when I write. I know lots of people love them but I find music a complete distraction when I'm writing, so I write in silence.
+
+![The Extinction Trials: Exile](/images/featured/featured-the-extinction-trials-exile.jpg)
 
 ## What are you currently working on?
 
