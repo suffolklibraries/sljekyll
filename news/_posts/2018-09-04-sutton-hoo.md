@@ -18,12 +18,14 @@ The stunning replica helmet, buckle and shoulder clasp will be joining them on t
 
 Although the details are still being finalised the following library events have been confirmed so far:
 
-* 10 October - Stoke Library
-* 20 October - Bury St Edmunds Library
-* 23 October - Glemsford and Lavenham libraries
-* 24 October - Long Melford and Sudbury libraries
-* 25 October - Beccles and Southwold libraries
-* 27 October - Gainsborough Community Library
+* [6 October - Saxmundham Library](/events/saxmundham-2018-10-06-sutton-hoo/)
+* [10 October - Stoke Library](/events/stoke-2018-10-10-sutton-hoo/)
+* [20 October - Bury St Edmunds Library](/event/bury-2018-10-20-sutton-hoo/)
+* 23 October - [Glemsford](/event/glemsford-2018-10-23-sutton-hoo/) and [Lavenham](/libraries/lavenham-library/) libraries
+* 24 October - [Long Melford](/events/long-melford-2018-10-24-sutton-hoo/) and Sudbury libraries
+* 25 October - [Beccles](/events/beccles-2018-10-25-sutton-hoo/) and [Southwold](/events/southwold-2018-10-25-sutton-hoo/) libraries
+* [26 October - Haverhill Library](/events/haverhill-2018-10-26-sutton-hoo/)
+* [27 October - Gainsborough Community Library](/events/gainsborough-2018-10-27-sutton-hoo/)
 * 10 November - Clare Library
 * 17 November - Ipswich County Library
 * 24 November - Beccles Library
@@ -33,3 +35,5 @@ Although the details are still being finalised the following library events have
 * 9 March - Aldeburgh Library
 
 The specific details of each event, including timings, will be confirmed nearer the time. We also hope to add more library events.
+
+For more information, visit the [National Trust website](https://www.nationaltrust.org.uk/sutton-hoo/features/sutton-hoo-goes-on-tour/).

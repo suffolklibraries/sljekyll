@@ -9,6 +9,7 @@ branch-thursday-hours: Closed
 branch-friday-hours: 1400 – 1900
 branch-saturday-hours: Closed
 branch-sunday-hours: 1200 – 1630
+branch-manager: Jack Norman
 branch-address: United Reformed Church Room, Hall Street, Long Melford
 branch-post-code: CO10 9JT
 branch-tel: 01787 377525
