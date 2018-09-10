@@ -1,6 +1,6 @@
 ---
 id: kess-quiz
-name: "Friends of Fhe Library in Kessingland quiz night with fish and chip supper"
+name: "Friends of the Library in Kessingland quiz night with fish and chip supper"
 location: kessingland-library
 location-text: Kessingland Library
 event-start-date: 2018-09-28
