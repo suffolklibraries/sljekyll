@@ -30,9 +30,9 @@ Florence Pugh stars in the BBC TV adaptation of John le Carré’s bestselling n
 
 ## [<cite>Widows</cite>, by Lynda La Plante](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2445913)
 
-> "Harry Rawlins had been masterminding robberies for 20 years. The hijack of a security van would bring the gang thousands, but the job went wrong and Harry and his team were killed. H
+> "Harry Rawlins had been masterminding robberies for 20 years. The hijack of a security van would bring the gang thousands, but the job went wrong and Harry and his team were killed.
 
-> "arry's widow, Dolly, had three options. She could hand over Harry's ledgers to the police. She could hand them over to a bunch of thugs. Or she could take the business over."
+> "Harry's widow, Dolly, had three options. She could hand over Harry's ledgers to the police. She could hand them over to a bunch of thugs. Or she could take the business over."
 
 You may remember the TV series in the 1980s starring Ann Mitchell as Dolly Rawlins. The story has now had the Hollywood treatment as Steve McQueen’s latest project. The cast includes Viola Davis and Daniel Kaluuya.
 
