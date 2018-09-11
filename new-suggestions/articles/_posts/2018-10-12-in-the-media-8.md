@@ -38,7 +38,7 @@ You may remember the TV series in the 1980s starring Ann Mitchell as Dolly Rawli
 
 ## [<cite>The Hate U Give</cite>, by Angie Thomas](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2125292)
 
-Angie Thomas’s novel about a young black girl who witnesses the police killing her friend has been a young adult bestseller. The film version will be in cinemas in November.
+Angie Thomas’s novel about a young black girl who witnesses the police killing her friend has been a young adult bestseller. The film version will be in cinemas later this month.
 
 > "Sixteen-year-old Starr lives in two worlds: the poor neighbourhood where she was born and raised and her posh high school in the suburbs. The uneasy balance between them is shattered when Starr is the only witness to the fatal shooting of her unarmed best friend, Khalil, by a police officer. Now what Starr says could destroy her community. It could also get her killed."
 
