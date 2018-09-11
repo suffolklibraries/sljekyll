@@ -26,6 +26,7 @@ branch-bookdrop: y
 branch-refreshments: hot drinks for sale
 branch-which: y
 branch-for-sale: '<ul>
+                  <li>Tickets for Brass Band &amp; Cake event at Stella Peskett Hall on Saturday 6 October in aid of Suffolk Wildlife Trust, £5</li>
                   <li>Crafts, Southwold and Suffolk Coast Treasure Trails sheets.</li>
                   <li>Local authors&#39; books.</li>
                   <li>Branded bags and pens.</li>
