@@ -126,7 +126,7 @@ Crafts: Guy Fawkes/fireworks night
 </td>
 
 <td>
-Discussion: topic TBC
+Crafts: card making (theme TBC)
 </td>
 </tr>
 
@@ -146,7 +146,7 @@ Crafts: friendship bracelets and bands
 </td>
 
 <td>
-Crafts: card making (theme TBC)
+Discussion: topic TBC
 </td>
 </tr>
 
