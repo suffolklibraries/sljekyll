@@ -16,19 +16,20 @@ featured-alt: "Magazine cut out collage"
 
           <div class="flex-l justify-between-l flex-wrap-l mb2 mb4-l">
 
-            <div class="w-30-l pr3-l">
+            <div class="w-50-l pr3-l">
 
               <h1><img class="db" src="/images/bloc/bloc-logo.png" alt="Building Libraries on Creativity"></h1>
 
             </div>
 
-            <div class="w-70-l pl3-l">
+            <div class="w-50-l pl3-l">
 
               <p class="f4 mt2 mb1">BLOC is Suffolk Libraries' youth arts programme. Across the county we're working with young people and artists to develop fun and creative activities, happenings &amp; events.</p>
 
               <ul class="list ma0 pa0">
 
                 <li class="dib"><a href="https://twitter.com/BLOC_arts" class="mr3 custom-icon-twitter blue no-underline underline-hover">Twitter</a></li>
+                <li class="dib"><a href="https://www.instagram.com/bloc_arts/" class="mr3 custom-icon-instagram blue no-underline underline-hover">Instagram</a></li>
                 <li class="dib"><a href="/blog/bloc/" class="custom-icon-pen blue no-underline underline-hover">BLOC Blog</a></li>
 
               </ul>
@@ -55,7 +56,7 @@ featured-alt: "Magazine cut out collage"
 
             <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
 
-                <img class="db mw3 mw4-ns mw-100-l h-auto center" src="/images/bloc/featured-arts-and-creativity.png" alt="Arts and Creativity">
+                <img class="db mw3 mw4-ns mw-100-l h-auto center br-100" src="/images/bloc/featured-arts-and-creativity.png" alt="Arts and Creativity">
 
                 <p class="f6 mb0 lh-title tc">Arts and Creativity</p>
 
@@ -63,7 +64,7 @@ featured-alt: "Magazine cut out collage"
 
             <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
 
-                <img class="db mw3 mw4-ns mw-100-l h-auto center" src="/images/bloc/featured-film-and-digital.png" alt="Film and Digital">
+                <img class="db mw3 mw4-ns mw-100-l h-auto center br-100" src="/images/bloc/featured-film-and-digital.png" alt="Film and Digital">
 
                 <p class="f6 mb0 lh-title tc">Film and Digital</p>
 
@@ -71,7 +72,7 @@ featured-alt: "Magazine cut out collage"
 
             <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
 
-                <img class="db mw3 mw4-ns mw-100-l h-auto center" src="/images/bloc/featured-literature.png" alt="Literature">
+                <img class="db mw3 mw4-ns mw-100-l h-auto center br-100" src="/images/bloc/featured-literature.png" alt="Literature">
 
                 <p class="f6 mb0 lh-title tc">Literature</p>
 
@@ -79,7 +80,7 @@ featured-alt: "Magazine cut out collage"
 
             <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
 
-                <img class="db  mw3 mw4-ns mw-100-l h-auto center" src="/images/bloc/featured-music-and-dance.png" alt="Music and Dance">
+                <img class="db mw3 mw4-ns mw-100-l h-auto center br-100" src="/images/bloc/featured-music-and-dance.png" alt="Music and Dance">
 
                 <p class="f6 mb0 lh-title tc">Music and Dance</p>
 
@@ -87,7 +88,7 @@ featured-alt: "Magazine cut out collage"
 
             <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
 
-                <img class="db mw3 mw4-ns mw-100-l h-auto center" src="/images/bloc/featured-wellbeing-and-inclusion.png" alt="Wellbeing and Inclusion">
+                <img class="db mw3 mw4-ns mw-100-l h-auto center br-100" src="/images/bloc/featured-wellbeing-and-inclusion.png" alt="Wellbeing and Inclusion">
 
                 <p class="f6 mb0 lh-title tc">Wellbeing and Inclusion</p>
 
