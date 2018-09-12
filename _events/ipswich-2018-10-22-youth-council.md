@@ -16,6 +16,6 @@ This taster day will be a chance to have your voice heard, contribute ideas and 
 
 Refreshments will be provided, but make sure to **bring a packed lunch**.
 
-For more information and to book your place, text **07752 380859** or email **arts@suffolklibraries.co.uk**
+[Book your place online](https://artslibraries.typeform.com/to/i628Sy), text **07752 380859** or email **arts@suffolklibraries.co.uk**
 
 We look forward to seeing you there.
