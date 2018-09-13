@@ -4,8 +4,8 @@ name: "Youth Council taster day"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
 event-start-date: 2018-10-26
-event-start-time: 1100
-event-end-time: 1500
+event-start-time: 1200
+event-end-time: 1600
 event-category: ["half-term", "bloc"]
 breadcrumb: y
 ---
