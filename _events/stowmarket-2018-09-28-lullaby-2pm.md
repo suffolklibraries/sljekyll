@@ -1,11 +1,11 @@
 ---
 id: stow-src
-name: "<cite>The Musical Puzzle</cite> lullaby concert from the City of London Sinfonia - 3:30pm session"
+name: "<cite>The Musical Puzzle</cite> lullaby concert from the City of London Sinfonia - 2pm session"
 location: stowmarket-library
 location-text: Stowmarket Library
-event-start-date: 2018-09-29
-event-start-time: 1530
-event-end-time: 1610
+event-start-date: 2018-09-28
+event-start-time: 1400
+event-end-time: 1440
 event-ticket-price: free
 breadcrumb: y
 ---
