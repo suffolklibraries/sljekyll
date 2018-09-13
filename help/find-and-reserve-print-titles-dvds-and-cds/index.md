@@ -5,15 +5,20 @@ breadcrumb: help
 sidebar: help
 ---
 
-**We don&#8217;t charge for reservations**, unless you&#8217;re [borrowing from another library service](/help/reservations-requests-inter-library-loans/).
+You can reserve a title by asking in a <a href="/libraries/">library</a>, calling <a href="tel:01473351249">01473 351249</a>, or using our <a href="https://suffolk.spydus.co.uk">online catalogue</a>.
 
-You can reserve a title by:
+<strong>We don't charge for reservations</strong>, unless you're <a href="/help/reservations-requests-inter-library-loans/">borrowing from another library service</a>.
 
-- asking in a [library](/libraries)
-- calling 01473 351249
-- using our [online catalogue](https://suffolk.spydus.co.uk)
+## Table of contents
 
-### Finding titles in our catalogue
+<ul>
+  <li><a href="#finding">Finding titles in our catalogue</a></li>
+  <li><a href="#reserving">Reserving titles from our catalogue</a></li>
+  <li><a href="#notifications">Reservation notifications and collections</a></li>
+  <li><a href="#links">Further links</a></li>
+</ul>
+
+<h3 id="finding">Finding titles in our catalogue</h3>
 
 You can use your **library card number and the 4 digit pin issued with it** to reserve items from our online catalogue. You can also specify which library you want to collect your titles from.
 
@@ -42,7 +47,7 @@ You can narrow your search results by clicking the _Refine Set_ button. This wil
 
 <img src="/images/help/sort-refine.jpg" alt="The Sort and Refine buttons help you organise and narrow your search" />
 
-### Reserving titles from our catalogue
+<h3 id="reserving">Reserving titles from our catalogue</h3>
 
 Once you've found the title(s) you want to reserve, simply click the box by the title(s) and press the purple **Reserve Selections** button above the list of results.
 
@@ -58,7 +63,7 @@ Once you&#8217;ve filled in the form, click the **Submit** button.
 
 To **see a summary of your reservations**, click 'My Account' in the top right-hand corner and select 'Reservations available for pickup' or 'Reservations not yet available' in the pane in the middle of the page.
 
-### Reservation notifications and collections
+<h3 id="notifications">Reservation notifications and collections</h3>
 
 Once your reservation is ready we&#8217;ll email or text you, depending on whether you provided us with your email address or mobile number when you created your library account.
 
@@ -72,14 +77,22 @@ If we don&#8217;t have your email address or mobile number you&#8217;ll have to
 4. Enter your email address in the appropriate box if necessary and check the 'Receive library notices via email' box
 5. Confirm your PIN number and click 'Update'.
 
+You'll now receive an email whenever:
+
+- a title you've reserved arrives at your library
+- a title is due back soon
+- a title you have is overdue.
+
 Reservations take about a week to arrive if there is nobody else already waiting to borrow the book, but we can&#8217;t guarantee this. If your reservation seems to be taking a long time to arrive, [contact us](/contact/) and we'll look into it.
 
-## Further links
+<p class="custom-lh-title"><small>Please note we provide reminders as an advisory service. It is your responsibility to ensure titles are returned on time regardless of whether you receive notifications or not.</small></p>
+
+<h3 id="links">Further links</h3>
 
 * [Borrowing, renewing and returning titles](/help/borrowing-renewing-and-returning-titles/)
 * [Suggesting a title](/help/suggest-a-title/)
 * [If we don't stock a title: borrowing from other library services](/help/reservations-requests-inter-library-loans/)
-* [Overdue charges](/help/book-cd-audiobook-game-dvd-borrowing-overdues/)
+* [Borrowing periods &amp; overdue charges for physical titles](/help/book-cd-audiobook-game-dvd-borrowing-overdues/)
 * [Joining the library](/help/joining-the-library/)
 * [Our eLibrary services](/elibrary/)
 * [Our fiction, non–fiction, children&#8217;s books, DVD and music lists](/new-suggestions "Book, music and film lists")

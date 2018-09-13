@@ -1,14 +1,16 @@
 ---
 layout: full-width
-title: eLibrary borrowing periods and allowances
+title: eLibrary borrowing periods &amp; allowances
 breadcrumb: elibrary
 ---
 
 <div class="{% include /c/generic-panel.html %}">
 
-    <p class="ma0">Note: We don't charge fees or fines for any of our eLibrary services.</p>
+    <p class="ma0"><a href="/help/book-cd-audiobook-game-dvd-borrowing-overdues/">Borrowing periods &amp; allowances for physical titles &rarr;</a></p>
 
 </div>
+
+We don't charge fees or fines for any of our eLibrary services.
 
 <table class="pure-table pure-table-bordered">
   <thead>

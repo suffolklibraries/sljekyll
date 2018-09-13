@@ -22,7 +22,7 @@ To renew books online:
 
 **Note:** if you are using a mobile device, you may not be able to see the whole 'Current loans' table. To see the rest of the table, simply scroll across using your thumb.
 
-You can also call [01473 351249](tel:01473351249) (available 24/7 with an out-of-hours answering service) or visit any Suffolk library.
+You can also call [01473 351249](tel:01473351249) (available 24/7 with an out-of-hours answering service) or visit any [Suffolk library](/libraries/).
 
 You can **renew a book up to six times** unless it is reserved by someone else.
 
@@ -30,14 +30,14 @@ Any overdue charges or new hire charges (eg for DVDs) will be logged to your acc
 
 ## Returning titles
 
-You can return a title at any Suffolk library by using one of our self-service machines or handing it to staff at the library desk.
+You can return a title at any [Suffolk library](/libraries/) by using one of our self-service machines or handing it to staff at the library desk.
 
 Many of our libraries have out-of-hours book returns. [Visit your local library's page](/libraries/) to find out if they offer this service.
 
 ## Further links
 
 * [Finding and reserving titles](/help/find-and-reserve-print-titles-dvds-and-cds/)
-* [Overdue charges](/help/book-cd-audiobook-game-dvd-borrowing-overdues/)
+* [Borrowing periods &amp; overdue charges for physical titles](/help/book-cd-audiobook-game-dvd-borrowing-overdues/)
 * [Lost or damaged items](/help/lost-or-damaged-items/)
 * [Joining the library](/help/joining-the-library/)
 * [Our eLibrary services](/elibrary/)

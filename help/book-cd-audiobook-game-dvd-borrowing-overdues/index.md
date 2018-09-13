@@ -1,14 +1,16 @@
 ---
 layout: full-width
-title: Book, CD, audiobook, game and DVD borrowing periods and overdue charges
+title: Borrowing periods &amp; overdue charges for physical titles
 breadcrumb: help
 ---
 
 <div class="{% include /c/generic-panel.html %}">
 
-    <p class="ma0">Note: We don't charge a fee for reserving a title, unless we need to get it from another library service.</p>
+    <p class="ma0"><a href="/elibrary/borrowing-periods-and-allowances/">eLibrary borrowing periods &amp; allowances &rarr;</a></p>
 
 </div>
+
+**We don't charge a fee for reserving a title** unless we need to get it from [another library service](/help/reservations/requests/inter-library-loans/).
 
 <table class="pure-table pure-table-bordered">
   <thead>
@@ -70,50 +72,6 @@ breadcrumb: help
       </td>
       <td>
         50p
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a title="OverDrive" href="/elibrary/overdrive/">
-          eBooks and eAudio (OverDrive)
-        </a>
-      </td>
-      <td>
-        3 weeks
-      </td>
-      <td>
-        10
-      </td>
-      <td>
-        Free
-      </td>
-      <td>
-        n/a as download expires after 3 weeks
-      </td>
-      <td>
-        n/a
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a title="BorrowBox" href="/elibrary/borrowbox/">
-          eAudio (BorrowBox)
-        </a>
-      </td>
-      <td>
-        3 weeks
-      </td>
-      <td>
-        6
-      </td>
-      <td>
-        Free
-      </td>
-      <td>
-        n/a as download expires after 3 weeks
-      </td>
-      <td>
-        n/a
       </td>
     </tr>
     <tr>
