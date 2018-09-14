@@ -38,7 +38,7 @@ featured-alt: "Magazine cut out collage"
 
           </div>
 
-          <video class="mw-100 h-auto db ma0 pa0" controls>
+          <video class="mw-100 h-auto db ma0 pa0 bg-black" controls poster="/images/bloc/bloc-cover.jpg">
 
               <source src="/videos/bloc.webm" type="video/webm">
               <source src="/videos/bloc.mp4" type="video/mp4">
