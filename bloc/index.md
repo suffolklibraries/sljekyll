@@ -56,7 +56,7 @@ featured-alt: "Magazine cut out collage"
 
             <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
 
-                <img class="db mw3 mw4-ns mw-100-l h-auto center br-100" src="/images/bloc/featured-arts-and-creativity.png" alt="Arts and Creativity">
+                <img class="db mw3 mw4-ns mw-100-l h-auto center br-100" src="/images/bloc/featured-arts-and-creativity-square.png" alt="Arts and Creativity">
 
                 <p class="f6 mb0 lh-title tc">Arts and Creativity</p>
 
@@ -64,7 +64,7 @@ featured-alt: "Magazine cut out collage"
 
             <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
 
-                <img class="db mw3 mw4-ns mw-100-l h-auto center br-100" src="/images/bloc/featured-film-and-digital.png" alt="Film and Digital">
+                <img class="db mw3 mw4-ns mw-100-l h-auto center br-100" src="/images/bloc/featured-film-and-digital-square.png" alt="Film and Digital">
 
                 <p class="f6 mb0 lh-title tc">Film and Digital</p>
 
@@ -72,7 +72,7 @@ featured-alt: "Magazine cut out collage"
 
             <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
 
-                <img class="db mw3 mw4-ns mw-100-l h-auto center br-100" src="/images/bloc/featured-literature.png" alt="Literature">
+                <img class="db mw3 mw4-ns mw-100-l h-auto center br-100" src="/images/bloc/featured-literature-square.png" alt="Literature">
 
                 <p class="f6 mb0 lh-title tc">Literature</p>
 
@@ -80,7 +80,7 @@ featured-alt: "Magazine cut out collage"
 
             <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
 
-                <img class="db mw3 mw4-ns mw-100-l h-auto center br-100" src="/images/bloc/featured-music-and-dance.png" alt="Music and Dance">
+                <img class="db mw3 mw4-ns mw-100-l h-auto center br-100" src="/images/bloc/featured-music-and-dance-square.png" alt="Music and Dance">
 
                 <p class="f6 mb0 lh-title tc">Music and Dance</p>
 
@@ -88,7 +88,7 @@ featured-alt: "Magazine cut out collage"
 
             <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
 
-                <img class="db mw3 mw4-ns mw-100-l h-auto center br-100" src="/images/bloc/featured-wellbeing-and-inclusion.png" alt="Wellbeing and Inclusion">
+                <img class="db mw3 mw4-ns mw-100-l h-auto center br-100" src="/images/bloc/featured-wellbeing-and-inclusion-square.png" alt="Wellbeing and Inclusion">
 
                 <p class="f6 mb0 lh-title tc">Wellbeing and Inclusion</p>
 
