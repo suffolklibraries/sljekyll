@@ -2,7 +2,7 @@
 id: bury-hoo
 name: "Sutton Hoo roadshow"
 location: bury-st-edmunds-library
-location-text: Saxmundham Library
+location-text: Bury St Edmunds Library
 event-start-date: 2018-10-20
 event-start-time: 1030
 event-end-time: 1430
