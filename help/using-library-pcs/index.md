@@ -17,7 +17,7 @@ Most libraries have computers that are **available without a booking**.
 
 We provide a mix of [Chromebase computers](http://www.lg.com/uk/chromebase), Windows computers and [Chromebook laptops](https://www.google.com/chromebook/).
 
-The Chromebase computers and Chromebook laptops are fast, simple machines ideal for browsing, checking email, going on Facebook etc.
+The Chromebase computers and Chromebook laptops are fast, simple machines ideal for browsing, checking email, going on Facebook etc. There are some [rules for borrowing our Chromebooks](/help/using-library-pcs/borrowing-chromebooks/).
 
 The Windows machines provide more software, such as Microsoft Office.
 

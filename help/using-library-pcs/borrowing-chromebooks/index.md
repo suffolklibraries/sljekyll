@@ -19,4 +19,4 @@ We have a few rules for borrowing Chromebooks:
 
 * You are responsible for any damage caused to the Chromebook while it is in your possession, and may be liable to pay up to £180 depending on the extent of the damage.
 
-[&larr; Using library computers](/help/using-library-computers)
+[&larr; Using library computers](/help/using-library-pcs)
