@@ -1,7 +1,8 @@
 ---
-layout: full-width
-title: If we don't stock a title: borrowing from other library services
+layout: sidebar-right
+title: "If we don't stock a title: borrowing from other library services"
 breadcrumb: help
+sidebar: help
 ---
 
 <div class="{% include /c/generic-panel.html %}">
@@ -22,15 +23,29 @@ breadcrumb: help
 
 As part of our SPINE partnership, our customers can borrow titles from Cambridgeshire libraries' stock for a charge of **£2 per title**.
 
-You can find and reserve titles from Cambridgeshire through [our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH?HOMEPRMS=GENPARAMS).
+You can find and reserve titles from Cambridgeshire by visiting [any Suffolk Library](/libraries), [contacting us](/contact/) or through [our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH?HOMEPRMS=GENPARAMS).
 
 If you search for a title in Suffolk and we don’t have it, our catalogue will give you an option to expand your search to include Cambridgeshire’s service.
 
-![A page with no search results]()
+![A page with no search results](/images/featured/featured-no-results.jpg)
+
+If you click this link we’ll present you with search results from Suffolk and Cambridgeshire.
+
+If your search brings up some results, but not the ones you're looking for, our results page gives you the option to expand your search to Cambridgeshire.
+
+![Expand this search to include Cambridgeshire Libraries (SPINE partner)](/images/featured/featured-cambridgeshire-search.jpg)
 
 **Note: you can’t just search Cambridgeshire’s titles. You have to search Suffolk and Cambridgeshire’s titles at the same time.**
 
-<h3 id=ill>Reserving titles from other library services</h3>
+If you find the title you want, you can go on to [reserve it in the normal way](/help/find-and-reserve-print-titles-dvds-and-cds/#reserving). You'll [receive notifications](/help/find-and-reserve-print-titles-dvds-and-cds/#notifications) and collect it in the same way as usual.
+
+**Note: If you reserve a title from Cambridgeshire you’ll be charged £2.**
+
+Sometimes, the same title is available from Suffolk and Cambridgeshire. Should you place a reservation on one of these titles, you can choose which service to reserve the title from. To avoid a charge, choose Suffolk:
+
+![You can choose which service you borrow a title from](/images/featured/featured-reservation-dropdown.jpg)
+
+<h3 id="ill">Reserving titles from other library services (inter-library loans)</h3>
 
 If a title is not available through us or Cambridgeshire Libraries, you can [suggest a title for stock](/help/suggest-a-title/) or request an inter-library loan. You can do this by visiting [any Suffolk Library](/libraries/), calling [01473 351249](tel:01473351249) or emailing **help@suffolklibraries.co.uk**
 
@@ -77,14 +92,8 @@ Due to the cost, we will always ask you whether you wish to extend your search t
             Loans from the British Library (5 week loan period)
           </td>
           <td>
-            <ul>
-              <li>
-                £15 for books
-              </li>
-              <li>
-                £10 for articles
-              </li>
-            </ul>
+              <p>£15 for books</p>
+              <p>£10 for articles</p>
             <p>+ £3.80 postage</p>
           </td>
         </tr>
