@@ -44,6 +44,7 @@ Here are some of the organisations and information sources available for a varie
 		<li><a href="#sexual">Sexual health</a></li>
 		<li><a href="#stress">Stress</a></li>
 		<li><a href="#suicide">Suicide prevention and family support</a></li>
+		<li><a href="#victim">Victim support</a></li>
 		<li><a href="#young">Young people</a></li>
 	</ul>
 	</div>
@@ -241,6 +242,10 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="http://suffolk-sobs.org.uk/">Survivors of Bereavement by Suicide</a> - National helpline and local groups in Ipswich, Bury St Edmunds, Lowestoft and Norfolk that provide support for those affected by suicide</li>
 	<li><a href="http://media.wix.com/ugd/a72b48_5318444c562a4d6195afc6bf4ff116ff.pdf">Norfolk and Suffolk NHS Foundation Trust (PDF)</a> - Local suicide prevention strategy on providing care and support</li>
 	<li><a href="http://www.healthysuffolk.org.uk/projects/suffolk-lives-matter/">Suffolk Lives Matter</a> - 24/7 free and anonymous chat or email as well as information on Suffolk's Suicide Prevention Strategy</li>
+</ul>
+<h3 id="victim">Victim support</h3>
+<ul>
+	<li><a href="https://www.nsvictimcare.org/">Norfolk & Suffolk Victim Care</a> - support for victims and witnesses of crime</li>
 </ul>
 <h3 id="young">Young people</h3>
 <ul>
