@@ -25,6 +25,5 @@ branch-colour-printing: A4 available
 branch-photocopying: A4 available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/oulton-broad-library
-branch-news: The library will be closed from 1pm on Tue 18 Sep due to staff absence, reopening Wed 19 Sep as normal.
 breadcrumb: y
 ---
