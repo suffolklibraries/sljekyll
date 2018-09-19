@@ -16,11 +16,11 @@ breadcrumb: articles
 
 ## [<cite>Lethal White</cite>, by Robert Galbraith](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2461176)
 
-Cormoran Strike returns in JK Rowling’s fourth outing for the private eye. We already have a long waiting list for this one.
+Cormoran Strike returns in JK Rowling’s fourth outing for the private eye. We have a long waiting list for this one.
 
 > "When Billy, a troubled young man, comes to private eye Cormoran Strike's office to ask for his help investigating a crime he thinks he witnessed as a child, Strike is left deeply unsettled. While Billy is obviously mentally distressed, and cannot remember many concrete details, there is something sincere about him and his story. But before Strike can question him further, Billy bolts from his office in a panic.
 
-> "Trying to get to the bottom of Billy's story, Strike and Robin Ellacott - once his assistant, now a partner in the agency - set off on a twisting trail that leads them through the backstreets of London, into a secretive inner sanctum within Parliament, and to a beautiful but sinister manor house deep in the countryside"
+> "Trying to get to the bottom of Billy's story, Strike and Robin Ellacott - once his assistant, now a partner in the agency - set off on a twisting trail that leads them through the backstreets of London, into a secretive inner sanctum within Parliament, and to a beautiful but sinister manor house deep in the countryside."
 
 ## [<cite>The Little Drummer Girl</cite>, by John le Carré](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2424889)
 

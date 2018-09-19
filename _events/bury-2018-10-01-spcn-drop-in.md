@@ -1,0 +1,12 @@
+---
+id: bury-spcn
+name: "Suffolk Parent Carer Network drop-in"
+location: bury-st-edmunds-library
+location-text: Bury St Edmunds Library
+event-start-date: 2018-10-01
+event-start-time: 1200
+event-end-time: 1430
+breadcrumb: y
+---
+
+Drop in to find out about help and support for parents and carers of children with additional needs and/or disabilities from the Suffolk Parent Carer Network.

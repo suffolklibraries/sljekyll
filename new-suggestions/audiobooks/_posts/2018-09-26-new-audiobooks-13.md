@@ -208,7 +208,7 @@ Fourteen short stories.
 
 > "So nothing much is new ... except for the mysterious figure dogging Jenny's steps and who, if she didn't know better, she would swear was her sinister cousin Christopher, last seen being hurled from the house by her wayward husband. He couldn't possibly be stupid enough to come back and try again ... could he?"
 
-### [<cite>Lord of Shadows</cite>, by Cassandra Clare](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_514248&fromPage=1&b2bSite=4172)
+### [<cite>Lord of Shadows</cite>, by Cassandra Clare, read by James Marsters](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_514248&fromPage=1&b2bSite=4172)
 
 > "Emma Carstairs has finally avenged her parents. She thought she’d be at peace. But she is anything but calm. Torn between her desire for her parabatai Julian and her desire to protect him from the brutal consequences of parabatai relationships, she has begun dating his brother, Mark. But Mark has spent the past five years trapped in Faerie; can he ever truly be a Shadowhunter again?
 

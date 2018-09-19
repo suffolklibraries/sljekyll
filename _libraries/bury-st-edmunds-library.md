@@ -33,4 +33,5 @@ branch-display-space: Space available for table top or banner displays in intern
 branch-which-travel: y
 breadcrumb: y
 branch-other-facilities: 'Board Games available to borrow - see the <a href="/assets/pdf/bury-board-games.pdf">Bury board games information sheet</a> (PDF) for further information.'
+branch-news: '<a href="/about/jobs/haverhill-library-and-information-assistant/">Bury St Edmunds Library are currently looking for a library and information advisor.</a>'
 ---
