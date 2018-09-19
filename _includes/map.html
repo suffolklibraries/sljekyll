@@ -1,27 +1,35 @@
-<p class="f5 ma0 mb2" id="map-instructions">Enter a town, village, address or postcode and <strong><span class="purple">click on the markers</span></strong> for more details:</p>
+<form class="mb2 ba b--light-gray" id="search-library-form">
 
-<div class="pure-form mb2" id="search-library-form">
+    <div class="ph2 pt2">
 
-    <input id="search_address" class="dib mr1 mb2 border-box w-80 w-50-ns" type="search">
+      <label for="search_address" class="db f5 mb0" id="map-instructions">Enter a town, village, address or postcode and <strong><span class="purple">click or tap on the markers</span></strong> for more details:</p>
 
-    <label>within</label>
+      <input id="search_address" class="custom-sans-serif dib mr1 mb2 border-box w-80 w-50-ns pa1" type="search">
 
-    <select class="mr1 mb2" id="search_radius">
+      <label class="db di-ns" for="search_radius">within</label>
 
-        <option value="805">1/2 mile</option>
-        <option value="1610">1 mile</option>
-        <option value="3220">2 miles</option>
-        <option value="8047">5 miles</option>
-        <option value="16093" selected="selected">10 miles</option>
-        <option value="32186">20 miles</option>
+      <select class="mr1 mb2" id="search_radius">
 
-    </select><br>
+          <option value="805">1/2 mile</option>
+          <option value="1610">1 mile</option>
+          <option value="3220">2 miles</option>
+          <option value="8047">5 miles</option>
+          <option value="16093" selected="selected">10 miles</option>
+          <option value="32186">20 miles</option>
 
-    <a id="search-button" class="dib mr1 pure-button pure-button-primary white custom-force-white" href="#map-instructions">Search</a>
-    <a id="reset" class="pure-button mr1 custom-force-dark-gray" href="#map-instructions">Reset</a>
-    <a id="find_me" class="f5 dib blue mv2 mv0-ns" href="#map-instructions">(or use my current location)</a>
+      </select>
 
-</div>
+    </div>
+
+    <div class="mb3 ph2">
+
+      <a id="search-button" class="dib mr1 pure-button pure-button-primary white custom-force-white custom-no-underline" href="#map-instructions">Search</a>
+      <a id="reset" class="pure-button mr1 custom-force-dark-gray custom-no-underline" href="#map-instructions">Reset</a>
+      <a id="find_me" class="f5 dib blue mv2 mv0-ns custom-no-underline" href="#map-instructions">(or use my current location)</a>
+
+    </div>
+
+</form>
 
 <!-- <div id="result_box"><strong id="result_count"></strong></div> -->
 

@@ -1,55 +1,49 @@
 ---
-layout: default
+layout: full-width
 title: Libraries
 breadcrumb: home
 sidebar: branches
 map: true
 jquery: true
 ---
-<h1 class="{% include /c/page-title.html %}">Libraries</h1>
-
 <div class="{% include /c/generic-panel.html %}">
 
     <p class="ma0 pa0 f6 custom-icon-info"><strong><a class="blue" href="/local/">Suffolk Libraries Local</a>:</strong> our pop-up library service.</p>
 
 </div>
 
-<div class="cf">
+<section class="mb4">
 
-    <div class="custom-g-l2">
+    <h2 class="f4 custom-lh-title mt0 mb2">Search for your nearest library</h2>
 
-        <section class="custom-lh-copy" id="library-list">
+    {% include map.html %}
 
-            <h1 class="dn">Libraries</h1>
+</section>
 
-            {% for library in site.libraries %}
+<section id="library-list" class="pa2 pa3-ns bg-light-gray">
 
-                <article class="{% include /c/slot.html %}">
+    <h2 class="clip">Libraries</h2>
 
-                    <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ library.branch-unique-id }}">{{ library.branch-name }}</a></h1>
+    <div class="flex-l flex-wrap-l justify-between-l">
 
-                    <p class="{% include /c/page-meta.html %} mb0">{{ library.branch-address }}, {{ library.branch-post-code }} &middot; <a class="blue" href="tel:{{ branch.phone }}">{{ library.branch-tel }}</a></p>
+    {% for library in site.libraries %}
 
-                    {% if library.branch-room-hire %}<p class="{% include /c/page-meta.html %} mt0"><a class="blue" href="{{ library.branch-room-hire }}">Room hire details</a>.</p>{% endif %}
+        <article class="c-w-46-l mb3 pa2 bg-white br2 ba b--near-white">
 
-                </article>
+            <h3 class="f5 ma0 pa0 mb1"><a class="blue" href="{{ library.branch-unique-id }}">{{ library.branch-name }}</a></h3>
 
-            {% endfor %}
+            <ul class="ma0 pa0 list f6">
 
-        </section>
+              <li>{{ library.branch-address }}</li>
+              {% if library.branch-post-code %}<li>{{ library.branch-post-code }}</li>{% endif %}
+              {% if library.branch-tel %}<li class="pv1"><a class="blue" href="tel:{{ library.branch-tel | remove: " " }}">{{ library.branch-tel }}</a></li>{% endif %}
 
-    </div>
+            </ul>
 
-    <div class="custom-g-l4 custom-g-nm">
+            {% if library.branch-room-hire %}<p class="mb0 mt1 f6"><a class="blue" href="{{ library.branch-room-hire }}">Room hire details</a>.</p>{% endif %}
 
-        <section class="pt1 bt b--light-gray">
+        </article>
 
-            <h1 class="dn">Map</h1>
+    {% endfor %}
 
-            {% include map.html %}
-
-        </section>
-
-    </div>
-
-</div>
+</section>

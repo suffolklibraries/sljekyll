@@ -1,6 +1,6 @@
 ---
 recurrent-title: 'Open space: drop in for health info and chats. All welcome.'
-recurrent-description: 'See the <a href="/health/open-space-timetable-bury-apr-2018/">latest Bury Open Space timetable</a>.'
+recurrent-description: 'See the <a href="/health/open-space-timetable-bury-sep-2018/">latest Bury Open Space timetable</a>.'
 recurrent-day: Monday
 recurrent-times: 1400-1600
 recurrent-location: bury-st-edmunds-library
