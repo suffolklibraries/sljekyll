@@ -889,11 +889,11 @@
 
             <p class="f5 ma0 mb2" id="map-instructions">Enter a town, village, address or postcode and <strong><span class="purple">click on the markers</span></strong> for more details:</p>
 
-<div class="pure-form mb2" id="search-library-form">
+<form class="pure-form mb2" id="search-library-form">
 
     <input id="search_address" class="dib mr1 mb2 border-box w-80 w-50-ns" type="search">
 
-    <label>within</label>
+    <label for="search_radius">within</label>
 
     <select class="mr1 mb2" id="search_radius">
 
@@ -906,11 +906,11 @@
 
     </select><br>
 
-    <a id="search-button" class="dib mr1 pure-button pure-button-primary white custom-force-white" href="#map-instructions">Search</a>
-    <a id="reset" class="pure-button mr1 custom-force-dark-gray" href="#map-instructions">Reset</a>
+    <a id="search-button" class="dib mr1 pure-button pure-button-primary white custom-force-white custom-no-underline" href="#map-instructions">Search</a>
+    <a id="reset" class="pure-button mr1 custom-force-dark-gray custom-no-underline" href="#map-instructions">Reset</a>
     <a id="find_me" class="f5 dib blue mv2 mv0-ns" href="#map-instructions">(or use my current location)</a>
 
-</div>
+</form>
 
 <!-- <div id="result_box"><strong id="result_count"></strong></div> -->
 
