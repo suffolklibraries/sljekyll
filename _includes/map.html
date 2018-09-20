@@ -1,35 +1,37 @@
-<details class="pb1 mb1">
+<details class="pv2 pv3-ns bg-light-gray mb1">
 
-    <summary class="pointer b">Search for your nearest library</summary>
+    <summary class="f4 pointer b ph2 ph3-ns">Search for your nearest library</summary>
 
-    <form class="mb2 ba b--light-gray" id="search-library-form">
+    <div class="pa2 pa3-ns">
 
-        <div class="ph2 pt2">
+      <form class="mv2 mt3-ns mb4-ns pa2 pa3-ns bg-white ba b--moon-gray" id="search-library-form">
 
-          <p class="lh-copy mt2 mb3"><a id="find_me" class="custom-no-underline ba b--light-silver br2 custom-force-dark-gray bg-moon-gray pv2 ph3 pointer" href="#map-instructions"><span class="custom-icon-location-white">Use my current location &rarr;</span></a></p>
+          <div class="pt2 pt3-ns">
 
-          <p class="ma0">Or:</p>
+            <p class="lh-copy mt2 mb3"><a id="find_me" class="custom-no-underline ba b--light-silver br2 custom-force-dark-gray bg-moon-gray pv2 ph3 pointer" href="#map-instructions"><span class="custom-icon-location-white">Use my current location &rarr;</span></a></p>
 
-          <label for="search_address" class="db f5 mb0" id="map-instructions">Enter a town, village, address or postcode and <strong><span class="purple">click or tap on the markers</span></strong> for more details:</label>
+            <p class="ma0">Or:</p>
 
-          <input id="search_address" class="custom-sans-serif dib mr1 mb2 border-box w-80 w-50-ns pa1" type="search">
+            <label for="search_address" class="db f5 mb1" id="map-instructions">Enter a town, village, address or postcode and <strong><span class="purple">click or tap on the markers</span></strong> for more details:</label>
 
-          <label class="db di-ns" for="search_radius">within</label>
+            <input id="search_address" class="custom-sans-serif dib mr1 mb2 border-box w-80 w-50-ns pa1" type="search">
 
-          <select class="mr1 mb2" id="search_radius">
+            <label class="db di-ns" for="search_radius">within</label>
 
-              <option value="805">1/2 mile</option>
-              <option value="1610">1 mile</option>
-              <option value="3220">2 miles</option>
-              <option value="8047">5 miles</option>
-              <option value="16093" selected="selected">10 miles</option>
-              <option value="32186">20 miles</option>
+            <select class="mr1 mb2" id="search_radius">
 
-          </select>
+                <option value="805">1/2 mile</option>
+                <option value="1610">1 mile</option>
+                <option value="3220">2 miles</option>
+                <option value="8047">5 miles</option>
+                <option value="16093" selected="selected">10 miles</option>
+                <option value="32186">20 miles</option>
 
-        </div>
+            </select>
 
-        <div class="mb3 ph2">
+          </div>
+
+        <div class="mb3">
 
           <a id="search-button" class="dib mr1 custom-no-underline ba b--light-silver br2 custom-force-dark-gray bg-moon-gray pv2 ph3 pointer" href="#map-instructions">Search</a>
           <a id="reset" class="dib f6 mr1 custom-no-underline pv1 blue" href="#map-instructions">Reset map</a>
@@ -38,11 +40,13 @@
 
     </form>
 
+  </div>
+
     <!-- <div id="result_box"><strong id="result_count"></strong></div> -->
 
     <noscript>
-        <p>Your JavaScript is disabled.</p>
-        <p>Please enable JavaScript to view the map.</p>
+        <p class="ph2">Your JavaScript is disabled.</p>
+        <p class="ph2">Please enable JavaScript to view the map.</p>
     </noscript>
 
     <div id="map_canvas"></div>
