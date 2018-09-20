@@ -262,6 +262,12 @@ New from the master of folktales and author of [<cite>Norse Myths</cite>](https:
 
 > "For as long as there have been wars, animals have been out there saving lives. Courageous dogs, cats, birds, horses, and even a bear have shown courage and devotion, and this book tells you their extraordinary stories. These animals help us to remember that not all heroes are human."
 
+### [<cite>A Cat's Guide to the Night Sky</cite>, by Stuart Atkinson & Brendan Kearney](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2452284)
+
+> "If you look up at the sky on a dark night, what do you see? There's a whole universe staring back at you.
+
+> "In the company of Felicity the cat discover the phases of the moon, the constellations and how to spot the Northern Lights and the Milky Way. This beautiful, fun book will introduce you to the beauty of the night sky and show you the stars like you've never seen them before."
+
 ### [<cite>Women in Battle</cite>, by Marta Breen & Jenny Jordahl](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2444990)
 
 > "Presented as a graphic novel and spanning 150 years of recent history, 'Women in Battle' celebrates the fight for women's rights all over the world. Topics include the suffragette movement, female world leaders, abortion and contraception, gay marriage and #MeToo."
