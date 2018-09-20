@@ -135,55 +135,62 @@
                 <div class="bg-light-gray pa2 pa3-ns mb2 mb4-ns ba b--near-white
 ">
 
-    <p class="ma0 pa0 f6 custom-icon-info"><strong><a class="blue" href="/local/">Suffolk Libraries Local</a>:</strong> our pop-up library service.</p>
+    <p class="ma0 pa0 f6"><strong><a class="blue custom-icon-info" href="/local/">Suffolk Libraries Local</a>:</strong> our pop-up library service.</p>
 
 </div>
 
 <section class="mb4">
 
-    <h2 class="f4 custom-lh-title mt0 mb2">Search for your nearest library</h2>
+    <details class="pb1 mb1">
+
+    <summary class="pointer b">Search for your nearest library</summary>
 
     <form class="mb2 ba b--light-gray" id="search-library-form">
 
-    <div class="ph2 pt2">
+        <div class="ph2 pt2">
 
-      <label for="search_address" class="db f5 mb0" id="map-instructions">Enter a town, village, address or postcode and <strong><span class="purple">click or tap on the markers</span></strong> for more details:</p>
+          <p class="lh-copy mt2 mb3"><a id="find_me" class="custom-no-underline ba b--light-silver br2 custom-force-dark-gray bg-moon-gray pv2 ph3 pointer" href="#map-instructions"><span class="custom-icon-location-white">Use my current location &rarr;</span></a></p>
 
-      <input id="search_address" class="custom-sans-serif dib mr1 mb2 border-box w-80 w-50-ns pa1" type="search">
+          <p class="ma0">Or:</p>
 
-      <label class="db di-ns" for="search_radius">within</label>
+          <label for="search_address" class="db f5 mb0" id="map-instructions">Enter a town, village, address or postcode and <strong><span class="purple">click or tap on the markers</span></strong> for more details:</label>
 
-      <select class="mr1 mb2" id="search_radius">
+          <input id="search_address" class="custom-sans-serif dib mr1 mb2 border-box w-80 w-50-ns pa1" type="search">
 
-          <option value="805">1/2 mile</option>
-          <option value="1610">1 mile</option>
-          <option value="3220">2 miles</option>
-          <option value="8047">5 miles</option>
-          <option value="16093" selected="selected">10 miles</option>
-          <option value="32186">20 miles</option>
+          <label class="db di-ns" for="search_radius">within</label>
 
-      </select>
+          <select class="mr1 mb2" id="search_radius">
 
-    </div>
+              <option value="805">1/2 mile</option>
+              <option value="1610">1 mile</option>
+              <option value="3220">2 miles</option>
+              <option value="8047">5 miles</option>
+              <option value="16093" selected="selected">10 miles</option>
+              <option value="32186">20 miles</option>
 
-    <div class="mb3 ph2">
+          </select>
 
-      <a id="search-button" class="dib mr1 pure-button pure-button-primary white custom-force-white custom-no-underline" href="#map-instructions">Search</a>
-      <a id="reset" class="pure-button mr1 custom-force-dark-gray custom-no-underline" href="#map-instructions">Reset</a>
-      <a id="find_me" class="f5 dib blue mv2 mv0-ns custom-no-underline" href="#map-instructions">(or use my current location)</a>
+        </div>
 
-    </div>
+        <div class="mb3 ph2">
 
-</form>
+          <a id="search-button" class="dib mr1 custom-no-underline ba b--light-silver br2 custom-force-dark-gray bg-moon-gray pv2 ph3 pointer" href="#map-instructions">Search</a>
+          <a id="reset" class="dib f6 mr1 custom-no-underline pv1 blue" href="#map-instructions">Reset map</a>
 
-<!-- <div id="result_box"><strong id="result_count"></strong></div> -->
+        </div>
 
-<noscript>
-    <p>Your JavaScript is disabled.</p>
-    <p>Please enable JavaScript to view the map.</p>
-</noscript>
+    </form>
 
-<div id="map_canvas"></div>
+    <!-- <div id="result_box"><strong id="result_count"></strong></div> -->
+
+    <noscript>
+        <p>Your JavaScript is disabled.</p>
+        <p>Please enable JavaScript to view the map.</p>
+    </noscript>
+
+    <div id="map_canvas"></div>
+
+</details>
 
 
 </section>
