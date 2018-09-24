@@ -10,7 +10,7 @@ event-ticket-price: 2
 breadcrumb: y
 ---
 
-Meet Gavin Milnthorpe, author of [<cite>Stanley Young is Planning a Murder</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1469629) and [<cite>Second Hand Scott</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2331637), and hear about his books and enjoy his stories and maybe even a song or two
+Meet Gavin Milnthorpe, author of [<cite>Stanley Young is Planning a Murder</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1469629) and [<cite>Second Hand Scott</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2331637), and hear about his books and enjoy his stories and maybe even a song or two.
 
 Ticket price includes a glass of wine or soft drink.
 

@@ -5,6 +5,7 @@ location: lavenham-library
 location-text: Lavenham Library
 event-start-date: 2018-10-23
 event-start-time: 1030
+event-end-time: 1230
 event-category: half-term
 breadcrumb: y
 ---
