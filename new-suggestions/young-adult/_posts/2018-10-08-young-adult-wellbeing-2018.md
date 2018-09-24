@@ -17,7 +17,7 @@ breadcrumb: young-adult
 **See also:**
 
 * [Wellbeing books for children for Libraries Week 2018](/parents-carers-and-children/childrens-ya-books/childrens-wellbeing-2018/)
-* [Wellbeing books for adults for Libraries Week 2018]()
+* [Wellbeing books for adults for Libraries Week 2018](/new-suggestions/articles/wellbeing-2018/)
 * [Books for parents/carers and young adults dealing with mental health](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/ya-mental-health/)
 * [Books for young adults dealing with wellbeing and resilience](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/ya-wellbeing-resilience/)
 * [Moodboosting books for young people for 2017](/health/lists/health-lists/moodboosting-books-for-children-2017/)
