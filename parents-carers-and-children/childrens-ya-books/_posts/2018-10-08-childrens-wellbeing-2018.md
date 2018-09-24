@@ -16,8 +16,9 @@ breadcrumb: childrens-ya-books
 
 **See also:**
 
-* [Wellbeing books for young adults for Libraries Week 2018]()
+* [Wellbeing books for young adults for Libraries Week 2018](/new-suggestions/young-adult/young-adult-wellbeing-2018/)
 * [Wellbeing books for adults for Libraries Week 2018]()
+* [Books for children dealing with fear and anxiety](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/fear-and-anxiety/)
 
 ## [<cite>You Are Awesome</cite>, by Matthrew Syed & Toby Triumph](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2353134)
 

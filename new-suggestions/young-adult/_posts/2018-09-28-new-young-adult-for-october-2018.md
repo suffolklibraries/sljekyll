@@ -6,11 +6,11 @@ author: sophie-green
 category: young-adult
 excerpt: "New titles from Sarah J. Maas, Alex Wheatle, Adam Silvera & Becky Albertalli and more"
 featured-image: /images/featured/featured-young-adult-october-2018.jpg
-featured-alt: ""
+featured-alt: "Kerb Stain Boys, The Chaos of Now, The Boneless Mercies"
 breadcrumb: young-adult
 ---
 
-![](/images/featured/featured-young-adult-october-2018.jpg)
+![Kerb Stain Boys, The Chaos of Now, The Boneless Mercies](/images/featured/featured-young-adult-october-2018.jpg)
 
 ## [<cite>Kingdom of Ash</cite>, by Sarah J. Maas](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2429173)
 
