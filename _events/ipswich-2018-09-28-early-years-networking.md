@@ -3,7 +3,7 @@ id: ips-net
 name: "Early years networking event with ACORN East"
 location: ipswich-county-library
 location-text: Ipswich County Library
-event-start-date: 2018-09-26
+event-start-date: 2018-09-28
 event-start-time: 1300
 event-end-time: 1630
 event-ticket-price: free
