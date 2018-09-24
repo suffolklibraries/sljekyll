@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Family playtime: for children aged 0-5 and their parents/carers"
-recurrent-day: Saturdays from 29 September
+recurrent-day: Saturday
 recurrent-times: 1030-1115
 recurrent-location: newmarket-library
 recurrent-location-display-name: Newmarket Library

@@ -26,8 +26,6 @@ In the 25th instalment in the DCI Banks series:
 
 > "As the inconsistencies multiply and the mysteries proliferate, Annie's father's new partner, Zelda, comes up with a shocking piece of information that alerts Banks and Annie to the return of an old enemy in a new guise. This is someone who will stop at nothing, not even murder, to get what he wants - and suddenly the stakes are raised and the hunt is on."
 
-You can see [Peter Robinson in conversation with Catherine Larner at Woodbridge Library on Tuesday 7 August](/events/woodbridge-2018-08-07-peter-robinson/).
-
 ## [<cite>The Great Level</cite>, by Stella Tillyard](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2345396)
 
 A story of love and betrayal from the author of [<cite>The Tides of War</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=339274), with local(ish) interest.

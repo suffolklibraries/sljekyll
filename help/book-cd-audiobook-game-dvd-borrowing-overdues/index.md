@@ -10,7 +10,7 @@ breadcrumb: help
 
 </div>
 
-**We don't charge a fee for reserving a title** unless we need to get it from [another library service](/help/reservations/requests/inter-library-loans/).
+**We don't charge a fee for reserving a title** unless we need to get it from [another library service](/help/reservations-requests-inter-library-loans/).
 
 <table class="pure-table pure-table-bordered">
   <thead>

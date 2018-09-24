@@ -27,4 +27,4 @@ Psychologists say this is because the human mind has to concentrate on reading a
 
 ## Reading ideas
 
-There are a lot of books out there – fiction and non–fiction – that deal with mental health in some way. I&#8217;ll be choosing 2 or 3 books every month that provide a helpful, original or entertaining insight into various conditions. [Take a look at May&#8217;s picks](/health/lists/health-lists/health-and-wellbeing-picks-for-may-2015/).
+There are a lot of books out there – fiction and non–fiction – that deal with mental health in some way. I&#8217;ll be choosing 2 or 3 books every month that provide a helpful, original or entertaining insight into various conditions.

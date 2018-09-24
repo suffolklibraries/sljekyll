@@ -54,7 +54,7 @@ sidebar: health
 
 ## Confidence and self-esteem
 
-* [<cite>Banish Your Self-Esteem Thief: A Cognitive Behavioural Therapy Workbook on Building Positive Self-Esteem for Young People</cite> by Kate Collins-Donnelly](hhttps://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1578248)
+* [<cite>Banish Your Self-Esteem Thief: A Cognitive Behavioural Therapy Workbook on Building Positive Self-Esteem for Young People</cite> by Kate Collins-Donnelly](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1578248)
 * [<cite>Teen Life Confidential: Self-Esteem and Being You</cite> by Anita Naik](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1283290)
 * [<cite>Face</cite> by Benjamin Zephaniah](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2304223)
 

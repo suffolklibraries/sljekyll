@@ -7,7 +7,7 @@ sidebar: help
 
 ## Borrowing titles
 
-Whether you have [reserved a title](/find-and-reserve-print-titles-dvds-cds/) or found a title you wish to borrow on the library shelves, you can borrow it using one of our self-service machines or by seeing staff at the library desk. You will need your library card.
+Whether you have [reserved a title](/find-and-reserve-print-titles-dvds-and-cds/) or found a title you wish to borrow on the library shelves, you can borrow it using one of our self-service machines or by seeing staff at the library desk. You will need your library card.
 
 **Note:** if you are borrowing an audiobook, CD or DVD you'll need to take it to the desk for staff to issue.
 

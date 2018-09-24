@@ -36,7 +36,7 @@ You can [meet Mark Billingham at Slaughter in Southwold in June](/events/southwo
 
 ## [<cite>The King's Witch</cite>, by Tracy Borman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2378754)
 
-Tracy Borman has long been a Suffolk Libraries favourite and we interviewed her for [Meet the Author](/new-suggestions/meet-the-author/meet-the-author-tracy-borman/) last July.  You can meet her at [Lavenham Library on Saturday 7 July](/events/lavenham-2018-07-07-tracy-borman/). This is her first novel in a projected trilogy. As you would expect there is an absorbing plot and plenty of historical detail for anyone who enjoys reading about the post-Tudor period.
+Tracy Borman has long been a Suffolk Libraries favourite and we interviewed her for [Meet the Author](/new-suggestions/meet-the-author/meet-the-author-tracy-borman/) last July. This is her first novel in a projected trilogy. As you would expect there is an absorbing plot and plenty of historical detail for anyone who enjoys reading about the post-Tudor period.
 
 > "As she helps to nurse the dying Queen Elizabeth, Frances Gorges longs for the fields and ancient woods of her parents' Hampshire estate, where she has learned to use the flowers and herbs to become a much-loved healer. Frances is happy to stay in her beloved countryside when the new King arrives from Scotland, bringing change, fear and suspicion. His court may be shockingly decadent, but James's religion is Puritan, intolerant of all the old ways; he has already put to death many men for treason and women for witchcraft.
 
