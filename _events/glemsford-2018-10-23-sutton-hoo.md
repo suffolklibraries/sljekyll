@@ -3,7 +3,7 @@ id: glems-hoo
 name: "Sutton Hoo roadshow"
 location: glemsford-library
 location-text: Glemsford Library
-event-start-date: 2018-10-20
+event-start-date: 2018-10-23
 event-start-time: 1400
 event-end-time: 1600
 event-category: half-term
