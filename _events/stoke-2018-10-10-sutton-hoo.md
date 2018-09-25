@@ -5,7 +5,7 @@ location: stoke-library
 location-text: Stoke Library
 event-start-date: 2018-10-10
 event-start-time: 1400
-event-end-time: 1430
+event-end-time: 1600
 breadcrumb: y
 ---
 
