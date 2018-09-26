@@ -23,14 +23,22 @@ branch-payments: cash, cheques and cards accepted
 branch-parking: free parking available nearby
 branch-bookdrop: y
 branch-toilet: y
-branch-other-facilities: "Memories Corner - memorabilia and books to encourage reminiscence and conversation and reference books for dementia carers."
+branch-other-facilities: "<ul>
+                          <li>Laminating - A3 and A4</li>
+                          <li>Memories Corner - memorabilia and books to encourage reminiscence and conversation and reference books for dementia carers.</li>
+                          </ul>"
 branch-wifi: y
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
+branch-3d-printing: available by prior arrangement
 branch-room-hire: /libraries/room-hire/aldeburgh-library
-branch-display-space: "Two cork boards in the foyer: displays adverts for anyone selling items."
+branch-display-space: "Two cork boards in the foyer."
 branch-which: y
 breadcrumb: y
+branch-for-sale: '<ul>
+                  <li><a href="https://www.cardsforcharity.co.uk/">Cards for Good Causes</a>: charity Christmas cards and items from mid-October to 23 December</li>
+                  <li>Greetings cards for various occasions</li>
+                  </ul>'
 branch-news: '<a href="http://aldeburghlibraryfoundation.weebly.com/uploads/1/4/3/1/14312796/alf_brochure_autumn_2018.pdf">Aldeburgh Library Foundation&apos;s autumn 2018 course brochure is now available.</a>'
 ---

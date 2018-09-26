@@ -259,6 +259,12 @@
                                 </li>
                             {% endif %}
 
+                            {% if page.branch-3d-printing %}
+                              <li>
+                              3D printing: {{ page.branch-3d-printing }}
+                              </li>
+                            {% endif %}
+
                             {% unless page.branch-local %}
 
                             <li><a class="blue" href="/help/printing-copying-scanning/">Printing, photocopying &amp; scanning charges</a></li>
