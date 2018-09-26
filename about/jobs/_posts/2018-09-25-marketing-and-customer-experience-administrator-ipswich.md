@@ -32,4 +32,4 @@ This role is for an 37 hours a week. The rate of pay is &pound;16,000-18,000 per
 
 If you are interested, please send a CV and supporting statement outlining what you could bring to this position and Suffolk Libraries to: **recruitment@suffolklibraries.co.uk**
 
-The closing date for applications is **Friday 23 October 2018**. Interviews will be held on **Wednesday 6 November 2018**.
+The closing date for applications is **Tuesday 23 October 2018**. Interviews will be held on **Tuesday 6 November 2018**.
