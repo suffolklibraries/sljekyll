@@ -1,6 +1,6 @@
 ---
 id: chant-fun
-name: "Fun palace"
+name: "Fun Palace"
 location: chantry-library
 location-text: Chantry Library
 event-start-date: 2018-10-07

@@ -1,6 +1,6 @@
 ---
 id: gains-dance
-name: "Fun palace: for all the family"
+name: "Fun Palace: for all the family"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2018-10-06

@@ -1,6 +1,6 @@
 ---
 id: gains-dance
-name: "Fun palace: music, speaking & meditation for ages 16+"
+name: "Fun Palace: music, speaking & meditation for ages 16+"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2018-10-06

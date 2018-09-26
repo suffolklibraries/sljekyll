@@ -44,7 +44,8 @@ h2 {
     line-height: $lh-title;
 }
 
-h3 {
+h3,
+dt {
     font-size: 1.25rem;
     margin: 0;
     padding: 0;
@@ -53,7 +54,7 @@ h3 {
 }
 
 h4 {
-    font-size: 1.25rem;
+    font-size: 1rem;
     margin: 0;
     padding: 0;
     padding: 1rem 0 0.5rem 0;
@@ -64,11 +65,17 @@ h1 + p,
 h2 + p,
 h3 + p,
 h4 + p,
+dt + p,
 h1 + ul,
 h2 + ul,
 h3 + ul,
-h4 + ul {
+h4 + ul
+dt + ul {
     margin-top: 0;
+}
+
+dd {
+  margin-bottom: 1em;
 }
 
 blockquote {
@@ -80,9 +87,6 @@ blockquote {
 img {
     height: auto !important;
     max-width: 100% !important;
-
-
-
 }
 
 figcaption {

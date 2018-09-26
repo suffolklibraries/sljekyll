@@ -1,6 +1,6 @@
 ---
 id: ips-fun
-name: "Fun palace"
+name: "Fun Palace"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2018-10-06

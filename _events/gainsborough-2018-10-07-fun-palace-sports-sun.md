@@ -1,6 +1,6 @@
 ---
 id: gains-dance
-name: "Fun palace: family sports fun"
+name: "Fun Palace: family sports fun"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-alt-location: 4th Ipswich Scout Hall, Hogarth Road & Landseer Park
