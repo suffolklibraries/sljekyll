@@ -8,6 +8,7 @@ breadcrumb: about
 
 Highlights from our libraries and their friends groups.
 
+* [Suffolk Libraries Annual Review 2017-2018](/assets/pdf/suffolk-libraries-annual-review-2017-2018.pdf) (PDF)
 * [Suffolk Libraries Annual Review 2016-2017](/assets/pdf/suffolk-libraries-annual-review-2016-2017.pdf) (PDF)
 * [Suffolk Libraries Annual Review 2015-2016](/assets/pdf/suffolk-libraries-annual-review-2015-2016.pdf) (PDF)
 * [Suffolk Libraries Annual Review 2014-2015](/assets/pdf/suffolk-libraries-annual-review-2014-2015.pdf) (PDF)

@@ -15,6 +15,7 @@ Our member organisations elect our board.
 * Suffolk Libraries Chief Executive, Bruce Leeke (_ex officio_)
 * Sue Buck (Friends of Long Melford Library)
 * Sarah Wilson (Friends of Capel St Mary Library)
+* Sally Irvine (Aldeburgh Library Friends)
 
 ## Biographies
 
