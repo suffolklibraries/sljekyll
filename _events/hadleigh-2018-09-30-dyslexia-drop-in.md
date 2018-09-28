@@ -5,7 +5,7 @@ location: hadleigh-library
 location-text: Hadleigh Library
 event-start-date: 2018-09-30
 event-start-time: 1300
-event-end-time: 1600
+event-end-time: 1530
 breadcrumb: y
 ---
 

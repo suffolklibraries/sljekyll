@@ -15,4 +15,4 @@ breadcrumb: branch-room-hire
 
 * Plenty of public car parking available in nearby carparks
 * Refreshment making facilities (urns, cups and spoons) available, but hirers need to supply own tea, coffee, milk and sugar
-* Flip chart, projector
+* Flip chart
