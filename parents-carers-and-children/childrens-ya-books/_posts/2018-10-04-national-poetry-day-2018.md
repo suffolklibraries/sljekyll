@@ -70,10 +70,10 @@ breadcrumb: childrens-ya-books
 
 > "This is an illustrated collection of 366 nature poems - one for every day of the year. Filled with familiar favourites and new discoveries, written by a variety of poets, including William Shakespeare, Emily Dickinson, John Updike, Langston Hughes, N.M. Bodecker, Okamoto Kanoko and many more, this is the perfect book for children (and grown-ups!) to share at the beginning or the end of the day."
 
-## [<cite>The Song of the Dodo</cite>, by Hilda Offen]()
+## [<cite>The Song of the Dodo</cite>, by Hilda Offen](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2334130)
 
 > "This is a vibrant and accessible selection full of funny, thoughtful and surprising poems where Hilda writes about subjects that fascinate children, from dreams and magic to dinosaurs and family life."
 
-## [<cite>Poetry for a Change: a National Poetry Day anthology</cite>, by various authors]()
+## [<cite>Poetry for a Change: a National Poetry Day anthology</cite>, by various authors](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2426895)
 
 > "National Poetry Day is a chance for everyone everywhere to read, share and enjoy poetry. This special anthology features poems by the National Poetry Day Ambassadors, a top team of fantastic poets who bring poetry alive all year round. Take a look, and be part of the celebration!"
