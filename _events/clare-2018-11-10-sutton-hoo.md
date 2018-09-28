@@ -4,8 +4,8 @@ name: "Sutton Hoo roadshow"
 location: clare-library
 location-text: Clare Library
 event-start-date: 2018-11-10
-event-start-time: 1400
-event-end-time: 1700
+event-start-time: 1300
+event-end-time: 1600
 breadcrumb: y
 ---
 

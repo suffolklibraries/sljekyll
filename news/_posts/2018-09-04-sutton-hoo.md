@@ -27,8 +27,8 @@ Although the details are still being finalised the following library events have
 * [26 October - Haverhill Library](/events/haverhill-2018-10-26-sutton-hoo/)
 * [27 October - Gainsborough Community Library](/events/gainsborough-2018-10-27-sutton-hoo/)
 * [10 November - Clare Library](/events/clare-2018-11-10-sutton-hoo/)
-* 17 November - Ipswich County Library
-* 24 November - Beccles Library
+* [17 November - Ipswich County Library](/events/ipswich-2018-11-17-sutton-hoo/)
+* [24 November - Beccles Library](/events/beccles-2018-11-24-sutton-hoo/)
 * 12 February 2019 - Beccles Library
 * 13 February - Stowmarket Library
 * 14 February - Newmarket Library
