@@ -4,6 +4,7 @@ name: "Thurston Christmas Tree Festival"
 location: thurston-library
 location-text: Thurston Library
 event-start-date: 2018-12-15
+event-end-date: 2018-12-16
 event-start-time: 1000
 event-end-time: 1500
 breadcrumb: y
