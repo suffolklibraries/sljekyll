@@ -30,6 +30,7 @@ Contact our marketing and communications manager for a full report:
 
 ## AGM minutes
 
+* [Suffolk Libraries 2017 AGM minutes](/assets/pdf/suffolk-libraries-agm-minutes-2017.pdf) (PDF)
 * [Suffolk Libraries 2016 AGM minutes](/assets/pdf/suffolk-libraries-agm-minutes-2016.pdf) (PDF)
 * [Suffolk Libraries 2015 AGM minutes](/assets/pdf/suffolk-libraries-agm-minutes-2015.pdf) (PDF)
 * [Suffolk Libraries 2014 AGM minutes](/assets/pdf/suffolk-libraries-agm-minutes-2014.pdf) (PDF)
