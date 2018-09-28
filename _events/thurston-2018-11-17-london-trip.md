@@ -5,7 +5,6 @@ location: thurston-library
 location-text: Thurston Library
 event-start-date: 2018-09-17
 event-start-time: 0800
-event-category: src-presentation
 event-ticket-price: 18
 breadcrumb: y
 ---
