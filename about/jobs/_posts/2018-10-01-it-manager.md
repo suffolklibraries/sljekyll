@@ -30,7 +30,7 @@ We're looking for an individual who:
 
 Knowledge of any of the following products would be an advantage; Deep Freeze, Netloan, Spydus, SAP Business By Design, iTrent HR.
 
-This role is for an 37 hours a week. The rate of pay is &pound;35,000-38,000 per annum.
+This role is for 37 hours a week. The rate of pay is &pound;35,000-38,000 per annum.
 
 If you are interested, please send a **CV and video** outlining what you could bring to this position and Suffolk Libraries to: **recruitment@suffolklibraries.co.uk**
 
