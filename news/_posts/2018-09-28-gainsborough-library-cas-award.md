@@ -12,7 +12,7 @@ breadcrumb: news
 
 [Gainsborough Community Library](/libraries/gainsborough-community-library/) won the Village Hall or Community Building of the year award in this year’s Community Action Suffolk awards.
 
-{% include /c/figure.html src="/images/article/gainsborough-community-building-year-1.jpg" alt="Gaisnborough Library staff with a cheque presented by CAS staff" caption="Gainsborough Library receiving the award along with a cheque for £100 from John Shaw, Community Action Suffolk trustee" %}
+{% include /c/figure.html src="/images/article/gainsborough-community-building-year-1.jpg" alt="Gainsborough Library staff with a cheque presented by CAS staff" caption="Gainsborough Library receiving the award along with a cheque for £100 from John Shaw, Community Action Suffolk trustee" %}
 
 The Community Action Suffolk (CAS) Awards were held at the [Museum of East Anglian Life](http://eastanglianlife.org.uk/) this week to honour organisations and individuals who have gone above and beyond in their volunteering commitment.
 

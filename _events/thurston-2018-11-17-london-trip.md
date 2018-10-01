@@ -3,7 +3,7 @@ id: thurs-src
 name: "Coach trip to London"
 location: thurston-library
 location-text: Thurston Library
-event-start-date: 2018-09-17
+event-start-date: 2018-11-17
 event-start-time: 0800
 event-ticket-price: 18
 breadcrumb: y
