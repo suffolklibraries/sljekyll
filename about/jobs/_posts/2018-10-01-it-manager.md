@@ -1,10 +1,10 @@
 ---
 layout: sidebar-right
-title: IT Manager, based in Ipswich
+title: IT manager, based in Ipswich
 category: jobs
 sidebar: about
 breadcrumb: jobs
-excerpt: "37 hours per week, &pound;35,000-38,000, closing date Thur 18 Oct."
+excerpt: "37 hours per week, &pound;35,000-38,000, closing date Thu 18 Oct."
 expiry-date: 2018-10-18
 ---
 
