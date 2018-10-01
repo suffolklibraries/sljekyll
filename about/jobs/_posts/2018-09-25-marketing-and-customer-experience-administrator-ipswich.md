@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Marketing and customer experience administrator, Ipswich County Library
+title: Marketing and customer experience administrator, based in Ipswich
 category: jobs
 sidebar: about
 breadcrumb: jobs
