@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Mark Black History Month with our top titles for children"
+title: "Mark Black History Month with these top children's titles"
 date: 2018-10-01
 author: sophie-green
 category: childrens-ya-books
