@@ -28,5 +28,5 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: "The library will be closing at 5:30pm today (Tuesday 2 October) due to staff sickness."
+branch-news: "The library will be closing at 5pm today (Tuesday 2 October) due to staff sickness."
 ---
