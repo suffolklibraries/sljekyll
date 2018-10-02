@@ -11,4 +11,11 @@ event-category: fun-palaces
 breadcrumb: y
 ---
 
-Everyone is invited to join our Fun Palace. Further details coming soon!
+Everyone is invited to have a go at something new at our Fun Palace!
+
+* Make rainbow cabbage water with Crazy Kitchen Science
+* Try some therapeutic colouring with Suffolk Parent Carer Network
+* Get crafty with Realise Futures
+* Learn about the Tudors from Philip Roberts
+
+There will be other crafts available too, including knitting.
