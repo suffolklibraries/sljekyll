@@ -33,6 +33,9 @@ branch-scan-to-email: y
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/halesworth-library
 breadcrumb: y
-branch-for-sale: 'Stamps, cards, artwork, jewellery, books from local authors, reading glasses and accessories from ReadySpex, Halesworth Library bags, bookmarks and pens.'
+branch-for-sale: '<ul>
+                  <li>Stamps, cards, artwork, jewellery, books from local authors, reading glasses and accessories from ReadySpex, Halesworth Library bags, bookmarks and pens.</li>
+                  <li><a href="https://www.cardsforcharity.co.uk/">Cards for Good Causes</a>: charity Christmas cards and items.</li>
+                  </ul>'
 branch-display-space: "Window space available to hire for posters and notices. Contact the library for more details."
 ---
