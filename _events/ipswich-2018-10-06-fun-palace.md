@@ -11,7 +11,7 @@ event-category: ["fun-palaces", "hub"]
 breadcrumb: y
 ---
 
-Everyone is invited to join us and learn something new at our Fun Palace! There will also be the opportunity to take part in our I365 art initiative and pick up some gifts and homewares from The Crafty Collective Ipswich all day.
+Everyone is invited to join us and learn something new at our Fun Palace! There will also be the opportunity to take part in our IP365 art initiative and pick up some gifts and homewares from The Crafty Collective Ipswich all day.
 
 ## Programme of events
 
