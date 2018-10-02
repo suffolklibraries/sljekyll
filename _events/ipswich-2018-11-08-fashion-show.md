@@ -13,7 +13,7 @@ breadcrumb: y
 
 Join us for our ever-popular fashion show for the winter season.
 
-Enjoy a glass of prosecco while watching AW18 collections from highly acclaimed local independent businesses Cake and Catwalk, The Elvish Tailor, Deja Vu Boutique, Zeebra Chic, Truffle and The Italian Shirt Shop coming down the catwalk.
+Enjoy a glass of prosecco while watching AW18 collections from highly acclaimed local independent businesses Cake and Catwalk, The Elvish Tailor, Deja Vu Boutique, Zeebra Chic, Truffle and Antonio Bellini coming down the catwalk.
 
 Treat yourself or pick up something special for a friend from the many stalls from local shops, businesses and consultants, all while supporting the library.
 
