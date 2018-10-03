@@ -45,8 +45,6 @@ There are various volunteering opportunities across the county:
 
 * We're looking for volunteers to help run our new **[Sporting Memories reminiscence sessions](/events-activities/sporting-memories/)** at [Hadleigh Library](/libraries/hadleigh-library/), [Ipswich County Library](/libraries/ipswich-county-library/), [Lowestoft Library](/libraries/lowestoft-library/), [Newmarket Library](/libraries/newmarket-library/), [Stowmarket Library](/libraries/stowmarket-library/) and [Sudbury Library](/libraries/sudbury-library/)
 
-* We occasionally advertise volunteering opportunities on the [Volunteer Suffolk website](http://volunteersuffolk.org.uk/get-involved)
-
 To find out more about what our volunteers do, see our [volunteer case studies](/volunteer/volunteer-case-studies/)
 
 If you want to get involved, [contact your local library](/libraries/).
