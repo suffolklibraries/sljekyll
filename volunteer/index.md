@@ -43,11 +43,11 @@ There are various volunteering opportunities across the county:
 
 * We need hundreds of volunteers to help with the **[Summer Reading Challenge](https://summerreadingchallenge.org.uk/)**, which runs every year. Look out for information from spring onwards and [contact your library](/libraries/)
 
-* We're looking for volunteers to help run our new **[Sporting Memories reminiscence sessions](/events-activities/sporting-memories/)** at [Hadleigh Library](/libraries/hadleigh-library/), [Ipswich County Library](/libraries/ipswich-county-library/), [Lowestoft Library](/libraries/lowestoft-library/), [Newmarket Library](/libraries/newmarket-library/), [Stowmarket Library](/libraries/stowmarket-library/) and [Sudbury Library](/libraries/sudbury-library/)
+* We're looking for volunteers to help run our new **[Sporting Memories reminiscence sessions](/events-activities/sporting-memories/)** at [Ipswich County Library](/libraries/ipswich-county-library/), [Lowestoft Library](/libraries/lowestoft-library/) and [Shotley (Suffolk Libraries Local)](/libraries/shotley/).
 
 To find out more about what our volunteers do, see our [volunteer case studies](/volunteer/volunteer-case-studies/)
 
-If you want to get involved, [contact your local library](/libraries/).
+If you want to get involved, [contact your local library](/libraries/) or email **volunteer@suffolklibraries.co.uk**.
 
 **If you’re thinking of volunteering take a look at our Volunteer and Equal Opportunities policies:**
 
