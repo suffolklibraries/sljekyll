@@ -16,7 +16,7 @@ featured-link-text: "Find out about Ipswich County Library's Board Games Library
 
 <em>Library and information advisor Andrew Miller shares his experiences of organising International Games Week events and setting up Ipswich County Library's permanent Board Games Library.</em>
 
-29 October - 4 November is International Games Week, with libraries across the world holding events where people can play old favourites and make new discoveries. As Ipswich County Library's resident board game addict, it's my favourite time of the year and I encourage other libraries to organise board game events and even set up board game libraries of their own.
+29 October - 4 November 2017 is International Games Week, with libraries across the world holding events where people can play old favourites and make new discoveries. As Ipswich County Library's resident board game addict, it's my favourite time of the year and I encourage other libraries to organise board game events and even set up board game libraries of their own.
 
 There are lots of great reasons to hold a board games event and/or loan out board games. They offer people of all ages the opportunity to exercise their maths, reading, dexterity and problem-solving skills while having a lot of fun. At our recent Fun Palaces event, participants aged 6-76 built a French region out of tiles (Carcassonne), raced cars around a track (Pitch Car), searched for spies (Codenames), did the plumbing (Round the Bend) and built kingdoms out of dominoes (Kingdomino). You can go around the world and have loads of adventures without leaving the library.
 
@@ -35,14 +35,6 @@ This International Games Week, we secured sponsorship from local online board ga
 Board games make you laugh, be silly, talk to each other and think. For me, there's no greater pleasure than seeing customers having fun over a game or two, and I'd love to see that happen in more libraries.
 
 <div class="{% include /c/generic-panel.html %}">
-
-      <p>Ipswich County Library are holding three events for International Games Week, with sponsorship from Zatu Games:</p>
-
-      <ul>
-          <li><a href="/events/ipswich-2017-10-31-igw-minecraft/">Minecraft Club for ages 6-12 on Tuesday 31 October</a></li>
-          <li><a href="/events/ipswich-2017-11-02-igw-top-time">Top Time board games session for seniors on Thursday 2 November</a></li>
-          <li><a href="/events/ipswich-2017-11-04-igw-games-day/">Games Day for all ages on Saturday 4 November</a></li>
-      </ul>
 
       <p>Visit <a href="/libraries/ipswich-county-library/">Ipswich County Library's page</a> to find out more about their Board Games Library.</p>
 
