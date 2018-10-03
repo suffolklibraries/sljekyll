@@ -6,7 +6,7 @@ location-text: Ipswich County Library
 event-start-date: 2018-10-22
 event-start-time: 1100
 event-end-time: 1500
-event-category: ["half-term", "bloc"]
+event-category: ["half-term", "council"]
 breadcrumb: y
 ---
 

@@ -6,7 +6,7 @@ location-text: Bury St Edmunds Library
 event-start-date: 2018-10-26
 event-start-time: 1200
 event-end-time: 1600
-event-category: ["half-term", "bloc"]
+event-category: ["half-term", "council"]
 breadcrumb: y
 ---
 

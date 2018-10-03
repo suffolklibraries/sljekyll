@@ -1,0 +1,48 @@
+---
+layout: sidebar-right
+title: "Calling all young people: BLOC out your diaries for these taster days!"
+date: 2018-10-03
+author: james-powell
+category: news
+excerpt: "Suffolk Libraries is calling for young people across the county to have their say and help shape the Suffolk Libraries Arts Programme – BLOC."
+featured-image: /images/featured/featured-youth-council.jpg
+featured-alt: "Young people having a discussion in Ipswich County Library's Hub"
+breadcrumb: news
+---
+
+{% include /c/figure.html src="/images/featured/featured-youth-council.jpg" alt="Young people having a discussion in Ipswich County Library's Hub" caption="Young people having a discussion in Ipswich County Library's Hub" %}
+
+<p>Suffolk Libraries is calling for young people across the county to have their say and help shape the Suffolk Libraries Arts Programme – <a href-="/bloc/">BLOC</a>.</p>
+
+<p>We're looking for opinionated and passionate young people aged 11-25 to influence the creative direction of the BLOC programme and become board members of the Suffolk Libraries Youth Council. A series of taster days are being held to give young people a chance to have their say, make a difference and test out some pilot projects.</p>
+
+<p>The Youth Council Taster days are being held in Ipswich, Lowestoft and Bury St Edmunds this half term. All young people are welcome to come along to share their views, test new creative projects in their local area and find out more about becoming a board member.</p>
+
+<p>The taster days are taking place as follows:</p>
+
+{% assign youth-council-events = site.events | where: "event-category", "council" | sort: "event-start-date" %}
+
+{% for event in youth-council-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> - {{ event.event-end-date | date: "%a %-d %b" }} <span>{{ event.event-start-time }} - {{ event.event-end-time }}</span>
+
+        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+        </p>
+
+    </article>
+
+{% endfor %}
+
+<p>Please book your space using the link on your library's event listing.</p>
+
+<p>The <a href="/bloc/">BLOC</a> programme has distinct themes of Film and Digital, Literature, Music and Dance, Arts and Create and Wellbeing and Inclusion. From the outset Suffolk Libraries has been working with young people to give them ownership of the project by asking for their ideas and their help with coming up with a name and identity for the programme.</p>
+
+<p>The programme has many benefits for the library service. Ultimately it’s very important for us to reach out to more young people, as they are currently under-represented as library users. This project will help to make future services more appealing to 16-25 year-olds.</p>
+
+<p><a href="/news/national-portfolio-organisation/">Suffolk Libraries is one of only six library services in the country to be awarded National Portfolio status by Arts Council England last year</a>. National Portfolio Status means the Arts Council considers an organisation is doing work of national significance and comes with funding to support the work over four years.</p>
