@@ -11,6 +11,6 @@ event-ticket-price: free
 breadcrumb: y
 ---
 
-Come along to our regular Play, Rhyme and Storytime slot for pre-schoolers and hear children's author Fiona Barker read from her new book, <cite>Danny and the Dream Dog</cite>.
+Come along to our regular Play, Rhyme and Storytime slot for pre-schoolers and hear children's author Fiona Barker read from her new book, <cite>Danny and the Dream Dog</cite>. There will also be the chance to create a picture of your own Dream Dog.
 
 Signed copies will be available to buy.

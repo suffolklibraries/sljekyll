@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Storytime: stories for preschool children (term time only)"
-recurrent-day: Monday
+recurrent-day: Wednesday
 recurrent-times: 1045-1100
 recurrent-location: lowestoft-library
 recurrent-location-display-name: Lowestoft Library
