@@ -7,7 +7,7 @@ event-start-date: 2018-11-04
 event-start-time: 1030
 event-end-time: 1500
 event-ticket-price: free
-event-category: ["igw-2018", "hub"]
+event-category: igw-2018
 breadcrumb: y
 ---
 
