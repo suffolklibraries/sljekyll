@@ -36,4 +36,5 @@ branch-display-space: Small table top/banner display spaces available in the foy
 branch-which: y
 breadcrumb: y
 branch-news: '<a href="/about/jobs/haverhill-library-and-information-advisor/">Haverhill Library are currently looking for a library and information advisor.</a>'
+branch-other-facilities: Reach Haverhill foodbank donation point 
 ---

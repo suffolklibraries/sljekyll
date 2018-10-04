@@ -9,4 +9,4 @@ event-end-time: 1600
 breadcrumb: y
 ---
 
-Handle amazing objects from Sutton Hoo and learn all about the site from the experts who work there.
+See and handle amazing objects from Sutton Hoo and learn all about the site from the experts who work there.
