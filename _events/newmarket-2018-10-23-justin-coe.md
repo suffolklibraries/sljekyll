@@ -11,7 +11,7 @@ event-category: half-term
 breadcrumb: y
 ---
 
-> "Are you being silly? For goodness sake, sit up straight and pay attention! Justin Coe is showing off his ridiculous rhymes, rib-tickling tales and zany songs, and it's all beautifully suitable for giggles, wrigglers, scribblers, poem-ponderers, reluctant readers, dads, mums, and... fidget-bums."
+> "Are you being silly? For goodness sake, sit up straight and pay attention! Justin Coe is showing off his ridiculous rhymes, rib-tickling tales and zany songs, and it's all beautifully suitable for gigglers, wrigglers, scribblers, poem-ponderers, reluctant readers, dads, mums, and... fidget-bums."
 
 5-11 year-olds and their parents/carers are invited for poetry and a workshop (comprising a warm-up game and a writing challenge) from poet, writer and spoken word theatre creator Justin Coe.
 
