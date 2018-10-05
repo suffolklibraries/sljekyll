@@ -139,7 +139,7 @@ This fictionalised tale of the dangers of discarded plastic to our marine life i
 
 > "Then Mr Darrow, the school caretaker and fellow modeller, goes missing. Max must follow his parting instruction: 'Go to my room. You'll know what to do'. On the floor he finds a pile of sand - and in the sand is Mr Darrow's latest creation - a tiny boy, no bigger than a raisin, Luke, Prince of the Blues. And behind the tiny boy - millions of others - a thriving, bustling, sprawling civilisation!"
 
-This has been compared to [<cite>The Borrowers</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1614121) and [<cite>The Indian in the Cupboard](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=92864)
+This has been compared to [<cite>The Borrowers</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1614121) and [<cite>The Indian in the Cupboard</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=92864)
 
 ### [<cite>Brightstorm: high adventure in the frozen south</cite>, by Vashti Hardy](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2335035)
 

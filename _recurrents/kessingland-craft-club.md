@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Craft club: everyone welcome"
-recurrent-day: every other Friday from 5 October
+recurrent-day: every other Friday
 recurrent-times: 1400
 recurrent-location: kessingland-library
 recurrent-location-display-name: Kessingland Library
