@@ -21,23 +21,26 @@ layout: blank
 
             <div class="ph2 ph3-ns">
 
-                <div class="pt2 pb4 pt4-l pb5-l">
+                <div class="pt2 pb4 pt4-l">
 
-                    <div class="measure-wide">
+                    <h1 class="ma0 f6 f5-ns tracked ttl small-caps fw3 dark-red lh-title">Culture Lab</h1>
 
-                        <h1 class="ma0 f6 f5-ns tracked ttl small-caps fw3 dark-red lh-title">Culture Lab</h1>
+                      <p class="mt0 mb3 f4 f2-ns b lh-title measure-narrow">A week-long, mixed media residency working in partnership with METAL (30 July&#8211;3 August 2018)</p>
 
-                        <p class="ma0 f4 f2-ns b">A week-long, mixed media residency working in partnership with METAL (30 July&#8211;3 August 2018)</p>
+                      <video class="mw-100 h-auto db ma0 pa0 bg-black" controls poster="/images/bloc/culture-lab-cover.jpg">
 
-                        <p class="pt3 mt3 bt b--dark-red f5 f4-ns fw3">10 Suffolk-based artists took over Ipswich County Library to look at the role creativity plays in nurturing community, developing their ideas and practice. Meet the artists&hellip;</p>
+                          <source src="/videos/culture-lab.webm" type="video/webm">
+                          <p>Your browser doesn't support this video. Instead, you can <a href="/videos/culture-lab.mp4">watch the video</a> in a video player.</p>
+
+                      </video>
+
+                      <p class="pt3 mt3 mt4-ns bt b--dark-red f5 f4-ns fw3 measure-wide">10 Suffolk-based artists took over Ipswich County Library to look at the role creativity plays in nurturing community, developing their ideas and practice. Meet the artists&hellip;</p>
 
                     </div>
 
                 </div>
 
             </div>
-
-        </div>
 
     </header>
 
