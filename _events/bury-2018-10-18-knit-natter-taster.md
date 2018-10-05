@@ -1,6 +1,6 @@
 ---
 id: bury-knit
-name: "Knit and Knatter taster session"
+name: "Knit and Natter taster session"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
 event-start-date: 2018-10-18

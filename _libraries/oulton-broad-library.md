@@ -26,5 +26,4 @@ branch-photocopying: A4 available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/oulton-broad-library
 breadcrumb: y
-branch-news: "The library will be closed from 2-3pm on Wednesday 10 October due to staff sickness."
 ---

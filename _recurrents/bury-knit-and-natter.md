@@ -1,5 +1,5 @@
 ---
-recurrent-title: 'Knit and Knatter'
+recurrent-title: 'Knit and Natter'
 recurrent-day: every other Thursday from 8 November. Taster session on 18 October.
 recurrent-times: 1400-1600
 recurrent-location: bury-st-edmunds-library
