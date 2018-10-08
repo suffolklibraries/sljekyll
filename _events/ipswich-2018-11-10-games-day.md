@@ -1,6 +1,6 @@
 ---
 id: ipswich-games
-name: "International Games Week: Games Day"
+name: "International Games Week: Games Day 2"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2018-11-10
@@ -12,6 +12,14 @@ breadcrumb: y
 ---
 
 
-Everyone is invited to try out games from our Board Games Library, as well as other activities, for free.
+Everyone is invited to try out games and activities for free.
 
-Ipswich Junior Chess Club are also offering a free taster for 6-16 year-olds from 9:45-11:45am.
+Ipswich Junior Chess Club also offering a free taster for 6-16 year-olds from 9:45-11:45am. From Beginners to Masters, come and give it a go. [Find out more about Ipswich Junior Chess Club](http://www.ipswichchess.co.uk/junior-chess-club.html) or [check out their videos](http://www.ipswichchess.co.uk/chess-videos.html).
+
+The children's library will also be hosting a selection of children's board games and other activities. Or you can play one the many board games from our Board Games Library.
+
+[Find out more about International Games Week and see the map of all the libraries across the world taking part this year &rarr;](http://games.ala.org/international-games-week/)
+
+<img src="/images/featured/featured-zatu-games.jpg" class="{% include /c/img-float-left.html %}" alt="Zatu Games logo" />
+
+International Games Week events at Ipswich County Library are sponsored by [Zatu Games](https://www.board-game.co.uk/), sellers of over 7,000 games and collectables at low prices.
