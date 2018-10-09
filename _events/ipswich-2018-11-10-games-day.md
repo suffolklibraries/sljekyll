@@ -20,6 +20,6 @@ The children's library will also be hosting a selection of children's board game
 
 [Find out more about International Games Week and see the map of all the libraries across the world taking part this year &rarr;](http://games.ala.org/international-games-week/)
 
-<img src="/images/featured/featured-zatu-games.jpg" class="{% include /c/img-float-left.html %}" alt="Zatu Games logo" />
+<img src="/images/featured/featured-zatu-games.png" class="{% include /c/img-float-left.html %}" alt="Zatu Games logo" />
 
 International Games Week events at Ipswich County Library are sponsored by [Zatu Games](https://www.board-game.co.uk/), sellers of over 7,000 games and collectables at low prices.
