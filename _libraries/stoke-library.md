@@ -25,4 +25,5 @@ branch-colour-printing: available
 branch-photocopying: available on printer
 branch-scan-to-email: y
 breadcrumb: y
+branch-other-faciilities: "Free sanitary products available - just fill in a form and hand it to a member of staff"
 ---

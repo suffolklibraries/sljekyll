@@ -32,6 +32,9 @@ branch-room-hire: /libraries/room-hire/bury-st-edmunds-library
 branch-display-space: Space available for table top or banner displays in internal and external foyer. Public notice board also available.
 branch-which-travel: y
 breadcrumb: y
-branch-other-facilities: 'Board Games available to borrow - see the <a href="/assets/pdf/bury-board-games.pdf">Bury board games information sheet</a> (PDF) for further information.'
+branch-other-facilities: '<ul>
+                          <li>Free sanitary products available - just fill in a form and hand it to a member of staff</li>
+                          <li>Board Games available to borrow - see the <a href="/assets/pdf/bury-board-games.pdf">Bury board games information sheet</a> (PDF) for further information</li>
+                          </ul>'
 branch-news: '<a href="/about/jobs/bury-library-and-information-assistant/">Bury St Edmunds Library are currently looking for a library and information advisor.</a>'
 ---

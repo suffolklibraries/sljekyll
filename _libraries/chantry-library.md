@@ -28,6 +28,9 @@ branch-wifi: y
 branch-colour-printing: available
 branch-photocopying: black and white available
 branch-scan-to-email: y
-branch-other-facilities: "Foodbank collection point throughout the year."
+branch-other-facilities: "<ul>
+                          <li>Free sanitary products available - just fill in a form and hand it to a member of staff</li>
+                          <li>Foodbank collection point throughout the year</li>
+                          </ul>"
 breadcrumb: y
 ---
