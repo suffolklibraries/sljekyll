@@ -28,4 +28,5 @@ branch-scan-to-email: y
 branch-faxing: y
 branch-borrowing-ereaders-and-ipads: iPad
 breadcrumb: y
+branch-news: "The library will be opening at 10:30am today due to staff illness."
 ---
