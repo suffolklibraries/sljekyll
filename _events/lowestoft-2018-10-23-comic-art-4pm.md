@@ -1,6 +1,6 @@
 ---
 id: low-fair
-name: "NessFest: computer games design workshop for ages 16+ from FlipSide"
+name: "NessFest: comic art drop-in for 11-19 year-olds"
 location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2018-10-23
@@ -11,6 +11,6 @@ event-category: half-term
 breadcrumb: y
 ---
 
-Aged 11-16? Want to have a go at designing your own computer game? This workshop, part of NessFest Youth Arts Festival, is for you!
+11-19 year-olds are invited to drop into the library and have a go at making some comic art.
 
 No need to book.

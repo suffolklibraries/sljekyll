@@ -1,6 +1,6 @@
 ---
 id: low-fair
-name: "Computer games design workshop for ages 11-16 from FlipSide"
+name: "NessFest: computer games design workshop for ages 11-16 from FlipSide"
 location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2018-10-23
