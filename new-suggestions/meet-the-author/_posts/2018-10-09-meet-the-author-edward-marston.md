@@ -12,7 +12,7 @@ breadcrumb: meet-the-author
 
 ![Points of Danger, Under Attack, Date with the Executioner](/images/featured/featured-edward-marston-books.jpg)
 
-Edward Marston is the author of sixty crime novels, set in seven distinct periods of history. His books have been translated into many languages. His first historical mystery, <cite>The Queen's Head</cite>, was published in 1988, launching the Nicholas Bracewell series. Edward's latest book, [<cite>Points of Danger</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2440789), is part of his Railway Detective series.
+Edward Marston is the author of sixty crime novels, set in seven distinct periods of history. His books have been translated into many languages. His first historical mystery, [<cite>The Queen's Head</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=63221), was published in 1988, launching the Nicholas Bracewell series. Edward's latest book, [<cite>Points of Danger</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2440789), is part of his Railway Detective series.
 
 ## 1. Who were your literary influences and heroes as you were growing up?
 

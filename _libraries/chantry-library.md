@@ -30,5 +30,4 @@ branch-photocopying: black and white available
 branch-scan-to-email: y
 branch-other-facilities: "Foodbank collection point throughout the year."
 breadcrumb: y
-branch-news: "The main doors to the library and children's centre will be unavailable between 3:15pm and 5pm on Monday 8 October. Customers can use the fire escape route instead."
 ---
