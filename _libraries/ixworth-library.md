@@ -28,4 +28,5 @@ branch-scan-to-email: y
 branch-faxing: y
 branch-borrowing-ereaders-and-ipads: iPad
 breadcrumb: y
+branch-news: "The library will be closed today (Tuesday 9 October) due to staff sickness."
 ---
