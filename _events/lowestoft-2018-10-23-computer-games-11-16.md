@@ -1,6 +1,6 @@
 ---
 id: low-fair
-name: "NessFest: computer games design workshop for ages 11-16 from FlipSide"
+name: "NessFest: computer games design workshop for ages 11-16 from TeaBoy Games and FlipSide"
 location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2018-10-23
@@ -11,6 +11,8 @@ event-category: half-term
 breadcrumb: y
 ---
 
-Aged 11-16? Want to have a go at designing your own computer game? This workshop, part of NessFest Youth Arts Festival, is for you!
+Draw a scene from your favourite story or book and bring it to life with Scratch coding and MakeyMakey circuit boards! Using conductive materials like tin foil and graphite sticks you’ll trigger sounds and lights through coding on Scratch.
+
+If you take part in this workshop, you can collect a free food voucher for Sam's Coffee House!
 
 No need to book.
