@@ -16,7 +16,7 @@ breadcrumb: articles
 
 ## [<cite>Erebus: the story of a ship</cite>, by Michael Palin](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2424327)
 
-Radio 4 Book of the week from the traveller and former Python.
+Radio 4 Book of the Week from the traveller and former Python.
 
 > "Michael Palin brings to life the world and voyages of HMS Erebus, from its construction in the naval dockyards of Pembroke, to the part it played in Ross's Antarctic expedition of 1839-43, to its abandonment during Franklin's ill-fated Arctic expedition, and to its final rediscovery on the seabed in Queen Maud Gulf in 2014.
 
@@ -56,7 +56,7 @@ The novel behind the BBC's recent hit <cite>Killing Eve</cite> is Jennings' seco
 
 ## [<cite>The Wife</cite>, by Meg Wolitzer](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2423814)
 
-A woman in the shadow of her Nobel Prize winning husband knows his darkest secret. Will she tell? Glenn Close and Jonathan Pryce star in the recent film.
+A woman in the shadow of her Nobel Prize winning husband knows his darkest secret. Will she tell? Glenn Close and Jonathan Pryce star in the film adaptation.
 
 ## [<cite>Churchill: walking with destiny</cite>, by Andrew Roberts](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2445425)
 

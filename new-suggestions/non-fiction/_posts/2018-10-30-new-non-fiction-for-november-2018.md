@@ -40,7 +40,7 @@ The artist formerly known as ‘Scary Spice’ tells all in this no holds barred
 
 > "But winter can be tough. It is a time of introspection, of looking inwards. Seasonal sadness; winter blues; depression - such feelings are widespread in the darker months. But by looking outwards, by being in and observing nature, we can appreciate its rhythms."
 
-## [<cite>Nothing is Real: The Beatles were undeerated and other sweeping statements about pop</cite>, by David Hepworth](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2456516)
+## [<cite>Nothing is Real: The Beatles were underrated and other sweeping statements about pop</cite>, by David Hepworth](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2456516)
 
 Latest book from music journalist David Hepworth. As always it is well informed with obscure things you never knew about even the biggest star names. The last essay is ‘Five records that always work at weddings’.
 

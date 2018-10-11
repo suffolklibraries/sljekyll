@@ -1,0 +1,41 @@
+---
+layout: sidebar-right
+title: "October half-term events at Suffolk Libraries"
+date: 2018-10-11
+author: alice-violett
+category: news
+excerpt: "We've got all sorts of exciting events and activities for children across our libraries this half-term."
+breadcrumb: news
+featured-image: "/images/featured/featured-craft.jpg"
+featured-alt: "Children's craft materials"
+featured-excerpt: "We've got all sorts of exciting events and activities for children and young people across our libraries this half-term."
+featured-link-text: "Find out more"
+featured: true
+---
+
+<p>We've got all sorts of exciting events and activities for children and young people across our libraries this half-term.</p>
+
+<p>The <a href="/news/sutton-hoo/">Sutton Hoo roadshow</a> will be in full swing, with staff from the National Trust site fascinating visitors with artefacts, information and activities at several libraries. We've also got author visits and craft sessions aplenty, including Viking and Anglo-Saxon crafts at Beccles Library and Halloween-themed activities towards the end of the week.</p>
+
+<p>This half-term also offers young people the chance to have their say and help shape our new arts programme - <a href="/bloc/">BLOC</a> at <a href="/news/bloc-news/youth-council-taster-days/">Youth Council taster days</a> in Ipswich, Lowestoft and Bury St Edmunds.</p>
+
+<p>Lavenham and Lowestoft libraries, meanwhile, are involved with festival events. Lavenham Library is part of Lavenham Village Hall, the venue for a number of <a href="http://www.lavenhamliteraryfestival.co.uk/children-festival-2018">Lavenham Children's Book Festival</a> events, while Lowestoft Library is hosting several activities and a chill out zone for the first ever <a href="https://www.facebook.com/NessFestLowestoft/">NessFest Youth Arts Festival</a> for 11-19 year-olds.</p>
+
+{% assign half-term-events = site.events | where: "event-category", "half-term" | sort: "event-start-date" %}
+
+{% for event in half-term-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> - {{ event.event-end-date | date: "%a %-d %b" }} <span>{{ event.event-start-time }} - {{ event.event-end-time }}</span>
+
+        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+        </p>
+
+    </article>
+
+{% endfor %}
