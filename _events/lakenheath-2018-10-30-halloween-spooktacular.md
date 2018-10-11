@@ -12,4 +12,6 @@ breadcrumb: y
 
 Dare you enter the haunted library? Join us for scary stories, terrifying tunes, gruesome games and tricks and treats!
 
+Fancy dress optional.
+
 Children must be accompanied by a parent/carer, sweets only issued with parental permission.
