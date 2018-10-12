@@ -35,6 +35,10 @@ a:focus img {
     border-bottom: none !important;
 }
 
+*:focus {
+    outline: 3px solid #FFB700;
+}
+
 h1,
 h2 {
     font-size: 1.5rem;
