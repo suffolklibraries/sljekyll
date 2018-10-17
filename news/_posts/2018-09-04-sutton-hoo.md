@@ -41,6 +41,7 @@ Future dates (with full details to be confirmed):
 * 13 February - Stowmarket Library
 * 14 February - Newmarket Library
 * 9 March - Aldeburgh Library
+* 14 March - Debenham Library
 
 The specific details of each event, including timings, will be confirmed nearer the time. We also hope to add more library events.
 

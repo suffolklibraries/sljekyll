@@ -78,9 +78,9 @@ A picture book about a child refugee and the home which comes with imagination f
 
 > "A celebration of the special bond between a grandparent and child as they share the magic, joy and love in the world, both past and present."
 
-### [New title from David Walliams & Tony Ross](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2444815)
+### [<cite>Geronimo: the penguin who thought he could fly</cite>, by David Walliams & Tony Ross](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2444815)
 
-Unbelievably, as it’s nearly due to be published and must surely have been printed, Walliams' new book for younger readers is still being referred to as ‘Untitled Picture Book 6’.
+> "<cite>Geronimo</cite> is a comedic tale of a spirited baby penguin determined to fly, with a little help from his dad."
 
 ## Short chapter books
 
