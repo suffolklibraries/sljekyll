@@ -1,17 +1,17 @@
 ---
 layout: sidebar-right
-title: 'Open Space &#8211; Newmarket Library timetable for 10 October - 21 November 2018'
+title: 'Open Space &#8211; Newmarket Library timetable for 10 October - 19 December 2018'
 date: 2018-10-10
 author: sarah-lungley
 category: health
-excerpt: "Here is the new timetable for Open Space at Newmarket Library for 10 October - 21 November 2018! Lots of exciting things coming up and some great discussions."
+excerpt: "Here is the new timetable for Open Space at Newmarket Library for 10 October - 19 December 2018! Lots of exciting things coming up and some great discussions."
 breadcrumb: health
 sidebar: health
 ---
 
 ![Open Space logo](/images/featured/featured-open-space-logo.jpg)
 
-Here is the new timetable for Open Space at Newmarket Library for 10 October - 21 November 2018! Lots of exciting things coming up and some great discussions.
+Here is the new timetable for Open Space at Newmarket Library for 10 October - 19 December 2018! Lots of exciting things coming up and some great discussions.
 
 If you have any questions please do get in touch, or just come along to a session on Wednesdays at [Newmarket Library](/libraries/newmarket-library/)&#8211; all are welcome!
 
@@ -97,6 +97,46 @@ Activity: Christmas card crafts
 
 <td>
 Discussion: Positive affirmations
+</td>
+</tr>
+
+<tr>
+<td>
+28.11.18
+</td>
+
+<td>
+Activity: Making worry dolls
+</td>
+</tr>
+
+<tr>
+<td>
+05.12.18
+</td>
+
+<td>
+Activity: Making Christmas material wreaths + discussion TBC
+</td>
+</tr>
+
+<tr>
+<td>
+12.12.18
+</td>
+
+<td>
+Activity: Board games
+</td>
+</tr>
+
+<tr>
+<td>
+19.12.18
+</td>
+
+<td>
+Christmas session with mince pies and music
 </td>
 </tr>
 </table>
