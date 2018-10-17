@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Craft activities for children"
-recurrent-day: Saturday
+recurrent-day: Saturday and Sunday
 recurrent-times: 1000-1600
 recurrent-location: chantry-library
 recurrent-location-display-name: Chantry Library

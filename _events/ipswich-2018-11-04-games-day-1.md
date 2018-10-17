@@ -11,9 +11,11 @@ event-category: igw-2018
 breadcrumb: y
 ---
 
-Prepare your thumbs for a gaming nostalgia extravaganza from Bring Back Retro. Play on a Commodore A600, Megadrive, Nintendo 64 and more.
+Prepare your thumbs for a gaming nostalgia extravaganza from [Bring Back Retro](http://www.bringbackretro.com/). Play on a Commodore A600, Megadrive, Nintendo 64 and more for free. Suitable for ages 3+.
 
-There will also be the opportunity to try out games from our Board Games Library for free. Alternatively, bring your own games to share.
+Experience four generations of Mario, pull some tricks with <cite>Tony Hawk 2</cite> and <cite>1080 Snowboarding</cite>, run fast with Sonic the Hedgehog and Tails, try and get past the monkeys on <cite>The Lion King</cite>, do some speed racing on <cite>Need For Speed</cite> and <cite>Mario Kart</cite> and much more.
+
+There will also be some board games fun from our Board Games Library and some guest games for you to try. Alternatively, bring your own board games to share.
 
 [Find out more about International Games Week and see the map of all the libraries across the world taking part this year &rarr;](http://games.ala.org/international-games-week/)
 
