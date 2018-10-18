@@ -3,7 +3,7 @@ id: ipswich-gouache
 name: "Painting nature in gouache and water-based pens with artist Amy Beckwith"
 location: ipswich-county-library
 location-text: Ipswich County Library
-event-start-date: 2018-10-24
+event-start-date: 2018-11-24
 event-start-time: 1000
 event-end-time: 1600
 event-ticket-price: 35 per person
