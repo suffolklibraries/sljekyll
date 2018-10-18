@@ -42,5 +42,4 @@ branch-for-sale: "<ul>
                   <li>Friends of Newmarket Library 2018 calendars - £5.95.</li>
                   </ul>"
 breadcrumb: y
-branch-news: "The library's lift is currently out of order. Please ask a member of staff if you require any assistance."
 ---
