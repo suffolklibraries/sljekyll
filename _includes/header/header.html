@@ -20,7 +20,7 @@
 
 			<div class="custom-max-width custom-underline">
 
-				<p class="f6 tr-ns ma0">{% if site.message_title %}<strong>{{ site.message_title }}</strong>: {% endif %}{{ site.message }}{% if site.message_link %} {% include /c/button-green.html url=link-url text=link-text %}{% endif %}</p>
+				<p class="f6 ma0 pv2 pv0-ns">{% if site.message_title %}<strong>{{ site.message_title }}</strong>: {% endif %}{{ site.message }}{% if site.message_link %} <span class="db mv2 mv0-ns ml1-ns dib-ns">{% include /c/button-green.html url=link-url text=link-text %}</span>{% endif %}</p>
 
 			</div>
 
