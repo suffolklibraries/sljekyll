@@ -1,6 +1,6 @@
 ---
 id: newm-play
-name: "Quirkhouse Theatre Company presents: <cite>Talking in the Library</cite>"
+name: "Quirkhouse Theatre Company presents: <cite>Talking in the Library</cite> - CANCELLED"
 location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2018-10-20
@@ -10,6 +10,8 @@ event-ticket-price: 8; £5 concessions
 event-category: talking-in-the-library
 breadcrumb: y
 ---
+
+**We're sorry that this event has been CANCELLED**
 
 Join us for [Quirkhouse Theatre Company](http://www.quirkhousetheatreco.com/)'s moving exploration of literature, literacy and life, set in the library where four disparate characters meet.
 
