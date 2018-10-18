@@ -15,7 +15,7 @@ twitter_username: suffolklibrary
 github_username:  suffolklibraries
 message: ""
 message_link: support-us/
-message_link_text: "Support your local library &rarr;"
+message_link_text: "Support your library &rarr;"
 
 # Build settings
 markdown: kramdown
