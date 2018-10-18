@@ -52,6 +52,50 @@ featured-alt: "Magazine cut out collage"
 
       </header>
 
+      <section class="bg-white bb b--light-gray pv3 pv4-ns">
+
+          <article class="custom-max-width flex-l flex-wrap-l justify-between-l flex-row-reverse-l">
+
+              <div class="w-60-l pv2 pv3-ns ph2 ph3-ns">
+
+                <p class="ma0 f6 mid-gray ttl small-caps tracked">From the BLOC blog</p>
+
+                {% for post in site.categories.bloc limit:1 %}
+
+                <h2 class="pt1 f4 lh-title mt0"><a href="{{ post.url }}" class="dark-red no-underline underline-hover">{{ post.title }}</a></h2>
+
+                <p class="ma0">{{ post.excerpt }}</p>
+
+                <p class="mb0 mt1"><a href="{{ post.url }}" class="dark-blue no-underline underline-hover">Read more →</a></p>
+
+                {% endfor %}
+
+                <ul class="list ma0 mt3 pa0">
+
+                {% for post in site.categories.bloc limit:5 offset:1 %}
+
+                    <li class="b f5 lh-title mt0 mb1"><a href="{{ post.url }}" class="dark-red no-underline underline-hover pv1">{{ post.title }}</a></li>
+
+                {% endfor %}
+
+                </ul>
+
+              </div>
+
+              <div class="w-40-l pv2 pv3-ns pb0-l">
+
+                {% for post in site.categories.bloc limit:1 %}
+
+                  <a href="{{ post.url }}"><img alt="{{ post.featured-alt }}" class="db center" src="{{ post.featured-image }}"></a>
+
+                {% endfor %}
+
+              </div>
+
+          </article>
+
+      </section>
+
     <section class="bg-lightest-blue dark-gray pa2 ph3-ns pv4 pv5-ns bb b--moon-gray">
 
         <div class="custom-max-width flex flex-wrap justify-center justify-between-l">
@@ -97,36 +141,6 @@ featured-alt: "Magazine cut out collage"
             </div>
 
         </div>
-
-    </section>
-
-    <section class="bg-white bb b--light-gray pv3 pv4-ns">
-
-        <article class="custom-max-width flex-l flex-wrap-l justify-between-l flex-row-reverse-l">
-
-            <div class="w-60-l pv2 pv3-ns ph2 ph3-ns">
-
-              <p class="ma0 f6 mid-gray ttl small-caps tracked">From the BLOC blog</p>
-
-              {% for post in site.categories.bloc limit:1 %}
-
-              <h2 class="pt1 f4 lh-title mt0"><a href="{{ post.url }}" class="dark-red no-underline underline-hover">{{ post.title }}</a></h2>
-
-              <p class="ma0">{{ post.excerpt }}</p>
-
-              <p class="mb0 mt1"><a href="{{ post.url }}" class="dark-blue no-underline underline-hover">Read more →</a></p>
-
-            </div>
-
-            <div class="w-40-l pv2 pv3-ns pb0-l">
-
-                <a href="{{ post.url }}"><img alt="{{ post.featured-alt }}" class="db center" src="{{ post.featured-image }}"></a>
-
-            </div>
-
-              {% endfor %}
-
-        </article>
 
     </section>
 
