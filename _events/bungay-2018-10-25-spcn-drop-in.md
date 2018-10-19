@@ -4,7 +4,7 @@ name: "Suffolk Parent Carer Network drop-in"
 location: bungay-library
 location-text: Bungay Library
 event-start-date: 2018-10-25
-event-start-time: 1220
+event-start-time: 1330
 event-end-time: 1530
 breadcrumb: y
 ---
