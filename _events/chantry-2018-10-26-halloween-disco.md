@@ -1,6 +1,6 @@
 ---
 id: chant-halloween
-name: "Halloween disco"
+name: "Halloween disco - SOLD OUT"
 location: chantry-library
 location-text: Chantry Library
 event-start-date: 2018-10-26
@@ -10,6 +10,8 @@ event-category: half-term
 event-ticket-price: 3
 breadcrumb: y
 ---
+
+**We're sorry that this event is SOLD OUT**
 
 Children are invited to don their spookiest costumes for our Halloween disco.
 
