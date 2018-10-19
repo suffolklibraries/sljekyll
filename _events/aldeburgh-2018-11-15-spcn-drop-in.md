@@ -1,11 +1,11 @@
 ---
-id: stoke-spcn
+id: alde-spcn
 name: "Suffolk Parent Carer Network drop-in"
-location: stoke-library
-location-text: Stoke Library
-event-start-date: 2018-11-06
-event-start-time: 0930
-event-end-time: 1130
+location: aldeburgh-library
+location-text: Aldeburgh Library
+event-start-date: 2018-11-15
+event-start-time: 1000
+event-end-time: 1200
 breadcrumb: y
 ---
 

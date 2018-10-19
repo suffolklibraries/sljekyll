@@ -1,11 +1,11 @@
 ---
-id: stoke-spcn
+id: chant-spcn
 name: "Suffolk Parent Carer Network drop-in"
-location: stoke-library
-location-text: Stoke Library
-event-start-date: 2018-11-06
-event-start-time: 0930
-event-end-time: 1130
+location: chantry-library
+location-text: Chantry Library
+event-start-date: 2018-12-01
+event-start-time: 1030
+event-end-time: 1300
 breadcrumb: y
 ---
 

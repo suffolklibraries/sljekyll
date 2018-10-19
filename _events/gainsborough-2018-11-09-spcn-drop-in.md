@@ -1,11 +1,11 @@
 ---
-id: stoke-spcn
+id: gains-spcn
 name: "Suffolk Parent Carer Network drop-in"
-location: stoke-library
-location-text: Stoke Library
-event-start-date: 2018-11-06
-event-start-time: 0930
-event-end-time: 1130
+location: gainsborough-community-library
+location-text: Gainsborough Community Library
+event-start-date: 2018-11-09
+event-start-time: 1030
+event-end-time: 1230
 breadcrumb: y
 ---
 

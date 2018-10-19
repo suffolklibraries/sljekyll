@@ -1,11 +1,11 @@
 ---
-id: stoke-spcn
+id: leis-spcn
 name: "Suffolk Parent Carer Network drop-in"
-location: stoke-library
-location-text: Stoke Library
-event-start-date: 2018-11-06
-event-start-time: 0930
-event-end-time: 1130
+location: leiston-library
+location-text: Leiston Library
+event-start-date: 2018-11-22
+event-start-time: 1000
+event-end-time: 1200
 breadcrumb: y
 ---
 

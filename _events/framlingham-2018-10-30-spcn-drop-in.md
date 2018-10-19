@@ -1,11 +1,11 @@
 ---
-id: stoke-spcn
+id: fram-spcn
 name: "Suffolk Parent Carer Network drop-in"
-location: stoke-library
-location-text: Stoke Library
-event-start-date: 2018-11-06
+location: framlingham-library
+location-text: Framlingham Library
+event-start-date: 2018-10-30
 event-start-time: 0930
-event-end-time: 1130
+event-end-time: 1200
 breadcrumb: y
 ---
 

@@ -1,11 +1,11 @@
 ---
-id: stoke-spcn
+id: bec-spcn
 name: "Suffolk Parent Carer Network drop-in"
-location: stoke-library
-location-text: Stoke Library
-event-start-date: 2018-11-06
-event-start-time: 0930
-event-end-time: 1130
+location: beccles-library
+location-text: Beccles Library
+event-start-date: 2018-10-25
+event-start-time: 1000
+event-end-time: 1230
 breadcrumb: y
 ---
 
