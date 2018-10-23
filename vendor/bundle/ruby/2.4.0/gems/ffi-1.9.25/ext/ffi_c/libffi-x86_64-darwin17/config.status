@@ -441,7 +441,7 @@ Copyright (C) 2012 Free Software Foundation, Inc.
 This config.status script is free software; the Free Software Foundation
 gives unlimited permission to copy, distribute and modify it."
 
-ac_pwd='/Users/leon/Sites/sljekyll/vendor/bundle/ruby/2.4.0/gems/ffi-1.9.25/ext/ffi_c/libffi-x86_64-darwin16'
+ac_pwd='/Users/leon/Sites/sljekyll/vendor/bundle/ruby/2.4.0/gems/ffi-1.9.25/ext/ffi_c/libffi-x86_64-darwin17'
 srcdir='/Users/leon/Sites/sljekyll/vendor/bundle/ruby/2.4.0/gems/ffi-1.9.25/ext/ffi_c/libffi'
 INSTALL='/usr/local/bin/ginstall -c'
 MKDIR_P='/usr/local/bin/gmkdir -p'
