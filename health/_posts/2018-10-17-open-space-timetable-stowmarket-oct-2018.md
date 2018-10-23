@@ -1,17 +1,17 @@
 ---
 layout: sidebar-right
-title: 'Open Space &#8211; Stowmarket Library timetable for 23 October - 30 October 2018'
+title: 'Open Space &#8211; Stowmarket Library timetable for 23 October - 18 December 2018'
 date: 2018-10-17
 author: sarah-lungley
 category: health
-excerpt: "Here is the new timetable for Open Space at Stowmarket Library for 23 October - 30 October 2018! Lots of exciting things coming up and some great discussions."
+excerpt: "Here is the new timetable for Open Space at Stowmarket Library for 23 October - 18 December 2018! Lots of exciting things coming up and some great discussions."
 breadcrumb: health
 sidebar: health
 ---
 
 ![Open Space logo](/images/featured/featured-open-space-logo.jpg)
 
-Here is the new timetable for Open Space at Stowmarket Library for 23 October - 30 October 2018! Lots of exciting things coming up and some great discussions.
+Here is the new timetable for Open Space at Stowmarket Library for 23 October - 18 December 2018! Lots of exciting things coming up and some great discussions.
 
 If you have any questions please do get in touch, or just come along to a session on Tuesdays at [Stowmarket Library](/libraries/stowmarket-library/)&#8211; all are welcome!
 
@@ -46,7 +46,77 @@ Activity: Games and puzzles
 </td>
 
 <td>
-Discussion: Planning and idea for future sessions
+Activity: Arts & crafts for Halloween
+</td>
+</tr>
+
+<tr>
+<td>
+06.11.18
+</td>
+
+<td>
+Activity: Book folding and decorations for the Christmas tree
+</td>
+</tr>
+
+<tr>
+<td>
+13.11.18
+</td>
+
+<td>
+Activity: Computer workshop
+</td>
+</tr>
+
+<tr>
+<td>
+20.11.18
+</td>
+
+<td>
+Activity: Decorate tree for the Christmas Tree Festival
+</td>
+</tr>
+
+<tr>
+<td>
+27.11.18
+</td>
+
+<td>
+Activity: Games table/Christmas card making
+</td>
+</tr>
+
+<tr>
+<td>
+04.12.18
+</td>
+
+<td>
+Talk: Healthy eating from a dietician
+</td>
+</tr>
+
+<tr>
+<td>
+11.12.18
+</td>
+
+<td>
+Trip: Visit to the Christmas Tree Festival around Stowmarket
+</td>
+</tr>
+
+<tr>
+<td>
+18.12.18
+</td>
+
+<td>
+Discussion: Wellbeing for the Christmas period/Big White Wall
 </td>
 </tr>
 </table>
