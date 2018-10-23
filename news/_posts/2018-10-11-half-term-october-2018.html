@@ -9,33 +9,90 @@ breadcrumb: news
 featured-image: "/images/featured/featured-craft.jpg"
 featured-alt: "Children's craft materials"
 featured-excerpt: "We've got all sorts of exciting events and activities for children and young people across our libraries this half-term."
-featured-link-text: "Find out more"
+featured-link-text: "Find a half-term event"
 featured: true
+jquery: true
+dynatable: true
 ---
 
-<p>We've got all sorts of exciting events and activities for children and young people across our libraries this half-term.</p>
+<p>Exciting events and activities for children and young people across our libraries this half-term.</p>
 
-<p>The <a href="/news/sutton-hoo/">Sutton Hoo roadshow</a> will be in full swing, with staff from the National Trust site fascinating visitors with artefacts, information and activities at several libraries. We've also got author visits and craft sessions aplenty, including Viking and Anglo-Saxon crafts at Beccles Library and Halloween-themed activities towards the end of the week.</p>
+<h2>Highlights</h2>
 
-<p>This half-term also offers young people the chance to have their say and help shape our new arts programme - <a href="/bloc/">BLOC</a> at <a href="/news/bloc-news/youth-council-taster-days/">Youth Council taster days</a> in Ipswich, Lowestoft and Bury St Edmunds.</p>
+<ul>
 
-<p>Lavenham and Lowestoft libraries, meanwhile, are involved with festival events. Lavenham Library is part of Lavenham Village Hall, the venue for a number of <a href="http://www.lavenhamliteraryfestival.co.uk/children-festival-2018">Lavenham Children's Book Festival</a> events, while Lowestoft Library is hosting several activities and a chill out zone for the first ever <a href="https://www.facebook.com/NessFestLowestoft/">NessFest Youth Arts Festival</a> for 11-19 year-olds.</p>
+    <li>The <strong><a href="/news/sutton-hoo/">Sutton Hoo roadshow</a></strong> will be in full swing, with staff from the National Trust site fascinating visitors with artefacts, information and activities at several libraries.</li>
+    <li>Author visits and craft sessions aplenty, including <strong>Viking and Anglo-Saxon crafts at Beccles Library</strong> and <strong>Halloween-themed</strong> activities towards the end of the week.</li>
+    <li><strong>Young people can help shape our new arts programme</strong> - <a href="/bloc/">BLOC</a> at <a href="/news/bloc-news/youth-council-taster-days/">Youth Council taster days</a> in Ipswich, Lowestoft and Bury St Edmunds.</li>
+    <li>Lavenham and Lowestoft libraries festival events. Lavenham Library is part of Lavenham Village Hall, the venue for a number of <strong><a href="http://www.lavenhamliteraryfestival.co.uk/children-festival-2018">Lavenham Children's Book Festival</a></strong> events, while Lowestoft Library is hosting several activities and a chill out zone for the first ever <strong><a href="https://www.facebook.com/NessFestLowestoft/">NessFest Youth Arts Festival</a></strong> for 11-19 year-olds.</li>
+
+</ul>
+
+<h2>Find an event at your library</h2>
+
+{% include dynatable-library-list.html %}
+
+<table id="search-table" class="pure-table pure-table-bordered">
+
+    <thead>
+        <tr>
+            <th data-dynatable-column="event">Event</th>
+            <th data-dynatable-column="library">Library</th>
+            <th data-dynatable-column="date">Date</th>
+            <th data-dynatable-column="time">Time</th>
+        </tr>
+    </thead>
+
+    <tbody>
 
 {% assign half-term-events = site.events | where: "event-category", "half-term" | sort: "event-start-date" %}
 
 {% for event in half-term-events %}
 
-    <article class="{% include /c/listing.html %}">
+{% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
 
-        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+{% if event.event-end-date %}
 
-        <p class="{% include /c/page-meta.html %}">
+    {% capture event-time-seconds %}{{event.event-end-date | date: '%s' }}{% endcapture %}
 
-            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> - {{ event.event-end-date | date: "%a %-d %b" }} <span>{{ event.event-start-time }} - {{ event.event-end-time }}</span>
+{% else %}
 
-        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
-        </p>
+    {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
 
-    </article>
+{% endif %}
+
+{% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+
+{% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+
+{% if now-unix <= event-time %}
+
+    <tr>
+
+        <td><a href="{{ event.url }}">{{ event.name }}</a></td>
+        <td>{{ event.location-text }}</td>
+        <td>{{ event.event-start-date | date: "%a %-d %b, %Y" }}{% if event.event-end-date %} &#8211; {{ event.event-end-date | date: "%a %-d %b, %Y" }}{% endif %}</td>
+        <td>{{ event.event-start-time }}</td>
+
+    </tr>
+
+{% endif %}
 
 {% endfor %}
+
+</tbody>
+
+</table>
+
+<script>
+$('#search-table').dynatable({
+features: {
+paginate: false,
+recordCount: false,
+sorting: false
+},
+inputs: {
+queries: $('#search-library')
+}
+});
+</script>
