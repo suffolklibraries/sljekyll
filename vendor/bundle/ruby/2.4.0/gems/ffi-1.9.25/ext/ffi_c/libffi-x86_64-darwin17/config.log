@@ -30,15 +30,15 @@ Kernel configured for up to 4 processors.
 Processor type: x86_64h (Intel x86-64h Haswell)
 Processors active: 0 1 2 3
 Primary memory available: 4.00 gigabytes
-Default processor set: 278 tasks, 1657 threads, 4 processors
-Load average: 1.92, Mach factor: 2.07
+Default processor set: 270 tasks, 1383 threads, 4 processors
+Load average: 3.00, Mach factor: 1.04
 /bin/machine           = unknown
 /usr/bin/oslevel       = unknown
 /bin/universe          = unknown
 
-PATH: /Users/leon/.rvm/gems/ruby-2.4.2/bin
-PATH: /Users/leon/.rvm/gems/ruby-2.4.2@global/bin
-PATH: /Users/leon/.rvm/rubies/ruby-2.4.2/bin
+PATH: /Users/leon/.rvm/gems/ruby-2.4.0/bin
+PATH: /Users/leon/.rvm/gems/ruby-2.4.0@global/bin
+PATH: /Users/leon/.rvm/rubies/ruby-2.4.0/bin
 PATH: /Users/leon/.rvm/bin
 PATH: /usr/local/bin
 PATH: /usr/bin
