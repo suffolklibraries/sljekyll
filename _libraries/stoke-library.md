@@ -26,5 +26,4 @@ branch-photocopying: available on printer
 branch-scan-to-email: y
 breadcrumb: y
 branch-other-faciilities: "Free sanitary products available - just fill in a form and hand it to a member of staff"
-branch-news: The library will have no heating on Tuesday 23 October due to local gas works.
 ---
