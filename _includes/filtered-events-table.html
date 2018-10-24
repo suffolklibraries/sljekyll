@@ -8,7 +8,47 @@
 
     {% for library in site.libraries %}
 
-    <option>{{ library.branch-name }}</option>
+      {% assign library_has_event = false %}
+
+      {% assign pre_filtered_events = site.events | where: "event-category", page.event-filter %}
+
+      {% for event in pre_filtered_events %}
+
+        {% if event.location-text == library.branch-name %}
+
+          {% assign has_event = true %}
+
+          {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+
+          {% if event.event-end-date %}
+
+          {% capture event-time-seconds %}{{event.event-end-date | date: '%s' }}{% endcapture %}
+
+          {% else %}
+
+          {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+
+          {% endif %}
+
+          {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+
+          {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+
+          {% if now-unix <= event-time %}
+
+            {% if library_has_event == false %}
+
+              {% assign library_has_event = true %}
+
+              <option>{{ library.branch-name }}</option>
+
+            {% endif %}
+
+          {% endif %}
+
+        {% endif %}
+
+      {% endfor %}
 
     {% endfor %}
 
@@ -58,7 +98,7 @@
       <tr>
 
         <td><a href="{{ event.url }}">{{ event.name }}</a></td>
-        <td>{{ event.location-text }}</td>
+        <td><a href="/libraries/{{ event.location }}/">{{ event.location-text }}</a></td>
         <td>{{ event.event-start-date | date: "%a %-d %b, %Y" }}{% if event.event-end-date %} &#8211; {{ event.event-end-date | date: "%a %-d %b, %Y" }}{% endif %}</td>
         <td>{{ event.event-start-time }}</td>
 
