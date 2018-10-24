@@ -13,6 +13,7 @@ featured-link-text: "Find a half-term event"
 featured: true
 jquery: true
 dynatable: true
+event-filter: half-term
 ---
 
 <p>Exciting events and activities for children and young people across our libraries this half-term.</p>
@@ -30,69 +31,4 @@ dynatable: true
 
 <h2>Find an event at your library</h2>
 
-{% include dynatable-library-list.html %}
-
-<table id="search-table" class="pure-table pure-table-bordered">
-
-    <thead>
-        <tr>
-            <th data-dynatable-column="event">Event</th>
-            <th data-dynatable-column="library">Library</th>
-            <th data-dynatable-column="date">Date</th>
-            <th data-dynatable-column="time">Time</th>
-        </tr>
-    </thead>
-
-    <tbody>
-
-{% assign half-term-events = site.events | where: "event-category", "half-term" | sort: "event-start-date" %}
-
-{% for event in half-term-events %}
-
-{% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
-
-{% if event.event-end-date %}
-
-    {% capture event-time-seconds %}{{event.event-end-date | date: '%s' }}{% endcapture %}
-
-{% else %}
-
-    {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
-
-{% endif %}
-
-{% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
-
-{% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
-
-{% if now-unix <= event-time %}
-
-    <tr>
-
-        <td><a href="{{ event.url }}">{{ event.name }}</a></td>
-        <td>{{ event.location-text }}</td>
-        <td>{{ event.event-start-date | date: "%a %-d %b, %Y" }}{% if event.event-end-date %} &#8211; {{ event.event-end-date | date: "%a %-d %b, %Y" }}{% endif %}</td>
-        <td>{{ event.event-start-time }}</td>
-
-    </tr>
-
-{% endif %}
-
-{% endfor %}
-
-</tbody>
-
-</table>
-
-<script>
-$('#search-table').dynatable({
-features: {
-paginate: false,
-recordCount: false,
-sorting: false
-},
-inputs: {
-queries: $('#search-library')
-}
-});
-</script>
+{% include filtered-events-table.html %}
