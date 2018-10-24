@@ -1,0 +1,86 @@
+<form>
+
+  <label class="db mb1 b" for="search-library">Filter by library:</label>
+
+  <select id="search-library" name="library">
+
+    <option></option>
+
+    {% for library in site.libraries %}
+
+    <option>{{ library.branch-name }}</option>
+
+    {% endfor %}
+
+  </select>
+
+</form>
+
+<table class="pure-table pure-table-horizontal f6" id="search-table">
+
+  <thead>
+
+    <tr>
+
+      <th data-dynatable-column="event">Event</th>
+      <th data-dynatable-column="library">Library</th>
+      <th data-dynatable-column="date">Date</th>
+      <th data-dynatable-column="time">Time</th>
+
+    </tr>
+
+  </thead>
+
+  <tbody>
+
+    {% assign filtered_events = site.events | where: "event-category", page.event-filter | sort: "event-start-date" %}
+
+    {% for event in filtered_events %}
+
+    {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+
+    {% if event.event-end-date %}
+
+    {% capture event-time-seconds %}{{event.event-end-date | date: '%s' }}{% endcapture %}
+
+    {% else %}
+
+    {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+
+    {% endif %}
+
+    {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+
+    {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+
+    {% if now-unix <= event-time %}
+
+      <tr>
+
+        <td><a href="{{ event.url }}">{{ event.name }}</a></td>
+        <td>{{ event.location-text }}</td>
+        <td>{{ event.event-start-date | date: "%a %-d %b, %Y" }}{% if event.event-end-date %} &#8211; {{ event.event-end-date | date: "%a %-d %b, %Y" }}{% endif %}</td>
+        <td>{{ event.event-start-time }}</td>
+
+      </tr>
+
+    {% endif %}
+
+    {% endfor %}
+
+    </tbody>
+
+  </table>
+
+<script>
+$('#search-table').dynatable({
+features: {
+paginate: false,
+recordCount: false,
+sorting: false
+},
+inputs: {
+queries: $('#search-library')
+}
+});
+</script>
