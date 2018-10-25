@@ -98,7 +98,7 @@
       <tr>
 
         <td><a href="{{ event.url }}">{{ event.name }}</a></td>
-        <td><a href="/libraries/{{ event.location }}/">{{ event.location-text }}</a></td>
+        <td>{{ event.location-text }}</td>
         <td>{{ event.event-start-date | date: "%a %-d %b, %Y" }}{% if event.event-end-date %} &#8211; {{ event.event-end-date | date: "%a %-d %b, %Y" }}{% endif %}</td>
         <td>{{ event.event-start-time }}</td>
 
