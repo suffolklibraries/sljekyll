@@ -42,4 +42,5 @@ branch-for-sale: "<ul>
                   <li>Friends of Newmarket Library 2018 calendars - £5.95.</li>
                   </ul>"
 breadcrumb: y
+branch-news: There will be no access to the toilets on Wednesday 31 October due to essential maintenance work.
 ---
