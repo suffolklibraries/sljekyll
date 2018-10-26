@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Stories in the Middle: stories and activities for young children. Songs and rhymes for babies and toddlers. No session on 26 October."
+recurrent-title: "Stories in the Middle: stories and activities for young children. Songs and rhymes for babies and toddlers."
 recurrent-day: Friday
 recurrent-times: 1030-1115
 recurrent-location: felixstowe-library
