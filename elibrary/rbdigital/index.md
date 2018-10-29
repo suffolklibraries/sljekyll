@@ -6,7 +6,7 @@ breadcrumb: elibrary
 
 <div class="{% include /c/generic-panel.html %}">
 
-        <p>The Zinio for Libraries app will be discontinued on <strong>3 April 2018</strong>. Follow the instructions below to download the new RBdigital app, which offers the same functionality.</p>
+        <p>The Zinio for Libraries app was discontinued on <strong>3 April 2018</strong>. Follow the instructions below to download the new RBdigital app, which offers the same functionality.</p>
 
 </div>
 
@@ -47,10 +47,6 @@ RBdigital allows you to download PDF files of magazines for an unlimited time. T
 3. Search for 'RBdigital' and press 'Get' next to the RBdigital app
 4. Download and install the app
 5. Follow the steps from step 5 above.
-
-If you are using an older Kindle Fire, you may need to [download the old Zinio app directly from their website](https://imgs.zinio.com/faq/kindlefire.html#installation)
-
-Once you have downloaded the app, follow the steps from step 5 above.
 
 ## Downloading digital magazines with RBdigital
 

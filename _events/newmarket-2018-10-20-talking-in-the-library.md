@@ -11,7 +11,7 @@ event-category: talking-in-the-library
 breadcrumb: y
 ---
 
-**We're sorry that this event has been CANCELLED**. You can still see the performance at [Halesworth Library on Thursday 18 October](/events/halesworth/2018-10-18-talking-in-the-library/) and [Stowmarket Library on Friday 19 October](/events/stowmarket-2018-10-19-talking-in-the-library/).
+**We're sorry that this event has been CANCELLED**. You can still see the performance at [Halesworth Library on Thursday 18 October](/events/halesworth-2018-10-18-talking-in-the-library/) and [Stowmarket Library on Friday 19 October](/events/stowmarket-2018-10-19-talking-in-the-library/).
 
 Join us for [Quirkhouse Theatre Company](http://www.quirkhousetheatreco.com/)'s moving exploration of literature, literacy and life, set in the library where four disparate characters meet.
 
