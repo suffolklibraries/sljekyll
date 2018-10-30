@@ -1,7 +1,7 @@
 ---
-recurrent-title: "Craft and Chat for adults"
-recurrent-description: Bring your own craft to work on and meet like-minded crafters. Refreshments available.
-recurrent-day: second Tuesday of the month
+recurrent-title: "Jigsaw Club for adults"
+recurrent-description: Come and add some pieces to the latest jigsaw.
+recurrent-day: first, third and fifth Tuesday of the month
 recurrent-times: 1400
 recurrent-location: southwold-library
 recurrent-location-display-name: Southwold Library

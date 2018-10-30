@@ -1,7 +1,7 @@
 ---
-recurrent-title: "Craft and Chat for adults"
-recurrent-description: Bring your own craft to work on and meet like-minded crafters. Refreshments available.
-recurrent-day: second Tuesday of the month
+recurrent-title: "Lego for adults"
+recurrent-description: Come and build whatever you like. Stress relieving, creative and fun. Lego and refreshments provided.
+recurrent-day: last Wednesday of the month
 recurrent-times: 1400
 recurrent-location: southwold-library
 recurrent-location-display-name: Southwold Library
