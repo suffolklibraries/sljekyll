@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "County reserve closed (some older and specialised titles not available)"
-date: 2018-10-11
+date: 2018-10-31
 author: leon-paternoster
 category: news
 excerpt: "We're currently unable to provide books from the county reserve in Lowestoft Library due to the lift being out of service."
