@@ -1,6 +1,6 @@
 ---
 recurrent-title: 'Knit and Natter'
-recurrent-day: every other Thursday from 8 November.
+recurrent-day: every other Thursday
 recurrent-times: 1400-1600
 recurrent-location: bury-st-edmunds-library
 recurrent-location-display-name: Bury St Edmunds Library
