@@ -1,5 +1,5 @@
 current directory: /Users/aliceviolett/Sites/sljekyll/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.7/ext
-/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20181105-2330-en5a7x.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20181105-3027-p4rmiw.rb extconf.rb
 Ignoring eventmachine-1.2.5 because its extensions are not built.  Try: gem pristine eventmachine --version 1.2.5
 Ignoring ffi-1.9.25 because its extensions are not built.  Try: gem pristine ffi --version 1.9.25
 Ignoring ffi-1.9.18 because its extensions are not built.  Try: gem pristine ffi --version 1.9.18

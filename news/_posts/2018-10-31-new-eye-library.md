@@ -12,7 +12,7 @@ The new Eye Library celebrated its ‘topping out’ ceremony last week, where r
 
 Tony Brown, Chair of Suffolk Libraries, said: “We’re all very excited to see the new library taking shape in Eye. Once open, I’m sure this new and modern library facility will provide many benefits and opportunities for everyone in the local community.”
 
-{% include /c/figure.html src="/images/article/new-eye-library.jpg" alt="People in hard hats and high visibility jackets in a building that's still being completed" caption="Representatives from Suffolk Libraries, Suffolk County Council and Design and Property Consultants Concertus at the Eye Library topping out ceremony" %}
+{% include /c/figure.html src="/images/article/new-eye-library.jpg" alt="People in hard hats and high visibility jackets in a building that's still being completed" caption="Representatives from Suffolk Libraries, Suffolk County Council, Design and Property Consultants Concertus and main contractor RG Carter at the Eye Library topping out ceremony" %}
 
 Cllr Robert Whiting, Suffolk County Council’s Deputy Cabinet Member for Property, said: “Now the main building work is complete, Suffolk Libraries and Suffolk County Council can move on with plans to fit out the new modern interior for Eye Library, which will offer space for library services, community activities, events and a meeting space for people to hire. We are really pleased with the building work, it has been designed in a style which is sympathetic with neighbouring buildings in Eye.”
 

@@ -20,6 +20,8 @@ The tampons and pads available are for all flows and preferences can be requeste
 
 Sarah Lungley, mental health and wellbeing coordinator, said: "We are absolutely thrilled to be able to launch Pride & Periods, and hope that it will help in the fight against period poverty in Suffolk. Affording the right kind of protection, or any at all, can be a real struggle for some and this can have a big effect on their life."
 
+{% include /c/figure.html src="/images/featured/featured-pride-and-periods-launch.jpg" alt="Gail Kerrison, Sarah Lungley and Sharon Harkin at the Pride and Periods launch" caption="Gail Kerrison, Sarah Lungley and Sharon Harkin at the Pride and Periods launch" %}
+
 "We also know that stigma surrounding periods can make it difficult for some women, or those from the transgender community, to access sanitary items and we hope that by offering free items through our libraries, we can help this. Pride & Periods is a no questions asked project."
 
 Items are available from the following libraries:

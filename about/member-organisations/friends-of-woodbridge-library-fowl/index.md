@@ -9,7 +9,7 @@ breadcrumb: member-organisations
 
 ## Contact us
 
-* Telephone the library at **01394 446510** and ask to speak with the library manager, Helen Scrivener
+* Telephone the library at **01394 330855** and ask to speak with the library manager, Helen Scrivener
 * Email **friendsofwoodbridgelibrary@gmail.com**
 
 ## Downloads
@@ -70,16 +70,17 @@ The goal was to save all of the libraries from closure while reducing costs by 2
 
 ## What does FOWL do?
 
+{% include /c/figure.html src="/images/featured/featured-woodbridge-fashion-show.jpg" alt="Models coming down the runway in clothes from Parkside Shops at the Friends of Woodbridge Library's Fashion Show in October 2018" caption="Models coming down the runway in clothes from Parkside Shops at the Friends of Woodbridge Library's Fashion Show in October 2018" %}
+
 We work closely with library staff to help to organise and run a very wide range of community activities. So far these have included:
 
-* Tabletop sales
-* Lunchtime concerts
-* Jazz evenings
+* Book sales
+* Lunchtime and evening concerts
+* Theatre productions
+* A fashion show
 * Poetry readings
-* Craft fairs
-* Art classes
-* Summer Reading Challenge presentation
-* Writing groups
+* Quiz evenings
+* Author events
 
 ## What we don’t do!
 
