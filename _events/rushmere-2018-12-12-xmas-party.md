@@ -4,7 +4,7 @@ name: "Christmas party"
 location: rushmere
 location-text: Rushmere (Suffolk Libraries Local)
 event-start-date: 2018-12-12
-event-start-time: 1530
+event-start-time: 1330
 event-end-time: 1630
 event-category: xmas
 breadcrumb: y
