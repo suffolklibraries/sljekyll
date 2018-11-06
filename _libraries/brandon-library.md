@@ -28,4 +28,5 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
+branch-news: '<a href="/news/brandon-survey-extended/">Have your say about Brandon Library&apos;s proposed new opening hours &rarr;</a>'
 ---

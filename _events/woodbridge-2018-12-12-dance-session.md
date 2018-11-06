@@ -5,7 +5,7 @@ location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2018-12-12
 event-doors-open: 1530
-event-start-time: 1600
+event-start-time: 1545
 event-end-time: 1715
 event-ticket-price: free
 event-category: bloc
