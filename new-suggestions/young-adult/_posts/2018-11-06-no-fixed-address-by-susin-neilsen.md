@@ -4,7 +4,7 @@ title: "No Fixed Address by Susin Neilsen"
 date: 2018-11-06
 author: amy-rush-da-silva
 category: young-adult
-excerpt: "<cite>No Fixed Address</cite> "
+excerpt: "<cite>No Fixed Address</cite> is a heart-wrenching, cute, wonderful read."
 featured-image: /images/featured/featured-no-fixed-address.jpg
 featured-alt: "No Fixed Address"
 breadcrumb: young-adult
