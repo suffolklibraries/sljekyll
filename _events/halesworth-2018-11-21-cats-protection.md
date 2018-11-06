@@ -1,6 +1,6 @@
 ---
 id: halesworth-games
-name: "Christmas card sale from Framingham and Saxmundham Cats Protection"
+name: "Christmas card sale from Framlingham and Saxmundham Cats Protection"
 location: halesworth-library
 location-text: Halesworth Library
 event-start-date: 2018-11-21
