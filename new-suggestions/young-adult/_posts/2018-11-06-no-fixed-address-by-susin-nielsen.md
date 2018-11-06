@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "No Fixed Address by Susin Neilsen"
+title: "No Fixed Address by Susin Nielsen"
 date: 2018-11-06
 author: amy-rush-da-silva
 category: young-adult
@@ -23,7 +23,7 @@ genre-alt: "No Fixed Address"
 
 I went into <cite>No Fixed Address</cite> not knowing much about it, but ended up devouring it in two sittings. It’s a heart-wrenching, cute, wonderful read that had me smiling but also sobbing at times. You could say it’s the Canadian version of <cite>Slumdog Millionaire</cite>.
 
-This book focuses on issues that you don’t see enough of in YA, especially with regards to ‘hidden’ homelessness. Felix and his mum, Astrid, are living in a van and over the course of the story we get to find out the reasons behind this – some of which are quite shocking. Neilsen really brings home the reality of Felix’s situation, not just being ‘between homes’ but also the relationship between him and his mother, which becomes slightly strained over time.
+This book focuses on issues that you don’t see enough of in YA, especially with regards to ‘hidden’ homelessness. Felix and his mum, Astrid, are living in a van and over the course of the story we get to find out the reasons behind this – some of which are quite shocking. Nielsen really brings home the reality of Felix’s situation, not just being ‘between homes’ but also the relationship between him and his mother, which becomes slightly strained over time.
 
 You can’t help but love Felix straight away. Despite having his own problems, he is very compassionate towards others and looks out for his friends and his mum first. His relationship with friends Dylan and Winnie is just heartwarming and I loved them as a trio.
 
