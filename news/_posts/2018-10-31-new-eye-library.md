@@ -4,7 +4,7 @@ title: "New Eye Library taking shape"
 date: 2018-10-31
 author: leon-paternoster
 category: news
-excerpt: "The new Eye Library celebrated it’s ‘topping out’ ceremony last week, where representatives from Suffolk Libraries, Suffolk County Council and Design and Property Consultants Concertus came together to mark the occasion and take a look round the new library."
+excerpt: "The new Eye Library celebrated its ‘topping out’ ceremony last week, where representatives from Suffolk Libraries, Suffolk County Council and Design and Property Consultants Concertus came together to mark the occasion and take a look round the new library."
 breadcrumb: news
 ---
 
