@@ -34,7 +34,7 @@ featured-alt: "Magazine cut out collage"
 
               </ul>
 
-              <p class="b mb0 mt1"><a href="https://artslibraries.typeform.com/to/i628Sy" class="blue no-underline underline-hover">Book your place on a Youth Council taster day &rarr;</a></p>
+              <p class="b mb0 mt1"><a href="https://artslibraries.typeform.com/to/TZphIw" class="blue no-underline underline-hover">Book your place on the Youth Council Induction Day &rarr;</a></p>
 
             </div>
 
