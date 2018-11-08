@@ -4,19 +4,13 @@ layout: sidebar-left
 breadcrumb: elibrary
 ---
 
-<div class="{% include /c/generic-panel.html %}">
-
-        <p>The Zinio for Libraries app was discontinued on <strong>3 April 2018</strong>. Follow the instructions below to download the new RBdigital app, which offers the same functionality.</p>
-
-</div>
-
 RBdigital allows you to download PDF files of magazines for an unlimited time. This service is available through a web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer. An app called RBdigital is available for Android, iOS and newer Amazon Kindle Fires.
 
 ## Setting up your device to download digital magazines with RBdigital
 
 ### On a computer
 
-1. Go to the [RBdigital website](https://www.rbdigital.com/Suffolk/service/RBdigital/landing) and click the ‘Create New Account’ link in the top right hand corner of the home page
+1. Go to the [RBdigital website](https://suffolk.rbdigitalglobal.com/) and click the ‘Register’ link in the top right hand corner of the home page
 2. Enter your library card number and click ‘Next’
 3. Register an account with your name, email and a password and click ‘Create Account’
 4. Suffolk Libraries' RBdigital service will now be available to use.
@@ -52,7 +46,7 @@ RBdigital allows you to download PDF files of magazines for an unlimited time. T
 
 ### On a computer
 
-1. Go to the [RBdigital website](https://www.rbdigital.com/Suffolk/service/zinio/landing) and find a magazine through the search bar or by browsing the website
+1. Go to the [RBdigital website](https://suffolk.rbdigitalglobal.com/) and find a magazine through the search bar or by browsing the website
 2. Select the magazine you want and click ‘Checkout’. You have the option to receive email notifications when the next issue of the magazine becomes available
 3. Click the button ‘Start reading’ to view the magazine
 4. To view all of your magazines, click the ‘My Collection’ link in the top right hand corner of the home page.
@@ -72,4 +66,4 @@ NB. Zinio for Libraries only offers the functionality to read the magazines you 
 
 1. Follow steps 1 and 2 from the 'downloading digital magazines with RBdigital on a computer' in a browser.
 2. The titles you have selected should now show on the main page of the Zinio for Libraries app.
-[RBdigital help page →](https://www.rbdigital.com/Suffolk/help)
+[RBdigital help page →](https://suffolk.rbdigitalglobal.com/#/help)
