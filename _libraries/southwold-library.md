@@ -26,6 +26,7 @@ branch-bookdrop: y
 branch-refreshments: hot drinks for sale
 branch-which: y
 branch-for-sale: '<ul>
+                  <li>Tickets (£20) and raffle tickets (£5) for Adnams&apos; festive wine tasting in aid of SouthGen on Friday 16 November, 6pm.</li>
                   <li><a href="https://www.ticketsource.co.uk/suffolklibraries">Adopt a library animal</a>: online or by picking up a form from the library. Minimum £10 donation.</li>
                   <li>Crafts, Southwold and Suffolk Coast Treasure Trails sheets.</li>
                   <li>Local authors&#39; books.</li>

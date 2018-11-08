@@ -90,3 +90,17 @@ Sarah is an enthusiastic supporter of Suffolk Libraries and very aware of how lu
 She has lived in Suffolk for over 30 years, and has used public libraries since her childhood. Following four years on the committee of the Friends of Capel St Mary Library she moved to Felixstowe in 2017, where she helped to establish the new Friends of Felixstowe Library group.
 
 Sarah has had a varied and interesting career in the public sector associated with farming and the environment. This included many years in senior management roles based in East Anglia and London, which were associated with government environmental policy, business development and change management.
+
+### Sally Irvine
+
+<img src="/images/board/sally-irvine-200.jpg" alt="Sally Irvine" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+
+Sally is a keen promoter of Suffolk Libraries and its aims of sharing good practice and ideas and ensuring a viable and thriving library service in Suffolk.
+
+She has been a member of the Aldeburgh Library Foundation Trust (ALF) for nearly three years, using her strong local connections to develop and maintain partnership working with other organisations.
+
+Among other things, Sally has volunteered at Aldeburgh Independent Community Cinema, as a guide and former trustee of the Britten Pears Foundation at the Red House and as a governor of a local primary school. She has also supported the local carnival.
+
+Sally’s career involved senior strategic planning and policy development in the public sector including local government, health services and professional membership and regulation bodies as well as charities and voluntary organisations.
+
+She has worked in and led organisations ranging from large multi-million pound hospitals and medical colleges to small charities with little money but which punch above their weight, including those dedicated to helping young people experience citizenship. Sally has advocated successfully for organisations with funding challenges and is used to working as part of a team to deliver a common goal.
