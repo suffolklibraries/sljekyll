@@ -7,6 +7,12 @@ sidebar: volunteering
 breadcrumb: home
 ---
 
+<div class="{% include /c/generic-panel.html %}">
+
+    <p>We're looking for new volunteers for our <a href="/volunteer/home-library-service/">Home Library Service</a>.</p>
+
+</div>
+
 Our volunteers play a vital part in supporting the library service and the services and activities we provide to local people.
 
 They do not replace paid staff, but work alongside them in a range of roles. Libraries are great places to volunteer and there are many opportunities to get involved.
