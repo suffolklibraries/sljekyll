@@ -9,4 +9,4 @@ event-end-time: 1430
 breadcrumb: y
 ---
 
-Handle amazing objects from Sutton Hoo and learn all about the site from the experts who work there.
+Handle amazing objects from Sutton Hoo and learn all about the site from the experts who work there. Includes [adult talk](/events/ipswich-2018-11-17-sutton-hoo-talk/) and children's activities.

@@ -24,23 +24,18 @@ Allison Girling, property operations manager for Sutton Hoo said: "Closing the s
 
 There will be several library roadshows from October to March 2019 with the first one taking place next Wednesday (10 October) at Stoke Library in Ipswich. The full details of library roadshows confirmed so far is:
 
-* [10 October - Stoke Library](/events/stoke-2018-10-10-sutton-hoo/)
-* [20 October - Bury St Edmunds Library](/events/bury-2018-10-20-sutton-hoo/)
-* 23 October - [Glemsford](/events/glemsford-2018-10-23-sutton-hoo/) and [Lavenham](/events/lavenham-2018-10-23-sutton-hoo-family/) libraries
-* 24 October - [Long Melford](/events/long-melford-2018-10-24-sutton-hoo/) and [Sudbury](/events/sudbury-2018-10-24-sutton-hoo-adult-talk/) libraries
-* 25 October - [Beccles](/events/beccles-2018-10-25-sutton-hoo/) and [Southwold (Stella Peskett Millennium Hall)](/events/southwold-2018-10-25-sutton-hoo/) libraries
-* [26 October - Haverhill Library](/events/haverhill-2018-10-26-sutton-hoo/)
-* [27 October - Gainsborough Community Library](/events/gainsborough-2018-10-27-sutton-hoo/)
 * [10 November - Clare Library](/events/clare-2018-11-10-sutton-hoo/)
 * [17 November - Ipswich County Library](/events/ipswich-2018-11-17-sutton-hoo/)
 * [24 November - Beccles Library](/events/beccles-2018-11-24-sutton-hoo/)
 * [26 November - Halesworth Library (Library Friends only)](/events/halesworth-2018-11-26-sutton-hoo/)
+* [9 February 2019 - Felixstowe Library](/events/felixstowe-2019-02-09-sutton-hoo/)
+* [13 February 2019 - Stowmarket Library](/events/stowmarket-2019-02-13-sutton-hoo/)
 
 Future dates (with full details to be confirmed):
 
 * 12 February 2019 - Beccles Library
-* 13 February - Stowmarket Library
 * 14 February - Newmarket Library
+* 22 February - Stoke Library
 * 9 March - Aldeburgh Library
 * 14 March - Debenham Library
 
