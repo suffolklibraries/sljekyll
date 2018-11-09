@@ -22,11 +22,8 @@ They do not replace paid staff, but work alongside them in a range of roles. Lib
 Research shows that when you give your time to others, there are benefits for you as well:
 
 * You'll meet dynamic, friendly people, make new friends and help to inspire and support others
-
 * Choose from a diverse range of opportunities and activities
-
 * Learn new skills, share those you already have and get some great experience for your CV
-
 * Help to strengthen your local community
 
 > Volunteering ... can have a positive effect on your sense of purpose, autonomy and happiness; it helps to develop skills and self-esteem.
@@ -41,14 +38,10 @@ Some libraries offer volunteering opportunities that can help you get back on yo
 
 There are various volunteering opportunities across the county:
 
-* **[Home Library Service](/mobiles-home/home/)** – we’re often looking for volunteers to take books to older and disabled people in their own homes
-
+* **[Home Library Service](/volunteer/home-library-service/)** – we’re often looking for volunteers to take books to older and disabled people in their own homes
 * Volunteers support many of our **[events and activities](/events/)**. [Contact your library](/libraries/) for more information
-
 * There are many ways to get involved with our libraries' **[Community Groups or ‘Friends’ groups](/about/member-organisations/)**. You might help with fundraising, running events and community outreach. For more information [contact your library](/libraries/)
-
 * We need hundreds of volunteers to help with the **[Summer Reading Challenge](https://summerreadingchallenge.org.uk/)**, which runs every year. Look out for information from spring onwards and [contact your library](/libraries/)
-
 * We're looking for volunteers to help run our new **[Sporting Memories reminiscence sessions](/events-activities/sporting-memories/)** at [Ipswich County Library](/libraries/ipswich-county-library/), [Lowestoft Library](/libraries/lowestoft-library/) and [Shotley (Suffolk Libraries Local)](/libraries/shotley/).
 
 To find out more about what our volunteers do, see our [volunteer case studies](/volunteer/volunteer-case-studies/)
