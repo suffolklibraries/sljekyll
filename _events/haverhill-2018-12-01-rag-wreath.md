@@ -1,6 +1,6 @@
 ---
 id: hav-craft
-name: "Make your own Christmas rag wreath"
+name: "Make your own Christmas rag wreath - FULLY BOOKED"
 location: haverhill-library
 location-text: Haverhill Library
 event-start-date: 2018-12-01
@@ -10,6 +10,8 @@ event-ticket-price: 5
 event-category: xmas
 breadcrumb: y
 ---
+
+This event is now **fully booked**. There are still places on the [rag wreath workshop on Saturday 8 December](/events/haverhill-2018-12-08-rag-wreath/).
 
 Make a beautiful rag wreath to decorate your home.
 
