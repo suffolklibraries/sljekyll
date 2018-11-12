@@ -38,5 +38,4 @@ branch-other-facilities: '<ul>
                           <li>Jigsaw swap - bring in a complete puzzle and exchange it for one from the table</li>
                           </ul>'
 breadcrumb: y
-branch-news: "The ground floor of the library is closed today (Friday 9 November) due to a burst pipe. The first floor is open but the lift is out of use."
 ---
