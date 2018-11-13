@@ -10,6 +10,7 @@ event-start-time: 1430
 event-ticket-price: 10, under 12s £8
 event-image-small: featured/presents-windermere.jpg
 event-category: presents
+event-ticket-url: https://www.ticketsource.co.uk/whats-on/southwold/southwold-arts-centre-st-edmunds-hall/suffolk-libraries-presents-lady-windermere-s-fan
 breadcrumb: y
 ---
 

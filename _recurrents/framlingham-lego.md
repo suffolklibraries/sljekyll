@@ -1,8 +1,7 @@
 ---
-recurrent-title: "Drama workshop: for 7-12 year-olds"
-recurrent-description: "£5 per session. Led by Fiona McAlpine."
+recurrent-title: "Lego club: come along and be creative!"
 recurrent-day: Saturday
-recurrent-times: 1030-1130
+recurrent-times: 1000-1100
 recurrent-location: framlingham-library
 recurrent-location-display-name: Framlingham Library
 recurrent-location-display-url: /branches/framlingham-library/
