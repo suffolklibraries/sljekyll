@@ -32,6 +32,11 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/ipswich-county-library
+branch-for-sale: '<ul>
+                  <li><a href="https://www.cardsforcharity.co.uk/">Cards for Good Causes</a>: charity Christmas cards and items</li>
+                  <li>Christmas cards for the Suffolk Wildlife Trust and the Somersham Ward at Ipswich Hospital</li>
+                  <li>Christmas stamps - speak to staff</li>
+                  </ul>'
 branch-other-facilities: '<ul>
                           <li>Free sanitary products available - just fill in a form and hand it to a member of staff</li>
                           <li>Board Games Library - see the <a href="/assets/pdf/ipswich-board-games-library.pdf">Ipswich Board Games Library information sheet</a> (PDF) for further information</li>
