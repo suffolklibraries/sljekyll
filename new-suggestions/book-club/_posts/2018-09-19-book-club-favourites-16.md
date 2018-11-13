@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: 'Book club favourites #19'
+title: 'Book club favourites #16'
 date: 2018-09-19
 author: brandon-king
 category: book-club
