@@ -17,7 +17,6 @@ branch-friends: Friends of Lakenheath Library
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/lakenheath-library-2
 branch-parking: some spaces available outside
 branch-bookdrop: y
-branch-toilet: y
 branch-wifi: y
 branch-colour-printing: available
 branch-photocopying: available
@@ -25,4 +24,5 @@ branch-scan-to-email: y
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
 branch-payments: cash, cheques and cards accepted
+branch-news: "There will be no power in the library until 3pm on Friday 16 November."
 ---
