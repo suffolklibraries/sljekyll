@@ -22,7 +22,6 @@ branch-bookdrop: y
 branch-which: y
 branch-toilet: y
 branch-wifi: y
-branch-borrowing-ereaders-and-ipads: an iPad
 branch-photocopying: available up to A3 size
 branch-colour-printing: available up to A4 size
 branch-scan-to-email: y

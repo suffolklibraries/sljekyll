@@ -48,7 +48,6 @@ The main terms of the loan are:
   * [Bungay Library](/libraries/bungay-library)
   * [Capel Library](/libraries/capel-st-mary-library)
   * [Clare Library](/libraries/clare-library)
-  * [Felixstowe Library](/libraries/felixstowe-library)
   * [Halesworth Library](/libraries/halesworth-library)
   * [Haverhill Library](/libraries/haverhill-library) (two Nexus 7 tablets also available to borrow)
   * [Ixworth Library](/libraries/ixworth-library)
