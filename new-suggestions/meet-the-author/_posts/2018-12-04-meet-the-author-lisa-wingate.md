@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Lisa Wingate'
-date: 2018-11-16
+date: 2018-12-04
 author: brandon-king
 category: meet-the-author
 excerpt: "Lisa Wingate tells us all about her novels <cite>Before We Were Yours</cite> and <cite>Tending Roses</cite>."
