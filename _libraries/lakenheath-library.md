@@ -24,5 +24,4 @@ branch-scan-to-email: y
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
 branch-payments: cash, cheques and cards accepted
-branch-news: "There will be no power in the library until 3pm on Friday 16 November."
 ---
