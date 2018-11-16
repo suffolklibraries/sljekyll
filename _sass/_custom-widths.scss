@@ -22,6 +22,12 @@
     }
 }
 
+.c-w-46-m {
+    @media (min-width: 30em) and (max-width: 60em) {
+        width: 46%;
+    }
+}
+
 .c-w-46-l {
     @media (min-width: 60em) {
         width: 46%;
