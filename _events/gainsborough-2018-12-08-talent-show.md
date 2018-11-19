@@ -4,8 +4,7 @@ name: "Talent show for ages 8-16"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2018-12-08
-event-start-time: 1700
-event-end-time: 1900
+event-start-time: 1830
 breadcrumb: y
 ---
 
