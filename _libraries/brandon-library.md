@@ -28,5 +28,8 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: '<a href="/news/brandon-survey-extended/">Have your say about Brandon Library&apos;s proposed new opening hours &rarr;</a>'
+branch-news: '<ul>
+              <li>There may be intermittent disruption to library services on Wednesday 12 and Thursday 13 December due to electrical testing.</li>
+              <li><a href="/news/brandon-survey-extended/">Have your say about Brandon Library&apos;s proposed new opening hours &rarr;</a></li>
+              </ul>'
 ---
