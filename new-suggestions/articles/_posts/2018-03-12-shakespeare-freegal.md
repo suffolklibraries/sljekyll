@@ -4,6 +4,7 @@ title: "Celebrate Shakespeare Week with our Freegal service"
 date: 2018-03-12
 author: lisa-brennan
 category: articles
+tag: elibrary
 excerpt: "Shakespeare Week runs from 12 - 18 March. Why not mark the occasion by streaming or downloading some Shakespeare-themed spoken word and music from Freegal?"
 featured-image: /images/featured/featured-shakespeare-freegal.jpg
 featured-alt: "Great Speeches, Love's Labours Lost"

@@ -4,6 +4,7 @@ title: "Enjoy some breathtaking, spine-tingling, edge-of-your-seat suspense with
 date: 2018-11-05
 author: lisa-brennan
 category: articles
+tag: elibrary
 excerpt: "Experience thrills to go with our suspense eBooks and eAudiobooks."
 featured-image: /images/featured/featured-elibrary-suspense.jpg
 featured-alt: "The Perfect Stranger, Darkside, The Lies We Told"

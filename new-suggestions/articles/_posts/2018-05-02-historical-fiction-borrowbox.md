@@ -4,6 +4,7 @@ title: "Listen to some of our favourite historical fiction on BorrowBox"
 date: 2018-05-02
 author: lisa-brennan
 category: articles
+tag: elibrary
 excerpt: "Want to hear something good? We've picked out some of our favourite historical fiction eAudiobooks."
 featured-image: /images/featured/featured-borrowbox-historical-fiction.jpg
 featured-alt: "A God in Every Stone, Dissolution"

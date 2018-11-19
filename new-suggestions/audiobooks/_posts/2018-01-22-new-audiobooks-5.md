@@ -4,6 +4,7 @@ title: "Recommended new audiobooks #5"
 date: 2018-01-22
 author: sophie-green
 category: audiobooks
+tag: elibrary
 excerpt: "Our latest audiobooks include titles from Lucinda Riley, Ali Smith and Minette Walters"
 featured-image: /images/featured/featured-audiobooks-5.jpg
 featured-alt: "The Good Pilot Peter Woodhouse, Crisis"

@@ -4,6 +4,7 @@ title: "Listen to some great recent film soundtracks with our Freegal service"
 date: 2018-04-05
 author: lisa-brennan
 category: articles
+tag: elibrary
 excerpt: "Add a touch of drama to your everyday life with our list of music from recent films."
 featured-image: /images/featured/featured-soundtracks-1.jpg
 featured-alt: "Lady Bird, War for the Planet of the Apes"

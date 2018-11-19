@@ -4,6 +4,7 @@ title: "Keep smiling with some of our most uplifting eAudiobooks on BorrowBox"
 date: 2018-06-04
 author: sophie-green
 category: articles
+tag: elibrary
 excerpt: "Stock librarian Sophie Green picks out some eAudiobooks that are bound to boost your mood."
 featured-image: /images/featured/featured-uplifting-eaudiobooks.jpg
 featured-alt: "Lawyer for the Cat, Agatha Raisin: Hiss and Hers"

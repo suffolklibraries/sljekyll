@@ -4,6 +4,7 @@ title: "Recommended new audiobooks #7"
 date: 2018-03-26
 author: sophie-green
 category: audiobooks
+tag: elibrary
 excerpt: "Whether you want to hear hard-hitting recent releases or modern classics, our new audiobooks list has you covered."
 featured-image: /images/featured/featured-audiobooks-7.jpg
 featured-alt: "Doctor Who: Time Lord Fairy Tales, Tai-Pan, Everything is Illuminated"

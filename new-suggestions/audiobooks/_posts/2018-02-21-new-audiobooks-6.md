@@ -4,6 +4,7 @@ title: "Recommended new audiobooks #6"
 date: 2018-02-21
 author: sophie-green
 category: audiobooks
+tag: elibrary
 excerpt: "From crime fiction to historical fiction to non-fiction, our latest audiobook list has something for all ears."
 featured-image: /images/featured/featured-audiobooks-6.jpg
 featured-alt: "Ikigai, Birdy Flynn"

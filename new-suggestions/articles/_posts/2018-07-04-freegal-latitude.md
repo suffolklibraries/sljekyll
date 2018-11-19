@@ -4,6 +4,7 @@ title: "Get ready for Latitude 2018 with Freegal"
 date: 2018-07-04
 author: lisa-brennan
 category: articles
+tag: elibrary
 excerpt: "This year's Latitude music festival takes place in Southwold from 12-15 July. Why not stream or download some of the songs you're likely to hear there?"
 featured-image: /images/featured/featured-freegal-latitude-2018.jpg
 featured-alt: "Solange, Bomba Estéreo"

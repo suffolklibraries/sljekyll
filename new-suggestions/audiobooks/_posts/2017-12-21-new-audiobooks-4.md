@@ -4,6 +4,7 @@ title: "Recommended new audiobooks #4"
 date: 2017-12-21
 author: sophie-green
 category: audiobooks
+tag: elibrary
 excerpt: "Our latest audiobooks include titles from Alison Weir, Dan Brown and Jilly Cooper."
 featured-image: /images/featured/featured-audiobooks-4.jpg
 featured-alt: "The Night Brother, The Last Tudor"

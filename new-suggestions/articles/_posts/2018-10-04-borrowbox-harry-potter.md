@@ -4,6 +4,7 @@ title: "Immerse yourself in the magical world of Harry Potter with our BorrowBox
 date: 2018-10-04
 author: lisa-brennan
 category: articles
+tag: elibrary
 excerpt: "Whether you're a confirmed Potterhead, or are finally giving in to your curiosity, eAudio offers a great alternative way to enjoy the Harry Potter canon."
 featured-image: /images/featured/featured-borrowbox-harry-potter.jpg
 featured-alt: "Harry Potter and the Prisoner of Azkaban, Fantastic Beasts and Where to Find Them"

@@ -4,6 +4,7 @@ title: "Check out some of our favourite audiobook finds on Freegal"
 date: 2018-05-02
 author: lisa-brennan
 category: articles
+tag: elibrary
 excerpt: "Did you know that Freegal hold a selection of audiobooks as well as music? We've picked some of our favourite titles from their 'featured' lists for you to stream and enjoy."
 featured-image: /images/featured/featured-freegal-audiobooks-1.jpg
 featured-alt: "The Anthology 1957-1968, A Graveyard of Ghost Tales"

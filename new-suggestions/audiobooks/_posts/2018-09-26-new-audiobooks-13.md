@@ -4,6 +4,7 @@ title: "Recommended new audiobooks #13"
 date: 2018-09-26
 author: sophie-green
 category: audiobooks
+tag: elibrary
 excerpt: "Listen to top books from Maeve Binchy, Louis de Bernières, John le Carré and more"
 featured-image: /images/featured/featured-audiobooks-13.jpg
 featured-alt: "The Rise and Fall of the Dinosaurs, This Love"

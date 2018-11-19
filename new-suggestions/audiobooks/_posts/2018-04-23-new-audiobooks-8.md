@@ -4,6 +4,7 @@ title: "Recommended new audiobooks #8"
 date: 2018-04-23
 author: sophie-green
 category: audiobooks
+tag: elibrary
 excerpt: "Listen to top titles from Danielle Steel, Elly Griffiths, Kate Mosse and more"
 featured-image: /images/featured/featured-audiobooks-8.jpg
 featured-alt: "Between the World and Me, The Kremlin's Candidate"

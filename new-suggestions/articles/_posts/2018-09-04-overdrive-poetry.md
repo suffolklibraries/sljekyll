@@ -4,6 +4,7 @@ title: "Expand your mind with poetry on OverDrive"
 date: 2018-09-04
 author: lisa-brennan
 category: articles
+tag: elibrary
 excerpt: "Are you in the mood for some verse? We've put together a list of some of our favourite poetry books on our OverDrive service."
 featured-image: /images/featured/featured-overdrive-poetry.jpg
 featured-alt: "Ten Years in an Open Necked Shirt, Paper Aeroplane, Dragon Talk"

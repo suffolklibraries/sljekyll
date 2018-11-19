@@ -4,6 +4,7 @@ title: "Recommended new audiobooks #12"
 date: 2018-08-28
 author: sophie-green
 category: audiobooks
+tag: elibrary
 excerpt: "Listen to popular titles from Libby Page, Spike Milligan, Jesmyn Ward and more"
 featured-image: /images/featured/featured-audiobooks-12.jpg
 featured-alt: "The Tuscan Child, The Vegetarian"

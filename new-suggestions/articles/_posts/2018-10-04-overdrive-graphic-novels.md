@@ -4,6 +4,7 @@ title: "Find your new favourite graphic novel series on OverDrive"
 date: 2018-10-04
 author: lisa-brennan
 category: articles
+tag: elibrary
 excerpt: "Did you know our OverDrive eBook service has a great selection of graphic novels to choose from? Why not start reading a new series?"
 featured-image: /images/featured/featured-overdrive-graphic-novels.jpg
 featured-alt: "Superman: The Man of Steel, Sherlock: The Great Game, Wonder Woman"

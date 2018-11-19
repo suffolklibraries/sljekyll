@@ -4,6 +4,7 @@ title: "Recommended new audiobooks #14"
 date: 2018-10-29
 author: sophie-green
 category: audiobooks
+tag: elibrary
 excerpt: "Listen to top titles from Kate Morton, Sarah Moss, Oprah Winfrey and more."
 featured-image: /images/featured/featured-audiobooks-14.jpg
 featured-alt: "Happiness, Things Bright and Beautiful"

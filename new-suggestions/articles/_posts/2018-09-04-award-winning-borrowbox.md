@@ -4,6 +4,7 @@ title: "Listen to an award-winning book with our BorrowBox eAudio service"
 date: 2018-09-04
 author: lisa-brennan
 category: articles
+tag: elibrary
 excerpt: "Have you been meaning to read an award-winning book but not had the time? Why not listen to it instead?"
 featured-image: /images/featured/featured-borrowbox-award-winners.jpg
 featured-alt: "David & Goliath: underdogs, misfits, and the art of battling giants, Killing Floor"

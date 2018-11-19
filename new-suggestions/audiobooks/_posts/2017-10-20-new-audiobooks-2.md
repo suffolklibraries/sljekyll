@@ -4,6 +4,7 @@ title: "Recommended new audiobooks #2"
 date: 2017-10-20
 author: sophie-green
 category: audiobooks
+tag: elibrary
 excerpt: "Not sure what to listen to next? We've got new audiobooks from Karen Rose, Carole Matthews, Jack London and more"
 featured-image: /images/featured/featured-audiobooks-2.jpg
 featured-alt: "The Nine Tailors, The House of Unexpected Sisters"

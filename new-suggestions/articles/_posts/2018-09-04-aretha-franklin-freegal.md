@@ -4,6 +4,7 @@ title: "Celebrate Aretha Franklin's amazing life and talent with our Freegal ser
 date: 2018-09-04
 author: lisa-brennan
 category: articles
+tag: elibrary
 excerpt: "Soul legend Aretha Franklin recently died at the age of 76. We've put together a list of albums on Freegal to help you pay tribute to such an amazing artist."
 featured-image: /images/featured/featured-freegal-aretha-franklin.jpg
 featured-alt: "The Complete Releases 1956-62, Aretha Franklin Sings the Great Diva Classics"

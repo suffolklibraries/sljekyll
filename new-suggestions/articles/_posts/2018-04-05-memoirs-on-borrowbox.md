@@ -4,6 +4,7 @@ title: "Listen to some of our favourite memoirs with BorrowBox"
 date: 2018-04-05
 author: lisa-brennan
 category: articles
+tag: elibrary
 excerpt: "Hear some interesting life stories while you've got your hands full at home, work or on the move."
 featured-image: /images/featured/featured-memoirs-1.jpg
 featured-alt: "Boy & Going Solo, Fingers in the Sparkle Jar"

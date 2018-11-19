@@ -4,6 +4,7 @@ title: "Download or stream music from some of Freegal's top artists"
 date: 2018-05-02
 author: lisa-brennan
 category: articles
+tag: elibrary
 excerpt: "Did you know you can stream unlimited tracks, or download five tracks a week with your library card using Freegal? Freegal's 'featured' list showcases the most popular and best-known artists in their collection and is just a small sample of what they offer."
 featured-image: /images/featured/featured-top-freegal-1.jpg
 featured-alt: "Elvis Is Back!, Concrete and Gold"

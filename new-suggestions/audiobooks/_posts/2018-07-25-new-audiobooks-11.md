@@ -4,6 +4,7 @@ title: "Recommended new audiobooks #11"
 date: 2018-07-25
 author: sophie-green
 category: audiobooks
+tag: elibrary
 excerpt: "Listen to popular titles from Val McDermid, Jane Harper, Neil Gaiman and more"
 featured-image: /images/featured/featured-audiobooks-11.jpg
 featured-alt: "Resistance, Anansi Boys"

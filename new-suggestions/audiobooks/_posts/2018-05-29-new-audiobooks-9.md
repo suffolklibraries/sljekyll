@@ -4,6 +4,7 @@ title: "Recommended new audiobooks #9"
 date: 2018-05-29
 author: sophie-green
 category: audiobooks
+tag: elibrary
 excerpt: "Listen to top titles from C. J. Sansom, M. C. Beaton, Jill Mansell and more"
 featured-image: /images/featured/featured-audiobooks-9.jpg
 featured-alt: "Oryx & Crake, The Night Stalker"

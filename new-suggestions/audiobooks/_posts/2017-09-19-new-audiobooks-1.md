@@ -4,6 +4,7 @@ title: "Recommended new audiobooks #1"
 date: 2017-09-19
 author: sophie-green
 category: audiobooks
+tag: elibrary
 excerpt: "Reserve the pick of our newest CD and digital audiobooks and enjoy great fiction and non-fiction while working, travelling or simply relaxing at home."
 featured-image: /images/featured/featured-audiobooks-1.jpg
 featured-alt: "A Stranger in the House, The Quiet Child"

@@ -4,6 +4,7 @@ title: "Discover or rediscover the genius of Prince with our Freegal digital mus
 date: 2018-10-04
 author: lisa-brennan
 category: articles
+tag: elibrary
 excerpt: "Freegal have recently expanded their Prince collections. What better excuse to listen to the late, great musician's work?"
 featured-image: /images/featured/featured-freegal-prince.jpg
 featured-alt: "The Truth, Musicology"

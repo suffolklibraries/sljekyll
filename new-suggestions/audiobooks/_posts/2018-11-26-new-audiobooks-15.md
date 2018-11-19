@@ -4,6 +4,7 @@ title: "Recommended new audiobooks #15"
 date: 2018-11-26
 author: sophie-green
 category: audiobooks
+tag: elibrary
 excerpt: "Listen to top titles from Sally Rooney, Robert Galbraith, C. J. Sansom and more."
 featured-image: /images/featured/featured-audiobooks-15.jpg
 featured-alt: "Harry Potter: A History of Magic, Bridge of Clay"

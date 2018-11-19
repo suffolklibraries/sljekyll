@@ -4,6 +4,7 @@ title: New and popular titles in our eLibrary for February 2017
 date: 2017-02-07
 author: lisa-brennan
 category: articles
+tag: elibrary
 excerpt: "Information and content librarian Lisa Brennan has picked out this month's newest and top titles in our eLibrary to get you downloading."
 featured-image: /images/featured/featured-elibrary-feb-2017.jpg
 featured-alt: "Pip & Nut: the nut butter cookbook, The Glorious Heresies, Ladies and Gentlemen...The Best of George Michael"

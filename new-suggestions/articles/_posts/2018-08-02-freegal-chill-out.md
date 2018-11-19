@@ -4,6 +4,7 @@ title: "Cool down with Freegal's selection of chill out music from around the wo
 date: 2018-08-02
 author: lisa-brennan
 category: articles
+tag: elibrary
 excerpt: "With scorching temperatures hitting Suffolk, we've put together a list of albums from our Freegal service to help you imagine you're on holiday."
 featured-image: /images/featured/featured-freegal-chill-out.jpg
 featured-alt: "Classical Chill Out, Zen Chill Out"

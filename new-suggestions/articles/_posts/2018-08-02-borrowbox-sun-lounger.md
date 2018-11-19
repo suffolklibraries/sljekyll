@@ -4,6 +4,7 @@ title: "Close your eyes and enjoy a BorrowBox eAudiobook on the sun lounger"
 date: 2018-08-02
 author: lisa-brennan
 category: articles
+tag: elibrary
 excerpt: "Whether you're soaking up the sun on the beach or in the garden, relax with one of our favourite stories on BorrowBox."
 featured-image: /images/featured/featured-borrowbox-sun-lounger.jpg
 featured-alt: "The Beach, The Private Life of Mrs Sharma"

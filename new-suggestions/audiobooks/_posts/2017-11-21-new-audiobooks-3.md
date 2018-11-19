@@ -4,6 +4,7 @@ title: "Recommended new audiobooks #3"
 date: 2017-11-21
 author: sophie-green
 category: audiobooks
+tag: elibrary
 excerpt: "Our latest audiobooks include titles from Marian Keyes, Sarah Perry and Colson Whitehead"
 featured-image: /images/featured/featured-audiobooks-3.jpg
 featured-alt: "Twelve Years a Slave, Astrophysics for People in a Hurry"

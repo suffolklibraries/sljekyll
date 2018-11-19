@@ -4,6 +4,7 @@ title: "Recommended new audiobooks #10"
 date: 2018-06-27
 author: sophie-green
 category: audiobooks
+tag: elibrary
 excerpt: "Listen to top titles from Nicci French, Terry Pratchett and Katie Fforde"
 featured-image: /images/featured/featured-audiobooks-10.jpg
 featured-alt: "The Bedlam Stacks, The Witches' Tree"

@@ -4,6 +4,7 @@ title: "Read about your favourite stars with our top music-related eBooks on Ove
 date: 2018-07-04
 author: lisa-brennan
 category: articles
+tag: elibrary
 excerpt: "Want to find out more about your favourite singer or band? Our OverDrive eBook service has music-related books for every taste."
 featured-image: /images/featured/featured-overdrive-music-books.jpg
 featured-alt: "Fleetwood Mac on Fleetwood Mac, What Happened, Miss Simone?, Adele"

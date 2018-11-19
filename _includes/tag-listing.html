@@ -1,7 +1,55 @@
-{% for tag in page.tags %}
-    <li class="dib mr1 mb2">
-        <a href="/schools-literacy/literacy/tag/{{ tag | slugify }}/" class="f6 f5-ns b db pa2 link dim dark-gray ba b--black-20">
-            {{ tag | replace:'-', ' ' }}
-        </a>
-    </li>
+{% if page.excerpt %}
+
+    <p class="{% include /c/page-excerpt.html %}">{{ page.excerpt }}</p>
+
+{% endif %}
+
+{% if page.pagination %}
+
+  {% assign posts = paginator.posts %}
+
+{% else %}
+
+  {% if page.sort == 'alphabetical' %}
+
+    {% assign posts = site.tags.[page.tag] sort: "title" | reverse %}
+
+  {% else %}
+
+    {% assign posts = site.tags.[page.tag] %}
+
+  {% endif %}
+
+{% endif %}
+
+{% for post in posts %}
+
+  {% if post.expiry-date %}
+
+        {% include capture-now.html %}
+
+        {% if now-unix <= expires-date %}
+
+          {% include post-listing-entry.html %}
+
+        {% endif %}
+
+    {% else %}
+
+        {% include post-listing-entry.html %}
+
+    {% endif %}
+
 {% endfor %}
+
+{% if page.pagination and paginator.total_pages > 1 %}
+
+  {% include post-listing-pagination-nav.html %}
+
+{% endif %}
+
+{% if posts-check != true %}
+
+    <p>Unfortunately there are currently no {{ page.tag  | downcase }}.</p>
+
+{% endif %}

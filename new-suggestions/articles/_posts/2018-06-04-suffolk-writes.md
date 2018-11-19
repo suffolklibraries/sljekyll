@@ -4,6 +4,7 @@ title: "Enjoy excellent eBooks from our Suffolk Writes authors"
 date: 2018-06-04
 author: lisa-brennan
 category: articles
+tag: elibrary
 excerpt: "Our Suffolk Writes project gives local authors a platform to self-publish their work through our eBook service, OverDrive. Why not give them a read or even submit your own work?"
 featured-image: /images/featured/featured-suffolk-writes-1.jpg
 featured-alt: "When Love Meets Lust, Raven's Quest, Marriage in a Cold Climate"
