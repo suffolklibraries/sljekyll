@@ -10,7 +10,11 @@ breadcrumb: blog
 
 The Department for Digital, Culture, Media & Sport recently interviewed Friends of [Thurston Library](/libraries/thurston-library/) chairman Richard Fawcett. The clip the DCMS produced will form part of a forthcoming longer video about Suffolk Libraries and highlights the real difference the library makes to the wellbeing of the local community.
 
+<div class=”custom-constrain”>
+
 <iframe width="620" height="315" src="https://www.youtube.com/embed/LnbwwOGiE2c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
 
 The library improves the wellbeing of all ages by hosting a variety of events and activities. These include Baby Bounce and Tot Rock, Lego Club, Code Club, Manga Club, reading, watercolour and family history groups. These give people living in the area opportunities to combat loneliness and isolation, learn new skills and try new hobbies or get the most from existing interests.
 
