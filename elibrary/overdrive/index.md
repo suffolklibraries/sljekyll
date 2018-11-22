@@ -20,17 +20,15 @@ You can also read eBooks and listen to eAudiobooks on a device that plays MP3 fi
 
 ### On a smartphone or tablet with the Libby app
 
-1. Open the App Store, Google Play or Windows Store
-2. Search for 'Libby' and select the 'Libby, by OverDrive' app
-3. Download and install the app
-4. When the download is complete, press 'Open'
-5. When the Libby app opens, press the green/blue button that says 'Hi!'
-6. A new page will appear. Scroll to the end of the page and select 'Find My Library'
-7. The app will then try and find your local library service – this takes a few moments. When the app has located a local library service it will ask you at the top of the screen 'Is this your local library?'. At the bottom of the screen you will have an option to select 'Yes' or 'No'
-8. If it has located Suffolk Libraries, press 'Yes'. If it has located a different library service, press 'No'
-9. If you have pressed 'No', a new screen will ask you if you want to search for your library service. Select this option
-10. Type in the box 'Suffolk'
-11. The app will automatically bring up matching libraries. Select the first option shown, 'Suffolk Libraries'. You now have access to the new Libby OverDrive app.
+1. Download and install the 'Libby, by OverDrive' app from the [App Store](https://itunes.apple.com/us/app/libby-by-overdrive-labs/id1076402606?pt=211483&ct=meetLibby&mt=8), [Google Play](https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby&referrer=utm_source%3Dmeet_libby) or [Windows Store](https://www.microsoft.com/en-us/store/p/libby-by-overdrive/9p6g3tcr4hzr)
+2. When the download is complete, press 'Open'
+3. When the Libby app opens, press the green/blue button that says 'Hi!'
+4. A new page will appear. Scroll to the end of the page and select 'Find My Library'
+5. The app will then try and find your local library service – this takes a few moments. When the app has located a local library service it will ask you at the top of the screen 'Is this your local library?'. At the bottom of the screen you will have an option to select 'Yes' or 'No'
+6. If it has located Suffolk Libraries, press 'Yes'. If it has located a different library service, press 'No'
+7. If you have pressed 'No', a new screen will ask you if you want to search for your library service. Select this option
+8. Type in the box 'Suffolk'
+9. The app will automatically bring up matching libraries. Select the first option shown, 'Suffolk Libraries'. You now have access to the new Libby OverDrive app.
 
 ### On an eReader
 

@@ -18,29 +18,23 @@ RBdigital allows you to download PDF files of magazines for an unlimited time. T
 ### On an Android tablet or smartphone
 
 1. Set up your account on a web browser by following the instructions above
-2. Open the Play store on your device
-3. Search for ‘RBdigital’ and click the ‘RBdigital’ app
-4. Download and install the app
-5. When the download is complete, click ‘Open’
-6. When the RBdigital app opens, select your country as ‘United Kingdom’, enter your username and press 'next'
-7. Enter your password
-8. This service will now be available to use.
+2. [Download and install the RBdigital app from the Play Store](https://play.google.com/store/apps/details?id=com.ocd)
+3. When the download is complete, click ‘Open’
+4. When the RBdigital app opens, select your country as ‘United Kingdom’, enter your username and press 'next'
+5. Enter your password
+6. This service will now be available to use.
 
 ### On an Apple tablet or smartphone
 
 1. Set up your account on a web browser by following the instructions above
-2. Open the App store on your device
-3. Search for ‘RBdigital’ and press the ‘RBdigital’ app
-4. Download and install the app
-5. Follow the steps from step 5 above.
+2. [Download and install the RBdigital app from the App Store](https://itunes.apple.com/us/app/oneclickdigital/id515311743?mt=8)
+3. Follow the steps from step 3 above.
 
 ### On an Amazon Kindle Fire tablet
 
 1. Set up your account on a web browser by following the instructions above
-2. Open the Appstore on your device
-3. Search for 'RBdigital' and press 'Get' next to the RBdigital app
-4. Download and install the app
-5. Follow the steps from step 5 above.
+2. [Download and install the RBdigital app from the Kindle Fire App Store](http://www.amazon.com/Recorded-Books-OneClickdigital/dp/B009GLFOL4/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1358440633&sr=1-1&keywords=oneclickdigital)
+5. Follow the steps from step 3 above.
 
 ## Downloading digital magazines with RBdigital
 

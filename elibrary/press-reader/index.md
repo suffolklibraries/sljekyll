@@ -25,18 +25,16 @@ PressReader allows you to read or download full digital editions of key newspape
 4. Enter your email address and password and click 'Sign In'
 5. You can now use the service again.
 
-### On an Android or Apple tablet or smartphone
+### On an Apple or Android tablet or smartphone
 
-1. Open the Play or App store on your device
-2. Search for 'PressReader' and press the 'PressReader' app
-3. Download and install the app
-4. Open the app
-5. Press the 'Accounts' button on the bottom right, then press 'Sign in'.
-6. Press the orange library card icon.
-7. Search for 'Suffolk Libraries' in the search box that appears, then press 'Library - Suffolk Libraries'
-8. Enter your library card number and press 'Sign In'
-9. Fill in the fields in the 'New User' box and press 'Agree'
-10. This service will now be available to use.
+1. Download and install the PressReader app from the [App Store](https://itunes.apple.com/us/app/pressreader/id313904711?mt=8) or [Google Play](https://play.google.com/store/apps/details?id=com.newspaperdirect.pressreader.android&hl=en_GB)
+2. Open the app
+3. Press the 'Accounts' button on the bottom right, then press 'Sign in'.
+4. Press the orange library card icon.
+5. Search for 'Suffolk Libraries' in the search box that appears, then press 'Library - Suffolk Libraries'
+6. Enter your library card number and press 'Sign In'
+7. Fill in the fields in the 'New User' box and press 'Agree'
+8. This service will now be available to use.
 
 **Your session will expire after 30 days. After 30 days, you can reactivate your account:**
 

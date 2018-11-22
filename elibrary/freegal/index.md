@@ -9,15 +9,13 @@ Freegal allows you to download and stream MP3 files of music and MP4 files of mu
 
 ### On a tablet or smartphone
 
-1. Open the App or Play store
-2. Search for ‘Freegal’ and click the ‘Freegal Music’ app
-3. Download and install the app
-4. When the download is complete, click ‘Open’
-5. When the Freegal app opens, type ‘Suffolk’ in the search bar and click ‘Go’
-6. From the ‘Choose your library’ list, click ‘Suffolk Libraries’
-7. Enter your library card number and PIN, then click ‘Login’
-8. Agree to the terms and conditions
-9. Suffolk Libraries Freegal service will now be available to use
+1. Download and install the ‘Freegal Music’ app from the [App Store](https://itunes.apple.com/in/app/freegal-music/id508036345?mt=8) or [Google Play](https://play.google.com/store/apps/details?id=com.libraryideas.freegalmusic)
+2. When the download is complete, click ‘Open’
+3. When the Freegal app opens, type ‘Suffolk’ in the search bar and click ‘Go’
+4. From the ‘Choose your library’ list, click ‘Suffolk Libraries’
+5. Enter your library card number and PIN, then click ‘Login’
+6. Agree to the terms and conditions
+7. Suffolk Libraries Freegal service will now be available to use
 
 ### On a computer
 

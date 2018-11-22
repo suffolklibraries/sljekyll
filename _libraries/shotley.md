@@ -16,4 +16,5 @@ branch-news: '<ul>
               </ul>'
 breadcrumb: y
 branch-local: y
+branch-news: There will be no Suffolk Libraries Local session at Shotley on Monday 3 December.
 ---
