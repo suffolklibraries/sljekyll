@@ -1,7 +1,7 @@
 ---
 recurrent-title: "Saturday Social"
 recurrent-description: All welcome for a friendly chat over cake and drinks
-recurrent-day: Saturdays
+recurrent-day: second Saturday of the month
 recurrent-times: 1330-1430
 recurrent-location: bungay-library
 recurrent-location-display-name: Bungay Library

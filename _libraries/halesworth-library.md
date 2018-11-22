@@ -38,4 +38,5 @@ branch-for-sale: '<ul>
                   <li><a href="https://www.cardsforcharity.co.uk/">Cards for Good Causes</a>: charity Christmas cards and items.</li>
                   </ul>'
 branch-display-space: "Window space available to hire for posters and notices. Contact the library for more details."
+branch-news: '<a href="/assets/pdf/halesworth-autumn-quiz-answers-2018.pdf">See the answers to the Halesworth Autumn Quiz (PDF) &rarr;</a>'
 ---
