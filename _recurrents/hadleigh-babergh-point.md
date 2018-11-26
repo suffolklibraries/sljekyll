@@ -1,7 +1,7 @@
 ---
 recurrent-title: "Babergh District Council mobile customer access point"
 recurrent-description: "Drop in for council services."
-recurrent-day: Thursdays for 3 months from 18 October
+recurrent-day: Thursdays for 3 months from 18 October.
 recurrent-times: 1330-1700
 recurrent-location: hadleigh-library
 recurrent-location-display-name: Hadleigh Library
