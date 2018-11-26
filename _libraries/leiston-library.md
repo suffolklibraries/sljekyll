@@ -17,7 +17,7 @@ branch-friends: Leiston Town Council advisory group
 branch-friends-url: /about/member-organisations/leiston-town-council-advisory-group
 branch-social-media: y
 branch-facebook: leistonlibrary
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/leiston-library-2
+branch-accessibility: https://www.accessable.co.uk/venues/leiston-library
 branch-payments: cash, cheques and cards accepted
 branch-parking: available for one hour in front of the library, free parking available within walking distance
 branch-bookdrop: y

@@ -69,7 +69,6 @@ If your child has Irlen syndrome, placing a simple coloured overlay across the p
 * [Irlen UK](http://www.irlenuk.com/irlen-symptoms-overview.htm) information about Irlen syndrome
 * Dyslexia-friendly picture books from [Booktrust](http://www.booktrust.org.uk/books/children/booklists/327/)
 * Advice for parents of dyslexic children from the [British Dyslexia Association](http://www.bdadyslexia.org.uk/parent)
-* [Being dyslexic](http://www.beingdyslexic.co.uk/) has information for teenage and adult dyslexics
 
 ## Tips for searching our catalogue
 

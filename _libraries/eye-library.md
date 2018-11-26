@@ -14,7 +14,7 @@ branch-address: Buckshorn Lane, Eye
 branch-post-code: IP23 7AZ
 branch-tel: 01379 870515
 branch-friends: Eye Library Friends
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/eye-library-2
+branch-accessibility: https://www.accessable.co.uk/venues/eye-library
 branch-parking: free parking available
 branch-which: y
 branch-bookdrop: y
@@ -24,4 +24,5 @@ branch-photocopying: A4 available
 branch-scan-to-email: y
 breadcrumb: y
 branch-payments: cash, cheques and cards accepted
+branch-news: '<a href="/news/eye-opening-date/">New Eye Library opening date confirmed for Thursday 24 January 2019</a>.'
 ---

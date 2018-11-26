@@ -19,7 +19,7 @@ branch-friends-url: /about/member-organisations/friends-of-stowmarket-library
 branch-social-media: y
 branch-facebook: Stowmarket-Library-252331724951185
 branch-twitter: StowLibrary
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/stowmarket-library-2
+branch-accessibility: https://www.accessable.co.uk/venues/stowmarket-library
 branch-payments: cash, cheques and cards accepted
 branch-bookdrop: y
 branch-toilet: y

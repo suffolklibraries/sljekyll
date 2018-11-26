@@ -9,4 +9,4 @@ event-end-time: 1430
 breadcrumb: y
 ---
 
-Handle amazing objects from Sutton Hoo and learn all about the site from the experts who work there. Session includes children's activities as well as a [talk for adults](/events/felixstowe-2018-02-09-sutton-hoo-talk/).
+Handle amazing objects from Sutton Hoo and learn all about the site from the experts who work there. Session includes children's activities as well as a [talk for adults](/events/felixstowe-2019-02-09-sutton-hoo-talk/).

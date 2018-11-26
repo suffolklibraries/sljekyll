@@ -16,7 +16,7 @@ branch-tel: 01842 773390
 branch-friends: Friends of Brandon Library
 branch-social-media: y
 branch-facebook: brandonlibrarysuffolk
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/brandon-library-3
+branch-accessibility: https://www.accessable.co.uk/venues/brandon-library
 branch-payments: cash, cheques and cards accepted
 branch-parking: free car park available adjacent to the library
 branch-toilet: y

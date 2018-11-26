@@ -16,7 +16,7 @@ branch-tel: 01473 626103
 branch-friends: Kesgrave Library Community Group
 branch-friends-url: /about/member-organisations/kesgrave-library-community-group
 branch-social-media: y
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/kesgrave-library-2
+branch-accessibility: https://www.accessable.co.uk/venues/kesgrave-library
 branch-payments: cash, cheques and cards accepted
 branch-parking: 8 free spaces available in front of the library
 branch-bookdrop: y

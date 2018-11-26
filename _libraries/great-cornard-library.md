@@ -16,7 +16,7 @@ branch-tel: 01787 315195
 branch-friends: Friends of Great Cornard Community Library
 branch-social-media: y
 branch-facebook: groups/348670135277550
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/great-cornard-library-2
+branch-accessibility: https://www.accessable.co.uk/venues/great-cornard-library
 branch-parking: available in school car park
 branch-bookdrop: y
 branch-refreshments: sometimes available at Sports Centre café next door

@@ -14,7 +14,7 @@ branch-address: Marram Green, Hall Road, Kessingland
 branch-post-code: NR33 7AH
 branch-tel: 01502 741212
 branch-friends: Friends of the Library in Kessingland
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/kessingland-library-2
+branch-accessibility: https://www.accessable.co.uk/venues/kessingland-library
 branch-parking: available at the rear of the complex
 branch-toilet: y
 branch-wifi: y

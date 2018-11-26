@@ -19,7 +19,7 @@ branch-friends-url: /about/member-organisations/friends-of-southwold-library-fos
 branch-social-media: y
 branch-twitter: southwoldlib
 branch-facebook: southwoldlibrary
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/southwold-library-2
+branch-accessibility: https://www.accessable.co.uk/venues/southwold-library
 branch-payments: cash, cheques and cards accepted
 branch-parking: on-street parking only
 branch-bookdrop: y

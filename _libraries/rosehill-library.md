@@ -15,7 +15,7 @@ branch-post-code: IP3 8DB
 branch-tel: 01473 719279
 branch-friends: Rosehill Library Friends
 branch-friends-url: /about/member-organisations/rosehill-library-friends
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/rosehill-library-2
+branch-accessibility: https://www.accessable.co.uk/venues/rosehill-library
 branch-parking: available
 branch-toilet: y
 branch-bookdrop: y

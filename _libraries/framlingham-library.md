@@ -17,7 +17,7 @@ branch-friends: Framlingham Town Council
 branch-social-media: y
 branch-twitter: LibraryFram
 branch-facebook: Framlinghamlibrary
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/framlingham-library-2
+branch-accessibility: https://www.accessable.co.uk/venues/framlingham-library
 branch-payments: cash, cheques and cards accepted
 branch-parking: available
 branch-wifi: y

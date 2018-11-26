@@ -18,7 +18,7 @@ branch-friends-url: /about/member-organisations/beccles-library-community-trust-
 branch-social-media: y
 branch-facebook: beccleslibrarysuffolk
 branch-twitter: beccleslib
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/beccles-library-2
+branch-accessibility: https://www.accessable.co.uk/venues/beccles-library
 branch-parking: public car park available with 6 free 1 hour spaces, paid parking also available
 branch-toilet: y
 branch-bookdrop: y

@@ -16,7 +16,7 @@ branch-tel: 01787 277702
 branch-friends: Friends of Clare Library
 branch-social-media: y
 branch-facebook: clarelibrary.co.uk
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/clare-library-2
+branch-accessibility: https://www.accessable.co.uk/venues/clare-library
 branch-payments: cash, cheques and cards accepted
 branch-parking: available
 branch-bookdrop: y

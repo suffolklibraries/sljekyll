@@ -17,7 +17,7 @@ branch-friends: Friends of Broomhill Library
 branch-social-media: y
 branch-facebook: Broomhill-Library-Ipswich-280002258807562
 branch-twitter: Broomhilllibra1
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/westbourne-library-2
+branch-accessibility: https://www.accessable.co.uk/venues/broomhill-library
 branch-payments: cash, cheques and cards accepted
 branch-parking: available
 branch-refreshments: self-service tea and coffee available

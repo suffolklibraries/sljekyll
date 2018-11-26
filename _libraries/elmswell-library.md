@@ -17,7 +17,7 @@ branch-friends: Elmswell Library Friends
 branch-friends-url: /about/member-organisations/elmswell-library-friends-elf
 branch-social-media: y
 branch-facebook: Elmswell-Library-Friends-ELF-653230698059103
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/elmswell-library-2
+branch-accessibility: https://www.accessable.co.uk/venues/elmswell-library
 branch-payments: cash, cheques and cards accepted
 branch-parking: space for 8 cars
 branch-bookdrop: y

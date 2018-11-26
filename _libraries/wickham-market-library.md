@@ -16,7 +16,7 @@ branch-tel: 01728 747216
 branch-friends: Wickham Market Partnership
 branch-social-media: y
 branch-facebook: pages/Wickham-Market-Library/759680887398867?fref=ts
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/wickham-market-library
+branch-accessibility: https://www.accessable.co.uk/venues/wickham-market-library
 branch-payments: cash, cheques and cards accepted
 branch-parking: available
 branch-toilet: y

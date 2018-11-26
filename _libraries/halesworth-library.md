@@ -18,7 +18,7 @@ branch-friends-url: /about/member-organisations/friends-of-halesworth-county-lib
 branch-social-media: y
 branch-twitter: halesworthlib
 branch-facebook: Halesworth-Library-391603700955116
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/halesworth-library-2
+branch-accessibility: https://www.accessable.co.uk/venues/halesworth-library
 branch-payments: 'cash, cheques and cards accepted'
 branch-parking: unavailable
 branch-bookdrop: y

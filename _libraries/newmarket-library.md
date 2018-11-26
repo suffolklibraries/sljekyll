@@ -19,7 +19,7 @@ branch-friends-url: /about/member-organisations/friends-of-newmarket-library
 branch-social-media: y
 branch-facebook: friendsofnewmarketlibrary
 branch-twitter: newmarketlib
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/newmarket-library-2
+branch-accessibility: https://www.accessable.co.uk/venues/newmarket-library
 branch-payments: "cash, cheques and cards accepted"
 branch-parking: two public car parks within 5 minutes' walk
 branch-bookdrop: y

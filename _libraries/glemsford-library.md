@@ -16,7 +16,7 @@ branch-tel: 01787 281803
 branch-friends: Friends of Glemsford Library
 branch-social-media: y
 branch-facebook: glemsfordlibrary
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/glemsford-library-2
+branch-accessibility: https://www.accessable.co.uk/venues/glemsford-library
 branch-parking: available
 branch-bookdrop: y
 branch-wifi: y

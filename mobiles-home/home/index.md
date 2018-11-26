@@ -13,4 +13,4 @@ Volunteers will visit you in your own home, help you decide which books will int
 If you would like to receive this service:
 
 - [contact your local library](/libraries/), or
-- email **hls@suffolklibraries.co.uk**
+- email **volunteer@suffolklibraries.co.uk**

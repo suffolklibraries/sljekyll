@@ -17,7 +17,7 @@ branch-friends: Friends of Chantry Library
 branch-social-media: y
 branch-facebook: Chantry-Library-797858243630998
 branch-twitter: Chantry_Library
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/chantry-library-2
+branch-accessibility: https://www.accessable.co.uk/venues/chantry-library
 branch-payments: cash, cheques and cards accepted
 branch-parking: available
 branch-bookdrop: y

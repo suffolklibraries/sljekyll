@@ -14,7 +14,7 @@ branch-address: School Street, Needham Market
 branch-post-code: IP6 8BB
 branch-tel: 01449 720780
 branch-friends: Needham Market Town Council
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/needham-market-library-2
+branch-accessibility: https://www.accessable.co.uk/venues/needham-market-library
 branch-payments: cash, cheques and cards accepted
 branch-parking: available; one space reserved for disabled customers
 branch-bookdrop: y

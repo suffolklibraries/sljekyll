@@ -14,7 +14,7 @@ branch-address: 65 High Street, Lakenheath
 branch-post-code: IP27 9DS
 branch-tel: 01842 860723
 branch-friends: Friends of Lakenheath Library
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/lakenheath-library-2
+branch-accessibility: https://www.accessable.co.uk/venues/lakenheath-library
 branch-parking: some spaces available outside
 branch-bookdrop: y
 branch-wifi: y
