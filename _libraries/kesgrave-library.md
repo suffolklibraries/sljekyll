@@ -25,7 +25,10 @@ branch-for-sale: '<ul>
                   <li>1st and 2nd class stamps, greetings cards, hand-made bookmarks, fudge, withdrawn adult fiction and withdrawn children&apos;s fiction</li>
                   <li><a href="https://www.cardsforcharity.co.uk/">Cards for Good Causes</a> and Suffolk Wildlife Trust Christmas cards</li>
                   </ul>'
-branch-other-facilities: "used postage stamp collection point in aid of St Elizabeth's Hospice"
+branch-other-facilities:  <ul>
+                          <li>Scouts&apos; Christmas postbox at the library until 10 December; 25p per card</li>
+                          <li>Used postage stamp collection point in aid of St Elizabeth's Hospice</li>
+                          </ul>                          
 branch-display-space: available for A4 or smaller posters
 branch-facebook: kesgravelibrary
 branch-wifi: y

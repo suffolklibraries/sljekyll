@@ -30,4 +30,5 @@ branch-other-facilities: 'Suffolk Coastal District Council customer services. Vi
 breadcrumb: y
 branch-payments: cash, cheques and cards accepted
 branch-for-sale: '<a href="https://www.cardsforcharity.co.uk/">Cards for Good Causes</a>: charity Christmas cards and items.'
+branch-other-facilities: "Scouts&apos; Christmas postbox at the library until 16 December; 25p per card to Felixstowe, Kirton, Trimley and Walton."
 ---
