@@ -168,7 +168,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="154">
-      Shoulder of Mutton
+      Vickary Estate (junction)
     </td>
 
     <td valign="bottom" width="117">
@@ -197,4 +197,6 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Saturdays:**
 
-**2018:** 6 January, 3 February, 3 March, 31 March, 28 April, 26 May, 23 June, 21 July, 18 August, 15 September, 13 October, 10 November, 8 December
+**2018:** 8 December
+
+**2019:** 5 January, 2 February, 2 March, 30 March, 27 April, 25 May, 22 June, 20 July, 17 August, 14 September, 12 October, 9 November, 7 December

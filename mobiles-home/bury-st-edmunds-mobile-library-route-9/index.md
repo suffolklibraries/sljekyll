@@ -168,7 +168,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="163">
-      Old Road
+      c. 11 Old Road
     </td>
 
     <td valign="bottom" width="110">
@@ -233,4 +233,6 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Saturdays:**
 
-**2018:** 20 January, 17 February, 17 March, 14 April, 12 May, 9 June, 7 July, 4 August, 29 September, 27 October, 24 November, 22 December
+**2018:** 22 December
+
+**2019:** 19 January, 16 February, 16 March, 13 April, 11 May, 8 June, 6 July, 3 August, 31 August, 28 September, 26 October, 23 November, 21 December
