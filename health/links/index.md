@@ -118,7 +118,7 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="http://www.cruse.org.uk">Cruse bereavement care</a> - Organisation to help with grief</li>
 	<li><a href="http://www.llttf.com">Living Life to the Full</a> - UK online based therapy</li>
 	<li><a href="http://ptsdresolution.org">PTSD Resolution</a> - Counselling for veterans and their families</li>
-	<li><a href=" http://www.suffolkmind.org.uk/healthy-mind-counselling.asp">Suffolk Mind</a> - Healthy Minds counselling services information</li>
+	<li><a href="https://www.suffolkmind.org.uk/services/counselling/">Suffolk Mind</a> - Healthy Minds counselling services information</li>
 </ul>
 <h3 id="dementia">Dementia</h3>
 <ul>
@@ -169,7 +169,7 @@ Here are some of the organisations and information sources available for a varie
 </ul>
 <h3 id="medication">Medication</h3>
 <ul>
-	<li><a href="http://www.choiceandmedication.org/nsft/pages/drugslistedbyname/">NSFT pharmacy</a> - When should I stop taking my meds? Find out about medication with downloadable information</li>
+	<li><a href="https://www.choiceandmedication.org/nsft/">NSFT pharmacy</a> - When should I stop taking my meds? Find out about medication with downloadable information</li>
 	<li><a href="http://www.medicines.org.uk/emc/">Electronic Medicines Compendium (eMC)</a> - Find out about medication</li>
 </ul>
 <h3 id="miscarriage">Miscarriage and postnatal</h3>
@@ -203,7 +203,7 @@ Here are some of the organisations and information sources available for a varie
 <ul class="xoxo blogroll">
 	<li><a href="https://www.mentalhealth.org.uk/a-to-z/p/personality-disorders">Mental Health Foundation</a> - Defines personality disorders and how they will affect you</li>
 	<li><a href="http://www.rcpsych.ac.uk/mentalhealthinfo/problems/personalitydisorders/personalitydisordersfacts.aspx">Royal College of Psychiatrists</a> - How does it feel to have a personality disorder? How many different types are there?</li>
-	<li><a href="http://www.suffolkmind.org.uk/personality-disorder-service---waves.asp">Suffolk Mind Waves Support Group</a> - Local support group in the east and west of Suffolk</li>
+	<li><a href="https://www.suffolkmind.org.uk/services/personality-disorder-service-waves/">Suffolk Mind Waves Support Group</a> - Local support group in the east and west of Suffolk</li>
 </ul>
 <h3 id="psychosis">Psychosis</h3>
 <ul>

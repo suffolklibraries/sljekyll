@@ -11,7 +11,7 @@ See my [mental health reading picks](/health) for reading ideas.
 
 Fiction can help us learn about a mental health condition. Depicting a real condition or situation helps us understand it from a personal, subjective view.
 
-Authors often do a large amount of research into certain conditions or have experience in the field of health, which helps them describe conditions accurately when they put pen to paper. Even [when they don&#8217;t do a huge amount of research](http://www.markhaddon.com/aspergers-and-autism), they can get people thinking.
+Authors often do a large amount of research into certain conditions or have experience in the field of health, which helps them describe conditions accurately when they put pen to paper. Even when they don't do a huge amount of research, they can get people thinking.
 
 Stories are also a source of healthy escapism; indeed, the health benefits of picking up a book, magazine or newspaper have some research behind them.
 
