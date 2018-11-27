@@ -7,11 +7,11 @@ category: articles
 tag: elibrary
 excerpt: "Christmas is coming! We're marking the occasion by listing some great seasonal eBooks you can borrow from OverDrive."
 featured-image: /images/featured/featured-overdrive-christmas-2018.jpg
-featured-alt: "The Christmas Secret, Death of a Christmas Carerer, A Christmas Cracker"
+featured-alt: "The Christmas Secret, Death of a Christmas Caterer, A Christmas Cracker"
 breadcrumb: articles
 ---
 
-![The Christmas Secret, Death of a Christmas Carerer, A Christmas Cracker](/images/featured/featured-overdrive-christmas-2018.jpg)
+![The Christmas Secret, Death of a Christmas Caterer, A Christmas Cracker](/images/featured/featured-overdrive-christmas-2018.jpg)
 
 [Set up OverDrive &rarr;](/elibrary/overdrive/)
 
