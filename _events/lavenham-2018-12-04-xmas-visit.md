@@ -6,6 +6,7 @@ location-text: Lavenham Library
 event-start-date: 2018-12-04
 event-start-time: 1430
 event-end-time: 1600
+event-category: xmas
 breadcrumb: y
 ---
 

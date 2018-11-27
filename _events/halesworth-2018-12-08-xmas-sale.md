@@ -6,6 +6,7 @@ location-text: Halesworth Library
 event-start-date: 2018-12-08
 event-start-time: 0930
 event-end-time: 1700
+event-category: xmas
 breadcrumb: y
 ---
 

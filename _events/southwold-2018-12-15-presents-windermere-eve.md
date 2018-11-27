@@ -1,6 +1,6 @@
 ---
 id: swold-winder
-name: "Suffolk Libraries Presents: <cite>Lady Windermere's Fan</cite> - eveninf showing"
+name: "Suffolk Libraries Presents: <cite>Lady Windermere's Fan</cite> - evening showing"
 location: southwold-library
 location-text: Southwold Library
 event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, Southwold, IP18 6JP"
