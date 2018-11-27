@@ -6,6 +6,7 @@ location-text: Ipswich County Library
 event-start-date: 2018-12-15
 event-start-time: 1430
 event-ticket-price: 5
+event-category: xmas
 breadcrumb: y
 ---
 

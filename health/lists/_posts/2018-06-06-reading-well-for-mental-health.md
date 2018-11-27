@@ -159,7 +159,7 @@ Includes a CD.
 
 > "Equipped with breathtaking courage and a glorious sense of humour, he embarks on a journey into their extraordinary past trying to make sense of a life lived among secrets."
 
-### [<cite>I Had a Black Dog</cite>, by Matthew Johnstone</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=425459)
+### [<cite>I Had a Black Dog</cite>, by Matthew Johnstone](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=425459)
 
 > "It was Winston Churchill who popularised the phrase Black Dog to describe the bouts of depression he experienced for much of his life. Johnstone, a sufferer himself, has written this moving and uplifting insight into what it is like to have a Black Dog as a companion and how he learned to tame it and bring it to heel."
 
