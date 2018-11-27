@@ -25,7 +25,7 @@ You can request tampons and pads for all flows and preferences by completing a s
 
 While exact matches and amounts can’t be guaranteed, we will do our best to provide you with what you request, or something similar.
 
-We are hoping to extend this scheme to other libraries after an initial pilot period.
+We are hoping to extend this scheme to other libraries after an initial pilot period. [Find out more about the pilot launch](/news/pride-and-periods/).
 
 The items have been donated by supporting organisations [East of England Co-op](https://www.eastofengland.coop/), [Pink Parcel](https://www.pink-parcel.com/uk/) and [Bloody Good Period](https://www.bloodygoodperiod.com/).
 
