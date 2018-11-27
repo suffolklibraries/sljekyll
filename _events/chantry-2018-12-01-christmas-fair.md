@@ -12,4 +12,4 @@ breadcrumb: y
 
 Pick up some gifts and food for Christmas and try your luck in the raffle while helping to raise money for the library.
 
-Supposed by the Friends of Chantry Library.
+Supported by the Friends of Chantry Library.
