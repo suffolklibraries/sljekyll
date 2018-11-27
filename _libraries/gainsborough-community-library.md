@@ -33,8 +33,6 @@ branch-photocopying: black and white, A4 or A3 available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/gainsborough-community-library
 breadcrumb: y
-branch-other-facilities: "<ul>
-                          <li>Free sanitary products available - just fill in a form and hand it to a member of staff</li>
-                          <li>Literacy and learning games available to borrow</li>
-                          </ul>"
+branch-other-facilities: Literacy and learning games available to borrow
+branch-pride-and-periods: y
 ---

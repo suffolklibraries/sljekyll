@@ -28,5 +28,5 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/rosehill-library
 breadcrumb: y
 branch-payments: cash, cheques and cards accepted
-branch-other-faciilities: "Free sanitary products available - just fill in a form and hand it to a member of staff"
+branch-pride-and-periods: y
 ---

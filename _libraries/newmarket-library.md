@@ -25,7 +25,6 @@ branch-parking: two public car parks within 5 minutes' walk
 branch-bookdrop: y
 branch-special-collections: Racing collection
 branch-other-facilities: '<ul>
-                          <li>Free sanitary products available - just fill in a form and hand it to a member of staff</li>
                           <li>Laminating service - £1 for A4, £2 for A3. Please allow 30 minutes for laminating. We cannot accept responsibility for any damage so laminating copies rather than originals of valuable items</li>
                           <li><a href="http://www.westsuffolk.gov.uk/parking/Travel/shopmobility.cfm">Shopmobility:</a> hire an electric mobility scooter from Newmarket Library</li>
                           </ul>'
@@ -42,4 +41,5 @@ branch-for-sale: "<ul>
                   <li>Poetry book collated by Newmarket Library Friend Christine - £5 each with all proceeds to Friends of Newmarket Library and St Nicholas Hospice.</li>
                   </ul>"
 breadcrumb: y
+branch-pride-and-periods: y
 ---

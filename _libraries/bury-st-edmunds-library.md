@@ -33,8 +33,8 @@ branch-display-space: Space available for table top or banner displays in intern
 branch-which-travel: y
 breadcrumb: y
 branch-other-facilities: '<ul>
-                          <li>Free sanitary products available - just fill in a form and hand it to a member of staff</li>
                           <li>Board Games available to borrow - see the <a href="/assets/pdf/bury-board-games.pdf">Bury board games information sheet</a> (PDF) for further information</li>
                           </ul>'
 branch-news: 'Bury St Edmunds Library is looking for <a href="/volunteer/home-library-service/">Home Library Service volunteers</a>.'
+branch-pride-and-periods: y
 ---

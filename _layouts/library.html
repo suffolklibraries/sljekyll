@@ -80,9 +80,6 @@
                         {% endif %}
                         {% if page.branch-pinterest %}
                         <li class="custom-icon-pinterest dib mr2"><a class="blue" href="http://www.pinterest.com/{{ page.branch-pinterest }}">Pinterest</a></li>
-                        {% endif %}
-                        {% if page.branch-booked-out-podcast %}
-                        <li class="custom-icon-soundcloud dib mr2"><a class="blue" href="{{ page.branch-booked-out-podcast }}">Booked Out podcast</a></li>
                         {% endif %}</p>
                     </ul>
 
@@ -152,6 +149,12 @@
                                   <li>
                                   Customer toilet
                                   </li>
+                                {% endif %}
+
+                                {% if page.branch-pride-and-periods %}
+                                    <li>
+                                        <a class="blue" href="/health/pride-and-periods/">Free sanitary products available</a>
+                                    </li>
                                 {% endif %}
 
                                 {% if page.branch-refreshments %}

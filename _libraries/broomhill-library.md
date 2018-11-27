@@ -28,5 +28,5 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/broomhill-library
 breadcrumb: y
-branch-other-facilities: "Free sanitary products available - just fill in a form and hand it to a member of staff."
+branch-pride-and-periods: y
 ---

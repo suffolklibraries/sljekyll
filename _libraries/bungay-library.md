@@ -28,8 +28,6 @@ branch-scan-to-usb: y
 branch-room-hire: /libraries/room-hire/bungay-library
 branch-which: y
 breadcrumb: y
-branch-other-facilities: "<ul>
-                          <li>Free sanitary products available - just fill in a form and hand it to a member of staff</li>
-                          <li>Foodbank collection point throughout the year</li>
-                          </ul>"
+branch-other-facilities: Foodbank collection point throughout the year
+branch-pride-and-periods: y
 ---
