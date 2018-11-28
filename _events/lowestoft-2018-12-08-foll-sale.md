@@ -4,7 +4,7 @@ name: "Friends of Lowestoft Library coffee morning, cake sale and book stall"
 location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2018-12-08
-event-start-time: 1000
+event-start-time: 0900
 event-end-time: 1200
 event-category: xmas
 breadcrumb: y
