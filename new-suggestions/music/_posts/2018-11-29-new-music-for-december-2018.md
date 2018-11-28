@@ -35,7 +35,3 @@ Retrospective featuring material, as you would expect, from The Housemartins and
 ## [The Good, The Bad and The Queen - <cite>Merrie Land</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2514822)
 
 Damon Albarn’s supergroup featuring Paul Simonon, Tony Allen and Simon Tong release their first album in 11 years.
-
-## [Coldplay - <cite>Live in Buenos Aires</cite>]()
-
-24 track live album. The first time Coldplay’s live show has been captured in its entirety on an official release.
