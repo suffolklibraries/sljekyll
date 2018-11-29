@@ -4,12 +4,6 @@ title: Bury St Edmunds Mobile Library Route 11
 breadcrumb: mobiles-home
 ---
 
-<div class="{% include /c/generic-panel.html %}">
-
-<p>The mobile service will only be running as far as <strong>West Stow</strong> today (Wednesday 28 November).</p>
-
-</div>
-
 ## Contact us:
 
 Managers: Steve Adams and Kevin Lambert
