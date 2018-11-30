@@ -9,7 +9,15 @@ breadcrumb: home
 
 <div class="{% include /c/generic-panel.html %}">
 
-    <p>We're looking for new volunteers for our <a href="/volunteer/home-library-service/">Home Library Service</a>.</p>
+<p>There are various volunteering opportunities across the county. Contact <a href="/libraries/">your local library</a> or email <strong>volunteer@suffolklibraries.co.uk</strong> to get involved.</p>
+
+<ul>
+    <li><a href="/volunteer/home-library-service/">Home Library Service</a> - we’re often looking for volunteers to take books to older and disabled people in their own homes.</li>
+    <li>Volunteers support many of our <a href="/events/">events and activities</a>.</li>
+    <li>There are many ways to get involved with our libraries' <a href="/about/member-organisations/">Community or 'Friends' groups</a>. You might help with fundraising, running events and community outreach.</li>
+    <li>We need hundreds of volunteers to help with the <a href="/events-activities/summer-holidays/summer-reading-challenge/">Summer Reading Challenge</a>, which runs every year. Look out for information from spring onwards.</li>
+    <li>We're looking for volunteers to help run our <a href="/events-activities/sporting-memories/">Sporting Memories</a> reminiscence sessions at some libraries.</li>
+</ul>
 
 </div>
 
@@ -35,14 +43,6 @@ Research shows that when you give your time to others, there are benefits for yo
 Our volunteer opportunities centre around reading, information, learning and skills, community and wellbeing.
 
 Some libraries offer volunteering opportunities that can help you get back on your feet and feel part of your community again after a period of ill health. We will always try to accommodate any disabilities you may have.
-
-There are various volunteering opportunities across the county:
-
-* **[Home Library Service](/volunteer/home-library-service/)** – we’re often looking for volunteers to take books to older and disabled people in their own homes
-* Volunteers support many of our **[events and activities](/events/)**. [Contact your library](/libraries/) for more information
-* There are many ways to get involved with our libraries' **[Community Groups or ‘Friends’ groups](/about/member-organisations/)**. You might help with fundraising, running events and community outreach. For more information [contact your library](/libraries/)
-* We need hundreds of volunteers to help with the **[Summer Reading Challenge](https://summerreadingchallenge.org.uk/)**, which runs every year. Look out for information from spring onwards and [contact your library](/libraries/)
-* We're looking for volunteers to help run our new **[Sporting Memories reminiscence sessions](/events-activities/sporting-memories/)** at [Ipswich County Library](/libraries/ipswich-county-library/), [Lowestoft Library](/libraries/lowestoft-library/) and [Shotley (Suffolk Libraries Local)](/libraries/shotley/).
 
 To find out more about what our volunteers do, see our [volunteer case studies](/volunteer/volunteer-case-studies/)
 
