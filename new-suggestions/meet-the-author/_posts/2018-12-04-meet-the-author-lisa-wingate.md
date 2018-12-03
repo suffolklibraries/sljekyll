@@ -38,7 +38,7 @@ Poor families and, in particular, children like Rill and her siblings are econom
 
 ## 4. For anyone who has only read your latest novel, where is a good place in your back catalogue to start reading your other work?
 
-Over the years at book events when readers ask the question, "What book should I buy?", other readers have chimed up urging a them to start with Tending Roses. Even after all these years, when someone asks that question on my Facebook page, others will comment, <cite>Tending Roses.</cite>
+Over the years at book events when readers ask the question, "What book should I buy?", other readers have chimed up urging a them to start with [<cite>Tending Roses</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2529893). Even after all these years, when someone asks that question on my Facebook page, others will comment, <cite>Tending Roses</cite>.
 
 My first novel, <cite>Tending Roses</cite>, was inspired by my grandmother, who was a survivor, a woman ahead of her time, and a wonderful storyteller. In this novel, my real grandmother's stories are written down for her granddaughter Kate to find when she is struggling with the question of whether to return to her career after the birth of her first baby.
 
