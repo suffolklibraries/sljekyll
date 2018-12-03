@@ -1,7 +1,7 @@
 ---
 recurrent-title: "Family history session"
 recurrent-description: "With support from our expert volunteer. Term-time only."
-recurrent-day: Thursday
+recurrent-day: Tuesday
 recurrent-times: 1530-1630
 recurrent-location: thurston-library
 recurrent-location-display-name: Thurston Library
