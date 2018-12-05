@@ -1,7 +1,7 @@
 ---
 name: "Christmas quiz sheet"
-location: halesworth-library
-location-text: Halesworth Library
+location: sudbury-library
+location-text: Sudbury Library
 event-start-date: 2018-12-05
 event-end-date: 2019-01-02
 event-ticket-price: 1
