@@ -4,7 +4,6 @@ title: Friends of Ixworth Library (FOIL)
 sidebar: about
 breadcrumb: member-organisations
 ---
-![Friends of Ixworth Library (FOIL) logo](/images/article/logo-friends-of-ixworth-library-foil.jpg)
 
 ## Our aims
 
@@ -21,7 +20,7 @@ breadcrumb: member-organisations
 * Secretary: Frances Ferneyhough
 * Trustees: Ruth Fenton, Ruth Fenton, Sarah Chandler
 * Ex-officio members: Cathy McDonald, Jack Norman, Kaye Atkins
-
+* Patron: [Lady Carlise](/news/new-ixworth-patron/)
 
 ## The story so far
 
