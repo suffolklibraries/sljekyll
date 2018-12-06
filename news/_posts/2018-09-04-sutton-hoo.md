@@ -41,3 +41,8 @@ Future dates (with full details to be confirmed):
 The specific details of each event, including timings, will be confirmed nearer the time. We also hope to add more library events.
 
 For more information, visit the [National Trust website](https://www.nationaltrust.org.uk/sutton-hoo/features/sutton-hoo-goes-on-tour/).
+
+See also:
+
+* [Get ready for the Sutton Hoo library roadshow with these top reads](/new-suggestions/articles/sutton-hoo/)
+* [Celebrate the Sutton Hoo roadshow with these fantastic Anglo-Saxon themed books for children](/parents-carers-and-children/childrens-ya-books/anglo-saxon-books/)
