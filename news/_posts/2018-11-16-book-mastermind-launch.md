@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Suffolk Libraries launches 24th Book mastermind"
+title: "Suffolk Libraries launches 24th Book Mastermind"
 date: 2018-11-16
 author: james-powell
 category: news
