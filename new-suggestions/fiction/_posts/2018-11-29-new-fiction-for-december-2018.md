@@ -4,7 +4,7 @@ title: New fiction for December 2018
 date: 2018-11-29
 author: brandon-king
 category: fiction
-excerpt: "Including the new title from Suffolk favurite Kate Ellis."
+excerpt: "Including the new title from Suffolk favourite Kate Ellis."
 featured-image: /images/featured/featured-december-2018-fiction.jpg
 featured-alt: "The Boy Who Lived with the Dead, The Rumour, False Account"
 breadcrumb: fiction
