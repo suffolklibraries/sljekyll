@@ -4,7 +4,7 @@ title: New music for December 2018
 date: 2018-11-29
 author: brandon-king
 category: music
-excerpt: 'New releases from Michael Bublé, Clean Bandit and Coldplay'
+excerpt: 'New releases from Michael Bublé and Clean Bandit.'
 featured-image: /images/featured/featured-music-december-2018.jpg
 featured-alt: "Clean Bandit, Michael Bublé"
 breadcrumb: music
