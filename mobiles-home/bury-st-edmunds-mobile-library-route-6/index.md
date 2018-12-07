@@ -4,7 +4,7 @@ title: Bury St Edmunds Mobile Library Route 6
 breadcrumb: mobiles-home
 ---
 
-Managers: Steve Adams and Kevin Lambert
+Managers: Carl Bell and Kevin Lambert
 
 Email: [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk?subject=Mobile%20library%20enquiry)
 
