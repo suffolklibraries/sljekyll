@@ -50,7 +50,7 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 
 > "A beautiful exploration of feelings shown through colour as one little boy navigates a range of emotions - from happiness and excitement to hope and love, all on his way to present a gift to his mum. This book is the perfect introduction to both emotions and colours."
 
-## [<cite>Tough Guys (have feelings too</cite>, by Keith Negley)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1794834)
+## [<cite>Tough Guys (have feelings too)</cite>, by Keith Negley](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1794834)
 
 > "Did you know wrestlers have feelings? And knights. Even superheroes and ninjas feel sad sometimes. In fact everyone has feelings - especially dads who love their children!
 

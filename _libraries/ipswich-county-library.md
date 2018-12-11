@@ -38,7 +38,6 @@ branch-for-sale: '<ul>
                   <li>Christmas stamps - speak to staff</li>
                   </ul>'
 branch-other-facilities: '<ul>
-                          <li>Scouts&apos; Christmas postbox at the library until 10 December; 25p per card</li>
                           <li>Board Games Library - see the <a href="/assets/pdf/ipswich-board-games-library.pdf">Ipswich Board Games Library information sheet</a> (PDF) for further information</li>
                           <li>Jigsaw swap - bring in a complete puzzle and exchange it for one from the table</li>
                           </ul>'
