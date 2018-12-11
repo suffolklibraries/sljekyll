@@ -81,7 +81,7 @@ breadcrumb: articles
 
 > "What is a curse to Elizabeth is a gift to others – a very valuable gift they want to control. When her husband dies, Elizabeth’s world descends into a nightmare. But as she tries to piece her life back together, she discovers that not everything is as it seems. Alone in a strange and frightening world, she’s a vulnerable target to forces beyond her control. And she knows that she can’t trust anyone..."
 
-### [<cite>The Night Stalker</cite>< by Clare Donoghue, read by Imogen Church](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_472781&fromPage=1&b2bSite=4172&browseItemId)
+### [<cite>The Night Stalker</cite>, by Clare Donoghue, read by Imogen Church](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_472781&fromPage=1&b2bSite=4172&browseItemId)
 
 > "Dead Woman's Ditch. The site of a grisly 200-year-old murder – and a recent hit and run. When a young woman's body is found at the macabre landmark in Somerset's Quantock Hills, DI Mike Lockyer and Sergeant Jane Bennett are called in to investigate.
 

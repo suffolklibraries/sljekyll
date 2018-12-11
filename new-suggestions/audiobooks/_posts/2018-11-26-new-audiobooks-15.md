@@ -11,7 +11,7 @@ featured-alt: "Harry Potter: A History of Magic, Bridge of Clay"
 breadcrumb: audiobooks
 ---
 
-![](/images/featured/featured-audiobooks-15.jpg)
+![Harry Potter: A History of Magic, Bridge of Clay](/images/featured/featured-audiobooks-15.jpg)
 
 ## CD audiobooks
 
