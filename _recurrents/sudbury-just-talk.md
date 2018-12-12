@@ -1,5 +1,5 @@
 ---
-recurrent-title: 'Just Talk stand.'
+recurrent-title: 'Just Talk stand'
 recurrent-description: 'Find out about the services offered locally by Just Talk. See the <a href="http://justtalkcampaign.co.uk/">Just Talk website</a> for more information.'
 recurrent-day: Thursday
 recurrent-times: 1000-1100
