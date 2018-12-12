@@ -1,6 +1,6 @@
 ---
 id: low-fun
-name: "Santa visit + more"
+name: "Santa visit + more - FULLY BOOKED"
 location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2018-12-21
@@ -10,6 +10,8 @@ event-category: xmas
 event-ticket-price: 1
 breadcrumb: y
 ---
+
+**This event is now fully booked**
 
 Children are invited to meet Santa and enjoy Christmas crafts, a sing-along and storytime.
 
