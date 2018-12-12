@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Bringing Sutton Hoo to life in the library"
-date: 2018-11-19
+date: 2018-12-12
 author: james-powell
 category: news
 excerpt: "Suffolk Libraries is pleased to be working with Sutton Hoo to host a series of roadshows over the next few months while the world famous site is closed for major development work."
@@ -22,10 +22,9 @@ Allison Girling, property operations manager for Sutton Hoo said: "Closing the s
 
 "As well as an unusual way to meet the team and discover more about the Sutton Hoo story, it’s also a rare opportunity to see some of our exhibition items up close, ask questions and imagine what life must have been like for a Suffolk king in Anglo-Saxon times."
 
-There will be several library roadshows from October to March 2019 with the first one taking place next Wednesday (10 October) at Stoke Library in Ipswich. The full details of library roadshows confirmed so far is:
+There will be several library roadshows until March 2019. The full details of library roadshows confirmed so far is:
 
-* [24 November - Beccles Library](/events/beccles-2018-11-24-sutton-hoo/)
-* [26 November - Halesworth Library (Library Friends only)](/events/halesworth-2018-11-26-sutton-hoo/)
+* [28 January 2019 - talk for adults at Southwold Library](/events/southwold-2019-01-28-sutton-hoo/)
 * [9 February 2019 - Felixstowe Library](/events/felixstowe-2019-02-09-sutton-hoo/)
 * [13 February 2019 - Stowmarket Library](/events/stowmarket-2019-02-13-sutton-hoo/)
 * [18 February 2018 - Shotley (Suffolk Libraries Local)](/events/shotley-2019-02-18-sutton-hoo/)
