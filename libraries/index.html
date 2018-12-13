@@ -21,7 +21,11 @@ jquery: true
 
     {% for library in site.libraries %}
 
-        <article class="c-w-46-l mb3 pa2 bg-white br2 ba b--near-white">
+      {% assign odd_even = forloop.index | modulo:2 %}
+
+        <article class="w-50-l bg-white mb3 {% if odd_even == 0 %}bl-l bw3-l b--light-gray{% else %}br-l bw3-l b--light-gray{% endif %}">
+
+          <div class="pa2">
 
             <h3 class="f5 ma0 pa0 mb1"><a class="blue" href="{{ library.branch-unique-id }}">{{ library.branch-name }}</a></h3>
 
@@ -34,6 +38,8 @@ jquery: true
             </ul>
 
             {% if library.branch-room-hire %}<p class="mb0 mt1 f6"><a class="blue" href="{{ library.branch-room-hire }}">Room hire details</a>.</p>{% endif %}
+
+          </div>
 
         </article>
 
