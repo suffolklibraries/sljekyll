@@ -136,7 +136,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="110">
-      1350 &#8211; 1405
+      1350 &#8211; 1415
     </td>
   </tr>
 
@@ -154,25 +154,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="110">
-      1410 &#8211; 1440
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="bottom" width="79">
-      17H
-    </td>
-
-    <td valign="bottom" width="128">
-      Lower Holbrook
-    </td>
-
-    <td valign="bottom" width="161">
-      Alton Green
-    </td>
-
-    <td valign="bottom" width="110">
-      1445 &#8211; 1455
+      1420 &#8211; 1450
     </td>
   </tr>
 
@@ -190,25 +172,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="110">
-      1500 &#8211; 1525
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="bottom" width="79">
-      17J
-    </td>
-
-    <td valign="bottom" width="128">
-      Holbrook
-    </td>
-
-    <td valign="bottom" width="161">
-      Ipswich Road
-    </td>
-
-    <td valign="bottom" width="110">
-      1530 &#8211; 1550
+      1500 &#8211; 1530
     </td>
   </tr>
 
@@ -226,13 +190,13 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="110">
-      1555 &#8211; 1615
+      1540 &#8211; 1600
     </td>
   </tr>
 </table>
 
 **Calling every 4 weeks on Fridays:**
 
-**2018:** 5 January, 2 February, 2 March, **no visit on Good Friday**, 27 April, 25 May, 22 June, 20 July, 17 August, 14 September, 12 October, 9 November, 7 December
+**2019:** 4 January, 1 February, 1 March, 29 March, 26 April, 24 May, 19 July, 16 August, 13 September, 11 October, 8 November, 6 December
 
-**2019:** 4 January
+**2020:** 3 January, 31 January

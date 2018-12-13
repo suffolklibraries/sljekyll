@@ -61,7 +61,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="147">
-      Brook Inn Car Park
+      Brook Inn car park
     </td>
 
     <td valign="bottom" width="127">
@@ -162,6 +162,6 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Wednesdays:**
 
-**2018:** 3 January, 31 January, 28 February, 28 March, 25 April, 23 May, 20 June, 18 July, 15 August, 12 September, 10 October, 7 November, 5 December
+**2019:** 2 January, 30 January, 27 February, 27 March, 24 April, 22 May, 19 June, 17 July, 14 August, 11 September, 9 October, 6 November, 4 December
 
-**2019:** 2 January, 30 January
+**2020:** **no visit on New Year's Day**, 29 January

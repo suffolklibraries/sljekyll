@@ -198,6 +198,6 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Tuesdays:**
 
-**2018:** 2 January, 30 January, 27 February, 27 March, 24 April, 22 May, 19 June, 17 July, 14 August, 11 September, 9 October, 6 November, 4 December
+**2019:** **no visit New Year's Day**, 29 January, 26 February, 26 March, 23 April, 21 May, 18 June, 16 July, 13 August, 10 September, 8 October, 5 November, 3 December, 31 December
 
-**2019:** **no visit New Year's Day**, 29 January
+**2020:** 28 January

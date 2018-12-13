@@ -6,7 +6,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-01-17
 event-start-time: 1100
 event-ticket-url: https://www.ticketsource.co.uk/whats-on/southwold/southwold-arts-centre-st-edmunds-hall/british-transport-films-see-britain-by-train-holiday-special/2019-01-17/11:00
-event-ticket-price: 7.50
+event-ticket-price: 7.50, £15 including lunch
 breadcrumb: y
 ---
 
@@ -14,4 +14,4 @@ Join us for a collection of archive films produced by Creative Arts East as part
 
 The screening will be followed by an optional fish & chip lunch at 12:45pm.
 
-Book online or contact the library.
+Lunch must be booked in advance. Book online or contact the library or Arts Centre.
