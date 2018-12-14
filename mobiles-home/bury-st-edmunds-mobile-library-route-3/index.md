@@ -11,7 +11,7 @@ Email: [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk?subject
 
 Telephone: 01473 351249
 
-## Route timetable for 2018
+## Route timetable
 
 <table class="pure-table">
   <tr>
@@ -286,7 +286,5 @@ Telephone: 01473 351249
 </table>
 
 **Calling every 4 weeks on Thursdays:**
-
-**2018:** 13 December
 
 **2019:** 10 January, 7 February, 7 March, 4 April, 2 May, 30 May, 27 June, 25 July, 22 August, 19 September, 17 October, 14 November, 12 December

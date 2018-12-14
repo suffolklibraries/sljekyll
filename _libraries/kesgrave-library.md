@@ -20,7 +20,6 @@ branch-accessibility: https://www.accessable.co.uk/venues/kesgrave-library
 branch-payments: cash, cheques and cards accepted
 branch-parking: 8 free spaces available in front of the library
 branch-bookdrop: y
-branch-refreshments: £1 for a cup of coffee or tea
 branch-for-sale: '<ul>
                   <li>1st and 2nd class stamps, greetings cards, hand-made bookmarks, fudge, withdrawn adult fiction and withdrawn children&apos;s fiction</li>
                   <li><a href="https://www.cardsforcharity.co.uk/">Cards for Good Causes</a> and Suffolk Wildlife Trust Christmas cards</li>
@@ -30,7 +29,7 @@ branch-display-space: available for A4 or smaller posters
 branch-facebook: kesgravelibrary
 branch-wifi: y
 branch-colour-printing: available in A4 only
-branch-photocopying: available in black and white (A4 or A3) or colour (A4)
+branch-photocopying: available in A4 and A3 colour
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/kesgrave-library
 breadcrumb: y

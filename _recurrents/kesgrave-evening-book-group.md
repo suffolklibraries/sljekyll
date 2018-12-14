@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Evening book group"
-recurrent-day: second Thursday of the month
+recurrent-day: one Thursday evening per month
 recurrent-times: 1900
 recurrent-location: kesgrave-library
 recurrent-location-display-name: Kesgrave Library
