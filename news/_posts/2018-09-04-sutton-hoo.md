@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Bringing Sutton Hoo to life in the library"
-date: 2018-12-12
+date: 2018-12-17
 author: james-powell
 category: news
 excerpt: "Suffolk Libraries is pleased to be working with Sutton Hoo to host a series of roadshows over the next few months while the world famous site is closed for major development work."
@@ -24,18 +24,23 @@ Allison Girling, property operations manager for Sutton Hoo said: "Closing the s
 
 There will be several library roadshows until March 2019. The full details of library roadshows confirmed so far is:
 
+* [26 January 2019 - Lowestoft Library](/events/lowestoft-2019-01-26-sutton-hoo/)
 * [28 January 2019 - talk for adults at Southwold Library](/events/southwold-2019-01-28-sutton-hoo/)
 * [9 February 2019 - Felixstowe Library](/events/felixstowe-2019-02-09-sutton-hoo/)
 * [13 February 2019 - Stowmarket Library](/events/stowmarket-2019-02-13-sutton-hoo/)
 * [18 February 2018 - Shotley (Suffolk Libraries Local)](/events/shotley-2019-02-18-sutton-hoo/)
+* [20 February 2019 - Southwold Library](/events/southwold-2019-02-20-sutton-hoo/)
+* [21 February 2019 - Newmarket Library](/events/newmarket-2019-02-21-sutton-hoo/)
+* [22 February 2019 - Stoke Library](/events/stoke-2019-02-22-sutton-hoo/)
+* [23 February 2019 - Woodbridge Library](/events/woodbridge-2019-02-23-sutton-hoo/)
+* [2 March 2019 - Ipswich County Library](/events/ipswich-2019-03-02-sutton-hoo/)
+* [9 March 2019 - Aldeburgh Library](/events/aldeburgh-2019-03-09-sutton-hoo/)
+* [16 March 2019 - Debenham Library](/events/debenham-2019-03-16-sutton-hoo/)
 
 Future dates (with full details to be confirmed):
 
 * 12 February 2019 - Beccles Library
-* 14 February - Newmarket Library
-* 22 February - Stoke Library
-* 9 March - Aldeburgh Library
-* 14 March - Debenham Library
+* 13 March 2019 - Rushmere (Suffolk Libraries Local)
 
 The specific details of each event, including timings, will be confirmed nearer the time. We also hope to add more library events.
 
