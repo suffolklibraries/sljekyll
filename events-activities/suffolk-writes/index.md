@@ -22,7 +22,6 @@ Suffolk Libraries will:
 
 * Upload your work to Overdrive, our ebook service
 * Promote your ebook as part of the wider project via our website, social media and other media contacts
-* Provide details on how many loans your book has had and any star ratings that have been given (readers have the option to give a star rating on books they have read via Overdrive)
 
 You'll retain the copyright of any material you submit to Suffolk Libraries and you'll be listed as the publisher in the catalogue entry, ensuring it is a truly self-published ebook. This means you will be free to distribute your work in any other way you wish, and if at any time you want us to remove your ebook from our catalogue you just need to ask.
 
