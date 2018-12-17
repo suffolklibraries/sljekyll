@@ -4,7 +4,7 @@ location: debenham-library
 location-text: Debenham Library
 event-start-date: 2019-03-16
 event-start-time: 1000
-event-end-time: 1200
+event-end-time: 1430
 breadcrumb: y
 ---
 
