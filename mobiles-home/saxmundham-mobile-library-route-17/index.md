@@ -78,7 +78,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="176">
-      Westwood Ave Surgery
+      Westwood Ave near shops
     </td>
 
     <td valign="bottom" width="97">
@@ -89,4 +89,4 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Saturdays:**
 
-**2018:** 6 January, 3 February, 3 March, 31 March, 28 April, 26 May, 23 June, 21 July, 18 August, 15 September, 13 October, 10 November, 8 December
+**2019:** 5 January, 2 February, 2 March, 30 March, 27 April, 25 May, 22 June, 20 July, 17 August, 14 September, 12 October, 9 November, 7 December
