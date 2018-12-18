@@ -27,4 +27,5 @@ branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
 branch-borrowing-ereaders-and-ipads: an iPad for use in the library only
+branch-other-facilities: '<a href="/news/move-it/">Move It sports equipment available to borrow</a>'
 ---

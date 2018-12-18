@@ -25,6 +25,7 @@ branch-parking: two public car parks within 5 minutes' walk
 branch-bookdrop: y
 branch-special-collections: Racing collection
 branch-other-facilities: '<ul>
+                          <li><a href="/news/move-it/">Move It sports equipment available to borrow</a></li>
                           <li>Laminating service - £1 for A4, £2 for A3. Please allow 30 minutes for laminating. We cannot accept responsibility for any damage so laminating copies rather than originals of valuable items</li>
                           <li><a href="http://www.westsuffolk.gov.uk/parking/Travel/shopmobility.cfm">Shopmobility:</a> hire an electric mobility scooter from Newmarket Library</li>
                           </ul>'

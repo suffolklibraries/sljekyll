@@ -33,7 +33,10 @@ branch-photocopying: black and white, A4 or A3 available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/gainsborough-community-library
 breadcrumb: y
-branch-other-facilities: Literacy and learning games available to borrow
+branch-other-facilities: '<ul>
+                          <li><a href="/news/move-it/">Move It sports equipment available to borrow</a></li>
+                          <li>Literacy and learning games available to borrow</li>
+                          </ul>'
 branch-pride-and-periods: y
 branch-news: '<ul>
               <li>The library will be closing at 5pm on Monday 31 December</li>

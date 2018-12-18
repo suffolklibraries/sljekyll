@@ -35,5 +35,8 @@ branch-room-hire: /libraries/room-hire/haverhill-library
 branch-display-space: Small table top/banner display spaces available in the foyer and library, glass display cabinet and large display board available in the library
 branch-which: y
 breadcrumb: y
-branch-other-facilities: Reach Haverhill foodbank donation point
+branch-other-facilities: '<ul>
+                          <li><a href="/news/move-it/">Move It sports equipment available to borrow</a></li>
+                          <li>Reach Haverhill foodbank donation point</li>
+                          </ul>'
 ---
