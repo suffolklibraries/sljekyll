@@ -35,6 +35,9 @@ breadcrumb: y
 branch-other-facilities: '<ul>
                           <li>Board Games available to borrow - see the <a href="/assets/pdf/bury-board-games.pdf">Bury board games information sheet</a> (PDF) for further information</li>
                           </ul>'
-branch-news: 'Bury St Edmunds Library is looking for <a href="/volunteer/home-library-service/">Home Library Service volunteers</a>.'
+branch-news: '<ul>
+              <li>The library will be closing at 5pm on Monday 31 December.</li>
+              <li>Bury St Edmunds Library is looking for <a href="/volunteer/home-library-service/">Home Library Service volunteers</a>.</li>
+              </ul>'
 branch-pride-and-periods: y
 ---

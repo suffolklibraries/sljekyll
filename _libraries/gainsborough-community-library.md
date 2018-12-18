@@ -35,4 +35,5 @@ branch-room-hire: /libraries/room-hire/gainsborough-community-library
 breadcrumb: y
 branch-other-facilities: Literacy and learning games available to borrow
 branch-pride-and-periods: y
+branch-news: The library will be closing at 5pm on Monday 31 December.
 ---

@@ -43,4 +43,5 @@ branch-other-facilities: '<ul>
                           </ul>'
 breadcrumb: y
 branch-pride-and-periods: y
+branch-news: The library will be closing at 5pm on Monday 31 December.
 ---
