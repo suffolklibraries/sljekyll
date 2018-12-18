@@ -56,6 +56,18 @@ YA fantasy update of the Beauty and the Beast story from the author of [<cite>Le
 
 > "Nothing has ever been easy for Harper Lacy. With her father long gone, her mother dying, and her brother barely holding their family together while constantly underestimating her because of her cerebral palsy, she learned to be tough enough to survive. But when she tries to save someone else on the streets of Washington, DC, she's instead somehow sucked into Rhen's cursed world. Break the curse, save the kingdom."
 
+## [<cite>The Fork, the Witch, and the Worm: tales from Alagaësia, volume 1</cite>, by Christopher Paolini & John Jude Palencar](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2506635)
+
+Three stories set in the universe of Eragon and the Inheritance Cycle.
+
+> "A wanderer and a cursed child. Spells and magic. And dragons, of course. Welcome back to the world of Alagaësia. It's been a year since Eragon departed Alagaësia in search of the perfect home to train a new generation of Dragon Riders. Now he is struggling with an endless sea of tasks: constructing a vast dragonhold, wrangling with suppliers, guarding dragon eggs and dealing with belligerent Urgals and haughty elves. Then a vision from the Eldunarí, unexpected visitors and an exciting Urgal legend offer a much-needed distraction and a new perspective."
+
+## [<cite>Black Enough: stories of being young & black in America</cite>, by Ibi Aanu Zoboi (ed.)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2494473)
+
+> "Edited by National Book Award finalist Ibi Zoboi, <cite>Black Enough</cite> is an essential collection of captivating stories about what it's like to be young and black in America."
+
+Including contributions from Renee Watson, Jason Reynolds and Nic Stone.
+
 ## [<cite>King of Scars</cite>, by Leigh Bardugo](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2490617)
 
 First in a much anticipated new duology from the Grishaverse.
