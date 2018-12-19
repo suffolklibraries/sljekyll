@@ -4,8 +4,8 @@ title: Relief mobile library services manager, Ipswich area
 category: jobs
 sidebar: about
 breadcrumb: jobs
-excerpt: "Holiday and absence cover, &pound;10.15 per hour, closing date Mon 24 Dec."
-expiry-date: 2018-12-24
+excerpt: "Holiday and absence cover, &pound;10.15 per hour, closing date Mon 21 Jan 2019."
+expiry-date: 2019-01-21
 ---
 
 [Download a role profile](/assets/pdf/mobile-library-service-manager-nov-2018.pdf) (PDF).
@@ -31,4 +31,4 @@ The rate of pay commences at &pound;10.15 per hour.
 
 If you are interested, please send a CV and supporting statement outlining what you could bring to this position and Suffolk Libraries to: **recruitment@suffolklibraries.co.uk**
 
-The closing date for applications is **Monday 24 December 2018**. Interviews will be held on **Monday 7 January 2019 at Stowmarket Library**.
+The closing date for applications is **Monday 21 January 2019**.
