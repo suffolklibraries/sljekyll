@@ -9,6 +9,7 @@ featured-image: /images/featured/featured-barrington-stoke-march-2018.jpg
 featured-alt: "We Are Not Frogs!, Shona, Word Detective, The Family Tree"
 featured-link-text: "Check out our latest super-readable children's books."
 breadcrumb: childrens-ya-books
+tag: dyslexia
 ---
 
 ![We Are Not Frogs!, Shona, Word Detective, The Family Tree](/images/featured/featured-barrington-stoke-march-2018.jpg)

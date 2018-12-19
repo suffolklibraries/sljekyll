@@ -9,6 +9,7 @@ featured-image: /images/featured/featured-src-dyslexia.jpg
 featured-alt: "The Mystery of Me, The Ghost in the Bath, Free Lance and the Lake of Skulls"
 featured-link-text: "Check out our latest dyslexic-friendly titles for the Summer Reading Challenge."
 breadcrumb: childrens-ya-books
+tag: dyslexia
 ---
 
 ![The Mystery of Me, The Ghost in the Bath, Free Lance and the Lake of Skulls](/images/featured/featured-src-dyslexia.jpg)

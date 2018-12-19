@@ -9,6 +9,7 @@ featured-image: /images/featured/featured-barrington-stoke-october-2017.jpg
 featured-alt: "Nellie Choc-Ice, Penguin Explorer, Mint Choc Chip at the Market Cafe, Grave Matter"
 featured-link-text: "Check out Barrington Stoke's latest super-readable titles."
 breadcrumb: childrens-ya-books
+tag: dyslexia
 ---
 
 ![Nellie Choc-Ice, Penguin Explorer, Mint Choc Chip at the Market Cafe, Grave Matter](/images/featured/featured-barrington-stoke-october-2017.jpg)

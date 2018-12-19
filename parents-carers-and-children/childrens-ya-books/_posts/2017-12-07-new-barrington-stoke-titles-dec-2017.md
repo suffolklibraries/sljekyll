@@ -9,6 +9,7 @@ featured-image: /images/featured/featured-barrington-stoke-december-2017.jpg
 featured-alt: "The Minotaur, Smile, Second Best Friend"
 featured-link-text: "Check out Barrington Stoke's latest super-readable titles."
 breadcrumb: childrens-ya-books
+tag: dyslexia
 ---
 
 ![The Minotaur, Smile, Second Best Friend](/images/featured/featured-barrington-stoke-december-2017.jpg)

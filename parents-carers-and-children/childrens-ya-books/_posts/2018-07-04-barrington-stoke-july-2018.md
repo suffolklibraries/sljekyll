@@ -9,6 +9,7 @@ featured-image: /images/featured/featured-barrington-stoke-july-2018.jpg
 featured-alt: "The Knights and the Best Quest, Run Wild, Jason Banks and the Pumpkin of Doom"
 featured-link-text: "Check out our latest super-readable children's books."
 breadcrumb: childrens-ya-books
+tag: dyslexia
 ---
 
 ![The Knights and the Best Quest, Run Wild, Jason Banks and the Pumpkin of Doom](/images/featured/featured-barrington-stoke-july-2018.jpg)

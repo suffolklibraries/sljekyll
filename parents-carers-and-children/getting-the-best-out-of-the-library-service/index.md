@@ -123,6 +123,8 @@ Children who read for pleasure do better at school. Before you even get to the e
 
 ### Reading ideas and suggestions
 
+* [New in and children's reading ideas for 0-11 year-olds](/parents-carers-and-children/childrens-ya-books/)
+* [Dyslexia-friendly books for children and young adults](/parents-carers-and-children/dyslexia-friendly-books/)
 * Books by genre for [5 - 8 year olds](http://www.booktrust.org.uk/#/d/books/bookfinder/109) and for [9 - 12 years olds](http://www.booktrust.org.uk/#/d/books/bookfinder/110) from Booktrust
 * Featured books for older children from [Lovereading4kids](http://www.lovereading4kids.co.uk/genre/7/7-plus-readers.html)
 * [The Guardian's](http://www.theguardian.com/childrens-books-site) updates on children's books

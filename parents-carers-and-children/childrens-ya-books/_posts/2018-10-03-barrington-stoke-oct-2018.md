@@ -8,6 +8,7 @@ excerpt: "Barrington Stoke, who specialise in books for children with dyslexia a
 featured-image: /images/featured/featured-barrington-stoke-oct-2018.jpg
 featured-alt: "The Lost Diary of Sami Star, Armistice Runner, Still Water"
 breadcrumb: childrens-ya-books
+tag: dyslexia
 ---
 
 ![The Lost Diary of Sami Star, Armistice Runner, Still Water](/images/featured/featured-barrington-stoke-oct-2018.jpg)
