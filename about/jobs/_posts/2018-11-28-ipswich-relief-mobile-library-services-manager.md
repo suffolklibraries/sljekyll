@@ -31,4 +31,4 @@ The rate of pay commences at &pound;10.15 per hour.
 
 If you are interested, please send a CV and supporting statement outlining what you could bring to this position and Suffolk Libraries to: **recruitment@suffolklibraries.co.uk**
 
-The closing date for applications is **Monday 21 January 2019**.
+The closing date for applications is **Monday 21 January 2019**. Interviews will be held at Stowmarket Library on **Friday 4 February 2019**.
