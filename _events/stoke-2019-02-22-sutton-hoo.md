@@ -2,7 +2,7 @@
 name: "Sutton Hoo roadshow"
 location: stoke-library
 location-text: Stoke Library
-event-start-date: 2018-02-22
+event-start-date: 2019-02-22
 event-start-time: 1000
 event-end-time: 1200
 breadcrumb: y
