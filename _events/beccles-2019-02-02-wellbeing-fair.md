@@ -2,7 +2,7 @@
 name: "Wellbeing fair"
 location: beccles-library
 location-text: Beccles Library
-event-start-date: 2019-01-27
+event-start-date: 2019-02-02
 event-start-time: 1000
 event-end-time: 1500
 event-ticket-price: free
@@ -25,6 +25,6 @@ Stalls include:
 - Suffolk Sport
 - Beccles Men's Shed
 - Ringsfield Hall
-- OneLife Suffolk 
+- OneLife Suffolk
 - Products from Hungate Health Store
 - Hand-made soaps from JacqsArtisan
