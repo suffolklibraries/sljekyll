@@ -254,4 +254,4 @@ Telephone: 01473 351249
 
 **2018:** 20 December
 
-**2019:** 16 January, 14 February, 14 March, 11 April, 9 May, 6 June, 4 July, 1 August, 29 August, 26 September, 24 October, 21 November, 19 December
+**2019:** 17 January, 14 February, 14 March, 11 April, 9 May, 6 June, 4 July, 1 August, 29 August, 26 September, 24 October, 21 November, 19 December
