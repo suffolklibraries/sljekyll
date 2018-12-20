@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Check out the Excelsior Award shortlists for young adults"
-date: 2019-12-20
+date: 2018-12-20
 author: sophie-green
 category: childrens-ya-books
 excerpt: "The Excelsior Award highlights the best graphic novels published for young people each year across genre and style."
@@ -122,9 +122,9 @@ See also: [Excelsior shortlist 2019 for 9-11 year-olds](/parents-carers-and-chil
 
   <figure class="custom-flex-row-4 pv2">
 
-      <a class="white custom-no-underline" href=""><img class="custom-constrain-img" src="/images/featured/featured-voice-of-the-dragon.jpg" alt="Rasputin: the voice of the dragon"></a>
+      <a class="white custom-no-underline" href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2420704"><img class="custom-constrain-img" src="/images/featured/featured-voice-of-the-dragon.jpg" alt="Rasputin: the voice of the dragon"></a>
 
-      <figcaption class="ma0 pa0"><p class="f5 fw6 ma0 pa0 pr2"><a href="" class="blue custom-no-underline"><cite>Rasputin: the voice of the dragon</cite>, by Mike Mignola, Chris Roberson & Christopher Mitten</a></p></figcaption>
+      <figcaption class="ma0 pa0"><p class="f5 fw6 ma0 pa0 pr2"><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2420704" class="blue custom-no-underline"><cite>Rasputin: the voice of the dragon</cite>, by Mike Mignola, Chris Roberson & Christopher Mitten</a></p></figcaption>
 
   </figure>
 
