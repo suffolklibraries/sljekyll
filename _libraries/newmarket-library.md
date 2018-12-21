@@ -37,10 +37,7 @@ branch-colour-printing: available
 branch-photocopying: available in A3 and A4, black and white and colour
 branch-scan-to-email: y
 branch-faxing: y
-branch-for-sale: "<ul>
-                  <li>Christmas cards</li>
-                  <li>Poetry book collated by Newmarket Library Friend Christine - £5 each with all proceeds to Friends of Newmarket Library and St Nicholas Hospice.</li>
-                  </ul>"
+branch-for-sale: Poetry book collated by Newmarket Library Friend Christine - £5 each with all proceeds to Friends of Newmarket Library and St Nicholas Hospice.
 breadcrumb: y
 branch-pride-and-periods: y
 ---

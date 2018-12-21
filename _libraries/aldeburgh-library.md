@@ -36,9 +36,6 @@ branch-room-hire: /libraries/room-hire/aldeburgh-library
 branch-display-space: "Two cork boards in the foyer."
 branch-which: y
 breadcrumb: y
-branch-for-sale: '<ul>
-                  <li><a href="https://www.cardsforcharity.co.uk/">Cards for Good Causes</a>: charity Christmas cards and items</li>
-                  <li>Greetings cards for various occasions</li>
-                  </ul>'
-branch-news: '<a href="http://aldeburghlibraryfoundation.weebly.com/uploads/1/4/3/1/14312796/alf_brochure_autumn_2018.pdf">Aldeburgh Library Foundation&apos;s autumn 2018 course brochure is now available.</a>'
+branch-for-sale: Greetings cards for various occasions
+branch-news: '<a href="http://aldeburghlibraryfoundation.weebly.com/uploads/1/4/3/1/14312796/2019_brochure_jan-may.pdf">Aldeburgh Library Foundation&apos;s spring course brochure is now available.</a>'
 ---

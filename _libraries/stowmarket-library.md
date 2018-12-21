@@ -30,6 +30,5 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/stowmarket-library
 breadcrumb: y
-branch-for-sale: '<a href="https://www.cardsforcharity.co.uk/">Cards for Good Causes</a>: charity Christmas cards and items.'
 branch-other-facilities: '<a href="/news/move-it/">Move It sports equipment available to borrow</a>'
 ---

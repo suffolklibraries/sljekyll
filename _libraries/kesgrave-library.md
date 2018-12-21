@@ -20,10 +20,7 @@ branch-accessibility: https://www.accessable.co.uk/venues/kesgrave-library
 branch-payments: cash, cheques and cards accepted
 branch-parking: 8 free spaces available in front of the library
 branch-bookdrop: y
-branch-for-sale: '<ul>
-                  <li>1st and 2nd class stamps, greetings cards, hand-made bookmarks, fudge, withdrawn adult fiction and withdrawn children&apos;s fiction</li>
-                  <li><a href="https://www.cardsforcharity.co.uk/">Cards for Good Causes</a> and Suffolk Wildlife Trust Christmas cards</li>
-                  </ul>'
+branch-for-sale: 1st and 2nd class stamps, greetings cards, hand-made bookmarks, fudge, withdrawn adult fiction and withdrawn children&apos;s fiction.
 branch-other-facilities: "Used postage stamp collection point in aid of St Elizabeth's Hospice"                         
 branch-display-space: available for A4 or smaller posters
 branch-facebook: kesgravelibrary

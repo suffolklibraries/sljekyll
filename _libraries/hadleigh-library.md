@@ -30,5 +30,4 @@ branch-scan-to-email: y
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/hadleigh-library
 breadcrumb: y
-branch-for-sale: '<a href="https://www.cardsforcharity.co.uk/">Cards for Good Causes</a>: charity Christmas cards and items.'
 ---
