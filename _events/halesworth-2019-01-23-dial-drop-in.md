@@ -3,7 +3,7 @@ id: halesworth-games
 name: "Suffolk DIAL drop-in"
 location: halesworth-library
 location-text: Halesworth Library
-event-start-date: 2018-11-28
+event-start-date: 2019-01-23
 event-start-time: 1400
 event-end-time: 1600
 breadcrumb: y
