@@ -1,0 +1,45 @@
+---
+layout: sidebar-right
+title: "Suffolk Libraries launches 'Super Happy Sunday' for January 2019"
+date: 2018-12-21
+author: james-powell
+category: news
+excerpt: "Suffolk Libraries will be holding new countywide event on Sunday 27 January. Super Happy Sunday will focus on improving people's health and happiness at what can be a gloomy time of year."
+featured-image: "/images/featured/featured-super-happy-sunday.jpg"
+featured-alt: "A woman in a field raising her arms to the sun"
+breadcrumb: news
+---
+
+<img src="/images/featured/featured-super-happy-sunday.jpg" alt="/images/featured/featured-super-happy-sunday.jpg">
+
+<p>Suffolk Libraries will be holding new countywide event on Sunday 27 January. Super Happy Sunday will focus on improving people's health and happiness at what can be a gloomy time of year.</p>
+
+<p>We have teamed up with <a href="https://www.eastofengland.coop/">East of England Co-op</a>, <a href="http://acleisure.com/">Abbeycroft Leisure</a>, <a href="https://www.everyoneactive.com/">Everyone Active</a>, <a href="https://www.dwfitnessfirst.com/">DW Fitness First</a>, <a href="https://www.sltrust.co.uk/">Sentinel Leisure Trust</a> and <a href="https://www.actionforhappiness.org/">Action for Happiness</a> for the event. Thanks to the generosity of these organisations, library staff will be offering free leisure centre and health club passes, free happiness-boosting postcards and free East of England Co-op vouchers for healthy teas and snacks to customers. Suffolk Libraries is also linking up with the Suffolk County Council’s Most Active County partnership.</p>
+
+<p>There will be displays of wellbeing books in libraries and a host of different activities taking place for customers to enjoy. We have already launched three special <a href="https://suffolklibraries.freegalmusic.com/browse/playlists/library-playlists">Super Happy Sunday playlists on Freegal</a> and plan to release further themed eLibrary content including eBooks, eAudiobooks and eMagazines nearer the time.</p>
+
+<p>Lisa Brennan, content and reader development librarian, said: "We’re aiming to help people start 2019 with a smile instead of the January blues and encourage them to visit a library in Suffolk for Super Happy Sunday. It’ll be a day for boosting your mood with free giveaways thanks to the generosity of the organisations who are supporting the event. Why not make time for you this year and join us on Sunday 27 January at Suffolk Libraries to focus on your happiness and health?"</p>
+
+<p>A list of Super Happy Sunday events follows, with further events to be confirmed.</p>
+
+{% assign shs-events = site.events | where: "event-category", "shs" | sort: "event-start-date" %}
+
+{% for event in shs-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> - {{ event.event-end-date | date: "%a %-d %b" }} <span>{{ event.event-start-time }} - {{ event.event-end-time }}</span>
+
+        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+        </p>
+
+    </article>
+
+{% endfor %}
+
+
+<p>If you're looking to get more active in the New Year, six of our libraries - <a href="/libraries/bury-st-edmunds-library/">Bury St Edmunds</a>, <a href="/libraries/gainsborough-community-library/">Gainsborough</a>, <a href="/libraries/haverhill-library/">Haverhill</a>, <a href="/libraries/newmarket-library/">Newmarket</a>, <a href="/libraries/saxmundham-library/">Saxmundham</a> and <a href="/libraries/stowmarket-library">Stowmarket</a> - have <a href="/news/move-it/">Move It sports equipment</a> which customers can borrow.</p>
