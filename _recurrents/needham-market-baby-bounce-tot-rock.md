@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Baby Bounce and Tot Rock"
-recurrent-description: "Songs and rhymes for babies and toddlers. No session 27 December."
+recurrent-description: "Songs and rhymes for babies and toddlers."
 recurrent-day: Thursday
 recurrent-times: 0945-1030
 recurrent-location: needham-market-library
