@@ -16,14 +16,6 @@ breadcrumb: music
 
 Seasonal favourite that arrived too late for the December list. The Live Lounge compilation for 2018 includes many of the leading names in music. Even if you don't like all the artists, there is the opportunity to hear cover versions of well-known songs by the most unlikely musicians.
 
-## [Sharon Van Etten - <cite>Remind Me Tomorrow</cite>]()
-
-Follow-up to the critically acclaimed [<cite>Are We There?</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1598088) (2014).
-
-## [Rudimental - <cite>Toast to our Differences</cite>]()
-
-The new Rudimental album includes the hit single <cite>These Days</cite>. Guests include Stefflon Don on <cite>Scared Of Love</cite> and Kevin Garrett on <cite>Do You Remember</cite>. The band will be playing Newmarket Nights in 2019.
-
 ## [John Garcia - <cite>John Garcia and the Band of Gold</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2517518)
 
 Former Kyuss singer John Garcia returns with his next incarnation of desert rock. Queens of the Stone Age's Chris Goss produces.

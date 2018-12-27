@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Talking about feelings"
-date: 2018-12-27
+date: 2018-06-05
 author: sophie-green
 category: child-family-problems
 excerpt: "Books to help children talk about their feelings."
