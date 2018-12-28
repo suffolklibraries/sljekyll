@@ -37,8 +37,5 @@ branch-faxing: y
 branch-room-hire: /libraries/room-hire/woodbridge-library
 branch-other-facilities: 'Suffolk Coastal District Council customer services. Visit the <a href="http://www.eastsuffolk.gov.uk/contact-us/">Suffolk Coastal and Waveney Councils website</a> for opening times.'
 breadcrumb: y
-branch-news: '<ul>
-              <li>The library will be closing at 4pm today (Thursday 27 December) due to heating problems.</li>
-              <li>Woodbridge Library is looking for <a href="/volunteer/home-library-service/">Home Library Service volunteers</a>.</li>
-              </ul>'
+branch-news: 'Woodbridge Library is looking for <a href="/volunteer/home-library-service/">Home Library Service volunteers</a>.'
 ---
