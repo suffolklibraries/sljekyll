@@ -9,6 +9,8 @@ event-ticket-price: free
 breadcrumb: y
 ---
 
+> "Fee-fi-fo-fum, what do magic beans become?"
+
 > "Children and grown-ups alike will be charmed and enthralled by <cite>Full of Beans</cite>, a fairy tale adventure with a difference. Join Full House Theatre for a heart-warming family show with original music and song, and a sprinkling of magic."
 
 Made for ages 4+ but suitable for all. Contact [Bury St Edmunds Library](/libraries/bury-st-edmunds-library/) to book your free tickets.
