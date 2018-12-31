@@ -56,7 +56,3 @@ Bryan Stevenson was a young lawyer when he founded the Equal Justice Initiative,
 The story of how one man’s act of mercy on a World War II battlefield changes the lives of six strangers across time and place, including a child on the brink of starvation, a blind museum curator looking for love, a German infantryman, and a humble caretaker at a retirement home in Santa Monica. These characters remain unaware of their connection until seemingly random acts of selflessness reveal the vital parts they play in each other’s lives. Inspired by true events.
 
 [Borrow <cite>The Illusion of Separateness</cite> by Simon Van Booy as an eBook on Overdrive.](http://suffolklibraries.lib.overdrive.com/AE51566C-D2D5-406C-9AC0-ECEA9C3F3E96/10/50/en/ContentDetails.htm?id=65E02645-E949-44DF-B6CB-119EBD3DF24F)
-
-The [Booked Out](/new-suggestions/booked-out) team discuss the six Brave New Reads books on their podcast:
-
-<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/271064484&amp;color=642d91&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>

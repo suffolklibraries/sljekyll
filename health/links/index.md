@@ -122,7 +122,7 @@ Here are some of the organisations and information sources available for a varie
 </ul>
 <h3 id="dementia">Dementia</h3>
 <ul>
-	<li><a href="http://www.ageuk.org.uk/suffolk/services-and-information/dementia-services/">Age UK Suffolk</a> - Provided to help those who live with or alongside people with dementia</li>
+	<li><a href="https://www.ageuk.org.uk/suffolk/our-services/dementia-services/">Age UK Suffolk</a> - Provided to help those who live with or alongside people with dementia</li>
 	<li><a href="https://www.alzheimers.org.uk/info/20007/types_of_dementia/1/what_is_dementia">Alzheimer's Society</a> - What is dementia?</li>
 </ul>
 <h3 id="depression">Depression</h3>
@@ -202,7 +202,7 @@ Here are some of the organisations and information sources available for a varie
 <h3 id="personality">Personality disorder</h3>
 <ul class="xoxo blogroll">
 	<li><a href="https://www.mentalhealth.org.uk/a-to-z/p/personality-disorders">Mental Health Foundation</a> - Defines personality disorders and how they will affect you</li>
-	<li><a href="http://www.rcpsych.ac.uk/mentalhealthinfo/problems/personalitydisorders/personalitydisordersfacts.aspx">Royal College of Psychiatrists</a> - How does it feel to have a personality disorder? How many different types are there?</li>
+	<li><a href="https://www.rcpsych.ac.uk/mental-health/problems-disorders/personality-disorder">Royal College of Psychiatrists</a> - How does it feel to have a personality disorder? How many different types are there?</li>
 	<li><a href="https://www.suffolkmind.org.uk/services/personality-disorder-service-waves/">Suffolk Mind Waves Support Group</a> - Local support group in the east and west of Suffolk</li>
 </ul>
 <h3 id="psychosis">Psychosis</h3>
