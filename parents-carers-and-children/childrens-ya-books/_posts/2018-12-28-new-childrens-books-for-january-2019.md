@@ -78,7 +78,7 @@ In good time to herald in the Year of the Pig.
 
 > "This beautiful debut by new author-illustrator talent Eva Eland takes a poignant but uplifting look at dealing with uncomfortable emotions."
 
-A great addition to the [Talking about feelings](/parents-carers-children/parenting-advice-books-to-help-with-raising-a-family/talking-about-feelings/) list in our [parenting advice section](/parents-carers-children/parenting-advice-books-to-help-with-raising-a-family/).
+A great addition to the [Talking about feelings](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/talking-about-feelings/) list in our [parenting advice section](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/).
 
 ### [<cite>The Hug</cite>, by Eoin McLaughlin & Polly Dunbar](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2487114)
 

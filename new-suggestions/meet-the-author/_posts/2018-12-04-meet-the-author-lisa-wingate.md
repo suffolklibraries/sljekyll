@@ -72,6 +72,6 @@ As the mother of boys, my outdoor survival skill rating is unbelievably high. I'
 
 * [Lisa's website](https://lisawingate.com/)
 * [Lisa's blog](http://theuntoldstory.guru/)
-* [Lisa's Facebook page](https://www.facebook.com/LisaWingateAuthor/)
-* [Lisa's Twitter](https://www.twitter/com/lisawingate/)
+* [Lisa's Facebook page](https://www.facebook.com/LisaWingateAuthorPage/)
+* [Lisa's Twitter](https://www.twitter.com/lisawingate/)
 * [Lisa's Pinterest](https://pinterest.com/lisawingatebook/)

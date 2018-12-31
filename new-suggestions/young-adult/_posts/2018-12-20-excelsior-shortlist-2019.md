@@ -3,11 +3,11 @@ layout: sidebar-right
 title: "Check out the Excelsior Award shortlists for young adults"
 date: 2018-12-20
 author: sophie-green
-category: childrens-ya-books
+category: young-adult
 excerpt: "The Excelsior Award highlights the best graphic novels published for young people each year across genre and style."
 featured-image: /images/featured/featured-excelsior-shortlist-2019.jpg
 featured-alt: "Heavy Vinyl, Thanos: The Infinity Siblings, Shibuya Goldfish"
-breadcrumb: childrens-ya-books
+breadcrumb: young-adult
 ---
 
 ![Heavy Vinyl, Thanos: The Infinity Siblings, Shibuya Goldfish](/images/featured/featured-excelsior-shortlist-2019.jpg)
