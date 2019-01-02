@@ -38,7 +38,7 @@ branch-room-hire: /libraries/room-hire/woodbridge-library
 branch-other-facilities: 'Suffolk Coastal District Council customer services. Visit the <a href="http://www.eastsuffolk.gov.uk/contact-us/">Suffolk Coastal and Waveney Councils website</a> for opening times.'
 breadcrumb: y
 branch-news: '<ul>
-              <li>The library is closed from 1pm today (Wednesday 2 January) due to heating problems.</li>
+              <li>The library is closed from 1pm today (Wednesday 2 January) due to heating problems. The nearest alternative libraries are <a href="/libraries/kesgrave-library">Kesgrave Library</a> and <a href="/libraries/wickham-market-library/">Wickham Market Library</a>.</li>
               <li>Woodbridge Library is looking for <a href="/volunteer/home-library-service/">Home Library Service volunteers</a>.<li>
               </ul>'
 ---
