@@ -36,9 +36,6 @@ branch-other-facilities: '<ul>
                           <li><a href="/news/move-it/">Move It sports equipment available to borrow</a></li>
                           <li>Board Games available to borrow - see the <a href="/assets/pdf/bury-board-games.pdf">Bury board games information sheet</a> (PDF) for further information</li>
                           </ul>'
-branch-news: '<ul>
-              <li>The library will be closing at 5pm on Monday 31 December.</li>
-              <li>Bury St Edmunds Library is looking for <a href="/volunteer/home-library-service/">Home Library Service volunteers</a>.</li>
-              </ul>'
+branch-news: 'Bury St Edmunds Library is looking for <a href="/volunteer/home-library-service/">Home Library Service volunteers</a>.'
 branch-pride-and-periods: y
 ---

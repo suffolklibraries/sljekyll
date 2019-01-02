@@ -40,5 +40,4 @@ branch-other-facilities: '<ul>
                             <li>Lowestoft branch of the Suffolk Record Office on the first floor. See the <a class="blue" href="https://www.suffolkarchives.co.uk/planning-your-visit/suffolk-record-office-branches/lowestoft-branch/">Suffolk Record Office website</a> for opening hours and contact details</li>
                           </ul>'
 branch-pride-and-periods: y
-branch-news: The library will be closing at 5pm on Monday 31 December.
 ---

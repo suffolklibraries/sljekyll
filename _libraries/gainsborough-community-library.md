@@ -38,8 +38,5 @@ branch-other-facilities: '<ul>
                           <li>Literacy and learning games available to borrow</li>
                           </ul>'
 branch-pride-and-periods: y
-branch-news: '<ul>
-              <li>The library will be closing at 5pm on Monday 31 December</li>
-              <li>The library will be opening at 10:30am on Thursday 24 January 2019 due to a staff meeting</li>
-              <ul>'
+branch-news: 'The library will be opening at 10:30am on Thursday 24 January 2019 due to a staff meeting.'
 ---
