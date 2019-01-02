@@ -5,25 +5,36 @@ breadcrumb: help
 sidebar: help
 ---
 
-## Privacy
+## Information that Suffolk Libraries collects about you or your child
 
-We collect the following types of information about you:
+* Your library account details (name, address, date of birth, gender, phone number, email and borrowing history).
+* Your email address, if you sign up for the [Suffolk Libraries monthly email newsletter](/newsletter/). You can unsubscribe at any time by clicking on the unsubscribe link at the bottom of the newsletter. We will not use your email for anything else or share it with it anyone. (You can also talk to your local library about receiving updates from them via email).
+* In some libraries we have CCTV systems which are used for security and crime reduction.
+* [Cookies](/help/privacy-and-cookies/cookie-policy)
 
-  * If you sign up for our newsletter we&#8217;ll keep your email address
-  * Your library account details, i.e. name, address, date of birth, email address (if you supplied it when you signed up) and borrowing history
-  * Cookies (dealt with in a separate [Cookie policy](/help/privacy-and-cookies/cookie-policy/))
+## What Suffolk Libraries does with your information
 
-## Newsletter email address
+* We may contact you about your account
+* We may need to work out any overdue charges
+* We may send you a newsletter, if you have subscribed
+* We may use anonymised customer data to analyse our effectiveness and develop new services.
 
-We don&#8217;t share your email address with any third party and don&#8217;t use it for anything else apart from sending our monthly newsletter. You can unsubscribe from the newsletter by clicking the unsubscribe link at the bottom of the newsletter. Once you unsubscribe we&#8217;ll no longer keep your email address.
+## Protecting your information
 
-## Your library account details
+We are committed to keeping your information secure and we have appropriate physical, electronic and managerial procedures in place to prevent unauthorised access or disclosure.
 
-We use the information in your account to:
+We do not pass your information on to third parties unless there is a serious reason to do so. It happens very rarely and is usually for the following reasons:
 
-  * work out any fines you owe
-  * contact you about your account
+* The detection and prevention of crime or fraudulent activity; or
+* To protect a child or vulnerable adult who are thought to be at risk; or
+* If there is a serious risk to the public or our staff.
 
-We don&#8217;t share your information with any third parties or use it for any other purposes, such as our own marketing.
+We may release CCTV footage to the police to help prosecute criminals.
 
-However, we do use an anonymised copy of all our customer data for marketing purposes. The data we use for these purposes has customer account numbers, names and addresses removed.
+## Your rights
+
+You may [login to your library account](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH?HOMEPRMS=GENPARAMS) at any time and make changes. You may request access to any personal information we hold about you and request corrections.
+
+If you have any concerns about the data we hold about you, contact **help@suffolklibraries.co.uk**
+
+[See our full privacy notice &rarr;](/help/privacy-policy/full-privacy-notice)

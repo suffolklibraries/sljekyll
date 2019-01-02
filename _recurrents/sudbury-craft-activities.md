@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Craft activities: for primary school age children"
+recurrent-title: "Craft activities: for primary school age children. Harry Potter theme throughout February."
 recurrent-day: Sunday
 recurrent-times: 1100-1230
 recurrent-location: sudbury-library

@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Improve your health with sports and fitness magazines on RBdigital"
-date: 2019-01-03
+date: 2019-01-02
 author: lisa-brennan
 category: articles
 tag: elibrary
