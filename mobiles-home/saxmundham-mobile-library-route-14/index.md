@@ -4,12 +4,6 @@ title: Saxmundham Mobile Library Route 14
 breadcrumb: mobiles-home
 ---
 
-<div class="{% include /c/generic-panel.html %}">
-
-    <p>Saxmundham Mobile Library Route 14 will not be running on Wednesday 2 January 2019 due to vehicle problems.</p>
-
-</div>
-
 ## Contact us:
 
 Manager: Rob Alcraft and Peter Fiske
