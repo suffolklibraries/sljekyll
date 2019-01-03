@@ -40,4 +40,5 @@ branch-faxing: y
 branch-for-sale: Poetry book collated by Newmarket Library Friend Christine - £5 each with all proceeds to Friends of Newmarket Library and St Nicholas Hospice.
 breadcrumb: y
 branch-pride-and-periods: y
+branch-news: Newmarket Library is currently looking for Code Club volunteers. Contact the library for more information and to get involved.
 ---
