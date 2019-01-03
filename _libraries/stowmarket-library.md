@@ -30,5 +30,8 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/stowmarket-library
 breadcrumb: y
-branch-other-facilities: '<a href="/news/move-it/">Move It sports equipment available to borrow</a>'
+branch-other-facilities: '<ul>
+                          <li><a href="/news/move-it/">Move It sports equipment available to borrow</a></li>
+                          <li><a href="https://bobbybuddies.co.uk/">Bobby Buddies collection point</a></li>
+                          </ul>'
 ---
