@@ -41,3 +41,15 @@ Including eAudiobooks on Buddhism and self-acceptance.
 
 * [Hobby magazines](/new-suggestions/articles/hobby-magazines-on-rbdigital/)
 * [Sports and fitness magazines](/new-suggestions/articles/sports-and-fitness-magazines-on-rbdigital/)
+
+## Articles on Britannica
+
+Simply log in with your library card number! Find out...
+
+* [Why Costa Rica is such a happy country](https://library.eb.co.uk/levels/adult/magazine/article/129068614)
+* [How to increase your happiness](https://library.eb.co.uk/levels/adult/magazine/article/124643826)
+* [How to 'live your happy'](https://library.eb.co.uk/levels/adult/magazine/article/123056227)
+* [How to 'be more present'](https://library.eb.co.uk/levels/adult/magazine/article/127778704)
+* [How to build meditation into your everyday life](https://library.eb.co.uk/levels/adult/magazine/article/123791435)
+
+[Find more articles about happiness from Britannica &rarr;](https://library.eb.co.uk/levels/adult/search/magazines?query=happiness&includeLevelOne=true)
