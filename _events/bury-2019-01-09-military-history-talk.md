@@ -1,6 +1,6 @@
 ---
 id: bury-xmas
-name: "Wednesday Talk: Military History and the Suffolk Regiment by Paul Evans from the Suffolk Regiment Museum"
+name: "Wednesday Talk: Military History and the Suffolk Regiment by Paul Evans from the Suffolk Regiment Museum - FULLY BOOKED"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
 event-start-date: 2019-01-09
@@ -9,6 +9,8 @@ event-end-time: 1130
 event-ticket-price: free
 breadcrumb: y
 ---
+
+**This event is now fully booked**
 
 Paul Evans (AMOT curator at the Suffolk Regiment Museum, Bury St Edmunds) will be discussing military records, family research, the Suffolk Regiment and the wider MOD framework.
 
