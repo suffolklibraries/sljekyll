@@ -35,5 +35,8 @@ branch-room-hire: /libraries/room-hire/halesworth-library
 breadcrumb: y
 branch-for-sale: Stamps, cards, artwork, jewellery, books from local authors, reading glasses and accessories from ReadySpex, Halesworth Library bags, bookmarks and pens.
 branch-display-space: "Window space available to hire for posters and notices. Contact the library for more details."
-branch-news: 'Halesworth Library is looking for <a href="/volunteer/home-library-service/">Home Library Service volunteers</a>.'
+branch-news: '<ul>
+              <li>Halesworth Library is closed on Tuesday 8 January due to unforeseen circumstances.</li>
+              <li>Halesworth Library is looking for <a href="/volunteer/home-library-service/">Home Library Service volunteers</a>.</li>
+              </ul>'
 ---
