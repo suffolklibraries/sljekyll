@@ -1,5 +1,5 @@
 ---
-name: "Time Top: talk on Folk and Morris Dancing from Terri Betson"
+name: "Top Time: talk on Folk and Morris Dancing from Terri Betson"
 location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2019-01-17
