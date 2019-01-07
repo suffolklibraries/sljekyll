@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Tot Rock"
+recurrent-title: "Rock Tots"
 recurrent-description: "Songs and rhymes for preschool children, term-time only."
 recurrent-day: Tuesday
 recurrent-times: 1400-1430
