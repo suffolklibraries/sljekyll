@@ -1,17 +1,17 @@
 ---
 layout: sidebar-right
-title: 'Open Space &#8211; Bury St Edmunds Library timetable for 17 September - 22 October 2018'
-date: 2018-09-17
+title: 'Open Space &#8211; Bury St Edmunds Library timetable for 14 January - 25 February 2019'
+date: 2019-01-08
 author: sarah-lungley
 category: health
-excerpt: Here is the new timetable for Open Space at Bury St Edmunds Library for 17 September - 22 October 2018! Lots of exciting things coming up and some great discussions.
+excerpt: Here is the new timetable for Open Space at Bury St Edmunds Library for 14 January - 25 February 2019! Lots of exciting things coming up and some great discussions.
 breadcrumb: health
 sidebar: health
 ---
 
 ![Open Space logo](/images/featured/featured-open-space-logo.jpg)
 
-Here is the new timetable for Open Space at Bury St Edmunds Library for 17 September - 22 October 2018! Lots of exciting things coming up and some great discussions.
+Here is the new timetable for Open Space at Bury St Edmunds Library for 14 January - 25 February 2019! Lots of exciting things coming up and some great discussions.
 
 If you have any questions please do get in touch, or just come along to a session on Mondays at [Bury St Edmunds Library](/libraries/bury-st-edmunds-library/)&#8211; all are welcome!
 
@@ -32,61 +32,71 @@ Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &ra
 
 <tr>
 <td>
-17.09.18
+14.01.19
 </td>
 
 <td>
-Discussion group with David & colouring
-</td>
-</tr>
-
-<tr>
-<td>
-24.09.18
-</td>
-
-<td>
-Chair-based exercise with Jacqui
+Making hedgehog books & group discussion
 </td>
 </tr>
 
 <tr>
 <td>
-01.10.18
+21.01.19
 </td>
 
 <td>
-Discussion group with David & decoupage
-</td>
-</tr>
-
-<tr>
-<td>
-08.10.18
-</td>
-
-<td>
-Bingo with Jacqui
+Scrapbooking, theme: 'What defines me?'
 </td>
 </tr>
 
 <tr>
 <td>
-15.10.18
+28.01.19
 </td>
 
 <td>
-Discussion group with David & creative writing
+Bingo with Jacqui & group discussion
 </td>
 </tr>
 
 <tr>
 <td>
-22.10.18
+04.02.19
 </td>
 
 <td>
-Planning session
+Walk to Abbey Gardens (weather permitting)
+</td>
+</tr>
+
+<tr>
+<td>
+11.02.19
+</td>
+
+<td>
+Making Valentine's cards & group discussion
+</td>
+</tr>
+
+<tr>
+<td>
+18.02.19
+</td>
+
+<td>
+Creative writing
+</td>
+</tr>
+
+<tr>
+<td>
+25.02.19
+</td>
+
+<td>
+Colouring, knitting & group discussion
 </td>
 </tr>
 </table>
