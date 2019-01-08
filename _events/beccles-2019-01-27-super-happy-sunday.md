@@ -1,5 +1,5 @@
 ---
-name: "Super Happy Sunday: crafts and other activities to boost your mood and wellbeing"
+name: "Super Happy Sunday: crafts and other activities"
 location: beccles-library
 location-text: Beccles Library
 event-start-date: 2019-01-27

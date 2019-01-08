@@ -1,5 +1,5 @@
 ---
-name: "Super Happy Sunday: games and activities to boost your mood and wellbeing"
+name: "Super Happy Sunday: games and activities"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2019-01-27

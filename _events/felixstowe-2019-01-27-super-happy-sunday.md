@@ -1,5 +1,5 @@
 ---
-name: "Super Happy Sunday: crafts, games and activities to boost your mood and wellbeing"
+name: "Super Happy Sunday: crafts, games and activities"
 location: felixstowe-library
 location-text: Felixstowe Library
 event-start-date: 2019-01-27

@@ -1,5 +1,5 @@
 ---
-name: "Super Happy Sunday: crafts, games and music to boost your mood and wellbeing"
+name: "Super Happy Sunday: crafts, games and music"
 location: broomhill-library
 location-text: Broomhill Library
 event-start-date: 2019-01-27
