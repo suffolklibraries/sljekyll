@@ -12,4 +12,4 @@ breadcrumb: y
 
 Have a go at Boccia and Kurling at this relaxing and fun session for all the family.
 
-[Super Happy Sunday](/news/super-happy-sunday/) is a free health and wellbeing event taking place across our libraries.
+[Super Happy Sunday](/news/super-happy-sunday/) is a free health and wellbeing event taking place across our libraries. You can also borrow [Move It sports equipment](/news/move-it/) from Gainsborough Community Library.

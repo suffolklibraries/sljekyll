@@ -1,5 +1,5 @@
 ---
-name: "Super Happy Sunday: boost your mood and wellbeing"
+name: "Super Happy Sunday: crafts, games and activities to boost your mood and wellbeing"
 location: stowmarket-library
 location-text: Stowmarket Library
 event-start-date: 2019-01-27
@@ -11,3 +11,5 @@ breadcrumb: y
 ---
 
 Take some time out to relax with some simple mindful activities. All ages are invited to enjoy colouring, jigsaws, board games and Lego.
+
+You can also have a [free health MOT](/events/stowmarket-2019-01-27-health-mots/) or use our [Move It sports equipment](/news/move-it/).

@@ -1,5 +1,5 @@
 ---
-name: "Super Happy Sunday and indoor car boot"
+name: "Super Happy Sunday mood-boosting activities and indoor car boot"
 location: chantry-library
 location-text: Chantry Library
 event-start-date: 2019-01-27
