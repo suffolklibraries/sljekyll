@@ -12,4 +12,6 @@ breadcrumb: y
 
 Have a go at Pilates with Elaine from Abbeycroft Leisure.
 
+Please bring your own mat/towel/water bottle.
+
 You can also use our [Move It sports equipment](/news/move-it/).

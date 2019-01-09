@@ -15,3 +15,5 @@ Have a go at Yoga for [Super Happy Sunday](/news/super-happy-sunday). We have th
 * 10:30am - 11am
 * 11:15am - 11:45am
 * 12pm - 12:30pm
+
+Mats will be provided.
