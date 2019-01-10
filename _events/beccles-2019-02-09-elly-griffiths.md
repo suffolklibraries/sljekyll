@@ -1,5 +1,5 @@
 ---
-name: "An evening with Elly Griffiths"
+name: "An evening with Elly Griffiths - SOLD OUT"
 location: beccles-library
 location-text: Beccles Library
 event-start-date: 2019-02-09
@@ -8,6 +8,8 @@ event-ticket-price: 5
 event-ticket-url: https://www.eventbrite.co.uk/e/an-evening-with-elly-griffiths-tickets-53743348803
 breadcrumb: y
 ---
+
+**This event is now sold out**
 
 Join us for an evening with bestselling author and Suffolk readers' favourite Elly Griffiths.
 
