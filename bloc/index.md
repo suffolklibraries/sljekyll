@@ -34,8 +34,6 @@ featured-alt: "Magazine cut out collage"
 
               </ul>
 
-              <p class="b mb0 mt1"><a href="https://artslibraries.typeform.com/to/TZphIw" class="blue no-underline underline-hover">Book your place on the Youth Council Induction Day &rarr;</a></p>
-
             </div>
 
           </div>
@@ -51,50 +49,6 @@ featured-alt: "Magazine cut out collage"
         </div>
 
       </header>
-
-      <section class="bg-white bb b--light-gray pv3 pv4-ns">
-
-          <article class="custom-max-width flex-l flex-wrap-l justify-between-l flex-row-reverse-l">
-
-              <div class="w-60-l pv2 pv3-ns ph2 ph3-ns">
-
-                <p class="ma0 f6 mid-gray ttl small-caps tracked">From the BLOC blog</p>
-
-                {% for post in site.categories.bloc limit:1 %}
-
-                <h2 class="pt1 f4 lh-title mt0"><a href="{{ post.url }}" class="dark-red no-underline underline-hover">{{ post.title }}</a></h2>
-
-                <p class="ma0">{{ post.excerpt }}</p>
-
-                <p class="mb0 mt1"><a href="{{ post.url }}" class="dark-blue no-underline underline-hover">Read more →</a></p>
-
-                {% endfor %}
-
-                <ul class="list ma0 mt3 pa0">
-
-                {% for post in site.categories.bloc limit:5 offset:1 %}
-
-                    <li class="b f5 lh-title mt0 mb1"><a href="{{ post.url }}" class="dark-red no-underline underline-hover pv1">{{ post.title }}</a></li>
-
-                {% endfor %}
-
-                </ul>
-
-              </div>
-
-              <div class="w-40-l pv2 pv3-ns pb0-l">
-
-                {% for post in site.categories.bloc limit:1 %}
-
-                  <a href="{{ post.url }}"><img alt="{{ post.featured-alt }}" class="db center" src="{{ post.featured-image }}"></a>
-
-                {% endfor %}
-
-              </div>
-
-          </article>
-
-      </section>
 
     <section class="bg-lightest-blue dark-gray pa2 ph3-ns pv4 pv5-ns bb b--moon-gray">
 
@@ -152,7 +106,7 @@ featured-alt: "Magazine cut out collage"
 
                 <h2 class="f4 lh-title mt1"><a href="/bloc/culture-lab/" class="white no-underline underline-hover">Culture LAB: Arts in the community</a></h2>
 
-                <p class="ma0">A week-long, mixed media residency in Ipswich County Library working in partnership with METAL (30 July&#8211;3 August 2018)</p>
+                <p class="ma0">Culture Lab was a week-long, mixed media residency in Ipswich County Library working in partnership with METAL</p>
 
                 <p class="mb0"><a href="/bloc/culture-lab/" class="lightest-blue no-underline underline-hover">Find out about Culture Lab →</a></p>
 
@@ -202,7 +156,7 @@ featured-alt: "Magazine cut out collage"
 
             <div class="flex-l flex-wrap-l justify-between-l">
 
-                <div class="w-30-l mt3 mt0-l">
+                <div class="w-50-l mt3 mt0-l">
 
                     <h3 class="dark-red">Contact us</h3>
 
@@ -215,7 +169,7 @@ featured-alt: "Magazine cut out collage"
 
                 </div>
 
-                <div class="w-30-l mt3 mt0-l">
+                <div class="w-50-l mt3 mt0-l">
 
                     <h3 class="dark-red">Arts @ Suffolk Libraries</h3>
 
@@ -224,22 +178,6 @@ National Portfolio Organisation (NPO) status and &pound;704,000 from Arts
 Council England to help young people develop arts and culture activities
  in libraries from 2018-22. We were offically granted NPO status in
 April 2018. <a href="/arts/" class="dark-blue no-underline underline-hover">Find out more about the arts in libraries</a>.</p>
-
-                </div>
-
-                <div class="w-30-l mt3 mt0-l">
-
-                    <h3 class="dark-red">BLOC news</h3>
-
-                    <ul class="list ma0 pa0">
-
-                    {% for post in site.categories.bloc-news limit:1 %}
-
-                        <li class="ma0 pa0"><a href="{{ post.url }}" class="dark-blue no-underline underline-hover">{{ post.title }}</a></li>
-
-                    {% endfor %}
-
-                    </ul>
 
                 </div>
 
