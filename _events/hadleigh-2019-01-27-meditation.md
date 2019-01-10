@@ -1,10 +1,10 @@
 ---
 name: "Super Happy Sunday: Meditation taster from Abbeycroft Leisure"
-location: sudbury-library
-location-text: Sudbury Library
+location: hadleigh-library
+location-text: Hadleigh Library
 event-start-date: 2019-01-27
-event-start-time: 1200
-event-end-time: 1245
+event-start-time: 1445
+event-end-time: 1530
 event-ticket-price: free
 event-category: shs
 breadcrumb: y
