@@ -12,7 +12,7 @@ expiry-date: 2019-02-15
 
 We were awarded [National Portfolio Status and funding](/news/national-portfolio-organisation/) by Arts Council England from April 2018 to provide an innovative arts and culture programme to engage young people between 2018 and 2022. The main aim is to improve 11-24 year-olds’ resilience and wellbeing. We also hope to get young people more engaged in the library service and help build their skills and confidence in using digital technology and equipment.
 
-We're looking for a creative programmes manager to assist in the artistic planning and administration of the [Suffolk Libraries creative programme - BLOC](/bloc/). We're looking for an individual who:
+We're looking for a creative programmes assistant to assist in the artistic planning and administration of the [Suffolk Libraries creative programme - BLOC](/bloc/). We're looking for an individual who:
 
 - Has interpersonal skills and the enthusiasm to build positive and supportive relations with our customers, team, partners and community
 - Has a good level of writing, reading and numeracy skills
