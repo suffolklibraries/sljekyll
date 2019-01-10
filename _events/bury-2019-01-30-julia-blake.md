@@ -9,6 +9,6 @@ event-ticket-price: free
 breadcrumb: y
 ---
 
-Join us for a fascinating talk from author Julia Blake about how she researches and writes her novels.
+Join us for a fascinating talk from author Julia Blake about how she researches and writes her novels. Julia will also be signing books after her talk.
 
 Contact the library to book your place.
