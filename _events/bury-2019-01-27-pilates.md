@@ -10,7 +10,7 @@ event-category: shs
 breadcrumb: y
 ---
 
-Have a go at Pilates with Elaine from Abbeycroft Leisure.
+Have a go at Pilates with Elaine from Abbeycroft Leisure as part of [Super Happy Sunday](/super-happy-sunday/)
 
 Please bring your own mat/towel/water bottle.
 
