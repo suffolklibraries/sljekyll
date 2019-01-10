@@ -20,7 +20,7 @@ We're looking for a creative programmes assistant to assist in the artistic plan
 - Has some administration experience as well as working with young people (desirable)
 - Understands Suffolk Libraries' services and what it delivers.
 
-If you have are creative and have experience in a customer facing role, enjoy helping people, have a willingness to work within a team in a busy environment and an interest in arts and technology, we would like to hear from you.
+If you are creative and have experience in a customer facing role, enjoy helping people, have a willingness to work within a team in a busy environment and an interest in arts and technology, we would like to hear from you.
 
 This position is for 37 hours per week on a fixed term contract until March 2022, with ambitions for future opportunities beyond this date. The salary is &pound;18,000 per annum.
 
