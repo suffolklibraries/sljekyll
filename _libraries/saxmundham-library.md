@@ -28,4 +28,5 @@ branch-scan-to-email: y
 breadcrumb: y
 branch-borrowing-ereaders-and-ipads: an iPad for use in the library only
 branch-other-facilities: '<a href="/news/move-it/">Move It sports equipment available to borrow</a>'
+branch-news: 'Saxmundham Library are currently having problems with their phone line. Call Customer Services on <a href="tel:01473351249">01473 351249</a> with any enquiries.'
 ---
