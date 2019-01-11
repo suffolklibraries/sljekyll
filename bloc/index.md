@@ -38,10 +38,10 @@ featured-alt: "Magazine cut out collage"
 
           </div>
 
-          <video class="mw-100 h-auto db ma0 pa0 bg-black" controls poster="/images/bloc/bloc-cover.jpg">
+          <video class="mw-100 h-auto db ma0 pa0 bg-black" controls poster="/images/bloc/bloc-a-year-in-review.jpg">
 
-              <source src="/videos/bloc.webm" type="video/webm">
-              <source src="/videos/bloc.mp4" type="video/mp4">
+              <source src="/videos/bloc-a-year-in-review.webm" type="video/webm">
+              <source src="/videos/bloc-a-year-in-review.mp4" type="video/mp4">
               <p>Your browser doesn't support this video. Instead, you can <a href="/videos/bloc.mp4">watch the video</a> in a video player.</p>
 
           </video>
@@ -177,7 +177,7 @@ featured-alt: "Magazine cut out collage"
 National Portfolio Organisation (NPO) status and &pound;704,000 from Arts
 Council England to help young people develop arts and culture activities
  in libraries from 2018-22. We were offically granted NPO status in
-April 2018. <a href="/arts/" class="dark-blue no-underline underline-hover">Find out more about the arts in libraries</a>.</p>
+April 2018. <a href="/bloc/about/" class="dark-blue no-underline underline-hover">Find out more about the arts in libraries</a>.</p>
 
                 </div>
 

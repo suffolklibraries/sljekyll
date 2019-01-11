@@ -1,7 +1,7 @@
 ---
 layout: full-width
 title: Thank you for registering for Suffolk Libraries Extra
-breadcrumb: home
+breadcrumb: support-us
 ---
 
 Your payment is being processed and you will receive an email shortly containing all you need to know about your Suffolk Libraries Extra membership.

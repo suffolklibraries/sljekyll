@@ -4,7 +4,7 @@ layout: sidebar-right
 hero-image: hero-volunteering.jpg
 hero-alt: Thurston Friends group
 sidebar: volunteering
-breadcrumb: home
+breadcrumb: support-us
 ---
 
 <div class="{% include /c/generic-panel.html %}">
