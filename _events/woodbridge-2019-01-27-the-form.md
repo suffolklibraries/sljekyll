@@ -14,6 +14,4 @@ Come and experience this powerful vehicle of awakening and self-mastery on [Supe
 
 Venetia will demonstrate/dance the full sequence of The Form with someone sitting in a chair as receiver, and then participants will share a short movement called "Cosmo-Form" together and in pairs. They will then share their inner discoveries.
 
-All profits to Venetia's Helping Hands Network volunteering trip to Bosnia in the spring.
-
 Find out more on the [Community Wellness Project Meetup page](https://www.meetup.com/Community-Wellness-Project-Holistic/events/257281430/).

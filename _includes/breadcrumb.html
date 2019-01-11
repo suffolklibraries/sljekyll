@@ -144,14 +144,6 @@
 
         </div>
 
-        {% elsif page.breadcrumb == 'bloc-home' %}
-
-        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
-
-            <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/bloc/">BLOC</a> &rarr; {{ page.title }}</p>
-
-        </div>
-
     {% elsif page.breadcrumb == 'meet-the-author' %}
 
         <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
@@ -368,13 +360,13 @@
 
         </div>
 
-        {% elsif page.breadcrumb == 'summer' %}
+    {% elsif page.breadcrumb == 'summer' %}
 
-            <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
-                <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities">Events and activities</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities/summer-holidays">Summer holiday activities for children</a> &rarr; {{ page.title }}</p>
+            <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities">Events and activities</a> &rarr; <a class="pv2 pv0-ns link blue" href="/events-activities/summer-holidays">Summer holiday activities for children</a> &rarr; {{ page.title }}</p>
 
-            </div>
+        </div>
 
     {% elsif page.breadcrumb == 'suffolk-writes' %}
 
@@ -394,10 +386,20 @@
 
     {% elsif page.breadcrumb == 'volunteering' %}
 
-    <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
 
-        <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/volunteering">Volunteer</a> &rarr; {{ page.title }}</p>
+            <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/volunteering">Volunteer</a> &rarr; {{ page.title }}</p>
 
-    </div>
+        </div>
+
+    {% elsif page.breadcrumb == 'bloc-home' %}
+
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns custom-underline">
+
+            <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/bloc">BLOC</a> &rarr; {{ page.title }}</p>
+
+        </div>
+
+    {% endif %}
 
 {% endif %}
