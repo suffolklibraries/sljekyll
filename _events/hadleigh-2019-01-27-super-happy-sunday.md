@@ -1,5 +1,5 @@
 ---
-name: "Super Happy Sunday: family crafts"
+name: "Super Happy Sunday: crafts and activities"
 location: hadleigh-library
 location-text: Hadleigh Library
 event-start-date: 2019-01-27
@@ -10,4 +10,6 @@ event-category: shs
 breadcrumb: y
 ---
 
-Join us for adult colouring or children's crafts. Feel free to bring along your own craft project and get creative while making new friends as part of [Super Happy Sunday](/news/super-happy-sunday/).
+Join us for adult colouring or children's crafts, or bring in your own craft from home to work on in a relaxing environment with others for [Super Happy Sunday](/news/super-happy-sunday/).
+
+We also have [Yoga](/events/hadleigh-2019-01-27-yoga/) and [meditation](/events/hadleigh-2019-01-27-meditation/) taster sessions and wellbeing book displays.

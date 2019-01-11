@@ -30,7 +30,6 @@ featured-alt: "Magazine cut out collage"
 
                 <li class="dib"><a href="https://twitter.com/BLOC_arts" class="mr3 custom-icon-twitter blue no-underline underline-hover">Twitter</a></li>
                 <li class="dib"><a href="https://www.instagram.com/bloc_arts/" class="mr3 custom-icon-instagram blue no-underline underline-hover">Instagram</a></li>
-                <li class="dib"><a href="/blog/bloc/" class="custom-icon-pen blue no-underline underline-hover">BLOC Blog</a></li>
 
               </ul>
 
