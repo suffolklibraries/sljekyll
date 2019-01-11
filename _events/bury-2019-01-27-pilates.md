@@ -12,6 +12,6 @@ breadcrumb: y
 
 Have a go at Pilates with Elaine from Abbeycroft Leisure as part of [Super Happy Sunday](/super-happy-sunday/)
 
-Please bring your own mat/towel/water bottle.
+Please bring your own mat (and towel/water bottle if needed).
 
 You can also use our [Move It sports equipment](/news/move-it/).
