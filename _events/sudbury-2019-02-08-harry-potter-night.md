@@ -4,7 +4,6 @@ location: sudbury-library
 location-text: Sudbury Library
 event-start-date: 2019-02-08
 event-start-time: 1815
-event-end-time: 1200
 event-ticket-price: 3, accompanying adults free
 breadcrumb: y
 ---
