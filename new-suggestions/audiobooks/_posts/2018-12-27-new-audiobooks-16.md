@@ -4,7 +4,6 @@ title: "Recommended new audiobooks #16"
 date: 2018-12-27
 author: sophie-green
 category: audiobooks
-tag: elibrary
 excerpt: "Listen to top titles from Liane Moriarty, William Boyd, Neil Gaiman and more."
 featured-image: /images/featured/featured-audiobooks-16.jpg
 featured-alt: "The Tattooist of Auschwitz, Without Fail"
