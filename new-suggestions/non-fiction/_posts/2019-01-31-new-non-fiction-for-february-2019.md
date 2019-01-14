@@ -24,7 +24,7 @@ Latest title from the author of [<cite>Threads : the delicate life of John Crask
 
 Gripping true story of a front-line trauma surgeon in the world's most dangerous war zones.
 
-## [<cite>Threads of Life: a history of the world through the eye of a needle</cite>, by Clare Hunter](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2521562)
+## [<cite>Threads of Life: a history of the world through the eye of a needle</cite>, by Clare Hunter](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2502541)
 
 > "For the mothers of the disappeared in 1970s Argentina, protest was difficult. Every Thursday they marched in front of government buildings wearing headscarves embroidered with the names of their lost children.
 
@@ -54,6 +54,6 @@ We’re into <cite>Street Cat Named Bob</cite> territory with this one. This is 
 
 > "In this memoir, Brian speaks movingly about the three battles in his life, from being ambushed with no cover, to the mental battle to adjust at home, to being falsely accused of hideous war crimes."
 
-## [<cite>The Voices of Nîmes: women, sex, and marriage in Reformation Languedoc</cite>, by Susannah Lipscomb]()
+## [<cite>The Voices of Nîmes: women, sex, and marriage in Reformation Languedoc</cite>, by Susannah Lipscomb](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2521562)
 
 Fascinating and unusual book from historian Suzannah Lipscomb. Based on over 1,000 personal testimonies this book gives an insight into the lives of a group of ordinary French women in the 16th and 17th centuries. Subjects include concerns about their lives, sex, and friendships.
