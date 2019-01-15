@@ -10,8 +10,8 @@ branch-friday-hours: 0900 – 1300, 1400 – 1700
 branch-saturday-hours: 0900 – 1300
 branch-sunday-hours: 1000 – 1500
 branch-manager: Julie Shepherd
-branch-address: Buckshorn Lane, Eye
-branch-post-code: IP23 7AZ
+branch-address: 6 Cross Street, Eye
+branch-post-code: IP23 7AB
 branch-tel: 01379 870515
 branch-friends: Eye Library Friends
 branch-accessibility: https://www.accessable.co.uk/venues/eye-library
@@ -24,5 +24,5 @@ branch-photocopying: A4 available
 branch-scan-to-email: y
 breadcrumb: y
 branch-payments: cash, cheques and cards accepted
-branch-news: '<a href="/news/eye-opening-date/">New Eye Library opening date confirmed for Thursday 24 January 2019</a>.'
+branch-news: '<a href="/news/eye-opening-date/">Eye Library is closed until 24 January 2019, when it opens it its new location</a>.'
 ---
