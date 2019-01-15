@@ -1,7 +1,7 @@
 ---
 name: "Super Happy Sunday: crafts and activities"
-location: lavenham-library
-location-text: Lavenham Library
+location: stoke-library
+location-text: Stoke Library
 event-start-date: 2019-01-27
 event-start-time: 1000
 event-end-time: 1300

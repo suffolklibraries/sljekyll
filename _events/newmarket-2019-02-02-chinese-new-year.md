@@ -1,5 +1,5 @@
 ---
-name: "Chinese New Year children's story and crafts"
+name: "Chinese New Year children's story and crafts - FULLY BOOKED"
 location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2019-02-02
@@ -8,5 +8,7 @@ event-end-time: 1600
 event-ticket-price: 2
 breadcrumb: y
 ---
+
+**This event is now fully booked**
 
 Children are invited to welcome in the Year of the Pig with story time, Chinese calligraphy and traditional paper cutting.
