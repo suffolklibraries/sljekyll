@@ -24,5 +24,5 @@ branch-photocopying: A4 available
 branch-scan-to-email: y
 breadcrumb: y
 branch-payments: cash, cheques and cards accepted
-branch-news: '<a href="/news/eye-opening-date/">Eye Library is closed until 24 January 2019, when it opens it its new location</a>.'
+branch-news: '<a href="/news/eye-opening-date/">Eye Library is closed until 24 January 2019, when it opens in its new location</a>.'
 ---
