@@ -10,4 +10,4 @@ event-category: shs
 breadcrumb: y
 ---
 
-Join us for colouring (adults and children), board games, relaxing music and refreshments, and borrow some wellbeing books for [Super Happy Sunday](/news/super-happy-sunday/).
+Join us for colouring (adults and children), board games, relaxing music and refreshments, and borrow some wellbeing books for [Super Happy Sunday](/news/super-happy-sunday/). You’re also welcome to bring in your own craft to work on in the library. Tea, coffee and biscuits available too!
