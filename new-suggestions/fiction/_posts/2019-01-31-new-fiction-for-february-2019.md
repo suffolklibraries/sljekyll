@@ -94,4 +94,4 @@ The first book from Marlon James since he won the Man Booker Prize with [<cite>A
 
 ## [<cite>The Taking of Annie Thorne</cite>, by C. J. Tudor](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2508792)
 
-The author of the bestselling The Chalk Man and former MTA subject returns with her new novel. A man receives an anonymous e-mail from a sender who claims to know what happened to his sister Annie, who mysteriously disappeared, then re-appeared after 48 hours, without ever saying what had happened to her.
+The author of the bestselling [<cite>The Chalk Man</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2308962) and former [Meet the Author](/new-suggestions/meet-the-author/meet-the-author-c-j-tudor/) interviewee returns with her new novel. A man receives an anonymous e-mail from a sender who claims to know what happened to his sister Annie, who mysteriously disappeared, then re-appeared after 48 hours, without ever saying what had happened to her.
