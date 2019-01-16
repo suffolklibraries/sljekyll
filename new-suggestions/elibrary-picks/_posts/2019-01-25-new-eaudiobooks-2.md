@@ -192,4 +192,22 @@ But he doesn’t call.
 
 ## OverDrive
 
-[Set up OverDrive &rarr;](/elib)
+[Set up OverDrive &rarr;](/elibrary/overdrive/)
+
+### [<cite>You Let Me In</cite>, by Lucy Clarke, read by Laura Kirman](https://suffolklibraries.overdrive.com/media/3889607)
+
+> "Nothing has felt right since Elle rented out her house. There's a new coldness. A shift in the atmosphere. The prickling feeling that someone is watching her every move from the shadows.
+
+> "Maybe it's all in Elle's mind? She's a writer – her imagination, after all, is her strength. And yet every threat seems personal. As if someone has discovered the secrets that keep her awake at night.
+
+> "As fear and paranoia close in, Elle's own home becomes a prison. Someone is unlocking her past – and she's given them the key..."
+
+### [<cite>Some Kind of Wonderful</cite>, by Giovanna Fletcher, read by Emily Atack](https://suffolklibraries.overdrive.com/media/3604375)
+
+> "When the love of your life says you're not The One, who are you?
+
+> "Lizzy and Ian have been a couple since the first week of university. Now, after celebrating a decade together, everyone thinks they're about to get engaged. Instead, a romantic escape to Dubai leaves Lizzy with no ring, no fiancé and no future.
+
+> "Lizzy is heartbroken - but through the tears, she sees an opportunity. This is her moment to discover what she's been missing while playing Ian's ideal 'better half'. But how much has Ian changed her, and who should she be without him?
+
+> "Determined to discover who she is at heart, Lizzy sets out to rediscover the girl she was before - and, in the meantime, have a little fun..."
