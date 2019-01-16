@@ -2,7 +2,7 @@
 name: "Friends of Clare Library quiz evening with fish and chips"
 location: clare-library
 location-text: Clare Library
-event-start-date: 2019-02-07
+event-start-date: 2019-02-08
 event-start-time: 1900
 event-ticket-price: 8 per person
 breadcrumb: y
