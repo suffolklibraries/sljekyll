@@ -14,13 +14,13 @@ breadcrumb: member-organisations
 
 ## Who we are
 
-* Chairman: Mary Wyllie
+* Chairman: Sheila Fox
 * Secretary: Sue Liddell
 * Treasurer: John Rayner
-* Bill Howard
 * Phil Harle
+* Bill Howard
 * Chris Laschet
-* Sheila Fox
+* Robin Saville
 * Ex officio library manager: Gayla Rowling
 
 We would like to encourage more young people to join the committee. If you are interested please contact the secretary on codurham@btinternet.com.
@@ -42,7 +42,7 @@ We would like to encourage more young people to join the committee. If you are i
 
 *Leiston Library interior*
 
-Leiston Library has been re-decorated and re-modelled with new shelves, paint and carpets to make the library more welcoming. This together with our new outside area and coffee and tea to purchase make the library a lovely place to be.
+The library was redecorated in 2015 and is a warm and welcoming place to be. It also supports the town's Fair Trade status, selling Fair Trade hot drinks and chocolate, making it a lovely place to spend time.
 
 This has all been made possible by generous grants from:
 
