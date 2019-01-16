@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Suffolk's newest library is opening soon!"
-date: 2019-0-16
+date: 2019-01-16
 author: james-powell
 category: news
 excerpt: "The new Eye Library is due to open its doors for the first time next week - at 2pm on Thursday 24 January."
@@ -10,7 +10,7 @@ breadcrumb: news
 
 The new [Eye Library](/libraries/eye-library/) is due to open its doors for the first time next week - at 2pm on Thursday 24 January.
 
-The new library in Cross Street was designed and overseen by Concertus Design & Property Consultants Ltd and constructed by building firm RG Carter during 2018, and handed over to Suffolk Libraries just before Christmas. The current library closed for the last time last Sunday (13 January) and staff are currently moving and setting up everything at the new library so that it is ready for opening. 
+The new library in Cross Street was designed and overseen by Concertus Design & Property Consultants Ltd and constructed by building firm RG Carter during 2018, and handed over to Suffolk Libraries just before Christmas. The current library closed for the last time last Sunday (13 January) and staff are currently moving and setting up everything at the new library so that it is ready for opening.
 
 Tony Brown, chair of Suffolk Libraries said: "It’s hugely positive to be able to open a new library. It’s been a great team effort with Suffolk County Council, Concertus and RG Carter working together with Suffolk Libraries to deliver a modern facility that will provide a better library environment and experience for everyone in the local community."
 
