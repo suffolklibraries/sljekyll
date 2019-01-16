@@ -7,11 +7,11 @@ category: elibrary-picks
 tag: elibrary
 excerpt: "Listen to top titles from Kate Atkinson, James Patterson, ."
 featured-image: /images/featured/featured-eaudiobooks-2.jpg
-featured-alt: ""
+featured-alt: "Six of Crows, Inspector Morse: Classic BBC Radio Drama Collection"
 breadcrumb: elibrary-picks
 ---
 
-![](/images/featured/featured-eaudiobooks-2.jpg)
+![Six of Crows, Inspector Morse: Classic BBC Radio Drama Collection](/images/featured/featured-eaudiobooks-2.jpg)
 
 See also: [recommended new physical audiobooks](/new-suggestions-audiobooks/new-audiobooks-17/)
 
@@ -19,7 +19,7 @@ See also: [recommended new physical audiobooks](/new-suggestions-audiobooks/new-
 
 [Set up BorrowBox &rarr;](/elibrary/borrowbox/)
 
-### [<cite>Inspector Morse: BBC Radio Drama Collection</cite>, by Colin Dexter, read by full cast](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_496118&fromPage=1&b2bSite=4172)
+### [<cite>Inspector Morse: Classic BBC Radio Drama Collection</cite>, by Colin Dexter, read by full cast](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_496118&fromPage=1&b2bSite=4172)
 
 Three BBC Radio 4 full-cast dramatisations starring John Shrapnel as Morse and Robert Glenister as Lewis, plus a bonus reading by Colin Dexter of one of his short stories.
 
@@ -211,3 +211,59 @@ But he doesn’t call.
 > "Lizzy is heartbroken - but through the tears, she sees an opportunity. This is her moment to discover what she's been missing while playing Ian's ideal 'better half'. But how much has Ian changed her, and who should she be without him?
 
 > "Determined to discover who she is at heart, Lizzy sets out to rediscover the girl she was before - and, in the meantime, have a little fun..."
+
+### [<cite>No Further Questions</cite>, by Gillian McAllister, read by various](https://suffolklibraries.overdrive.com/media/4117944)
+
+> "The police say she's guilty. She insists she's innocent. She's your sister. You loved her. You trusted her. But they say she killed your child. Who do you believe?"
+
+### [<cite>Whistle in the Dark</cite>, by Emma Healey, read by Julia Deakin](https://suffolklibraries.overdrive.com/media/3631962)
+
+> "How do you rescue someone who has already been found?
+
+> "Jen's fifteen-year-old daughter goes missing for four agonising days. When Lana is found, unharmed, in the middle of the desolate countryside, everyone thinks the worst is over. But Lana refuses to tell anyone what happened, and the police think the case is closed.
+
+> "The once-happy, loving family returns to London, where things start to fall apart. Lana begins acting strangely: refusing to go to school, and sleeping with the light on. With her daughter increasingly becoming a stranger, Jen is sure the answer lies in those four missing days. But will Lana ever reveal what happened?"
+
+### [<cite>Awakened</cite>, by James S. Murray, read by Darren Wearmouth](https://suffolklibraries.overdrive.com/media/3390726)
+
+> "After years of waiting, New York's newest subway line is finally ready, an express train that connects the city with the burgeoning communities across the Hudson River. The shining jewel of this state-of-the-art line is a breathtaking visitors' pavilion beneath the river. Major dignitaries, including New York City's Mayor and the President of the United States, are in attendance for the inaugural run, as the first train slowly pulls in.
+
+> "Under the station's bright ceiling lights, the shiny silver cars gleam. But as the train comes closer into view, a far different scene becomes visible.
+
+> "All the train's cars are empty.
+
+> "All the cars' interiors are drenched in blood.
+
+> "As chaos descends, all those in the pavilion scramble to get out. But the horror is only beginning. High levels of deadly methane fill the tunnels. The structure begins to flood. For those who don't drown, choke or spark an explosion, another terrifying danger awaits —t he thing that killed all those people on the train. It's out there ... and it's coming.
+
+> "There's something living beneath New York City, and it's not happy we've woken it up."
+
+### [<cite>Nightfall Berlin</cite>, by Jack Grimwood, read by Daniel Weyman](https://suffolklibraries.overdrive.com/media/3956033)
+
+> "In 1986, news that East-West nuclear-arms negotiations are taking place lead many to believe the Cold War may finally be thawing. For British intelligence officer Major Tom Fox, however, it is business as usual. Ordered to arrange the smooth repatriation of a defector, Fox is smuggled into East Berlin.
+
+> "But it soon becomes clear that there is more to this than an old man wishing to return home to die - a fact cruelly confirmed when Fox's mission is fatally compromised. Trapped in East Berlin, hunted by an army of Stasi agents and wanted for murder by those on both sides of the Wall, Fox must somehow elude capture and get out alive. But to do so he must discover who sabotaged his mission and why..."
+
+### [<cite>Our Kind of Cruelty</cite>, by Araminta Hall, read by Eleanor Matsuura](https://suffolklibraries.overdrive.com/media/3645205)
+
+> "Mike and Verity have a special game. The Crave.
+
+> "They play it to prove what they already know: that Verity loves Mike. That she needs Mike.
+
+> "Even though she's marrying another man.
+
+> "Now Mike knows that the stakes of their private game are rising.
+
+> "This time, someone has to die..."
+
+### [<cite>Eve of Man</cite>, by Giovanna & Tom Fletcher, read by Charlotte Ritchie & Josh Dylan](https://suffolklibraries.overdrive.com/media/3828220)
+
+> "An unconventional love story set in a dystopian future, <cite>Eve of Man</cite> is the tale of what happens when you turn sixteen and realise you're the most important person in the world. Do you embrace your fate - or do you run from it?"
+
+### [<cite>Grief is the Thing with Feathers</cite>, by Max Porter, read by Jot Davies](https://suffolklibraries.overdrive.com/media/3613597)
+
+> "Part novella, part polyphonic fable, part essay on grief, Max Porter's extraordinary debut combines compassion and bravura style to dazzling effect. Full of angular wit and profound truths, <cite>Grief is the Thing with Feathers</cite> is a startlingly original and haunting debut by a significant new talent."
+
+### [<cite>It's Always the Husband</cite>, by Michele Campbell, read by January LaVoy](https://suffolklibraries.overdrive.com/media/3360182)
+
+> "Kate, Aubrey and Jenny are inseparable at college – friends who promised they'd always be there for each other. But twenty years later, their friendship is about to take a deadly turn. Kate married the gorgeous party boy, Aubrey married up, and Jenny married the boy next door, but when one of the friends dies in shocking circumstances, will everyone assume that it's always the husband? Or could it be the best friend?"

@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Tessa Hadley'
-date: 2019-01-15
+date: 2019-01-16
 author: brandon-king
 category: meet-the-author
 excerpt: "Tessa Hadley tells us what we can expect from her new novel, how she fits writing around teaching, and about the importance of books and reading in her life."
@@ -12,7 +12,7 @@ breadcrumb: meet-the-author
 
 ![Tessa Hadley](/images/featured/featured-tessa-hadley.jpg)
 
-Tessa Hadley is a British author of novels, short stories and non-fiction. Her novels have twice been longlisted for the Orange Prize. Her latest book, [<cite>Late in the Day</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2506746), is published in February.
+Tessa Hadley is a British author of novels, short stories and non-fiction. She won a Windham Campbell Award in 2016, the Hawthornden Prize in 2016, the Edge Hill Prize in 2018, and has been twice longlisted for the Orange Prize. Her latest book, [<cite>Late in the Day</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2506746), is published in February.
 
 ## 1. Who were your literary influences and heroes as you were growing up?
 
