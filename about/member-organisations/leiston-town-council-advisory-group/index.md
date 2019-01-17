@@ -4,6 +4,9 @@ title: Leiston Town Council advisory group
 sidebar: about
 breadcrumb: member-organisations
 ---
+
+![A collage of colourful images from Leiston Library: a magician performing for some children, a boy lying beside a Lego building, a basket of Divine chocolate bars and a boy posing with a Dennis the Menace Aunt Sally board](/images/featured/featured-leiston-friends.jpg)
+
 ## Our aims
 
 * Promote Leiston Library to ensure it continues to be relevant and central to the community
@@ -21,6 +24,7 @@ breadcrumb: member-organisations
 * Bill Howard
 * Chris Laschet
 * Robin Saville
+* Mary Wylie
 * Ex officio library manager: Gayla Rowling
 
 We would like to encourage more young people to join the committee. If you are interested please contact the secretary on codurham@btinternet.com.
@@ -49,7 +53,7 @@ This has all been made possible by generous grants from:
 * Leiston and Sizewell Communities Fund
 * Enabling Communities Fund
 * Leiston Town Council who, as well as giving a grant, support us in so many ways
-* Westleton, Knodishall and Aldringham Parish Council
+* Westleton, Knodishall and Aldringham, Theberton and Eastbridge Parish Councils
 
 ## Fundraising
 
