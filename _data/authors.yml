@@ -7,7 +7,7 @@ alice-violett:
     name: Alice Violett
     job: web content editor
     img: /images/authors/alice-violett.jpg
-    bio: I write and edit content for the Suffolk Libraries website.
+    bio: I write and edit content for the Suffolk Libraries website. <a href="https://www.draliceviolett.com/">Visit my website</a>.
 
 alison-catchpole:
     name: Alison Catchpole
