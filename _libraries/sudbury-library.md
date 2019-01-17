@@ -33,4 +33,5 @@ branch-room-hire: /libraries/room-hire/sudbury-library
 branch-other-facilities: 'Sudbury Tourist Information Centre is located within the library. Find out more on the <a href="https://www.sudburytowncouncil.co.uk/tourist-information-centre-1">Sudbury Town Council website</a>.'
 branch-for-sale: '<a href="https://www.cardsforcharity.co.uk/">Cards for Good Causes</a>: charity Christmas cards and items.'
 breadcrumb: y
+branch-news: "The library will be opening at 9:30am today (Thursday 17 January)."
 ---
