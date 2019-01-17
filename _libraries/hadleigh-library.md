@@ -30,5 +30,4 @@ branch-scan-to-email: y
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/hadleigh-library
 breadcrumb: y
-branch-news: "The library is closed today (Thursday 17 January) due to a burst pipe."
 ---
