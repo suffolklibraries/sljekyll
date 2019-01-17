@@ -10,11 +10,9 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
 	<![endif]-->
 
-	{% if page.title == 'Suffolk Libraries reserve, renew, branches and eLibrary' %}
+	{% if page.meta-title %}
 
-		<meta name="description" content="Reserve and renew titles, download eBooks, eAudio and music, and find libraries and events">
-
-		<title>Home &#8211; Suffolk Libraries</title>
+		<title>{{ page.meta-title | strip_html }} &#8211; Suffolk Libraries</title>
 
 	{% elsif page.url contains "/events/" %}
 
@@ -23,6 +21,12 @@
 	{% else %}
 
     	<title>{{ page.title | strip_html }} &#8211; Suffolk Libraries</title>
+
+	{% endif %}
+
+	{% if page.meta-description %}
+
+		<meta name="description" content="{{ page.meta-description }}">
 
 	{% endif %}
 
