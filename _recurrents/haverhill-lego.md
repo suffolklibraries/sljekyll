@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Lego Club: for 5-12 year-olds."
-recurrent-description: "Contact the library to join the waiting list."
+recurrent-description: "Currently fully booked."
 recurrent-day: every other Sunday
 recurrent-times: 1030-1200
 recurrent-location: haverhill-library
