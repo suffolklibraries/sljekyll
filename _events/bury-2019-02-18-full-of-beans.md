@@ -1,13 +1,16 @@
 ---
-name: "Full House Theatre presents: <cite>Full of Beans</cite>, a fairy tale adventure with a difference"
+name: "Full House Theatre presents: <cite>Full of Beans</cite>, a fairy tale adventure with a difference - FULLY BOOKED"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
 event-start-date: 2019-02-18
 event-start-time: 1030
 event-end-time: 1100
 event-ticket-price: free
+event-category: half-term
 breadcrumb: y
 ---
+
+**This event is now fully booked**
 
 > "Fee-fi-fo-fum, what do magic beans become?"
 

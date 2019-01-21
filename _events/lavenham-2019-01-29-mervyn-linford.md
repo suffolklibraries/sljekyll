@@ -10,4 +10,4 @@ breadcrumb: y
 
 Join us for a talk and book signing from Mervyn Linford, author of [<cite>Journey Down the Stour</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2462399).
 
-Refreshments provided.
+Refreshments provided in return for a £1 donation.

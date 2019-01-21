@@ -6,6 +6,7 @@ event-start-date: 2019-02-18
 event-start-time: 1430
 event-end-time: 1500
 event-ticket-price: free
+event-category: half-term
 breadcrumb: y
 ---
 
