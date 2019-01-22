@@ -10,4 +10,4 @@ event-category: shs
 breadcrumb: y
 ---
 
-Join us for some wellbeing and mindfulness activities designed to boost your mood. Have a go at [Yoga](/events/ipswich-2019-01-27-yoga-tasters/) or [Dance Fit and Core and Stretch](/events/ipswich-2019-01-27-dance-fit-tasters/) as well as drop-in activities including free-to-play board games.
+Join us for some wellbeing and mindfulness activities designed to boost your mood. Have a go at [Yoga](/events/ipswich-2019-01-27-yoga-tasters/) or [Dance Fit and Core and Stretch](/events/ipswich-2019-01-27-dance-fit-tasters/) as well as drop-in activities including free-to-play board games and information from DW Fitness First about health and fitness and what they offer.
