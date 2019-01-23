@@ -24,6 +24,7 @@ If you have experience in a customer facing role, enjoy helping people, have a w
 This role is for 12.75 hours on average per week in the following pattern:
 
 **Week 1:** Thurs 8:45am - 4:45pm; Sat 10am - 5pm
+
 **Week 2:** Tues 10am - 4pm; Thurs 8:45am - 4:45pm
 
 The rate of pay is &pound;8.17 per hour.

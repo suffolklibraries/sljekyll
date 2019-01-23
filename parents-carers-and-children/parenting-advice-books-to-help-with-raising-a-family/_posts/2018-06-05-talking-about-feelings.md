@@ -28,6 +28,10 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 
 > "Both words and pictures portray the children in many different situations at home and at school, and show how they change over time, how emotions can escalate, and how people can help each other."
 
+## [<cite>Sweep</cite>, by Louise Greig & Júlia Sardà](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2396366)
+
+> "Ed's bad mood begins as something really small, hardly a thing at all. But before long it grows, gathers pace, and spreads through the whole town. Can Ed sweep his troubles away?"
+
 ## [<cite>Words and Your Heart</cite>, by Kate Jane Neal](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2273421)
 
 > "Told through the eyes of Pip and Cat, this book demonstrates the importance of what we say - both positive and negative.
