@@ -16,6 +16,20 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 
 > "This delightful picture book explores what it means to be brave. Young children can discover that there are many ways of being brave, from standing up for yourself or others, to trying new things. Discussion boxes offer an adult opportunities to discuss the issues directly with their child audience."
 
+## [<cite>Who's Afraid of the Dark?: a story about being brave</cite>, by Nancy Parent, Britt Allcroft & W. Awdry](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2384207)
+
+> "When Gordon gets asked to pull the night train, he's too embarrassed to admit he's afraid of the dark! Can Thomas help his friend overcome his fear and get the job done?"
+
+## [<cite>Little Monkey</cite>, by Marta Altés](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2240691)
+
+> "It's hard being a little monkey in a big troop, in an even bigger jungle - and this little monkey has had enough of always missing out! She's off to climb to the top of the tallest tree in the jungle and she's going to do it all on her own! Except that there's someone following close behind - someone with claws and stripes and rather sharp teeth!"
+
+## [<cite>A Little Bit Brave</cite>, by Nicola Kinner](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2503061)
+
+> "Logan is a stay-at-home bunny - but he's about to discover how brave he really is. It's time for his first adventure, and he doesn't want to go. But there's an amazing world outside, if he can just pluck up courage to look.
+
+> "This is a funny, reassuring story which shows that we're all braver than we think."
+
 ## [<cite>Max the Brave</cite>, by Ed Vere](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2137197)
 
 > "This is Max. Max the Brave, Max the Fearless, Max the Mouse-catcher. But, in order to be a Mouse-catcher, Max needs to know what a mouse is, so off he goes to find out."
@@ -58,10 +72,6 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 
 > "We all worry, but nobody worries quite like Walter. As the Seriously Competitive Sports and Funday approaches, Walter's worries start to roll out of control. What can his best friend Winnie and the other Woollybottomers do to help?"
 
-## [<cite>Brave Little Owl</cite>, by Penny Little & Sean Julian](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=607995)
-
-> "Little Owl is teased by her brothers when her every attempt at flying ends in disaster. And all she wants is to make her Grandma's birthday perfect by showing her how brave she is. Her friends try to explain that lots of things can seem scary at first. But it takes some kind words from Grandpa to really help Little Owl face her fears."
-
 ## [<cite>What If...?</cite>, by Anthony Browne](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1615518)
 
 > "Joe is nervous about his first big party, and as Mum walks him along the darkening street to his friend's house, his imagination starts to run wild. They search for the right place, looking through the windows, wondering 'what if ...?' while making surprising discoveries along the way."
@@ -82,7 +92,7 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 
 > "Ruby loves being Ruby. Until, one day, she finds a worry. at first it's not such a big worry, and that's alright, but then it starts to grow. It gets bigger and bigger every day and it makes Ruby sad. How can Ruby get rid of her worry and feel like herself again?"
 
-## [<cite>Where the Bugagoo Lives</cite>, by Sean Taylor & Neal Layton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2003928)
+## [<cite>Where the Bugaboo Lives</cite>, by Sean Taylor & Neal Layton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2003928)
 
 > "A wonderfully interactive, which-way adventure story which follows Floyd and his sister into the dark, shadowy valley behind their house. The valley is full of all kinds of creepy, freaky, weaselly creatures and the scariest of them all is the bugaboo!"
 
@@ -99,3 +109,33 @@ You can [sign up for a library card online](/help/joining-the-library/) for free
 ## [<cite>Is a Worry Worrying You?</cite>, by Ferida Wolff](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2342226)
 
 > "Adults think of childhood as a carefree time, but the truth is that children worry, and worry a lot, especially in our highly pressurized era. This book addresses children's worries with humor and imagination, as hilarious scenarios teach kids the use of perspective and the art of creative problem-solving."
+
+## [<cite>What to do When You Worry Too Much: a kid's guide to overcoming anxiety</cite>, by Dawn Huebner & Bonnie Matthews](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1763812)
+
+> "<cite>What to Do When You Worry Too Much</cite> is an interactive self-help book designed to guide 6-12 year olds and their parents through the cognitive-behavioral techniques most often used in the treatment of generalised anxiety."
+
+## [<cite>My Hidden Chimp: helping children to understand and manage their emotions, thinking and behaviour with ten helpful habits</cite>, by Steve Peters & Jeff Battista](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2395331)
+
+> "Using the Chimp Model from the best-selling 'Chimp Paradox', this is a guide with easy to follow explanations and simple strategies to help children understand how their chimp brain works.
+
+> "With 10 habits to put into practice, such as smiling, saying sorry and talking about your feelings, children can work on controlling their anxiety and emotions and understanding why they sometimes behave and feel the way they do."
+
+## [<cite>Isle of You</cite>, by David LaRochelle & Kim Jaine](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2489991)
+
+> "Some days are harder to get through than others. Whenever you're sad, or lonely, or angry, there's one place you can always go: the Isle of You. Take a moment to shake off your worries, then set sail to a land where your dreams can come true. Soar on the back of an eagle, hunt for treasure, watch dancing polar bears on roller skates - anything you can imagine is yours."
+
+## [<cite>Me and My Fear</cite>, by Francesca Sanna](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2403417)
+
+> "When a young refugee girl has to travel to a new country and start at a new school, she is accompanied by her Fear who tells her to be alone and afraid, growing bigger and bigger every day with questions like 'how can you hope to make new friends if you don't understand their language?' But this little girl is stronger than her Fear."
+
+## [<cite>Outsmarting Worry</cite>, by Dawn Huebner & Margaret Suggs](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2249384)
+
+> "This easy-to-follow illustrated text presents strategies for 9-13 year olds with anxiety. It teaches them about, and normalizes, their symptoms and provides a set of concrete steps to overcome them. The tried and tested techniques are based on the most up-to-date psychological treatments of anxiety, including CBT and ACT."
+
+## [<cite>Looking After Your Mental Health</cite>, by Alice James, Louie Stowell, Freya Harrison & Nancy Leschikoff](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2390954)
+
+> "The mental of health of children and teenagers hits the headlines on a regular basis, with more and more young people reporting mental health difficulties. This book provides a gentle guide to good mental health, with input from experts in both psychology and psychiatry."
+
+## [<cite>The Book of No Worries: a survival guide for growing up</cite>, by Lizzie Cox & Tanya Stevanovic](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2430746)
+
+> "A survival guide to help young people cope with peer pressure, puberty and all the worries in between; focusing on the emotional wellbeing and mental health of tweens."

@@ -1,0 +1,24 @@
+---
+layout: default
+title: "Upcoming events at Newmarket Library"
+breadcrumb: events
+---
+
+<h1 class="{% include /c/page-title.html %}">Upcoming events at Newmarket Library</h1>
+
+{% assign newmarket-events = site.events | where: "location", "newmarket-library" | sort: "event-start-date" %}
+
+{% for event in newmarket-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> - {{ event.event-end-date | date: "%a %-d %b" }} <span>{{ event.event-start-time }} - {{ event.event-end-time }}</span>
+        </p>
+
+    </article>
+
+{% endfor %}
