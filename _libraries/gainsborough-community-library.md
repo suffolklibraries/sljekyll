@@ -38,5 +38,4 @@ branch-other-facilities: '<ul>
                           <li>Literacy and learning games available to borrow</li>
                           </ul>'
 branch-pride-and-periods: y
-branch-news: 'The library will be opening at 10:30am on Thursday 24 January 2019 due to a staff meeting.'
 ---
