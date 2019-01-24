@@ -17,6 +17,18 @@ See also:
 * [Reading Well for young people](/health/lists/health-lists/reading-well-for-young-people/)
 * [Links for your health and wellbeing](/health/links/)
 
+## [<cite>Open Your Heart: learn to love your life and love yourself</cite>, by Gemma Cairney & Aurelia Lange](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2305957)
+
+> "Full of honest and practical advice from The Surgery agony aunt Gemma Cairney and a whole host of trained professionals and real people, <cite>Open Your Heart</cite> is a best friend in a book. From heartbreak and heartache to body image and everything in between, it will help you learn to love your body, your friends and your family, and tell you what to do if things go wrong."
+
+## [<cite>Dr Christian's Guide to Growing Up Online (#awkward), by Dr Christian Jessen](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2353080)
+
+> "<cite>Dr Christian's Guide to Growing Up Online</cite> takes a social-media style tour through such wide-ranging topics as health, puberty, anxiety, gender, sexuality, stress, grief and any difficult questions in between."
+
+## [<cite>Positively Teenage: a positively brilliant guide to teenage well-being</cite>, by Nicola Morgan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2359194)
+
+> "<cite>Positively Teenage</cite> gives you tools to approach your teenage years with optimism and understanding and to develop real wellbeing for life. The media so often portray adolescence negatively but this book shows you how to approach these years far more positively so that you can really flourish and be in control. You'll find simple strategies to develop a positive attitude, growth mindset, self-understanding, determination and resilience and you'll see how those strengths will help you cope with any challenges, enjoy life and achieve your potential."
+
 ## [<cite>Blame My Brain: the amazing teenage brain revealed</cite>, by Nicola Morgan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1370342)
 
 > "Nicola Morgan's accessible and humourous examination of the ups and downs of the teenage brain deals with powerful emotions, the need for more sleep, the urge to take risks, the difference between genders, the reasons behind addiction and depression, and what lies ahead."
@@ -49,17 +61,9 @@ See also:
 
 > "This book is part mystery, part adventure. The mystery is working out who you truly are, and the adventure comes in planning the kind of life you really want to lead. From body image and bullying to love, sex and more, plus expert advice on silencing your inner voice of doom, it is an invaluable guide to living a happy life."
 
-## [<cite>Bullies, Cyberbullies and Frenemies</cite>, by Michele Elliott](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1283288)
-
-> "Are there practical things you can do to stop being bullied - at home, at school and online? What are frenemies and how can you deal with them? How can you learn to make friends and respect yourself? This guide will tell you what bullying is, where it happens, and what you can do about it."
-
 ## [<cite>Banish Your Self-Esteem Thief: a cognitive behavioural therape workbook on building positive self-esteem for young people</cite>, by Kate Collins-Donnelly](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1578248)
 
 > "Build confidence and self-esteem with this fun and effective workbook for young people. Packed with activities and real-life stories, this imaginative workbook will show you what self-esteem is, how it develops, the impact it can have and how all this applies to your own self-esteem."
-
-## [<cite>Don't Let Your Emotions Run Your Life for teens: dialectical behaviour therapy skills for helping teens manage mood swings, control angry outbursts, and get along with others</cite>, by Sheri Van Dijk](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=378062)
-
-> "Everyone knows how difficult it can be to keep overwhelming feelings like anxiety, anger, and fear under control, but many forget that these emotions are amplified even more during the teenage years, when healthy coping mechanisms have not fully developed and tumultuous relationships with family and friends are of primary importance."
 
 ## [<cite>Fighting Invisible Tigers: stress management for teens</cite>, by Earl Hipp](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1955226)
 
@@ -75,6 +79,24 @@ See also:
 
 > "There is also a section on personality types - introverts and extroverts - and quizzes to help you discover what sort of person you are, how you relate to others and how to deal with difficult situations."
 
-## [<cite>Open Your Heart: learn to love your life and love yourself</cite>, by Gemma Cairney & Aurelia Lange](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2305957)
+## [<cite>The Art of Being Normal</cite>, by Lisa Williamson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1888043)
 
-> "Full of honest and practical advice from The Surgery agony aunt Gemma Cairney and a whole host of trained professionals and real people, <cite>Open Your Heart</cite> is a best friend in a book. From heartbreak and heartache to body image and everything in between, it will help you learn to love your body, your friends and your family, and tell you what to do if things go wrong."
+> "David is funny and quirky and has always felt different from other people - but he also has a huge secret that only his two best friends know. Ever since he can remember, he has felt like a girl trapped in the body of a boy."
+
+## [<cite>Eleanor and Park</cite>, by Rainbow Rowell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1307073)
+
+> "Eleanor is the new girl in town, and with her chaotic family life, her mismatched clothes and unruly red hair, she couldn't stick out more if she tried. Park is the boy at the back of the bus. Black T-shirts, headphones, head in a book - he thinks he's made himself invisible. But not to Eleanor.
+
+> "Slowly, steadily, through late-night conversations and an ever-growing stack of mix tapes, Eleanor and Park fall for each other. They fall in love the way you do the first time, when you're young, and you feel as if you have nothing and everything to lose."
+
+## [<cite>Wonder</cite>, by R. J. Palacio](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2102472)
+
+> "'My name is August. I won't describe what I look like. Whatever you're thinking, it's probably worse.'
+
+> "Auggie wants to be an ordinary 10-year-old. He does ordinary things - eating ice cream, playing on his Xbox. He feels ordinary - inside. But ordinary kids don't make other ordinary kids run away screaming in playgrounds. Ordinary kids aren't stared at wherever they go.
+
+> "Born with a terrible facial abnormality, Auggie has been home-schooled by his parents his whole life. Now, for the first time, he's being sent to a real school. All he wants is to be accepted. But can he convince his new classmates that he's just like them, underneath it all?"
+
+## [<cite>Face</cite>, by Benjamin Zephaniah](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2304223)
+
+> "In his debut novel, poet Benjamin Zephaniah tackles the moving story of a young man, Martin, whose life is completely changed when his face is badly scarred in a joyriding accident."
