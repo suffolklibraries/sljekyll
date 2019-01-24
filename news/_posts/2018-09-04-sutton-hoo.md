@@ -24,27 +24,21 @@ Allison Girling, property operations manager for Sutton Hoo said: "Closing the s
 
 There will be several library roadshows until March 2019. The full details of library roadshows confirmed so far is:
 
-* [23 January 2019 - talk for adults at Bury St Edmunds Library](/events/bury-2019-01-23-sutton-hoo-talk/)
 * [26 January 2019 - Lowestoft Library](/events/lowestoft-2019-01-26-sutton-hoo/)
 * [28 January 2019 - talk for adults at Southwold Library](/events/southwold-2019-01-28-sutton-hoo/)
 * [2 February 2019 - Halesworth Library](/events/halesworth-2019-02-02-sutton-hoo/)
 * [9 February 2019 - Felixstowe Library](/events/felixstowe-2019-02-09-sutton-hoo/)
 * [13 February 2019 - Stowmarket Library](/events/stowmarket-2019-02-13-sutton-hoo/)
-* [18 February 2018 - Shotley (Suffolk Libraries Local)](/events/shotley-2019-02-18-sutton-hoo/)
+* [18 February 2019 - Shotley (Suffolk Libraries Local)](/events/shotley-2019-02-18-sutton-hoo/)
+* [19 February 2019 - Beccles Library](/events/beccles-2019-02-19-sutton-hoo/)
 * [20 February 2019 - Southwold Library](/events/southwold-2019-02-20-sutton-hoo/)
 * [21 February 2019 - Newmarket Library](/events/newmarket-2019-02-21-sutton-hoo/)
 * [22 February 2019 - Stoke Library](/events/stoke-2019-02-22-sutton-hoo/)
 * [23 February 2019 - Woodbridge Library](/events/woodbridge-2019-02-23-sutton-hoo/)
 * [2 March 2019 - Ipswich County Library](/events/ipswich-2019-03-02-sutton-hoo/)
 * [9 March 2019 - Aldeburgh Library](/events/aldeburgh-2019-03-09-sutton-hoo/)
+* [12 March 2019 - Rushmere (Suffolk Libraries Local)](/events/rushmere-2019-03-12-sutton-hoo/)
 * [16 March 2019 - Debenham Library](/events/debenham-2019-03-16-sutton-hoo/)
-
-Future dates (with full details to be confirmed):
-
-* 12 February 2019 - Beccles Library
-* 13 March 2019 - Rushmere (Suffolk Libraries Local)
-
-The specific details of each event, including timings, will be confirmed nearer the time. We also hope to add more library events.
 
 For more information, visit the [National Trust website](https://www.nationaltrust.org.uk/sutton-hoo/features/sutton-hoo-goes-on-tour/).
 
