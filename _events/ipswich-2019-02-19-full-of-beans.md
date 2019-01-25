@@ -1,5 +1,5 @@
 ---
-name: "Full House Theatre presents: <cite>Full of Beans</cite>, a fairy tale adventure with a difference"
+name: "Full House Theatre presents: <cite>Full of Beans</cite>, a fairy tale adventure with a difference - SOLD OUT"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2019-02-19
@@ -9,6 +9,8 @@ event-ticket-price: free
 event-category: half-term
 breadcrumb: y
 ---
+
+**This event is now sold out**
 
 > "Fee-fi-fo-fum, what do magic beans become?"
 
