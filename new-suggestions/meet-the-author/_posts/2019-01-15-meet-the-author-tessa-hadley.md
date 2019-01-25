@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Tessa Hadley'
-date: 2019-01-16
+date: 2019-01-15
 author: brandon-king
 category: meet-the-author
 excerpt: "Tessa Hadley tells us what we can expect from her new novel, how she fits writing around teaching, and about the importance of books and reading in her life."
