@@ -11,3 +11,5 @@ breadcrumb: y
 Come along to the library in costume or your best muggle outfit for our fifth annual children's Harry Potter Night!
 
 Enjoy a Sorting Hat ceremony, Platform 3/4, craft activities, refreshments and much more.
+
+Advance booking by contacting the library is essential.

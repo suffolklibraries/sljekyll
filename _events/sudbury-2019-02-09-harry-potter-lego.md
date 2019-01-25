@@ -9,6 +9,6 @@ event-ticket-price: 0.50p
 breadcrumb: y
 ---
 
-Join us in our regular Lego Club spot for a special Harry Potter themed event.
+Lego Club members are invited for a special Harry Potter themed event.
 
 Book in advance by contacting the library.
