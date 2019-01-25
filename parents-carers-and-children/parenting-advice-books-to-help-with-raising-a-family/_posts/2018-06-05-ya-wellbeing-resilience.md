@@ -21,7 +21,7 @@ See also:
 
 > "Full of honest and practical advice from The Surgery agony aunt Gemma Cairney and a whole host of trained professionals and real people, <cite>Open Your Heart</cite> is a best friend in a book. From heartbreak and heartache to body image and everything in between, it will help you learn to love your body, your friends and your family, and tell you what to do if things go wrong."
 
-## [<cite>Dr Christian's Guide to Growing Up Online (#awkward), by Dr Christian Jessen](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2353080)
+## [<cite>Dr Christian's Guide to Growing Up Online (#awkward)</cite>, by Dr Christian Jessen](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2353080)
 
 > "<cite>Dr Christian's Guide to Growing Up Online</cite> takes a social-media style tour through such wide-ranging topics as health, puberty, anxiety, gender, sexuality, stress, grief and any difficult questions in between."
 

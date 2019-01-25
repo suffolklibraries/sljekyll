@@ -12,4 +12,4 @@ breadcrumb: y
 
 **Please note the library is closed from 12:30-1pm**
 
-Join us for jigsaws, moodboosting music, tea and coffee. There will also be wellbeing books on display to browse and borrow.
+Join us for jigsaws, moodboosting music, tea and coffee this [Super Happy Sunday](/news/super-happy-sunday/). There will also be wellbeing books on display to browse and borrow.
