@@ -13,3 +13,5 @@ breadcrumb: y
 Join us for a Harry Potter themed Lego session. Have a go at creating Hogwarts or a Fantastic Beast!
 
 Attendees also have the opportunity to purchase raffle tickets for the chance to win Harry Potter themed prizes. All funds to the library.
+
+**Sessions are limited to 25, so advance booking by contacting the library is essential.**
