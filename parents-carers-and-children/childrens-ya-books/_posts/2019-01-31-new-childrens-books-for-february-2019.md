@@ -20,9 +20,9 @@ breadcrumb: childrens-ya-books
 
 > "Join Spot and his friends as they explore all the different corners and books in the library. Going to the library is an exciting first experience for toddlers, and Spot is no different - he loves reading!"
 
-### [<cite>Where's Mr Duck</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2502359) and [<cite>Where's Mrs Kangaroo?</cite>](), by Ingela P. Arrhenius
+### [<cite>Where's Mr Duck</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2502359), by Ingela P. Arrhenius
 
-Another two titles in the popular series.
+New in the popular series.
 
 ### [<cite>Splish, Splash, Ducky</cite>, by Lucy Cousins](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2501680)
 
