@@ -1,0 +1,21 @@
+<div class="bg-light-gray dark-gray">
+
+    <div class="custom-max-width">
+
+        <ul class="list ma0 ph2 ph3-ns">
+
+        {% for link in site.data.navs.[include.menu] %}
+
+          <li class="dib mr2 mr3-ns">
+
+            <a href="{{ link.link }}" class="f6 db pv1 dark-blue no-underline">{{ link.label }}</a>
+
+          </li>
+
+        {% endfor %}
+
+        </ul>
+
+    </div>
+
+</div>

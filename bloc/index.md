@@ -10,6 +10,8 @@ featured-alt: "Magazine cut out collage"
 
 <article>
 
+  {% include hnav-small.html menu="bloc" %}
+
     <header class="ph2 ph3-ns bg-washed-blue bb b--light-gray pv3 pv4-l">
 
         <div class="custom-max-width">
