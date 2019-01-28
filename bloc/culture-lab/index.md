@@ -5,15 +5,7 @@ layout: blank
 
 <article>
 
-    <div class="bg-light-gray dark-gray">
-
-        <div class="custom-max-width">
-
-            <p class="ma0 ph2 ph3-ns"><a href="/bloc/" class="f6 db pv1 dark-blue no-underline">&larr; BLOC home page</a></p>
-
-        </div>
-
-    </div>
+  {% include hnav-small.html menu="bloc" %}
 
     <header class="bg-white dark-gray">
 
