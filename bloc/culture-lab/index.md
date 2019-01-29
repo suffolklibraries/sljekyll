@@ -3,32 +3,28 @@ title: Culture Lab
 layout: blank
 ---
 
+{% include hnav-small.html menu="bloc" %}
+
 <article>
 
-  {% include hnav-small.html menu="bloc" %}
-
-    <header class="bg-white dark-gray">
+    <header class="bg-white dark-gray ph2 ph3-ns">
 
         <div class="custom-max-width">
 
-            <div class="ph2 ph3-ns">
+            <div class="pt2 pb4 pt4-l">
 
-                <div class="pt2 pb4 pt4-l">
+                <h1 class="ma0 f6 f5-ns tracked ttl small-caps fw3 dark-red lh-title">Culture Lab</h1>
 
-                    <h1 class="ma0 f6 f5-ns tracked ttl small-caps fw3 dark-red lh-title">Culture Lab</h1>
+                  <p class="mt0 mb3 f4 f2-ns b lh-title measure-narrow">A week-long, mixed media residency working in partnership with METAL (30 July&#8211;3 August 2018)</p>
 
-                      <p class="mt0 mb3 f4 f2-ns b lh-title measure-narrow">A week-long, mixed media residency working in partnership with METAL (30 July&#8211;3 August 2018)</p>
+                  <video class="mw-100 h-auto db ma0 pa0 bg-black" controls poster="/images/bloc/culture-lab-cover.jpg">
 
-                      <video class="mw-100 h-auto db ma0 pa0 bg-black" controls poster="/images/bloc/culture-lab-cover.jpg">
+                      <source src="/videos/culture-lab.webm" type="video/webm">
+                      <p>Your browser doesn't support this video. Instead, you can <a href="/videos/culture-lab.mp4">watch the video</a> in a video player.</p>
 
-                          <source src="/videos/culture-lab.webm" type="video/webm">
-                          <p>Your browser doesn't support this video. Instead, you can <a href="/videos/culture-lab.mp4">watch the video</a> in a video player.</p>
+                  </video>
 
-                      </video>
-
-                      <p class="pt3 mt3 mt4-ns bt b--dark-red f5 f4-ns fw3 measure-wide">10 Suffolk-based artists took over Ipswich County Library to look at the role creativity plays in nurturing community, developing their ideas and practice. Meet the artists&hellip;</p>
-
-                    </div>
+                  <p class="pt3 mt3 mt4-ns bt b--dark-red f5 f4-ns fw3 measure-wide">10 Suffolk-based artists took over Ipswich County Library to look at the role creativity plays in nurturing community, developing their ideas and practice. Meet the artists&hellip;</p>
 
                 </div>
 
