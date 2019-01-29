@@ -24,8 +24,6 @@ Allison Girling, property operations manager for Sutton Hoo said: "Closing the s
 
 There will be several library roadshows until March 2019. The full details of library roadshows confirmed so far is:
 
-* [26 January 2019 - Lowestoft Library](/events/lowestoft-2019-01-26-sutton-hoo/)
-* [28 January 2019 - talk for adults at Southwold Library](/events/southwold-2019-01-28-sutton-hoo/)
 * [2 February 2019 - Halesworth Library](/events/halesworth-2019-02-02-sutton-hoo/)
 * [9 February 2019 - Felixstowe Library](/events/felixstowe-2019-02-09-sutton-hoo/)
 * [13 February 2019 - Stowmarket Library](/events/stowmarket-2019-02-13-sutton-hoo/)
