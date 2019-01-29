@@ -26,7 +26,7 @@ Writing fiction is different to journalism, but the essence is the same: buildin
 
 In his book, the former <cite>Guardian</cite> editor Alan Rusbridger sums up what I was taught at journalism school: “If you write for dukes, only dukes will understand, but if you write for the dustman, both will understand. Keep it short, keep it simple, write it in language you would use if you were telling your mum or dad.” I try to apply that to my novels, too, because whether you’re writing 90,000 words or 900, every word should be justified.
 
-## 3. Your debut novel is <cite>The Familiars</cite>. Can you give us a previous of what Suffolk readers can expect from it?
+## 3. Your debut novel is <cite>The Familiars</cite>. Can you give us a preview of what Suffolk readers can expect from it?
 
 It’s reading group fiction set during the Lancashire witch trials of 1612, and follows 17-year-old Fleetwood Shuttleworth, who is pregnant after three stillbirths, and her midwife Alice Gray, who becomes caught up in the trials. Even though they’re from different walks of life – Fleetwood is the privileged wife of a member of the gentry and Alice is poor and illiterate – they have a fierce friendship and need one another to survive.
 
