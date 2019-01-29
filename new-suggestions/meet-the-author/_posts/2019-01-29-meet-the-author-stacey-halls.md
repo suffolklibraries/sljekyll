@@ -4,7 +4,7 @@ title: 'Meet the Author: Stacey Halls'
 date: 2019-01-29
 author: brandon-king
 category: meet-the-author
-excerpt: "Stacey Halls tells us about her debut novel, <cite>The Familiars</cite> and the importance of libraries in her life."
+excerpt: "Stacey Halls tells us about her debut novel, <cite>The Familiars</cite>, and the importance of libraries in her life."
 featured-image: /images/featured/featured-stacey-halls.jpg
 featured-alt: "Stacey Halls"
 breadcrumb: meet-the-author
