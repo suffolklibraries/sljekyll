@@ -10,6 +10,24 @@ breadcrumb: events
 
 {% for event in newmarket-events %}
 
+{% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+
+{% if event.event-end-date %}
+
+    {% capture event-time-seconds %}{{event.event-end-date | date: '%s' }}{% endcapture %}
+
+{% else %}
+
+    {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+
+{% endif %}
+
+{% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+
+{% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+
+{% if now-unix <= event-time %}
+
     <article class="{% include /c/listing.html %}">
 
         <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
@@ -20,5 +38,7 @@ breadcrumb: events
         </p>
 
     </article>
+
+{% endif %}
 
 {% endfor %}
