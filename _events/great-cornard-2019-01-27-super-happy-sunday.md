@@ -10,4 +10,4 @@ event-category: shs
 breadcrumb: y
 ---
 
-Join us for craft activities, a family quiz, mindful colouring and relaxing music for [Super Happy Sunday](/news/super-happy-sunday/). We've also got [children's Yoga](/events/great-cornard-2019-01-27-childrens-yoga/), [adults' Yoga](/events/great-cornard-2019-01-27-adults-yoga/) and [Music Therapy](/great-cornard-2019-01-27-music-therapy/) taster sessions.
+Join us for craft activities, a family quiz, mindful colouring and relaxing music for [Super Happy Sunday](/news/super-happy-sunday/). We've also got [children's Yoga](/events/great-cornard-2019-01-27-childrens-yoga/), [adults' Yoga](/events/great-cornard-2019-01-27-adults-yoga/) and [Music Therapy](/events/great-cornard-2019-01-27-music-therapy/) taster sessions.

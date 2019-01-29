@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Developing a library arts programme with young people, library staff and artists"
 date: 2018-07-31
 author: melissa-matthews
-category: ["blog", "bloc"]
+category: blog
 excerpt: "Arts programme coordinator Melissa Matthews talks about the next big step in the development of the Suffolk Libraries Arts Programme."
 featured-image: /images/featured/featured-arts-blog-2.jpg
 featured-alt: Things young people would like to see in libraries. Image produced at an arts workshop at Sybil Andrews Academy.

@@ -19,7 +19,7 @@ This LGBT History Month, we've made our Young Adult LGBT recommendation list big
 
 > "The new kid at school is not like anyone Kat has met before. Raven is 'gender-fluid'. Not a boy. Or a girl. But kind of both - sometimes, sort of. At first the class are fascinated, intrigued. But people like labels. They like to put things in boxes. Boy? Girl? Blue? Pink? Do you need to make a choice? Does anyone have a right to know? You decide."
 
-## [<cite>Release</cite>, by Patrick Ness](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2152530)
+## [<cite>Release</cite>, by Patrick Ness](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2377191)
 
 > "Today will change Adam Thorn's life. Between his religious family, unpleasant boss and his ex-boyfriend, the bindings of his world are coming undone. And way across town, a ghost has risen from the lake. Is there time for Adam to find his release?"
 
@@ -99,6 +99,12 @@ This LGBT History Month, we've made our Young Adult LGBT recommendation list big
 
 > "So when Aki and her friend Lori set off on a trip to a small Mexican town for the summer, and Aki meets Christa - slightly-older, far-more-experienced - it seems her theory is prime for the testing. But something tells her it's not going to be that easy."
 
+## [<cite>We Are Okay</cite>, by Nina LaCour](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2381518)
+
+> "Marin hasn't spoken to anyone from her old life since the day she left everything behind. No one knows the truth about those final weeks. Not even her best friend Mabel. But even thousands of miles away from the California coast, at college in New York, Marin still feels the pull of the life and tragedy she's tried to outrun.
+
+> "Now, months later, alone in an emptied dorm for winter break, Marin waits. Mabel is coming to visit and Marin will be forced to face everything that's been left unsaid and finally confront the loneliness that has made a home in her heart."
+
 ## Non-fiction
 
 ## [<cite>Trans Mission: my quest for a beard</cite>, by Alex Bertie](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2271482)
@@ -114,11 +120,5 @@ This LGBT History Month, we've made our Young Adult LGBT recommendation list big
 ## [<cite>This Book is Gay</cite>, by Juno Dawson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1646443)
 
 > "Former PSHCE teacher and acclaimed YA author Juno Dawson, formerly known as James Dawson, gives an uncensored look at sexual orientation and gender identity. Including testimonials from people across the gender and sexual spectrums, this frank, funny, fully inclusive book explores everything anyone who ever dared to wonder wants to know - from sex to politics, how to pull, stereotypes, how to come-out and more."
-
-## [<cite>We Are Okay</cite>, by Nina LaCour](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2381518)
-
-> "Marin hasn't spoken to anyone from her old life since the day she left everything behind. No one knows the truth about those final weeks. Not even her best friend Mabel. But even thousands of miles away from the California coast, at college in New York, Marin still feels the pull of the life and tragedy she's tried to outrun.
-
-> "Now, months later, alone in an emptied dorm for winter break, Marin waits. Mabel is coming to visit and Marin will be forced to face everything that's been left unsaid and finally confront the loneliness that has made a home in her heart."
 
 **We recommend [Mermaids](http://www.mermaidsuk.org.uk/), an organisation that works with families of transgender children.**

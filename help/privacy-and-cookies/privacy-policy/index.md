@@ -37,4 +37,4 @@ You may [login to your library account](https://suffolk.spydus.co.uk/cgi-bin/spy
 
 If you have any concerns about the data we hold about you, contact **help@suffolklibraries.co.uk**
 
-[See our full privacy notice &rarr;](/help/privacy-policy/full-privacy-notice)
+[See our full privacy notice &rarr;](/help/privacy-and-cookies/privacy-policy/full-privacy-notice)

@@ -22,4 +22,4 @@ Shelly Darwin, Chair of North East Area Committee, said: "I would like to congra
 
 The weekly library was made possible thanks to funding from Ipswich Borough Council's North East Area Committee and Suffolk County Councillor Sandra Gage's Locality Budget.
 
-Staff and volunteers at the pop-up library are holding a special [Christmas party](/events/rushmere-2018-12-12-xmas-party/) to celebrate this success on Wednesday 12 December at 1:30pm for the general public and at 3:30pm for schoolchildren. There will be carol singing, a Christmas quiz, crafts, mince pies and other refreshments. The event is free and everyone is invited to attend.
+Staff and volunteers at the pop-up library are holding a special Christmas party to celebrate this success on Wednesday 12 December at 1:30pm for the general public and at 3:30pm for schoolchildren. There will be carol singing, a Christmas quiz, crafts, mince pies and other refreshments. The event is free and everyone is invited to attend.
