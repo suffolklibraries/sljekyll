@@ -29,6 +29,7 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/bury-st-edmunds-library
+branch-room-hire-text: "Conference and meeting room facilities."
 branch-display-space: Space available for table top or banner displays in internal and external foyer. Public notice board also available.
 branch-which-travel: y
 breadcrumb: y
