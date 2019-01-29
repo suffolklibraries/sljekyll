@@ -2,7 +2,7 @@
 name: "Sutton Hoo roadshow"
 location: rushmere
 location-text: Rushmere (Suffolk Libraries Local)
-event-start-date: 2019-03-12
+event-start-date: 2019-03-13
 event-start-time: 1330
 event-end-time: 1630
 breadcrumb: y

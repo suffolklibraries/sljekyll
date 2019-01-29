@@ -35,7 +35,7 @@ There will be several library roadshows until March 2019. The full details of li
 * [23 February 2019 - Woodbridge Library](/events/woodbridge-2019-02-23-sutton-hoo/)
 * [2 March 2019 - Ipswich County Library](/events/ipswich-2019-03-02-sutton-hoo/)
 * [9 March 2019 - Aldeburgh Library](/events/aldeburgh-2019-03-09-sutton-hoo/)
-* [12 March 2019 - Rushmere (Suffolk Libraries Local)](/events/rushmere-2019-03-12-sutton-hoo/)
+* [13 March 2019 - Rushmere (Suffolk Libraries Local)](/events/rushmere-2019-03-12-sutton-hoo/)
 * [16 March 2019 - Debenham Library](/events/debenham-2019-03-16-sutton-hoo/)
 
 For more information, visit the [National Trust website](https://www.nationaltrust.org.uk/sutton-hoo/features/sutton-hoo-goes-on-tour/).
