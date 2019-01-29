@@ -13,7 +13,7 @@ sidebar: health
 
 Here is the new timetable for Open Space at Felixstowe Library for 17 January - 21 February 2019! Lots of exciting things coming up and some great discussions.
 
-If you have any questions please do get in touch, or just come along to a session on Thursdays at [Felixstowe Library](/libraries/felixstowe-library/)&#8211; all are welcome!
+If you have any questions please do get in touch, or just come along to a session on Thursdays from 2-4pm at [Felixstowe Library](/libraries/felixstowe-library/)&#8211; all are welcome!
 
 Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &rarr; tea/coffee. You can come and just listen if you prefer and drop in and out as you please.
 

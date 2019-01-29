@@ -13,7 +13,7 @@ sidebar: health
 
 Here is the new timetable for Open Space at Stowmarket Library for 23 October - 18 December 2018! Lots of exciting things coming up and some great discussions.
 
-If you have any questions please do get in touch, or just come along to a session on Tuesdays at [Stowmarket Library](/libraries/stowmarket-library/)&#8211; all are welcome!
+If you have any questions please do get in touch, or just come along to a session on Tuesdays from 11am-1pm at [Stowmarket Library](/libraries/stowmarket-library/)&#8211; all are welcome!
 
 Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &rarr; tea/coffee. You can come and just listen if you prefer and drop in and out as you please.
 

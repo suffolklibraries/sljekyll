@@ -13,7 +13,7 @@ sidebar: health
 
 Here is the new timetable for Open Space at Haverhill Library for 4 January - 22 March 2019! Lots of exciting things coming up and some great discussions.
 
-If you have any questions please do get in touch, or just come along to a session on Fridays at [Haverhill Library](/libraries/haverhill-library/) &#8211; all are welcome!
+If you have any questions please do get in touch, or just come along to a session on Fridays from 12:30-2:30pm at [Haverhill Library](/libraries/haverhill-library/) &#8211; all are welcome!
 
 Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &rarr; tea/coffee. You can come and just listen if you prefer and drop in and out as you please.
 
