@@ -66,7 +66,7 @@ Discussion: Coming off psychiatric medication. How can this affect us? A nurse p
 </td>
 
 <td>
-Activity: Visit Christchurch Mansion and see the Rodin Kiss and Tell exhibition
+Activity: Time to Talk Day: talk from Suffolk Mind and an Ipswich Town footballer about mental health and support available
 </td>
 </tr>
 
@@ -96,7 +96,7 @@ Activity: Eating healthily - bring recipes and ideas to swap
 </td>
 
 <td>
-Discussion: What is loss/grief and how does it affect us? (Part 1)
+Discussion: What is loss/grief and how does it affect us?
 </td>
 </tr>
 
@@ -106,7 +106,7 @@ Discussion: What is loss/grief and how does it affect us? (Part 1)
 </td>
 
 <td>
-Activity: Arts and crafts TBC
+Activity: Quiz
 </td>
 </tr>
 
@@ -116,7 +116,7 @@ Activity: Arts and crafts TBC
 </td>
 
 <td>
-Discussion: Life after loss (Part 2)
+Activity: Arts taster with Inside Out
 </td>
 </tr>
 
@@ -126,7 +126,7 @@ Discussion: Life after loss (Part 2)
 </td>
 
 <td>
-Activity: TBC
+Activity: Visir Christchurch Mansion and see Rodin's The Kiss sculpture exhibition
 </td>
 </tr>
 
