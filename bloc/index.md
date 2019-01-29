@@ -8,9 +8,9 @@ featured-image: "/images/bloc/culture-lab.jpg"
 featured-alt: "Magazine cut out collage"
 ---
 
-<article>
+{% include hnav-small.html menu="bloc" %}
 
-  {% include hnav-small.html menu="bloc" %}
+<article>
 
     <header class="ph2 ph3-ns bg-washed-blue bb b--light-gray pv3 pv4-l">
 
@@ -120,6 +120,16 @@ featured-alt: "Magazine cut out collage"
             </div>
 
         </div>
+
+    </section>
+
+    <section class="pa2 pa3-ns pv5-l bg-light-gray dark-gray b bb b--silver">
+
+      <div class="custom-max-width">
+
+        {% include gallery.html gallery="bloc" %}
+
+      </div>
 
     </section>
 

@@ -1,0 +1,13 @@
+<div class="flex flex-wrap justify-between">
+
+{% for pic in site.data.galleries.[include.gallery] %}
+
+  <figure class="mb3 w-30">
+
+    <img src="{{ pic.url }}" alt="{{ pic.alt }}">
+
+  </figure>
+
+{% endfor %}
+
+</div>
