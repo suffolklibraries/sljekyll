@@ -18,6 +18,7 @@ branch-for-sale: Stamps, A4 envelopes, plastic wallets, ballpoint pens, canvas b
 branch-social-media: y
 branch-twitter: burylibsuffolk
 branch-facebook: burystedmundslibrary
+branch-instagram: BuryStEdsLibrary
 branch-accessibility: https://www.accessable.co.uk/venues/bury-st-edmunds-library
 branch-payments: cash, cheques and cards accepted
 branch-bookdrop: y
