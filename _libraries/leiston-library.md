@@ -33,4 +33,5 @@ branch-faxing: y
 breadcrumb: y
 branch-for-sale: books of stamps
 branch-other-facilities: "Art in the Library - exhibitions of local artists' work"
+branch-news: '<a href="/news/leiston-survey/">Tell Leiston Library how you use their services and what else you&apos;d like to see there &rarr;</a>'
 ---
