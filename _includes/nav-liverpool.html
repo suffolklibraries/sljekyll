@@ -1,0 +1,29 @@
+<div class="flex-l flex-wrap-l justify-between-l">
+
+  {% for entry in site.data.navs.[include.nav] %}
+
+  <article class="w-30-l mb3">
+
+    <h2 class="f5 lh-title"><a href="{{ entry.link }}" class="no-underline blue">{{ entry.title }}</a></h2>
+
+    {% if entry.image %}
+
+    <a href="{{ entry.link }}" class="custom-force-white no-underline">
+
+      <img src="{{ entry.image }}" alt="{[ entry.alt ]}" class="db mb1">
+
+    </a>
+
+    {% endif %}
+
+    {% if entry.blurb %}
+
+    <p class="ma0">{{ entry.blurb }}</p>
+
+    {% endif %}
+
+  </article>
+
+  {% endfor %}
+
+</div>
