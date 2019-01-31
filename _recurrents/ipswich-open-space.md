@@ -1,6 +1,6 @@
 ---
 recurrent-title: 'Open space: drop in for health info and chats. All welcome.'
-recurrent-description: 'See the <a href="/health/open-space-timetable-ipswich/">latest Ipswich Open Space timetable</a>.'
+recurrent-description: 'See the <a href="/health/open-space/ipswich/">latest Ipswich Open Space timetable</a>.'
 recurrent-day: Wednesday
 recurrent-times: 1300-1500
 recurrent-location: ipswich-county-library
