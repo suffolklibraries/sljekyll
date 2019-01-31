@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 category: health
-title: Pride and Periods
+title: Pride & Periods
 breadcrumb: health
 sidebar: health
 ---
