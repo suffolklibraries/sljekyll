@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Recommended new eBooks and music for February 2019"
-date: 2019-02-05
+date: 2019-01-31
 author: lisa-brennan
 category: elibrary-picks
 tag: elibrary
