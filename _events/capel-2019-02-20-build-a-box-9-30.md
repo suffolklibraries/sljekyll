@@ -8,7 +8,7 @@ event-ticket-price: 6.50
 breadcrumb: y
 ---
 
-Come along and build either a bird or bug box for your garden.
+Adults and children are invited to build either a bird or bug box for their garden.
 
 Ticket price includes refreshments.
 
