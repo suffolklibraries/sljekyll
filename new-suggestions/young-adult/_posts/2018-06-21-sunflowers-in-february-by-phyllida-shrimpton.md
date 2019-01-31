@@ -19,7 +19,7 @@ genre-alt: "Sunflowers in February"
 
 > "Lily wakes up one crisp Sunday morning on the side of the road. She has no idea how she got there. It is all very peaceful, and very beautiful. It is only when the police car, and then the ambulance arrive, and she sees her own body, that she realises that she is in fact dead.
 
-> "But what is she supposed do now? Lily has no option but to follow her body and see her family - her parents and her twin brother start falling apart. And then her twin brother Ben gives her a once in a deathtime opportunity - to use his own body for a while. But will Lily give Ben his body back? She is beginning to have a rather good time."
+> "But what is she supposed do now? Lily has no option but to follow her body and see her family - her parents and her twin brother - start falling apart. And then her twin brother Ben gives her a once in a deathtime opportunity - to use his own body for a while. But will Lily give Ben his body back? She is beginning to have a rather good time."
 
 This is a beautiful, moving book. It captured grief wonderfully for me and I adored the supernatural twist. Very few books have managed to move me as much as this one.
 
