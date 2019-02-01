@@ -1,7 +1,7 @@
 ---
 recurrent-title: "Crafting Around"
 recurrent-description: Bring your own crafts and enjoy refreshments and chatting to others.
-recurrent-day: Fridays from 8 February
+recurrent-day: Friday
 recurrent-times: 1430-1600
 recurrent-location: lavenham-library
 recurrent-location-display-name: Lavenham Library
