@@ -1,5 +1,5 @@
 ---
-title: "Mental health, wellbeing and information services"
+title: "Mental health & wellbeing information service"
 layout: full-width
 breadcrumb: home
 ---
