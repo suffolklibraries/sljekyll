@@ -2,7 +2,7 @@
 name: "John Peel's Shed"
 location: glemsford-library
 location-text: Glemsford Library
-event-alt-location: Village Hall (adjacent to the library)
+event-alt-location: Glemsford Village Hall (adjacent to the library)
 event-start-date: 2019-02-08
 event-doors-open: 1915
 event-start-time: 1930
