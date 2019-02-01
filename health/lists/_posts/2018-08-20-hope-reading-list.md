@@ -4,12 +4,12 @@ title: "Suicide: recommended titles"
 date: 2018-08-20
 author: sarah-lungley
 category: health-lists
-excerpt: Survivors of Bereavement by Suicide (SOBS) have put together a reading list for children and adults affected by suicide.
+excerpt: Hope After Suicide Loss (HOPE) have put together a reading list for children and adults affected by suicide.
 breadcrumb: health
 sidebar: health
 ---
 
-[Survivors of Bereavement by Suicide (SOBS)](https://uksobs.org/) have put together a reading list for children and adults affected by suicide.
+[Hope After Suicide Loss (HOPE)](http://hopeaftersuicideloss.org.uk/) have put together a reading list for children and adults affected by suicide.
 
 ## [<cite>A Grief Observed</cite>, by C. S. Lewis](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=125964)
 
