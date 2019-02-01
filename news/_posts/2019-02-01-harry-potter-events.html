@@ -1,0 +1,40 @@
+---
+layout: sidebar-right
+title: "Suffolk Libraries celebrates Harry Potter Book Night"
+date: 2019-02-01
+author: hannah-foulstone
+category: news
+excerpt: "Several libraries across Suffolk are hosting Harry Potter events in February to celebrate J. K. Rowling's bestselling books."
+breadcrumb: news
+---
+
+<p>Several libraries across Suffolk are hosting Harry Potter events in February to celebrate J. K. Rowling's bestselling books.</p>
+
+<p>Harry Potter Book Night officially takes place on Thursday 7 February. As in previous years, several libraries are hosting events, which include fancy dress competitions, Sorting Hat ceremonies, quizzes and more.</p>
+
+<p>Southwold Library manager Charlotte Clark said: "Harry Potter proves as popular as ever – even 22 years after the first book came out! The children that come to Harry Potter Book Night are a wide spread of ages. Some have read the books, others have watched the films, but lots get their first taste of Harry Potter when their parents read them the books before they can read themselves.
+
+<p>"It’s great that the kids, their parents, our volunteers and all the staff can share in something together that we've all enjoyed and we hope our events can reflect that."</p>
+
+<p>As well as all the original Harry Potter books, our <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH?HOMEPRMS=GENPARAMS">online catalogue</a> and <a href="/elibrary/">eLibrary</a> contain several Harry Potter related gems, including <a href="/new-suggestions/articles/borrowbox-harry-potter/">eAudiobooks read by Stephen Fry, Andrew Lincoln and Eddie Redmayne</a>, and <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2258988"><cite>Harry Potter: A History of Magic</a>, a non-fiction book based on last year's British Library exhibition.</p>
+
+<p>A list of confirmed events follows.</p>
+
+{% assign potter-events = site.events | where: "event-category", "harry-potter" | sort: "event-start-date" %}
+
+{% for event in potter-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> - {{ event.event-end-date | date: "%a %-d %b" }} <span>{{ event.event-start-time }} - {{ event.event-end-time }}</span>
+
+        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+        </p>
+
+    </article>
+
+{% endfor %}

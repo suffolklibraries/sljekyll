@@ -6,7 +6,7 @@ event-start-date: 2019-02-21
 event-start-time: 1500
 event-end-time: 1700
 event-ticket-price: free
-event-category: half-term
+event-category: ["half-term", "harry-potter"]
 breadcrumb: y
 ---
 

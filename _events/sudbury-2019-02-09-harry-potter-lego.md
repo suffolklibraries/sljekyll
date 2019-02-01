@@ -6,6 +6,7 @@ event-start-date: 2019-02-09
 event-start-time: 1430
 event-end-time: 1600
 event-ticket-price: 0.50p
+event-category: harry-potter
 breadcrumb: y
 ---
 

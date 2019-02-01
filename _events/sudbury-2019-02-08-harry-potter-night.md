@@ -1,10 +1,11 @@
 ---
-name: "Harry Potter Night"
+name: "Harry Potter Book Night"
 location: sudbury-library
 location-text: Sudbury Library
 event-start-date: 2019-02-08
 event-start-time: 1815
 event-ticket-price: 3, accompanying adults free
+event-category: harry-potter
 breadcrumb: y
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "Harry Potter Night"
+name: "Harry Potter Book Night"
 location: glemsford-library
 location-text: Glemsford Library
 event-start-date: 2019-02-08
@@ -7,6 +7,7 @@ event-doors-open: 1815
 event-start-time: 1830
 event-end-time: 1930
 event-ticket-price: free
+event-category: harry-potter
 breadcrumb: y
 ---
 

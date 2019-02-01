@@ -1,10 +1,11 @@
 ---
-name: "Harry Potter Night"
+name: "Harry Potter Book Night"
 location: southwold-library
 location-text: Southwold Library
 event-start-date: 2019-02-07
 event-start-time: 1800
 event-end-time: 1900
+event-category: harry-potter
 breadcrumb: y
 ---
 

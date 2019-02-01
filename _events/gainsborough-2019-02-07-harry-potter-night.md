@@ -1,10 +1,11 @@
 ---
-name: "Harry Potter Night"
+name: "Harry Potter Book Night"
 location: gainsborough-community-library
 location-text: Gainsborough Library
 event-start-date: 2019-02-07
 event-start-time: 1530
 event-end-time: 1700
+event-category: harry-potter
 breadcrumb: y
 ---
 
