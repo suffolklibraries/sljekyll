@@ -2,7 +2,7 @@
 name: "Realise Futures drop-in: advice on employment and training for adults with Learning Disabilities and on the Autistic Spectrum"
 location: halesworth-library
 location-text: Halesworth Library
-event-start-date: 2019-02-05
+event-start-date: 2019-02-19
 event-start-time: 0930
 event-end-time: 1500
 event-category: health
