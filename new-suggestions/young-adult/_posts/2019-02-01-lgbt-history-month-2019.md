@@ -15,6 +15,11 @@ breadcrumb: young-adult
 
 This LGBT History Month, we've added lots of great new titles to our Young Adult LGBT recommendation list. Find your new favourite book here or find even more suggestions on our [2018 Young Adult LGBT list](/new-suggestions/young-adult/lgbt-history-month-2018) and [2017 Young Adult LGBT list](/new-suggestions/young-adult/titles-for-lgbt-history-month/).
 
+See also:
+
+* [YA eBooks and eAudiobooks for LGBT History Month on OverDrive](https://suffolklibraries.overdrive.com/collection/238094)
+* [YA eAudiobooks for LGBT History Month on BorrowBox](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/mainPage.html?b2bSite=4172&fromPage=1&expand=14436&b2bSite=4172)
+
 ## Fiction
 
 ### [<cite>Pulp</cite>, by Robin Talley](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2473484)
