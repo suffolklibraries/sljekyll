@@ -1,5 +1,5 @@
 ---
-name: "Harry Potter Night"
+name: "Harry Potter Book Night"
 location: stowmarket-library
 location-text: Stowmarket Library
 event-start-date: 2019-02-08
