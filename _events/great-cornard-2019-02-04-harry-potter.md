@@ -8,4 +8,4 @@ event-category: harry-potter
 breadcrumb: y
 ---
 
-Drop into the library to have a go at our Harry Potter crafts and family quiz.
+Drop into the library to find and name the Harry Potter characters hidden around the library, enter our colouring competition and make some crafts.
