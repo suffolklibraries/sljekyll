@@ -1,5 +1,5 @@
 ---
-name: "Exhibition: Life on the Street"
+name: "Exhibition: Life on the Streets"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2019-02-01
