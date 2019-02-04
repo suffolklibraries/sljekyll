@@ -26,4 +26,5 @@ branch-photocopying: available on printer
 branch-scan-to-email: y
 breadcrumb: y
 branch-pride-and-periods: y
+branch-news: "The library will be open us usual during the road resurfacing works from 19 - 26 February."
 ---
