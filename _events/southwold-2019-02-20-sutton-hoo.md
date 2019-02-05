@@ -2,6 +2,7 @@
 name: "Sutton Hoo roadshow"
 location: southwold-library
 location-text: Southwold Library
+event-alt-location: Stella Peskett Millennium Hall, Mights Road, Southwold, IP18 6BE
 event-start-date: 2019-02-20
 event-start-time: 1100
 event-end-time: 1500

@@ -29,7 +29,7 @@ There will be several library roadshows until March 2019. The full details of li
 * [13 February 2019 - Stowmarket Library](/events/stowmarket-2019-02-13-sutton-hoo/)
 * [18 February 2019 - Shotley (Suffolk Libraries Local)](/events/shotley-2019-02-18-sutton-hoo/)
 * [19 February 2019 - Beccles Library](/events/beccles-2019-02-19-sutton-hoo/)
-* [20 February 2019 - Southwold Library](/events/southwold-2019-02-20-sutton-hoo/)
+* [20 February 2019 - Stella Peskett Millennium Hall (hosted by Southwold Library)](/events/southwold-2019-02-20-sutton-hoo/)
 * [21 February 2019 - Newmarket Library](/events/newmarket-2019-02-21-sutton-hoo/)
 * [22 February 2019 - Stoke Library](/events/stoke-2019-02-22-sutton-hoo/)
 * [23 February 2019 - Woodbridge Library](/events/woodbridge-2019-02-23-sutton-hoo/)
