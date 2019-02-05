@@ -31,12 +31,12 @@ There will be several library roadshows until March 2019. The full details of li
 * [19 February 2019 - Beccles Library](/events/beccles-2019-02-19-sutton-hoo/)
 * [20 February 2019 - Stella Peskett Millennium Hall (hosted by Southwold Library)](/events/southwold-2019-02-20-sutton-hoo/)
 * [21 February 2019 - Newmarket Library](/events/newmarket-2019-02-21-sutton-hoo/)
-* [22 February 2019 - Stoke Library](/events/stoke-2019-02-22-sutton-hoo/)
 * [23 February 2019 - Woodbridge Library](/events/woodbridge-2019-02-23-sutton-hoo/)
 * [2 March 2019 - Ipswich County Library](/events/ipswich-2019-03-02-sutton-hoo/)
 * [9 March 2019 - Aldeburgh Library](/events/aldeburgh-2019-03-09-sutton-hoo/)
 * [13 March 2019 - Rushmere (Suffolk Libraries Local)](/events/rushmere-2019-03-12-sutton-hoo/)
 * [16 March 2019 - Debenham Library](/events/debenham-2019-03-16-sutton-hoo/)
+* [30 March 2019 - Stoke Library](/events/stoke-2019-03-30-sutton-hoo/)
 
 For more information, visit the [National Trust website](https://www.nationaltrust.org.uk/sutton-hoo/features/sutton-hoo-goes-on-tour/).
 
