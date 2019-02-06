@@ -3,6 +3,13 @@ layout: full-width-narrow
 title: Saxmundham Mobile Library Route 2
 breadcrumb: mobiles-home
 ---
+
+<div class="{% include /c/generic-panel.html %}">
+
+    <p>Saxmundham Mobile Library Route 2 will not be visiting today (6 February) due to a vehicle fault.</p>
+
+</div>
+
 ## Contact us:
 
 Manager: Rob Alcraft and Peter Fiske
