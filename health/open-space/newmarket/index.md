@@ -7,7 +7,7 @@ breadcrumb: health
 
 ![Open Space logo](/images/featured/featured-open-space-logo.jpg)
 
-Here is the new timetable for Open Space at Newmarket Library for 10 October - 19 December 2018! Lots of exciting things coming up and some great discussions.
+Here is the new timetable for Open Space at Newmarket Library for 13 February - 3 April 2019! Lots of exciting things coming up and some great discussions.
 
 If you have any questions please do get in touch, or just come along to a session on Wednesdays from 2:30-4:30pm at [Newmarket Library](/libraries/newmarket-library/)&#8211; all are welcome!
 
@@ -28,111 +28,81 @@ Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &ra
 
 <tr>
 <td>
-10.10.18
+13.02.19
 </td>
 
 <td>
-Discussion: "The trouble with families"
-</td>
-</tr>
-
-<tr>
-<td>
-17.10.18
-</td>
-
-<td>
-Activity: Paper folding - hedgehogs
+Valentine's afternoon tea
 </td>
 </tr>
 
 <tr>
 <td>
-24.10.18
+20.02.19
 </td>
 
 <td>
-Discussion: What's your favourite book? Do you have a reason?
-</td>
-</tr>
-
-<tr>
-<td>
-31.10.18
-</td>
-
-<td>
-Activity: Making Halloween pumpkins
+Chair Aerobics
 </td>
 </tr>
 
 <tr>
 <td>
-07.11.18
+27.02.19
 </td>
 
 <td>
-Discussion: Bring your favourite recipe to share - is there a story attached to it? Plus another topic TBC.
-</td>
-</tr>
-
-<tr>
-<td>
-14.11.18
-</td>
-
-<td>
-Activity: Christmas card crafts
+Games" 'Who Am I?' and '5 Names'
 </td>
 </tr>
 
 <tr>
 <td>
-21.11.18
+06.03.19
 </td>
 
 <td>
-Discussion: Positive affirmations
-</td>
-</tr>
-
-<tr>
-<td>
-28.11.18
-</td>
-
-<td>
-Activity: Making worry dolls
+Group discussion - TBC
 </td>
 </tr>
 
 <tr>
 <td>
-05.12.18
+13.03.19
 </td>
 
 <td>
-Activity: Making Christmas material wreaths + discussion TBC
-</td>
-</tr>
-
-<tr>
-<td>
-12.12.18
-</td>
-
-<td>
-Activity: Board games
+Eating well for mental health
 </td>
 </tr>
 
 <tr>
 <td>
-19.12.18
+20.03.19
 </td>
 
 <td>
-Christmas session with mince pies and music
+Recipe discussion and exchange
+</td>
+</tr>
+
+<tr>
+<td>
+27.03.19
+</td>
+
+<td>
+Talk: TBC
+</td>
+</tr>
+
+<tr>
+<td>
+03.04.19
+</td>
+
+<td>
+Planning session
 </td>
 </tr>
 </table>
