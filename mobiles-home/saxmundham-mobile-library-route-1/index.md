@@ -4,12 +4,6 @@ title: Saxmundham Mobile Library Route 1
 breadcrumb: mobiles-home
 ---
 
-<div class="{% include /c/generic-panel.html %}">
-
-    <p>Saxmundham Mobile Library Route 1 will not be running today (5 February) due to an electrical fault.</p>
-
-</div>
-
 ## Contact us:
 
 Manager: Rob Alcraft and Peter Fiske
