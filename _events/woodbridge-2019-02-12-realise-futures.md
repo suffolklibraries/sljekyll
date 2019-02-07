@@ -3,7 +3,7 @@ id: wood-mta
 name: "Realise Futures drop-in for people with a learning disability and/or autism"
 location: woodbridge-library
 location-text: Woodbridge Library
-event-start-date: 2019-02-19
+event-start-date: 2019-02-12
 event-start-time: 1000
 event-end-time: 1200
 breadcrumb: y
