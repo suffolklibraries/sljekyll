@@ -4,17 +4,17 @@ title: "Suffolk Libraries mental health project shortlisted for libraries award"
 date: 2019-02-06
 author: james-powell
 category: news
-excerpt: "A pioneering mental health project run by Suffolk Libraries has been shortlisted for an EDGE Libraries Conference award."
+excerpt: "A pioneering mental health project run in seven Suffolk Libraries has been shortlisted for an EDGE Libraries Conference award."
 breadcrumb: news
 ---
 
-A pioneering mental health project run by Suffolk Libraries has been shortlisted for an award.
+A pioneering mental health project run in seven Suffolk Libraries has been shortlisted for an award.
 
-Our [Open Space](/health/open-space/) sessions are co-ordinated by Suffolk Libraries’ Mental health & wellbeing information service, known as New Chapters.
+The [Open Space](/health/open-space/) project has been announced as a finalist in the social category of the EDGE Libraries Conference Awards which are held in Edinburgh as part of an annual libraries conference. The awards recognise and promote outstanding library-based initiatives which celebrate the value of libraries across the UK.
 
-Open Space has been announced as a finalist in the social category of the EDGE Libraries Conference Awards which are held in Edinburgh as part of an annual libraries conference. The awards recognise and promote outstanding library-based initiatives which celebrate the value of libraries across the UK.
+Open Space sessions are co-facilitated by Suffolk Libraries with Norfolk and Suffolk NHS Foundation Trust and community mental health support and housing providers ([Julian Support](http://www.juliansupport.org/), [Richmond Fellowship](https://www.richmondfellowship.org.uk/) and [Suffolk Mind](https://www.suffolkmind.org.uk/)).
 
-Open Space sessions were launched in Ipswich Library in 2014 and run in partnership with Norfolk and Suffolk NHS Foundation Trust and community mental health support and housing providers ([Julian Support](http://www.juliansupport.org/), [Richmond Fellowship](https://www.richmondfellowship.org.uk/) and [Suffolk Mind](https://www.suffolkmind.org.uk/)). The groups run in seven libraries: [Bury St Edmunds](/libraries/bury-st-edmunds-library/), [Felixstowe](/libraries/felixstowe-library/), [Haverhill](/libraries/haverhill-library), [Ipswich](/libraries/ipswich-county-library/), [Newmarket](/libraries/newmarket-library/), [Stowmarket](/libraries/stowmarket-library/) and [Sudbury](/libraries/sudbury-library/), with two more planned to launch in the next year. The sessions received around 3,600 attendances last year.
+Open Space is a key element of Suffolk Libraries’ mental health & wellbeing information service, known as New Chapters. The sessions were launched in Ipswich Library in 2014 and now groups run in seven libraries: [Bury St Edmunds](/libraries/bury-st-edmunds-library/), [Felixstowe](/libraries/felixstowe-library/), [Haverhill](/libraries/haverhill-library), [Ipswich](/libraries/ipswich-county-library/), [Newmarket](/libraries/newmarket-library/), [Stowmarket](/libraries/stowmarket-library/) and [Sudbury](/libraries/sudbury-library/), with two more planned to launch in the next year. The sessions received around 3,600 attendances last year.
 
 The sessions aim to provide an open and welcoming environment, where people can discuss any issue of mental health or wellbeing. The groups are held weekly, in an open area of the library so people can come and go as they please and there is no sense of being hidden from the community or the pressure of walking into a room.
 
