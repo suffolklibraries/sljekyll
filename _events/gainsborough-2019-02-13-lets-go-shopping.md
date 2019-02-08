@@ -1,5 +1,5 @@
 ---
-name: "'Let&apos; Go Shopping' stories and messy fun for 2-5 year-olds"
+name: "'Let&apos;s Go Shopping' stories and messy fun for 2-5 year-olds"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2019-02-13
