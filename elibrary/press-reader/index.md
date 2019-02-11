@@ -19,11 +19,10 @@ PressReader allows you to read or download full digital editions of key newspape
 
 **Your session will expire after 30 days. After 30 days, you can reactivate your account:**
 
-1. Click your name in the top right-hand corner then click 'Sign Out'
-2. Follow steps 1-4 above
-3. When the 'New User' box appears, click the 'Please sign in' link for existing users at the bottom of the box
-4. Enter your email address and password and click 'Sign In'
-5. You can now use the service again.
+1. If you aren't already logged in, sign in using your email address and password
+2. Click your name in the top right-hand corner, then click 'My Account'
+3. Under the 'Library or Group' section of 'Social and Linked Networks', click 'Unlink Account'
+4. Follow stops 3 and 4 above.
 
 ### On an Apple or Android tablet or smartphone
 
@@ -39,10 +38,8 @@ PressReader allows you to read or download full digital editions of key newspape
 **Your session will expire after 30 days. After 30 days, you can reactivate your account:**
 
 1. Press the 'Accounts' button on the bottom right of the screen and select your account
-2. Press 'Sign out' at the bottom of the screen
-3. Press 'Sign in' on the Accounts screen
-4. Repeat steps 5-9 above
-5. You can now use the service again.
+2. Press 'Library and Group', then 'Unlink Account'
+4. Repeat steps 5 and 6 above.
 
 ## Reading and downloading digital magazines with PressReader
 
