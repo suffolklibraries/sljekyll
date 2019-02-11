@@ -1,5 +1,5 @@
 ---
-name: "Quiz night with fish & chips: Chantry Library vs Broomhill Library customers"
+name: "Quiz night with fish & chips: Chantry Library vs Broomhill Library customers - FULLY BOOKED"
 location: chantry-library
 location-text: Chantry Library
 event-start-date: 2019-03-02
@@ -8,6 +8,8 @@ event-end-time: 2200
 event-ticket-price: "Bring a raffle prize"
 breadcrumb: y
 ---
+
+**This event is now fully booked**
 
 Chantry Library customers are invited to pit their wits against Broomhill Library in our joint quiz. Come as a team or on your own and enjoy a fish and chip supper.
 

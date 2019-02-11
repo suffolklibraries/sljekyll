@@ -1,5 +1,5 @@
 ---
-name: "Quiz night with fish & chips: Broomhill Library vs Chantry Library customers"
+name: "Quiz night with fish & chips: Broomhill Library vs Chantry Library customers - FULLY BOOKED"
 location: broomhill-library
 location-text: Broomhill Library
 event-alt-location: Chantry Library, Hawthorn Drive, Ipswich, IP2 0QY
@@ -9,6 +9,8 @@ event-end-time: 2200
 event-ticket-price: "Bring a raffle prize"
 breadcrumb: y
 ---
+
+**This event is now fully booked**
 
 Broomhill Library customers are invited to pit their wits against Chantry Library in our joint quiz at Chantry. Come as a team or on your own and enjoy a fish and chip supper.
 

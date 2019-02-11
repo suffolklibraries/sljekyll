@@ -4,12 +4,6 @@ title: Saxmundham Mobile Library Route 4
 breadcrumb: mobiles-home
 ---
 
-<div class="{% include /c/generic-panel.html %}">
-
-<p>Saxmundham Mobile Library will not be visiting today (8 February).</p>
-
-</div>
-
 ## Contact us:
 
 Manager: Rob Alcraft and Peter Fiske
