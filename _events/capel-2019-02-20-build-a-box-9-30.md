@@ -5,6 +5,7 @@ location-text: Capel St Mary Library
 event-start-date: 2019-02-20
 event-start-time: 0930
 event-ticket-price: 6.50
+event-category: half-term
 breadcrumb: y
 ---
 
