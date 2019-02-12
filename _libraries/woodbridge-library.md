@@ -38,4 +38,5 @@ branch-room-hire: /libraries/room-hire/woodbridge-library
 branch-other-facilities: 'Suffolk Coastal District Council customer services. Visit the <a href="http://www.eastsuffolk.gov.uk/contact-us/">Suffolk Coastal and Waveney Councils website</a> for opening times.'
 breadcrumb: y
 branch-news: 'Woodbridge Library is looking for <a href="/volunteer/home-library-service/">Home Library Service volunteers</a>.'
+meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, room hire, children's activities, NAS Lego Clubs, older people's activities, health & wellbeing groups."
 ---

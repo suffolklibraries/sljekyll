@@ -29,4 +29,5 @@ branch-photocopying: available courtesy of the Community Trust
 branch-scan-to-email: y
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
+meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, children's activities, Lego and Minecraft clubs, older people's activities, dementia café, health checks."
 ---

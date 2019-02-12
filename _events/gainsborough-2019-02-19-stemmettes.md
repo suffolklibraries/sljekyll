@@ -9,6 +9,8 @@ event-category: half-term
 breadcrumb: y
 ---
 
+**Bookings for this event close on Thursday 14 February**
+
 Girls aged 12+ are invited to meet at the library for a trip to BT at Adastral Park, where they can learn about the exciting career opportunities open to them in Science, Technology, Engineering and Maths (STEM).
 
 Transport and food provided.

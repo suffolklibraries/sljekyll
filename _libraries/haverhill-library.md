@@ -40,4 +40,5 @@ branch-other-facilities: '<ul>
                           <li><a href="/news/move-it/">Move It sports equipment available to borrow</a></li>
                           <li>Reach Haverhill foodbank donation point</li>
                           </ul>'
+meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, sports equipment, free sanitary products."
 ---

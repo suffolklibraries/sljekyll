@@ -30,4 +30,5 @@ branch-scan-to-email: y
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/hadleigh-library
 breadcrumb: y
+meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, Lego Club, older people's activities."
 ---

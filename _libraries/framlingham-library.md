@@ -29,4 +29,5 @@ branch-other-facilities: '<ul>
                           <li>Framlingham Town Council services Mon-Thu 10am-4pm and at other times by arrangement. See the <a class="blue" href="https://framlingham.com/framlingham-town-council/">Framlingham Town Council website</a>.</li>
                           <li>Used postage stamp collection point in aid of St Elizabeth&apos;s Hospice</li>
                           </ul>'
+meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, Lego Club, older people's activities."
 ---

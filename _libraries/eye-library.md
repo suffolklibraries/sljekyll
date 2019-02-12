@@ -24,4 +24,5 @@ branch-photocopying: A4 available
 branch-scan-to-email: y
 breadcrumb: y
 branch-payments: cash, cheques and cards accepted
+meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, Scratch coding club, pop-up café."
 ---

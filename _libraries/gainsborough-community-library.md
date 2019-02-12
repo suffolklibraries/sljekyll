@@ -38,4 +38,5 @@ branch-other-facilities: '<ul>
                           <li>Literacy and learning games available to borrow</li>
                           </ul>'
 branch-pride-and-periods: y
+meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, sports equipment, free sanitary products."
 ---

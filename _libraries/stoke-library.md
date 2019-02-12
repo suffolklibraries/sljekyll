@@ -27,4 +27,5 @@ branch-scan-to-email: y
 breadcrumb: y
 branch-pride-and-periods: y
 branch-news: "The library will be open us usual during the road resurfacing works from 19 - 26 February."
+meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, free sanitary products."
 ---

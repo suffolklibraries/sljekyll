@@ -41,4 +41,5 @@ branch-for-sale: Poetry book collated by Newmarket Library Friend Christine - £
 breadcrumb: y
 branch-pride-and-periods: y
 branch-news: Newmarket Library is currently looking for Code Club volunteers. Contact the library for more information and to get involved.
+meta-description: "Free computer access, wifi, printing, children's activities, older people's activities, health & wellbeing groups, sports equipment, free sanitary products."
 ---
