@@ -7,7 +7,6 @@ category: childrens-ya-books
 excerpt: "Find your child's next read among these highly-commended illustrated books and junior fiction."
 featured-image: /images/featured/featured-waterstones-children-2019.jpg
 featured-alt: "The Boy Who Grew Dragons, Little Leaders: Bold Women in Black History, A Winter's Promise"
-featured-link-text: "Check out the picture books and books for younger and older children nominated for the Waterstones Book Prize"
 breadcrumb: childrens-ya-books
 ---
 
