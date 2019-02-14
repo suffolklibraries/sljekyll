@@ -3,9 +3,9 @@ layout: sidebar-right
 title: "Improving library users' wellbeing at Thurston Library"
 date: 2018-10-24
 author: alice-violett
-category: blog
+category: news
 excerpt: "The Department for Digital, Culture, Media & Sport recently interviewed Friends of Thurston Library chairman Richard Fawcett. The clip the DCMS produced will form part of a forthcoming longer video about Suffolk Libraries and highlights the real difference the library makes to the wellbeing of the local community."
-breadcrumb: blog
+breadcrumb: news
 ---
 
 The Department for Digital, Culture, Media & Sport recently interviewed Friends of [Thurston Library](/libraries/thurston-library/) chairman Richard Fawcett. The clip the DCMS produced will form part of a forthcoming longer video about Suffolk Libraries and highlights the real difference the library makes to the wellbeing of the local community.

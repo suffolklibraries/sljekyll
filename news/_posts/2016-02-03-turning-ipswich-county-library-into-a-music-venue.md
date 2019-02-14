@@ -3,9 +3,9 @@ layout: sidebar-right
 title: Turning Ipswich County Library into a music venue
 date: 2016-02-03 07:37:37+00:00
 author: daniel-harvey
-category: blog
+category: news
 excerpt: Community lead Daniel Harvey talks about converting a library into a popular music venue, and how he managed to buy too much beer for a gig.
-breadcrumb: blog
+breadcrumb: news
 ---
 Gone are the days when libraries were places where everyone was expected to be silent! This is highlighted by a series of upcoming gigs at Ipswich Library over this year.
 

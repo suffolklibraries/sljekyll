@@ -3,9 +3,9 @@ layout: sidebar-right
 title: Using Zendesk to make our customer service better
 date: 2015-06-02 10:53:19+00:00
 author: maddie-smith
-category: blog
+category: news
 excerpt: Maddie talks about how we changed our customer service to improve how we deal with your problems. We're also a lot quicker now!
-breadcrumb: blog
+breadcrumb: news
 ---
 > We couldn’t wish for a better library service – it is superb and everybody is always so helpful and friendly.
 

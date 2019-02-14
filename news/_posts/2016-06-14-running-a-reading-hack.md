@@ -3,9 +3,9 @@ layout: sidebar-right
 title: Running a reading hack
 date: 2016-06-14 13:05:00+00:00
 author: matt-shenton
-category: blog
+category: news
 excerpt: "Matt looks at the how, costs and why of running a 'reading hack' &#8211; and of passing over its organisation to students."
-breadcrumb: blog
+breadcrumb: news
 ---
 Anyone who works in libraries is always keen to find new ways of engaging with young people, so hearing about something called ‘[Reading Hack](http://readinghack.org.uk/about)’ from The [Reading Agency](https://readingagency.org.uk/) in 2015 certainly piqued my interest. This mix of creative activities, volunteering and reading advocacy certainly sounded brilliant to staff at Suffolk Libraries, but I found the concept quite difficult to grasp - even after the Reading Agency introduced it at an LBaRTs county training day. Who organised and ran Reading Hack groups? What would be the cost to the library service? How is it promoted to [young people](http://readinghack.org.uk/toolkits)? What resources were available?
 

@@ -3,9 +3,9 @@ layout: sidebar-right
 title: 'In celebration of libraries (for me, it&#8217;s personal)'
 date: 2016-02-05 13:32:18+00:00
 author: alison-wheeler
-category: blog
+category: news
 excerpt: Our chief executive officer Alison talks about the importance of libraries to her and the community &#8211; all reasons to  celebrate <a href="http://nationallibrariesday.org.uk/">National Libraries Day</a>.
-breadcrumb: blog
+breadcrumb: news
 ---
 **Our chief executive officer Alison talks about the importance of libraries to her and the community – and finds lots of reasons to celebrate National Libraries Day.**
 

@@ -3,9 +3,9 @@ layout: sidebar-right
 title: Lowestoft Digital Roadshow
 date: 2016-02-26 08:38:42+00:00
 author: matt-shenton
-category: blog
+category: news
 excerpt: Can year 7 pupils build a computer? Find out what went on at our first Digital Roadshow up in Lowestoft.
-breadcrumb: blog
+breadcrumb: news
 ---
 I met with some year 7 pupils from East Point Academy and Pakefield High School at Lowestoft Library on Friday 11 February for our first digital roadshow of 2016. The aim of the day was for pupils to take part in a series of exciting sessions in their local library and to learn new skills in 3D printing, basic coding and even build a computer.
 

@@ -3,9 +3,9 @@ layout: sidebar-right
 title: "Activities at Ipswich libraries"
 date: 2019-02-08
 author: alice-violett
-category: blog
+category: news
 excerpt: "Our seven libraries in the Ipswich area - Broomhill, Chantry, Gainsborough, Ipswich, Kesgrave, Rosehill and Stoke - run several regular activities for children of various ages."
-breadcrumb: blog
+breadcrumb: news
 featured-image: /images/featured/featured-childrens-crafts.jpg
 featured-alt: Children and babies making crafts in a library with parents and carers
 ---

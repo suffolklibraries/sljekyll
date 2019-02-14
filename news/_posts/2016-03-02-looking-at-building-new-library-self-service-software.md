@@ -3,9 +3,9 @@ layout: sidebar-right
 title: Looking at building new library self-service software
 date: 2016-03-02 11:51:27+00:00
 author: leon-paternoster
-category: blog
+category: news
 excerpt: Leon discusses working with a digital design agency to explore what library self-service could look like in the future.
-breadcrumb: blog
+breadcrumb: news
 ---
 Last week we spent 5 days with digital agency [Clearleft](http://clearleft.com/) exploring how we might develop new self-service machine software for libraries (this short, intensive way of working is known as a _sprint_).
 

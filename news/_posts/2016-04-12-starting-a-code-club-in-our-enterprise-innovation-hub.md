@@ -3,9 +3,9 @@ layout: sidebar-right
 title: Starting a Code Club in our Enterprise + Innovation Hub
 date: 2016-04-12 11:04:41+00:00
 author: charmain-osborne
-category: blog
+category: news
 excerpt: Ipswich County Library assistant manager Charmain talks about setting up a code club from scratch.
-breadcrumb: blog
+breadcrumb: news
 ---
 I’m the assistant library manager at Ipswich County Library. As part of my role I have responsibility for the [Enterprise and Innovation Hub](http://suffolklibraries.co.uk/hub) located on the top floor of the library, which is where our weekly [Code Club](https://www.codeclub.org.uk/) is held.
 

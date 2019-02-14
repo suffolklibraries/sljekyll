@@ -2,9 +2,9 @@
 layout: sidebar-right
 title: "Changes to our website (making it static and faster at the same time)"
 author: leon-paternoster
-category: blog
+category: news
 excerpt: "We&#8217;ve made made a few changes to our website, hopefully making it quicker, more stable and more secure."
-breadcrumb: blog
+breadcrumb: news
 ---
 
 Last week we made some changes to our website. It doesn't _look_ that different, although visitors will hopefully notice a few improvements such as clearer navigation, a [searchable library map](/libraries), [more informative library pages](/libraries/ipswich-county-library/) and https encryption.

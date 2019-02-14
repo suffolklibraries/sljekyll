@@ -3,9 +3,9 @@ layout: sidebar-right
 title: Teenage library books – or how we made a mostly static collection more vibrant and popular
 date: 2015-08-20 12:12:53+00:00
 author: kate-ashton
-category: blog
+category: news
 excerpt: Kate shares how dispersing teenage books throughout the library has made them more popular among teenagers and adults.
-breadcrumb: blog
+breadcrumb: news
 ---
 **Kate shares how dispersing teenage books throughout the library has made them more popular among teenagers and adults.**
 

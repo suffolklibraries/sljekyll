@@ -3,9 +3,9 @@ layout: sidebar-right
 title: Minecraft and children’s LAN parties at Thurston Library
 date: 2015-08-07 08:55:51+00:00
 author: henry-evans
-category: blog
+category: news
 excerpt: Henry discusses how a combination of wifi and Minecraft is getting children into Thurston Library.
-breadcrumb: blog
+breadcrumb: news
 ---
 When we replaced our public computers last year we thought about what the public wants to do on them. We also ran a survey asking what software they’d like.
 

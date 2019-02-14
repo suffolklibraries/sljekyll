@@ -3,9 +3,9 @@ layout: sidebar-right
 title: Will library services be provided like for like in the future?
 date: 2016-10-17
 author: alison-wheeler
-category: blog
+category: news
 excerpt: "Our chief executive Alison discusses how libraries have always been evolving."
-breadcrumb: blog
+breadcrumb: news
 ---
 
 I've worked in libraries all my adult life and I'm still proud to call myself a librarian. Change has been a steady companion for the last 40 years with new structures to work within, periodic political neglect or support, fluctuating customer expectations, emerging competition and technological advances which would have made my eyes pop in 1974 when I shelved my first book in Long Lane library as a Saturday helper.

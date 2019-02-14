@@ -3,9 +3,9 @@ layout: sidebar-right
 title: Using Access to Research to support A level students
 date: 2015-12-22 09:27:05+00:00
 author: helen-haynes
-category: blog
+category: news
 excerpt: "Helen shares how A level students studying for their EPQ can use a fantastic free library service to access top quality academic resources. It also helps students focus on a topic when they're not sure what area they want to study."
-breadcrumb: blog
+breadcrumb: news
 ---
 I’ve written a blog post on Access to Research before. It is a [portal giving free access to the reports and findings of publically-funded research in the UK](http://www.accesstoresearch.org.uk) &#8211; library customers can access this information using a library computer. It’s available to all public library services in the UK and in Suffolk it has been well particularly well used. I thought it would be useful to share how it is being used by some library customers.
 

@@ -3,9 +3,9 @@ layout: sidebar-right
 title: "Suffolk Libraries self-service kiosks in action"
 date: 2018-10-22
 author: leon-paternoster
-category: blog
+category: news
 excerpt: "Self-service developer Leon demonstrates our self-service kiosks in action."
-breadcrumb: blog
+breadcrumb: news
 featured-excerpt: "Self-service developer Leon demonstrates our self-service kiosks in action."
 featured-link-text: "Watch our self-service video."
 ---

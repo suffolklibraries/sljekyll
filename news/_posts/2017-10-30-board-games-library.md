@@ -3,11 +3,11 @@ layout: sidebar-right
 title: "Board games in libraries: not just for International Board Games Week!"
 date: 2017-10-30
 author: andrew-miller
-category: blog
+category: news
 excerpt: "Library and information advisor Andrew Miller shares his experiences of organising International Games Week events and setting up Ipswich County Library's permanent Board Games Library."
 featured-image: /images/featured/featured-board-games.jpg
 featured-alt: People playing board games at Ipswich County Library
-breadcrumb: blog
+breadcrumb: news
 featured-excerpt: "Library and information advisor Andrew Miller shares his experiences of organising International Games Week events and setting up Ipswich County Library's permanent Board Games Library."
 featured-link-text: "Find out about Ipswich County Library's Board Games Library."
 ---

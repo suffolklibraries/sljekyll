@@ -3,11 +3,11 @@ layout: sidebar-right
 title: Making self-service flexible
 date: 2017-10-10
 author: alice-violett
-category: blog
+category: news
 excerpt: "We recently installed new self-service machines in our libraries. Let’s take a close look at how we made our new system flexible, so we could use it in different situations at minimum cost and work."
 featured-image: /images/featured/featured-using-self-service.jpg
 featured-alt: Customers using our new self-service machines
-breadcrumb: blog
+breadcrumb: news
 featured-excerpt: "We recently installed new self-service machines in our libraries. Let’s take a close look at how we made our new system flexible, so we could use it in different situations at minimum cost and work."
 featured-link-text: Find out about our flexible new self-service system
 ---
