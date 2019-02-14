@@ -4,8 +4,8 @@ location: bungay-library
 location-text: Bungay Library
 event-alt-location: Community Centre, Upper Olland Street, Bungay, NR35 1BE
 event-start-date: 2019-03-09
-event-doors-open: 0900
-event-start-time: 1500
+event-start-time: 0900
+event-end-time: 1500
 event-ticket-price: admission 50p, children free
 breadcrumb: y
 ---
