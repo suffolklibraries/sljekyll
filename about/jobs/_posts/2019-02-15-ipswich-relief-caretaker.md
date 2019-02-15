@@ -4,11 +4,11 @@ title: Relief caretaker, Ipswich County Library
 category: jobs
 sidebar: about
 breadcrumb: jobs
-excerpt: "Holiday and absence cover, &pound;8.19 per hour, closing date Mon 11 Feb 2019."
-expiry-date: 2019-02-11
+excerpt: "Holiday and absence cover, &pound;8.19 per hour, closing date Fri 8 Mar 2019."
+expiry-date: 2019-03-08
 ---
 
-[Download a role profile](/assets/pdf/caretaker-jan-2019.pdf) (PDF).
+[Download a role profile](/assets/pdf/caretaker-feb-2019.pdf) (PDF).
 
 We are currently looking for a relief caretaker to work on an 'as and when' basis to cover a broad range of duties. These include responsibility for opening and closing buildings, library security, health and safety issues, general maintenance and distribution of mail and other materials around the building.
 
@@ -37,4 +37,4 @@ If you are interested, please send a CV and supporting statement outlining what 
 
 As users of the disability conﬁdent scheme, we guarantee to interview all disabled applicants who meet the minimum criteria for the vacancy.
 
-The closing date for applications is **Monday 11 February 2019**. Interviews will be held on **Tuesday 26 February 2019**.
+The closing date for applications is **Friday 8 March 2019**. Interviews will be held on **Monday 18 March 2019**.
