@@ -1,5 +1,5 @@
 ---
-name: "Build a bird or bug box with Ipswich Wildlife Group - 9:30am session"
+name: "Build a bird or bug box with Ipswich Wildlife Group - 10:30am session"
 location: capel-st-mary-library
 location-text: Capel St Mary Library
 event-start-date: 2019-02-20
