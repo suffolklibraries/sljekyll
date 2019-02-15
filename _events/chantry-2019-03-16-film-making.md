@@ -14,3 +14,5 @@ Are you aged 11-14? Have you ever wanted to make your own music video? Now's you
 Book in advance by contacting the library.
 
 Funded by Ipswich Borough Council.
+
+Many thanks to the Co-op, who helped us provide snacks for this event.
