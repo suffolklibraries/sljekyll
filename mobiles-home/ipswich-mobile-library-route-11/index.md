@@ -6,7 +6,7 @@ breadcrumb: mobiles-home
 
 <div class="{% include /c/generic-panel.html %}">
 
-    <p>Ipswich Mobile Library Route 11 will not be running on 19 February.</p>
+    <p>Ipswich Mobile Library Route 11 will not be running on 20 February.</p>
 
 </div>
 
