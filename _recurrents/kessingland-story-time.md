@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Story group: for under 5s and their parents/carers"
+recurrent-title: "Story group: for under 5s and their parents/carers - term-time only"
 recurrent-description: 'Children&apos;s stories told with hand puppets and props. No need to book. For more information, call Dragonflies Children&apos;s Centre on <a href="tel:01986874865">01986 874865</a>/.'
 recurrent-day: Wednesday
 recurrent-times: 1030-1130

@@ -1,5 +1,5 @@
 ---
-name: "Spinning Wheel Theatre presents: <cite>The Lion King</cite>"
+name: "Spinning Wheel Theatre presents: <cite>The Velveteen Rabbit</cite>"
 location: southwold-library
 location-text: Southwold Library
 event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, Southwold, IP18 6JP"

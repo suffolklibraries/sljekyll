@@ -1,7 +1,7 @@
 ---
 recurrent-title: "Tot Rock"
 recurrent-description: 'Songs and action rhymes for toddlers, no need to book.'
-recurrent-day: Monday
+recurrent-day: Mondays except for Bank Holidays
 recurrent-times: 1100-1200
 recurrent-location: eye-library
 recurrent-location-display-name: Eye Library

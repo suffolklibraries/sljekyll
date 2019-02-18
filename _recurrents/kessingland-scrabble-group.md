@@ -1,7 +1,7 @@
 ---
-recurrent-title: "Art group"
-recurrent-day: Tuesday
-recurrent-times: 0915-1115
+recurrent-title: "Scrabble group"
+recurrent-day: Friday
+recurrent-times: 1430-1630
 recurrent-location: kessingland-library
 recurrent-location-display-name: Kessingland Library
 recurrent-location-display-url: /branches/kessingland-library/
