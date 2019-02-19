@@ -23,9 +23,7 @@ genre-alt: "The Distance Between Me and the Cherry Tree"
 
 "To live in fear is not to live at all."
 
-Nominated for the Carnegie Medal 2019, <cite>The Distance Between Me and the Cherry Tree</cite> is a worthy contender for the prestigious title.
-
-Based around Mafalda's love of the cherry tree and what it symbolises for her, each section shows her declining eyesight and how close she needs to be to see her beloved tree. I felt for her from the very beginning.
+Based around Mafalda's love of the cherry tree and what it symbolises for her, each section of <cite>The Distance Between Me and the Cherry Tree</cite> shows her declining eyesight and how close she needs to be to see her beloved tree. I felt for her from the very beginning.
 
 The story goes from detailing what we lose when we our sight disappears to what we can still do without it. Mafalda discovers she can still have friends and enjoy the things she loves and although the darkness is scary, if you have the right people by your side, you can find hope.
 
