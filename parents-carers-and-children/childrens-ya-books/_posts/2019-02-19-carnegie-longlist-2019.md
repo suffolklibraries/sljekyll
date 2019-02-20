@@ -6,11 +6,11 @@ author: alice-violett
 category: childrens-ya-books
 excerpt: "The CILIP Carnegie Medal recognises the best children's and Young Adult titles published each year."
 featured-image: /images/featured/featured-carnegie-2019.jpg
-featured-alt: ""
+featured-alt: "Hilary McKay's Fairy Tales, The Land of Neverendings, A Skinful of Shadows"
 breadcrumb: childrens-ya-books
 ---
 
-![](/images/featured/featured-carnegie-2019.jpg)
+![Hilary McKay's Fairy Tales, The Land of Neverendings, A Skinful of Shadows](/images/featured/featured-carnegie-2019.jpg)
 
 The CILIP Carnegie Medal recognises the best children's and Young Adult titles published each year.
 
