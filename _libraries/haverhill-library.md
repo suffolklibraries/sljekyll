@@ -28,8 +28,8 @@ branch-refreshments: café open 1000-1600 on weekdays
 branch-wifi: y
 branch-borrowing-ereaders-and-ipads: an iPad or a Nexus 7 tablet
 branch-borrowing-microbits: y
-branch-colour-printing: available
-branch-photocopying: available
+branch-colour-printing: available (up to A4)
+branch-photocopying: available (up to A4)
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/haverhill-library
 branch-display-space: Small table top/banner display spaces available in the foyer and library, glass display cabinet and large display board available in the library

@@ -8,7 +8,7 @@ You can print, photocopy and scan from all Suffolk Libraries.
 
 You can print from the internet or bring in a USB stick with files on it.
 
-Some of our bigger libraries have fax machines. Visit [your local library's page](/libraries/) to find out which facilities they offer.
+Some of our bigger libraries have A3 printing and photocopying, and fax machines. Visit [your local library's page](/libraries/) or contact them before you visit to find out which facilities they offer.
 
 ## Costs
 
