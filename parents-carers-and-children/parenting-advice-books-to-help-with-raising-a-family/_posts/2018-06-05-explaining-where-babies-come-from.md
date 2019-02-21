@@ -8,9 +8,13 @@ excerpt: "Books to help explain conception, pregnancy and birth."
 breadcrumb: childrens-ya-books
 ---
 
-To reserve any of the following books that help parents/carers explain where babies come from to [your local library](/libraries/), click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on [01473 351249](tel:01473351249) or **help@suffolklibraries.co.uk**
+<div class="{% include /c/generic-panel.html %}">
 
-You can [sign up for a library card online](/help/joining-the-library/) for free. You can sign your child up for a library card at any age.
+      <p>To reserve any of the following books for parents/carers and children dealing with ADHD to <a href="/libraries/">your local library</a>, click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on <a href="tel:01473351249">01473 351249</a> or <strong>help@suffolklibraries.co.uk</strong></p>
+
+      <p>You can <a href="/help/joining-the-library/">sign up for a library card online</a> for free. You can sign your child up for a library card at any age.</p>
+
+</div>
 
 ## [<cite>Let's Talk About where Babies Come From: a book about eggs, sperm, birth, babies and families</cite>, by Robie H. Harris & Michael Emberley](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1639906)
 
