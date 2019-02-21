@@ -18,23 +18,20 @@ breadcrumb: member-organisations
 
 Committee members for Voices:
 
-* Chair: Carol D
-* Vice chair: Allie C
+* Chair: Allie C
+* Vice chair: Amy P
 * Secretary: Carol D
 * Treasurer & library representative: Mandy Grimwood
-* Library representative: Britta Ambler
+* Library representative: Kim
 
 Other Committee members:
 
 * Elizabeth S
-* Sue
-* Christine
-* Juliet
-* Josh G
-* Stacey R
-* Jonny
+* Sue B
+* Juliet W
 * Leon P
-* Lauren B
+* Sarah W
+* Colin M
 
 ## Contact us
 
@@ -79,4 +76,4 @@ We're currently developing a range of plans to help support and promote Gainsbor
 
 ## Documents
 
-[Annual Chairpersons Report 2014/15 for Voices 4 Gainsborough Community Library (V4GCL)](/assets/pdf/voices-4-gainsborough-community-library-v4gcl-annual-chairpersons-report-14-15.pdf) (PDF)
+[Annual Chairpersons Report 2018/19 for Voices 4 Gainsborough Community Library (V4GCL)](/assets/pdf/voices-4-gainsborough-community-library-v4gcl-annual-chairpersons-report-18-19.pdf) (PDF)
