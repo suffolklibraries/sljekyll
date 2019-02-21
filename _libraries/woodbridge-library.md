@@ -30,8 +30,8 @@ branch-which: y
 branch-for-sale: Friends of Woodbridge Library cotton shopping bags (£3) and magnetic bookmarks (£1)
 branch-wifi: y
 branch-borrowing-ereaders-and-ipads: an eReader
-branch-colour-printing: available
-branch-photocopying: available
+branch-colour-printing: available up to A4
+branch-photocopying: available up to A4
 branch-scan-to-email: y
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/woodbridge-library
