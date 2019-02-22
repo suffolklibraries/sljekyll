@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Board game group"
-recurrent-day: Fridays from 1 March
+recurrent-day: Friday
 recurrent-times: 1430-1600
 recurrent-location: lavenham-library
 recurrent-location-display-name: Lavenham Library
