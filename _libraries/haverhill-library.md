@@ -41,4 +41,5 @@ branch-other-facilities: '<ul>
                           <li>Reach Haverhill foodbank donation point</li>
                           </ul>'
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, sports equipment, free sanitary products."
+branch-news: "The library is looking for donations of plants or plant-related items for their fundraising sale on Saturday 18 May."
 ---

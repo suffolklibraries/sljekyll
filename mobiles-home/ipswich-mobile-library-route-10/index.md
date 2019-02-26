@@ -4,12 +4,6 @@ title: Ipswich Mobile Library Route 10
 breadcrumb: mobiles-home
 ---
 
-<div class="{% include /c/generic-panel.html %}">
-
-    <p>Ipswich Mobile Library Route 10 will not be running on 19 February.</p>
-
-</div>
-
 ## Contact us:
 
 Managers: Andrew Little and David Cook
