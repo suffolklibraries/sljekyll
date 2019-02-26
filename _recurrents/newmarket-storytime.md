@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Storytime: for 2-5 year olds"
+recurrent-title: "Storytime: for 3+ year olds"
 recurrent-day: Wednesday
 recurrent-times: 1030-1100
 recurrent-location: newmarket-library
