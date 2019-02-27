@@ -33,5 +33,4 @@ branch-room-hire: /libraries/room-hire/sudbury-library
 branch-other-facilities: 'Sudbury Tourist Information Centre is located within the library. Find out more on the <a href="https://www.sudburytowncouncil.co.uk/tourist-information-centre-1">Sudbury Town Council website</a>.'
 breadcrumb: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, room hire, children's activities, Lego Club, older people's activities, health & wellbeing groups."
-branch-news: "The library will be closing at 5pm today (Tuesday 26 February) due to staff sickness."
 ---

@@ -28,10 +28,6 @@ Another long wait for Dido’s first new music for five years. <cite>Still On My
 
 David Gray will be touring to promote his new album, including a date in Cambridge.
 
-## [The Long Ryders - <cite>Psychedelic Country Soul</cite>]()
-
-Returning with the classic line up, The Long Ryders have a valid claim to have invented alt-country. This is their first new album in over thirty years.
-
 ## [Tom Walker - <cite>What a Time to be Alive</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2452448)
 
 Tom Walker, the biggest breakout UK global star of 2018, releases his first album.
