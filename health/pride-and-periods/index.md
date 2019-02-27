@@ -17,6 +17,7 @@ Eleven of our libraries currently provide **free sanitary items with no question
 * [Gainsborough Community Library](/libraries/gainsborough-community-library/)
 * [Haverhill Library](/libraries/haverhill-library/)
 * [Ipswich County Library](/libraries/ipswich-county-library/)
+* [Kessingland Library](/libraries/kessingland-library/)
 * [Lowestoft Library](/libraries/lowestoft-library/)
 * [Newmarket Library](/libraries/newmarket-library/)
 * [Rosehill Library](/libraries/rosehill-library/)
