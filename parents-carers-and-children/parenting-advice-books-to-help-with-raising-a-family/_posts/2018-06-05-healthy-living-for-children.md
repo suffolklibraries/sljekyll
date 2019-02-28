@@ -4,13 +4,14 @@ title: "Healthy living for children"
 date: 2018-06-05
 author: sophie-green
 category: child-family-problems
-excerpt: "Self-help and story books about healthy eating."
+excerpt: "Self-help and story books about healthy eating and exercise."
 breadcrumb: childrens-ya-books
+meta-description: "Books to help children understand the importance of a balanced diet and exercise, including titles on vegetables, fruit and fussy eating."
 ---
 
 <div class="{% include /c/generic-panel.html %}">
 
-      <p>To reserve any of the following books for parents/carers and children dealing with ADHD to <a href="/libraries/">your local library</a>, click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on <a href="tel:01473351249">01473 351249</a> or <strong>help@suffolklibraries.co.uk</strong></p>
+      <p>To reserve any of the following books for parents/carers and children about healthy living to <a href="/libraries/">your local library</a>, click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on <a href="tel:01473351249">01473 351249</a> or <strong>help@suffolklibraries.co.uk</strong></p>
 
       <p>You can <a href="/help/joining-the-library/">sign up for a library card online</a> for free. You can sign your child up for a library card at any age.</p>
 

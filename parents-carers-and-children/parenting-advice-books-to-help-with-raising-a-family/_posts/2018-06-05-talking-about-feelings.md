@@ -6,11 +6,12 @@ author: sophie-green
 category: child-family-problems
 excerpt: "Books to help children talk about their feelings."
 breadcrumb: childrens-ya-books
+meta-description: "Books to help your child deal with emotions including anger, jealousy, happiness, sadness, worry and fear."
 ---
 
 <div class="{% include /c/generic-panel.html %}">
 
-      <p>To reserve any of the following books for parents/carers and children dealing with ADHD to <a href="/libraries/">your local library</a>, click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on <a href="tel:01473351249">01473 351249</a> or <strong>help@suffolklibraries.co.uk</strong></p>
+      <p>To reserve any of the following books for parents/carers and children dealing emotions to <a href="/libraries/">your local library</a>, click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on <a href="tel:01473351249">01473 351249</a> or <strong>help@suffolklibraries.co.uk</strong></p>
 
       <p>You can <a href="/help/joining-the-library/">sign up for a library card online</a> for free. You can sign your child up for a library card at any age.</p>
 
@@ -75,6 +76,14 @@ breadcrumb: childrens-ya-books
 > "A dragon with a short temper is not a good combination, as Fergal’s family and friends soon find out. He burns the dinner (literally), reduces the football goal to ashes and absolutely cannot play a nice, quiet board game.
 
 > "It is only when he starts to notice other animals have clever tricks to calm down that Fergal begins to win back his friends, especially when he discovers dragons can cool off in a very handy way."
+
+## [<cite>Teeth Are Not for Biting</cite>, by Elizabeth Verdick](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1393848)
+
+> "Sooner or later, almost all young children will bite someone - a friend, a parent, a sibling. This upbeat, colourful, virtually indestructible book helps prevent biting and teaches positive alternatives."
+
+## [<cite>No More Biting for Billy Goat!</cite>, by Bernadette Ford & Sam Williams](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1458423)
+
+> "It's Billy Goat's first day at school, and he feels lost and lonely. Even though he really wants to join in the fun and games, he just doesn't know how. Billy Goat gets so frustrated that he even bites Piggy, Lambkin, and Bunny! But with a little gentle guidance from sympathetic Ducky, he learns that teeth are for biting food - not your friends."
 
 ## [<cite>I Like Bees, I Don't Like Honey!</cite>, by Sam Bishop & Fiona Lumbers](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2167067)
 

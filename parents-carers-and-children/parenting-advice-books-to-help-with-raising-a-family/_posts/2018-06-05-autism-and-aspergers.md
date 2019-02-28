@@ -4,13 +4,14 @@ title: "Autism and Asperger's"
 date: 2018-06-05
 author: sophie-green
 category: child-family-problems
-excerpt: "Advice on understanding and explaining Austism and Asperger’s Syndrome"
+excerpt: "Advice on understanding and explaining Autism and Asperger’s Syndrome"
+meta-description: "Books to help if you have a child on the autistic spectrum."
 breadcrumb: childrens-ya-books
 ---
 
 <div class="{% include /c/generic-panel.html %}">
 
-      <p>To reserve any of the following books for parents/carers and children dealing with ADHD to <a href="/libraries/">your local library</a>, click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on <a href="tel:01473351249">01473 351249</a> or <strong>help@suffolklibraries.co.uk</strong></p>
+      <p>To reserve any of the following books for parents/carers and children dealing with autism and Asperger's to <a href="/libraries/">your local library</a>, click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on <a href="tel:01473351249">01473 351249</a> or <strong>help@suffolklibraries.co.uk</strong></p>
 
       <p>You can <a href="/help/joining-the-library/">sign up for a library card online</a> for free. You can sign your child up for a library card at any age.</p>
 

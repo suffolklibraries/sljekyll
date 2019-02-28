@@ -1,10 +1,11 @@
 ---
 layout: sidebar-right
-title: "Handwashing and hygiene"
+title: "Looking after your body"
 date: 2018-06-05
 author: sophie-green
 category: child-family-problems
 excerpt: "Includes books on bathtime, brushing teeth and not spreading germs."
+meta-description: "Books to help children understand the importance of basic hygiene and good manners, including washing hands, bathing and showering and brushing teeth to stay healthy and avoid germs."
 breadcrumb: childrens-ya-books
 ---
 

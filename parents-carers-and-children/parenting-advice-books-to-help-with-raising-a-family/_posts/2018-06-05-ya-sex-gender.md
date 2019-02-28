@@ -5,12 +5,13 @@ date: 2018-06-05
 author: sophie-green
 category: child-family-problems
 excerpt: "Advice and guidance books on sex education, sexuality and gender identity for young adults and teenagers."
+meta-description: "Books to help young adults and teenagers understand their changing bodies and sexuality. Includes titles on puberty, relationships and safe sex, and LGBTQ (Lesbian, Gay, Bisexual, Transgender and Queer) memoirs and advice."
 breadcrumb: childrens-ya-books
 ---
 
 <div class="{% include /c/generic-panel.html %}">
 
-      <p>To reserve any of the following books for parents/carers and children dealing with ADHD to <a href="/libraries/">your local library</a>, click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on <a href="tel:01473351249">01473 351249</a> or <strong>help@suffolklibraries.co.uk</strong></p>
+      <p>To reserve any of the following books for teenagers and young adults about sex and gender to <a href="/libraries/">your local library</a>, click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on <a href="tel:01473351249">01473 351249</a> or <strong>help@suffolklibraries.co.uk</strong></p>
 
       <p>You can <a href="/help/joining-the-library/">sign up for a library card online</a> for free. You can sign your child up for a library card at any age.</p>
 
