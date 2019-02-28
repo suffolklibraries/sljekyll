@@ -26,4 +26,5 @@ branch-other-facilities: "Food bank collection point."
 branch-refreshments: "available in our café, run by Access Community Trust."
 branch-payments: cash, cheques and cards accepted
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, older people's activities."
+branch-pride-and-periods: y
 ---
