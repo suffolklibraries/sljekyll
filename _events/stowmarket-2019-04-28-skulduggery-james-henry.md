@@ -5,10 +5,11 @@ location-text: Stowmarket Library
 event-start-date: 2019-04-28
 event-start-time: 1445
 event-end-time: 1535
-event-ticket-price: "5; day tickets £20 (£25 including buffet lunch); Saturday + Sunday tickets £35 (£45 including buffet lunches) - on sale Friday 1 March"
+event-ticket-price: "5; day tickets £20 (£25 including buffet lunch); Saturday + Sunday tickets £35 (£45 including buffet lunches)"
 event-category: skulduggery-2019-sun
 event-image: featured/featured-james-henry.jpg
 event-image-alt: James Henry
+event-ticket-url: https://www.ticketsource.co.uk/stowmarket-library
 breadcrumb: y
 ---
 
