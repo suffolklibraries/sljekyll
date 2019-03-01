@@ -305,4 +305,4 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Sundays:**
 
-**2019:** 27 January, 24 February, 24 March, **no visit in April**, 29 May, 16 June, 14 July, 11 August, 8 September, 6 October, 3 November, 1 December, 29 December
+**2019:** 27 January, 24 February, 24 March, **no visit in April**, 19 May, 16 June, 14 July, 11 August, 8 September, 6 October, 3 November, 1 December, 29 December
