@@ -1,5 +1,5 @@
 ---
-name: "Marsh on the Move roadshow from Suffolk Wildlife Trust"
+name: "Pebble painting"
 location: kessingland-library
 location-text: Kessingland Library
 event-start-date: 2019-04-17
