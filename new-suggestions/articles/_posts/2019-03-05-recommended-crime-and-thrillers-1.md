@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Recommended crime and thrillers #1"
-date: 2019-03-06
+date: 2019-03-05
 author: brandon-king
 category: articles
 excerpt: "Did you know that Suffolk borrowers' favourite genres are crime and thriller? Stock librarian Brandon King picks out some great recent titles you won't want to miss."
@@ -20,14 +20,6 @@ Did you know that Suffolk borrowers' favourite genres are crime and thriller? St
 
 > "But then Maria is found dead and Leo is accused of her murder. Desperate to find her killer and under suspicion from all those around him, he stands to lose not just the woman he loves, but his freedom and, ultimately, his life."
 
-## [<cite>The Fifth to Die</cite>, by J. D. Barker](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2474390)
-
-> "In the midst of one of the worst winters Chicago has seen in years, the body of missing teenager Ella Reynolds is discovered under the surface of a frozen lake. She's been missing for three weeks - the lake froze over three months ago. Detective Sam Porter and his team are brought in to investigate but it's not long before another girl goes missing.
-
-> "The press believes the serial killer, Anson Bishop, has struck again but Porter knows differently. The deaths are too different, there's a new killer on the loose. Porter however is distracted. He's still haunted by Bishop and his victims, even after the FBI have removed him from the case.
-
-> "As more girls go missing and Porter's team race to stop the body count rising, Porter disappears to track down Bishop's mother and discover that the only place scarier than the mind of a serial killer is the mind of the mother from which he came."
-
 ## [<cite>Only a Mother</cite>, by Elisabeth Carpenter](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2475191)
 
 > "Erica Wright lives a quiet, lonely life in her two-bed end of terrace. Her front door hasn't been graffitied in more than a year but that's soon about to change - her son, Craig, is being released from prison.
@@ -44,18 +36,6 @@ Did you know that Suffolk borrowers' favourite genres are crime and thriller? St
 
 > "Sophie is trying to start living again. But being a victim doesn't make you a saint. And Aidan soon starts to realise that the woman he is trying to save might not be as helpless as she seems."
 
-## [<cite>The Godless</cite>, by P. C. Doherty](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2467426)
-
-> "November, 1381. London has been rocked by a series of bizarre and brutal murders. The corpses of a number of prostitutes have been discovered, their throats slit, their bodies stripped; in each case, a blood-red wig has been placed on their heads. At the same time, a mysterious explosion rips through a royal war cog bound for Calais, killing all on board. Could there be a connection?
-
-> "Summoned to assist in the investigations by Sir John Cranston, Brother Athelstan uncovers rumours that the mysterious Oriflamme is responsible. But who - or what - exactly is he, and why has he suddenly reappeared after almost 20 years?"
-
-## [<cite>Lucifer Falls</cite>, by Colin Falconer](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2558647)
-
-> "When a priest is found crucified in a derelict North London chapel, it makes a dramatic change for DI Charlie George and his squad at Essex Road. The brutal murder could not be further from their routine of domestic violence and stabbings on the estates - and that's only the beginning. On Christmas Eve, a police officer goes missing and his colleagues can't help but anticipate the worst. Their concerns are validated when eventually a body is found, with the victim apparently stoned to death.
-
-> "As tensions rise, it's up to Charlie and his team to venture into the city's cold underbelly to try and find an answer to the madness."
-
 ## [<cite>Body & Soul</cite>, by John Harvey](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2352867)
 
 This one comes with a recommendation from Ian Rankin.
@@ -67,12 +47,6 @@ This one comes with a recommendation from Ian Rankin.
 > "Wealthy Marcia Tredgold and her daughter, Charlotte, want Bea Abbot to find them replacements for staff who have left under a cloud. Bea discovers that all those dismissed were close to Marcia Tredgold, and senses that something is not right. Were they framed, and if so by whom - and why? Even more curiously, when Marcia Tredgold gets Bea alone, she asks her to find out who killed her two cats.
 
 > "Bea resists becoming involved in the strange goings-on at the Tredgold mansion, until a shocking event leads her to worry about Marcia's safety. Could the cats' deaths be linked to other disturbing events? And whose account can be trusted in the web of secrets and lies which has been spun around the family? In her quest to uncover the truth, Bea's own safety is put at risk."
-
-## [<cite>The Rumour</cite>, by Lesley Kara](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2475253)
-
-> "A casual comment. There's a killer among us. That's all it takes. She stabbed little Robbie Harris. To change a life - She's living under a new name. For ever. She's reformed. So they say. Joanna is going to regret the day she ever said a word.
-
-> "In this chilling tale of paranoia, suspicion, and accusation, Lesley Kara keeps you guessing until the final page."
 
 ## [<cite>You</cite>, by Caroline Kepnes](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2350237)
 
