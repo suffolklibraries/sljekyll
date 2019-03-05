@@ -4,9 +4,9 @@ title: New films and DVDs for March 2019
 date: 2019-02-28
 author: brandon-king
 category: films-dvds
-excerpt: "Including "
+excerpt: "Including <cite>Fantastic Beasts: the Crimes of Grindelwald</cite>, <cite>Bohemian Rhapsody</cite> and <cite>Widows</cite>."
 featured-image: /images/featured/featured-march-2019-dvds.jpg
-featured-alt: "Fantastic Beasts: the Crimes of Grindelwald, Bohemian Rhapsody, Widows"
+featured-alt: "Fantastic Beasts: The Crimes of Grindelwald, Bohemian Rhapsody, Widows"
 breadcrumb: films-dvds
 ---
 
@@ -20,7 +20,7 @@ breadcrumb: films-dvds
 
 > "As they are invited to perform at the charity Live Aid concert, will Freddie return to his roots and the band that made him famous or will his AIDS diagnosis stop him from performing?"
 
-## [<cite>Fantastic Beasts: the Crimes of Grindelwald</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2521839)
+## [<cite>Fantastic Beasts: The Crimes of Grindelwald</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2521839)
 
 > "Eddie Redmayne reprises his role as magizoologist Newt Scamander in this fantasy adventure sequel to [<cite>Fantastic Beasts and Where to Find Them</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2119504) (2016), directed by David Yates.
 
