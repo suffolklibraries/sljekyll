@@ -6,6 +6,7 @@ event-start-date: 2019-03-28
 event-start-time: 1930
 event-ticket-price: "10; £14 including Barbara's new book, <cite>The Ghost Tree</cite>"
 breadcrumb: y
+event-ticket-url: https://www.woodbridgeemporium.co.uk/product/barbara-erskine-event-tickets/
 ---
 
 Barbara Erskine is a bestselling writer. She has written eighteen novels and several collections of short stories, and her books have appeared in at least twenty-six languages. Her first novel, [<cite>Lady of Hay</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=82500), has sold over three million copies worldwide to date. She now lives in Hay-on-Wye but once lived near Woodbridge, so always loves to return to this area.
@@ -17,3 +18,5 @@ We will also be revisiting [<cite>River of Destiny</cite>](https://suffolk.spydu
 Barbara will be sharing her inspiration for her novels and is happy to be asked questions. She is truly a fascinating speaker. This is an evening not to be missed!
 
 All of Barbara’s books will be available on the evening at discounted prices.
+
+Book online or by visiting Woodbridge Emporium at 66 Thoroughfare, Woodbridge, IP12 1AL, or calling them on [01394 382382](tel:01394382382)
