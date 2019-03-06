@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Polish story and rhymetime with Foley House Children's Centre: all welcome"
-recurrent-description: "No prior knowledge of Polish needed - some and learn some new words, stories and rhymes!"
+recurrent-description: "No prior knowledge of Polish needed - come and learn some new words, stories and rhymes!"
 recurrent-day: Friday
 recurrent-times: 1030-1100
 recurrent-location: newmarket-library
