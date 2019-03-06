@@ -5,7 +5,7 @@ category: jobs
 sidebar: about
 breadcrumb: jobs
 excerpt: "Holiday and absence cover, &pound;8.19 per hour, closing date Fri 8 Mar 2019."
-expiry-date: 2019-03-08
+expiry-date: 2019-03-22
 ---
 
 [Download a role profile](/assets/pdf/caretaker-feb-2019.pdf) (PDF).
@@ -37,4 +37,4 @@ If you are interested, please send a CV and supporting statement outlining what 
 
 As users of the disability conﬁdent scheme, we guarantee to interview all disabled applicants who meet the minimum criteria for the vacancy.
 
-The closing date for applications is **Friday 8 March 2019**. Interviews will be held on **Monday 18 March 2019**.
+The closing date for applications is **Friday 22 March 2019**. Interviews will be held in the **week commencing Monday 1 April 2019**.
