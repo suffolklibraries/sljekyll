@@ -10,6 +10,6 @@ event-ticket-price: free
 breadcrumb: y
 ---
 
-Find treasures in Beach Bonkers' mini-beach, handle amazing objects found on the beach, play the giant beachcombing board game, make some crafts and buy an ice cream to enjoy!
+Find treasures in Beach Bonkers' mini-beach, handle amazing objects found on the beach, play the giant beachcombing board game and make some crafts!
 
-Book in advance by contacting the library.
+Drop in, no need to book.
