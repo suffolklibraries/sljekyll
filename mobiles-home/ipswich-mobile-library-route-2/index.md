@@ -4,12 +4,6 @@ title: Ipswich Mobile Library Route 2
 breadcrumb: mobiles-home
 ---
 
-<div class="{% include /c/generic-panel.html %}">
-
-    <p>Ipswich Mobile Library Route 2 is off the road today (Wednesday 6 March) due to staff sickness.</p>
-
-</div>
-
 ## Contact us:
 
 Managers: Andrew Little and David Cook
