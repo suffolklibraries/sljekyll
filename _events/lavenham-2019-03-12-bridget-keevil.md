@@ -1,5 +1,5 @@
 ---
-name: "Top Time: Talk: Bridget Keevil on her part in the Clipper Round the World race"
+name: "Top Time: Talk: Bridget Keevil on her part in the Clipper Round the World Race"
 location: lavenham-library
 location-text: Lavenham Library
 event-start-date: 2019-03-12

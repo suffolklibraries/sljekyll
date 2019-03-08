@@ -34,6 +34,5 @@ branch-room-hire: /libraries/room-hire/halesworth-library
 breadcrumb: y
 branch-for-sale: Stamps, cards, artwork, jewellery, books from local authors, reading glasses and accessories from ReadySpex, Halesworth Library bags, bookmarks and pens.
 branch-display-space: "Window space available to hire for posters and notices. Contact the library for more details."
-branch-news: 'Halesworth Library is looking for <a href="/volunteer/home-library-service/">Home Library Service volunteers</a>.'
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, Lego Club, older people's activities, health & wellbeing groups."
 ---
