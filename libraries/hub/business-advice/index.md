@@ -6,6 +6,12 @@ breadcrumb: hub
 
 <h1 class="page-title">Business advice from New Anglia Growth Hub</h1>
 
+<div class="{% include /c/generic-panel.html %}">
+
+    <p>The Enterprise + Innovation Hub is closed until mid-April due to refurbishment.</p>
+
+</div>
+
 Business advisors from the [New Anglia Growth Hub](http://www.newangliagrowthhub.co.uk/) can give you professional advice to advance your business or idea. Topics they cover include:
 
 <div class="custom-col-2 mb4">

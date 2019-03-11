@@ -8,6 +8,12 @@ breadcrumb: hub
 
 	<h1 class="{% include /c/page-title.html %} tc">MakerSpace</h1>
 
+	<div class="{% include /c/generic-panel.html %}">
+
+			<p>The Enterprise + Innovation Hub is closed until mid-April due to refurbishment.</p>
+
+	</div>
+
 	<p><img src="/images/featured/featured-makerspace-minecraft.jpg" alt="Children playing Minecraft in the MakerSpace"></p>
 
 	<p class="tc">Email <strong>hub@suffolklibraries.co.uk</strong> to book a machine</p>
