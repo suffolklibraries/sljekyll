@@ -117,6 +117,7 @@ Having developed great facilities for our younger customers, we are currently co
 
 ## Minutes
 
+* [Minutes - 22 January 2019](/assets/pdf/2019-01-22-fohcl-minutes.pdf) (PDF)
 * [Minutes - 11 December 2018](/assets/pdf/2018-12-11-fohcl-minutes.pdf) (PDF)
 * [Minutes - 30 October 2018](/assets/pdf/2018-10-30-fohcl-minutes.pdf) (PDF)
 * [Minutes - 18 September 2018](/assets/pdf/2018-09-18-fohcl-minutes.pdf) (PDF)

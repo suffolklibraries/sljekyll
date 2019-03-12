@@ -2,7 +2,7 @@
 name: "Suffolk Police drop-in"
 location: halesworth-library
 location-text: Halesworth Library
-event-start-date: 2019-03-27
+event-start-date: 2019-05-01
 event-start-time: 1000
 event-end-time: 1200
 breadcrumb: y
