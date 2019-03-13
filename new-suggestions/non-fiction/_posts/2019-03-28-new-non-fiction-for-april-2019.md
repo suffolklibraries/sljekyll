@@ -44,7 +44,7 @@ There has been several biographies of medical professionals recently. Molly Case
 
 > "In <cite>How to Treat People</cite>, she documents these extraordinary points, when two people truly connect. In rich, lyrical prose, she introduces us to patients with whom we share the pain, but also the experience of illness when life is at its most vivid. And when her father is admitted to the high dependency unit on which she works, Molly confronts care in a whole new way, when two worlds - the professional and the personal - suddenly collide."
 
-## [<cite>What Dementia Teaches Us about Love</cite>, by Nicci Gerrard](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2533082)
+## [<cite>What Dementia Teaches Us About Love</cite>, by Nicci Gerrard](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2533082)
 
 > "What is it to be oneself, and what is it to lose one's self. Who are we when we are not ourselves, and where do we go? This is a book about dementia - not a personal account, but an exploration, structured around this radically-slowed death. Full of people's stories, both sad and optimistic, it is a journey into the dusk and then the darkness - and then out on to the other side, where, once someone is dead, a life can be seen whole again."
 
