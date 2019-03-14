@@ -3,7 +3,8 @@ name: "Elmer storytime and crafts"
 location: lavenham-library
 location-text: Lavenham Library
 event-start-date: 2019-04-10
-event-start-time: 1530
+event-start-time: 1400
+event-end-time: 1530
 event-category: easter-holidays
 breadcrumb: y
 ---
