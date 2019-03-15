@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Check out our top Shakespeare retellings for children for Shakespeare Week"
-date: 2018-03-12
+date: 2019-03-15
 author: sophie-green
 category: childrens-ya-books
 excerpt: "Shakespeare Week runs from 12 - 18 March. These new versions of classic Shakespeare texts show you're never too young to meet the Bard."
@@ -11,11 +11,13 @@ featured-link-text: "Check out our children's books for Shakespeare Week."
 breadcrumb: childrens-ya-books
 ---
 
+*Created: 12 March 2018* | *Last updated: 15 March 2019*
+
 ![Shakespeare Stories, Terry Deary's Best Ever Shakespeare Tales, Much Ado About Nothing](/images/featured/featured-childrens-shakespeare.jpg)
 
 Shakespeare Week runs from 12 - 18 March. These new versions of classic Shakespeare texts show you're never too young to meet the Bard.
 
-## [<cite>Shakespeare Stories</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1225561) and [<cite>Shakespeare Stories II</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=18604), by Leon Garfield & Michael Foreman
+## [<cite>Shakespeare Stories</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=18599) and [<cite>Shakespeare Stories II</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=18604), by Leon Garfield & Michael Foreman
 
 Twelve and nine tellings, respectively, of Shakespeare's most memorable dramas in narrative form.
 
@@ -36,6 +38,18 @@ These retellings are also available individually.
 ## [<cite>Tales from Shakespeare</cite>, by Charles & Mary Lamb & Arthur Rackham](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1791699)
 
 The classic re-telling of 20 of the tales first published in 1807. This edition has pen-and-ink illustrations by Arthur Rackham.
+
+## [<cite>To Wee or Not To Wee!</cite>, by Pamela Butchart & Thomas Flintham](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1965925)
+
+> "When Izzy (star of the Baby Aliens series) is asked to tell her friends some exciting stories, she thinks of <cite>Macbeth</cite> – there are battles, loads of gore, excellent witches and even walking trees!
+
+> "Soon her friends want more, so she moves on to <cite>A Midsummer Night’s Dream</cite> (a man with a donkey’s head called Bottom!), <cite>Romeo and Juliet</cite> (kissing – eew!) and <cite>Hamlet</cite> (who left that skull lying about?) and now everyone wants to know more about the Bard!"
+
+## [<cite>A Stage Full of Shakespeare Stories</cite>, by Angela McAllister & Alice Lindstrom](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2431258)
+
+> "Step on to a stage full of stories with this beautiful anthology of 12 stories from Shakespeare, rewritten to be accessible to children aged 7+. Including favourites such as <cite>The Tempest</cite>, <cite>A Midsummer Night's Dream</cite>, <cite>Romeo and Juliet</cite>, <cite>Hamlet</cite> and <cite>Othello</cite>, each story is stunningly illustrated by collage artist Alice Lindstrom."
+
+##
 
 ## [<cite>Twelfth Night</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1708864) and [<cite>Hamlet</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1708863) by Timothy Knapman & Yaniv Shimony and [<cite>A Midsummer Night's Dream</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1298113) by Caroline Plaisted & Yaniv Shimony
 
