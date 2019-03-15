@@ -49,8 +49,6 @@ The classic re-telling of 20 of the tales first published in 1807. This edition 
 
 > "Step on to a stage full of stories with this beautiful anthology of 12 stories from Shakespeare, rewritten to be accessible to children aged 7+. Including favourites such as <cite>The Tempest</cite>, <cite>A Midsummer Night's Dream</cite>, <cite>Romeo and Juliet</cite>, <cite>Hamlet</cite> and <cite>Othello</cite>, each story is stunningly illustrated by collage artist Alice Lindstrom."
 
-##
-
 ## [<cite>Twelfth Night</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1708864) and [<cite>Hamlet</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1708863) by Timothy Knapman & Yaniv Shimony and [<cite>A Midsummer Night's Dream</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1298113) by Caroline Plaisted & Yaniv Shimony
 
 > "The titles in the 'Tales From Shakespeare' series retell some of Shakespeare's most popular and well-known plays. Clear and contemporary language makes these stories easily accessible to young readers."
