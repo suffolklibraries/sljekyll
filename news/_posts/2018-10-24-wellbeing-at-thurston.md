@@ -10,7 +10,7 @@ breadcrumb: news
 
 The Department for Digital, Culture, Media & Sport recently interviewed Friends of [Thurston Library](/libraries/thurston-library/) chairman Richard Fawcett. The clip the DCMS produced will form part of a forthcoming longer video about Suffolk Libraries and highlights the real difference the library makes to the wellbeing of the local community.
 
-<div class=”custom-constrain”>
+<div class="custom-constrain">
 
 <iframe width="620" height="315" src="https://www.youtube.com/embed/LnbwwOGiE2c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
