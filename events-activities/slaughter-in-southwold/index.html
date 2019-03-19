@@ -12,9 +12,7 @@ breadcrumb: events
 
 <p class="tc ma0 mb2">Individual author talks &pound;6; full day &pound;18; Saturday + Sunday ticket &pound;36. Lunch an additional £12 per day.</p>
 
-<h2>Author talks</h2>
-
-<h3>Saturday 15 June</h3>
+<h2>Saturday 15 June</h2>
 
 <div class="custom-prose custom-lh-copy pb4">
 
@@ -58,7 +56,7 @@ breadcrumb: events
 
 </div>
 
-<h3>Sunday 16 June</h3>
+<h2>Sunday 16 June</h2>
 
 <div class="custom-prose custom-lh-copy pb4">
 
@@ -102,9 +100,7 @@ breadcrumb: events
 
 </div>
 
-<h2>Food and other entertainment</h2>
-
-<p class="ma0 mb2">Lunches and the Murder Mystery Night must be booked by 1 June.</p>
+<h2>Other events and activities</h2>
 
 <div class="custom-prose custom-lh-copy pb4">
 
@@ -116,7 +112,7 @@ breadcrumb: events
 
           <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ current_event.url }}" class="blue">{{ current_event.name | remove: "Slaughter in Southwold: " }}</a></h1>
 
-          <p class="{% include /c/page-meta.html %} mb0">{{ current_event.event-start-date }}, {{ current_event.event-start-time }}{% if current_event.event-end-time %}&#8211;{{ current_event.event-end-time }}{% endif %}</p>
+          <p class="{% include /c/page-meta.html %} mb0">{{ current_event.event-start-date | date: "%a %-d %b" }}, {{ current_event.event-start-time }}{% if current_event.event-end-time %}&#8211;{{ current_event.event-end-time }}{% endif %}</p>
 
           <div class="cf{% if current_event.event-image %} pt3{% endif %}">
 
@@ -156,7 +152,7 @@ breadcrumb: events
 
     <li class="dib mr2 mr3-ns"><a class="custom-no-underline" href="/about/member-organisations/friends-of-southwold-library-fosl/"><img src="/images/featured/featured-fosl-logo-small.jpg" alt="The Friends of Southwold Library" /></a></li>
     <li class="dib mr2 mr3-ns"><img src="/images/featured/featured-southwold-arts-centre.jpg" alt="Southwold Arts Centre" /></a></li>
-    <li class="dib mr2 mr3-ns"><a class="custom-no-underline" href="http://www.southwoldartsfestival.co.uk/"><img src="/images/featured/featured-southwold-arts-festival-2018.jpg" alt="Southwold Arts Festival 2018" /></a></li>
+    <li class="dib mr2 mr3-ns"><a class="custom-no-underline" href="http://www.southwoldartsfestival.co.uk/"><img src="/images/featured/featured-southwold-arts-festival-2019.jpg" alt="Southwold Arts Festival 2019" /></a></li>
     <li class="dib mr2 mr3-ns"><a class="custom-no-underline" href="http://thecwa.co.uk/"><img src="/images/featured/featured-cwa-logo.jpg" alt="The Crime Writers' Association" /></a></li>
     <li class="dib mr2 mr3-ns"><img src="/images/featured/featured-bookfest-logo-100.jpg" alt="Suffolk Libraries Bookfest" /></a></li>
 

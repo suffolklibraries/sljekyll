@@ -7,7 +7,7 @@ event-start-date: 2019-06-16
 event-start-time: 1300
 event-end-time: 1400
 event-ticket-price: 12 (with fish) £8 (meat/veggie). Must be booked with choices stated by 1 June.
-event-category: slaughter-2019-misc
+event-category: slaughter-2019-sun
 breadcrumb: y
 event-image: featured/featured-something-fishy.jpg
 event-image-alt: Fishes

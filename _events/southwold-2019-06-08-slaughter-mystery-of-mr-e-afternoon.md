@@ -1,5 +1,5 @@
 ---
-name: "Slaughter in Southwold: Scene Zero Presents: <cite>The Mystery of Mr. E</cite>, by Sophie Hannah - matinee performance"
+name: "Slaughter in Southwold: Scene Zero Presents: <cite>The Mystery of Mr. E</cite>, by Sophie Hannah - afternoon performance"
 location: southwold-library
 location-text: Southwold Library
 event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, Southwold, IP18 6JP"

@@ -7,7 +7,7 @@ event-start-date: 2019-06-15
 event-start-time: 1300
 event-end-timme: 1400
 event-ticket-price: 12. Must be booked with choices stated by 1 June
-event-category: slaughter-2019-misc
+event-category: slaughter-2019-sat
 breadcrumb: y
 event-image: featured/featured-cafe-51.jpg
 event-image-alt: Cafe 51

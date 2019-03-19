@@ -6,7 +6,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-06-15
 event-start-time: 1900
 event-ticket-price: 3 per person
-event-category: slaughter-2019-misc
+event-category: slaughter-2019-sat
 event-ticket-url: https://www.ticketsource.co.uk/slaughterinsouthwold
 breadcrumb: y
 event-image: featured/featured-magnifying-glass.jpg
