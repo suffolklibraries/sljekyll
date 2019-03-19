@@ -2,8 +2,8 @@
 name: "ZooLab Motley Zoo visit"
 location: chantry-library
 location-text: Chantry Library
-event-start-date: 2019-08-15
-event-start-time: 1100
+event-start-date: 2019-08-09
+event-start-time: 1500
 event-category: summer-holidays
 event-ticket-price: 2
 breadcrumb: y
