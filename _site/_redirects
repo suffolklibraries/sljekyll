@@ -127,5 +127,6 @@
 /health/lists/health-lists/sobs-reading-list/ /health/lists/health-lists/hope-reading-list/
 https://www.suffolklibraries.co.uk/new-suggestions/reviews/staff-picks/my-name-is-lucy-barton-by-elizabeth-strou https://www.suffolklibraries.co.uk/new-suggestions/reviews/staff-picks/my-name-is-lucy-barton-by-elizabeth-strout
 /blog/* /news/:splat
+/information-resources/ /research-and-reference/
 
 /*   /404/index.html   404
