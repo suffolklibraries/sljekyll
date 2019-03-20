@@ -6,7 +6,7 @@ event-start-date: 2019-04-18
 event-start-time: 1400
 event-end-time: 1500
 event-ticket-price: 3 adults, £1 children
-event-category: easter-holidays
+event-category: ["easter-holidays", "childrens-month"]
 breadcrumb: y
 ---
 

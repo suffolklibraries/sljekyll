@@ -8,7 +8,7 @@ event-start-time: 1430
 event-end-time: 1530
 event-ticket-url: https://www.ticketsource.co.uk/whats-on/southwold/southwold-arts-centre-st-edmunds-hall/spinning-wheel-theatre-presents-the-velveteen-rabbit
 event-ticket-price: 6 adults, £4 under 12s, £18 for 2 adults and 2 under-12s
-event-category: easter-holidays
+event-category: ["easter-holidays", "childrens-month"]
 breadcrumb: y
 ---
 

@@ -5,7 +5,8 @@ location-text: Gainsborough Community Library
 event-start-date: 2019-04-18
 event-start-time: 1400
 event-end-time: 1600
-event-category: free
+event-ticket-price: free
+event-category: ["easter-holidays", "childrens-month"]
 breadcrumb: y
 ---
 

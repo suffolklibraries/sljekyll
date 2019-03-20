@@ -7,7 +7,7 @@ event-start-date: 2019-04-17
 event-start-time: 1030
 event-ticket-price: 4 per child, accompanying adults free
 event-ticket-url: https://www.ticketsource.co.uk/whats-on/southwold/southwold-arts-centre-st-edmunds-hall/bite-size-ballets-tortoise
-event-category: easter-holidays
+event-category: ["easter-holidays", "childrens-month"]
 breadcrumb: y
 ---
 
