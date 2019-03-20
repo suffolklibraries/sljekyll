@@ -122,10 +122,11 @@
 /news/youth-council-taster-days/ /news/bloc-news/bloc/youth-council-taster-days/
 /news/bloc-news/youth-council-taster-days/ /news/bloc-news/bloc/youth-council-taster-days/
 /elibrary/pressreader/ /elibrary/press-reader/
-/new-suggestions/young-adult/childrens-ya-books/excelsior-shortlist-2019/ /new-suggestions/young-adult//new-suggestions/young-adult/childrens-ya-books/excelsior-shortlist-2019/excelsior-shortlist-2019/
 /super-happy-sunday/ /events-activities/super-happy-sunday/
 /arts/ /bloc/about/
-/health/lists/health-lists/sobs-reading-list/ //health/lists/health-lists/hope-reading-list/
+/health/lists/health-lists/sobs-reading-list/ /health/lists/health-lists/hope-reading-list/
 https://www.suffolklibraries.co.uk/new-suggestions/reviews/staff-picks/my-name-is-lucy-barton-by-elizabeth-strou https://www.suffolklibraries.co.uk/new-suggestions/reviews/staff-picks/my-name-is-lucy-barton-by-elizabeth-strout
+/blog/* /news/:splat
+/information-resources/ /research-and-reference/
 
 /*   /404/index.html   404

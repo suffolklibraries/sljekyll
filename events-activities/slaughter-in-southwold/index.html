@@ -2,16 +2,147 @@
 layout: default
 title: "Slaughter in Southwold"
 breadcrumb: events
-featured: false
-featured-image: "/images/featured/featured-slaughter-2018.jpg"
-featured-alt: "Slaughter in Southwold"
-featured-excerpt: "A feast of author talks, activities, food and film screenings at Southwold Arts Centre, 16 - 17 June 2018."
-featured-link-text: "Find out more"
 ---
 
 <h1 class="{% include /c/page-title.html %} tc">Slaughter in Southwold</h1>
 
-<p class="tc b f4">Thank you for supporting Slaughter in Southwold 2018. See you next year!</p>
+<p class="tc b f4">Southwold Arts Centre, 15 - 16 June 2019</p>
+
+<p class="tc ma0 mb2">Meet and dine with top crime authors and enjoy a musical written by Sophie Hannah, murder mystery dinner written by Ann Cleeves, and crime-themed quiz night. Tickets available from <a href="https://www.ticketsource.co.uk/slaughterinsouthwold">TicketSource</a> and <a href="/libraries/southwold-library/">Southwold Library</a> from 1 April.</p>
+
+<p class="tc ma0 mb2">Individual author talks &pound;6; full day &pound;18; Saturday + Sunday ticket &pound;36. Lunch an additional £12 per day.</p>
+
+<h2>Saturday 15 June</h2>
+
+<div class="custom-prose custom-lh-copy pb4">
+
+  {% assign current_event_list = site.events | where: "event-category", "slaughter-2019-sat" | sort: 'event-start-time' %}
+
+  {% for current_event in current_event_list %}
+
+      <article class="{% include /c/slot.html %}">
+
+          <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ current_event.url }}" class="blue">{{ current_event.name | remove: "Slaughter in Southwold: " }}</a></h1>
+
+          <p class="{% include /c/page-meta.html %} mb0">{{ current_event.event-start-time }}{% if current_event.event-end-time %}&#8211;{{ current_event.event-end-time }}{% endif %}</p>
+
+          <div class="cf{% if current_event.event-image %} pt3{% endif %}">
+
+              {% if current_event.event-image %}
+
+                <div class="custom-g-l2">
+
+                    <img src="/images/{{ current_event.event-image }}" alt="{{ current_event.name }}" class="db center br-100">
+
+                </div>
+
+              {% endif %}
+
+              {% if current_event.event-image %}<div class="custom-g-l4 custom-g-nm">{% endif %}
+
+              <div class="custom-prose custom-lh-copy">
+
+                  {{ current_event.excerpt }}
+
+              </div>
+
+               {% if current_event.event-image %}</div>{% endif %}
+
+          </div>
+
+      </article>
+
+  {% endfor %}
+
+</div>
+
+<h2>Sunday 16 June</h2>
+
+<div class="custom-prose custom-lh-copy pb4">
+
+  {% assign current_event_list = site.events | where: "event-category", "slaughter-2019-sun" | sort: 'event-start-time' %}
+
+  {% for current_event in current_event_list %}
+
+      <article class="{% include /c/slot.html %}">
+
+          <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ current_event.url }}" class="blue">{{ current_event.name | remove: "Slaughter in Southwold: " }}</a></h1>
+
+          <p class="{% include /c/page-meta.html %} mb0">{{ current_event.event-start-time }}{% if current_event.event-end-time %}&#8211;{{ current_event.event-end-time }}{% endif %}</p>
+
+          <div class="cf{% if current_event.event-image %} pt3{% endif %}">
+
+              {% if current_event.event-image %}
+
+                <div class="custom-g-l2">
+
+                    <img src="/images/{{ current_event.event-image }}" alt="{{ current_event.name }}" class="db center br-100">
+
+                </div>
+
+              {% endif %}
+
+              {% if current_event.event-image %}<div class="custom-g-l4 custom-g-nm">{% endif %}
+
+              <div class="custom-prose custom-lh-copy">
+
+                  {{ current_event.excerpt }}
+
+              </div>
+
+               {% if current_event.event-image %}</div>{% endif %}
+
+          </div>
+
+      </article>
+
+  {% endfor %}
+
+</div>
+
+<h2>Other events and activities</h2>
+
+<div class="custom-prose custom-lh-copy pb4">
+
+  {% assign current_event_list = site.events | where: "event-category", "slaughter-2019-misc" | sort: 'event-start-date' %}
+
+  {% for current_event in current_event_list %}
+
+      <article class="{% include /c/slot.html %}">
+
+          <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ current_event.url }}" class="blue">{{ current_event.name | remove: "Slaughter in Southwold: " }}</a></h1>
+
+          <p class="{% include /c/page-meta.html %} mb0">{{ current_event.event-start-date | date: "%a %-d %b" }}, {{ current_event.event-start-time }}{% if current_event.event-end-time %}&#8211;{{ current_event.event-end-time }}{% endif %}</p>
+
+          <div class="cf{% if current_event.event-image %} pt3{% endif %}">
+
+              {% if current_event.event-image %}
+
+                <div class="custom-g-l2">
+
+                    <img src="/images/{{ current_event.event-image }}" alt="{{ current_event.name }}" class="db center br-100">
+
+                </div>
+
+              {% endif %}
+
+              {% if current_event.event-image %}<div class="custom-g-l4 custom-g-nm">{% endif %}
+
+              <div class="custom-prose custom-lh-copy">
+
+                  {{ current_event.excerpt }}
+
+              </div>
+
+               {% if current_event.event-image %}</div>{% endif %}
+
+          </div>
+
+      </article>
+
+  {% endfor %}
+
+</div>
 
 <footer class="{% include /c/content-block.html %} pt2 bt b--light-gray">
 
@@ -21,9 +152,9 @@ featured-link-text: "Find out more"
 
     <li class="dib mr2 mr3-ns"><a class="custom-no-underline" href="/about/member-organisations/friends-of-southwold-library-fosl/"><img src="/images/featured/featured-fosl-logo-small.jpg" alt="The Friends of Southwold Library" /></a></li>
     <li class="dib mr2 mr3-ns"><img src="/images/featured/featured-southwold-arts-centre.jpg" alt="Southwold Arts Centre" /></a></li>
-    <li class="dib mr2 mr3-ns"><a class="custom-no-underline" href="http://www.southwoldartsfestival.co.uk/"><img src="/images/featured/featured-southwold-arts-festival-2018.jpg" alt="Southwold Arts Festival 2018" /></a></li>
+    <li class="dib mr2 mr3-ns"><a class="custom-no-underline" href="http://www.southwoldartsfestival.co.uk/"><img src="/images/featured/featured-southwold-arts-festival-2019.jpg" alt="Southwold Arts Festival 2019" /></a></li>
     <li class="dib mr2 mr3-ns"><a class="custom-no-underline" href="http://thecwa.co.uk/"><img src="/images/featured/featured-cwa-logo.jpg" alt="The Crime Writers' Association" /></a></li>
-    <li class="dib mr2 mr3-ns"><a class="custom-no-underline" href="/bookfest/"><img src="/images/featured/featured-bookfest-logo-100.jpg" alt="Suffolk Libraries Bookfest" /></a></li>
+    <li class="dib mr2 mr3-ns"><img src="/images/featured/featured-bookfest-logo-100.jpg" alt="Suffolk Libraries Bookfest" /></a></li>
 
   </ul>
 

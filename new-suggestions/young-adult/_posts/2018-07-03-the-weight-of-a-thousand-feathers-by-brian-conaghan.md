@@ -17,7 +17,7 @@ genre-alt: "The Weight of a Thousand Feathers"
 
 **[See <cite>The Weight of a Thousand Feathers</cite> in our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2379353)**
 
-> "Bobby Seed is used to going the extra mile for the ones he loves, and he does it willingly. It's up to Bobby to get Mum her pills, to help her up the stairs, to laugh her out of her pain. It's up to Bobby to comfort his little Brother Danny, to explain why Mum's not like the Mum they remember.
+> "Bobby Seed is used to going the extra mile for the ones he loves, and he does it willingly. It's up to Bobby to get Mum her pills, to help her up the stairs, to laugh her out of her pain. It's up to Bobby to comfort his little brother Danny, to explain why Mum's not like the Mum they remember.
 
 > "One day, he's asked to go further. Mum asks him the big question. The one many would find unthinkable. If he agrees, he won't just be soothing her pain. He'll be helping to end it. Would he? Could he?"
 

@@ -30,4 +30,4 @@ Suffolk Libraries arts programmes coordinator Melissa Matthews added: “We deci
 
 “We were keen for the focus to represent the range of creative community activities which libraries now offer, so our ten artists are from a variety of disciplines and backgrounds, from a digital sound artist through to writers and illustrators.”
 
-See also: [Developing a library arts programme with young people, library staff and artists](/blog/bloc/arts-programme/)
+See also: [Developing a library arts programme with young people, library staff and artists](/news/arts-programme/)

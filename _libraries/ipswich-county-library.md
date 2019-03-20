@@ -39,4 +39,6 @@ branch-other-facilities: '<ul>
                           </ul>'
 breadcrumb: y
 branch-pride-and-periods: y
+meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, board games, jigsaw swap."
+branch-news: 'The <a href="/libraries/hub/">Enterprise + Innovation Hub</a> is closed until mid-April due to refurbishment.'
 ---

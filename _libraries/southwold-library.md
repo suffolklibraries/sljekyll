@@ -40,4 +40,5 @@ branch-photocopying: available in colour and black and white up to A4 size
 branch-faxing: y
 branch-scan-to-email: y
 breadcrumb: y
+meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, Lego Club, older people's activities, language courses."
 ---

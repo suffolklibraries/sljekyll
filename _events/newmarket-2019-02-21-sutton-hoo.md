@@ -5,6 +5,7 @@ location-text: Newmarket Library
 event-start-date: 2019-02-21
 event-start-time: 1030
 event-end-time: 1430
+event-category: half-term
 breadcrumb: y
 ---
 

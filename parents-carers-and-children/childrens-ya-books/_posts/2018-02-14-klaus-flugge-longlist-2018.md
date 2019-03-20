@@ -7,7 +7,6 @@ category: childrens-ya-books
 excerpt: "The Klaus Flugge Prize recognises promising and exciting newcomers to children's picture book illustration."
 featured-image: /images/featured/featured-klaus-flugge-prize-2018.jpg
 featured-alt: "Woolf, The Real Boat, Leaf"
-featured-link-text: "Check out the 2017 Klaus Flugge Prize shortlist."
 breadcrumb: childrens-ya-books
 ---
 

@@ -40,4 +40,5 @@ branch-other-facilities: '<ul>
                             <li>Lowestoft branch of the Suffolk Record Office on the first floor. See the <a class="blue" href="https://www.suffolkarchives.co.uk/planning-your-visit/suffolk-record-office-branches/lowestoft-branch/">Suffolk Record Office website</a> for opening hours and contact details</li>
                           </ul>'
 branch-pride-and-periods: y
+meta-description: "Free computer access, wifi, printing, room hire, children's activities, Lego Club, older people's activities, health & wellbeing groups, free sanitary products."
 ---

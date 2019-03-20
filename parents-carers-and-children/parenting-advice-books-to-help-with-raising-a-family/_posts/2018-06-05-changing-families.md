@@ -6,11 +6,16 @@ author: sophie-green
 category: child-family-problems
 excerpt: "Books on all different types of family including single-parenting, separation and step-families."
 breadcrumb: childrens-ya-books
+meta-description: "Positive books to help your child deal with separation and divorce and explaining single-parent families, stepfamilies and same-sex parents."
 ---
 
-To reserve any of the following books for parents/carers and children dealing with changing families to [your local library](/libraries/), click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on [01473 351249](tel:01473351249) or **help@suffolklibraries.co.uk**
+<div class="{% include /c/generic-panel.html %}">
 
-You can [sign up for a library card online](/help/joining-the-library/) for free. You can sign your child up for a library card at any age.
+      <p>To reserve any of the following books for parents/carers and children dealing with changing families to <a href="/libraries/">your local library</a>, click on the links to reserve them from our online catalogue, visit any of our libraries, or contact us on <a href="tel:01473351249">01473 351249</a> or <strong>help@suffolklibraries.co.uk</strong></p>
+
+      <p>You can <a href="/help/joining-the-library/">sign up for a library card online</a> for free. You can sign your child up for a library card at any age.</p>
+
+</div>
 
 ## [<cite>My Family's Changing: a first look at family break-up</cite>, by Pat Thomas & Lesley Harker](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1630593)
 

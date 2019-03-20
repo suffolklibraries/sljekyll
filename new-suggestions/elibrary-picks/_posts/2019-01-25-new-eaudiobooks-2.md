@@ -5,7 +5,7 @@ date: 2019-01-25
 author: sophie-green
 category: elibrary-picks
 tag: elibrary
-excerpt: "Listen to top titles from Kate Atkinson, James Patterson, ."
+excerpt: "Listen to top titles from Kate Atkinson, James Patterson and more."
 featured-image: /images/featured/featured-eaudiobooks-2.jpg
 featured-alt: "Six of Crows, Inspector Morse: Classic BBC Radio Drama Collection"
 breadcrumb: elibrary-picks

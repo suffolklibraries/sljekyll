@@ -1,5 +1,5 @@
 ---
-name: "Suffolk Libraries Presents: <cite>An Ideal Husband</cite> - matinee showing"
+name: "Suffolk Libraries Presents: <cite>An Ideal Husband</cite> - evening showing"
 location: southwold-library
 location-text: Southwold Library
 event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, Southwold, IP18 6JP"

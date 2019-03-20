@@ -5,7 +5,7 @@ location-text: Gainsborough Library
 event-start-date: 2019-03-25
 event-start-time: 1400
 event-end-time: 1600
-event-category: older
+event-category: ["older", "health"]
 breadcrumb: y
 ---
 

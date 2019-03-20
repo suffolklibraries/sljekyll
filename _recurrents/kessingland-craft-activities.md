@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Craft activities: for primary school age children"
+recurrent-title: "Craft activities and Lego Club: for primary school age children"
 recurrent-day: Sunday
 recurrent-times: 1030-1130
 recurrent-location: kessingland-library

@@ -19,4 +19,5 @@ branch-news: '<ul>
               </ul>'
 breadcrumb: y
 branch-local: y
+meta-description: "Books, CDs, DVDs, free computer access, children's activities."
 ---

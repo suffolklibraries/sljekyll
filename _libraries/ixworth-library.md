@@ -28,4 +28,5 @@ branch-scan-to-email: y
 branch-faxing: y
 branch-borrowing-ereaders-and-ipads: iPad
 breadcrumb: y
+meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, older people's activities."
 ---

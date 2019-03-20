@@ -6,7 +6,7 @@ breadcrumb: branch-room-hire
 # Mezzanine floor (within library)
 
 * Capacity: 25 people for meetings, 40 people in rows
-* Cost: £7 per hour for community/charity/private bookings, £10.50 per hour for commercial/statutory bookings
+* Cost: £7.50 per hour for community/charity/private bookings, £10.50 per hour for commercial/statutory bookings
 * Availability: Outside library opening hours only, subject to other bookings.
 
 ![Bungay mezzanine floor](/images/article/bungay-mezzanine-floor.jpg)

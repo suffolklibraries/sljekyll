@@ -6,6 +6,7 @@ event-start-date: 2019-03-21
 event-start-time: 1430
 event-end-time: 1530
 event-category: older
+event-ticket-price: 1
 breadcrumb: y
 ---
 

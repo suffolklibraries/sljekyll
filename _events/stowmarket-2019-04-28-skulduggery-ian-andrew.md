@@ -5,10 +5,11 @@ location-text: Stowmarket Library
 event-start-date: 2019-04-28
 event-start-time: 1330
 event-end-time: 1420
-event-ticket-price: "5; day tickets £20 (£25 including buffet lunch); Saturday + Sunday tickets £35 (£45 including buffet lunches) - on sale Friday 1 March"
+event-ticket-price: "5; day tickets £20 (£25 including buffet lunch); Saturday + Sunday tickets £35 (£45 including buffet lunches)"
 event-category: skulduggery-2019-sun
 event-image: featured/featured-ian-andrew.jpg
 event-image-alt: Ian Andrew
+event-ticket-url: https://www.ticketsource.co.uk/stowmarket-library
 breadcrumb: y
 ---
 

@@ -13,11 +13,11 @@ breadcrumb: member-organisations
 
 ## Who we are
 
-* Chair and acting events co-ordinator:  Alison Britton
+* Chair and acting events co-ordinator: Alison Britton
 * Vice chair: Sheila Freeman
 * Treasurer: David Borer
 * Minutes secretary: Evelyn Lindqvist
-* Ex officio trustee: Alison Hopkins (library manager)
+* TrusteeL Jane Kirkeby
 * Trustee: Natalie Lloyd-Evans
 * Trustee: David Olds
 * Trustee: Yvonne Sandison
@@ -117,6 +117,15 @@ Having developed great facilities for our younger customers, we are currently co
 
 ## Minutes
 
+* [Minutes - 22 January 2019](/assets/pdf/2019-01-22-fohcl-minutes.pdf) (PDF)
+* [Minutes - 11 December 2018](/assets/pdf/2018-12-11-fohcl-minutes.pdf) (PDF)
+* [Minutes - 30 October 2018](/assets/pdf/2018-10-30-fohcl-minutes.pdf) (PDF)
+* [Minutes - 18 September 2018](/assets/pdf/2018-09-18-fohcl-minutes.pdf) (PDF)
+* [Minutes - 7 August 2018](/assets/pdf/2018-08-07-fohcl-minutes.pdf) (PDF)
+* [Minutes - 19 June 2018](/assets/pdf/2018-06-19-fohcl-minutes.pdf) (PDF)
+* [Minutes - 8 May 2018](/assets/pdf/2018-05-08-fohcl-minutes.pdf) (PDF)
+* [Minutes - 10 April 2018](/assets/pdf/2018-04-10-fohcl-minutes.pdf) (PDF)
+* [Minutes - 27 February 2018](/assets/pdf/2018-02-27-fohcl-minutes.pdf) (PDF)
 * [Minutes - 9 January 2018](/assets/pdf/2018-01-09-fohcl-minutes.pdf) (PDF)
 * [Minutes - 14 November 2017](/assets/pdf/2017-11-14-fohcl-minutes.pdf) (PDF)
 * [Minutes - 3 October 2017](/assets/pdf/2017-10-03-fohcl-minutes.pdf) (PDF)
@@ -126,13 +135,3 @@ Having developed great facilities for our younger customers, we are currently co
 * [Minutes - 31 May 2017](/assets/pdf/2017-05-31-fohcl-minutes.pdf) (PDF)
 * [Minutes - 9 May 2017](/assets/pdf/2017-05-09-fohcl-minutes.pdf) (PDF)
 * [Minutes - 8 March 2017](/assets/pdf/2017-03-08-fohcl-minutes.pdf) (PDF)
-* [Minutes - 22 November 2016](/assets/pdf/2016-11-22-fohcl-minutes.pdf) (PDF)
-* [Minutes - 9 August 2016](/assets/pdf/2016-08-09-fohcl-minutes.pdf) (PDF)
-* [Minutes - 24 May 2016](/assets/pdf/2016-05-24-fohcl-minutes.pdf) (PDF)
-* [Minutes - 15 March 2016](/assets/pdf/2016-03-15-fohcl-minutes.pdf) (PDF)
-* [Minutes - 26 January 2016](/assets/pdf/2016-01-26-fohcl-minutes.pdf) (PDF)
-* [Minutes - 9 December 2015](/assets/pdf/2015-12-09-fohcl-minutes.pdf) (PDF)
-* [Minutes - 27 October 2015](/assets/pdf/2015-10-27-fohcl-minutes.pdf) (PDF)
-* [Minutes - 4 August 2015](/assets/pdf/2015-08-04-fohcl-minutes.pdf) (PDF)
-* [Minutes - 2 June 2015](/assets/pdf/2015-06-02-fohcl-minutes.pdf) (PDF)
-* [Minutes - 5 May 2015](/assets/pdf/2015-05-05-fohcl-minutes.pdf) (PDF)

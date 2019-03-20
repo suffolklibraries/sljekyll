@@ -26,4 +26,5 @@ branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
 branch-payments: cash, cheques and cards accepted
+meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, Lego Club, older people's activities, health & wellbeing groups."
 ---

@@ -122,7 +122,7 @@ Activity: Arts taster with Inside Out
 </td>
 
 <td>
-Activity: Visir Christchurch Mansion and see Rodin's The Kiss sculpture exhibition
+Activity: Visit Christchurch Mansion and see Rodin's The Kiss sculpture exhibition
 </td>
 </tr>
 

@@ -29,4 +29,5 @@ branch-photocopying: A4 only
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/elmswell-library
 breadcrumb: y
+meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, Lego Club, family history group."
 ---

@@ -4,7 +4,7 @@ location: stowmarket-library
 location-text: Stowmarket Library
 event-start-date: 2019-04-29
 event-start-time: 1400
-event-ticket-price: 5 - on sale Friday 1 March
+event-ticket-price: 5
 event-category: skulduggery-2019-mon
 event-image: featured/featured-bookshelf.jpg
 event-image-alt: Brightly-coloured books on a shelf

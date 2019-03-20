@@ -24,4 +24,5 @@ branch-scan-to-email: y
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
 branch-payments: cash, cheques and cards accepted
+meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, older people's book group."
 ---

@@ -15,12 +15,6 @@ breadcrumb: elibrary-picks
 
 We're holding a new health and happiness event, [Super Happy Sunday](/news/super-happy-sunday/), across our libraries on Sunday 27 January. We've put together some eLibrary recommendations to mark the occasion and boost your wellbeing.
 
-## [Mind, body and spirit titles on OverDrive](https://suffolklibraries.overdrive.com/collection/234595)
-
-[Set up OverDrive &rarr;](/elibrary/overdrive/)
-
-Check out eBooks on mindfulness, embracing the present, meditation and more.
-
 ## [Super Happy Sunday collection on BorrowBox](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/mainPage.html?b2bSite=4172&expand=14436&b2bSite=4172)
 
 [Set up BorrowBox &rarr;](/elibrary/borrowbox/)

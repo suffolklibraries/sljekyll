@@ -29,4 +29,5 @@ branch-scan-to-email: y
 branch-for-sale: handmade cards, postage stamps
 breadcrumb: y
 branch-payments: cash, cheques and cards accepted
+meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, older people's activities."
 ---

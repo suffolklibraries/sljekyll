@@ -29,4 +29,5 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/clare-library
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
+meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, older people's activities, film nights."
 ---

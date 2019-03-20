@@ -24,4 +24,5 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
+meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning."
 ---
