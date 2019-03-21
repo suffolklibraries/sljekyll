@@ -5,7 +5,7 @@ location-text: Southwold Library
 event-start-date: 2019-04-11
 event-start-time: 1430
 event-end-time: 1530
-event-category: easter-holidays
+event-category: ["easter-holidays", "childrens-month"]
 breadcrumb: y
 ---
 

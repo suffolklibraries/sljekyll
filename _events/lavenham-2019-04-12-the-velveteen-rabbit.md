@@ -6,7 +6,7 @@ event-start-date: 2019-04-12
 event-start-time: 1430
 event-end-time: 1530
 event-ticket-price: 3 adults, £1 children, £5 for 2 adults and 2 children or 1 adult and up to 3 children
-event-category: easter-holidays
+event-category: ["easter-holidays", "childrens-month"]
 breadcrumb: y
 ---
 

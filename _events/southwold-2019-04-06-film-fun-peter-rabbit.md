@@ -7,7 +7,7 @@ event-start-date: 2019-04-06
 event-start-time: 1030
 event-end-time: 1300
 event-ticket-price: 3 for one child and up to two carers
-event-category: easter-holidays
+event-category: ["easter-holidays", "childrens-month"]
 breadcrumb: y
 ---
 

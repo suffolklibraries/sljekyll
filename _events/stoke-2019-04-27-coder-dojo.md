@@ -7,6 +7,7 @@ event-start-time: 1000
 event-end-time: 1200
 event-ticket-price: free
 event-ticket-url: https://www.eventbrite.co.uk/e/coderdojo-tickets-59058998053
+event-category: childrens-month
 breadcrumb: y
 ---
 

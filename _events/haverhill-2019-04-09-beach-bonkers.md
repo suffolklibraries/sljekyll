@@ -5,7 +5,7 @@ location-text: Haverhill Library
 event-start-date: 2019-04-09
 event-start-time: 1100
 event-end-time: 1300
-event-category: easter-holidays
+event-category: ["easter-holidays", "childrens-month"]
 event-ticket-price: free
 breadcrumb: y
 ---

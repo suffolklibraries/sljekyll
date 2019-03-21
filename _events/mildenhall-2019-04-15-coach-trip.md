@@ -5,7 +5,7 @@ location-text: Mildenhall Library
 event-start-date: 2019-04-15
 event-start-time: 0900
 event-end-time: 1630
-event-category: easter-holidays
+event-category: ["easter-holidays", "childrens-month"]
 event-ticket-price: 20 adults, £10 children
 breadcrumb: y
 ---
