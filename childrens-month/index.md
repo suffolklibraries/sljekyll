@@ -27,7 +27,7 @@ layout: blank
 
     </header>
 
-    <section class="tc pa3 bg-light-gray bt bw3 b--dark-red">
+    <section class="tc pa3 bg-light-yellow bt bw3 b--dark-red">
 
       <h2 class="mt0 pt0 dark-red lh-title ttl tracked small-caps">Suffolk’s favourite children’s book!</h2>
 
@@ -99,7 +99,7 @@ layout: blank
 
         <div class="w-50-ns pr3-ns">
 
-          <img class="db mb1" alt="Man playing with daughter at a table" src="/images/featured/child-event-month.jpg">
+          <img class="db mb1" alt="Children glueing things at a table" src="/images/featured/arts-crafts.jpg">
 
         </div>
 
@@ -121,13 +121,13 @@ layout: blank
 
         <section class="w-50-l pr3-l">
 
-          <h3 class="f5 custom-lh-title">Parenting advice</h3>
+          <h3 class="f5 custom-lh-title"><a class="blue underline-hover" href="">Parenting advice</a></h3>
 
           <div class="flex-ns flex-wrap-ns">
 
             <div class="w-50-ns pr2-ns">
 
-              <img class="db mb1" alt="Man playing with daughter at a table" src="/images/featured/child-event-month.jpg">
+              <img class="db mb1" alt="Children glueing things at a table" src="/images/featured/arts-crafts.jpg">
 
             </div>
 
@@ -143,19 +143,19 @@ layout: blank
 
         <section class="w-50-l pr3-l">
 
-          <h3 class="f5 custom-lh-title">Open Space for 11-16 year olds</h3>
+          <h3 class="f5 custom-lh-title"><a class="blue underline-hover" href="">Open Space for 11-16 year olds</a></h3>
 
           <div class="flex-ns flex-wrap-ns">
 
             <div class="w-50-ns pr2-ns">
 
-              <img class="db mb1" alt="Man playing with daughter at a table" src="/images/featured/child-event-month.jpg">
+              <img class="db mb1" alt="Children glueing things at a table" src="/images/featured/arts-crafts.jpg">
 
             </div>
 
             <div class="w-50-ns pl2-ns">
 
-              <p class="mt0">Looking for reading advice on all sorts of family problems such as ADHD, bullying and sibling rivalry? Try our reading suggestions.</p>
+              <p class="mt0">A space to drop in to listen, chat and think for anyone interested in their wellbeing.</p>
 
             </div>
 
@@ -179,7 +179,9 @@ layout: blank
 
       <h2 class="dark-red custom-lh-title ttl tracked small-caps mb2-ns">Bloc: Youth arts in libraries</h2>
 
-      <p class="mt1 measure center">BLOC is our youth arts programme. Across the county we're working with young people and artists to develop fun and creative activities, happenings &amp; events. <br><strong><a href="/bloc/" class="blue underline-hover" href="/bloc/">Find out about BLOC &rarr;</a></strong></p>
+      <p class="mt1 measure center">BLOC is our youth arts programme. Across the county we're working with young people and artists to develop fun and creative activities, happenings &amp; events.</p>
+
+      <p><strong><a href="/bloc/" class="blue underline-hover" href="/bloc/">Find out about BLOC &rarr;</a></strong></p>
 
       <div class="flex flex-wrap justify-between">
 
@@ -198,6 +200,42 @@ layout: blank
         <figure class="mb3 w-30">
 
           <img src="/images/bloc/bloc-home-03.jpg" alt="Two teenage girls at a desk" />
+
+        </figure>
+
+      </div>
+
+    </section>
+
+    <section class="tc pb3 bb b--light-gray">
+
+      <h2 class="dark-red custom-lh-title ttl tracked small-caps mb2-ns">&hellip;And thousands of reading ideas!</h2>
+
+      <p class="mt1 measure center">We stock thousands of fiction, non-fiction and eBooks for babies, developing readers and young adults.</p>
+
+      <div class="flex-ns flex-wrap-ns justify-between-ns">
+
+        <figure class="mb3 w-30-ns">
+
+          <a class="b db tc blue underline-hover mb1" href="/parents-carers-and-children/childrens-ya-books/">Children’s books</a>
+
+          <a href="/parents-carers-and-children/childrens-ya-books/"><img src="/images/featured/featured-childrens-march-2019.jpg" alt="Children's book covers" /></a>
+
+        </figure>
+
+        <figure class="mb3 w-30-ns">
+
+          <a class="b db tc blue underline-hover mb1" href="/parents-carers-and-children/childrens-ya-books/">Young adult</a>
+
+          <a href="/parents-carers-and-children/childrens-ya-books/"><img src="/images/featured/featured-odd-one-out.jpg" alt="Odd One Out cover" /></a>
+
+        </figure>
+
+        <figure class="mb3 w-30-ns">
+
+          <a class="b db tc blue underline-hover mb1" href="new-suggestions/elibrary-picks/">eBooks &amp; audio</a>
+
+          <a href="/new-suggestions/elibrary-picks/"><img src="/images/featured/featured-elibrary-march-2019.jpg" alt="eBook covers" /></a>
 
         </figure>
 
