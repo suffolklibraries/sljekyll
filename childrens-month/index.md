@@ -256,7 +256,7 @@ layout: blank
     </section>
 
     <section class="tc pb3 bb b--light-gray">
-stock
+
       <h2 class="dark-red custom-lh-title ttl tracked small-caps mb2-ns">Bloc: Youth arts in libraries</h2>
 
       <p class="mt1 measure center">BLOC is our youth arts programme. Across the county we're working with young people and artists to develop fun and creative activities, happenings &amp; events.</p>
