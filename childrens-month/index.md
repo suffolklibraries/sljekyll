@@ -39,53 +39,133 @@ layout: blank
 
       <div class="flex flex-wrap justify-center">
 
-        <div class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
 
-          <img class="db" src="/images/books/unladylike.jpg">
+          <img class="db mb1" src="/images/books/unladylike.jpg">
 
-        </div>
+          <p class="ma0 f6 custom-lh-title">Felixstowe</p>
 
-        <div class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+        </figure>
 
-          <img class="db" src="/images/books/unladylike.jpg">
+        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
 
-        </div>
+          <img class="db mb1" src="/images/books/unladylike.jpg">
 
-        <div class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+          <p class="ma0 f6 custom-lh-title">Ipswich</p>
 
-          <img class="db" src="/images/books/unladylike.jpg">
+        </figure>
 
-        </div>
+        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
 
-        <div class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+          <img class="db mb1" src="/images/books/unladylike.jpg">
 
-          <img class="db" src="/images/books/unladylike.jpg">
+          <p class="ma0 f6 custom-lh-title">Bury</p>
 
-        </div>
+        </figure>
 
-        <div class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
 
-          <img class="db" src="/images/books/unladylike.jpg">
+          <img class="db mb1" src="/images/books/unladylike.jpg">
 
-        </div>
+          <p class="ma0 f6 custom-lh-title">Great Cornard</p>
 
-        <div class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+        </figure>
 
-          <img class="db" src="/images/books/unladylike.jpg">
+        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
 
-        </div>
+          <img class="db mb1" src="/images/books/unladylike.jpg">
 
-        <div class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+          <p class="ma0 f6 custom-lh-title">Wickham Market</p>
 
-          <img class="db" src="/images/books/unladylike.jpg">
+        </figure>
 
-        </div>
+        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
 
-        <div class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+          <img class="db mb1" src="/images/books/unladylike.jpg">
 
-          <img class="db" src="/images/books/unladylike.jpg">
+          <p class="ma0 f6 custom-lh-title">Needham Market</p>
 
-        </div>
+        </figure>
+
+        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+
+          <img class="db mb1" src="/images/books/unladylike.jpg">
+
+          <p class="ma0 f6 custom-lh-title">Long Melford</p>
+
+        </figure>
+
+        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+
+          <img class="db mb1" src="/images/books/unladylike.jpg">
+
+          <p class="ma0 f6 custom-lh-title">Oulton Broad</p>
+
+        </figure>
+
+        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+
+          <img class="db mb1" src="/images/books/unladylike.jpg">
+
+          <p class="ma0 f6 custom-lh-title">Felixstowe</p>
+
+        </figure>
+
+        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+
+          <img class="db mb1" src="/images/books/unladylike.jpg">
+
+          <p class="ma0 f6 custom-lh-title">Ipswich</p>
+
+        </figure>
+
+        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+
+          <img class="db mb1" src="/images/books/unladylike.jpg">
+
+          <p class="ma0 f6 custom-lh-title">Bury</p>
+
+        </figure>
+
+        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+
+          <img class="db mb1" src="/images/books/unladylike.jpg">
+
+          <p class="ma0 f6 custom-lh-title">Great Cornard</p>
+
+        </figure>
+
+        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+
+          <img class="db mb1" src="/images/books/unladylike.jpg">
+
+          <p class="ma0 f6 custom-lh-title">Wickham Market</p>
+
+        </figure>
+
+        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+
+          <img class="db mb1" src="/images/books/unladylike.jpg">
+
+          <p class="ma0 f6 custom-lh-title">Needham Market</p>
+
+        </figure>
+
+        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+
+          <img class="db mb1" src="/images/books/unladylike.jpg">
+
+          <p class="ma0 f6 custom-lh-title">Long Melford</p>
+
+        </figure>
+
+        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+
+          <img class="db mb1" src="/images/books/unladylike.jpg">
+
+          <p class="ma0 f6 custom-lh-title">Oulton Broad</p>
+
+        </figure>
 
       </div>
 
@@ -127,7 +207,7 @@ layout: blank
 
             <div class="w-50-ns pr2-ns">
 
-              <img class="db mb1" alt="Children glueing things at a table" src="/images/featured/arts-crafts.jpg">
+              <img class="db mb1" alt="Parents and toddlers playing" src="/images/featured/kids-month.jpg">
 
             </div>
 
@@ -176,7 +256,7 @@ layout: blank
     </section>
 
     <section class="tc pb3 bb b--light-gray">
-
+stock
       <h2 class="dark-red custom-lh-title ttl tracked small-caps mb2-ns">Bloc: Youth arts in libraries</h2>
 
       <p class="mt1 measure center">BLOC is our youth arts programme. Across the county we're working with young people and artists to develop fun and creative activities, happenings &amp; events.</p>
@@ -211,7 +291,7 @@ layout: blank
 
       <h2 class="dark-red custom-lh-title ttl tracked small-caps mb2-ns">&hellip;And thousands of reading ideas!</h2>
 
-      <p class="mt1 measure center">We stock thousands of fiction, non-fiction and eBooks for babies, developing readers and young adults.</p>
+      <p class="mt1 measure center">We have thousands of fiction, non-fiction and eBooks for babies, developing readers and young adults. Reserve online or download to your device.</p>
 
       <div class="flex-ns flex-wrap-ns justify-between-ns">
 
@@ -240,6 +320,14 @@ layout: blank
         </figure>
 
       </div>
+
+    </section>
+
+    <section class="tc">
+
+      <p class="f4-ns">Don’t have a library card? It’s free, and you can join online.</p>
+
+      <p><strong>{% include /c/button-blue.html text="Get a library card &rarr;" url="/help/joining-the-library/" %}</strong></p>
 
     </section>
 
