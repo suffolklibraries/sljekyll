@@ -1,5 +1,9 @@
 current directory: /home/leon/Sites/sljekyll/vendor/bundle/ruby/2.5.0/gems/ffi-1.10.0/ext/ffi_c
+<<<<<<< HEAD
 /usr/bin/ruby2.5 -r ./siteconf20190320-3418-1merbhg.rb extconf.rb
+=======
+/usr/bin/ruby2.5 -r ./siteconf20190322-32679-s00ml2.rb extconf.rb
+>>>>>>> master
 checking for ffi.h... no
 checking for ffi.h in /usr/local/include,/usr/include/ffi... no
 checking for shlwapi.h... no
@@ -157,4 +161,8 @@ compiling Types.c
 compiling Variadic.c
 compiling ffi.c
 linking shared-object ffi_c.so
+<<<<<<< HEAD
 /usr/bin/install -c -m 0755 ffi_c.so ./.gem.20190320-3418-tuxert
+=======
+/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20190322-32679-16cvk25
+>>>>>>> master
