@@ -201,13 +201,13 @@ layout: blank
 
         <section class="w-50-l pr3-l">
 
-          <h3 class="f5 custom-lh-title"><a class="blue underline-hover" href="">Parenting advice</a></h3>
+          <h3 class="f5 custom-lh-title"><a class="blue underline-hover" href="/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/">Parenting advice</a></h3>
 
           <div class="flex-ns flex-wrap-ns">
 
             <div class="w-50-ns pr2-ns">
 
-              <img class="db mb1" alt="Parents and toddlers playing" src="/images/featured/kids-month.jpg">
+              <a href="/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/"><img class="db mb1" alt="Parents and toddlers playing" src="/images/featured/kids-month.jpg"></a>
 
             </div>
 
@@ -229,7 +229,7 @@ layout: blank
 
             <div class="w-50-ns pr2-ns">
 
-              <img class="db mb1" alt="Children glueing things at a table" src="/images/featured/arts-crafts.jpg">
+              <a href=""><img class="db mb1" alt="Children glueing things at a table" src="/images/featured/arts-crafts.jpg"></a>
 
             </div>
 
