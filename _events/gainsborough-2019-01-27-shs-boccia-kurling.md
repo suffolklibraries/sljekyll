@@ -1,7 +1,7 @@
 ---
 name: "Super Happy Sunday: family Boccia and Kurling session"
 location: gainsborough-community-library
-location-text: Gainsborough Library
+location-text: Gainsborough Community Library
 event-start-date: 2019-01-27
 event-start-time: 1130
 event-end-time: 1300

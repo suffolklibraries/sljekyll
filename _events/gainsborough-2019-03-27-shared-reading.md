@@ -1,7 +1,7 @@
 ---
 name: "Shared Reading taster and information session"
 location: gainsborough-community-library
-location-text: Gainsborough Library
+location-text: Gainsborough Community Library
 event-start-date: 2019-03-27
 event-start-time: 1400
 event-end-time: 1530
