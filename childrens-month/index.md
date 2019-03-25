@@ -23,151 +23,35 @@ layout: blank
 
         </figure>
 
-        <p class="mt2 tc f4 f3-ns measure center"><span class="ttl tracked small-caps">Children’s month is our celebration</span> of everything we offer children of all ages. Find out about children’s activities, how we can help improve literacy and wellbeing and our wonderful range of children’s books.</p>
+        <p class="mt2 tc f4 f3-ns measure center"><span class="ttl tracked small-caps">Children’s month is our celebration</span> of everything we offer children and young adults. Find out about events and activities, how we can help improve literacy and wellbeing and our wonderful range of books.</p>
 
     </header>
 
-    <section class="tc pa3 bg-light-yellow bt bw3 b--dark-red">
+    <section class="pa3 bg-light-yellow bt bw3 b--dark-red">
 
-      <h2 class="mt0 pt0 dark-red lh-title ttl tracked small-caps">Suffolk’s favourite children’s book!</h2>
+      <h2 class="tc mt0 pt0 dark-red lh-title ttl tracked small-caps">Suffolk’s favourite children’s book!</h2>
 
-      <p class="mt1 measure center">We’re finding out what children’s book the people of Suffolk love more than any other. Tell us yours and <strong>enter a prize draw for a free iPad!</strong></p>
+      <p class="tc mt1 measure center">We’re finding out what children’s book the people of Suffolk love more than any other. Tell us yours and <strong>enter a prize draw for a free iPad!</strong></p>
 
-      <p class="b f6 f5-l">{% include /c/button-blue.html text="Tell us your favourite book &rarr;" url="/childrens-month" %}</p>
+      <p class="tc b f6 f4-ns">{% include /c/button-blue.html text="Tell us your favourite book &rarr;" url="https://www.surveymonkey.co.uk/r/childrens-month" %}</p>
 
-      <h3 class="f5 custom-lh-title">Our libraries’ favourite books&hellip;</h3>
+      <h3 class="tc f5 custom-lh-title">Our libraries’ favourite books&hellip;</h3>
 
-      <div class="flex flex-wrap justify-center">
+      <div class="flex-ns flex-wrap-ns">
 
-        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+        <div class="w-50-ns pr3-ns">
 
-          <img class="db mb1" src="/images/books/unladylike.jpg">
+          <a href="/events/april-2019/"><img class="db mb1" alt="Composite image of Fairy Tales, The Land of Never Endings and A Skinful of Shadows" src="/images/featured/featured-carnegie-2019.jpg"></a>
 
-          <p class="ma0 f6 custom-lh-title">Felixstowe</p>
+        </div>
 
-        </figure>
+        <div class="w-50-ns pl3-ns">
 
-        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
+          <p class="mt0">We’ll be revealing our libraries’ top children’s books over Children's Month. <strong><a class="blue underline-hover" href="/events/april-2019/">See what our libraries have chosen for some great reading ideas &rarr;</a></strong></p>
 
-          <img class="db mb1" src="/images/books/unladylike.jpg">
+        </div>
 
-          <p class="ma0 f6 custom-lh-title">Ipswich</p>
-
-        </figure>
-
-        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
-
-          <img class="db mb1" src="/images/books/unladylike.jpg">
-
-          <p class="ma0 f6 custom-lh-title">Bury</p>
-
-        </figure>
-
-        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
-
-          <img class="db mb1" src="/images/books/unladylike.jpg">
-
-          <p class="ma0 f6 custom-lh-title">Great Cornard</p>
-
-        </figure>
-
-        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
-
-          <img class="db mb1" src="/images/books/unladylike.jpg">
-
-          <p class="ma0 f6 custom-lh-title">Wickham Market</p>
-
-        </figure>
-
-        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
-
-          <img class="db mb1" src="/images/books/unladylike.jpg">
-
-          <p class="ma0 f6 custom-lh-title">Needham Market</p>
-
-        </figure>
-
-        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
-
-          <img class="db mb1" src="/images/books/unladylike.jpg">
-
-          <p class="ma0 f6 custom-lh-title">Long Melford</p>
-
-        </figure>
-
-        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
-
-          <img class="db mb1" src="/images/books/unladylike.jpg">
-
-          <p class="ma0 f6 custom-lh-title">Oulton Broad</p>
-
-        </figure>
-
-        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
-
-          <img class="db mb1" src="/images/books/unladylike.jpg">
-
-          <p class="ma0 f6 custom-lh-title">Felixstowe</p>
-
-        </figure>
-
-        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
-
-          <img class="db mb1" src="/images/books/unladylike.jpg">
-
-          <p class="ma0 f6 custom-lh-title">Ipswich</p>
-
-        </figure>
-
-        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
-
-          <img class="db mb1" src="/images/books/unladylike.jpg">
-
-          <p class="ma0 f6 custom-lh-title">Bury</p>
-
-        </figure>
-
-        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
-
-          <img class="db mb1" src="/images/books/unladylike.jpg">
-
-          <p class="ma0 f6 custom-lh-title">Great Cornard</p>
-
-        </figure>
-
-        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
-
-          <img class="db mb1" src="/images/books/unladylike.jpg">
-
-          <p class="ma0 f6 custom-lh-title">Wickham Market</p>
-
-        </figure>
-
-        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
-
-          <img class="db mb1" src="/images/books/unladylike.jpg">
-
-          <p class="ma0 f6 custom-lh-title">Needham Market</p>
-
-        </figure>
-
-        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
-
-          <img class="db mb1" src="/images/books/unladylike.jpg">
-
-          <p class="ma0 f6 custom-lh-title">Long Melford</p>
-
-        </figure>
-
-        <figure class="w-third w-20-ns w-10-l ph1 ph2-ns pv1">
-
-          <img class="db mb1" src="/images/books/unladylike.jpg">
-
-          <p class="ma0 f6 custom-lh-title">Oulton Broad</p>
-
-        </figure>
-
-      </div>
+      </div>    
 
     </section>
 
@@ -223,13 +107,13 @@ layout: blank
 
         <section class="w-50-l pr3-l">
 
-          <h3 class="f5 custom-lh-title"><a class="blue underline-hover" href="">Open Space for 11-16 year olds</a></h3>
+          <h3 class="f5 custom-lh-title"><a class="blue underline-hover" href="/health/open-space/chantry-yp/">Open Space for 11-16 year olds</a></h3>
 
           <div class="flex-ns flex-wrap-ns">
 
             <div class="w-50-ns pr2-ns">
 
-              <a href=""><img class="db mb1" alt="Children glueing things at a table" src="/images/featured/arts-crafts.jpg"></a>
+              <a href="/health/open-space/chantry-yp/"><img class="db mb1" alt="Children sat in a circle in a library" src="/images/featured/open-space-chantry.jpg"></a>
 
             </div>
 
@@ -295,7 +179,7 @@ layout: blank
 
       <div class="flex-ns flex-wrap-ns justify-between-ns">
 
-        <figure class="mb3 w-30-ns">
+        <figure class="mb3 w-50-ns">
 
           <a class="b db tc blue underline-hover mb1" href="/parents-carers-and-children/childrens-ya-books/">Children’s books</a>
 
@@ -303,19 +187,11 @@ layout: blank
 
         </figure>
 
-        <figure class="mb3 w-30-ns">
+        <figure class="mb3 w-50-ns">
 
           <a class="b db tc blue underline-hover mb1" href="/parents-carers-and-children/childrens-ya-books/">Young adult</a>
 
           <a href="/parents-carers-and-children/childrens-ya-books/"><img src="/images/featured/featured-odd-one-out.jpg" alt="Odd One Out cover" /></a>
-
-        </figure>
-
-        <figure class="mb3 w-30-ns">
-
-          <a class="b db tc blue underline-hover mb1" href="new-suggestions/elibrary-picks/">eBooks &amp; audio</a>
-
-          <a href="/new-suggestions/elibrary-picks/"><img src="/images/featured/featured-elibrary-march-2019.jpg" alt="eBook covers" /></a>
 
         </figure>
 
