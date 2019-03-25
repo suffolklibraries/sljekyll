@@ -13,7 +13,7 @@ layout: blank
 
         <figure class="ma0 mt2 pb2">
 
-          <img class="db mb1" alt="A mouse and a mole holding a Children's Month banner" src="/images/featured/childrens-month-web.jpg">
+          <img class="db mb1 center" alt="A mouse and a mole holding a Children's Month banner" src="/images/featured/childrens-month-web.jpg">
 
           <figcaption class="i f6">
 
@@ -41,13 +41,13 @@ layout: blank
 
         <div class="w-50-ns pr3-ns">
 
-          <a href="/events/april-2019/"><img class="db mb1" alt="Composite image of Fairy Tales, The Land of Never Endings and A Skinful of Shadows" src="/images/featured/featured-carnegie-2019.jpg"></a>
+          <a href="/childrens-month/suffolk-libraries-favourite-childrens-books/"><img class="db mb1" alt="Composite image of Fairy Tales, The Land of Never Endings and A Skinful of Shadows" src="/images/featured/featured-carnegie-2019.jpg"></a>
 
         </div>
 
         <div class="w-50-ns pl3-ns">
 
-          <p class="mt0">We’ll be revealing our libraries’ top children’s books over Children's Month. <strong><a class="blue underline-hover" href="/events/april-2019/">See what our libraries have chosen for some great reading ideas &rarr;</a></strong></p>
+          <p class="mt0">We’ll be revealing our libraries’ top children’s books over Children's Month. <strong><a class="blue underline-hover" href="/childrens-month/suffolk-libraries-favourite-childrens-books/">See what our libraries have chosen for some great reading ideas &rarr;</a></strong></p>
 
         </div>
 
@@ -69,7 +69,7 @@ layout: blank
 
         <div class="w-50-ns pl3-ns">
 
-          <p class="mt0">Hundreds of events throughout April and the Easter holidays, including crafts, performances, films, storytelling and more. <br><strong><a class="blue underline-hover" href="/events/april-2019/">Find an event near you &rarr;</a></strong></p>
+          <p class="mt0">Hundreds of events throughout April and the Easter holidays, including crafts, performances, films, storytelling and more. <br><strong><a class="blue underline-hover" href="/childrens-month/childrens-month-events/">Find an event near you &rarr;</a></strong></p>
 
         </div>
 
@@ -189,7 +189,7 @@ layout: blank
 
         <figure class="mb3 w-50-ns">
 
-          <a class="b db tc blue underline-hover mb1" href="/parents-carers-and-children/childrens-ya-books/">Young adult</a>
+          <a class="b db tc blue underline-hover mb1" href="/new-suggestions/young-adult/">Young adult</a>
 
           <a href="/parents-carers-and-children/childrens-ya-books/"><img src="/images/featured/featured-odd-one-out.jpg" alt="Odd One Out cover" /></a>
 

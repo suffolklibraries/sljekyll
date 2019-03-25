@@ -1,0 +1,27 @@
+---
+layout: default
+title: "Suffolk Libraries' favourite children's books"
+breadcrumb: childrens-month
+---
+
+<h1 class="{% include /c/page-title.html %} dib mb4-ns">Suffolk Libraries' favourite children's books</h1>
+
+<div class="custom-flex-container">
+
+{% assign childrens_month_posts = site.posts | where: "tag", "childrens-month" | reverse %}
+
+{% for post in childrens_month_posts limit:30 %}
+
+    <figure class="custom-flex-row-4 pv2 bt b--light-gray">
+
+        <a class="white" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.childrens-month-image }}" alt="{{ post.childrens-month-alt }}"></a>
+
+        <figcaption class="ma0 pa0"><p class="f5 fw6 ma0 pa0 pr2"><a href="{{ post.url }}" class="blue">{{ post.title }}</a></p></figcaption>
+
+        <figcaption class="ma0 pa0"><p class="f5 fw6 ma0 pa0 pr2">{{ post.date | date: "%B %e" }}</p></figcaption>
+
+    </figure>
+
+{% endfor %}
+
+</div>
