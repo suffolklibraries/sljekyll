@@ -1,7 +1,7 @@
 ---
 name: "Top Time: talk from The Howletts"
 location: gainsborough-community-library
-location-text: Gainsborough Library
+location-text: Gainsborough Community Library
 event-start-date: 2019-05-06
 event-start-time: 1400
 event-end-time: 1600

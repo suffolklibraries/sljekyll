@@ -1,7 +1,7 @@
 ---
 name: "Top Time: chair-based Yoga"
 location: gainsborough-community-library
-location-text: Gainsborough Library
+location-text: Gainsborough Community Library
 event-start-date: 2019-03-25
 event-start-time: 1400
 event-end-time: 1600
