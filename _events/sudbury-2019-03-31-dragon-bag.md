@@ -11,4 +11,6 @@ breadcrumb: y
 
 April is Dragon Month at Sudbury Library! We've put together a limited number of dragon activity bags including two craft activities, puzzles and more so you can get involved and beat holiday boredom.
 
+Write a short story or a poem about the dragon you find in your bag for the chance to win a prize!
+
 Keep an eye on the [Sudbury Library webpage](/libraries/sudbury-library/) for details about our Dragon Month events, including a dragon egg hunt!

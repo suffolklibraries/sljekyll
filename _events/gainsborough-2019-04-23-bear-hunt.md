@@ -5,7 +5,7 @@ location-text: Gainsborough Community Library
 event-start-date: 2019-04-23
 event-start-time: 1400
 event-end-time: 1500
-event-category: ["world-book-night", "childrens-month"]
+event-category: childrens-month
 breadcrumb: y
 ---
 
