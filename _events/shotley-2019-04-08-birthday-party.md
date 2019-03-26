@@ -6,6 +6,7 @@ event-start-date: 2019-04-08
 event-start-time: 1500
 event-end-time: 1630
 event-ticket-price: free
+event-category: ["easter-holidays", "childrens-month"]
 breadcrumb: y
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Pampering, shopping and wellbeing fundraising event"
 location: gainsborough-community-library
-location-text: Gainsborough Library
+location-text: Gainsborough Community Library
 event-start-date: 2019-05-11
 event-start-time: 1300
 event-end-time: 1700

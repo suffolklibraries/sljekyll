@@ -5,6 +5,7 @@ location-text: Bury St Edmunds Library
 event-start-date: 2019-04-01
 event-start-time: 1030
 event-end-time: 1100
+event-category: childrens-month
 breadcrumb: y
 ---
 

@@ -5,7 +5,7 @@ location-text: Chantry Library
 event-start-date: 2019-04-20
 event-start-time: 1000
 event-end-time: 1200
-event-category: easter-holidays
+event-category: ["easter-holidays", "childrens-month"]
 breadcrumb: y
 ---
 

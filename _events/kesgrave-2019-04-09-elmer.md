@@ -5,7 +5,7 @@ location-text: Kesgrave Library
 event-start-date: 2019-04-09
 event-start-time: 1430
 event-end-time: 1630
-event-category: easter-holidays
+event-category: ["easter-holidays", "childrens-month"]
 breadcrumb: y
 ---
 

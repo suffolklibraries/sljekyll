@@ -15,10 +15,7 @@ Highlights from our libraries and their friends groups.
 * [Suffolk Libraries Annual Review 2013-2014](/assets/pdf/suffolk-libraries-annual-review-2013-2014.pdf) (PDF)
 * [Suffolk Libraries Annual Review 2012-2013](/assets/pdf/suffolk-libraries-annual-review-2012-2013.pdf) (PDF)
 
-Contact our marketing and communications manager for a full report:
-
-* james.powell@suffolklibraries.co.uk
-* 01473 263837
+Contact our marketing and communications manager for a full report: **james.powell@suffolklibraries.co.uk**
 
 ## 2020 Strategy
 
@@ -37,7 +34,6 @@ Contact our marketing and communications manager for a full report:
 * [Suffolk Libraries 2014 AGM minutes](/assets/pdf/suffolk-libraries-agm-minutes-2014.pdf) (PDF)
 * [Suffolk Libraries 2013 AGM minutes](/assets/pdf/suffolk-libraries-agm-minutes-2013.pdf) (PDF)
 
-
 ## Accounts
 
 * [Suffolk Libraries accounts period ended 31 March 2018](/assets/pdf/suffolk-libraries-accounts-period-ended-31-march-2018.pdf) (PDF)
@@ -51,6 +47,10 @@ Contact our marketing and communications manager for a full report:
 
 * [Library Services Contract](/assets/pdf/library-services-contract-public-version.pdf) (PDF)
 * [Library Services Contract Schedules](/assets/pdf/library-services-contract-schedules-public-version.pdf) (PDF)
+
+## Rules
+
+* [Rules of Suffolk Libraries IPS Limited](/assets/pdf/suffolk-libraries-rules-2018.pdf)
 
 ## Policy documents
 

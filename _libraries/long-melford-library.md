@@ -3,12 +3,12 @@ branch-unique-id: long-melford-library
 branch-name: Long Melford Library
 branch-image: /images/branches/long-melford-library-2.jpg
 branch-monday-hours: Closed
-branch-tuesday-hours:	1400 – 1730
-branch-wednesday-hours: 1400 – 1700
+branch-tuesday-hours:	1000 - 1300, 1400 - 1700
+branch-wednesday-hours: 1000 - 1300, 1400 - 1700
 branch-thursday-hours: Closed
-branch-friday-hours: 1400 – 1900
-branch-saturday-hours: Closed
-branch-sunday-hours: 1200 – 1630
+branch-friday-hours: 1000 - 1300, 1400 - 1700
+branch-saturday-hours: 0900 - 1300
+branch-sunday-hours: Closed
 branch-manager: Jack Norman
 branch-address: United Reformed Church Room, Hall Street, Long Melford
 branch-post-code: CO10 9JT
@@ -27,5 +27,4 @@ branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, older people's activities."
-branch-news: '<a href="/news/long-melford-increases-opening-hours/">The library will be closed for refurbishment from 25 March - 1 April 2019. It will reopen on Tuesday 2 April with increased opening hours</a>.'
 ---

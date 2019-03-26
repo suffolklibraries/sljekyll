@@ -1,7 +1,7 @@
 ---
 name: "Top Time: talk about bees and beekeeping from the Friends of Holywells"
 location: gainsborough-community-library
-location-text: Gainsborough Library
+location-text: Gainsborough Community Library
 event-start-date: 2019-04-29
 event-start-time: 1400
 event-end-time: 1600
