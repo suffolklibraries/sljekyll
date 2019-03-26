@@ -63,7 +63,7 @@ layout: blank
 
         <div class="w-50-ns pr3-ns">
 
-          <img class="db mb1" alt="Children glueing things at a table" src="/images/featured/arts-crafts.jpg">
+          <a href="/childrens-month/childrens-month-events/"><img class="db mb1" alt="Children glueing things at a table" src="/images/featured/arts-crafts.jpg"></a>
 
         </div>
 
@@ -191,7 +191,7 @@ layout: blank
 
           <a class="b db tc blue underline-hover mb1" href="/new-suggestions/young-adult/">Young adult</a>
 
-          <a href="/parents-carers-and-children/childrens-ya-books/"><img src="/images/featured/featured-odd-one-out.jpg" alt="Odd One Out cover" /></a>
+          <a href="/new-suggestions/young-adult/"><img src="/images/featured/featured-odd-one-out.jpg" alt="Odd One Out cover" /></a>
 
         </figure>
 
