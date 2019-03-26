@@ -26,7 +26,7 @@ breadcrumb: childrens-ya-books
 
 > "When Julian gets home, daydreaming of the magic he's seen, all he can think about is dressing up just like the ladies and making his own fabulous mermaid costume. But what will Nana think about the mess he makes - and even more importantly - what will she think about how Julian sees himself?"
 
-### [Little Leaders: Bold Women in Black History</cite>, by Vashti Harrison](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2335201)
+### [<cite>Little Leaders: Bold Women in Black History</cite>, by Vashti Harrison](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2335201)
 
 > "Featuring 40 trailblazing black women in the world's history, this book educates and inspires as it relates true stories of women who broke boundaries and exceeded all expectations.
 

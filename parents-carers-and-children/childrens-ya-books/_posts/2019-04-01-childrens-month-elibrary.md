@@ -11,7 +11,7 @@ featured-alt: "Trolls Original Motion Picture Soundtrack, Annie Original Motion 
 breadcrumb: childrens-ya-books
 ---
 
-April 2019 is Suffolk Libraries Children's Month. We've picked out some top children's titles from our digital music service to mark the occasion.
+April 2019 is [Suffolk Libraries Children's Month](/childrens-month/). We've picked out some top children's titles from our digital music service to mark the occasion.
 
 See also: [Children's eAudiobooks on BorrowBox](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/mainPage.html?b2bSite=4172&expand=10537&b2bSite=4172)
 
