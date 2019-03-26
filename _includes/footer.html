@@ -185,6 +185,18 @@
 
         {% endif %}
 
+        {% if page.breadcrumb == 'branch-room-hire' %}
+
+        <script type="application/ld+json">
+            {
+              "@context": "https://schema.org/",
+              "@type": "MeetingRoom",
+              "name": "{{ page.title }}"
+            }
+        </script>
+
+        {% endif %}
+
     </body>
 
 </html>
