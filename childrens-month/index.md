@@ -29,9 +29,9 @@ layout: blank
 
     <section class="pa3 bg-light-yellow bt bw3 b--dark-red">
 
-      <h2 class="tc mt0 pt0 dark-red lh-title ttl tracked small-caps">Suffolk’s favourite children’s book!</h2>
+      <h2 class="tc mt0 pt0 dark-red lh-title ttl tracked small-caps">Help us find Suffolk’s favourite children’s book!</h2>
 
-      <p class="tc mt1 measure center">We’re finding out what children’s book the people of Suffolk love more than any other. Tell us yours and <strong>enter a prize draw for a free iPad!</strong></p>
+      <p class="tc mt1 measure center">Tell us yours and <strong>enter a prize draw for a free iPad!</strong></p>
 
       <p class="tc b f6 f4-ns">{% include /c/button-blue.html text="Tell us your favourite book &rarr;" url="https://www.surveymonkey.co.uk/r/childrens-month" %}</p>
 
