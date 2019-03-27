@@ -108,6 +108,16 @@ Quiz with Jacqui
 
 <tr>
 <td>
+10.06.19
+</td>
+
+<td>
+Walk to Abbey Gardens (weather permitting!)
+</td>
+</tr>
+
+<tr>
+<td>
 17.06.19
 </td>
 
