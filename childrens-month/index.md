@@ -183,7 +183,7 @@ layout: blank
 
           <a class="b db tc blue underline-hover mb1" href="/parents-carers-and-children/childrens-ya-books/">Children’s books</a>
 
-          <a href="/parents-carers-and-children/childrens-ya-books/"><img src="/images/featured/featured-childrens-march-2019.jpg" alt="Children's book covers" /></a>
+          <a href="/parents-carers-and-children/childrens-ya-books/"><img src="/images/featured/featured-childrens-april-2019.jpg" alt="Tyna of the Lake, Ada Twist and the Perilous Pantaloons and What a Waste book covers" /></a>
 
         </figure>
 
@@ -191,7 +191,7 @@ layout: blank
 
           <a class="b db tc blue underline-hover mb1" href="/new-suggestions/young-adult/">Young adult</a>
 
-          <a href="/new-suggestions/young-adult/"><img src="/images/featured/featured-odd-one-out.jpg" alt="Odd One Out cover" /></a>
+          <a href="/new-suggestions/young-adult/"><img src="/images/featured/featured-young-adult-april-2019.jpg" alt="Scar, The Hand, the Heart and the Eye, How to Make Friends with the Dark covers" /></a>
 
         </figure>
 
