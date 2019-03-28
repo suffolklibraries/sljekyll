@@ -1,8 +1,8 @@
 ---
-recurrent-title: 'Woodbridge Novelists'
-recurrent-description: 'A reciprocal critiquing group for novel-writers who are working towards publication. Visit the <a href="https://sites.google.com/site/woodbridgenovelists/home">Woodbridge Novelists website</a> for more information.'
-recurrent-day: Fortnightly on Wednesday
-recurrent-times: in the morning
+recurrent-title: 'Woodbridge Book Writers (all genres)'
+recurrent-description: 'A reciprocal critiquing group for those working towards publication. Email <strong>jane@bakwon.com</strong> for more information.'
+recurrent-day: first and third Wednesdays of the month
+recurrent-times: 1000-1200
 recurrent-location: woodbridge-library
 recurrent-location-display-name: Woodbridge Library
 recurrent-location-display-url: /branches/woodbridge-library/
