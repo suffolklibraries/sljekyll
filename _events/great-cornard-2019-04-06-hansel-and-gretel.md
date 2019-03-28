@@ -4,6 +4,7 @@ location: great-cornard-library
 location-text: Great Cornard Library
 event-start-date: 2019-04-06
 event-doors-open: 1430
+event-start-time: 1500
 event-category: ["easter-holidays", "childrens-month"]
 event-ticket-price: 4 each or £15 for a family of 4
 breadcrumb: y
