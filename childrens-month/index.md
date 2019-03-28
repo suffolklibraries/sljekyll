@@ -1,15 +1,12 @@
 ---
 title: "Children&#8217;s Month: April 2019"
 layout: blank
-<<<<<<< HEAD
 featured-image: /images/featured/childrens-month-web.jpg
 featured-alt: "A mouse and a mole holding a Children's Month banner. Illustration by James Mayhew."
 featured: true
 featured-excerpt: "Children's month is our celebration of everything we offer children and young adults, from Easter events and brilliant books to arts and wellbeing activities."
 featured-link-text: "Find out more"
-=======
 breadcrumb: home
->>>>>>> 546dc32e94d7e20d923812a110ef1d3a05526680
 ---
 
 <article class="ph2 ph3-ns pv3 pv4-l bg-white">
