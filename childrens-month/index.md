@@ -1,11 +1,14 @@
 ---
 title: "Children&#8217;s Month 2019"
 layout: blank
+breadcrumb: home
 ---
 
 <article class="ph2 ph3-ns pv3 pv4-l bg-white">
 
   <div class="custom-max-width">
+
+    {% include breadcrumb.html %}
 
     <header class="bb b--light-gray pb3-ns">
 
@@ -47,7 +50,7 @@ layout: blank
 
         <div class="w-50-ns pl3-ns">
 
-          <p class="mt0">We’ll be revealing our libraries’ top children’s books over Children's Month. <strong><a class="blue underline-hover" href="/childrens-month/suffolk-libraries-favourite-childrens-books/">See what our libraries have chosen for some great reading ideas &rarr;</a></strong></p>
+          <p class="mt0">We’ll be revealing our libraries’ top children’s books over Children's Month. <a class="blue underline-hover" href="/childrens-month/suffolk-libraries-favourite-childrens-books/">See our libraries’ favourite books &rarr;</a></p>
 
         </div>
 
@@ -179,7 +182,7 @@ layout: blank
 
       <div class="flex-ns flex-wrap-ns justify-between-ns">
 
-        <figure class="mb3 w-50-ns">
+        <figure class="mb3 w-50-ns pr3-ns">
 
           <a class="b db tc blue underline-hover mb1" href="/parents-carers-and-children/childrens-ya-books/">Children’s books</a>
 
@@ -187,7 +190,7 @@ layout: blank
 
         </figure>
 
-        <figure class="mb3 w-50-ns">
+        <figure class="mb3 w-50-ns pl3-ns">
 
           <a class="b db tc blue underline-hover mb1" href="/new-suggestions/young-adult/">Young adult</a>
 
