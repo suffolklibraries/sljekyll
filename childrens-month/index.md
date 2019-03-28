@@ -1,16 +1,22 @@
 ---
 title: "Children&#8217;s Month: April 2019"
 layout: blank
+<<<<<<< HEAD
 featured-image: /images/featured/childrens-month-web.jpg
 featured-alt: "A mouse and a mole holding a Children's Month banner. Illustration by James Mayhew."
 featured: true
 featured-excerpt: "Children's month is our celebration of everything we offer children and young adults, from Easter events and brilliant books to arts and wellbeing activities."
 featured-link-text: "Find out more"
+=======
+breadcrumb: home
+>>>>>>> 546dc32e94d7e20d923812a110ef1d3a05526680
 ---
 
 <article class="ph2 ph3-ns pv3 pv4-l bg-white">
 
   <div class="custom-max-width">
+
+    {% include breadcrumb.html %}
 
     <header class="bb b--light-gray pb3-ns">
 
@@ -52,7 +58,7 @@ featured-link-text: "Find out more"
 
         <div class="w-50-ns pl3-ns">
 
-          <p class="mt0">We’ll be revealing our libraries’ top children’s books over Children's Month. <strong><a class="blue underline-hover" href="/childrens-month/suffolk-libraries-favourite-childrens-books/">See what our libraries have chosen for some great reading ideas &rarr;</a></strong></p>
+          <p class="mt0">We’ll be revealing our libraries’ top children’s books over Children's Month. <a class="blue underline-hover" href="/childrens-month/suffolk-libraries-favourite-childrens-books/">See our libraries’ favourite books &rarr;</a></p>
 
         </div>
 
@@ -184,7 +190,7 @@ featured-link-text: "Find out more"
 
       <div class="flex-ns flex-wrap-ns justify-between-ns">
 
-        <figure class="mb3 w-50-ns">
+        <figure class="mb3 w-50-ns pr3-ns">
 
           <a class="b db tc blue underline-hover mb1" href="/parents-carers-and-children/childrens-ya-books/">Children’s books</a>
 
@@ -192,7 +198,7 @@ featured-link-text: "Find out more"
 
         </figure>
 
-        <figure class="mb3 w-50-ns">
+        <figure class="mb3 w-50-ns pl3-ns">
 
           <a class="b db tc blue underline-hover mb1" href="/new-suggestions/young-adult/">Young adult</a>
 
@@ -206,7 +212,7 @@ featured-link-text: "Find out more"
 
     <section class="tc">
 
-      <p class="f4-ns">Don’t have a library card? It’s free, and you can join online.</p>
+      <p class="f4-ns">Don’t have a library card? It’s free, and you can join online. <br>(And we don’t charge for children’s late returns!)</p>
 
       <p><strong>{% include /c/button-blue.html text="Get a library card &rarr;" url="/help/joining-the-library/" %}</strong></p>
 
