@@ -4,7 +4,7 @@ location: sudbury-library
 location-text: Sudbury Library
 event-start-date: 2019-03-31
 event-end-date: 2019-04-30
-event-category: easter-holidays
+event-category: ["childrens-month", "easter-holidays"]
 breadcrumb: y
 ---
 
