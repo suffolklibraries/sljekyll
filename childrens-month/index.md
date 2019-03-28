@@ -204,7 +204,7 @@ breadcrumb: home
 
     <section class="tc">
 
-      <p class="f4-ns">Don’t have a library card? It’s free, and you can join online.</p>
+      <p class="f4-ns">Don’t have a library card? It’s free, and you can join online. <br>(And we don’t charge for children’s late returns!)</p>
 
       <p><strong>{% include /c/button-blue.html text="Get a library card &rarr;" url="/help/joining-the-library/" %}</strong></p>
 
