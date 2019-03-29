@@ -5,7 +5,7 @@ featured-image: /images/featured/childrens-month-web.jpg
 featured-alt: "A mouse and a mole holding a Children's Month banner. Illustration by James Mayhew."
 featured: true
 featured-excerpt: "Children's month is our celebration of everything we offer children and young adults, from Easter events and brilliant books to arts and wellbeing activities."
-featured-link-text: "Find out more"
+featured-link-text: "Find out more about Children’s Month"
 breadcrumb: home
 ---
 
@@ -31,7 +31,7 @@ breadcrumb: home
 
         </figure>
 
-        <p class="mt2 tc f4 f3-ns measure center"><span class="ttl tracked small-caps">Children’s month is our celebration</span> of everything we offer children and young adults. Find out about events and activities, how we can help improve literacy and wellbeing and our wonderful range of books.</p>
+        <p class="mt2 tc f4 f3-ns measure center"><span class="ttl tracked small-caps">Children’s Month is our celebration</span> of everything we offer children and young adults. Find out about events and activities, how we can help improve literacy and wellbeing and our wonderful range of books.</p>
 
     </header>
 
@@ -77,7 +77,7 @@ breadcrumb: home
 
         <div class="w-50-ns pl3-ns">
 
-          <p class="mt0">Hundreds of events throughout April and the Easter holidays, including crafts, performances, films, storytelling and more. <br><strong><a class="blue underline-hover" href="/childrens-month/childrens-month-events/">Find an event near you &rarr;</a></strong></p>
+          <p class="mt0">Dozens of events throughout April and the Easter holidays, including crafts, performances, films, storytelling and more. <br><strong><a class="blue underline-hover" href="/childrens-month/childrens-month-events/">Find an event near you &rarr;</a></strong></p>
 
         </div>
 

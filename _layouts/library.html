@@ -445,11 +445,13 @@
 
                           {% assign current = page.branch-unique-id %}
 
-                          {% assign events = site.events | sort: 'event-start-date'%}
+                          {% assign events = site.events | sort: 'event-start-date' %}
 
                           {% for event in events %}
 
                               {% if event.location == current %}
+
+                                {% unless event.hide-from-lib-page %}
 
                                   {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
 
@@ -490,6 +492,8 @@
                                       </article>
 
                                   {% endif %}
+
+                                {% endunless %}
 
                               {% endif %}
 

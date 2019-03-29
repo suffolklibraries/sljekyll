@@ -1,11 +1,6 @@
 ---
 title: "BLOC: Building Libraries on Creativity"
 layout: blank
-featured: false
-featured-excerpt: BLOC is our youth arts programme, helping young people develop arts and culture activities in libraries from 2018-22.
-featured-link-text: Find out about BLOC
-featured-image: "/images/bloc/culture-lab.jpg"
-featured-alt: "Magazine cut out collage"
 ---
 
 {% include hnav-small.html menu="bloc" %}
