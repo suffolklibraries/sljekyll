@@ -1,11 +1,6 @@
 ---
 title: "BLOC: Building Libraries on Creativity"
 layout: blank
-featured: false
-featured-excerpt: BLOC is our youth arts programme, helping young people develop arts and culture activities in libraries from 2018-22.
-featured-link-text: Find out about BLOC
-featured-image: "/images/bloc/culture-lab.jpg"
-featured-alt: "Magazine cut out collage"
 ---
 
 {% include hnav-small.html menu="bloc" %}
@@ -76,7 +71,7 @@ featured-alt: "Magazine cut out collage"
                 <img class="db mw3 mw4-ns mw-100-l h-auto center br-100" src="/images/bloc/featured-literature-square.png" alt="Literature">
 
                 <p class="f6 mb0 lh-title tc">Literature</p>
-
+https://www.apple.com/uk/shop/buy-mac/macbook-pro/13-inch-space-grey-2.3ghz-dual-core-128gb
             </div>
 
             <div class="w-40 ph2 ph0-l mv2 w-30-m c-w-17-l">
