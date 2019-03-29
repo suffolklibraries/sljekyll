@@ -1,7 +1,7 @@
 ---
 title: "BLOC: Building Libraries on Creativity"
 layout: blank
-featured: true
+featured: false
 featured-excerpt: BLOC is our youth arts programme, helping young people develop arts and culture activities in libraries from 2018-22.
 featured-link-text: Find out about BLOC
 featured-image: "/images/bloc/culture-lab.jpg"
@@ -26,7 +26,7 @@ featured-alt: "Magazine cut out collage"
 
             <div class="w-50-l pl3-l">
 
-              <p class="f4 mt2 mb1">BLOC is Suffolk Libraries' youth arts programme. Across the county we're working with young people and artists to develop fun and creative activities, happenings &amp; events.</p>
+              <p class="f4 mt2 mb1"><strong>BLOC is Suffolk Libraries' youth arts programme.</strong> Across the county we're working with young people and artists to develop fun and creative activities, happenings &amp; events.</p>
 
               <ul class="list ma0 pa0">
 
@@ -39,11 +39,11 @@ featured-alt: "Magazine cut out collage"
 
           </div>
 
-          <video class="mw-100 h-auto db ma0 pa0 bg-black" controls poster="/images/bloc/bloc-a-year-in-review.jpg">
+          <video class="mw-100 h-auto db ma0 pa0 bg-black" controls poster="/videos/bloc-front-vid.jpg">
 
-              <source src="/videos/bloc-a-year-in-review.webm" type="video/webm">
+              <source src="/videos/bloc-front-page.webm" type="video/webm">
               <source src="/videos/bloc-a-year-in-review.mp4" type="video/mp4">
-              <p>Your browser doesn't support this video. Instead, you can <a href="/videos/bloc.mp4">watch the video</a> in a video player.</p>
+              <p>Your browser doesn't support this video. Instead, you can <a href="/videos/bloc-front-page.webm">watch the video</a> in a video player.</p>
 
           </video>
 
@@ -99,7 +99,7 @@ featured-alt: "Magazine cut out collage"
 
     </section>
 
-    <section class="bg-black gold bb b--white pv3 pv4-ns">
+    <!-- <section class="bg-black gold bb b--white pv3 pv4-ns">
 
         <div class="custom-max-width flex-l flex-wrap-l justify-between-l">
 
@@ -121,7 +121,7 @@ featured-alt: "Magazine cut out collage"
 
         </div>
 
-    </section>
+    </section> -->
 
     <section class="pa2 pa3-ns pv5-l bg-light-gray dark-gray b bb b--silver">
 
