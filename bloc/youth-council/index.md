@@ -15,11 +15,9 @@ layout: blank
 
           <div class="flex-ns flex-wrap-ns">
 
-            <div class="w-50-ns pr3-ns mb4">
+            <div class="w-50-ns pr3-ns mb3">
 
-              <p class="f4 f3-ns mt2"><strong>The BLOC Youth Council</strong> designs and helps run the BLOC programme. It holds monthly board meetings and skills building sessions.</p>
-
-              <p class="mb1">Find out more &rarr; email: <span class="gold">arts@suffolklibraries.co.uk</span> / text: <span class="gold">07752 380859</span></p>
+              <p class="f4 f3-ns mt2">The Youth Council aims to make BLOC a programme designed by and for young people. It holds board meetings and skills building sessions monthly.</p>
 
             </div>
 
@@ -30,6 +28,8 @@ layout: blank
             </div>
 
           </div>
+
+          <p class="mb4 tc">email: <span class="gold b">arts@suffolklibraries.co.uk</span> / text: <span class="gold b">07752 380859</span></p>
 
           <video class="mw-100 h-auto db ma0 pa0 bg-black" controls poster="/videos/youth-council-cover.jpg">
 
@@ -103,11 +103,11 @@ layout: blank
 
               <h3 class="f4 custom-lh-title ma0 pa0">Who?</h3>
 
-              <p>You’re opinionated, passionate and between the ages of 11 and 25. You’ll be a board member and influence the creative direction of the Suffolk Libraries arts programme, BLOC.</p>
+              <p>We are looking for opinionated, passionate young people between the ages of 11 –25 to become board members and influence the creative direction of the Suffolk Libraries arts programme BLOC. </p>
 
               <h3 class="f4 custom-lh-title ma0 pa0">What?</h3>
 
-              <p>The Youth Council is open to all. We want to improve the quality of young people’s creative experience in Suffolk. We value the opinions and demands of all our Board Members.</p>
+              <p>The Youth Council is open to all, making it accessible to everyone. Our aim is to improve the quality of young people’s creative experience in Suffolk. We value the opinions and demands of all our Board Members.</p>
 
               <h3 class="f4 custom-lh-title ma0 pa0">Why join?</h3>
 
