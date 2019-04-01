@@ -11,7 +11,7 @@ layout: blank
 
         <div class="custom-max-width">
 
-          <h1 class="ma0 f5 f4-ns tracked ttl small-caps fw3 lightest-blue lh-title"><span class="pb1 bb bw3 b--lightest-blue">Have your say: BLOC Youth Council</span></h1>
+          <h1 class="ma0 f5 f4-ns tracked ttl small-caps normal lightest-blue lh-title"><span class="pb1 bb-ns bw3-ns b--lightest-blue-ns">Have your say: BLOC Youth Council</span></h1>
 
           <div class="flex-ns flex-wrap-ns">
 

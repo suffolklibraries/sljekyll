@@ -11,7 +11,7 @@ layout: blank
 
       <div class="custom-max-width">
 
-        <h1 class="ma0 f5 f4-ns tracked ttl small-caps fw3 washed-blue lh-title"><span class="pb1 bb bw3 b--washed-blue">BLOC artists</span></h1>
+        <h1 class="ma0 f5 f4-ns tracked ttl small-caps normal washed-blue lh-title"><span class="pb1 bb-ns bw3-ns b--washed-blue-ns">BLOC artists</span></h1>
 
         <div class="flex-ns flex-wrap-ns">
 
