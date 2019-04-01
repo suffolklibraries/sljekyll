@@ -34,7 +34,7 @@ layout: blank
           <video class="mw-100 h-auto db ma0 pa0 bg-black" controls poster="/videos/youth-council-cover.jpg">
 
               <source src="/videos/bloc-youth-council-vid.webm" type="video/webm">
-              <source src="/videos/bloc-a-year-in-review.mp4" type="video/mp4">
+              <source src="/videos/bloc-youth-council-vid.mp4" type="video/mp4">
               <p>Your browser doesn't support this video. Instead, you can <a href="/videos/bloc-youth-council-vid.webm">watch the video</a> in a video player.</p>
 
           </video>

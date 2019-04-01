@@ -37,7 +37,7 @@ layout: blank
           <video class="mw-100 h-auto db ma0 pa0 bg-black" controls poster="/videos/bloc-front-vid.jpg">
 
               <source src="/videos/bloc-front-page.webm" type="video/webm">
-              <source src="/videos/bloc-a-year-in-review.mp4" type="video/mp4">
+              <source src="/videos/bloc-front-page.mp4" type="video/mp4">
               <p>Your browser doesn't support this video. Instead, you can <a href="/videos/bloc-front-page.webm">watch the video</a> in a video player.</p>
 
           </video>
