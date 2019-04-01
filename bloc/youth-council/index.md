@@ -93,7 +93,7 @@ layout: blank
 
               {% endfor %}
 
-              {% if special-event-check == false %}<p class="{% include /c/page-meta.html %} mb3">No upcoming special events.</p>{% endif %}
+              {% if special-event-check == false %}<p class="{% include /c/page-meta.html %} mb3">No upcoming Youth Council meetings.</p>{% endif %}
 
             </section>
 
