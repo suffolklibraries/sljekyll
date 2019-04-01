@@ -187,7 +187,31 @@ breadcrumb: home
 
       <div class="flex-ns flex-wrap-ns justify-between-ns">
 
-        <figure class="mb3 w-50-ns pr3-ns">
+        <figure class="mb3 w-30-ns">
+
+          <a class="b db tc blue underline-hover mb1" href="/parents-carers-and-children/childrens-ya-books/childrens-month-ones-to-watch/">New authors and illustrators to watch</a>
+
+          <a href="/parents-carers-and-children/childrens-ya-books/childrens-month-ones-to-watch/"><img src="/images/featured/featured-childrens-authors-to-watch.jpg" alt="The Steves, Mary and the Riddle of the Sphinx and WunderSmith book covers" /></a>
+
+        </figure>
+
+        <figure class="mb3 w-30-ns">
+
+          <a class="b db tc blue underline-hover mb1" href="/new-suggestions/young-adult/ya-authors-to-watch/">Up and coming young adult authors</a>
+
+          <a href="/new-suggestions/young-adult/ya-authors-to-watch/"><img src="/images/featured/featured-ya-authors-to-watch.jpg" alt="The Legend of Sally Jones, We are all Made of Molecules and For Everyone book covers" /></a>
+
+        </figure>
+
+        <figure class="mb3 w-30-ns">
+
+          <a class="b db tc blue underline-hover mb1" href="/parents-carers-and-children/childrens-ya-books/childrens-month-elibrary/">Children’s music</a>
+
+          <a href="/parents-carers-and-children/childrens-ya-books/childrens-month-elibrary/"><img src="/images/featured/annie.jpg" alt="Annie soundtrack cover" /></a>
+
+        </figure>
+
+        <figure class="mb3 w-30-ns">
 
           <a class="b db tc blue underline-hover mb1" href="/parents-carers-and-children/childrens-ya-books/">Children’s books</a>
 
@@ -195,7 +219,7 @@ breadcrumb: home
 
         </figure>
 
-        <figure class="mb3 w-50-ns pl3-ns">
+        <figure class="mb3 w-30-ns">
 
           <a class="b db tc blue underline-hover mb1" href="/new-suggestions/young-adult/">Young adult</a>
 
