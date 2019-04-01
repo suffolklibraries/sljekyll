@@ -48,10 +48,10 @@ breadcrumb: help
         Free
       </td>
       <td>
-        13p per day
+        15p per day
       </td>
       <td>
-        £6.37
+        £7.35
       </td>
     </tr>
     <tr>
@@ -68,10 +68,10 @@ breadcrumb: help
         Free
       </td>
       <td>
-        1p per day
+        No charge
       </td>
       <td>
-        50p
+        N/A
       </td>
     </tr>
     <tr>
