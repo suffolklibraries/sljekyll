@@ -1,5 +1,5 @@
 ---
-name: "BLOC Lab Lowestoft"
+name: "BLOC LAB Lowestoft"
 location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2019-10-20

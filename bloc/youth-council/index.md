@@ -11,13 +11,13 @@ layout: blank
 
         <div class="custom-max-width">
 
-          <h1 class="ma0 f6 f5-ns tracked ttl small-caps fw3 lightest-blue lh-title">Have your say: BLOC Youth Council</h1>
+          <h1 class="ma0 f5 f4-ns tracked ttl small-caps fw3 lightest-blue lh-title"><span class="pb1 bb bw3 b--lightest-blue">Have your say: BLOC Youth Council</span></h1>
 
           <div class="flex-ns flex-wrap-ns">
 
             <div class="w-50-ns pr3-ns mb3">
 
-              <p class="f4 f3-ns mt2">The Youth Council aims to make BLOC a programme designed by and for young people. It holds board meetings and skills building sessions monthly.</p>
+              <p class="f4 f3-ns">The Youth Council aims to make BLOC a programme designed by and for young people. It holds board meetings and skills building sessions monthly.</p>
 
             </div>
 

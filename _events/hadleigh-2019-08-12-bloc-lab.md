@@ -1,5 +1,5 @@
 ---
-name: "BLOC Lab Hadleigh"
+name: "BLOC LAB Hadleigh"
 location: hadleigh-library
 location-text: Hadleigh Library
 event-start-date: 2019-08-12

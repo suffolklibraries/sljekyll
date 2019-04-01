@@ -11,13 +11,13 @@ layout: blank
 
       <div class="custom-max-width">
 
-        <h1 class="ma0 f6 f5-ns tracked ttl small-caps fw3 washed-blue lh-title">BLOC artists</h1>
+        <h1 class="ma0 f5 f4-ns tracked ttl small-caps fw3 washed-blue lh-title"><span class="pb1 bb bw3 b--washed-blue">BLOC artists</span></h1>
 
         <div class="flex-ns flex-wrap-ns">
 
           <div class="w-50-ns pr3-ns mb3">
 
-            <p class="f4 f3-ns mt2">BLOC is dedicated to growing libraries as creative community spaces through supporting innovation and artisitic development opportunities in Suffolk’s libraries.</p>
+            <p class="f4 f3-ns">BLOC is dedicated to growing libraries as creative community spaces through supporting innovation and artisitic development opportunities in Suffolk’s libraries.</p>
 
             <p><a href="/bloc/artists/culture-lab" class="b yellow underline-hover">Read about Ipswich Culture Lab &rarr;</a></p>
 
@@ -77,9 +77,9 @@ layout: blank
 
       <div class="custom-max-width">
 
-        <h2 class="f3 custom-lh-title dark-red">BLOC Labs</h2>
+        <h2 class="f3 custom-lh-title dark-red">BLOC LABS</h2>
 
-        <p class="f4 measure">BLOC Labs are week-long mixed media artist residencies in libraries across Suffolk.</p>
+        <p class="f4 measure">BLOC LABS are week-long mixed media artist residencies in libraries across Suffolk.</p>
 
         {% assign special-event-check = false %}
 
