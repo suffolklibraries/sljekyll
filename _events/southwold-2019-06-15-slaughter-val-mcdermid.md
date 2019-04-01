@@ -6,7 +6,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-06-15
 event-start-time: 1530
 event-end-time: 1645
-event-ticket-price: "6; day tickets £18; Saturday + Sunday tickets £36 from 1 April"
+event-ticket-price: "6; day tickets £18; Saturday + Sunday tickets £36"
 event-category: slaughter-2019-sat
 event-image: featured/featured-val-mcdermid.jpg
 event-image-alt: Val McDermid
