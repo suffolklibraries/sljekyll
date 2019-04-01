@@ -20,3 +20,5 @@ On Saturday 23 March, children from both Needhams finally met face-to-face in a 
 Library manager Donna Grand said: “This has been a wonderful opportunity for the children to make new friends, work together on various art projects and learn a little about local history as well as learning about Needham, Massachusetts. The Skype session went very well and lasted approximately 45 minutes.”
 
 One parent who attended the event said: "I thought the library represented Needham Market brilliantly with their care and attention to setting up the Skype session. We may be a small town in comparison but the library made the group look very professional."
+
+Many thanks to Hughes Electrical for providing the equipment for the Skype session.
