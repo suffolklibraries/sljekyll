@@ -10,7 +10,7 @@ event-category: ["easter-holidays", "childrens-month"]
 breadcrumb: y
 ---
 
-Join us for some free board game fun for all ages. From A
+Join us for some free board game fun for all ages. From Animal Upon Animal to Ticket to Ride, Azul to giant snakes & ladders and Rummikub to chess - let's play some games!
 
 ![Zatu Games logo](/images/featured/featured-zatu-games.png)
 
