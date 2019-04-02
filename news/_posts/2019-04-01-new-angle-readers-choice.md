@@ -16,7 +16,7 @@ The six titles on the shortlist are:
 
 * [<cite>Low Country: Brexit on the Essex Coast</cite>, by Tom Bolton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2449517)
 * [<cite>Self & I</cite>, by Matthew De Abaitua](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2355128)
-* [<cite>All Among the Barley</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2419965)
+* [<cite>All Among the Barley</cite>, by Melissa Harrison](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2419965)
 * [<cite>Devoured</cite>, by Anna Mackin](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2448731)
 * [<cite>The Wound Register</cite>, by Esther Morgan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2318643)
 * [<cite>The Great Level</cite>, by Stella Tillyard](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2345396)
