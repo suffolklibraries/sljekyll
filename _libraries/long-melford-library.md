@@ -27,5 +27,4 @@ branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, older people's activities."
-branch-news: '<a href="/news/long-melford-increases-opening-hours/">The library is currently closed for refurbishment. It will reopen on Tuesday 2 April with increased opening hours.</a>'
 ---
