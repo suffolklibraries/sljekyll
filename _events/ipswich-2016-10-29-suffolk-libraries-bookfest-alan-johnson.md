@@ -8,8 +8,6 @@ event-start-time: 1930
 event-end-time: 2100
 event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 event-doors-open: 1900
-event-category: bookfest
-hnav: bookfest
 breadcrumb: y
 ---
 

@@ -28,4 +28,4 @@ Library manager Jack Norman said: "We are closing from 25 March to 1 April for r
 
 During this refurbishment period, the library will not be running their regular activities such as Baby Bounce and Tot Rock, Top Time and Knit and Natter, Stitch and Chatter.
 
-We apologise for any inconvenience caused by the closure. While the library is closed, you can use any other Suffolk library, the nearest being [Sudbury](/libraries/sudbury-library/) and [Glemsford](/libraries/glemsford). You can reserve and renew books through [our catalogue](https://suffolk.spydus.co.uk/).
+We apologise for any inconvenience caused by the closure. While the library is closed, you can use any other Suffolk library, the nearest being [Sudbury](/libraries/sudbury-library/) and [Glemsford](/libraries/glemsford-library/). You can reserve and renew books through [our catalogue](https://suffolk.spydus.co.uk/).

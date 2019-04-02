@@ -32,8 +32,6 @@ This standalone novel is more of a psychological thriller than we are used to fr
 
 One of DI Tom Thorne’s most harrowing cases begins with evidence that someone has been slaughtering cats. ‘Operation Felix’ is not seen as a high priority by Thorne’s boss but what if, instead of working up to homicide, the cat killer is actually cooling down in between human murders?
 
-You can [meet Mark Billingham at Slaughter in Southwold in June](/events/southwold-2018-06-17-slaughter-mark-billingham-martyn-waites/).
-
 ## [<cite>The King's Witch</cite>, by Tracy Borman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2378754)
 
 Tracy Borman has long been a Suffolk Libraries favourite and we interviewed her for [Meet the Author](/new-suggestions/meet-the-author/meet-the-author-tracy-borman/) last July. This is her first novel in a projected trilogy. As you would expect there is an absorbing plot and plenty of historical detail for anyone who enjoys reading about the post-Tudor period.

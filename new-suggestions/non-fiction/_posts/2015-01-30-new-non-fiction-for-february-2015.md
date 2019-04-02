@@ -31,7 +31,7 @@ Major biography tracing the life of T. S. Eliot, from his childhood in the ragti
 
 [![Sesame & spice: baking from the East End to the Middle East by Anne Shooter](/images/article/sesame-and-spice.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4562918?QRY=CTIBIB%3C%20IRN(45907150)&QRYTEXT=Sesame%20%26%20spice%20%3A%20baking%20from%20the%20East%20End%20to%20the%20Middle%20East)
 
-Cinnamon, honey, dates, almonds, apples and pomegranate &#8211; these are all flavours that we have grown to love and enjoy and in this book of recipes <a href="/events-activities/bookfest">Suffolk Libraries Bookfest</a> speaker Anne Shooter has created cakes and bakes that celebrate these wonderful traditional ingredients.
+Cinnamon, honey, dates, almonds, apples and pomegranate &#8211; these are all flavours that we have grown to love and enjoy and in this book of recipes. Anne Shooter has created cakes and bakes that celebrate these wonderful traditional ingredients.
 
 ## [<cite>Ipswich through time</cite> by Caleb Howgego](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4566877?QRY=CTIBIB%3C%20IRN(45907122)&QRYTEXT=Ipswich%20through%20time)
 

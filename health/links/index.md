@@ -121,7 +121,6 @@ Here are some of the organisations and information sources available for a varie
 </ul>
 <h3 id="dementia">Dementia</h3>
 <ul>
-	<li><a href="https://www.ageuk.org.uk/suffolk/our-services/dementia-services/">Age UK Suffolk</a> - Provided to help those who live with or alongside people with dementia</li>
 	<li><a href="https://www.alzheimers.org.uk/info/20007/types_of_dementia/1/what_is_dementia">Alzheimer's Society</a> - What is dementia?</li>
 </ul>
 <h3 id="depression">Depression</h3>

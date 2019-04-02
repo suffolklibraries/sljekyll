@@ -14,7 +14,7 @@ breadcrumb: young-adult
 
 We've put together a list of YA authors we think should be better known for [Suffolk Libraries Children's Month](/childrens-month/)
 
-See also: [Suffolk Libraries Children's Month: authors and illustrators to watch](/parents-carers-and-children/childrens-ya-blog/childrens-month-ones-to-watch/)
+See also: [Suffolk Libraries Children's Month: authors and illustrators to watch](/parents-carers-and-children/childrens-ya-books/childrens-month-ones-to-watch/)
 
 ## Jakob Wegelius
 

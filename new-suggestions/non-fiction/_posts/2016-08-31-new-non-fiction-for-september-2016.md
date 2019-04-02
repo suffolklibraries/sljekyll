@@ -21,7 +21,7 @@ Elizabeth Jane Howard was an acclaimed novelist who is still fondly remembered i
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6123124?QRY=CTIBIB%3C%20IRN(64990719)&QRYTEXT=Queen%20bees%20%3A%20six%20brilliant%20and%20extraordinary%20society%20hostesses%20between%20the%20wars%20-%20a%20spectacle%20of%20celebrity%2C%20talent%2C%20and%20burning%20ambition">Sian Evans: Queen Bees: Six brilliant and extraordinary society hostesses between the wars - a spectacle of celebrity, talent, and burning ambition</a></h2>
 
-<cite>Queen Bees</cite> details the lives of six remarkable women who made careers out of being society hostesses, including Lady Astor, who went on to become the first female MP, and Mrs Greville, who cultivated relationships with Edward VII, as well as Lady Londonderry, Lady Cunard, Laura Corrigan and Lady Colefax. [Sian Evans is one of the speakers at Suffolk Libraries’ Bookfest in October](/events/halesworth-2016-10-27-suffolk-libraries-bookfest-meeting-queen-bees-with-historian-sian-evans/).
+<cite>Queen Bees</cite> details the lives of six remarkable women who made careers out of being society hostesses, including Lady Astor, who went on to become the first female MP, and Mrs Greville, who cultivated relationships with Edward VII, as well as Lady Londonderry, Lady Cunard, Laura Corrigan and Lady Colefax.
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6123799?QRY=CTIBIB%3C%20IRN(38040116)&QRYTEXT=The%20long%20and%20winding%20road">Alan Johnson: The Long and Winding Road</a></h2>
 
