@@ -15,8 +15,6 @@ breadcrumb: young-adult
 
 To mark LGBT History Month 2017, we've expanded our [list of LGBT books for children and young people from 2016](/parents-carers-and-children/childrens-ya-books/lgbt-history-month-for-young-people-in-2016/) to make a bumper list of recommended titles for young adults.
 
-A lot of these books have come from [Juno Dawson's list of diverse YA books](http://www.junodawson.com/2015/06/28/yougotdiversebooks/).
-
 ## [<cite>Oranges are not the Only Fruit</cite>, by Jeanette Winterson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=253573)
 
 > "Jeanette is adopted and brought up by her mother as one of God's elect. Zealous and passionate, she seems destined for life as a missionary, but then she falls for one of her converts. At sixteen, Jeanette decides to leave the church, her home and her family, for the young woman she loves."

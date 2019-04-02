@@ -8,7 +8,7 @@ excerpt: "Suffolk Libraries is pleased to announce that the 24th annual Suffolk 
 breadcrumb: news
 ---
 
-Suffolk Libraries is pleased to announce that the 24th annual Suffolk Libraries Book Mastermind competition has been launched, thanks to the support of the [Suffolk Book League](https://suffolkbookleague.wordpress.com/).
+Suffolk Libraries is pleased to announce that the 24th annual Suffolk Libraries Book Mastermind competition has been launched, thanks to the support of the [Suffolk Book League](http://www.sbl.org.uk/).
 
 The quest to find the county’s next Book Mastermind champion has now begun, with 22 secondary schools across Suffolk taking part in the early rounds of the competition.
 
