@@ -125,6 +125,8 @@ layout: blank
 
               </ul>
 
+              <p class="f3 dark-red">Interested in gaining some great skills and an Arts Award? Join the Youth Council: email <strong>arts@suffolklibraries.co.uk</strong></p>
+
             </section>
 
           </div>
