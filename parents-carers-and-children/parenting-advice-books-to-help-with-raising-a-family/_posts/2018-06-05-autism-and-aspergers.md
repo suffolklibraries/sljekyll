@@ -136,3 +136,9 @@ This introduction to the issue of autism shows how - through imagination, kindne
 > "January 29, 2035. That’s the day the comet is scheduled to hit — the big one. Denise and her mother and sister, Iris, have been assigned to a temporary shelter outside their hometown of Amsterdam to wait out the blast, but Iris is nowhere to be found, and at the rate Denise’s drug-addicted mother is going, they’ll never reach the shelter in time.
 
 > "A last-minute meeting leads them to something better than a temporary shelter — a generation ship, scheduled to leave Earth behind to colonise new worlds after the comet hits. But everyone on the ship has been chosen because of their usefulness. Denise is autistic and fears that she’ll never be allowed to stay. Can she obtain a spot before the ship takes flight? What about her mother and sister? When the future of the human race is at stake, whose lives matter most?"
+
+## [<cite>The State of Grace</cite>, by Rachael Lucas](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2129736)
+
+> "Fifteen-year-old Grace is funny and plain-spoken. Just because she has Asperger's doesn't mean she's great at maths (she's not) or can draw the Eiffel Tower from memory (she can't). Like any teenager, Grace just wants to fit in, so when it turns out that the cutest boy in school likes her, she finds herself falling in with the cool crowd.
+
+> "But with her dad away and her mum distracted there's no one at home to see Grace's younger sister spiralling out of control, and suddenly everything threatens to fall apart - unless Grace can fix things on her own."
