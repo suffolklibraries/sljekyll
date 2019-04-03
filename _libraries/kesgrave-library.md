@@ -22,6 +22,7 @@ branch-parking: 8 free spaces available in front of the library
 branch-bookdrop: y
 branch-for-sale: 1st and 2nd class stamps, greetings cards, hand-made bookmarks, fudge, withdrawn adult fiction and withdrawn children&apos;s fiction.
 branch-other-facilities: "<ul>
+                          <li>Range of children's literacy games to play in the library or borrow for a week</li>
                           <li>Used postage stamp collection point in aid of St Elizabeth's Hospice</li>
                           <li>Fundraising book sale shelf at Grange Farm Tesco</li>
                           </ul>"                         
