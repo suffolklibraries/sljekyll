@@ -27,5 +27,6 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/kedington-library
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
+branch-news: Baby Bounce and Tot Rock are currently not running at this library.
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, older people's activities."
 ---
