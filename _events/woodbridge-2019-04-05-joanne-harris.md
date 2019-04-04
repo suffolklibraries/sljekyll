@@ -1,5 +1,5 @@
 ---
-name: "Browsers Bookshop presents: Joanne Harris in conversation with Catherine Larner"
+name: "Browsers Bookshop presents: Joanne Harris in conversation with Catherine Larner - SOLD OUT"
 location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2019-04-05
@@ -7,6 +7,8 @@ event-start-time: 2000
 event-ticket-price: "20 (includes a copy of <cite>The Strawberry Thief</cite>); £12 for one additional ticket without the book"
 breadcrumb: y
 ---
+
+**This event has now sold out**
 
 Bestselling author Joanne Harris will be at the library discussing literature and storytelling with journalist Catherine Larner.
 
