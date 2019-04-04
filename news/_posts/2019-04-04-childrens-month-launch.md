@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "James Mayhew bring stories to life at Children’s Month launch"
+title: "James Mayhew brings stories to life at Children’s Month launch"
 date: 2019-04-04
 author: james-powell
 featured-image: /images/featured/featured-childrens-month-launch-1.jpg
