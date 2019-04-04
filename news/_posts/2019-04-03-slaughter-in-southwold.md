@@ -14,4 +14,6 @@ This year’s packed programme features Kate Ellis, Mick Herron, Jill Dawson, Va
 
 The festival is organised by Southwold Library manager Charlotte Clark with support from the Friends of Southwold Library and the Crime Writers' Association. It is part of Southwold Arts Festival.
 
+Charlotte said: "It’s wonderful how well-supported Slaughter in Southwold is by the local community and we are proud to bring big name crime authors to our small corner of Suffolk. Outside of our library customers it’s amazing now how far people travel now to enjoy the Slaughter weekend and we hope that the seventh festival is bigger and better than ever."
+
 Slaughter in Southwold has been so successful that it inspired another Suffolk Libraries crime writers' festival. The second [Skulduggery in Stowmarket](/skulduggery/) takes place from 26 - 29 April.

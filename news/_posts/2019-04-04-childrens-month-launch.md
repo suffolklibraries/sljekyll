@@ -24,3 +24,5 @@ A group of twenty 6-7 year olds from Bungay Primary School came along to hear Ja
 Afterwards, he told the story of Baba Yaga Bony Legs, based on the Russian tale, and the story of St George and the Dragon, creating illustrations of the stories whilst storytelling. Inspired by these stories, the children then asked James many questions about his work and the creation of his many ideas.
 
 When it was time to leave, James offered the school the currently unpublished very first copy of the new edition of <cite>Mouse and Mole</cite> for their school library and the two pictures he’d painted during the storytelling.
+
+James said: "“Libraries are real creative hubs, full of sorts of activities and events, particularly at the moment with Children’s Month, but libraries are always doing all sorts of interesting activities. Enjoy the fact that it’s free and it’s available to everyone. It’s a wonderful resource, it’s a great community thing. For me libraries are the absolute pillars of civilisation and to not use them you’d be missing out on so much."
