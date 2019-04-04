@@ -10,6 +10,7 @@ featured-alt: "Tadpole's Promise"
 breadcrumb: childrens-month-favourites
 childrens-month-image: /images/featured/featured-tadpoles-promise-358.jpg
 children-month-alt: "Tadpole's Promise"
+excerpt: "Every day throughout Children's Month (April 2019), we'll be revealing our libraries' favourite books. Today, Bungay Library have chosen <cite>Tadpole's Promise</cite>, by Jeanne Willis & Tony Ross."
 ---
 
 ![Tadpole's Promise](/images/featured/featured-tadpoles-promise.jpg)

@@ -10,6 +10,7 @@ featured-alt: "We're Going on a Bear Hunt"
 breadcrumb: childrens-month-favourites
 childrens-month-image: /images/featured/featured-were-going-on-a-bear-hunt-358.jpg
 children-month-alt: "We're Going on a Bear Hunt"
+excerpt: "Every day throughout Children's Month (April 2019), we'll be revealing our libraries' favourite books. Today, Felixstowe Library have chosen <cite>We're Going on a Bear Hunt</cite>, by Michael Rosen & Helen Oxenbury."
 ---
 
 ![We're Going on a Bear Hunt](/images/featured/featured-were-going-on-a-bear-hunt.jpg)

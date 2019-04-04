@@ -10,6 +10,7 @@ featured-alt: "Treasure Island"
 breadcrumb: childrens-month-favourites
 childrens-month-image: /images/featured/featured-treasure-island-358.jpg
 children-month-alt: "Treasure Island"
+excerpt: "Every day throughout Children's Month (April 2019), we'll be revealing our libraries' favourite books. Today, Chantry Library has chosen <cite>Treasure Island</cite>, by Robert Louis Stevenson."
 ---
 
 ![Treasure Island](/images/featured/featured-treasure-island.jpg)

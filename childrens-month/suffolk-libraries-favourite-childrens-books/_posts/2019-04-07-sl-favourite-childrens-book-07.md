@@ -10,6 +10,7 @@ featured-alt: "The Gruffalo"
 breadcrumb: childrens-month-favourites
 childrens-month-image: /images/featured/featured-the-gruffalo-358.jpg
 children-month-alt: "The Gruffalo"
+excerpt: "Every day throughout Children's Month (April 2019), we'll be revealing our libraries' favourite books. Today, Ipswich County and Newmarket libraries have chosen <cite>The Gruffalo</cite>, by Julia Donaldson & Axel Scheffler."
 ---
 
 ![The Gruffalo](/images/featured/featured-the-gruffalo.jpg)

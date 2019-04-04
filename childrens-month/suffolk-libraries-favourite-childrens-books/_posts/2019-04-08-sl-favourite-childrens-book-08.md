@@ -10,6 +10,7 @@ featured-alt: "Room on the Broom"
 breadcrumb: childrens-month-favourites
 childrens-month-image: /images/featured/featured-room-on-the-broom-358.jpg
 children-month-alt: "Room on the Broom"
+excerpt: "Every day throughout Children's Month (April 2019), we'll be revealing our libraries' favourite books. Today, Leiston Library has chosen <cite>Room on the Broom</cite>, by Julia Donaldson & Axel Scheffler."
 ---
 
 ![Room on the Broom](/images/featured/featured-room-on-the-broom.jpg)

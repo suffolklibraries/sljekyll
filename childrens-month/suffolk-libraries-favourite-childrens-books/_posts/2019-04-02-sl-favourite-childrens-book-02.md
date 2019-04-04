@@ -10,6 +10,7 @@ featured-alt: "Kipper"
 breadcrumb: childrens-month-favourites
 childrens-month-image: /images/featured/featured-kipper-358.jpg
 children-month-alt: "Kipper"
+excerpt: "Every day throughout Children's Month (April 2019), we'll be revealing our libraries' favourite books. Today, Kesgrave Library have chosen <cite>Kipper</cite>, by Mick Inkpen."
 ---
 
 ![Kipper](/images/featured/featured-kipper.jpg)

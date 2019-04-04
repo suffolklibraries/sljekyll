@@ -10,6 +10,7 @@ featured-alt: "Matilda"
 breadcrumb: childrens-month-favourites
 childrens-month-image: /images/featured/featured-matilda-358.jpg
 children-month-alt: "Matilda"
+excerpt: "Every day throughout Children's Month (April 2019), we'll be revealing our libraries' favourite books. Today, Gainsborough Community Library has chosen <cite>Matilda</cite>, by Roald Dahl & Quentin Blake."
 ---
 
 ![Matilda](/images/featured/featured-matilda.jpg)

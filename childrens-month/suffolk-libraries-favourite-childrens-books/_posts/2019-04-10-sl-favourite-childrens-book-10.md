@@ -10,6 +10,7 @@ featured-alt: "The Day the Crayons Quit"
 breadcrumb: childrens-month-favourites
 childrens-month-image: /images/featured/featured-the-day-the-crayons-quit-358.jpg
 children-month-alt: "The Day the Crayons Quit"
+excerpt: "Every day throughout Children's Month (April 2019), we'll be revealing our libraries' favourite books. Today, Lavenham Library has chosen <cite>The Day the Crayons Quit</cite>, by Drew Daywalt & Oliver Jeffers."
 ---
 
 ![The Day the Crayons Quit](/images/featured/featured-the-day-the-crayons-quit.jpg)

@@ -9,7 +9,8 @@ featured-image: /images/featured/featured-the-magic-cutlass.jpg
 featured-alt: "Captain Flinn and the Pirate Dinosaurs: The Magic Cutlass"
 breadcrumb: childrens-month-favourites
 childrens-month-image: /images/featured/featured-the-magic-cutlass-358.jpg
-children-month-alt: "Dog Man"
+children-month-alt: "Captain Flinn and the Pirate Dinosaurs: The Magic Cutlas"
+excerpt: "Every day throughout Children's Month (April 2019), we'll be revealing our libraries' favourite books. Today, Broomhill Library have chosen <cite>Captain Flinn and the Pirate Dinosaurs: The Magic Cutlass</cite>, by Giles Andreae & Russell Ayto."
 ---
 
 ![Captain Flinn and the Pirate Dinosaurs: The Magic Cutlass](/images/featured/featured-the-magic-cutlass.jpg)

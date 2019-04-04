@@ -10,6 +10,7 @@ featured-alt: "This Is Not My Hat"
 breadcrumb: childrens-month-favourites
 childrens-month-image: /images/featured/featured-this-is-not-my-hat-358.jpg
 children-month-alt: "This Is Not My Hat"
+excerpt: "Every day throughout Children's Month (April 2019), we'll be revealing our libraries' favourite books. Today, Needham Market Library have chosen <cite>This Is Not My Hat</cite>, by Jon Klassen."
 ---
 
 ![This Is Not My Hat](/images/featured/featured-this-is-not-my-hat.jpg)

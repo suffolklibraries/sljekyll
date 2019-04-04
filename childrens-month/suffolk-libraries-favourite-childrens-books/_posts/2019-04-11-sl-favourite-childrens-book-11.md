@@ -10,6 +10,7 @@ featured-alt: "Monkey and Me"
 breadcrumb: childrens-month-favourites
 childrens-month-image: /images/featured/featured-monkey-and-me-358.jpg
 children-month-alt: "Monkey and Me"
+excerpt: "Every day throughout Children's Month (April 2019), we'll be revealing our libraries' favourite books. Today, Stoke Library has chosen <cite>Monkey and Me</cite>, by Emily Gravett."
 ---
 
 ![Monkey and Me](/images/featured/featured-monkey-and-me.jpg)
