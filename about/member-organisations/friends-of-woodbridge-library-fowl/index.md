@@ -45,7 +45,7 @@ Complete the [FOWL membership form](/about/member-organisations/friends-of-woodb
 
 ## How are we governed?
 
-We have a Committee of Trustees elected from the membership at FOWL’s annual general meeting in April of each year.
+We have a Committee of Trustees elected from the membership at FOWL’s annual general meeting, which takes place at the library each spring. For more information about this, email **friendsofwoodbridgelibrary@gmail.com**
 
 [Download our constitution](/assets/pdf/fowl-constitution-as-of-april-2014.pdf)
 

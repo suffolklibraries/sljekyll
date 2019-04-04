@@ -1,5 +1,5 @@
 ---
-name: "Giant Wiggle for Action for Children"
+name: "The Giant Wiggle for Action for Children"
 location: haverhill-library
 location-text: Haverhill Library
 event-start-date: 2019-05-07

@@ -13,6 +13,7 @@ Twelve of our libraries currently provide **free sanitary items with no question
 * [Broomhill Library](/libraries/broomhill-library)
 * [Bungay Library](/libraries/bungay-library/)
 * [Bury St Edmunds Library](/libraries/bury-st-edmunds-library/)
+* [Capel St Mary Library](/libraries/capel-st-mary-library)
 * [Chantry Library](/libraries/chantry-library)
 * [Gainsborough Community Library](/libraries/gainsborough-community-library/)
 * [Haverhill Library](/libraries/haverhill-library/)
