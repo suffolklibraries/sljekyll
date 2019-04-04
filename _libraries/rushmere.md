@@ -20,4 +20,5 @@ branch-news: '<ul>
 breadcrumb: y
 branch-local: y
 meta-description: "Books, CDs, DVDs, free computer access, children's activities."
+branch-news: "There will be no session at Rushmere on <strong>Wednesday 1 May</strong>."
 ---
