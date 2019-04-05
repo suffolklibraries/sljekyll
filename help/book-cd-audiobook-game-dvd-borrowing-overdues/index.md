@@ -36,7 +36,7 @@ breadcrumb: help
   <tbody>
     <tr>
       <td>
-        Adult Books (each)
+        Adult books (each)
       </td>
       <td>
         3 weeks
@@ -56,7 +56,27 @@ breadcrumb: help
     </tr>
     <tr>
       <td>
-        Children&#8217;s and Young Adult Books (each)
+        Young Adult books (each)
+      </td>
+      <td>
+        3 weeks
+      </td>
+      <td>
+        20
+      </td>
+      <td>
+        Free
+      </td>
+      <td>
+        1p per day
+      </td>
+      <td>
+        49p
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Children&#8217;s and books (each)
       </td>
       <td>
         3 weeks
