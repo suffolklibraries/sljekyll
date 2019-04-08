@@ -46,7 +46,7 @@ Inspired by [Virginia Woolf's <cite>Mrs Dalloway</cite>](https://suffolk.spydus.
 
 > "But there are lies behind Father John's words. Outside, there are different truths.
 
-> "Then came the fire.
+> "Then came the fire."
 
 ## [<cite>The Illusion of Separateness</cite>, by Simon Van Booy](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1514223)
 

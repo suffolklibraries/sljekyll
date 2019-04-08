@@ -34,9 +34,9 @@ The Kate Greenaway prize celebrates the best-illustrated children's and Young Ad
 
 ## [<cite>Mary's Monster: love, madness and how Mary Shelley created Frankenstein</cite>, by Lita Judge](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2315487)
 
-> "<cite>Mary's Monster</cite> is the compelling and beautifully illustrated story of Mary Shelley - the original rebel girl. When her fractured bond with her beloved father, and her elopement with the mercurial (and married) poet Percy Bysshe Shelley at the age of 16, led her to Switzerland, few could have imagined the consequence would be such a book. But, in the crucible of societal disapproval and tenuous circumstances, Mary Shelley created <cite>Frankenstein</cite>, and his monster, forged in the fire of her troubled and tragic life.
+> "<cite>Mary's Monster</cite> is the compelling and beautifully illustrated story of Mary Shelley - the original rebel girl. When her fractured bond with her beloved father, and her elopement with the mercurial (and married) poet Percy Bysshe Shelley at the age of 16, led her to Switzerland, few could have imagined the consequence would be such a book. But, in the crucible of societal disapproval and tenuous circumstances, Mary Shelley created Frankenstein, and his monster, forged in the fire of her troubled and tragic life.
 
-> "Part biography, part fantasy and part feminist allegory, 'Mary's Monster' is an engrossing take on one remarkable woman. And her monster."
+> "Part biography, part fantasy and part feminist allegory, <cite>Mary's Monster</cite> is an engrossing take on one remarkable woman. And her monster."
 
 ## [<cite>You're Safe with Me</cite>, illustrated by Poonam Mistry, written by Soundar Chitra](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2364064)
 
