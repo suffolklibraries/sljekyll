@@ -9,4 +9,4 @@ event-category: ["easter-holidays", "childrens-month"]
 breadcrumb: y
 ---
 
-Help us celebrate Suffolk Libraries children's month with this free craft session based around one of our favourite children's books.
+Help us celebrate [Suffolk Libraries Children's Month](/childrens-month/) with this free craft session based around one of our favourite children's books.

@@ -40,7 +40,7 @@ UK-based Filipino author who was recently revealed as the new Booktrust Writer i
 
 ## Tomi Adeyemi
 
-Nigerian-American author whose debut, [<cite>Children of Blood and Bone</cite>](/new-suggestions/young-adult/children-of-blood-and-bone-by-tomi-adeyemi/), was one of the most hotly anticipated YA releases of recent years. Sequel [<cite>Children of Virtue and Vengeance</cite>]()https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2463733 is out soon.
+Nigerian-American author whose debut, [<cite>Children of Blood and Bone</cite>](/new-suggestions/young-adult/children-of-blood-and-bone-by-tomi-adeyemi/), was one of the most hotly anticipated YA releases of recent years. Sequel [<cite>Children of Virtue and Vengeance</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2463733) is out soon.
 
 ## Muhammad Khan
 
