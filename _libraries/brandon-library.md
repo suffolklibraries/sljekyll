@@ -28,5 +28,6 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
+branch-news: '<a href="/news/brandon-opening-hours-change/">Brandon Library is changing its opening hours from Monday 20 May 2019.</a>'
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, older people's activities."
 ---
