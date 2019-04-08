@@ -11,4 +11,4 @@ Our library opening hours vary from library to library.
 
 We close for [all UK public holidays](https://www.gov.uk/bank-holidays), including Good Friday and Easter Sunday.
 
-We also close for one extra day over Christmas
+We also close for one extra day over Christmas.
