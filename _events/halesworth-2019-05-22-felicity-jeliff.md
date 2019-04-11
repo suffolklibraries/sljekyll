@@ -9,4 +9,4 @@ event-category: older
 breadcrumb: y
 ---
 
-Seniors are invited to join us in our regular Time Out slot to meet local author Felicity Jellif. Felixity will be talking about her own work and that of her mother, Elizabeth Ashton, who wrote for Mills and Boon.
+Seniors are invited to join us in our regular Time Out slot to meet local author Felicity Jellif. Felicity will be talking about her own work and that of her mother, Elizabeth Ashton, who wrote for Mills and Boon.
