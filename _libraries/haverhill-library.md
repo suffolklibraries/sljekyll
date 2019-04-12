@@ -41,5 +41,8 @@ branch-other-facilities: '<ul>
                           <li>Reach Haverhill foodbank donation point</li>
                           </ul>'
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, sports equipment, free sanitary products."
-branch-news: "The library is looking for donations of plants or plant-related items for their fundraising sale on Saturday 18 May."
+branch-news: '<ul>
+              <li><a href="/news/haverhill-lighting/">Haverhill Library will be closed on Friday 29 April and running a limited service from 30 April - 4 May while it installs new lighting.</a></li>
+              <li>Haverhill Library is looking for donations of plants or plant-related items for their fundraising sale on Saturday 18 May.</li>
+              </ul>'
 ---
