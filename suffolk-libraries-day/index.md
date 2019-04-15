@@ -12,7 +12,7 @@ breadcrumb: home
 
   </div>
 
-  <header class="ph2 ph3-ns bg-lightest-blue bb b--light-gray pt4 pb3 tc">
+  <header class="ph2 ph3-ns bg-lightest-blue bb b--light-gray pt4 pb3 tc c-bg-woodbridge cover">
 
     <div class="custom-max-width">
 
