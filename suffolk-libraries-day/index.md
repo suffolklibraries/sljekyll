@@ -24,7 +24,7 @@ breadcrumb: home
 
         <p class="mt0"><time>12 October 2019</time></p>
 
-        <p class="f4 f3-ns mb4">Show your support for our libraries and their fantastic work in the community. Sponsor special fundraising events taking place across all 44 branches.</p>
+        <p class="f4 f3-ns mb4">Show your support for our libraries by sponsoring special fundraising events taking place across all 44 branches.</p>
 
       </div>
 
