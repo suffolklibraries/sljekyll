@@ -4,11 +4,11 @@ title: "Haverhill Library to undergo lighting replacement"
 date: 2019-04-12
 author: james-powell
 category: news
-excerpt: "Haverhill Library will be closed on Friday 29 April and running a limited service from 30 April - 4 May while it installs new lighting."
+excerpt: "Haverhill Library will be closed on Monday 29 April and running a limited service from 30 April - 4 May while it installs new lighting."
 breadcrumb: news
 ---
 
-Haverhill Library will be closed on Friday 29 April and running a limited service from 30 April - 4 May while it installs new lighting.
+Haverhill Library will be closed on Monday 29 April and running a limited service from 30 April - 4 May while it installs new lighting.
 
 The one-day closure will allow scaffolding to be erected without any risk to staff or customers.
 
