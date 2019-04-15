@@ -24,7 +24,7 @@ breadcrumb: home
 
         <p class="mt0"><time>12 October 2019</time></p>
 
-        <p class="f4 f3-ns mb4">A chance to show your support for our libraries and everything they do for their local communities. Special fundraising events in all 44 of Suffolk’s libraries.</p>
+        <p class="f4 f3-ns mb4">A chance to show your support for Suffolk’s libraries by supporting special fundraising events in all 44 branches.</p>
 
       </div>
 
