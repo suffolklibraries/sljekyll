@@ -12,17 +12,17 @@ breadcrumb: home
 
   </div>
 
-  <header class="bg-lightest-blue bb b--light-gray tc ph2 ph3-ns pv3">
+  <header class="bg-lightest-blue bb b--light-gray tc ph2 ph3-ns pv3 custom-bg-woodbridge cover">
 
-    <div class="custom-max-width center">
+    <div class="measure center">
 
-      <img class="db center" src="/images/sld/sld-logo.png" alt="">
+      <div class="bg-navy white pa2 ph3-ns o-90">
 
-      <h1 class="f2 f1-ns custom-lh-title mb2">Suffolk Libraries Day 2019</h1>
+        <img class="db center" src="/images/sld/sld-logo.png" alt="">
 
-      <p class="mt0"><time>12 October 2019</time></p>
+        <h1 class="f2 f1-ns custom-lh-title mb2">Suffolk Libraries Day 2019</h1>
 
-      <div class="center measure">
+        <p class="mt0"><time>12 October 2019</time></p>
 
         <p class="f4 f3-ns mb4">A chance to show your support for our libraries and everything they do for their local communities. Special fundraising events in all 44 of Suffolk’s libraries.</p>
 
