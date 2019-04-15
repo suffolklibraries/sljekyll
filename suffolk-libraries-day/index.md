@@ -12,9 +12,9 @@ breadcrumb: home
 
   </div>
 
-  <header class="ph2 ph3-ns bg-lightest-blue bb b--light-gray pt4 pb3 tc c-bg-woodbridge cover">
+  <header class="bg-lightest-blue bb b--light-gray tc ph2 ph3-ns pv3">
 
-    <div class="custom-max-width">
+    <div class="custom-max-width center">
 
       <img class="db center" src="/images/sld/sld-logo.png" alt="">
 
