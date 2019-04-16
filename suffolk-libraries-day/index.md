@@ -42,7 +42,7 @@ breadcrumb: home
 
       <figure class="ma0 pv2">
 
-        <img class="db center mv4 shadow-5" src="/images/sld/sld-map.jpg" alt="Map of book's route across Suffolk">
+        <img class="db center mv4" src="/images/sld/sld-map.jpg" alt="Map of book's route across Suffolk">
 
         <figcaption><p class="f6 custom-lh-title tc">The book will visit all 44 of Suffolk’s libraries</p></figcaption>
 
