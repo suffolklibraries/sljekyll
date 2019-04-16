@@ -12,15 +12,15 @@ breadcrumb: home
 
   </div>
 
-  <header class="bg-lightest-blue bb b--light-gray tc ph2 ph3-ns pv3 custom-bg-woodbridge cover">
+  <header class="bg-lightest-blue bb b--light-gray tc ph2 ph3-ns pv3 pv4-ns custom-bg-woodbridge cover">
 
     <div class="measure center">
 
       <div class="bg-navy white pa2 ph3-ns o-90">
 
-        <img class="db center" src="/images/sld/sld-logo.png" alt="">
+        <img class="db center w3 w4-ns h-auto" src="/images/sld/sld-logo.png" alt="">
 
-        <h1 class="f2 f1-ns custom-lh-title mb2">Suffolk Libraries Day 2019</h1>
+        <h1 class="f3 f2-ns custom-lh-title mb2">Suffolk Libraries Day 2019</h1>
 
         <p class="mt0"><time>12 October 2019</time></p>
 
@@ -42,7 +42,7 @@ breadcrumb: home
 
       <figure class="ma0 pv2">
 
-        <img class="db center mv4" src="/images/sld/sld-map.jpg" alt="Map of book's route across Suffolk">
+        <img class="db center mv4 shadow-5" src="/images/sld/sld-map.jpg" alt="Map of book's route across Suffolk">
 
         <figcaption><p class="f6 custom-lh-title tc">The book will visit all 44 of Suffolk’s libraries</p></figcaption>
 
