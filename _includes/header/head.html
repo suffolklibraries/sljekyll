@@ -10,7 +10,11 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
 	<![endif]-->
 
-	{% if page.meta-title %}
+	{% if page.title == 'Events for your health and wellbeing' %}
+
+		<title>{{ page.title }} | strip_html }} &#8211; Suffolk Libraries</title>
+
+	{% elsif page.meta-title %}
 
 		<title>{{ page.meta-title | strip_html }} &#8211; Suffolk Libraries</title>
 
