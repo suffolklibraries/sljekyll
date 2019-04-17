@@ -14,7 +14,7 @@ breadcrumb: meet-the-author
 
 Michelle Paver is a bestselling novelist and children's writer, known for the Chronicles of Ancient Darkness series, set in pre-agricultural Stone Age Europe. The conclusion to the series, [<cite>Ghost Hunter</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=650507), won the <cite>Guardian</cite> Children's Fiction Prize in 2010.
 
-Her books for adults include [<cite>Dark Matter</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=463063), [<cite>Thin Air</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2030616) and her new title, [<cite>Wakenhyrst</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2535233), which will be of special interest to Suffolk readers as it is a gothic novel set in Edwardian Suffolk.
+Her books for adults include [<cite>Dark Matter</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=463063), [<cite>Thin Air</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2030616) and her new title, [<cite>Wakenhyrst</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2535233), which will be of special interest to local readers as it is a gothic novel set in Edwardian Suffolk.
 
 ## 1. Who were your literary influences and heroes as you were growing up?
 
