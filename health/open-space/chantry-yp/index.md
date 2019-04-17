@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Open Space for 11-16 year-olds at Chantry Library
+title: Open Space for 11-17 year-olds at Chantry Library
 sidebar: health
 breadcrumb: health
 ---

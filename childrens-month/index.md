@@ -115,7 +115,7 @@ breadcrumb: home
 
         <section class="w-50-l pr3-l">
 
-          <h3 class="f5 custom-lh-title"><a class="blue underline-hover" href="/health/open-space/chantry-yp/">Open Space for 11-16 year olds</a></h3>
+          <h3 class="f5 custom-lh-title"><a class="blue underline-hover" href="/health/open-space/chantry-yp/">Open Space for 11-17 year olds</a></h3>
 
           <div class="flex-ns flex-wrap-ns">
 
