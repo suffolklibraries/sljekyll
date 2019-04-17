@@ -21,7 +21,7 @@ Find an Open Space meeting near you:
 - [Stowmarket Library](/health/open-space/stowmarket/)
 - [Sudbury Library](/health/open-space/sudbury/)
 
-## Open Space for 11-16 year-olds
+## Open Space for 11-17 year-olds
 
 ![Teenagers in bright clothing sitting on chairs in a circle with a young man in a library](/images/featured/featured-open-space-11-16.jpg)
 
