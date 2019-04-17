@@ -4,7 +4,7 @@ title: "Recommended new audiobooks #19"
 date: 2019-03-25
 author: sophie-green
 category: audiobooks
-excerpt: "Listen to top titles from  and more"
+excerpt: "Listen to top titles from Mari Hannah, Alex Kava, Sara Paretsky and more"
 featured-image: /images/featured/featured-audiobooks-19.jpg
 featured-alt: "Lullaby, The Insider"
 breadcrumb: audiobooks
