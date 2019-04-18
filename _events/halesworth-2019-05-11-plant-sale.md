@@ -2,7 +2,7 @@
 name: "Plant sale"
 location: halesworth-library
 location-text: Halesworth Library
-event-start-date: 2019-04-20
+event-start-date: 2019-05-11
 event-start-time: 1000
 event-end-time: 1230
 breadcrumb: y
