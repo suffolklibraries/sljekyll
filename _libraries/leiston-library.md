@@ -34,4 +34,5 @@ breadcrumb: y
 branch-for-sale: books of stamps
 branch-other-facilities: "Art in the Library - exhibitions of local artists' work"
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, Lego Club, art exhibitions"
+branch-news: 'Find out about local volunteering opportunities at the <a href="/events/aldeburgh-2019-04-27-volunteer-fair/">Aldeburgh Library volunteer fair</a> on Saturday 27 April.'
 ---
