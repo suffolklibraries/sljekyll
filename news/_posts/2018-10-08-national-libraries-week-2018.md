@@ -21,6 +21,6 @@ We get around 10,000 wellbeing enquiries a year and last year our [Books on Pres
 * Reading fiction leads to higher empathy and better relationships with others
 * 76% of adults say reading improves their life and makes them feel good.
 
-We have a number of exciting events taking place across our libraries this week, including [performances from QuirkHouse Theatre Company at Ipswich County and Aldeburgh libraries](/news/talking-in-the-library/), the start of the [Sutton Hoo roadshow at Stoke Library](/news/sutton-hoo/) and an [Americana showcase at Ipswich County Library](/news/ipswich-americana-showcase/).
+We have a number of exciting events taking place across our libraries this week, including performances from QuirkHouse Theatre Company at Ipswich County and Aldeburgh libraries, the start of the Sutton Hoo roadshow at Stoke Library and an Americana showcase at Ipswich County Library.
 
 You can read more about the wonderful work our libraries do in our [Annual Review for 2017-18](/assets/pdf/suffolk-libraries-annual-review-2017-2018.pdf).

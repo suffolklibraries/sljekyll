@@ -23,7 +23,7 @@ Some of the other developments and achievements over the past year:
 
 * Free Wi-Fi and new computers in all libraries, with a new website developed after customer feedback.
 * The launch of an [Enterprise and Innovation Hub](/libraries/hub/) at Ipswich County Library: a dedicated centre supporting local entrepreneurs, start-ups, business owners and creative minds.
-* The [Suffolk Libraries Bookfest book festival](/events-activities/bookfest/) ran across the county in March with libraries hosting many other author events such as the Southwold Crime Writers Festival and Lowestoft Library Literary Festival.
+* The Suffolk Libraries Bookfest book festival ran across the county in March with libraries hosting many other author events such as the Southwold Crime Writers Festival and Lowestoft Library Literary Festival.
 * Suffolk Libraries was granted £99,000 from Arts Council England for the ‘Suffolk Libraries Presents’ project which will be launching later in the summer with quality theatre, ballet and arts recordings screened in seven of the county’s libraries.
 * eBook lending and online visits continue to increase significantly and several eReader lending projects have been launched with Gainsborough and Thurston libraries lending eReader devices and Halesworth Library launching iPad lending this week. Suffolk Libraries is also launching a free digital magazine lending service in August.
 * This year other library services have decided to follow our lead and are establishing mutual organisations based on ours. We have had so much interest in the Suffolk model that we decided to hold a one day conference on the subject for other library services in March. This raised additional income to support our service.

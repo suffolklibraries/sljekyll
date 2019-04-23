@@ -13,7 +13,7 @@ breadcrumb: fiction
 
 [![The dandelion years by Erica James](/images/article/the-dandelion-years.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4571827?QRY=CTIBIB%3C%20IRN(45623269)&QRYTEXT=The%20dandelion%20years)
 
-Heart-rending tale of wartime love with a Suffolk background by one of the stars of the <a href="/events-activities/bookfest">Suffolk Libraries Bookfest</a>.
+Heart-rending tale of wartime love with a Suffolk background by one of the stars of the Suffolk Libraries Bookfest.
 
 ## [<cite>The chimes</cite> by Anna Smaill](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4573201?QRY=CTIBIB%3C%20IRN(91769)&QRYTEXT=The%20chimes)
 
