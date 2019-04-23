@@ -6,6 +6,11 @@ author: alice-violett
 category: news
 excerpt: "All of our libraries will be closed on Good Friday, Easter Sunday and Easter Monday (19, 21 and 22 April). They will be open as usual on Saturday 20 April."
 breadcrumb: news
+featured: true
+featured-excerpt: "All libraries will be closed on Good Friday, Easter Sunday and Easter Monday (19, 21 and 22 April). They will be open as usual on Saturday 20 April."
+featured-image: /images/branches/ipswich-county-library.jpg
+featured-alt: "The front of Ipswich County Library"
+featured-link-text: "Read more about Easter opening"
 ---
 
 All of our libraries will be closed on Good Friday, Easter Sunday and Easter Monday (19, 21 and 22 April). They will be open as usual on Saturday 20 April. [Find out your local library's opening hours &rarr;](/libraries/)
