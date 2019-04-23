@@ -4,7 +4,7 @@ layout: blank
 featured-image: /images/featured/childrens-month-web.jpg
 featured-alt: "A mouse and a mole holding a Children's Month banner. Illustration by James Mayhew."
 featured: true
-featured-excerpt: "Children's month is our celebration of everything we offer children and young adults, from Easter events and brilliant books to arts and wellbeing activities."
+featured-excerpt: "Children's month is our celebration of everything we offer children and young adults, from events and brilliant books to arts and wellbeing activities."
 featured-link-text: "Find out more about Children’s Month"
 breadcrumb: home
 ---
