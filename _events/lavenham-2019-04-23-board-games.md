@@ -1,5 +1,5 @@
 ---
-name: "Top Time: Board games"
+name: "Top Time: Card making"
 location: lavenham-library
 location-text: Lavenham Library
 event-start-date: 2019-04-23
@@ -9,4 +9,6 @@ event-category: older
 breadcrumb: y
 ---
 
-Have fun and make friends while trying a new board game or enjoying an old favourite.
+**Please note this event has now changed to card making**
+
+Come along and make some cards for your friends and family.
