@@ -1,7 +1,6 @@
 ---
 title: "Suffolk Libraries Day"
 layout: blank
-breadcrumb: home
 ---
 
 <article class="ph2 ph3-ns pv3 pv4-l bg-navy">
