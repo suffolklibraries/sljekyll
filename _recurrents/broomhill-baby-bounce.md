@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Baby Bounce"
-recurrent-description: "Soothing songs and gentle nursery rhymes for babies."
+recurrent-description: "Soothing songs and gentle nursery rhymes for babies. Run in partnership with Wellington Children's Centre."
 recurrent-day: Tuesday
 recurrent-times: 0930-1030
 recurrent-location: broomhill-library
