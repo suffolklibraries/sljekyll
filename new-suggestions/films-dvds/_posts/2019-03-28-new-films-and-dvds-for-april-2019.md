@@ -6,11 +6,11 @@ author: brandon-king
 category: films-dvds
 excerpt: "Including <cite>Mary Poppins Returns</cite>, <cite>Ralph Breaks the Internet</cite> and <cite>Spider-Man: Into the Spider-Verse</cite>."
 featured-image: /images/featured/featured-april-2019-dvds.jpg
-featured-alt: ""
+featured-alt: "Ralph Breaks the Internet, Mary Poppins Returns, Aquaman"
 breadcrumb: films-dvds
 ---
 
-![](/images/featured/featured-april-2019-dvds.jpg)
+![Ralph Breaks the Internet, Mary Poppins Returns, Aquaman](/images/featured/featured-april-2019-dvds.jpg)
 
 ## [<cite>Mary Poppins Returns</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2571849)
 
