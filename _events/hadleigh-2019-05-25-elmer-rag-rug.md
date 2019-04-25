@@ -1,0 +1,12 @@
+---
+name: "Elmer Day: rag rugging"
+location: haverhill-library
+location-text: Haverhill Library
+event-start-date: 2019-05-25
+event-start-time: 1100
+event-end-time: 1300
+event-category: half-term
+breadcrumb: y
+---
+
+Help us celebrate Elmer the Elephant's 30th birthday by having a go at rag rugging.
