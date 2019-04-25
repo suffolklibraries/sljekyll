@@ -28,41 +28,91 @@ Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &ra
 
 <tr>
 <td>
-24.01.19
+02.05.19
 </td>
 
 <td>
-Craft: Making pom poms
-</td>
-</tr>
-
-<tr>
-<td>
-31.01.19
-</td>
-
-<td>
-Craft: Making bracelets
+Craft: modelling
 </td>
 </tr>
 
 <tr>
 <td>
-07.02.19
+09.05.19
 </td>
 
 <td>
-Craft: Making collages
+Guest speaker
 </td>
 </tr>
 
 <tr>
 <td>
-14.02.19
+16.05.19
 </td>
 
 <td>
-Craft: making hedgehogs out of old books
+River walk
+</td>
+</tr>
+
+<tr>
+<td>
+23.05.19
+</td>
+
+<td>
+Craft: crochet/knitting: a basic guide
+</td>
+</tr>
+
+<tr>
+<td>
+30.05.19
+</td>
+
+<td>
+Discussion: What is coping? What is support?
+</td>
+</tr>
+
+<tr>
+<td>
+06.06.19
+</td>
+
+<td>
+Craft: introduction to scrapbooking
+</td>
+</tr>
+
+<tr>
+<td>
+13.06.19
+</td>
+
+<td>
+Picnic
+</td>
+</tr>
+
+<tr>
+<td>
+20.06.19
+</td>
+
+<td>
+Craft: cross-stitching
+</td>
+</tr>
+
+<tr>
+<td>
+27.06.19
+</td>
+
+<td>
+Board games and mindfulness colouring
 </td>
 </tr>
 </table>

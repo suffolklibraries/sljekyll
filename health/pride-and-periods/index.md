@@ -21,8 +21,10 @@ Twelve of our libraries currently provide **free sanitary items with no question
 * [Kessingland Library](/libraries/kessingland-library/)
 * [Lowestoft Library](/libraries/lowestoft-library/)
 * [Newmarket Library](/libraries/newmarket-library/)
+* [Oulton Broad Library](/libraries/oulton-broad-library/)
 * [Rosehill Library](/libraries/rosehill-library/)
 * [Stoke Library](/libraries/stoke-library/)
+* [Stowmarket Library](/libraries/stowmarket-library/)
 
 You can request tampons and pads for all flows and preferences by completing a simple, discreet form in the library and handing it to a member of staff.
 

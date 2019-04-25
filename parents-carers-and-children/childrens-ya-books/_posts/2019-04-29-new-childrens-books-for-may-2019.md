@@ -208,6 +208,6 @@ First it was [<cite>Bugs</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe
 
 > "Why is a flamingo pink? Can a parrot talk? Is a bald eagle really bald? This book answers these questions and many more."
 
-### [<cite>Incredible Cross-Sections](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2573685) and [<cite>Cross-Sections Castle</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2570388), by Richard Platt & Stephen Biesty
+### [<cite>Incredible Cross-Sections</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2573685) and [<cite>Cross-Sections Castle</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2570388), by Richard Platt & Stephen Biesty
 
 Back in print after more than 20 years, these amazingly detailed cross-section books are all being re-released with jazzy new covers.
