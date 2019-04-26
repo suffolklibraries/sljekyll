@@ -1,7 +1,7 @@
 ---
 name: "Elmer Day: stories and craft"
-location: haverhill-library
-location-text: Haverhill Library
+location: hadleigh-library
+location-text: Hadleigh Library
 event-start-date: 2019-05-25
 event-start-time: 1030
 event-end-time: 1130
