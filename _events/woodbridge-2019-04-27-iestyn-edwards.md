@@ -1,5 +1,5 @@
 ---
-name: "Woodbridge Emporium presents: Iestyn Edwards: <cite>My Tutu Went AWOL</cite>"
+name: "Woodbridge Emporium presents: Iestyn Edwards: <cite>My Tutu Went AWOL</cite> - CANCELLED"
 location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2019-04-27
@@ -7,6 +7,8 @@ event-start-time: 1930
 event-ticket-price: 8
 breadcrumb: y
 ---
+
+**We're sorry that this event has been cancelled**
 
 Join us for an evening with author Iestyn Edwards, aka Madame Galina.
 
