@@ -1,5 +1,6 @@
 ---
 recurrent-title: "Storytime: stories for pre-school children"
+recurrent-description: No session 29 April.
 recurrent-day: Monday
 recurrent-times: 1000-1030
 recurrent-location: haverhill-library
