@@ -30,8 +30,5 @@ branch-other-facilities: '<ul>
                           <li>Used postage stamp collection point in aid of St Elizabeth&apos;s Hospice</li>
                           </ul>'
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, Lego Club, older people's activities."
-branch-news: '<ul>
-              <li><a href="/news/framlingham-refurbishment/">Framlingham Library will be closed for refurbishment from 13 - 18 May, reopening on Sunday 19 May</a>.</li>
-              <li>Find out about local volunteering opportunities at the <a href="/events/aldeburgh-2019-04-27-volunteer-fair/">Aldeburgh Library volunteer fair</a> on Saturday 27 April.</li>
-              </ul>'
+branch-news: '<a href="/news/framlingham-refurbishment/">Framlingham Library will be closed for refurbishment from 13 - 18 May, reopening on Sunday 19 May</a>.'
 ---

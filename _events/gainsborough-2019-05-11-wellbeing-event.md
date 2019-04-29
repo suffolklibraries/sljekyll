@@ -11,4 +11,9 @@ breadcrumb: y
 
 Have a relaxing and enjoyable afternoon while helping to raise money for Voices 4 Gainsborough Community Library and [New Chapters mental health & wellbeing information service](/health/). Try a treatment or pick up some products designed to improve your wellbeing.
 
-You can also sponsor a member of staff having their legs waxed or take the challenge yourself! Contact the library for details.
+[You can also sponsor a member of staff having their legs waxed from 5pm](/events/gainsborough-2019-05-11-leg-wax/)!
+
+We also have a couple of evening sessions for adults and accompanied children aged 14+. Contact the library to book for £5 each or both for £7:
+
+* [Stimulating Yoga session - 6-7pm](/events/gainsborough-2019-05-11-stimulating-yoga/)
+* [Relaxing meditation session - 7-9pm](/events/gainsborough-2019-05-11-relaxing-meditation/)
