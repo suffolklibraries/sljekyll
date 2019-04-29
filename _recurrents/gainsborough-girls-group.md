@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Girls' group"
+recurrent-title: "Girls' group: have fun and build your self-esteem"
 recurrent-description: '<ul class="f6 ma0">
                         <li>29 April: 5 Ways to Wellbeing book craft</li>
                         <li>13 May: 5 Ways to Wellbeing book craft</li>
