@@ -10,6 +10,6 @@ event-ticket-price: 3
 breadcrumb: y
 ---
 
-Learn all about patchwork and textiles from expert Liza Jones.
+Join us for a talk with a whole suitcase full of patchwork examples, from classic patterns, to modern, abstract designs, hand and machine work, patchwork without measuring, and more.
 
 Ticket price includes refreshments.
