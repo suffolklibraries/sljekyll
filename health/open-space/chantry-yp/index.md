@@ -7,7 +7,7 @@ breadcrumb: health
 
 ![Teenagers in bright clothing sitting on chairs in a circle with a young man in a library](/images/featured/featured-open-space-11-16.jpg)
 
-We're launching a new weekly Open Space session especially for young people at Chantry Library. Why not come along and:
+We've launched a new weekly Open Space session especially for young people at Chantry Library. Why not come along and:
 
 * listen, chat and think
 * contribute your views and ideas
@@ -17,7 +17,7 @@ We're launching a new weekly Open Space session especially for young people at C
 
 Free refreshments and cold drinks will be provided.
 
-If you have any questions please do get in touch, or just come along to a session on Thursdays from 3:30pm-5:30pm **starting 25 April** at [Chantry Library](/libraries/chantry-library/)! You can come and just listen if you prefer and drop in and out as you please.
+If you have any questions please do get in touch, or just come along to a session on Thursdays from 3:30pm-5:30pm at [Chantry Library](/libraries/chantry-library/)! You can come and just listen if you prefer and drop in and out as you please.
 
 We've made a plan for the first few weeks to get the group up and running, but what happens after that is up to you!
 

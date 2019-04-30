@@ -7,7 +7,7 @@ breadcrumb: health
 
 ![Open Space logo](/images/featured/featured-open-space-logo.jpg)
 
-Here is the new timetable for Open Space at Newmarket Library for 10 April - 3 July 2019! Lots of exciting things coming up and some great discussions.
+Here is the latest timetable for Open Space at Newmarket Library. Lots of exciting things coming up and some great discussions.
 
 If you have any questions please do get in touch, or just come along to a session on Wednesdays from 2:30-4:30pm at [Newmarket Library](/libraries/newmarket-library/)&#8211; all are welcome!
 

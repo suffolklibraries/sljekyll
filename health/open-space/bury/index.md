@@ -7,7 +7,7 @@ breadcrumb: health
 
 ![Open Space logo](/images/featured/featured-open-space-logo.jpg)
 
-Here is the new timetable for Open Space at Bury St Edmunds Library for 25 March - 1 July 2019! Lots of exciting things coming up and some great discussions.
+Here is the latest timetable for Open Space at Bury St Edmunds Library. Lots of exciting things coming up and some great discussions.
 
 If you have any questions please do get in touch, or just come along to a session on Mondays from 2pm-4pm at [Bury St Edmunds Library](/libraries/bury-st-edmunds-library/)&#8211; all are welcome!
 

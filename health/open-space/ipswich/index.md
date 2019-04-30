@@ -7,7 +7,7 @@ breadcrumb: health
 
 ![Open Space logo](/images/featured/featured-open-space-logo.jpg)
 
-Here is the new timetable for Open Space at Ipswich County Library for 16 January - 1 May 2019! Lots of exciting things coming up and some great discussions.
+Here is the latest timetable for Open Space at Ipswich County Library. Lots of exciting things coming up and some great discussions.
 
 If you have any questions please do get in touch, or just come along to a session on Wednesdays from 1-3pm at [Ipswich County Library](/libraries/ipswich-county-library/)&#8211; all are welcome!
 

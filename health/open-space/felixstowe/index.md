@@ -7,7 +7,7 @@ breadcrumb: health
 
 ![Open Space logo](/images/featured/featured-open-space-logo.jpg)
 
-Here is the new timetable for Open Space at Felixstowe Library for 17 January - 21 February 2019! Lots of exciting things coming up and some great discussions.
+Here is the latest timetable for Open Space at Felixstowe Library. Lots of exciting things coming up and some great discussions.
 
 If you have any questions please do get in touch, or just come along to a session on Thursdays from 2-4pm at [Felixstowe Library](/libraries/felixstowe-library/)&#8211; all are welcome!
 

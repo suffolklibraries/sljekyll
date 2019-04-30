@@ -7,7 +7,7 @@ breadcrumb: health
 
 ![Open Space logo](/images/featured/featured-open-space-logo.jpg)
 
-Here is the new timetable for Open Space at Sudbury Library for 24 January - 14 February 2019! Lots of exciting things coming up and some great discussions.
+Here is the latest timetable for Open Space at Sudbury Library. Lots of exciting things coming up and some great discussions.
 
 If you have any questions please do get in touch, or just come along to a session on Thursdays from 12:30-2:30pm at [Sudbury Library](/libraries/sudbury-library/)&#8211; all are welcome!
 

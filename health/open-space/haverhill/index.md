@@ -7,7 +7,7 @@ breadcrumb: health
 
 ![Open Space logo](/images/featured/featured-open-space-logo.jpg)
 
-Here is the new timetable for Open Space at Haverhill Library for 4 January - 22 March 2019! Lots of exciting things coming up and some great discussions.
+Here is the latest timetable for Open Space at Haverhill Library. Lots of exciting things coming up and some great discussions.
 
 If you have any questions please do get in touch, or just come along to a session on Fridays from 12:30-2:30pm at [Haverhill Library](/libraries/haverhill-library/) &#8211; all are welcome!
 
