@@ -24,7 +24,7 @@ I was lucky enough to have known both of those formidable ladies quite well as t
 
 Very exciting. Conversation over the breakfast table was more likely to be about whether Sid Halley could survive the night with a .38 slug in his guts than who was doing the school run. The whole family was involved in research. It was the family business and my mother was much involved in the creation of the books.
 
-The first of my father’s novels, <cite>Dead Cert</cite>, was published when I was only eight years old and then there was a new book every year for the next 38 years, so the annual routine of writing, editing, copy-edit, proofs, promotion, and then thinking up a new story to start the writing again, was all I knew.
+The first of my father’s novels, [<cite>Dead Cert</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1502312), was published when I was only eight years old and then there was a new book every year for the next 38 years, so the annual routine of writing, editing, copy-edit, proofs, promotion, and then thinking up a new story to start the writing again, was all I knew.
 
 My mother was also very theatrical, having worked in repertory theatre after the Second World War, so our home was always full of both writers and actors. It was not unusual to see Arthur Lowe as Captain Mainwaring in <cite>Dad’s Army</cite> on the television one night, and then him be in our kitchen for supper the next.
 
