@@ -39,4 +39,5 @@ branch-other-facilities: '<ul>
                           </ul>'
 branch-pride-and-periods: y
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, sports equipment, free sanitary products."
+branch-news: "The Voices Café, toilets and meeting room will be closed on Tuesday 4 and Wednesday 5 June due to essential flooring works."
 ---
