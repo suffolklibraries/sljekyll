@@ -1,5 +1,5 @@
 ---
-name: "Quiz night"
+name: "Quiz night for Suffolk Pride"
 location: chantry-library
 location-text: Chantry Library
 event-start-date: 2019-06-21
