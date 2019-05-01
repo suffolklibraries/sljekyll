@@ -31,7 +31,7 @@ breadcrumb: home
 
         </figure>
 
-        <p class="mt2 tc f4 f3-ns measure center"><span class="ttl tracked small-caps">Children’s Month is our celebration</span> of everything we offer children and young adults. Find out about events and activities, how we can help improve literacy and wellbeing and our wonderful range of books.</p>
+        <p class="mt2 tc f4 f3-ns measure center"><span class="ttl tracked small-caps">Children’s Month was our celebration</span> of everything we offer children and young adults. Find out how we can help improve literacy and wellbeing and our wonderful range of books.</p>
 
     </header>
 
@@ -39,7 +39,7 @@ breadcrumb: home
 
       <h2 class="tc mt0 pt0 dark-red lh-title ttl tracked small-caps">Help us find Suffolk’s favourite children’s book!</h2>
 
-      <p class="tc mt1 measure center">Tell us yours and <strong>you could win an iPad or a £20 John Lewis voucher!</strong></p>
+      <p class="tc mt1 measure center">Tell us yours and <strong>you could win an iPad or a £20 John Lewis voucher!</strong> The survey closes on Sunday 5 May, so don't miss your chance.</p>
 
       <p class="tc b f6 f4-ns">{% include /c/button-blue.html text="Tell us your favourite book &rarr;" url="https://www.surveymonkey.co.uk/r/childrens-month" %}</p>
 
@@ -60,28 +60,6 @@ breadcrumb: home
         </div>
 
       </div>    
-
-    </section>
-
-    <section class="pb3 pt2-ns bb b--light-gray">
-
-      <h2 class="tc dark-red custom-lh-title ttl tracked small-caps mb2-ns">What’s on across our libraries</h2>
-
-      <div class="flex-ns flex-wrap-ns">
-
-        <div class="w-50-ns pr3-ns">
-
-          <a href="/childrens-month/childrens-month-events/"><img class="db mb1" alt="Children glueing things at a table" src="/images/featured/arts-crafts.jpg"></a>
-
-        </div>
-
-        <div class="w-50-ns pl3-ns">
-
-          <p class="mt0">Dozens of events throughout April and the Easter holidays, including crafts, performances, films, storytelling and more. <br><strong><a class="blue underline-hover" href="/childrens-month/childrens-month-events/">Find an event near you &rarr;</a></strong></p>
-
-        </div>
-
-      </div>      
 
     </section>
 
