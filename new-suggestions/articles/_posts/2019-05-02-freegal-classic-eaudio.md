@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Listen to some classic books with Freegal"
-date: 2019-05-03
+date: 2019-05-02
 author: lisa-brennan
 category: articles
 tag: elibrary
