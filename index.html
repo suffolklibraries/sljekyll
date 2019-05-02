@@ -6,20 +6,20 @@ meta-title: "Home"
 meta-description: "Reserve and renew titles, download eBooks, eAudio and music, and find libraries and events"
 ---
 
-<section class="pb3 pb4-ns custom-underline">
+<section class="pb3 pb4-ns">
 
     <h2 class="f4 f3-ns pa0 ma0 mb2 pt2 pb2 bb b--light-gray">More</h2>
 
     <ul class="list ma0 mb2 pa0 f5">
 
-        <li class="db dib-ns pv1 mr3-ns"><a href="/about/" class="blue">About us</a></li>
-        <li class="db dib-ns pv1 mr3-ns"><a href="/work-and-benefits/" class="blue">Work &amp; benefits</a></li>
-        <li class="db dib-ns pv1 mr3-ns"><a href="/business-and-room-hire/" class="blue">Business &amp; room hire</a></li>
-        <li class="db dib-ns pv1 mr3-ns"><a href="/bloc/" class="blue">BLOC youth arts programme</a></li>
-        <li class="db dib-ns pv1 mr3-ns"><a href="/music-and-drama" class="blue link">Music &amp; Drama Library</a></li>
-        <li class="db dib-ns pv1 mr3-ns"><a href="/volunteer" class="blue link">Volunteering</a></li>
-        <li class="db dib-ns pv1 mr3-ns"><a href="/support-us" class="blue link">Support us</a></li>
-        <li class="db dib-ns pv1 mr3-ns"><a href="http://slmembers.org/members/" class="blue link">Members website</a></li>
+        <li class="dib-ns mr3-ns"><a href="/about/" class="pv1 underline-hover blue">About us</a></li>
+        <li class="dib-ns mr3-ns"><a href="/work-and-benefits/" class="pv1 underline-hover blue">Work &amp; benefits</a></li>
+        <li class="dib-ns mr3-ns"><a href="/business-and-room-hire/" class="pv1 underline-hover blue">Business &amp; room hire</a></li>
+        <li class="dib-ns mr3-ns"><a href="/bloc/" class="pv1 underline-hover blue">BLOC youth arts programme</a></li>
+        <li class="dib-ns mr3-ns"><a href="/music-and-drama" class="pv1 underline-hover blue">Music &amp; Drama Library</a></li>
+        <li class="dib-ns mr3-ns"><a href="/volunteer" class="pv1 underline-hover blue">Volunteering</a></li>
+        <li class="dib-ns mr3-ns"><a href="/support-us" class="pv1 underline-hover blue">Support us</a></li>
+        <li class="dib-ns mr3-ns"><a href="http://slmembers.org/members/" class="pv1 underline-hover blue">Members website</a></li>
 
     </ul>
 
@@ -31,19 +31,19 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
      {% for post in featured_posts limit:1 %}
 
-         <article class="cf mv2 mv3-ns mt4-ns pv2 pv3-ns bt b--light-gray">
+         <article class="flex-l mv2 mv3-ns mt4-ns pv2 pv3-ns bt b--light-gray">
 
-             <div class="custom-g-l3">
+             <div class="w-50-l pr3-l">
 
-                 <h2 class="f4 f3-ns pa0 ma0 mb2 pt2 pb2 bb b--light-gray"><a href="{{ post.url }}" class="blue">{{ post.title }}</a></h2>
+                 <h2 class="f4 f3-ns pa0 ma0 mb2 pt2 pb2 bb b--light-gray"><a href="{{ post.url }}" class="pv1 underline-hover blue">{{ post.title }}</a></h2>
 
                  <p class="ma0 mb3 {% include /c/prose.html %}">{{ post.featured-excerpt }}</p>
 
-                 <p class="b"><a class="blue" href="{{ post.url }}">{{ post.featured-link-text }} &rarr;</a></p>
+                 <p class="b"><a class="pv1 underline-hover blue" href="{{ post.url }}">{{ post.featured-link-text }} &rarr;</a></p>
 
              </div>
 
-             <div class="custom-g-l3 custom-g-nm">
+             <div class="w-50-l pl3-l">
 
                  <a class="custom-force-white" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
 
@@ -57,13 +57,13 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
          <article class="cf mv2 mv3-ns mt4-ns pv2 pv3-ns">
 
-             <h2 class="f4 f3-ns pa0 ma0 mb2 pt2 pb2 bb b--light-gray"><a href="/new-suggestions/" class="blue">Recommendations &amp; reviews</a></h2>
+             <h2 class="f4 f3-ns pa0 ma0 mb2 pt2 pb2 bb b--light-gray"><a href="/new-suggestions/" class="pv1 underline-hover blue">Recommendations &amp; reviews</a></h2>
 
              <div class="custom-g-l3">
 
                  <p class="ma0 mb3 {% include /c/prose.html %}">New books, audiobooks, music and DVDs, reviews, Meet the Author and more.</p>
 
-                 {% include /c/button-blue.html text="See more &rarr;" url="/new-suggestions/" %}
+                 {% include /c/button-blue.html text="See more recommendations &rarr;" url="/new-suggestions/" %}
 
              </div>
 
