@@ -19,6 +19,7 @@ Twelve of our libraries currently provide **free sanitary items with no question
 * [Haverhill Library](/libraries/haverhill-library/)
 * [Ipswich County Library](/libraries/ipswich-county-library/)
 * [Kessingland Library](/libraries/kessingland-library/)
+* [Leiston Library](/libraries/leiston-library/)
 * [Lowestoft Library](/libraries/lowestoft-library/)
 * [Newmarket Library](/libraries/newmarket-library/)
 * [Oulton Broad Library](/libraries/oulton-broad-library/)
