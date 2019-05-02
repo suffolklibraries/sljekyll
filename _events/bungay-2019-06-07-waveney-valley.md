@@ -1,5 +1,5 @@
 ---
-name: "Talk: 'The Waveney Valley Line' by Peter Davidson"
+name: "Talk: 'The Waveney Valley Line' by Peter Metcalf"
 location: bungay-library
 location-text: Bungay Library
 event-start-date: 2019-06-07
@@ -8,7 +8,9 @@ event-ticket-price: 5
 breadcrumb: y
 ---
 
-Join us for a talk from Peter Davidson about the fascinating history of the Waveney Valley Line, which ran between Tivetshall and Beccles between 1851 and 1966.
+This fascinating talk will take us on a nostalgic trip along the length of the Waveney Valley Railway Line, taking in recent and historic views of the line, its stations and trains.
+
+A short video of the last passenger train to run in 1966 will also be shown.
 
 Ticket price includes light refreshments.
 
