@@ -30,4 +30,5 @@ branch-room-hire: /libraries/room-hire/broomhill-library
 breadcrumb: y
 branch-pride-and-periods: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, older people's activities, free sanitary products."
+branch-news: "Broomhill Library is closed today (Thursday 2 May) as it is a Polling Station."
 ---
