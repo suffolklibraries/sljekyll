@@ -1,5 +1,5 @@
 ---
-name: "Friends of Haverhill Library plant sale'"
+name: "Friends of Haverhill Library plant sale"
 location: haverhill-library
 location-text: Haverhill Library
 event-start-date: 2019-05-18
