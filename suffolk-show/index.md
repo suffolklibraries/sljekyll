@@ -35,7 +35,7 @@ layout: blank
             <label for="card-cost" class="f5 f4-ns pt2 mb2">How much does a library card cost?</label>
             <input class="border-box w-100" required type="text" name="card-cost" id="card-cost">
 
-            <label for="elibrary-services" class="f5 f4-ns pt2 mb2">Name our 4 elibrary services</label>
+            <label for="elibrary-services" class="f5 f4-ns pt2 mb2">Name our 5 eLibrary services</label>
             <textarea class="vh-25 border-box w-100" required name="elibrary-services" id="elibrary-services"></textarea>
 
             <label for="bloc" class="f5 f4-ns pt2 mb2">What does <abbr>BLOC</abbr> stand for?</label>
