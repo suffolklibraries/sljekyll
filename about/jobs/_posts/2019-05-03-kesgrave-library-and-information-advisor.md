@@ -4,11 +4,11 @@ title: Library and information advisor, Kesgrave Library
 category: jobs
 sidebar: about
 breadcrumb: jobs
-excerpt: "11.63 average hours per week, &pound;8.17 per hour, closing date Wed 3 Apr."
-expiry-date: 2019-04-03
+excerpt: "5.25 average hours per week, &pound;8.42 per hour, closing date Mon 3 June."
+expiry-date: 2019-06-03
 ---
 
-[Download a role profile](/assets/pdf/library-and-information-advisor-mar-2019.pdf) (PDF).
+[Download a role profile](/assets/pdf/library-and-information-advisor-may-2019.pdf) (PDF).
 
 We're looking for a library and information advisor at Kesgrave Library. We're looking for an individual who:
 
@@ -19,20 +19,22 @@ We're looking for a library and information advisor at Kesgrave Library. We're l
 - Can work as an effective team member
 - Understands Suffolk Libraries' services and what it delivers.
 
-If you have experience in a customer facing role, enjoy helping people, have a willingness to work within a team in a busy environment and an interest in books and computers, we would like to hear from you.
+If you have experience in a customer facing role, enjoy helping people, have a willingness to work within a team in a busy environment, experience of working with children and an interest in books and computers, we would like to hear from you.
 
-This role is for 11.63 average hours per week in the following pattern:
+This role is for an average of 5.25 hours per week in the following pattern:
 
-**Week 1:** Tue 2:15pm - 5:15pm; Wed 2:15pm - 5:15pm; Thu 2:15pm - 5:30pm; Fri 9:30am - 10:45am; Sun 10am - 1pm
+**Week 1:** Sat 10am - 1pm; Sun 10am - 1pm
 
-**Week 2:** Tue 2:15pm - 5:15pm; Fri 9:30am - 10:45am; Sun 9:45am - 3:15pm
+**Week 2:** Sat 10am - 1pm; Sun 10am - 1pm
 
-The rate of pay is &pound;8.17 per hour.
+**Week 3:** Sat 10am - 1pm; Sun 10am - 1pm
 
-Please note that due to elements of the role being single staffed, applicants need to be **over 18 years of age**.
+**Week 4:** Sun 10am - 1pm
+
+The rate of pay is &pound;8.42 per hour.
 
 If you are interested, please send a CV and supporting statement outlining what you could bring to this position and Suffolk Libraries to: **recruitment@suffolklibraries.co.uk**
 
 As users of the disability conﬁdent scheme, we guarantee to interview all disabled applicants who meet the minimum criteria for the vacancy.
 
-The closing date for applications is **Wednesday 3 April 2019**. Interviews will be held on **Monday 15 April 2019**.
+The closing date for applications is **Monday 3 June 2019**. Interviews will be held on **Friday 14 June 2019**.

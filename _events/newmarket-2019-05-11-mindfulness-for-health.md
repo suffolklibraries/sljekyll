@@ -1,5 +1,5 @@
 ---
-name: "Mindfulness for Health with Integrative Mind specialist Jill Yarrow"
+name: "Mindfulness for Health talk with Integrative Mind specialist Jill Yarrow"
 location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2019-05-11
