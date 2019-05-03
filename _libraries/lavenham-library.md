@@ -27,4 +27,5 @@ branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, Lego Club, older people's activities."
+branch-news: 'Lavenham Library is looking for <a href="/assets/pdf/code-club-role-profile.pdf/">volunteers to run a Code Club</a> (PDF)'
 ---
