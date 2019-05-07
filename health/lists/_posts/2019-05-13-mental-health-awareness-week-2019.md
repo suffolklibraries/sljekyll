@@ -17,6 +17,7 @@ Mental Health Awareness Week runs from 13 - 19 May 2019. We've picked out some t
 
 See also:
 
+* [eLibrary picks for Mental Health Awareness Week 2019](/health/lists/health-lists/elibrary-mental-health-awareness-week-2019/)
 * [Books on Prescription](/health/books-on-prescription/)
 * [Moodboosting books 2018](/health/lists/health-lists/moodboosting-books-2018/)
 * [Reading Well for mental health](/health/lists/health-lists/reading-well-for-mental-health/)
