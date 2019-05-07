@@ -20,6 +20,7 @@ Our mental health and wellbeing information service, [New Chapters](/health/), a
 * [Mindfulness for Health talk with Integrative Mind specialist Jill Yarrow at Newmarket Library - 11 May](/events/newmarket-2019-05-11-mindfulness-for-health/)
 * [Introduction to meditation and healing at Saxmundham Library - 13 May](/events/saxmundham-2019-05-13-meditation/)
 * [Chair Yoga with Maryanne for seniors at Sudbury Library - 14 May](/events/sudbury-2019-05-14-chair-yoga/)
+* [Make your own happiness jar at Haverhill Library - 18 May](/events/haverhill-2019-05-18-happiness-jars/)
 
 We will also be publishing some new mental health book and eLibrary recommendation lists on our website.
 

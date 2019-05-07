@@ -1,5 +1,5 @@
 ---
-name: "Woosbridge Dementia Action Alliance drop-in"
+name: "Woodbridge Dementia Action Alliance drop-in"
 location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2019-05-21
