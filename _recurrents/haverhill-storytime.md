@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Storytime: stories for pre-school children"ril.
+recurrent-title: "Storytime: stories for pre-school children"
 recurrent-day: Monday
 recurrent-times: 1000-1030
 recurrent-location: haverhill-library

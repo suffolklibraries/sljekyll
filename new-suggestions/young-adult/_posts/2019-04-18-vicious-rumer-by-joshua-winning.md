@@ -13,7 +13,7 @@ genre-image: /images/featured/featured-vicious-rumer-genre.jpg
 genre-alt: "Vicious Rumer"
 ---
 
-![Whiteout](/images/featured/featured-vicious-rumer.jpg)
+![Vicious Rumer](/images/featured/featured-vicious-rumer.jpg)
 
 **[See <cite>Vicious Rumer</cite> in our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2568421)**
 
