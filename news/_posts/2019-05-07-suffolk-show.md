@@ -4,11 +4,11 @@ title: "Suffolk Libraries to take part in the 2019 Suffolk Show"
 date: 2019-05-07
 author: james-powell
 category: news
-excerpt: "Suffolk Libraries will be taking part in the Suffolk Show for the first time this year, showcasing the range of library services and experiences available across the county. "
+excerpt: "Suffolk Libraries will be taking part in the Suffolk Show for the first time this year, showcasing the range of library services and experiences available across the county on Wednesday 29 and Thursday 30 May."
 breadcrumb: news
 ---
 
-Suffolk Libraries will be taking part in the [Suffolk Show](https://suffolkshow.co.uk/) for the first time this year, showcasing the range of library services and experiences available across the county.
+Suffolk Libraries will be taking part in the [Suffolk Show](https://suffolkshow.co.uk/) for the first time this year, showcasing the range of library services and experiences available across the county on Wednesday 29 and Thursday 30 May.
 
 You can find us at two separate tradestands: at the new Reflections Courtyard, and with West Suffolk College.
 
