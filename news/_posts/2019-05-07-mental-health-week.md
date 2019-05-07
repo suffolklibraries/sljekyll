@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Suffolk Libraries to mark Mental Health Awareness Week"
+title: "Suffolk Libraries to mark Mental Health Awareness Week 2019"
 date: 2019-05-07
 author: sarah-lungley
 category: news
