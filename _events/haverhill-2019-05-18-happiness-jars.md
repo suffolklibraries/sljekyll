@@ -9,6 +9,6 @@ event-ticket-price: free
 breadcrumb: y
 ---
 
-Come along to the library and make a happiness jar - decorate a jar and fill it up with inspirational quotes and good memories. When you are feeling, you can low open it up and release the happiness!
+Come along to the library and make a happiness jar - decorate a jar and fill it up with inspirational quotes and good memories. When you are feeling low, you can open it up and release the happiness!
 
 No booking necessary.
