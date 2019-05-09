@@ -3,6 +3,9 @@ layout: full-width-narrow
 title: 'Lowestoft Library room hire'
 breadcrumb: branch-room-hire
 ---
+
+Contact **rachel.gibson@suffolklibraries.co.uk** for further information and to book.
+
 ## The Britten room
 
 ![The Britten room](/images/article/lowestoft-library-britten-room.jpg)
