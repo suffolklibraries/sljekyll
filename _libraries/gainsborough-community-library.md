@@ -39,5 +39,8 @@ branch-other-facilities: '<ul>
                           </ul>'
 branch-pride-and-periods: y
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, sports equipment, free sanitary products."
-branch-news: "The Voices Café, toilets and meeting room will be closed on Tuesday 4 and Wednesday 5 June due to essential flooring works."
+branch-news: '<ul>
+              <li>The Voices Café, toilets and meeting room will be closed on Tuesday 4 and Wednesday 5 June due to essential flooring works.</li>
+              <li>Gainsborough Community Library and <a href="http://ipswichcm.org.uk/">Ipswich Community Media</a> are looking for two young volunteers aged 16+ to help run a radio project. This opportunity is for 2.5 hours a week and includes 10 weeks&apos; free training. Contact the library for more information.</li>
+              </ul>'
 ---

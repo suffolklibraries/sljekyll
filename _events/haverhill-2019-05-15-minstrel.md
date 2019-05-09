@@ -1,5 +1,5 @@
 ---
-name: "Talk from Quentin, 'The Minstrel of Suffolk'"
+name: "Top Time: Talk from Quentin, 'The Minstrel of Suffolk'"
 location: haverhill-library
 location-text: Haverhill Library
 event-start-date: 2019-05-15
