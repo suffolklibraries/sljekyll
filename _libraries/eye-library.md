@@ -25,4 +25,5 @@ branch-scan-to-email: y
 breadcrumb: y
 branch-payments: cash, cheques and cards accepted
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, Scratch coding club, pop-up café."
+branch-news: 'All are welcome to enjoy free tea and coffee at the library, and use the meeting room for quiet activities or contemplation during <a href="/news/mental-health-week/">Mental Health Awareness Week</a> (13-19 May).'
 ---
