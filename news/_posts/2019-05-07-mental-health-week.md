@@ -22,7 +22,10 @@ Our mental health and wellbeing information service, [New Chapters](/health/), a
 * [Chair Yoga with Maryanne for seniors at Sudbury Library - 14 May](/events/sudbury-2019-05-14-chair-yoga/)
 * [Make your own happiness jar at Haverhill Library - 18 May](/events/haverhill-2019-05-18-happiness-jars/)
 
-We will also be publishing some new mental health book and eLibrary recommendation lists on our website.
+We have also published some new mental health recommendation lists on our website:
+
+* [Recommended reads for Mental Health Awareness Week 2019](/health/lists/health-lists/mental-health-awareness-week-2019/)
+* [eLibrary picks for Mental Health Awareness Week 2019](/health/lists/health-lists/elibrary-mental-health-awareness-week-2019/)
 
 ## Useful links - body image and self-esteem
 
