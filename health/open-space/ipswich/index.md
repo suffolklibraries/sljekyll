@@ -28,161 +28,151 @@ Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &ra
 
 <tr>
 <td>
-16.01.19
+15.05.19
 </td>
 
 <td>
-Discussion: How does creativity help wellbeing?
-</td>
-</tr>
-
-<tr>
-<td>
-23.01.19
-</td>
-
-<td>
-Activity: Scrapbooking & Open Space collage - bring in old magazines and newspapers. Bring your own small notebook/scrapbook or use one of ours.
+Activity: Pub lunch! (contact [Ipswich County Library](/libraries/ipswich-county-library/) to find out the location)
 </td>
 </tr>
 
 <tr>
 <td>
-30.01.19
+22.05.19
 </td>
 
 <td>
-Discussion: Coming off psychiatric medication. How can this affect us? A nurse prescriber will be joining us.
-</td>
-</tr>
-
-<tr>
-<td>
-06.02.19
-</td>
-
-<td>
-Activity: Time to Talk Day: talk from Suffolk Mind and an Ipswich Town footballer about mental health and support available
+Activity: Test your music knowledge with a quiz
 </td>
 </tr>
 
 <tr>
 <td>
-13.02.19
+29.05.19
 </td>
 
 <td>
-Discussion: What is trauma? How can it affect us, and how can we help ourselves?
-</td>
-</tr>
-
-<tr>
-<td>
-20.02.19
-</td>
-
-<td>
-Activity: Eating healthily - bring recipes and ideas to swap
+Discussion: How does technology help/hinder us practically and socially?
 </td>
 </tr>
 
 <tr>
 <td>
-27.02.19
+05.06.19
 </td>
 
 <td>
-Discussion: What is loss/grief and how does it affect us?
-</td>
-</tr>
-
-<tr>
-<td>
-06.03.19
-</td>
-
-<td>
-Activity: Quiz
+Activity: Walk down to La Tour Café on the waterfront and have a drink
 </td>
 </tr>
 
 <tr>
 <td>
-13.03.19
+12.06.19
 </td>
 
 <td>
-Activity: Arts taster with Inside Out
-</td>
-</tr>
-
-<tr>
-<td>
-20.03.19
-</td>
-
-<td>
-Activity: Visit Christchurch Mansion and see Rodin's The Kiss sculpture exhibition
+Activity: Create a picture of courage - help us make a collage!
 </td>
 </tr>
 
 <tr>
 <td>
-27.03.19
+19.06.19
 </td>
 
 <td>
-Activity: Walk along the Waterfront
-</td>
-</tr>
-
-<tr>
-<td>
-03.04.19
-</td>
-
-<td>
-Discussion: How can being physically ill affect our emotional wellbeing, and vice versa?
+Activity: Visit Holywells park - meet at the park's café at 1.15pm
 </td>
 </tr>
 
 <tr>
 <td>
-10.04.19
+26.06.19
 </td>
 
 <td>
-Discussion: Why do we have to feel difficult feelings and what helps?
-</td>
-</tr>
-
-<tr>
-<td>
-17.04.19
-</td>
-
-<td>
-Activity: Current affairs - bring in or discuss a newspaper article which interests you
+Discussion & planning: Open Space going forward
 </td>
 </tr>
 
 <tr>
 <td>
-24.04.19
+03.07.19
 </td>
 
 <td>
-Discussion: What inspires us? What are our values? (bring along your scrapbook if you want!)
+Activity: Picnic & rounders in the park
 </td>
 </tr>
 
 <tr>
 <td>
-01.05.19
+10.07.19
 </td>
 
 <td>
-Activity: Mindfulness
+Discussion/activity: Tree of wellbeing
+</td>
+</tr>
+
+<tr>
+<td>
+17.07.19
+</td>
+
+<td>
+Talk: Suffolk One Life on healthy eating
+</td>
+</tr>
+
+<tr>
+<td>
+24.07.19
+</td>
+
+<td>
+Discussion: How does the media affect us?
+</td>
+</tr>
+
+<tr>
+<td>
+31.07.19
+</td>
+
+<td>
+Activity: Arts & crafts - TBC
+</td>
+</tr>
+
+<tr>
+<td>
+07.08.19
+</td>
+
+<td>
+Discussion: What are values?
+</td>
+</tr>
+
+<tr>
+<td>
+14.07.19
+</td>
+
+<td>
+Talk: Find out where you can find information & support for Universal Credit & PIP claims
+</td>
+</tr>
+
+<tr>
+<td>
+21.08.19
+</td>
+
+<td>
+Activity: Walk and mindfulness in Christchurch Park
 </td>
 </tr>
 </table>
