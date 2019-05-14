@@ -5,13 +5,13 @@ date: 2019-05-24
 author: sophie-green
 category: elibrary-picks
 tag: elibrary
-excerpt: "Listen to top titles from Elizabeth Macneal, Yuval Noah Harari, Melanie Golding and more."
+excerpt: "Listen to top titles from Elizabeth Macneal, Melanie Golding, Kathy Reichs and more."
 featured-image: /images/featured/featured-eaudiobooks-6.jpg
-featured-alt: ""
+featured-alt: "Little Darlings, Rumpole: The Age of Miracles and other stories"
 breadcrumb: elibrary-picks
 ---
 
-![](/images/featured/featured-eaudiobooks-6.jpg)
+![Little Darlings, Rumpole: The Age of Miracles and other stories](/images/featured/featured-eaudiobooks-6.jpg)
 
 See also: [recommended new physical audiobooks](/new-suggestions/audiobooks/new-audiobooks-21/)
 
@@ -168,3 +168,71 @@ Benedict Cumberbatch plays Horace Rumpole in this fourth collection of dramatic 
 ## OverDrive
 
 [Set up OverDrive &rarr;](/elibrary/overdrive/)
+
+### [<cite>All That Remains: a life in death</cite>, written and read by Sue Black](https://suffolklibraries.overdrive.com/media/3656043)
+
+> "Sue Black confronts death every day. As a Professor of Anatomy and Forensic Anthropology, she focuses on mortal remains in her lab, at burial sites, at scenes of violence, murder and criminal dismemberment, and when investigating mass fatalities due to war, accident or natural disaster. In <cite>All That Remains</cite> she reveals the many faces of death she has come to know, using key cases to explore how forensic science has developed, and what her work has taught her.
+
+> "Do we expect a book about death to be sad? Macabre? Sue's book is neither. There is tragedy, but there is also humour in stories as gripping as the best crime novel. Our own death will remain a great unknown. But as an expert witness from the final frontier, Sue Black is the wisest, most reassuring, most compelling of guides."
+
+### [<cite>Bones of the Lost</cite>, by Kathy Reichs, read by Linda Emond](https://suffolklibraries.overdrive.com/media/3036422)
+
+> "The body of a teenage girl is discovered along a desolate highway on the outskirts of Charlotte. Inside her purse is the ID card of a local businessman who died in a fire months earlier.
+
+> "Who was the girl? And was she murdered?
+
+> "Dr Temperance Brennan, Forensic Anthropologist, must find the answers. She soon learns that a Gulf War veteran stands accused of smuggling artefacts into the country. Could there be a connection between the two cases?
+
+> "Convinced that the girl's death was no accident, Tempe soon finds herself at the centre of a conspiracy that extends from South America to Afghanistan. But to find justice for the dead, she must be more courageous - and take more extreme action - than ever before."
+
+### [<cite>Bury My Heart at Wounded Knee: an Indian history of the American West</cite>, by Dee Brown, read by Grover Gardner](https://suffolklibraries.overdrive.com/media/274285)
+
+> "<cite>Bury My Heart at Wounded Knee</cite> is Dee Brown's classic, eloquent, meticulously documented account of the systematic destruction of the American Indian during the second half of the nineteenth century. Using council records, autobiographies, and firsthand descriptions, Brown allows great chiefs and warriors of the Dakota, Ute, Sioux, Cheyenne, and other tribes to tell us in their own words of the series of battles, massacres, and broken treaties that finally left them and their people demoralised and decimated.
+
+> "A unique and disturbing narrative told with force and clarity, <cite>Bury My Heart at Wounded Knee</cite> changed forever our vision of how the West was won — and lost. It tells a story that should not be forgotten, and so must be retold from time to time."
+
+### [<cite>Finders Keepers</cite>, by Belinda Bauer, read by John Sackville](https://suffolklibraries.overdrive.com/media/3253444)
+
+> "The eight-year-old boy had vanished from the car and, as if by slick, sick magic, had been replaced by a note on the steering wheel reading: 'You don't love him'.
+
+> "At the height of summer a dark shadow falls across Exmoor; more children are stolen, each disappearance marked only by the same brutal accusation. No explanations, no ransom demands, and no hope. But — still reeling from a personal tragedy — does Policeman Jonas Holly stand any chance of catching the kidnapper? Because there's at least one person on Exmoor who thinks that, when it comes to being the first line of defence, Jonas Holly may be the last man to trust."
+
+### [<cite>The Gatecrasher</cite>, by Madeleine Wickham, read by Katherine Kellgren](https://suffolklibraries.overdrive.com/media/3036653)
+
+> "Fleur is beautiful, unscrupulous, and has a large wardrobe of black designer suits. With the help of <cite>The Times</cite> announcements page she gatecrashes the funerals and memorial services of the wealthy, preying on rich, vulnerable men. She charms her way into their lives and onto their platinum credit cards, takes what she can, and then moves swiftly on.
+
+> "When Richard, a dull but wealthy businessman, meets Fleur at his wife's memorial service, he's bowled over. Gradually Fleur works her spell on Richard's family - transforming their lives while she moves in on their wealth. But she finds herself lingering longer than she meant to..."
+
+### [<cite>Hope and Glory: the days that made Britain</cite>, written and read by Stuart Maconie](https://suffolklibraries.overdrive.com/media/601529)
+
+> "In <cite>Hope and Glory</cite> Stuart goes in search of the places, people and events of the century we have just left behind that have shaped the look and character of modern Britain. From the death of Victoria to the demise of New Labour, he takes a single event from each decade of the 20th century that offers up a defining moment in our history and then goes in search of its legacy today.
+
+> "The death of a queen, a bloody war, a nation on strike, a first broadcast, a ship coming into land, reaching for the top of the world, an epic football match, a youth rebellion, a pop concert and an election - each event in turn has shaped our national culture and spirit to make us who we are. Some were glorious days, some tragic, even shameful, but each has played its part - from sport to music, politics to war, industrial relations to exploration - in making modern Britain."
+
+### [<cite>Murder on the Oxford Canal</cite>, by Faith Martin, read by Gemma Dawson](https://suffolklibraries.overdrive.com/media/3948515)
+
+> "Meet DI Hillary Greene, a police officer fighting to save her career. Not only has she lost her husband, but his actions have put her under investigation for corruption.
+
+> "Then a bashed and broken body is found floating in the Oxford Canal. It looks like the victim fell off a boat, but Hillary is not so sure. Her investigation exposes a dark background to the death.
+
+> "Can Hillary clear her name and get to the bottom of a fiendish conspiracy on the water?"
+
+### [<cite>The Overstory</cite>, by Richard Powers, read by Suzanne Toren](https://suffolklibraries.overdrive.com/media/4235624)
+
+> "Nine strangers, each in different ways, become summoned by trees, brought together in a last stand to save the continent’s few remaining acres of virgin forest.
+
+> "<cite>The Overstory</cite> unfolds in concentric rings of interlocking fable, ranging from antebellum New York to the late-20th-century Timber Wars of the Pacific Northwest and beyond, revealing a world alongside our own - vast, slow, resourceful, magnificently inventive, and almost invisible to us. This is the story of a handful of people who learn how to see that world, and who are drawn up into its unfolding catastrophe."
+
+### [<cite>Wolf of the Plains</cite>, by Conn Iggulden, read by Stephen Thorne](https://suffolklibraries.overdrive.com/media/2890487)
+
+> "'I am the land and the bones of the hills. I am the winter.'
+
+> "Temujin, the second son of the khan of the Wolves tribe, was only eleven when his father died in an ambush. His family were thrown out of the tribe and left alone, without food or shelter, to starve to death on the harsh Mongolian plains. It was a rough introduction to his life, to a sudden adult world, but Temujin survived, learning to combat natural and human threats.
+
+> "A man, a small family, without a tribe was always at risk but he gathered other outsiders to him, creating a new tribal identity. It was during some of his worst times that the image of uniting the warring tribes and bringing the silver people together came to him. He will become the khan of the sea of grass, Genghis."
+
+### [<cite>The Woman in the Wood</cite>, by Lesley Pearse, read by Rosie Jones](https://suffolklibraries.overdrive.com/media/3214371)
+
+> "Fifteen-year-old Maisy Mitcham and her twin brother Duncan lose their mother to an asylum one night in 1960. The twins are sent to their grandmother's country house, Nightingales. Cold and distant, she leaves them to their own devices, to explore and to grow. That is until the day Duncan doesn't come home from the woods.
+
+> "With their grandmother seeming to have little interest in her grandson's disappearance, and the police soon giving up hope, it is left to Maisy to discover the truth. And she will start with Grace Deville. A woman who lives alone in the wood, about whom rumours abound..."
