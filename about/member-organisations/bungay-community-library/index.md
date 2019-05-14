@@ -14,18 +14,17 @@ Patrons:
 
 Trustees:
 
-* Chair: Simon Woods
-* Secretary: Sylvia Knights
+* Chair: Christine Douglas
+* Secretary: Jenny Hyams
 * Treasurer: Amanda King
-* Frances Swann
+* Sylvia Knights
 * Judy Cloke
-* Maureen Davies
-* Dave Wolfenden
 * Chris Davey
 * Jane Paul
 * Carol Matthews
 * Jan Hazell
-* Christine Douglas
+* Nic Veasy
+* Shelley Birkinshaw
 
 ## Contact us
 
@@ -33,17 +32,15 @@ It's simple to become a member and costs a nominal £1 membership fee. If you're
 
 ## The story so far
 
-We're a registered charity (Registered Charity Number 1151649), set up in 2012 as a direct response to the need for a community group to support the library and raise funds for further development. We're made up of a board of trustees and 55 members.
+We're a registered charity (Registered Charity Number 1151649), set up in 2012 as a direct response to the need for a community group to support the library and raise funds for further development. We're made up of a board of trustees and 71 members.
 
 ## Recent successes
 
-* Our secretary Sylvia Knights was nominated and voted to the Suffolk’s Libraries IPS board in September 2015, she has also been appointed Vice Chair
-* Raised funds to redecorate main library in November 2014
-* Installed 3 additional public computers for free customer use
-* Jointly purchased a Harold Steggles Shell advertisement poster on behalf of the town, now displayed within the Library.
-* Welcomed Louis de Bernières as our new patron
-* Increased our range of greetings cards to compensate for the recent closure of Lodge Cordell and the Post Office
+* Sylvia Knights was nominated and voted to the Suffolk’s Libraries IPS Board in September 2015. She has since been appointed Vice Chair.
+* Raised funds at a book sale in 2019 to go towards redevelopment of the library foyer.
+* Used funds raised in 2018 to install bespoke shelving for the children’s library, a bespoke self-service machine stand and a display table for new books.
+* Re-carpeted the downstairs of the library.
 
 ## Future plans
 
-To continue to promote the library and its services
+To continue to promote the library and its services.
