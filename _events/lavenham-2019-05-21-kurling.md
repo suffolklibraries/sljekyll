@@ -1,5 +1,5 @@
 ---
-name: "Top Time: indoor Kurling"
+name: "Top Time: Health & wellbeing event with OneLife Suffolk - try New Age Kurling!"
 location: lavenham-library
 location-text: Lavenham Library
 event-start-date: 2019-05-21
@@ -9,4 +9,4 @@ event-category: ["older", "health"]
 breadcrumb: y
 ---
 
-Want to improve your fitness and health, but hindered by poor mobility? Have a go at some gentle indoor Kurling.
+Meet staff from OneLife Suffolk and find out about the many services they offer, and have a go at New Age Kurling. Like traditional kurling but without the ice, it's a great way to get some gentle exercise while enjoying some friendly competition!
