@@ -13,7 +13,8 @@ We hold Bookstart story and singing sessions and lend out storysacks and BIG Boo
 
 All of our libraries hold [regular Bookstart Baby Bounce and Tot Rock sessions](/events-activities/children/) for babies and young children and their parents/carers. You can hear stories, sing, move and play with toys and instruments together. The sessions are free, informal and welcoming, with no need to book in advance.
 
-[Find out more about Bookstart sessions &rarr;](https://www.booktrust.org.uk/supporting-you/families/our-programmes/bookstart/what-bookstart-can-offer-you/rhymetimes/)
+- [FInd your regular Bookstart Baby Bounce and Tot Rock sessions](/events-activities/children/)
+- [More information about Bookstart sessions &rarr;](https://www.booktrust.org.uk/supporting-you/families/our-programmes/bookstart/what-bookstart-can-offer-you/rhymetimes/)
 
 ## Storysacks
 
@@ -33,7 +34,7 @@ We also stock BIG versions of your favourite picture books, which are ideal for 
 
 <img src="/images/featured/featured-owl-crafts.jpg" alt="A woman and toddler with a cardboard owl" class="custom-br-50 mw-40 {% include /c/img-float-left.html %}" />
 
-Any member of Suffolk Libraries can borrow BIG Books for free. You can search for and reserve them through our [advanced catalogue search](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/COMB?HOMEPRMS=COMBPARAMS) by choosing 'Big Books' in the 'Collection' menu, or asking the staff at [your local library](/libraries/). 
+Any member of Suffolk Libraries can borrow BIG Books for free. You can search for and reserve them through our [advanced catalogue search](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/COMB?HOMEPRMS=COMBPARAMS) by choosing 'Big Books' in the 'Collection' menu, or asking the staff at [your local library](/libraries/).
 
 **Tip:** Extend the fun even further with a craft activity based on a story you have read together. Don't worry if you're not particularly creative - there are always plenty of simple craft ideas online!
 
