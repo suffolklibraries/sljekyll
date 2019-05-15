@@ -14,7 +14,9 @@ This year's theme is body image and self-esteem. Many factors can affect how peo
 
 Our mental health and wellbeing information service, [New Chapters](/health/), also provides information and signposting as well as weekly Open Space sessions across the county. We work closely with many other mental health and wellbeing organisations, bringing expert support into the community.
 
-[Visit your local library's webpage](/libraries/) to see their regular health and wellbeing events, or [find your nearest Open Space group](/health/open-space/). Our brand new [Children and Young People's Open Space group at Chantry Library](/health/open-space/chantry-yp/) will be discussing body image at their session on Thursday 16 May, and [Eye Library](/libraries/eye-library/) will be offering free tea and coffee, as well as a quiet space, to customers throughout the week. Some of our libraries have also planned one-off health and wellbeing events ahead of and during the week:
+[Visit your local library's webpage](/libraries/) to see their regular health and wellbeing events, or [find your nearest Open Space group](/health/open-space/). Our brand new [Children and Young People's Open Space group at Chantry Library](/health/open-space/chantry-yp/) will be discussing body image at their session on Thursday 16 May, [Eye Library](/libraries/eye-library/) will be offering free tea and coffee, as well as a quiet space, to customers throughout the week, and [Thurston Library](/libraries/thurston-library/) have put together a special wellbeing book display.
+
+Some of our libraries have also planned one-off health and wellbeing events ahead of and during the week:
 
 * [Pampering, shopping and wellbeing fundraising event at Gainsborough Community Library - 11 May](/events/gainsborough-2019-05-11-wellbeing-event/)
 * [Mindfulness for Health talk with Integrative Mind specialist Jill Yarrow at Newmarket Library - 11 May](/events/newmarket-2019-05-11-mindfulness-for-health/)
