@@ -11,7 +11,7 @@ branch-social-media: y
 branch-facebook: SLLRushmere
 branch-local-internet: y
 branch-news: '<ul>
-                <li><a href="/news/rushmere-double-milestone/">Pop-up library in Rushmere reaches double milestone</a></li>
+                <li>There will be no session at Rushmere on Thursday 23 May as it is a polling station.</li>
                 <li>Browse and borrow books, attend a range of activities and use IT facilities.</li>
                 <li>Part of the <a href="/local/">Suffolk Libraries Local</a> scheme, the sessions are funded by Ipswich Borough Council&#39;s North East Area Committee and Suffolk County Councillor Sandra Gage&#39;s Locality Budget.</li>
                 <li>Self-service available during activities.</li>

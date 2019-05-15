@@ -28,117 +28,67 @@ Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &ra
 
 <tr>
 <td>
-04.01.19
+17.05.19
 </td>
 
 <td>
-Board games and mindfulness colouring
-</td>
-</tr>
-
-<tr>
-<td>
-11.01.19
-</td>
-
-<td>
-Lynne & Friends band & glitter jars
+Suffolk User Forum visit for Mental Health Awareness Week: enjoy coffee and cake and share your experiences of mental health services in Suffolk
 </td>
 </tr>
 
 <tr>
 <td>
-18.01.19
+24.05.19
 </td>
 
 <td>
-Talk: Julie Irving on NHS information sharing
-</td>
-</tr>
-
-<tr>
-<td>
-25.01.19
-</td>
-
-<td>
-Minstrel performance
+Mindfulness colouring
 </td>
 </tr>
 
 <tr>
 <td>
-01.02.19
+31.05.19
 </td>
 
 <td>
-Have a go at crochet or knitting
-</td>
-</tr>
-
-<tr>
-<td>
-08.02.19
-</td>
-
-<td>
-Discussion: What is coping? What is support?
+Board games
 </td>
 </tr>
 
 <tr>
 <td>
-15.02.19
+07.06.19
 </td>
 
 <td>
-Introduction to scrapbooking
-</td>
-</tr>
-
-<tr>
-<td>
-22.02.19
-</td>
-
-<td>
-Information and chat about Time to Change
+Drumming from Jo Streeton from Pringle
 </td>
 </tr>
 
 <tr>
 <td>
-01.03.19
+14.06.19
 </td>
 
 <td>
-Origami
-</td>
-</tr>
-
-<tr>
-<td>
-08.03.19
-</td>
-
-<td>
-Board games & mindfulness colouring
+Mosaic art
 </td>
 </tr>
 
 <tr>
 <td>
-15.03.19
+21.06.19
 </td>
 
 <td>
-Book folding: hedgehogs
+Mindfulness colouring
 </td>
 </tr>
 
 <tr>
 <td>
-22.03.19
+28.06.19
 </td>
 
 <td>
