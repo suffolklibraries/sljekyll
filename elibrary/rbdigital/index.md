@@ -15,26 +15,15 @@ RBdigital allows you to download PDF files of magazines for an unlimited time. T
 3. Register an account with your name, email and a password and click ‘Create Account’
 4. Suffolk Libraries' RBdigital service will now be available to use.
 
-### On an Android tablet or smartphone
+### On an tablet or smartphone
 
-1. Set up your account on a web browser by following the instructions above
-2. [Download and install the RBdigital app from the Play Store](https://play.google.com/store/apps/details?id=com.ocd)
-3. When the download is complete, click ‘Open’
-4. When the RBdigital app opens, select your country as ‘United Kingdom’, enter your username and press 'next'
-5. Enter your password
-6. This service will now be available to use.
-
-### On an Apple tablet or smartphone
-
-1. Set up your account on a web browser by following the instructions above
-2. [Download and install the RBdigital app from the App Store](https://itunes.apple.com/us/app/oneclickdigital/id515311743?mt=8)
-3. Follow the steps from step 3 above.
-
-### On an Amazon Kindle Fire tablet
-
-1. Set up your account on a web browser by following the instructions above
-2. [Download and install the RBdigital app from the Kindle Fire App Store](http://www.amazon.com/Recorded-Books-OneClickdigital/dp/B009GLFOL4/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1358440633&sr=1-1&keywords=oneclickdigital)
-5. Follow the steps from step 3 above.
+1. Download and install the RBdigital app from the [App Store](https://itunes.apple.com/us/app/oneclickdigital/id515311743?mt=8), [Play Store](https://play.google.com/store/apps/details?id=com.ocd) or [Kindle Fire App Store](http://www.amazon.com/Recorded-Books-OneClickdigital/dp/B009GLFOL4/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1358440633&sr=1-1&keywords=oneclickdigital)
+2. When the download is complete, click ‘Open’
+3. When the RBdigital app opens, select 'Not a member? Register now.'
+4. Choose 'United Kingdom' as your country and press 'choose library' to continue
+5. Select 'Suffolk Libraries' from the drop-down menu, then press 'create account'
+6. Register an account with your name, email and a password, agree to the Terms & Conditions and Privacy Policy and press 'register'
+7. The service will now be available to use.
 
 ## Downloading digital magazines with RBdigital
 

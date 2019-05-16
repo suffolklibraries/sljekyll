@@ -15,7 +15,7 @@ BorrowBox allows you to&nbsp;download eAudio books. This service is available on
 
 ### On a tablet or smartphone
 
-1. Download and install the BorrowBox app from the [App Store](https://itunes.apple.com/gb/app/borrowbox-library/id562843562?mt=8) or [Google Play](https://play.google.com/store/apps/details?id=com.bolindadigital.BorrowBoxLibrary&hl=en_GB)
+1. Download and install the BorrowBox app from the [App Store](https://itunes.apple.com/gb/app/borrowbox-library/id562843562?mt=8) or [Play Store](https://play.google.com/store/apps/details?id=com.bolindadigital.BorrowBoxLibrary&hl=en_GB)
 2. When the download is complete, click ‘Open’
 3. When the BorrowBoxapp opens, type ‘Suffolk’ in the search bar and select ‘Suffolk Libraries’
 4. Enter your library card number and PIN number
