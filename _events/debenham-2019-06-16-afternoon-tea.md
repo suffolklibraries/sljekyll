@@ -3,8 +3,8 @@ name: "Sunday afternoon tea"
 location: debenham-library
 location-text: Debenham Library
 event-start-date: 2019-06-16
-event-doors-open: 1400
-event-start-time: 1600
+event-start-time: 1400
+event-end-time: 1600
 breadcrumb: y
 ---
 
