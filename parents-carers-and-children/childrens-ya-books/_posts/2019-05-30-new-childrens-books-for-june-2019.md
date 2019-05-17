@@ -6,11 +6,11 @@ author: sophie-green
 category: childrens-ya-books
 excerpt: "New titles for fans of penguins, the moon, classic stories and more."
 featured-image: /images/featured/featured-childrens-june-2019.jpg
-featured-alt: ""
+featured-alt: "The Garden of Lost Secrets, The Usborne Book of the Moon, The Dragon in the Library"
 breadcrumb: childrens-ya-books
 ---
 
-![](/images/featured/featured-childrens-june-2019.jpg)
+![The Garden of Lost Secrets, The Usborne Book of the Moon, The Dragon in the Library](/images/featured/featured-childrens-june-2019.jpg)
 
 ## Board books
 
