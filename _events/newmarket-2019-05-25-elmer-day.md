@@ -5,7 +5,7 @@ location-text: Newmarket Library
 event-start-date: 2019-05-25
 event-start-time: 1030
 event-end-time: 1130
-event-category: half-term
+event-category: ["half-term", "elmer-day"]
 event-ticket-price: free
 breadcrumb: y
 ---

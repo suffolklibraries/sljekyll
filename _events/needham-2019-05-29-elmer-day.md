@@ -5,7 +5,7 @@ location-text: Needham Market Library
 event-start-date: 2019-05-29
 event-start-time: 1430
 event-end-time: 1630
-event-category: half-term
+event-category: ["half-term", "elmer-day"]
 event-ticket-price: free
 breadcrumb: y
 ---

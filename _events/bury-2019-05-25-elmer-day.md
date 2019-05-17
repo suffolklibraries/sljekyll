@@ -5,7 +5,7 @@ location-text: Bury St Edmunds Library
 event-start-date: 2019-05-25
 event-start-time: 1000
 event-end-time: 1500
-event-category: half-term
+event-category: ["half-term", "elmer-day"]
 event-ticket-price: 1
 breadcrumb: y
 ---

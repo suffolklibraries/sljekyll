@@ -5,7 +5,7 @@ location-text: Broomhill Library
 event-start-date: 2019-05-25
 event-start-time: 1400
 event-end-time: 1600
-event-category: half-term
+event-category: ["half-term", "elmer-day"]
 breadcrumb: y
 ---
 

@@ -5,7 +5,7 @@ location-text: Hadleigh Library
 event-start-date: 2019-05-25
 event-start-time: 1030
 event-end-time: 1130
-event-category: half-term
+event-category: ["half-term", "elmer-day"]
 breadcrumb: y
 ---
 

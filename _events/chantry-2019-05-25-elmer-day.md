@@ -5,7 +5,7 @@ location-text: Chantry Library
 event-start-date: 2019-05-25
 event-start-time: 1000
 event-end-time: 1300
-event-category: half-term
+event-category: ["half-term", "elmer-day"]
 breadcrumb: y
 ---
 
