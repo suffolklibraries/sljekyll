@@ -2,13 +2,15 @@
 name: "Sporting Memories: Speedway Adventures with guest speaker James Easter"
 location: ipswich-county-library
 location-text: Ipswich County Library
-event-start-date: 2019-05-21
+event-start-date: 2019-06-25
 event-start-time: 1415
 event-end-time: 1545
 event-category: older
 event-ticket-price: free, 50p for refreshments
 breadcrumb: y
 ---
+
+**Please note date change**
 
 Join us at our regular Sporting Memories reminiscence session for over-50s with special guest speaker James Easter.
 

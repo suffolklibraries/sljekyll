@@ -1,5 +1,5 @@
 ---
-name: "Time Out: Meet the Author: Felicity Jellif"
+name: "Time Out: Meet the Author: Felicity Jelliff"
 location: halesworth-library
 location-text: Halesworth Library
 event-start-date: 2019-05-22
@@ -9,4 +9,4 @@ event-category: older
 breadcrumb: y
 ---
 
-Seniors are invited to join us in our regular Time Out slot to meet local author Felicity Jellif. Felicity will be talking about her own work and that of her mother, Elizabeth Ashton, who wrote for Mills and Boon.
+Seniors are invited to join us in our regular Time Out slot to meet local author Felicity Jelliff. Felicity will be talking about her own work and that of her mother, Elizabeth Ashton, who wrote for Mills and Boon.
