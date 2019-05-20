@@ -3,7 +3,7 @@ name: "Slime workshop with Just Add Kids Creative Workshops"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2019-08-28
-event-start-time: 0930
+event-start-time: 1030
 event-end-time: 1230
 event-ticket-price: 4
 event-ticket-url: https://www.facebook.com/justaddkidsworkshops
