@@ -5,6 +5,7 @@ location-text: Lowestoft Library
 event-start-date: 2019-05-25
 event-start-time: 1300
 event-ticket-price: free
+event-category: half-term
 breadcrumb: y
 ---
 

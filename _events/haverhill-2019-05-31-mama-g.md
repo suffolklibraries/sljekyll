@@ -5,6 +5,7 @@ location-text: Haverhill Library
 event-start-date: 2019-05-31
 event-start-time: 1100
 event-ticket-price: free
+event-category: half-term
 breadcrumb: y
 ---
 
