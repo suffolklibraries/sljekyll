@@ -8,4 +8,4 @@ event-end-time: 1030
 breadcrumb: y
 ---
 
-Come along to our [regular Storytime session](/parents-carers-and-children/bookstart-storytime-resources/) dressed in your pyjamas to help us celebrate bedtime stories and raise money for [BookTrust](https://www.booktrust.org.uk/what-we-do/programmes-and-campaigns/pyjamarama/).
+Come along to our [regular Storytime session](/parents-carers-and-children/bookstart-storytime-resources/) dressed in your pyjamas to help us celebrate bedtime stories for [BookTrust](https://www.booktrust.org.uk/what-we-do/programmes-and-campaigns/pyjamarama/).
