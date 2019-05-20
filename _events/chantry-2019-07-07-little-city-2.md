@@ -3,9 +3,9 @@ name: "Little City: for toddlers and pre-schoolers"
 location: chantry-library
 location-text: Chantry Library
 event-start-date: 2019-07-17
-event-start-time: 1300
-event-end-time: 1500
-event-ticket-pricre: 5
+event-start-time: 1415
+event-end-time: 1515
+event-ticket-price: 5
 breadcrumb: y
 ---
 
