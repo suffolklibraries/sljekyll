@@ -28,21 +28,11 @@ Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &ra
 
 <tr>
 <td>
-17.05.19
-</td>
-
-<td>
-Suffolk User Forum visit for Mental Health Awareness Week: enjoy coffee and cake and share your experiences of mental health services in Suffolk
-</td>
-</tr>
-
-<tr>
-<td>
 24.05.19
 </td>
 
 <td>
-Mindfulness colouring
+Cherry blossom tree making
 </td>
 </tr>
 
@@ -82,7 +72,7 @@ Mosaic art
 </td>
 
 <td>
-Mindfulness colouring
+Favourite music and instrument making - tell us your favourite song!
 </td>
 </tr>
 
