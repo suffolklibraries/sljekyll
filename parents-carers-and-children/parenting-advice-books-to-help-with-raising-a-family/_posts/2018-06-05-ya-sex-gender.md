@@ -18,6 +18,7 @@ breadcrumb: childrens-ya-books
 </div>
 
 See also:
+* [Recommended Young Adult titles to mark LGBT History Month 2019](/new-suggestions/young-adult/lgbt-history-month-2019/)
 * [Recommended Young Adult titles to mark LGBT History Month 2018](/new-suggestions/young-adult/lgbt-history-month-2018/)
 * [Recommended Young Adult titles to mark LGBT History Month 2017](/new-suggestions/young-adult/titles-for-lgbt-history-month/)
 * [Links for your health and wellbeing](/health/links/)

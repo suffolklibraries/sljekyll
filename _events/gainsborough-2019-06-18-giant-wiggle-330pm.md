@@ -2,7 +2,7 @@
 name: "The Giant Wiggle: <cite>The Very Hungry Caterpillar</cite> crafts and activities"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
-event-start-date: 2019-06-19
+event-start-date: 2019-06-18
 event-start-time: 1530
 event-end-time: 1645
 event-ticket-price: 2 suggested donation to Action for Children

@@ -1,8 +1,6 @@
 ---
 recurrent-title: "Girls' group: have fun and build your self-esteem"
 recurrent-description: '<ul class="f6 ma0">
-                        <li>13 May: 5 Ways to Wellbeing book craft</li>
-                        <li>20 May: Volunteering Matters - social action project</li>
                         <li>3 June: 5 Ways to Wellbeing book craft</li>
                         <li>10 June: visit from therapy dog Brutus</li>
                         <li>17 June: Women 100 resource box activities</li>
