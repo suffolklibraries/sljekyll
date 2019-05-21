@@ -15,6 +15,7 @@ Twelve of our libraries currently provide **free sanitary items with no question
 * [Bury St Edmunds Library](/libraries/bury-st-edmunds-library/)
 * [Capel St Mary Library](/libraries/capel-st-mary-library)
 * [Chantry Library](/libraries/chantry-library)
+* [Felixstowe Library](/libraries/felixstowe-library)
 * [Gainsborough Community Library](/libraries/gainsborough-community-library/)
 * [Haverhill Library](/libraries/haverhill-library/)
 * [Ipswich County Library](/libraries/ipswich-county-library/)
