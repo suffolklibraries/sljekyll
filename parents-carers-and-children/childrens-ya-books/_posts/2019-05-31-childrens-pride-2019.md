@@ -30,6 +30,10 @@ For older children:
 
 > "When Julian gets home, daydreaming of the magic he’s seen, all he can think about is dressing up just like the ladies and making his own fabulous mermaid costume. But what will Nana think about the mess he makes - and even more importantly - what will she think about how Julian sees himself?"
 
+## [<cite>Sparkle Boy</cite>, by Leslea Newman & Maria Mola](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2510100)
+
+> "Three-year-old Casey wants what his older sister, Jessie, has - a shimmery skirt, glittery painted nails, and a sparkly bracelet - but Jessie does not approve. After two boys tease Casey about his appearance, Jessie evolves to a place of acceptance and celebration of her gender creative younger brother."
+
 ## [<cite>And Tango Makes Three</cite>, by Justin Richardson, Peter Parnell & Henry Cole](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1086837)
 
 > "Based on a true story, this charming and heart-warming tale proves that all you need to make a family is love."
