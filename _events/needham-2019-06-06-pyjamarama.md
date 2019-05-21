@@ -3,7 +3,7 @@ name: "Baby Bounce and Tot Rock: Pyjamarama!"
 location: needham-market-library
 location-text: Needham Market Library
 event-start-date: 2019-06-06
-event-start-time: 1945
+event-start-time: 0945
 event-end-time: 1030
 breadcrumb: y
 ---
