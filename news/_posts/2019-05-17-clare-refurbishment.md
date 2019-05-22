@@ -4,7 +4,7 @@ title: "Clare Library to close for refurbishment"
 date: 2019-05-17
 author: hannah-foulstone
 category: news
-excerpt: "Clare Library will be closed for refurbishment from 10 - 17 June, reopening on Tuesday 18 June."
+excerpt: "Clare Library will be closed for refurbishment from 1 - 8 July, reopening on Tuesday 9 July."
 breadcrumb: news
 ---
 
