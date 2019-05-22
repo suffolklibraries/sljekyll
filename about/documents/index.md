@@ -54,6 +54,7 @@ Contact our marketing and communications manager for a full report: **james.powe
 
 ## Policy documents
 
+* [Equal Opportunities Policy](/assets/pdf/equal-opportunities-policy.pdf) (PDF)
 * [Safeguarding Children and Vulnerable Adults Policy](/assets/pdf/safeguarding-policy-jul-2018.pdf) (PDF)
 * [Volunteer Policy](/assets/pdf/volunteer-policy.pdf) (PDF)
 

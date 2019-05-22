@@ -45,7 +45,7 @@ See also:
 
 * [Summer Reading Challenge volunteer profile](/assets/pdf/src-volunteer-role-profile.pdf) (PDF)
 * [Volunteer Policy](/assets/pdf/volunteer-policy-may-2019.pdf) (PDF)
-* [Equal Opportunities Policy](/assets/pdf/src-volunteer-equal-opportunity-statement.pdf) (PDF)
+* [Equal Opportunities Policy](/assets/pdf/equal-opportunities-policy.pdf) (PDF)
 
 <footer class="{% include /c/content-block.html %} pt2 bt b--light-gray">
 

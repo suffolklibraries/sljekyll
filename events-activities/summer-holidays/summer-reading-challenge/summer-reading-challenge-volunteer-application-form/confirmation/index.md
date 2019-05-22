@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Summer Reading Challenge 2018 volunteer application form submission
+title: Summer Reading Challenge 2019 volunteer application form submission
 breadcrumb: summer-reading-challenge
 sidebar: summer-reading-challenge
 ---

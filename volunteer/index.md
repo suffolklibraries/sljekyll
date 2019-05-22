@@ -51,4 +51,4 @@ If you want to get involved, [contact your local library](/libraries/) or email 
 **If you’re thinking of volunteering take a look at our Volunteer and Equal Opportunities policies:**
 
 - [Volunteer Policy](/assets/pdf/volunteer-policy-may-2019.pdf) (PDF)
-- [Equal Opportunities Policy](/assets/pdf/src-volunteer-equal-opportunity-statement.pdf) (PDF)
+- [Equal Opportunities Policy](/assets/pdf/equal-opportunities-policy.pdf) (PDF)
