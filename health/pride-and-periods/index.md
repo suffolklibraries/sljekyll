@@ -8,7 +8,7 @@ sidebar: health
 
 ![Pride and Periods logo](/images/featured/featured-pride-and-periods.jpg)
 
-Twelve of our libraries currently provide **free sanitary items with no questions asked**:
+17 of our libraries currently provide **free sanitary items with no questions asked**:
 
 * [Broomhill Library](/libraries/broomhill-library)
 * [Bungay Library](/libraries/bungay-library/)
