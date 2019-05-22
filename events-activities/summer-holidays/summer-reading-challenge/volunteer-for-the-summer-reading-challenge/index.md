@@ -44,7 +44,7 @@ To get involved, contact [your local library](/libraries/) or apply online with 
 See also:
 
 * [Summer Reading Challenge volunteer profile](/assets/pdf/src-volunteer-role-profile.pdf) (PDF)
-* [Volunteer Policy](/assets/pdf/src-volunteer-policy.pdf) (PDF)
+* [Volunteer Policy](/assets/pdf/volunteer-policy-may-2019.pdf) (PDF)
 * [Equal Opportunities Policy](/assets/pdf/src-volunteer-equal-opportunity-statement.pdf) (PDF)
 
 <footer class="{% include /c/content-block.html %} pt2 bt b--light-gray">
