@@ -9,6 +9,8 @@ event-ticket-price: free
 breadcrumb: y
 ---
 
-8-18 year-olds are invited to join Snape Maltings’ youth community choir Group A for a special singing workshop ahead of their [participatory performance of <cite>The Old Man and the Sea</cite> at First Light Festival](/events/lowestoft-2019-06-23-first-light-performance/)
+8-18 year-olds are invited to join Snape Maltings’ youth community choir Group A for a special singing workshop ahead of their [participatory performance of <cite>The Old Man and the Sea</cite> at First Light Festival](/events/lowestoft-2019-06-23-first-light-performance/). No auditioning and no experience required!
+
+Visit the [First Light Festival website](https://firstlightlowestoft.com/whats-on/the-old-man-and-the-seas/) to find out more.
 
 This project is part of our [BLOC youth arts programme](/bloc/).

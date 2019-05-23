@@ -9,6 +9,10 @@ event-ticket-price: free
 breadcrumb: y
 ---
 
-Did you, or someone you know, help artist Constance Villemot make a giant fish on [Thursday 30 May](/events/lowestoft-2019-05-30-giant-fish/) or [Sunday 9 June](/events/lowestoft-2019-06-09-giant-fish/), or join in our [singing workshop with Snape Maltings' youth community choir Group A on Wednesday 12 June](/events/lowestoft-2019-06-12-singing-workshop/)? Come along and see the fish in action and join in the participatory performance of Ernest Hemingway's <cite>The Old Man and the Sea</cite> at the culmination of the First Light Festival.
+Did you, or someone you know, help artist Constance Villemot make a giant fish on [Thursday 30 May](/events/lowestoft-2019-05-30-giant-fish/) or [Sunday 9 June](/events/lowestoft-2019-06-09-giant-fish/), or join in our [singing workshop with Snape Maltings' youth community choir Group A on Wednesday 12 June](/events/lowestoft-2019-06-12-singing-workshop/)? Or do you just want to come along and help tell a classic story in a new way?
+
+Come along and see the fish in action and join in the participatory performance of Ernest Hemingway's <cite>The Old Man and the Sea</cite> at the culmination of the First Light Festival.
+
+Visit the [First Light Festival website](https://firstlightlowestoft.com/whats-on/the-old-man-and-the-seas/) to find out more.
 
 This project is part of our [BLOC youth arts programme](/bloc/).
