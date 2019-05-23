@@ -1,5 +1,5 @@
 ---
-name: "Art workshop with Constance Williams: for 8-18 year-olds"
+name: "Art workshop with Constance Villemot: for 8-18 year-olds"
 location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2019-05-30
