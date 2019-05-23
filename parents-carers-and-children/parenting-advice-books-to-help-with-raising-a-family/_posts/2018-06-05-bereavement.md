@@ -17,6 +17,10 @@ breadcrumb: childrens-ya-books
 
 </div>
 
+## [<cite>Goodbye Mog</cite>, by Judith Kerr](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=62175)
+
+> "Mog was tired - dead tired. She thought, 'I want to sleep for ever'. And so she did. But a little bit of her stayed awake to see what would happen next. So Mog keeps watch over the upset Thomas family, who miss her terribly, and she wonders how they will ever manage without her."
+
 ## [<cite>If All the World Were...</cite>, by Joseph Coelho & Allison Colpoys](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2378820)
 
 > "A moving, lyrical picture book about a young girl's love for her granddad and how she copes when he dies, written by poet and playwright Joseph Coelho. This powerful and ultimately uplifting text is the ideal way to introduce children to the concept of death and dying, particularly children who have lost a grandparent."
