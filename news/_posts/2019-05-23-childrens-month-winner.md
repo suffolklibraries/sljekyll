@@ -14,7 +14,7 @@ There were over 600 entries and the lucky winner was 18-month-old Sienna, who se
 
 Sienna won an iPad for her and her family to enjoy. Several libraries in Suffolk now lend iPads, which can be used to access library eBooks and other [eLibrary](/elibrary/) services: eAudiobooks, digital music, magazines and newspapers.
 
-{% include /c/figure.html src="/images/featured/featured-rachel-gibson.jpg" alt="Competition winner Sienna with her favourite book, <cite>Each Peach Pear Plum</cite>" caption="Competition winner Sienna with her favourite book, <cite>Each Peach Pear Plum</cite>" %}
+{% include /c/figure.html src="/images/featured/featured-sienna.jpg" alt="Competition winner Sienna with her favourite book, <cite>Each Peach Pear Plum</cite>" caption="Competition winner Sienna with her favourite book, <cite>Each Peach Pear Plum</cite>" %}
 
 Sienna's mother, Heidi Howard-Griffin, is a frequent user of Broomhill Library. When asked about why she selected this children’s book as her favourite, she said: "My mother always told me that <cite>Each Peach Pear Plum</cite> was one of our family favourites, so I have read it endlessly to both my daughters, most recently Sienna.
 
