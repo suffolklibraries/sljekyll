@@ -1,5 +1,5 @@
 ---
-name: "Woodbridge Regatte & Riverside Fair display"
+name: "Woodbridge Regatta & Riverside Fair display"
 location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2019-06-03
