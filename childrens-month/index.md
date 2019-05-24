@@ -37,11 +37,9 @@ breadcrumb: home
 
     <section class="pa3 bg-light-yellow bt bw3 b--dark-red">
 
-      <h2 class="tc mt0 pt0 dark-red lh-title ttl tracked small-caps">Help us find Suffolk’s favourite children’s book!</h2>
+      <h2 class="tc mt0 pt0 dark-red lh-title ttl tracked small-caps">Suffolk’s favourite children’s book</h2>
 
-      <p class="tc mt1 measure center">Tell us yours and <strong>you could win an iPad or a £20 John Lewis voucher!</strong> The survey closes on Sunday 5 May, so don't miss your chance.</p>
-
-      <p class="tc b f6 f4-ns">{% include /c/button-blue.html text="Tell us your favourite book &rarr;" url="https://www.surveymonkey.co.uk/r/childrens-month" %}</p>
+      <p class="tc mt1 measure center">We ran a survey during Children's Month to find out Suffolk's favourite children's book. We'll soon be announcing the winner!</p>
 
       <h3 class="tc f5 custom-lh-title">Our libraries’ favourite books&hellip;</h3>
 
