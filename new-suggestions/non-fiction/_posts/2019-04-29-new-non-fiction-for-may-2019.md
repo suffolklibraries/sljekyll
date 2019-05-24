@@ -40,7 +40,7 @@ This sumptuous coffee table volume is one that will appeal to design students, a
 
 > "<cite>Lowborn</cite> is Kerry's exploration of where she came from, revisiting the towns she grew up in to try to discover what being poor really means in Britain today and whether anything has changed."
 
-## [<cite>The Making of Walnut Tree Farm</cite>, by Rufus Deakin & Titus Rowlandson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2544007)
+## [<cite>Life at Walnut Tree Farm</cite>, by Rufus Deakin & Titus Rowlandson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2544007)
 
 Fascinating story with local interest of how nature writer Roger Deakin rebuilt and restored a 16th century Suffolk farmhouse.
 
