@@ -31,4 +31,4 @@ If you are interested, please send a CV and supporting statement outlining what 
 
 As users of the disability conﬁdent scheme, we guarantee to interview all disabled applicants who meet the minimum criteria for the vacancy.
 
-The closing date for applications is **Friday 28 June 2019**. Interviews will be held on **Friday 5 July 2019** at **Sudbury Library**.
+The closing date for applications is **Friday 28 June 2019**. Interviews will be held on **Friday 12 July 2019** at **Sudbury Library**.
