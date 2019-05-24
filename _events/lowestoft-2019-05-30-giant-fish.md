@@ -3,7 +3,7 @@ name: "Art workshop with Constance Villemot: for 8-18 year-olds"
 location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2019-05-30
-event-start-time: 1200
+event-start-time: 1400
 event-end-time: 1630
 event-category: half-term
 event-ticket-price: free
