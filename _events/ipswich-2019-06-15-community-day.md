@@ -9,4 +9,16 @@ event-ticket-price: free
 breadcrumb: y
 ---
 
-Join your community at the library for workshops, dance, music, children's crafts, stalls and more. Watch this space for more information!
+Join your community at the library for workshops, dance, music, children's crafts, stalls and more.
+
+Performers and workshops include:
+
+* Westbourne Academy Samba Band
+* Ipswich Piping Society
+* Hara Tribal Bellydance
+* Suffolk Soul Choir
+* Drumming workshop with Baz
+* Book folding with the Book Surgeon
+* IP365 identity workshop
+* Henna tattooing
+* Children's crafts
