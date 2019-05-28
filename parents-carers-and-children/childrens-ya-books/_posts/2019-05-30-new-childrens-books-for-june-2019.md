@@ -116,6 +116,14 @@ New edition from the illustrator of [<cite>Mary and Frankenstein</cite>](https:/
 
 ## Junior novels
 
+## [<cite>The Curse of the School Rabbit</cite>, by Judith Kerr](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2589905)
+
+Final book from the late, great author-illustrator.
+
+> "Snowflake is the school rabbit, and Snowflake is trouble. At least that's what Tommy thinks, and when Snowflake is unexpectedly left for him to look after and everything starts to go wrong, it looks like Tommy might be right. Even if he is getting more pocket money for feeding it and might be able to afford a new bike after all. And with a sick sister left in bed, a snobby actor left with suspiciously damp trousers, and no rabbit anywhere to be seen, Tommy can see his hopes of a new bike disappearing as fast as Snowflake.
+
+> "Will Snowflake turn up, and turn out to be more good luck than bad? Or are Tommy and his family doomed by the curse of the school rabbit?"
+
 ### [<cite>The Butterfly Circus</cite>, by Francesca Armour-Chelu](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2561248)
 
 Spectacular fantasy adventure from the Suffolk librarian behind the Fenn Halflin duology.
