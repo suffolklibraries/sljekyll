@@ -8,7 +8,7 @@ sidebar: health
 
 ![Pride and Periods logo](/images/featured/featured-pride-and-periods.jpg)
 
-17 of our libraries currently provide **free sanitary items with no questions asked**:
+18 of our libraries currently provide **free sanitary items with no questions asked**:
 
 * [Broomhill Library](/libraries/broomhill-library)
 * [Bungay Library](/libraries/bungay-library/)
@@ -27,6 +27,7 @@ sidebar: health
 * [Rosehill Library](/libraries/rosehill-library/)
 * [Stoke Library](/libraries/stoke-library/)
 * [Stowmarket Library](/libraries/stowmarket-library/)
+* [Woodbridge Library](/libraries/woodbridge-library/)
 
 You can request tampons and pads for all flows and preferences by completing a simple, discreet form in the library and handing it to a member of staff.
 
