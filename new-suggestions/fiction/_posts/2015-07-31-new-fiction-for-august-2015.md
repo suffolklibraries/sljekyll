@@ -51,9 +51,9 @@ Feisty heroine Kitty Deverill has to choose between love and social position in 
 
 1980s-set thriller featuring PI Kinsey Millhone, on the case to find a sociopathic killer.
 
-## [<cite>Badlands</cite> by C J Box](http://suffolklibraries.lib.overdrive.com/65939961-F610-44CC-89DC-559DA6BE8146/10/50/en/ContentDetails.htm?id=722C1737-BF28-4CDD-A173-46DD4AA7864D) (eBook)
+## [<cite>Badlands</cite> by C. J. Box](https://suffolklibraries.overdrive.com/media/2125330) (eBook)
 
-[![Badlands by C J Box](/images/article/badlands.jpg)](http://suffolklibraries.lib.overdrive.com/65939961-F610-44CC-89DC-559DA6BE8146/10/50/en/ContentDetails.htm?id=722C1737-BF28-4CDD-A173-46DD4AA7864D)
+[![Badlands by C. J. Box](/images/article/badlands.jpg)](http://suffolklibraries.lib.overdrive.com/65939961-F610-44CC-89DC-559DA6BE8146/10/50/en/ContentDetails.htm?id=722C1737-BF28-4CDD-A173-46DD4AA7864D)
 
 Senior investigator Cassie Dewell inquires into local drug trafficking in this thriller.
 
