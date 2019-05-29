@@ -124,7 +124,7 @@ Here are some of the organisations and information sources available for a varie
 </ul>
 <h3 id="depression">Depression</h3>
 <ul class="xoxo blogroll">
-	<li><a href="http://www.rethink.org/about_mental_illness/mental_illnesses_and_disorders/depression/index.html">Rethink</a> - Do you have depression or think you might have?</li>
+	<li><a href="https://www.rethink.org/advice-information/about-mental-illness/learn-more-about-conditions/depression/">Rethink</a> - Information on symptoms, types, and possible causes and treatments for depression.</li>
 	<li><a href="http://www.rcpsych.ac.uk/mentalhealthinformation/mentalhealthproblems/depression/depression.aspx">Royal College of Psychiatrists leaflets</a> - Printable leaflet for those who have depression or if you are supporting someone with depression</li>
 	<li><a href="http://www.samaritans.org/">Samaritans</a> - Someone to talk to if you are troubled, available 24/7</li>
 	<li><a href="http://www.nhs.uk/conditions/Postnataldepression/Pages/Introduction.aspx">NHS Choices: Postnatal Depression</a> - Information and advice about postnatal depression</li>
@@ -173,7 +173,7 @@ Here are some of the organisations and information sources available for a varie
 <h3 id="miscarriage">Miscarriage and postnatal</h3>
 <ul>
 	<li><a href="http://www.nhs.uk/Conditions/Miscarriage/Pages/Complications.aspx">NHS Choices</a> - Support and advice on the emotional impact of miscarriage</li>
-	<li><a href="http://www.childbereavementuk.org/support/families/death-baby-miscarriage-and-stillbirth/">Child Bereavement UK</a> - National charity that supports families through loss of a child including miscarriage .</li>
+	<li><a href="https://www.childbereavementuk.org/when-your-baby-dies">Child Bereavement UK</a> - National charity that supports families through loss of a child including miscarriage .</li>
 	<li><a href="http://www.nhs.uk/conditions/Postnataldepression/Pages/Introduction.aspx">NHS Choices</a> - Information on how postnatal depression can affect you</li>
 </ul>
 <h3 id="money">Money &amp; debt</h3>
@@ -211,7 +211,7 @@ Here are some of the organisations and information sources available for a varie
 <h3 id="schizophrenia">Schizophrenia</h3>
 <ul class="xoxo blogroll">
 	<li><a href="http://www.nhs.uk/conditions/Schizophrenia/Pages/Introduction.aspx">NHS Choices</a> - What schizophrenia is and how it can be treated</li>
-	<li><a href="http://www.rethink.org/about_mental_illness/mental_illnesses_and_disorders/schizophrenia/index.html">Rethink</a> - Information and telephone support with downloadable fact sheets</li>
+	<li><a href="https://www.rethink.org/advice-information/about-mental-illness/learn-more-about-conditions/schizophrenia/">Rethink</a> - Information and telephone support with downloadable fact sheets</li>
 	<li><a href="http://www.sane.org.uk/uploads/schizophrenia.pdf">Sane</a> - Downloadable fact sheet</li>
 </ul>
 <h3 id="selfharm">Self-harm</h3>

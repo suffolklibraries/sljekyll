@@ -13,5 +13,3 @@ event-category: shs
 Come and experience this powerful vehicle of awakening and self-mastery on [Super Happy Sunday](/news/super-happy-sunday/). More than a moving meditation, more than a healing therapy, it dissolves patterns of stress, trauma and contraction held in the body/mind/energy field to reveal your authentic nature.
 
 Venetia will demonstrate/dance the full sequence of The Form with someone sitting in a chair as receiver, and then participants will share a short movement called "Cosmo-Form" together and in pairs. They will then share their inner discoveries.
-
-Find out more on the [Community Wellness Project Meetup page](https://www.meetup.com/Community-Wellness-Project-Holistic/events/257281430/).
