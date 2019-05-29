@@ -16,6 +16,4 @@ News of the award came just after Kesgrave Library also opened its new and impro
 
 The ‘comfy corner’ was unveiled at a special Paddington Bear themed event recently and comprises brand new comfortable chairs and furniture. Anglia Research donated nearly £1,500 to the library for these improvements, with Rushmere St Andrew Parish Council also donating £200.
 
-Philip Turvey, Executive Director of Anglia Research said: “We are proud to be supporting our local community. The new look of the ‘comfy corner’ will be of great benefit for the children of local families, including many of our employees’ children.”
-
-We are also planning to [increase opening hours at Kesgrave Library and encourage customers to have their say](/news/extra-kesgrave-hours/).
+Philip Turvey, Executive Director of Anglia Research said: "We are proud to be supporting our local community. The new look of the ‘comfy corner’ will be of great benefit for the children of local families, including many of our employees’ children."

@@ -12,7 +12,7 @@ Suffolk Libraries will be taking part in the [Suffolk Show](https://suffolkshow.
 
 You can find us at two separate tradestands: at the new Reflections Courtyard, and with West Suffolk College.
 
-The Reflections Courtyard is a new area close to the centre of the showground where people can take time out from the show. We will be providing a [Suffolk Libraries Local](/local/) pop-up library experience, with regular storytime sessions and craft activities for children, a selection of books and board games. 
+The Reflections Courtyard is a new area close to the centre of the showground where people can take time out from the show. We will be providing a [Suffolk Libraries Local](/local/) pop-up library experience, with regular storytime sessions and craft activities for children, a selection of books and board games.
 
 Come along and pick up a free pack of Suffolk Libraries crayons and enter our special colouring competition for Elmer the elephant's 30th anniversary. There are two cuddly Elmer toys up for grabs.
 
@@ -20,7 +20,7 @@ On Thursday 30 May, fabulous pantomime dame Mama G will be with us, telling stor
 
 You can find out about the huge range of activities, services and opportunities we provide across the county, and the impact we have on our communities. We'll be asking you for your feedback and ideas and inviting you to enter a special Suffolk Libraries quiz for the chance to win one of 25 shopping vouchers.
 
-Our [New Chapters mental health and wellbeing information service](/health/) will also be on hand, providing information about how the library service can help connect people with resources or organisations to assist them with their wellbeing, including the [Pride and Periods period poverty scheme](/health-pride-and-periods/).
+Our [New Chapters mental health and wellbeing information service](/health/) will also be on hand, providing information about how the library service can help connect people with resources or organisations to assist them with their wellbeing, including the [Pride and Periods period poverty scheme](/health/pride-and-periods/).
 
 Our Arts Council-funded youth arts programme [BLOC (Building Libraries on Creativity)](/bloc/) will be at West Suffolk College stand running a Virtual Reality arts activity and iPad drawing workshops.
 

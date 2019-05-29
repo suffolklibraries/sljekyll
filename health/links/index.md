@@ -62,7 +62,6 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="http://www.al-anonuk.org.uk">Al-anon</a> - National organisation with local groups offering support for family members affected by alcoholism</li>
 	<li><a href="http://www.alcoholics-anonymous.org.uk">Alcoholics Anonymous</a> - National organisation providing information and support groups for those recovering from alcoholism</li>
 	<li><a href="http://www.aainsuffolk.co.uk/">Alcoholics Anonymous in Suffolk</a> - Local support groups and information for those recovering from alcoholism</li>
-	<li><a href="http://www.hopefsg.org.uk/">HOPE family support group</a> - Ipswich based group providing information and support for family members and friends affected by alcoholism</li>
 	<li><a href="http://www.drinkaware.co.uk">Drinkaware</a> - Hints and tips on managing alcohol intake and fact sheets</li>
 	<li><a href="http://www.focus12.co.uk">Focus 12</a> - Drug and alcohol rehabilitation charity based in Bury St Edmunds</li>
 	<li><a href="https://www.healthysuffolk.org.uk/advice-services/adults/drugs-and-alcohol">Healthy Suffolk: Drugs and alcohol</a> - Information and contact numbers for services across Suffolk</li>
@@ -207,7 +206,7 @@ Here are some of the organisations and information sources available for a varie
 <h3 id="psychosis">Psychosis</h3>
 <ul>
 	<li><a href="http://www.nhs.uk/conditions/Psychosis/Pages/Introduction.aspx">NHS Choices</a> - Defines the main symptoms of psychosis</li>
-	<li><a href="https://www.rethink.org/diagnosis-treatment/conditions/psychosis">Rethink</a> - Possible causes and treatments for psychosis</li>
+	<li><a href="https://www.rethink.org/advice-information/about-mental-illness/learn-more-about-conditions/psychosis/">Rethink</a> - Symptoms, related conditions, and possible causes and treatments for psychosis</li>
 </ul>
 <h3 id="schizophrenia">Schizophrenia</h3>
 <ul class="xoxo blogroll">

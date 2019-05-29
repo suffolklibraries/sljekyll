@@ -18,4 +18,4 @@ Library manager Karla Greenwood said: "We are refurbishing Clare Library to crea
 
 "It will enable us to provide a more user-friendly environment which will also be better for our Ciné Clair evenings, from which funds raised have gone towards this work."
 
-We apologise for any inconvenience caused by this temporary closure. Any library loans due back during the closure will be automatically extended and local residents are welcome to use any other library during the closure, the nearest being [Kedington](/libraries/kedington-library/) and [Glemsford](/libraries/glemsfordlibrary/).
+We apologise for any inconvenience caused by this temporary closure. Any library loans due back during the closure will be automatically extended and local residents are welcome to use any other library during the closure, the nearest being [Kedington](/libraries/kedington-library/) and [Glemsford](/libraries/glemsford-library/).
