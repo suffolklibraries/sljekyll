@@ -186,10 +186,23 @@
 
         {% endif %}
 
-        {% if page.parsley %}
+        {% if page.typewriter %}
 
+        <script src="/js/typewriter-core.js"></script>
         <script>
-            $('#form').parsley();
+          const typewriter = new Typewriter('#typewriter', {
+            loop: false,
+          });
+
+          typewriter.typeString('Prood')
+            .pauseFor(500)
+            .deleteChars(2)
+            .typeString('ud Suffolk is a react')
+            .pauseFor(500)
+            .deleteChars(5)
+            .typeString('creative…')
+            .pauseFor(2500)
+            .start();
         </script>
 
         {% endif %}
