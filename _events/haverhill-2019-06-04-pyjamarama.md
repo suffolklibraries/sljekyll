@@ -5,6 +5,7 @@ location-text: Haverhill Library
 event-start-date: 2019-06-04
 event-start-time: 1000
 event-end-time: 1030
+event-category: pyjamarama
 breadcrumb: y
 ---
 

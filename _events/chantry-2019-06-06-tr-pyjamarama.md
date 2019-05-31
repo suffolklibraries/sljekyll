@@ -5,6 +5,7 @@ location-text: Chantry Library
 event-start-date: 2019-06-06
 event-start-time: 0915
 event-end-time: 0945
+event-category: pyjamarama
 breadcrumb: y
 ---
 

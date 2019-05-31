@@ -5,6 +5,7 @@ location-text: Eye Library
 event-start-date: 2019-06-10
 event-start-time: 1030
 event-end-time: 1200
+event-category: pyjamarama
 breadcrumb: y
 ---
 

@@ -5,6 +5,7 @@ location-text: Lavenham Library
 event-start-date: 2019-06-04
 event-start-time: 1630
 event-end-time: 1800
+event-category: pyjamarama
 breadcrumb: y
 ---
 

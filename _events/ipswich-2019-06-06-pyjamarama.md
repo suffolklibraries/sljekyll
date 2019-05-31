@@ -6,6 +6,7 @@ event-start-date: 2019-06-06
 event-start-time: 1030
 event-end-time: 1115
 event-ticket-price: free
+event-category: pyjamarama
 breadcrumb: y
 ---
 

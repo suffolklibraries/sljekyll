@@ -5,6 +5,7 @@ location-text: Southwold Library
 event-start-date: 2019-06-06
 event-start-time: 1400
 event-end-time: 1500
+event-category: pyjamarama
 breadcrumb: y
 ---
 

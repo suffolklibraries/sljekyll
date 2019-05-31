@@ -5,6 +5,7 @@ location-text: Bungay Library
 event-start-date: 2019-06-04
 event-start-time: 1030
 event-end-time: 1100
+event-category: pyjamarama
 breadcrumb: y
 ---
 
