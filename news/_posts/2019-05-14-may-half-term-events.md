@@ -13,6 +13,7 @@ dynatable: true
 event-filter: half-term
 featured: true
 featured-link-text: "Are you looking for something to do during half-term? We've got children's events taking place across our libraries."
+featured-link-href-text: "Find an event near you →"
 ---
 
 {% include /c/figure.html src="/images/featured/featured-childrens-crafts.jpg" alt="Children and babies making crafts in a library with parents and carers" caption="Children and babies making crafts in a library with parents and carers" %}
