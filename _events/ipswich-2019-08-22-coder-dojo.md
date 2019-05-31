@@ -3,7 +3,7 @@ id: ipswich-dojo
 name: "CoderDojo: for ages 7 - 17"
 location: ipswich-county-library
 location-text: Ipswich County Library
-event-start-date: 2019-08-08
+event-start-date: 2019-08-22
 event-start-time: 1415
 event-end-time: 1615
 event-ticket-price: free
