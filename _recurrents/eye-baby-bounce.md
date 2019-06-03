@@ -1,7 +1,7 @@
 ---
 recurrent-title: "Baby Bounce"
 recurrent-description: 'Soothing songs and gentle nursery rhymes for babies, no need to book.'
-recurrent-day: Mondays except for Bank Holidays. No session 3 June.
+recurrent-day: Mondays except for Bank Holidays.
 recurrent-times: 1015-1045
 recurrent-location: eye-library
 recurrent-location-display-name: Eye Library

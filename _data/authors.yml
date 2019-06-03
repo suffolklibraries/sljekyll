@@ -349,6 +349,11 @@ stoke-book-club:
     job: book club
     bio: we're a book club of year 7-9 students from Stoke High School
 
+sue-orton:
+    name: Sue Orton
+    job: library customer
+    bio: I'm a customer at Halesworth Library.
+
 suffolk-libraries:
     name: Suffolk Libraries
     job: library service
