@@ -2,7 +2,7 @@
 name: "Storytime with Mama G"
 location: ipswich-county-library
 location-text: Ipswich County Library
-event-start-date: 2019-04-10
+event-start-date: 2019-06-22
 event-start-time: 1030
 event-end-time: 1130
 breadcrumb: y

@@ -9,7 +9,7 @@ branch-thursday-hours: 0930 – 1230
 branch-friday-hours: 1400 – 1700, 1730 – 1930
 branch-saturday-hours: 0900 – 1500
 branch-sunday-hours: 1000 – 1500
-branch-manager: Jackie Harman
+branch-manager: Katharine Liu
 branch-address: Village Hall, The Street, Capel St Mary
 branch-post-code: IP9 2EP
 branch-tel: 01473 311699
