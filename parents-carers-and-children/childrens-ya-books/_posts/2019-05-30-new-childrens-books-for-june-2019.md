@@ -4,7 +4,7 @@ title: "New children's books for June 2019"
 date: 2019-05-30
 author: sophie-green
 category: childrens-ya-books
-excerpt: "New titles for fans of penguins, the moon, classic stories and more."
+excerpt: "New titles for fans of penguins, the Moon, classic stories and more."
 featured-image: /images/featured/featured-childrens-june-2019.jpg
 featured-alt: "The Garden of Lost Secrets, The Usborne Book of the Moon, The Dragon in the Library"
 breadcrumb: childrens-ya-books

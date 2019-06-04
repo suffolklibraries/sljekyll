@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Whitney Scharer'
-date: 2019-07-02
+date: 2019-06-25
 author: brandon-king
 category: meet-the-author
 excerpt: "Whitney Scharer talks to us about her first novel, <cite>The Age of Light</cite>, which tells the story of Lee Miller and Man Ray's tempestuous love affair in 1930s Paris."
