@@ -20,4 +20,4 @@ Under 12s must by accompanied by an adult.
 
 Visit the [CoderDojo website](https://coderdojo.com/) for more information.
 
-This event is supported by [IJYI](https://www.ijyi.c
+This event is supported by [IJYI](https://www.ijyi.com)
