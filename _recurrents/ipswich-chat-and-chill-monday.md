@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Chat and Chill: group for women who speak English as an additional language. No session 3 June."
+recurrent-title: "Chat and Chill: group for women who speak English as an additional language."
 recurrent-day: Monday
 recurrent-times: 0945-1145
 recurrent-location: ipswich-county-library
