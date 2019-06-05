@@ -1,22 +1,26 @@
 ---
-layout: sidebar-right
+layout: blank
 title: Summer Reading Challenge 2019 volunteer application form submission
-breadcrumb: summer-reading-challenge
-sidebar: summer-reading-challenge
 ---
 
-Thanks for your application. We'll be in touch as soon as possible.
+{% include hnav-small.html menu="src" %}
 
-<footer class="{% include /c/content-block.html %} pt2 bt b--light-gray">
+<article class="ph2 ph3-ns pv3 pv4-l bg-black">
 
-<footer class="{% include /c/content-block.html %} pt2 bt b--light-gray">
+  <div class="bg-washed-yellow bb b--light-gray tc ph2 ph3-ns pv3 pv4-ns pv6-l custom-bg-src-volunteer cover">
 
-<ul class="cf list ma0 pa0 mb2 tc custom-prose center">
+    <div class="measure center">
 
-  <li class="dib mr2 mr3-ns"><a class="custom-no-underline" href="https://www.summerreadingchallenge.org.uk/"><img src="/images/featured/featured-mischief-makers-logo.jpg" alt="Mischief Makers logo"></a></li>
-  <li class="dib mr2 mr3-ns"><a class="custom-no-underline" href="https://www.readingagency.org.uk/"><img src="/images/featured/featured-src-tra-logos.jpg" alt="The Reading Agency logo" /></a></li>
-  <li class="dib mr2 mr3-ns"><a class="custom-no-underline" href="http://www.artscouncil.org.uk/"><img src="/images/featured/featured-arts-council-england-logo.jpg" alt="Arts Council England" /></a></li>
+      <div class="bg-black white pa2 pa3-ns o-90">
 
-</ul>
+        <h1 class="f3 f2-ns custom-lh-title mb2 gold">Thanks for your application</h1>
 
-</footer>
+        <p class="f4 f3-ns">Complete this form and we'll get back to you as soon as possible. We won't share your information with anyone else or use it for any marketing purposes.</p>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</article>
