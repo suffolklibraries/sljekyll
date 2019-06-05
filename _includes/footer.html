@@ -206,6 +206,17 @@
 
         {% endif %}
 
+        {% if page.particles %}
+
+        <script src="/js/particles.min.js"></script>
+
+        <script>/* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
+particlesJS.load('particles-js', '/js/particles.json', function() {
+  console.log('callback - particles.js config loaded');
+});</script>
+
+        {% endif %}
+
         {% if page.breadcrumb == 'branch-room-hire' %}
 
         <script type="application/ld+json">
