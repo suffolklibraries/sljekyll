@@ -18,7 +18,7 @@ typewriter: true
 
         <noscript><p class="ttl small-caps tracked custom-lh-title f2 f1-ns mb0">Proud Suffolk is a creative…</p></noscript>
 
-        <p class="f4 f2-ns mb0 mt2">…writing project, publishing the stories and experiences of the LQBTQIA+ community to promote acceptance across the county.</p>
+        <p class="f4 f2-ns mb0 mt2">…writing project, publishing the stories and experiences of the LQBTQA+ community to promote acceptance across the county.</p>
 
         <p class="f4 f3-ns"><a href="https://blocartslibraries.typeform.com/to/MHLNkb" class="b br2 ba b--moon-gray pa2 bg-light-gray dark-blue hover-bg-dark-pink hover-white">Submit your story →</a></p>
 
