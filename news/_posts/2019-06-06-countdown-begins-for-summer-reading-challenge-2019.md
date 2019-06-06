@@ -26,7 +26,9 @@ The Summer Reading Challenge celebrates its 20th anniversary this year and is th
 
 Children taking part in the scheme will join super space family the Rockets in a thrilling mission to track down books nabbed from the Moon Library by mischievous aliens. The characters have been drawn especially for the challenge by top children's illustrator Adam Stower.
 
-Bruce Leeke, CEO of Suffolk Libraries, said: "The Summer Reading Challenge is a brilliant example of how we make children's lives better. Challengers develop literacy skills and have fun over the long summer holidays. Reading for pleasure from an early age makes a real difference to a person's wellbeing throughout their life, and parents can rediscover their love of reading when they bring their children to the library."
+Bruce Leeke, CEO of Suffolk Libraries, said: "The Summer Reading Challenge is a brilliant way of engaging children in the world of storytelling. Those taking on the challenge develop their literacy skills while having fun over the summer holidays.
+
+"Reading for pleasure from an early age is proven to have a lifelong impact on both wellbeing and social confidence. Parents and their children also have the opportunity of share something new and exciting together."
 
 The challenge helps get three quarters of a million children into libraries across the country each summer. The campaign is produced by the Reading Agency and delivered by libraries across the country.
 
