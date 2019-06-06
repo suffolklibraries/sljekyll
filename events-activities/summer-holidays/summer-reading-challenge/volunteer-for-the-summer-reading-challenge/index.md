@@ -69,9 +69,9 @@ title: Volunteer for the Summer Reading Challenge
 
     <div class="measure center">
 
-      <h2 class="tc f4 f3-ns custom-lh-title">What are the benefits of volunteering for the SRC?</h2>
+      <h2 class="tc f4 f3-ns custom-lh-title">What are the benefits of volunteering for the Summer Reading Challenge?</h2>
 
-      <p>Voulunteering can help you in lots of ways:</p>
+      <p>Volunteering can help you in lots of ways:</p>
 
       <ul>
 
