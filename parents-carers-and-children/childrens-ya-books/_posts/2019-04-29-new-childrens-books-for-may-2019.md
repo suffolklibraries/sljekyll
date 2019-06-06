@@ -18,9 +18,9 @@ breadcrumb: childrens-ya-books
 
 Another title for the eternally popular series.
 
-### [<cite>Superhero Dad and Daughter</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2546403) and [<cite>Superhero Dad and Son</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2546402), by Timothy Knapman
+### [<cite>Superhero Dad and Daughter</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2546403) and [<cite>Superhero Dad and Son</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2546402), by Timothy Knapman and Joe Berger
 
-Just in time for Fathers' Day.
+Just in time for Father's Day.
 
 ### [<cite>Moon Landing</cite>, by Lon Lee](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2550864)
 
