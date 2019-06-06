@@ -37,7 +37,7 @@ title: Volunteer for the Summer Reading Challenge
 
         <li>Help sign children up to the challenge in libraries</li>
         <li>Explain how the challenge works</li>
-        <li>Talk to children about the books they have ready</li>
+        <li>Talk to children about the books they have read</li>
         <li>Hand out rewards and incentives.</li>
 
       </ul>
