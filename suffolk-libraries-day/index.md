@@ -53,6 +53,8 @@ layout: blank
 
         <p>We’d also love it if your company would consider match-funding any sponsorship your staff raise for the challenge.</p>
 
+        <p><a href="/suffolk-libraries-day/book-journey/">Take a look at the Book Journey timetable and availability &rarr;</a></p>
+
       </div>
 
     </div>
