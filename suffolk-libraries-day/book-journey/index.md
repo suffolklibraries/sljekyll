@@ -145,7 +145,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
           Adnams - Pink electric van
         </td>
       </tr>
-      <tr>
+      <tr class="bg-light-gray">
         <td>
           Framlingham - Saxmundham
         </td>
