@@ -1,0 +1,36 @@
+---
+layout: sidebar-right
+title: "Felixstowe Library to host Felixstowe Book Festival children's events"
+date: 2019-06-07
+author: james-powell
+category: news
+excerpt: "Felixstowe Book Festival returns to the town for a seventh year from 27-30 June. Its wide-ranging programme includes several events for children and young people at Felixstowe Library."
+breadcrumb: news
+---
+
+<p><a href="https://felixstowebookfestival.co.uk/">Felixstowe Book Festival</a> returns to the town for a seventh year from 27 - 30 June. Its wide-ranging programme includes several events for children and young people at Felixstowe Library.</p>
+
+<p>The children's events kick off on Friday 28 June with the <a href="/events/felixstowe-2019-06-28-fbf-felixstowe-docs/">launch of Felixstowe.docs</a>, an anthology of poetry and short stories written by young people from Felixstowe Academy about their town. The project was facilitated by our <a href="/bloc/">BLOC youth arts programme</a> and steered by Felixstowe-born Young Adult author Hayley Young.</p>
+
+<p>Children aged 9+ can also <a href="/events/felixstowe-2019-06-29-fbf-potkin-and-stubbs/">meet author and Suffolk librarian Sophie Green</a>, who will be talking about her debut novel, <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2520242"><cite>Potkin and Stubbs</cite></a> on Saturday 29 June.</p>
+
+<p>A full list of Felixstowe Book Festival children's events at the library follows.</p>
+
+{% assign fbf-events = site.events | where: "event-category", "fbf" | sort: "event-start-date" %}
+
+{% for event in fbf-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> - {{ event.event-end-date | date: "%a %-d %b" }} <span>{{ event.event-start-time }}</span>
+
+        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+        </p>
+
+    </article>
+
+{% endfor %}
