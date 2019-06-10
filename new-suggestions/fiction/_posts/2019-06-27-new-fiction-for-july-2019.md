@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: New fiction for July 2019
-date: 2019-06-28
+date: 2019-06-27
 author: brandon-king
 category: fiction
 excerpt: "New titles from David Nicholls, Jo Nesbo, Lisa Jewell and more."
