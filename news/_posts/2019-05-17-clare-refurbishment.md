@@ -8,7 +8,7 @@ excerpt: "Clare Library will be closed for refurbishment from 1 - 8 July, reopen
 breadcrumb: news
 ---
 
-Clare Library will be closed for refurbishment from 10 - 17 June, reopening on Tuesday 18 June.
+Clare Library will be closed for refurbishment from 1 - 8 July June, reopening on Tuesday 9 July.
 
 Among other improvements, the library will be enhancing its current children’s facilities and adding to its existing storage facilities.
 
