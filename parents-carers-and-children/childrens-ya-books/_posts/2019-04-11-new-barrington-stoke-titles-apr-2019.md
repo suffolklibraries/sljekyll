@@ -6,7 +6,7 @@ author: sophie-green
 category: childrens-ya-books
 excerpt: "New titles optimised for children with dyslexia and visual stress from Mal Peet, Anne Fine, Phil Earle and more."
 featured-image: /images/featured/featured-barrington-stoke-apr-2019.jpg
-featured-alt: ""
+featured-alt: "White Feather, Ellie and the Cat, Lark"
 breadcrumb: childrens-ya-books
 tag: dyslexia
 ---
