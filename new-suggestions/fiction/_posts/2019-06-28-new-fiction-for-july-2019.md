@@ -14,7 +14,7 @@ breadcrumb: fiction
 
 ## [<cite>Sweet Sorrow</cite>, by David Nicholls](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2581085)
 
-A new bestseller from the author of [<cite>One Day</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=395216), which is 10 years old this year.
+A new bestseller from the author of [<cite>One Day</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=319196), which is 10 years old this year.
 
 > "On one life-changing summer 16-year-old Charlie meets Fran. This is a hymn to the tragicomedy of ordinary lives, a celebration of the reviving power of friendship and that brief, blinding explosion of first love that perhaps can only be looked at directly once it has burned out."
 
