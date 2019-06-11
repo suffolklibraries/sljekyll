@@ -6,7 +6,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-06-16
 event-start-time: 1530
 event-end-time: 1645
-event-ticket-price: "6; day tickets £18; Saturday + Sunday tickets £36"
+event-ticket-price: 6
 event-category: slaughter-2019-sun
 event-image: featured/featured-felix-francis.jpg
 event-image-alt: Felix Francis

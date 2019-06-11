@@ -6,7 +6,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-06-15
 event-start-time: 1000
 event-end-time: 1115
-event-ticket-price: "6; day tickets £18; Saturday + Sunday tickets £36"
+event-ticket-price: 6
 event-category: slaughter-2019-sat
 event-image: featured/featured-kate-ellis-square.jpg
 event-image-alt: Kate Ellis

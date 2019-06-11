@@ -6,7 +6,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-06-16
 event-start-time: 1700
 event-end-time: 1815
-event-ticket-price: "6; day tickets £18; Saturday + Sunday tickets £36"
+event-ticket-price: 6
 event-category: slaughter-2019-sun
 event-image: featured/featured-elly-griffiths-square-2.jpg
 event-image-alt: Elly Griffiths

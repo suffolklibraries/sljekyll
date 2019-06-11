@@ -1,18 +1,20 @@
 ---
-name: "Slaughter in Southwold: Val McDermid"
+name: "Slaughter in Southwold: Val McDermid - SOLD OUT"
 location: southwold-library
 location-text: Southwold Library
 event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, Southwold, IP18 6JP"
 event-start-date: 2019-06-15
 event-start-time: 1530
 event-end-time: 1645
-event-ticket-price: "6; day tickets £18; Saturday + Sunday tickets £36"
+event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 event-category: slaughter-2019-sat
 event-image: featured/featured-val-mcdermid.jpg
 event-image-alt: Val McDermid
 event-ticket-url: https://www.ticketsource.co.uk/slaughterinsouthwold
 breadcrumb: y
 ---
+
+This event is now <strong>sold out</strong>.
 
 Queen of Crime Val McDermid will be talking about her latest Karen Pirie novel, <cite>Broken Ground</cite>, and her other bestselling series.
 
