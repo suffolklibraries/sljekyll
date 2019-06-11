@@ -26,7 +26,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
     </th>
   </thead>
   <tbody>
-      <tr>
+      <tr class="bg-light-gray">
         <td>
           Bungay - Beccles
         </td>
@@ -40,7 +40,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
           9am - 10:30am (1.5 hours)
         </td>
         <td>
-
+          Cooper BMW - BMW
         </td>
       </tr>
       <tr class="bg-light-gray">
@@ -60,7 +60,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
           Beccles Library - Triathlon
         </td>
       </tr>
-      <tr>
+      <tr class="bg-light-gray">
         <td>
           Oulton Broad - Lowestoft
         </td>
@@ -74,7 +74,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
           12pm - 1pm (1 hours)
         </td>
         <td>
-
+          Hughes Electrical - van
         </td>
       </tr>
       <tr>
@@ -230,7 +230,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
 
         </td>
       </tr>
-      <tr>
+      <tr class="bg-light-gray">
         <td>
           Woodbridge - Felixstowe
         </td>
@@ -244,7 +244,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
           3:30pm - 5:30pm (2 hours)
         </td>
         <td>
-
+          Hughes Electrical - Van
         </td>
       </tr>
       <tr class="bg-light-gray">
@@ -536,7 +536,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
 
         </td>
       </tr>
-      <tr>
+      <tr class="bg-light-gray">
         <td>
           Elmswell - Lavenham
         </td>
@@ -550,7 +550,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
           9am - 10am (1 hour)
         </td>
         <td>
-
+          Hughes Electrical - Van
         </td>
       </tr>
       <tr>
@@ -723,7 +723,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
 
         </td>
       </tr>
-      <tr>
+      <tr class="bg-light-gray">
         <td>
           Kedington - Clare
         </td>
@@ -737,10 +737,10 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
           12pm - 1pm (1 hour)
         </td>
         <td>
-
+          Hughes Electrical staff - Bike
         </td>
       </tr>
-      <tr>
+      <tr class="bg-light-gray">
         <td>
           Clare - Haverhill
         </td>
@@ -754,7 +754,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
           1pm - 2pm (1 hour)
         </td>
         <td>
-
+          Hughes Electical staff - Bike
         </td>
       </tr>
       <tr>

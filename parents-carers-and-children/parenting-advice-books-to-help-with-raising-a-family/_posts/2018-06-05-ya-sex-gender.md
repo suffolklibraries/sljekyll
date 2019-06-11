@@ -59,9 +59,23 @@ See also:
 
 > "Former PSHCE teacher and acclaimed YA author Juno Dawson, formerly known as James Dawson, gives an uncensored look at sexual orientation and gender identity. Including testimonials from people across the gender and sexual spectrums, this frank, funny, fully inclusive book explores everything anyone who ever dared to wonder wants to know - from sex to politics, how to pull, stereotypes, how to come out and more."
 
+## [<cite>Yay! You're Gay! Now What?</cite>, by Riyadh Khalaf](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2553548)
+
+> "In this personal, heartfelt go-to guide for young queer guys, YouTuber and presenter Riyadh Khalaf shares frank advice about everything from coming out to relationships, as well as interviews with inspirational queer role models, and encouragement for times when you're feeling low. There's a support section for family and friends written by Riyadh's parents and loads of hilarious, embarrassing, inspiring and moving stories from gay boys around the world."
+
+## [<cite>Can Everyone Please Calm Down? Mae Martin's guide to 21st century sexuality</cite>, by Mae Martin](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2392400)
+
+> "Mae Martin is a Canadian comedian with an encyclopedic knowledge of Harry Potter trivia. Aside from this, if there's one area that she's 100% anecdotally and personally qualified to tackle, it's sexuality: should there be any such thing as a 'sexuality spectrum', then Mae has probably existed at every point on it at some stage in her life.
+
+> "This book is Mae's attempt to demystify sexuality by narrating her own often humiliating adventures in sex, dating and gender identity."
+
 ## [<cite>Understanding Sexuality: what it means to be lesbian, gay or bisexual</cite>, by Honor Head](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2199657)
 
 > "This title looks at the issues around sexuality - what it means, being lesbian, gay or bisexual, coming out, homophobia and accepting yourself and being happy in your own skin."
+
+## [<cite>Trans Global: transgender then, now and around the world</cite>, by Honor Head](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2427532)
+
+> "The whole concept of gender identity is being increasingly challenged and words such as non-binary, pansexual, transgender, cisgender and gender dysphoria are becoming commonplace. This book explores the cultures and people of the past who have embraced, challenged or quietly subverted society's expectations about gender. It features the current stories of openly transgender people around the world in positions of power and authority, who are helping to increase recognition and acceptance of the trans community."
 
 ## [<cite>Beyond Magenta: transgender teens speak out</cite>, by Susan Kuklin](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2003875)
 
