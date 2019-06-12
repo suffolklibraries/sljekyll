@@ -117,6 +117,8 @@ Having developed great facilities for our younger customers, we are currently co
 
 ## Minutes
 
+* [Minutes - 16 April 2019](/assets/pdf/2019-04-16-fohcl-minutes.pdf) (PDF)
+* [Minutes - 5 March 2019](/assets/pdf/2019-03-05-fohcl-minutes.pdf) (PDF)
 * [Minutes - 22 January 2019](/assets/pdf/2019-01-22-fohcl-minutes.pdf) (PDF)
 * [Minutes - 11 December 2018](/assets/pdf/2018-12-11-fohcl-minutes.pdf) (PDF)
 * [Minutes - 30 October 2018](/assets/pdf/2018-10-30-fohcl-minutes.pdf) (PDF)
@@ -135,3 +137,8 @@ Having developed great facilities for our younger customers, we are currently co
 * [Minutes - 31 May 2017](/assets/pdf/2017-05-31-fohcl-minutes.pdf) (PDF)
 * [Minutes - 9 May 2017](/assets/pdf/2017-05-09-fohcl-minutes.pdf) (PDF)
 * [Minutes - 8 March 2017](/assets/pdf/2017-03-08-fohcl-minutes.pdf) (PDF)
+
+## Annual reports
+
+* [Annual report - 2018-19](/assets/pdf/fohcl-annual-report-2018-19.pdf) (PDF)
+* [Annual report - 2017-18](/assets/pdf/fohcl-annual-report-2017-18.pdf) (PDF)
