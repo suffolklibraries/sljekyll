@@ -7,6 +7,7 @@ event-start-time: 1030
 event-end-time: 1130
 event-ticket-price: free
 breadcrumb: y
+category: pride-2019
 ---
 
 Drop in and help us celebrate equality and diversity for Suffolk Pride 2019 by creating a giant rainbow collage! All materials provided.

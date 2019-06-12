@@ -5,6 +5,7 @@ location-text: Gainsborough Community Library
 event-start-date: 2019-06-22
 event-start-time: 1330
 breadcrumb: y
+category: pride-2019
 ---
 
 Join us for a screening of family film <cite>ParaNorman</cite>, which tackles bullying and intolerance as well as having one of the first openly gay characters in an animated film.

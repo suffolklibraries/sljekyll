@@ -7,6 +7,7 @@ event-start-time: 1900
 event-end-time: 2130
 event-ticket-price: "One raffle prize per person"
 breadcrumb: y
+category: pride-2019
 ---
 
 Teams of 6 are invited to join us for a fun quiz and raffle. Support Suffolk Pride and enjoy a performance from singer Gracie-Lou.

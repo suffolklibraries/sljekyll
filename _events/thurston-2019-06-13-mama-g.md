@@ -5,6 +5,7 @@ location-text: Thurston Library
 event-start-date: 2019-06-13
 event-start-time: 1630
 breadcrumb: y
+category: pride-2019
 ---
 
 <img src="/images/featured/featured-mama-g.jpg" alt="Mama G" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
