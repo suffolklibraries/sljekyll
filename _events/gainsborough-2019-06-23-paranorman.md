@@ -2,7 +2,7 @@
 name: "Family film screening: <cite>ParaNorman</cite> for Suffolk Pride"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
-event-start-date: 2019-06-22
+event-start-date: 2019-06-23
 event-start-time: 1330
 breadcrumb: y
 ---
