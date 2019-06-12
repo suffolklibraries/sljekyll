@@ -23,7 +23,7 @@ breadcrumb: events
 
     <div class="w-two-thirds-l relative">
 
-      <img class="db" alt="A drag queen standing in front of some books" src="/images/pride/mamag.jpg">
+      <img class="db" alt="Mama G in drag standing in front of some books" src="/images/pride/mamag.jpg">
 
       <p class="ma0 absolute w-third w-30-ns top-0 left-0 pa2 bg-gold black o-90 f6 f5-ns custom-lh-title">Mama G at Gainsborough Library</p>
 
@@ -35,23 +35,31 @@ breadcrumb: events
 
     <div class="custom-max-width">
 
-      <h2 class="f3 f2-ns custom-lh-title">Reading for Pride</h2>
+      <h2 class="f3 f2-ns custom-lh-title mb4-ns">Reading for Pride</h2>
 
-      <div class="flex-ns">
+      <div class="flex-ns justify-between-ns pt2">
 
-        <div class="w-50-ns pr3-ns mb4 mb3-ns">
-
-          <h3 class="f5 f4-ns custom-lh-title"><a class="dark-blue underline hover-hot-pink" href="/new-suggestions/articles/pride-2019/">Top LGBT biographies and autobiographies for Pride 2019</a></h3>
+        <div class="w-30-ns mb4 mb3-ns">
 
           <a class="db ba b--lightest-blue" href="/new-suggestions/articles/pride-2019/"><img class="db" alt="Covers of Natalie and Romaine, Fun Home, Trans: a memoir" src="/images/featured/featured-pride-2019.jpg/"></a>
 
+          <h3 class="f5 custom-lh-title ma0"><a class="dark-blue underline hover-hot-pink" href="/new-suggestions/articles/pride-2019/">Top LGBT biographies and autobiographies for Pride 2019</a></h3>
+
         </div>
 
-        <div class="w-50-ns pl3-ns mb4 mb3-ns">
-
-          <h3 class="f5 f4-ns custom-lh-title"><a class="dark-blue underline hover-hot-pink" href="/parents-carers-and-children/childrens-ya-books/childrens-pride-2019/">Top children's titles for Pride 2019</a></h3>
+        <div class="w-30-ns mb4 mb3-ns">
 
           <a class="db ba lightest-blue" href="/parents-carers-and-children/childrens-ya-books/childrens-pride-2019/"><img class="db" alt="The Great Big Book of Families, Red: a crayon's story, Pride: the story of Harvey Milk and the rainbow flag" src="/images/featured/featured-childrens-pride-2019.jpg"></a>
+
+          <h3 class="f5 custom-lh-title ma0"><a class="dark-blue underline hover-hot-pink" href="/parents-carers-and-children/childrens-ya-books/childrens-pride-2019/">Top children's titles for Pride 2019</a></h3>
+
+        </div>
+
+        <div class="w-30-ns mb4 mb3-ns">
+
+          <a class="db ba lightest-blue" href="/new-suggestions/articles/lgbtq-network-pride/"><img class="db" alt="Juliet Takes a Breath, Rubyfruit Jungle, The Sunlight Pilgrims" src="/images/featured/featured-lgbtq-network-2019.jpg"></a>
+
+          <h3 class="f5 custom-lh-title ma0"><a class="dark-blue underline hover-hot-pink" href="/new-suggestions/articles/lgbtq-network-pride/">Suffolk LGBTQ Network's favourite books</a></h3>
 
         </div>
 
