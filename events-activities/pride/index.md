@@ -1,17 +1,17 @@
 ---
 title: Pride 2019
 layout: blank
+featured: true
+featured-excerpt: "Celebrate Pride with special events across our libraries. We’re also offering the chance to publish your LQBTQA+ stories, and we have some great, original reading recommendations."
+featured-link-href-text: "Find out about Pride across our libraries &rarr;"
+featured-image: "/images/pride/mamag.jpg"
+featured-alt: "Mama G at Gainsborough Library"
+breadcrumb: events
 ---
 
 <article class="ph2 ph3-ns pv3 pv4-l bg-navy">
 
-  <div class="custom-max-width">
-
-    {% include breadcrumb.html %}
-
-  </div>
-
-  <header class="bb b--hot-pink bw3 white flex-l flex-row-reverse-l">
+  <header class="bb b--hot-pink bw3 bg-navy white flex-l flex-row-reverse-l">
 
     <div class="ph2 ph3-ns pv2 pv3-ns w-third-l">
 
