@@ -7,6 +7,7 @@ event-start-time: 1045
 event-end-time: 1200
 event-ticket-price: free but donations appreciated
 breadcrumb: y
+category: pride-2019
 ---
 
 <img src="/images/featured/featured-mama-g.jpg" alt="Mama G" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
