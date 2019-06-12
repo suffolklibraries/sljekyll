@@ -1,9 +1,9 @@
 ---
-name: "Friends of Lakenheath Library AGM"
-location: lakenheath-library
-location-text: Lakenheath Library
-event-start-date: 2019-05-21
-event-start-time: 1900
+name: "Friends of the Library in Kessingland (FOLK) AGM"
+location: kessingland-library
+location-text: Kessingland Library
+event-start-date: 2019-06-18
+event-start-time: 1700
 breadcrumb: y
 ---
 
