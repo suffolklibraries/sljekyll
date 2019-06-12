@@ -1,0 +1,15 @@
+---
+name: "Meditation and healing session"
+location: saxmundham-library
+location-text: Saxmundham Library
+event-start-date: 2019-06-24
+event-start-time: 1400
+event-end-time: 1530
+event-ticket-price: free but donations appreciated
+event-category: health
+breadcrumb: y
+---
+
+Boost your mood and wellbeing with our meditation and healing session.
+
+No need to book, bring your own refreshments.

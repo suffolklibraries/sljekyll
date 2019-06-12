@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Book group"
+recurrent-title: "Friday Readers book group"
 recurrent-description: "50p to include coffee and biscuits."
 recurrent-day: Friday once a month
 recurrent-times: 1330
