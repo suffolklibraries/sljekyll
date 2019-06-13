@@ -8,4 +8,6 @@ event-end-time: 1500
 breadcrumb: y
 ---
 
-We're celebrating Suffolk Day with the winners of our [short story competition](/events/leiston-2019-05-31-suffolk-day-competition/). Watch this space for more details!
+Get creative at Leiston Library to celebrate Suffolk Day, in association with Leiston Good Neighbour Scheme. Enjoy arts and crafts for all ages, help us put together a jigsaw and have some coffee and cake.
+
+We will also be reading out the winning entry from our [short story competition](/events/leiston-2019-05-31-suffolk-day-competition/)!
