@@ -62,3 +62,5 @@ Barrington Stoke, who specialise in books for children with dyslexia and visual 
 > "At an elite academy, attended by the wealthiest students in the galaxy, Hugo works as a watchmaker in a dusty attic room. But he is one of the lucky ones. Many androids like him are jobless and homeless.
 
 > "A privileged student like Dorian could never understand their struggle - or so Hugo thinks when the pompous duke comes knocking at his door with a broken time-travel watch."
+
+Looking for even more super-readable books from famous authors? Bloomsbury have recently published J. K. Rowling's [<cite>Fantastic Beasts and Where to Find Them</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2502306), [<cite>Quidditch Through the Ages</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2501684) and [<cite>The Tales of Beedle the Bard</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2502307) in dyslexic-friendly format.

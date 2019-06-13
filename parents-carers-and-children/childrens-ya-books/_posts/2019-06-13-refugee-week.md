@@ -1,16 +1,30 @@
 ---
 layout: sidebar-right
-title: "Mark Refugee Week 2018 with our top children's titles"
-date: 2018-06-18
+title: "Check out our top children's titles for Refugee Week"
+date: 2019-06-13
 author: sophie-green
 category: childrens-ya-books
-excerpt: "Refugee Week 2018 runs from 18 - 24 June. These books can help children understand and empathise with the plight of refugees."
-featured-image: /images/featured/featured-childrens-refugee-week-2018.jpg
-featured-alt: "Frog and the Stranger, My Name is Not Refugee, Oranges in No Man's Land"
+excerpt: "Refugee Week 2019 runs from 17 - 23 June. These books can help children understand and empathise with the plight of refugees."
+featured-image: /images/featured/featured-childrens-refugee-week-2019.jpg
+featured-alt: "The Suitcase, Inside Out & Back Again, Forced to Flee"
 breadcrumb: childrens-ya-books
 ---
 
-![Frog and the Stranger, My Name is Not Refugee, Oranges in No Man's Land](/images/featured/featured-childrens-refugee-week-2018.jpg)
+![The Suitcase, Inside Out & Back Again, Forced to Flee](/images/featured/featured-childrens-refugee-week-2019.jpg)
+
+*Created: 18 June 2018* | *Last updated: 13 June 2019*
+
+## [<cite>The Suitcase</cite>, by Chris Naylor-Ballesteros](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2551864)
+
+> "When a strange-looking animal arrives pulling a big suitcase, the other animals are curious. What on earth could be inside the suitcase? When the animals break into the suitcase and discover a very special photograph, they begin to understand what the strange creature has been through, and together they create a very special welcome present."
+
+## [<cite>Kind</cite>, by Alison Green & Axel Scheffler](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2534512)
+
+> "With gorgeous pictures by a host of top illustrators, <cite>Kind</cite> is a timely, inspiring picture book about the many ways children can be kind, from sharing their toys and games to making those from other countries feel welcome."
+
+## [<cite>There's Room for Everyone</cite>, by Anahita Taymourian](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2449103)
+
+> "A child grows and discovers the world. As he lies awake at night, he sees there's enough room in the sky for all the stars and the moon. When he visits the ocean, he sees there is enough room for all the fish, even for the whales. As he grows up, he doesn't understand why people fight for space. Surely, if we are kinder to one another, there will always be room for everyone?"
 
 ## [<cite>Elmer and the Hippos</cite>, by David McKee](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=660925)
 
@@ -70,6 +84,16 @@ breadcrumb: childrens-ya-books
 
 This is a super-readable Barrington Stoke title which can be enjoyed by children with dyslexia and visual stress.
 
+## [<cite>Me and My Fear</cite>, by Francesca Sanna](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2403417)
+
+> "When a young girl has to travel to a new country and start at a new school, her Fear tells her to be alone and afraid. How can she hope to make friends if she doesn't understand their language? A heart-warming and relevant new tale from the bestselling author and illustrator of The Journey, this book shows us the importance of sharing your Fear with others - after all, everyone carries a Fear with them, even if it's small enough to fit into their pocket!"
+
+## [<cite>The Day War Came</cite>, by Nicola Davies & Rebecca Cobb](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=23907850)
+
+> "Imagine if, on an ordinary day, war came. Imagine it turned your town to rubble. Imagine going on a long and difficult journey – all alone. Imagine finding no welcome at the end of it. Then imagine a child who gives you something small but very, very precious...
+
+> "When the government refused to allow 3000 child refugees to enter this country in 2016, Nicola Davies was so angry she wrote a poem. It started a campaign for which artists contributed drawings of chairs, symbolising a seat in a classroom, education, kindness, the hope of a future. The poem has become this book, movingly illustrated by Rebecca Cobb, which should prove a powerful aid for explaining the ongoing refugee crisis to younger readers."
+
 ## [<cite>The Arrival</cite>, by Shaun Tan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1680971)
 
 > "What drives so many to leave everything behind and journey alone to a mysterious country, a place without family or friends, where everything is nameless and the future is unknown?
@@ -117,6 +141,18 @@ This is a super-readable Barrington Stoke title which can be enjoyed by children
 > "Under the grey Glasgow skies, 12-year-old refugee Reema is struggling to find her place in a new country, with a new language and without her brother. But she isn't the only one feeling lost. Her Glaswegian neighbour Caylin is lonely and lashing out.
 
 > "When they discover an injured fox and her cubs hiding on their estate, the girls form a wary friendship. And they are more alike than they could have imagined: they both love to run. As Reema and Caylin learn to believe again, in themselves and in others, they find friendship, freedom and the discovery that home isn't a place, it's the people you love."
+
+## [<cite>The Boy at the Back of the Class</cite>, by Onjali Q. Rauf](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2394705)
+
+> "There used to be an empty chair at the back of my class, but now a new boy called Ahmet is sitting in it. He’s eight years old (just like me), but he’s very strange. He never talks and never smiles and doesn’t like sweets - not even lemon sherbets, which are my favourite!
+
+> "But the truth is, Ahmet really isn’t very strange at all. He’s a refugee who’s run away from a war. A real one. With bombs and fires and bullies that hurt people. And the more I find out about him, the more I want to be his friend. That’s where my best friends Josie, Michael and Tom come in. Because you see, together we’ve come up with a plan."
+
+## [<cite>Inside Out & Back Again</cite>, by Thanhha Lai](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2358267)
+
+> "Inspired by the author's childhood experience as a refugee - fleeing Vietnam after the Fall of Saigon and immigrating to Alabama - this coming-of-age debut novel told in verse has been celebrated for its touching child's-eye view of family and immigration.
+
+> "Hà has only ever known Saigon: the thrills of its markets, the joy of its traditions, and the warmth of her friends close by. But now the Vietnam War has reached her home. Hà and her family are forced to flee as Saigon falls, and they board a ship headed toward hope - toward America."
 
 ## [<cite>A Story like the Wind</cite>, by Gill Lewis & Jo Weaver](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2145686)
 
@@ -170,6 +206,12 @@ This is a super-readable Barrington Stoke title which can be enjoyed by children
 
 > "When Shadow, a bomb-sniffing spaniel, goes missing in the middle of wartorn Afghanistan, his soldier-owner is devastated. Meanwhile, Shadow makes friends with a local Afghan boy, and sees a whole other side of the war. As Christmas draws ever closer, will Shadow and his trainer ever be reunited?"
 
+## [<cite>Don't Stop Thinking About Tomorrow</cite>, by Siobhan Curham](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2415941)
+
+> "Fourteen-year-old Stevie lives in Lewes with her beloved vinyl collection, her mum, and her mum's depression. When Stevie's mum's disability benefits are cut, Stevie and her mother are plunged into a life of poverty. But irrepressible Stevie is determined not to be beaten and she takes inspiration from the lyrics of her father's 1980s record collection and dreams of a life as a musician.
+
+> "Then she meets Hafiz, a talented footballer and a Syrian refugee. Hafiz's parents gave their life savings to buy Hafiz a safe passage to Europe; his journey has been anything but easy."
+
 ## [<cite>Red Leaves</cite>, by Sita Brahmachari](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1685501)
 
 > "Aisha is a thirteen-year-old refugee living in London. Happy for the first time since leaving her war-torn home, she is devastated when her foster mother announces that a new family has been found for her and she will be moving on. Feeling rejected and abandoned, Aisha packs her bags and runs away, seeking shelter in the nearby woods.
@@ -183,6 +225,14 @@ This is a super-readable Barrington Stoke title which can be enjoyed by children
 ## [<cite>Uprooted</cite>, by Lynne Reid Banks](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1646706)
 
 > "In 1940 as war rages across Europe, ten-year-old Lindy waves goodbye to England and makes the long journey to Saskatoon, Canada, along with her mother and her cousin Cameron. They may be far from the war but they are also far from home and everyone they know and love. Life in Canada is very different but it is also full of exciting new adventures."
+
+## [<cite>Rachel's Story</cite>, by Andy Glynne & Salvador Maldonado](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1852592)
+
+> "This picture book tells the story of 13-year-old refugee Rachel who, along with her family, flees her home country to escape the persecution they suffer as Christians living in a predominantly Muslim country. Told in Rachel's own words, it documents the hostility and rejection that the family suffer at the hands of their community, as well as the courage and resilience they show in the face of immigration authorities, detention centres, deportation and, finally, in overcoming their problems and settling in their new country."
+
+## [<cite>Forced to Flee: refugee children drawing on their experiences</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2563183)
+
+> "Refugee children explain in their own words and pictures their thoughts, feelings and experiences about having to flee from their home countries. Produced in association with UNHCR (United Nations High Commissioner for Refugees), this highly emotive title focuses on three current refugee crises in Syria, South Sudan and Central America."
 
 ## [<cite>Who are Refugees and Migrants? What Makes People Leave their Homes? And other big questions</cite>, by Michael Rosen & Annemarie Young](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2019240)
 
