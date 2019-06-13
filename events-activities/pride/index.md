@@ -2,7 +2,7 @@
 title: Pride 2019
 layout: blank
 featured: true
-featured-excerpt: "Celebrate Pride with special events across our libraries. We’re also offering the chance to publish your LQBTQA+ stories, and we have some great, original reading recommendations."
+featured-excerpt: "Celebrate Pride with special events across our libraries. We’re also offering the chance to publish your LGBTQA+ stories, and we have some great, original reading recommendations."
 featured-link-href-text: "Find out about Pride across our libraries &rarr;"
 featured-image: "/images/pride/mamag.jpg"
 featured-alt: "Mama G in drag at Gainsborough Library"
@@ -17,7 +17,7 @@ breadcrumb: events
 
       <h1 class="gold f2 f1-ns custom-lh-title mt0">Pride 2019</h1>
 
-      <p class="f4 f3-ns ma0">Celebrate Pride 2019 with Suffolk Libraries. We have reading suggestions, events and a writing competition to share your experiences.</p>
+      <p class="f4 f3-ns ma0">Celebrate Pride 2019 with Suffolk Libraries. We have reading suggestions, events and a chance to share your written stories on our eBook platform.</p>
 
     </div>
 
@@ -75,7 +75,7 @@ breadcrumb: events
 
       <h2 class="f3 f2-ns custom-lh-title mt0 gold">Proud Suffolk writing project</h2>
 
-      <p class="f4 f3-ns">A creative writing project publishing the stories and experiences of the LQBTQA+ community on our eBook platform, promoting acceptance across the county.</p>
+      <p class="f4 f3-ns">A creative writing project publishing the stories and experiences of the LGBTQA+ community on our eBook platform, promoting acceptance across the county.</p>
 
       <p class="b f4 f3-ns"><a href="/bloc/proud-suffolk/" class="gold underline hover-yellow">Share your story &rarr;</a></p>
 
