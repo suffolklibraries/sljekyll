@@ -8,6 +8,8 @@ breadcrumb: y
 category: pride-2019
 ---
 
+![Suffolk Pride 2019 logo](/images/featured/featured-suffolk-pride-2019.jpg)
+
 Join us for a screening of family film <cite>ParaNorman</cite>, which tackles bullying and intolerance as well as having one of the first openly gay characters in an animated film.
 
 > "Norman is ostracised by his family and bullied at school because of his odd behaviour. What none of them know is that he is in continual dialogue with the ghosts, ghouls, vampires and zombies that prowl his neighbourhood unseen. However, when the town comes under threat from a centuries-old curse, it is up to Norman to save the day."

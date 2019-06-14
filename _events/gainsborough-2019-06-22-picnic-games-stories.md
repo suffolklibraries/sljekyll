@@ -10,4 +10,6 @@ breadcrumb: y
 category: pride-2019
 ---
 
+![Suffolk Pride 2019 logo](/images/featured/featured-suffolk-pride-2019.jpg)
+
 Bring a picnic to Landseer Park and listen to some incredible stories about acceptance from 12pm. We'll also have cricket, rounders, giant parachute games, chess, draughts and crafts to get you chatting and making new friends.

@@ -6,7 +6,10 @@ event-start-date: 2019-06-22
 event-start-time: 1100
 event-end-time: 1200
 event-ticket-price: free
+category: pride-2019
 breadcrumb: y
 ---
+
+![Suffolk Pride 2019 logo](/images/featured/featured-suffolk-pride-2019.jpg)
 
 Drop in and help us celebrate equality and diversity for Suffolk Pride 2019 by decorating the library in rainbows! All materials provided.

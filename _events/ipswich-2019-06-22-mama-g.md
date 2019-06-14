@@ -9,4 +9,6 @@ breadcrumb: y
 category: pride-2019
 ---
 
+![Suffolk Pride 2019 logo](/images/featured/featured-suffolk-pride-2019.jpg)
+
 Children aged 3+ and their families are invited for a super special storytime with the fabulous Mama G ahead of the Suffolk Pride Parade (starts 12pm at DanceEast). Enjoy uplifting stories about being who you are and loving who you choose with the magic of panto.

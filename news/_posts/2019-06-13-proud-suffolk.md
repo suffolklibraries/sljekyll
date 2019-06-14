@@ -5,8 +5,12 @@ date: 2019-06-13
 author: hannah-foulstone
 category: news
 excerpt: "This Pride Month, we're inviting people from the LGBTQA+ community to publish their stories and experiences with our Proud Suffolk writing project. The project aims to celebrate the community, get their voices heard and promote understanding and acceptance across the county."
+featured-image: /images/featured/featured-suffolk-pride-2019.jpg
+featured-alt: "Suffolk Pride 2019 logo"
 breadcrumb: news
 ---
+
+![Suffolk Pride 2019 logo](/images/featured/featured-suffolk-pride-2019.jpg)
 
 This Pride Month, we're inviting people from the LGBTQA+ community to publish their stories and experiences with our [Proud Suffolk writing project](/bloc/proud-suffolk/). The project aims to celebrate the community, get their voices heard and promote understanding and acceptance across the county.
 

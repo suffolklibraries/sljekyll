@@ -10,4 +10,6 @@ breadcrumb: y
 category: pride-2019
 ---
 
+![Suffolk Pride 2019 logo](/images/featured/featured-suffolk-pride-2019.jpg)
+
 Drop in and help us celebrate equality and diversity for Suffolk Pride 2019 by creating a giant rainbow collage! All materials provided.
