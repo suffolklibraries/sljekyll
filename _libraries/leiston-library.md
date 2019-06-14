@@ -34,4 +34,5 @@ breadcrumb: y
 branch-for-sale: books of stamps
 branch-other-facilities: "Art in the Library - exhibitions of local artists' work"
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, Lego Club, art exhibitions"
+branch-news: "Leiston Library is closed today (Friday 14 June) due to staff sickness."
 ---
