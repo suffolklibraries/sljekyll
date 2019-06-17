@@ -6,8 +6,6 @@ author: alice-violett
 category: news
 excerpt: "Are you looking for something to do during half-term? We've got children's events happening across our libraries."
 breadcrumb: news
-featured-image: "/images/featured/featured-childrens-crafts.jpg"
-featured-alt: "Children and babies making crafts in a library with parents and carers."
 jquery: true
 dynatable: true
 event-filter: half-term
