@@ -11,6 +11,6 @@ breadcrumb: y
 
 Turn an unwanted book into a work of art with Book Surgeon Michael Holton.
 
-Books and materials provided.
+Books and tools provided.
 
 Contact the library or email **bookings@waveneyandblytharts.com** to book.
