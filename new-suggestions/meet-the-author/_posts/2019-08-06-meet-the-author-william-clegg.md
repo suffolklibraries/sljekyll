@@ -14,7 +14,7 @@ breadcrumb: meet-the-author
 
 William Clegg QC is a lawyer specialising in serious crime. He has fought more than 100 murder cases, more than any English barrister currently practising the law. His first book, [<cite>Under the Wig: a lawyer's stories of murder, guilt and innocence</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2455091) details some of his most famous cases.
 
-You can see William in person at [Lavenham Literary Festival](https://www.lavenhamliteraryfestival.co.uk/) in November; tickets go on sale in early September.
+You can see William in person at [Lavenham Literary Festival](https://www.lavenhamliteraryfestival.co.uk/) in November; tickets go on sale in early September. The Festival is sponsored by [Mattioli Woods Wealth Management](https://www.mattioliwoods.com/).
 
 ## 1. When did you develop your interest in the law?
 

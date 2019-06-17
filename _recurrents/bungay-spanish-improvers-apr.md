@@ -4,8 +4,8 @@ recurrent-description: '£80 for a 10 week course starting 23 April 2019. For mo
 recurrent-expiry: 2019-07-02
 recurrent-day: Tuesday
 recurrent-times: 2000-2115
-recurrent-location: bungay-library
-recurrent-location-display-name: Bungay Library
+recurrent-location: bungay-community-library
+recurrent-location-display-name: Bungay Community Library
 recurrent-location-display-url: /branches/bungay-library/
 recurrent-category: language-courses
 ---

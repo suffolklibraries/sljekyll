@@ -1,7 +1,7 @@
 ---
-branch-unique-id: bungay-library
-branch-name: Bungay Library
-branch-image: /images/branches/bungay-library.jpg
+branch-unique-id: bungay-community-library
+branch-name: Bungay Community Library
+branch-image: /images/branches/bungay-community-library.jpg
 branch-monday-hours: 0900 – 1430
 branch-tuesday-hours:	0900 – 1700
 branch-wednesday-hours: 0900 – 1700
@@ -25,7 +25,7 @@ branch-wifi: y
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-usb: y
-branch-room-hire: /libraries/room-hire/bungay-library
+branch-room-hire: /libraries/room-hire/bungay-community-library
 branch-which: y
 breadcrumb: y
 branch-other-facilities: Foodbank collection point throughout the year

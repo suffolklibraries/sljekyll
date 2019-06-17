@@ -1,5 +1,5 @@
 ---
-recurrent-title: 'Knit and Natter'
+recurrent-title: 'Knit and Natter: all knitters welcome'
 recurrent-day: every other Thursday
 recurrent-times: 1400-1600
 recurrent-location: bury-st-edmunds-library

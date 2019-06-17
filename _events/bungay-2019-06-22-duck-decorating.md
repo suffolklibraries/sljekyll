@@ -1,7 +1,7 @@
 ---
 name: "Duck decorating for the Great Bungay Duck Race with Falcon Meadow Community Trust"
-location: bungay-library
-location-text: Bungay Library
+location: bungay-community-library
+location-text: Bungay Community Library
 event-start-date: 2019-06-22
 event-start-time: 1000
 event-end-time: 1200

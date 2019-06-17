@@ -13,7 +13,7 @@ We hold Bookstart story and singing sessions and lend out storysacks and BIG Boo
 
 All of our libraries hold [regular Bookstart Baby Bounce and Tot Rock sessions](/events-activities/children/) for babies and young children and their parents/carers. You can hear stories, sing, move and play with toys and instruments together. The sessions are free, informal and welcoming, with no need to book in advance.
 
-- [FInd your regular Bookstart Baby Bounce and Tot Rock sessions](/events-activities/children/)
+- [Find your regular Bookstart Baby Bounce and Tot Rock sessions](/events-activities/children/)
 - [More information about Bookstart sessions &rarr;](https://www.booktrust.org.uk/supporting-you/families/our-programmes/bookstart/what-bookstart-can-offer-you/rhymetimes/)
 
 ## Storysacks

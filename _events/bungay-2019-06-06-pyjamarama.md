@@ -1,7 +1,7 @@
 ---
 name: "Pyjamarama: stories for pre-school children"
-location: bungay-library
-location-text: Bungay Library
+location: bungay-community-library
+location-text: Bungay Community Library
 event-start-date: 2019-06-06
 event-start-time: 1030
 event-end-time: 1100

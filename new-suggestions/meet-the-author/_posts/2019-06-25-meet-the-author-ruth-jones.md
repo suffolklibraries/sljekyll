@@ -14,7 +14,7 @@ breadcrumb: meet-the-author
 
 Ruth Jones MBE is a Welsh television actress, novelist and screenwriter. She co-starred in and co-wrote the award-winning British comedy <cite>Gavin and Stacey</cite> and has appeared in many other television comedies and dramas. Ruth’s first novel, [<cite>Never Greener</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2549726), was a bestseller and she is currently working on her second.
 
-Ruth is the guest speaker at the [Lavenham Literary Festival](https://www.lavenhamliteraryfestival.co.uk/) dinner on Friday 15 November at the Swan Hotel, Lavenham. Tickets will be available from early September.
+Ruth is the guest speaker at the [Lavenham Literary Festival](https://www.lavenhamliteraryfestival.co.uk/) dinner on Friday 15 November at the Swan Hotel, Lavenham. Tickets will be available from early September. The Festival is sponsored by [Mattioli Woods Wealth Management](https://www.mattioliwoods.com/).
 
 ## 1. Who were your literary influences as you were growing up?
 

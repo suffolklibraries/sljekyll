@@ -129,5 +129,8 @@
 https://www.suffolklibraries.co.uk/new-suggestions/reviews/staff-picks/my-name-is-lucy-barton-by-elizabeth-strou https://www.suffolklibraries.co.uk/new-suggestions/reviews/staff-picks/my-name-is-lucy-barton-by-elizabeth-strout
 /blog/* /news/:splat
 /information-resources/ /research-and-reference/
+/libraries/bungay-library/ /libraries/bungay-community-library/
+/branches/bungay-library/ /libraries/bungay-community-library/
+/libraries/room-hire/bungay-library /libraries/room-hire/bungay-community-library
 
 /*   /404/index.html   404

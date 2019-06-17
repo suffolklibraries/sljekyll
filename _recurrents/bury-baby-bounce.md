@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Baby Bounce"
-recurrent-description: Soothing songs and gentle nursery rhymes for babies.
+recurrent-description: Soothing songs and gentle nursery rhymes for babies (0-18 months).
 recurrent-day: Wednesday
 recurrent-times: 1015-1045
 recurrent-location: bury-st-edmunds-library

@@ -12,7 +12,7 @@ category: pride-2019
 
 ![Suffolk Pride 2019 logo](/images/featured/featured-suffolk-pride-2019.jpg)
 
-Teams of 6 are invited to join us for a fun quiz and raffle. Support Suffolk Pride and enjoy a performance from singer Gracie-Lou.
+Teams of 6 are invited to join us for a fun quiz and raffle to support Suffolk Pride.
 
 If you don't have a team, come along anyway and we'll match you up on the night. Bring your own food and drink.
 

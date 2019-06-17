@@ -213,7 +213,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
 
         </td>
       </tr>
-      <tr>
+      <tr class="bg-light-gray">
         <td>
           Wickham Market - Woodbridge
         </td>
@@ -227,7 +227,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
           2:30pm - 3:30pm (1 hour)
         </td>
         <td>
-
+          Imagine That - the Flying Elephants runners
         </td>
       </tr>
       <tr class="bg-light-gray">
@@ -451,7 +451,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
           EO - Electric car
         </td>
       </tr>
-        <tr>
+        <tr class="bg-light-gray">
         <td>
           Debenham - Stradbroke
         </td>
@@ -465,7 +465,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
           10am - 11am (1 hour)
         </td>
         <td>
-
+          Sue and Tony Hutt - Tandem
         </td>
       </tr>
       <tr class="bg-light-gray">
@@ -485,7 +485,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
           Skinner's Pet Foods - Van
         </td>
       </tr>
-        <tr>
+        <tr class="bg-light-gray">
         <td>
           Eye - Ixworth
         </td>
@@ -499,7 +499,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
           12pm - 2pm (2 hours)
         </td>
         <td>
-
+          Hughes Electrical staff - running
         </td>
       </tr>
       <tr>

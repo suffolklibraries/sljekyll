@@ -5,7 +5,7 @@ location-text: Haverhill Library
 event-start-date: 2019-07-23
 event-start-time: 1030
 event-category: summer-holidays
-event-ticket-pricr: free
+event-ticket-price: free
 breadcrumb: y
 ---
 

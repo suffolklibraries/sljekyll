@@ -1,7 +1,7 @@
 ---
 name: "Meet the Author: James Mayhew"
-location: bungay-library
-location-text: Bungay Library
+location: bungay-community-library
+location-text: Bungay Community Library
 event-start-date: 2019-07-08
 event-start-time: 1930
 event-ticket-price: 5
