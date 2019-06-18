@@ -35,5 +35,4 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/kesgrave-library
 breadcrumb: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, Lego Club, older people's activities."
-branch-news: Kesgrave Library will be closed for refurbishment on Monday 17 June.
 ---

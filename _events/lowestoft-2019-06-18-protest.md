@@ -1,5 +1,5 @@
 ---
-name: "Screening: <cite>Britain on Film: Protest!</cite> from the BFI"
+name: "Screening: <cite>Britain on Film: Protest!</cite> from the BFI - POSTPONED"
 location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2019-06-18
@@ -7,6 +7,8 @@ event-start-time: 1400
 event-ticket-price: free but donations appreciated
 breadcrumb: y
 ---
+
+**This event has been POSTPONED. We'll let you know as soon as we have a new date.**
 
 Everyone is invited to join us in our regular Time Out slot for a screening of the BFI film <cite>Britain on Film: Protest!</cite>.
 
