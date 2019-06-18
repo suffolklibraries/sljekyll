@@ -17,6 +17,8 @@ See also: [recommended new physical audiobooks](/new-suggestions/audiobooks/new-
 
 ## BorrowBox
 
+[Set up BorrowBox &rarr;](/elibrary/borrowbox/)
+
 ### [<cite>The Beekeeper of Aleppo</cite>, by Christy Lefteri, read by Art Malik](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BON_611654&fromPage=1&b2bSite=4172)
 
 > "Nuri is a beekeeper; his wife, Afra, an artist. They live a simple life, rich in family and friends, in the beautiful Syrian city of Aleppo - until the unthinkable happens. When all they care for is destroyed by war, they are forced to escape.
