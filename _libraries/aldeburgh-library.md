@@ -37,6 +37,6 @@ branch-display-space: "Two cork boards in the foyer."
 branch-which: y
 breadcrumb: y
 branch-for-sale: Greetings cards for various occasions
-branch-news: '<a href="http://aldeburghlibraryfoundation.weebly.com/uploads/1/4/3/1/14312796/2019_brochure_jan-may.pdf">Aldeburgh Library Foundation&apos;s spring course brochure is now available.</a>'
+branch-news: '<a href="/news/aldeburgh-refurbishment/">Aldeburgh Library will be closed for refurbishment from 24 - 30 June, reopening on Monday 1 July.</a>'
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, reminiscence items for dementia."
 ---
