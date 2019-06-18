@@ -2,7 +2,7 @@
 name: "Top Time Open House: talk from Steve Wilkes on wills, inheritance tax and estate planning"
 location: beccles-library
 location-text: Beccles Library
-event-start-date: 2019-06-18
+event-start-date: 2019-07-18
 event-start-time: 1400
 event-end-time: 1500
 event-ticket-price: free
