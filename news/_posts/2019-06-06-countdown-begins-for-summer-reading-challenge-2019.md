@@ -4,7 +4,7 @@ title: "Countdown begins for Summer Reading Challenge"
 date: 2019-06-06
 author: hannah-foulstone
 category: news
-excerpt: "From Saturday 13 July, the annual Summer Reading Challenge will be back in full swing across all 44 of Suffolk's libraries as well as the weekly Suffolk Libraries Local sessions in Shotley and Rushmere."
+excerpt: "From Saturday 20 July, the annual Summer Reading Challenge will be back in full swing across all 44 of Suffolk's libraries as well as the weekly Suffolk Libraries Local sessions in Shotley and Rushmere."
 featured-image: /images/featured/featured-rocket-family.jpg
 featured-alt: "Cartoon of The Rocket Family dressed in bright space suits"
 breadcrumb: news
@@ -18,7 +18,7 @@ breadcrumb: news
 
 ![Cartoon of The Rocket Family dressed in bright space suits](/images/featured/featured-rocket-family.jpg)
 
-From Saturday 13 July, the annual Summer Reading Challenge will be back in full swing across all 44 of Suffolk's libraries as well as the weekly Suffolk Libraries Local sessions in Shotley and Rushmere.
+From Saturday 20 July, the annual Summer Reading Challenge will be back in full swing across all 44 of Suffolk's libraries as well as the weekly Suffolk Libraries Local sessions in Shotley and Rushmere.
 
 Children aged 4-11 are invited to sign up at [their local library](/libraries/) to read six library books of their choice. These can include non-fiction, eBooks, comics and audiobooks. Those who complete the challenge will receive a certificate at a special presentation in the autumn.
 
