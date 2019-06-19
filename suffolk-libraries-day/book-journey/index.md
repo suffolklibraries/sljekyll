@@ -502,7 +502,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
           Hughes Electrical staff - running
         </td>
       </tr>
-      <tr>
+      <tr class="bg-light-gray">
         <td>
           Ixworth - Thurston
         </td>
@@ -516,7 +516,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
           2pm - 3pm (1 hour)
         </td>
         <td>
-
+          Hughes Electrical staff - cycling
         </td>
       </tr>
       <tr>
