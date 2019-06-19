@@ -295,7 +295,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
           11:30am - 12pm (0.5 hours)
         </td>
         <td>
-          Voices 4 Gainsborough Community Library - Rickshaw or bath on wheels
+          The Suffolk Rickshaw Company - rickshaw
         </td>
       </tr>
       <tr class="bg-light-gray">
