@@ -77,7 +77,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
           Hughes Electrical - van
         </td>
       </tr>
-      <tr>
+      <tr class="bg-light-gray">
         <td>
           Lowestoft - Kessingland
         </td>
@@ -91,7 +91,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
           1pm - 2pm (1 hours)
         </td>
         <td>
-
+          Care UK, Britten Court - Minibus
         </td>
       </tr>
       <tr>
