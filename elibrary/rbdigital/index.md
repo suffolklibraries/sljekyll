@@ -4,6 +4,12 @@ layout: sidebar-left
 breadcrumb: elibrary
 ---
 
+<div class="{% include /c/generic-panel.html %}">
+
+    <p><a href="/news/magazine-changes/">Our RBdigital service will be discontinued on Wednesday 31 July 2019.</a> After this date, you can continue to access a huge range of magazines and newspapers for free with our <a href="/elibrary/pressreader/">PressReader</a> service.</p>
+
+</div>
+
 RBdigital allows you to download PDF files of magazines for an unlimited time. This service is available through a web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer. An app called RBdigital is available for Android, iOS and newer Amazon Kindle Fires.
 
 ## Setting up your device to download digital magazines with RBdigital
