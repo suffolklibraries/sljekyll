@@ -1,10 +1,10 @@
 ---
 name: "Two Rivers Book Festival: Book folding workshop"
-location: stradbroke-library
-location-text: Stradbroke Library
-event-start-date: 2019-06-20
-event-doors-open: 1300
-event-start-time: 1600
+location: beccles-library
+location-text: Beccles Library
+event-start-date: 2019-06-29
+event-doors-open: 1330
+event-start-time: 1630
 event-ticket-price: "12 (£10 for Waveney & Blyth Arts members)"
 breadcrumb: y
 ---
