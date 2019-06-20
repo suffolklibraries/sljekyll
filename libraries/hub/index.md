@@ -13,7 +13,7 @@ layout: blank
 
       <p>Ipswich County Library, Northgate Street, Ipswich IP1 3DE</p>
 
-      <p class="f2-ns measure">A spacious, modern meeting space in the heart of Ipswich. 3 large meeting rooms, projectors and an 84 inch wall mounted screen.</p>
+      <p class="f2-ns measure">A spacious, modern meeting space in the heart of Ipswich. 3 large meeting rooms, presentation equipment, internet access and refreshments.</p>
 
       <p><span class="mid-gray">Contact:</span> <strong>hub@suffolklibraries.co.uk</strong> / 01473 351249</p>
 

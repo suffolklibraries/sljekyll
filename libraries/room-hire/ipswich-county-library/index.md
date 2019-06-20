@@ -3,9 +3,9 @@ layout: full-width-narrow
 title: 'Ipswich County Library room hire'
 breadcrumb: branch-room-hire
 ---
-# [Enterprise + Innovation Hub](http://suffolklibraries.co.uk/branches/hub)
+# [The hub](/libraries/hub)
 
-Hire the whole hub, a large meeting space, meeting pods, a presentation suite, a desk or our lab in the second floor of Ipswich County Library.
+Modern, spacious meeting and presentation spaces in the heart of Ipswich.
 
 # [Ceremonies in the Northgate Room](http://suffolklibraries.co.uk/ceremonies)
 

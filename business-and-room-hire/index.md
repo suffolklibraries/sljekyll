@@ -18,11 +18,11 @@ breadcrumb: home
 
         <section class="{% include /c/block.html %}">
 
-            <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/libraries/hub/">Ipswich Enterprise &amp; Innovation Hub</a></h1>
+            <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/libraries/hub/">The hub</a></h1>
 
             <a class="white custom-no-underline" href="/libraries/hub/"><img src="/images/featured/featured-hub-lounge-collage.jpg" class="custom-constrain-img" alt="Collage of presentation suite and facilities in the hub"></a>
 
-            <p class="{% include /c/block-graf.html %}">Business meeting spaces, free business advice, presentation suite, MakerSpace and lounge.</p>
+            <p class="{% include /c/block-graf.html %}">Business meeting and presentation spaces in Ipswich County Library.</p>
 
         </section>
 
