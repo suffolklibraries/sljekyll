@@ -1,5 +1,5 @@
 ---
-name: "Top Time Open House: talk from scientist Ella Howes from CEFAS"
+name: "Top Time Open House: talk from scientist Ella Howes from CEFAS - CANCELLED"
 location: beccles-library
 location-text: Beccles Library
 event-start-date: 2019-06-20
@@ -9,6 +9,8 @@ event-ticket-price: free
 event-category: older
 breadcrumb: y
 ---
+
+**We're sorry that this event has been cancelled**
 
 CEFAS (The Centre for Environment, Fisheries and Aquaculture Science) is a world leader in marine science and technology. Ella will talk about her work as a scientist, and the projects that CEFAS are involved in to protect our environment.
 
