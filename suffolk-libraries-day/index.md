@@ -53,7 +53,7 @@ layout: blank
 
         <p>We’d also love it if your company would consider match-funding any sponsorship your staff raise for the challenge.</p>
 
-        <p><a href="/suffolk-libraries-day/book-journey/">Take a look at the Book Journey timetable and availability &rarr;</a></p>
+        <p><a class="dark-blue" href="/suffolk-libraries-day/book-journey/">Take a look at the Book Journey timetable and availability &rarr;</a></p>
 
       </div>
 
@@ -66,6 +66,68 @@ layout: blank
     <div class="custom-max-width">
 
       <p class="tc f3-ns">For more information and to get involved, contact <strong>nikki.hulse@suffolklibraries.co.uk</strong></p>
+
+    </div>
+
+  </section>
+
+  <section class="ph2 ph3-ns pv3 bg-white">
+
+    <div class="custom-max-width">
+
+      <h2 class="tc f4 f3-ns custom-lh-title">Our sponsors</h2>
+
+      <div class="flex-ns flex-wrap-ns justify-between-ns">
+
+        <div class="w-40-ns w-20-l pv3">
+
+            <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.careuk.com/"><img class="db" src="/images/featured/featured-care-uk.jpg" alt="Care UK"></a>
+
+        </div>
+
+        <div class="w-40-ns w-20-l pv3">
+
+            <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.eocharging.com/"><img class="db" src="/images/featured/featured-eo.png" alt="EO"></a>
+
+        </div>
+
+        <div class="w-40-ns w-20-l pv3">
+
+            <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.exterionmedia.com/uk"><img class="db" src="/images/featured/featured-exterion-media.jpg" alt="Exterion Media"></a>
+
+        </div>
+
+        <div class="w-40-ns w-20-l pv3">
+
+            <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.hughes.co.uk/"><img class="db" src="/images/featured/featured-hughes-electrical.jpg" alt="Hughes Electrical"></a>
+
+        </div>
+
+        <div class="w-40-ns w-20-l pv3">
+
+            <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.ipswichbuses.co.uk/"><img class="db" src="/images/featured/featured-ipswich-buses.png" alt="Ipswich Buses"></a>
+
+        </div>
+
+        <div class="w-40-ns w-20-l pv3">
+
+            <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.realisefutures.org/"><img class="db" src="/images/featured/featured-realise-futures.jpg" alt="Realise Futures"></a>
+
+        </div>
+
+        <div class="w-40-ns w-20-l pv3">
+
+            <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.ryans.co.uk/"><img class="db" src="/images/featured/featured-ryans.jpg" alt="Ryan's"></a>
+
+        </div>
+
+        <div class="w-40-ns w-20-l pv3">
+
+            <a class="db ba bw3 b--white pa2 pa3-ns" href="https://scarlettandmustard.co.uk/"><img class="db" src="/images/featured/featured-scarlett-and-mustard.jpg" alt="Scarlett & Mustard"></a>
+
+        </div>
+
+      </div>
 
     </div>
 
