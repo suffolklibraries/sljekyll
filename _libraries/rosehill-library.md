@@ -30,4 +30,5 @@ breadcrumb: y
 branch-payments: cash, cheques and cards accepted
 branch-pride-and-periods: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, older people's activities, free sanitary products."
+branch-news: Rosehill Library is closing at 5pm today (Friday 21 June).
 ---
