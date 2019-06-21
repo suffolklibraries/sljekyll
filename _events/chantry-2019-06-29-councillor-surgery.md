@@ -1,5 +1,5 @@
 ---
-name: "COuncillor surgery"
+name: "Councillor surgery"
 location: chantry-library
 location-text: Chantry Library
 event-start-date: 2019-06-29
