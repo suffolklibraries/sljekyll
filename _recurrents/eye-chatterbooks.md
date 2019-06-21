@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Chatterbooks reading group for 4-7 year olds"
-recurrent-description: "Next session 26 May, topic 'Robots'."
+recurrent-description: "Next session 23 June, topic 'Ancient Greeks'."
 recurrent-day: Sunday once a month
 recurrent-times: 1400-1500
 recurrent-location: eye-library
