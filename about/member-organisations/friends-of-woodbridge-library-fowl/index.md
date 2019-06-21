@@ -51,15 +51,14 @@ We have a Committee of Trustees elected from the membership at FOWL’s annual g
 
 ### FOWL Committee members
 
-* Doreen Bartlett
-* Richard Bull
+* Sally Bull
 * Tim Cornford
 * Anne Gartley (treasurer)
-* Yvonne Holdcroft
 * Jane Lynam
 * Tracy Rogers (secretary)
 * Helen Scrivener
 * Henning Sieverts (vice-chair)
+* Christine Webber
 * Kay Yule (chair)
 
 ## The back story
