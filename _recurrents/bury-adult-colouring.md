@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Adult colouring: all materials provided"
-recurrent-day: every other Tuesday
+recurrent-day: every other Thursday
 recurrent-times: 1030-1200
 recurrent-location: bury-st-edmunds-library
 recurrent-location-display-name: Bury St Edmunds Library
