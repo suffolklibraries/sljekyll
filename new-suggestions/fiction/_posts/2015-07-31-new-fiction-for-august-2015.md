@@ -63,9 +63,7 @@ Senior investigator Cassie Dewell inquires into local drug trafficking in this t
 
 Business meets pleasure when Tremaine St. Michael negotiates fancy sheep with Lady Nita.
 
-## [<cite>Betrayed in Cornwall (Rose Trevelyan Series, Book 4)</cite> by Janie Bolitho](http://suffolklibraries.lib.overdrive.com/65939961-F610-44CC-89DC-559DA6BE8146/10/50/en/ContentDetails.htm?id=EB11AFFF-4295-45E6-8CC1-CF8B9E2D6F50) (eBook)
-
-[![Betrayed in Cornwall (Rose Trevelyan Series, Book 4) by Janie Bolitho](/images/article/betrayed-in-cornwall.jpg)](http://suffolklibraries.lib.overdrive.com/65939961-F610-44CC-89DC-559DA6BE8146/10/50/en/ContentDetails.htm?id=EB11AFFF-4295-45E6-8CC1-CF8B9E2D6F50)
+## [![Betrayed in Cornwall (Rose Trevelyan Series, Book 4) by Janie Bolitho](/images/article/betrayed-in-cornwall.jpg)](http://suffolklibraries.lib.overdrive.com/65939961-F610-44CC-89DC-559DA6BE8146/10/50/en/ContentDetails.htm?id=EB11AFFF-4295-45E6-8CC1-CF8B9E2D6F50)
 
 Rose Trevelyan seeks out the truth when a man falls off a cliff in this mystery.
 

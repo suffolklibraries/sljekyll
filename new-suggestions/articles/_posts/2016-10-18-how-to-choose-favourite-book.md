@@ -8,7 +8,7 @@ excerpt: "For the <cite>BBC LovetoRead</cite> campaign, the Society of Chief Lib
 breadcrumb: articles
 ---
 
-I’ve just started working as Web Content Editor for Suffolk Libraries, which is very exciting for me as someone who reads a lot and consequently has a great deal to say about books. When I was informed that the Society of Chief Librarians (SCL) were conducting a [poll](http://goscl.com/lovetoread/) of library staff and customers' favourite book for the [BBC #LovetoRead](http://www.bbc.co.uk/programmes/articles/57pvFwzbJHfmp3Gpjt44vQc/lovetoread-celebrating-the-pleasures-of-reading) campaign, my immediate reaction was panic. How on earth could I just choose one favourite book, when I've read and loved so many? I'm sure I'm not alone in this dilemma, so I've come up with some suggestions for how you might decide upon your favourite book.
+I’ve just started working as Web Content Editor for Suffolk Libraries, which is very exciting for me as someone who reads a lot and consequently has a great deal to say about books. When I was informed that the Society of Chief Librarians (SCL) were conducting a poll of library staff and customers' favourite book for the [BBC #LovetoRead](http://www.bbc.co.uk/programmes/articles/57pvFwzbJHfmp3Gpjt44vQc/lovetoread-celebrating-the-pleasures-of-reading) campaign, my immediate reaction was panic. How on earth could I just choose one favourite book, when I've read and loved so many? I'm sure I'm not alone in this dilemma, so I've come up with some suggestions for how you might decide upon your favourite book.
 
 **A book from your early life**
 
