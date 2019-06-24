@@ -10,7 +10,6 @@ event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 event-category: slaughter-2019-sat
 event-image: featured/featured-val-mcdermid.jpg
 event-image-alt: Val McDermid
-event-ticket-url: https://www.ticketsource.co.uk/slaughterinsouthwold
 breadcrumb: y
 ---
 

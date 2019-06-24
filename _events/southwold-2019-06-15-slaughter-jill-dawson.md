@@ -10,7 +10,6 @@ event-ticket-price: 6
 event-category: slaughter-2019-sat
 event-image: featured/featured-jill-dawson.jpg
 event-image-alt: Jill Dawson
-event-ticket-url: https://www.ticketsource.co.uk/slaughterinsouthwold
 breadcrumb: y
 ---
 

@@ -9,7 +9,6 @@ event-ticket-price: "5; day tickets £20 (£25 including buffet lunch); Saturday
 event-category: skulduggery-2019-sat
 event-image: featured/featured-kate-rhodes.jpg
 event-image-alt: Kate Rhodes
-event-ticket-url: https://www.ticketsource.co.uk/stowmarket-library
 breadcrumb: y
 ---
 

@@ -10,7 +10,6 @@ event-ticket-price: 6
 event-category: slaughter-2019-sun
 event-image: featured/featured-elly-griffiths-square-2.jpg
 event-image-alt: Elly Griffiths
-event-ticket-url: https://www.ticketsource.co.uk/slaughterinsouthwold
 breadcrumb: y
 ---
 
