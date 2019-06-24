@@ -40,5 +40,5 @@ branch-other-facilities: '<ul>
 breadcrumb: y
 branch-pride-and-periods: y
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, board games, jigsaw swap."
-branch-news: '<p>Ipswich County Library is looking for <a href="/events-activities/summer-holidays/summer-reading-challenge/volunteer-for-the-summer-reading-challenge/">Summer Reading Challenge volunteers</a>.</p>'
+branch-news: 'Ipswich County Library is looking for <a href="/events-activities/summer-holidays/summer-reading-challenge/volunteer-for-the-summer-reading-challenge/">Summer Reading Challenge volunteers</a>.'
 ---
