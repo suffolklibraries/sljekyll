@@ -9,7 +9,6 @@ event-category: skulduggery-2019-fri
 event-image: featured/featured-charlie-haylock.jpg
 event-image-alt: Charlie Haylock
 breadcrumb: y
-event-ticket-url: https://www.ticketsource.co.uk/stowmarket-library
 ---
 
 Charlie Haylock kicks off this year's Skulduggery in Stowmarket with an entertaining and informative talk on English dialects.

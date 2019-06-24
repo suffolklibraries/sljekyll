@@ -6,7 +6,6 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-06-14
 event-start-time: 1900
 event-ticket-price: 12, must be booked by 1 June
-event-ticket-url: https://www.ticketsource.co.uk/slaughterinsouthwold
 event-category: slaughter-2019-misc
 breadcrumb: y
 event-image: featured/featured-bannocks-and-blood.jpg

@@ -9,7 +9,6 @@ event-ticket-price: "5; day tickets £20 (£25 including buffet lunch); Saturday
 event-category: skulduggery-2019-sun
 event-image: featured/featured-sophie-hannah-2.jpg
 event-image-alt: Sophie Hannah
-event-ticket-url: https://www.ticketsource.co.uk/stowmarket-library
 breadcrumb: y
 ---
 

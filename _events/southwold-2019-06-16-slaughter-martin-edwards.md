@@ -10,7 +10,6 @@ event-ticket-price: 6
 event-category: slaughter-2019-sun
 event-image: featured/featured-martin-edwards-square.jpg
 event-image-alt: Martin Edwards
-event-ticket-url: https://www.ticketsource.co.uk/slaughterinsouthwold
 breadcrumb: y
 ---
 

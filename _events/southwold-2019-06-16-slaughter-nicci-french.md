@@ -10,7 +10,6 @@ event-ticket-price: 6
 event-category: slaughter-2019-sun
 event-image: featured/featured-nicci-french-2.jpg
 event-image-alt: Sean French and Nicci Gerrard
-event-ticket-url: https://www.ticketsource.co.uk/slaughterinsouthwold
 breadcrumb: y
 ---
 

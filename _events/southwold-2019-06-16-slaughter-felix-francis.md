@@ -10,7 +10,6 @@ event-ticket-price: 6
 event-category: slaughter-2019-sun
 event-image: featured/featured-felix-francis.jpg
 event-image-alt: Felix Francis
-event-ticket-url: https://www.ticketsource.co.uk/slaughterinsouthwold
 breadcrumb: y
 ---
 
