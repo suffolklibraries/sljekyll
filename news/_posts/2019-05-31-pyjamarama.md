@@ -13,7 +13,7 @@ breadcrumb: news
 
 Several Suffolk Libraries will be celebrating the magic of bedtime stories for BookTrust's [Pyjamarama](https://www.booktrust.org.uk/what-we-do/programmes-and-campaigns/pyjamarama/) campaign next week (3 - 9 June).
 
-Libraries across the county are inviting parents and children to come to special [Bookstart sessions](/parents-carers-and-children/bookstart-storytime-resources/) and one-off events dressed in their pyjamas and enjoy stories, rhymes, crafts and more. We've also picked out some of our [favourite bedtime stories](/parents-carers-and-children/pyjamarama-bedtime-stories/) to mark the occasion and inspire parents to pick up a book at bedtime.
+Libraries across the county are inviting parents and children to come to special [Bookstart sessions](/parents-carers-and-children/bookstart-storytime-resources/) and one-off events dressed in their pyjamas and enjoy stories, rhymes, crafts and more. We've also picked out some of our [favourite bedtime stories](/parents-carers-and-children/childrens-ya-books/pyjamarama-bedtime-stories/) to mark the occasion and inspire parents to pick up a book at bedtime.
 
 Last week, BookTrust reported that [54% of parents are swapping bedtime stories for tech](https://www.eadt.co.uk/news/bedtime-stories-suffolk-libraries-1-6071965). The Pyjamarama initiative aims to raise awareness of the importance of bedtime stories in children's learning and development, and help as many families as possible enjoy them.
 

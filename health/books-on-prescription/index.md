@@ -93,4 +93,4 @@ These books are available from all our libraries.
 
 Supported by Department of Health (IAPT), Royal College of General Practitioners, Royal College of Psychiatrists, Royal College of Nursing, British Association for Behavioural and Cognitive Psychotherapies, British Psychological Society and Mind.
 
-Developed by [The Reading Agency](http://readingagency.org.uk/adults/quick-guides/reading-well/) in partnership with [The Society of Chief Librarians](http://www.goscl.com/).
+Developed by [The Reading Agency](http://readingagency.org.uk/adults/quick-guides/reading-well/) in partnership with The Society of Chief Librarians.

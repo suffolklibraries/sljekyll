@@ -79,6 +79,12 @@ layout: blank
 
       <div class="flex-ns flex-wrap-ns justify-between-ns">
 
+      <div class="w-40-ns w-20-l pv3">
+
+          <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.adnams.co.uk/"><img class="db" src="/images/featured/featured-adnams.jpg" alt="Adnams"></a>
+
+      </div>
+
         <div class="w-40-ns w-20-l pv3">
 
             <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.careuk.com/"><img class="db" src="/images/featured/featured-care-uk.jpg" alt="Care UK"></a>

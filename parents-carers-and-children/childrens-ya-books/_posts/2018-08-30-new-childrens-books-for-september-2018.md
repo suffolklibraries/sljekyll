@@ -60,8 +60,6 @@ New title from the award-winning author of [<cite>The Journey</cite>](https://su
 
 > "When a young refugee girl has to travel to a new country and start at a new school, she is accompanied by her Fear who tells her to be alone and afraid, growing bigger and bigger every day with questions like 'how can you hope to make new friends if you don't understand their language?' But this little girl is stronger than her Fear."
 
-You can find more books about refugees on our [top children's titles for Refugee Week 2018](/parents-carers-and-children/childrens-ya-books/refugee-week-2018/).
-
 ### [<cite>Mr Men: Adventure in Ice Age</cite>, by Adam Hargreaves](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2427132)
 
 > "When Mr Snow takes his friends on a fishing trip to the North Pole, they accidentally end up in the Ice Age with a friendly woolly mammoth and some cavemen! But not everyone is so friendly. How will the Mr Men escape the scary sabre tooth tiger and find their way back home?"
