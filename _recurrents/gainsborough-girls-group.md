@@ -1,10 +1,6 @@
 ---
 recurrent-title: "Girls' group: have fun and build your self-esteem"
 recurrent-description: '<ul class="f6 ma0">
-                        <li>3 June: 5 Ways to Wellbeing book craft</li>
-                        <li>10 June: visit from therapy dog Brutus</li>
-                        <li>17 June: Women 100 resource box activities</li>
-                        <li>Thursday 20 June: Outing to Ringo&apos;s 6-7pm - max 20 girls</li>
                         <li>24 June: Cooking</li>
                         <li>1 July: Sound studio & voice recording</li>
                         <li>8 July: Sound studio & voice recording</li>
