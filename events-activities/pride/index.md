@@ -1,11 +1,6 @@
 ---
 title: Pride 2019
 layout: blank
-featured: true
-featured-excerpt: "Celebrate Pride with special events across our libraries. We’re also offering the chance to publish your LGBTQA+ stories, and we have some great, original reading recommendations."
-featured-link-href-text: "Find out about Pride across our libraries &rarr;"
-featured-image: "/images/pride/mamag.jpg"
-featured-alt: "Mama G in drag at Gainsborough Library"
 breadcrumb: events
 ---
 

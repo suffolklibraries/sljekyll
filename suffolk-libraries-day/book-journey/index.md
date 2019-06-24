@@ -261,7 +261,7 @@ Can your organisation facilitate and sponsor a leg of the book’s journey? Cont
           9am - 10:30am (1.5 hours)
         </td>
         <td>
-          Felixstowe Library staff - transport TBC
+          Felixstowe Coastal Patrol - Land Rover
         </td>
       </tr>
       <tr class="bg-light-gray">
