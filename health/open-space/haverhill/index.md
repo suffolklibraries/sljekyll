@@ -11,7 +11,7 @@ Here is the latest timetable for Open Space at Haverhill Library. Lots of exciti
 
 If you have any questions please do get in touch, or just come along to a session on Fridays from 12:30-2:30pm at [Haverhill Library](/libraries/haverhill-library/) &#8211; all are welcome!
 
-Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &rarr; tea/coffee. You can come and just listen if you prefer and drop in and out as you please.
+Running order: tea/coffee &rarr; informal discussion topic or activity &rarr; tea/coffee. You can come and just listen if you prefer and drop in and out as you please.
 
 **When possible, a member of staff will remain at the library during trips for those who don't wish to go**
 
