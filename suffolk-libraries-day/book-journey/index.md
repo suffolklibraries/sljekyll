@@ -720,7 +720,7 @@ layout: blank
 
                 </td>
               </tr>
-              <tr class="">
+              <tr class="bg-light-gray">
                 <td class="pa2 ba b--moon-gray">
                   Newmarket - Kedington
                 </td>
@@ -734,7 +734,7 @@ layout: blank
                   11am - 12pm (1 hour)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-
+                  TBC - Tractor
                 </td>
               </tr>
               <tr class="bg-light-gray">
@@ -751,7 +751,7 @@ layout: blank
                   12pm - 1pm (1 hour)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-                  Hughes Electrical staff - Bike
+                  Hughes Electrical staff - Classic American muscle car
                 </td>
               </tr>
               <tr class="bg-light-gray">
@@ -768,7 +768,7 @@ layout: blank
                   1pm - 2pm (1 hour)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-                  Hughes Electical staff - Bike
+                  Hughes Electrical staff - Pedal power
                 </td>
               </tr>
               <tr class="">
