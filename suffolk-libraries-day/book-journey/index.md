@@ -3,6 +3,8 @@ title: "Suffolk Libraries Day Book Journey timetable"
 layout: blank
 ---
 
+{% include hnav-small.html menu="sld" %}
+
 <article class="ph2 ph3-ns pv3 pv4-l bg-navy">
 
   <div class="bg-white b--light-gray ph2 ph3-ns pv3 pv4-ns">

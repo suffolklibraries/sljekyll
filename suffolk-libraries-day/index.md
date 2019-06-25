@@ -3,6 +3,8 @@ title: "Suffolk Libraries Day"
 layout: blank
 ---
 
+{% include hnav-small.html menu="sld" %}
+
 <article class="ph2 ph3-ns pv3 pv4-l bg-navy">
 
   <div class="custom-max-width">
@@ -53,7 +55,7 @@ layout: blank
 
         <p>We’d also love it if your company would consider match-funding any sponsorship your staff raise for the challenge.</p>
 
-        <p><a class="dark-blue" href="/suffolk-libraries-day/book-journey/">Take a look at the Book Journey timetable and availability &rarr;</a></p>
+        <p class="f4 tc b"><a class="dark-blue" href="/suffolk-libraries-day/book-journey/">Take a look at the Book Journey timetable and availability &rarr;</a></p>
 
       </div>
 
