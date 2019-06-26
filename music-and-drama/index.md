@@ -71,9 +71,9 @@ Under the Copyright, Designs & Patent Act 1988, all unauthorised copies are ille
       <td>£5.00 per member per annum (minimum £50.00)</td>
     </tr>
     <tr>
-      <td>Members of the Schools’ Library Service (LBaRTS)</td>
-      <td>£50.00</td>
-      <td>Non-members: £100.00</td>
+      <td>Schools</td>
+      <td>£100.00</td>
+      <td>£100.00</td>
     </tr>
   </tbody>
 </table>
@@ -120,7 +120,7 @@ Under the Copyright, Designs & Patent Act 1988, all unauthorised copies are ille
     <tr>
       <td>Orchestral music sets</td>
       <td>12 weeks</td>
-      <td>£15.50</td>
+      <td>£16.00</td>
       <td>50p per day</td>
       <td>£24.50</td>
     </tr>
@@ -134,7 +134,7 @@ Under the Copyright, Designs & Patent Act 1988, all unauthorised copies are ille
     <tr>
       <td>Vocal score sets in folders</td>
       <td>12 weeks</td>
-      <td>£2.20</td>
+      <td>£5.00</td>
       <td>50p per day</td>
       <td>£24.50</td>
     </tr>
