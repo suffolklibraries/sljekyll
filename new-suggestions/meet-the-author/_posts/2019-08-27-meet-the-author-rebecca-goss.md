@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Rebecca Goss'
-date: 2019-08-13
+date: 2019-08-27
 author: brandon-king
 category: meet-the-author
 excerpt: "Poet Rebecca Goss discusses her influences, inspirations and relaxed writing routine, and tells us what she's planning for her Lavenham Literary Festival talk in November."
