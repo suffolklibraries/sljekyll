@@ -8,6 +8,6 @@ event-end-time: 1600
 breadcrumb: y
 ---
 
-Enjoy a tombola, raffle, stalls, games, a barbecue and ice cream at our summer fête.
+Enjoy a tombola, raffle, stalls, games, a barbecue and ice cream while raising funds for the library and Sherrington House Care Home at our summer fête.
 
 This event is supported by the Friends of Broomhill Library, Broomhill Pool Trust and the Sherrington House Care Home.
