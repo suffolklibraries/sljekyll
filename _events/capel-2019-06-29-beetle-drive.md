@@ -1,5 +1,5 @@
 ---
-name: "Beetle drive"
+name: "Beetle drive - CANCELLED"
 location: capel-st-mary-library
 location-text: Capel St Mary Library
 event-start-date: 2019-06-29
@@ -8,6 +8,8 @@ event-start-time: 1930
 event-ticket-price: 4, or £3 for members of the Friends of Capel Library
 breadcrumb: y
 ---
+
+**Sorry that this event has been cancelled**
 
 Teams of two are invited to help raise funds for the library at the Friends of Capel Library's beetle drive. There will also be a raffle and a fully licensed bar to enjoy.
 
