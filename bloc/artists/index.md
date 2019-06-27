@@ -17,20 +17,15 @@ layout: blank
 
           <div class="w-50-ns pr3-ns mb3">
 
-            <p class="f4 f3-ns">BLOC is growing libraries as creative community spaces through supporting innovation and artisitic development opportunities.</p>
+            <p class="f4 f3-ns">BLOC LABS are week-long mixed media artist residencies held in libraries across Suffolk.</p>
 
-            <ul class="ma0 pa0">
-
-              <li>email <span class="b">arts@suffolklibraries.co.uk</span> to get involved as an artist</li>
-              <li><a href="/bloc/artists/culture-lab" class="b yellow underline-hover">Read about Ipswich Culture Lab &rarr;</a></li>
-
-            </ul>
+            <p class="ma0"><a class="yellow no-underline underline-hover" href="/bloc/artists/hadleigh-lab">Artist applications open for Summer BLOC Lab at Hadleigh Library &rarr;</a></p>
 
           </div>
 
           <div class="w-50-ns pl3-ns">
 
-            <blockquote class="ma0 pl3 bl bw3 b--gold"><p class="light-gray f4 mt2 i">It was an incredibly useful period for reflection, idea 'seeding' and professional/personal development… I was surprised at how lovely the dinner was as a social event. It was a really fantastic experience to enjoy the company of like-minded people in a work context, just as people. &#8212; <cite class="fs-normal">Artist in residence</cite></p></blockquote>
+            <blockquote class="ma0 pl3 bl bw3 b--gold"><p class="light-gray f4 mt2 i">It was an incredibly useful period for reflection, idea 'seeding' and professional/personal development... I was surprised at how lovely the dinner was as a social event. It was a really fantastic experience to enjoy the company of like-minded people in a work context, just as people. &#8212; <cite class="fs-normal">Artist in residence</cite></p></blockquote>
 
           </div>
 
@@ -125,8 +120,6 @@ layout: blank
         {% endfor %}
 
         {% if special-event-check == false %}<p class="{% include /c/page-meta.html %} mb3">No upcoming artists Labs.</p>{% endif %}
-
-        <p class="f4">Email <span class="b">arts@suffolklibraries.co.uk</span> for application details.</p>
 
       </div>
 
