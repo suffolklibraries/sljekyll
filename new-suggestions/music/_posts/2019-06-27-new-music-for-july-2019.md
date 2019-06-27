@@ -12,11 +12,9 @@ breadcrumb: music
 
 ![Freya Ridings, Kaiser Chiefs](/images/featured/featured-music-july-2019.jpg)
 
-## Ed Sheeran - <cite>No. 6 Collaborations Project</cite>
+## [Ed Sheeran - <cite>No. 6 Collaborations Project</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2616243)
 
 The fourth full-length studio album from the Framlingham singer-songwriter, following on the heels of his Grammy-winning album [<cite>÷</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=981783), released in 2017. The album features collaborations with Justin Bieber, Chance the Rapper and PnB Rock, and many more.
-
-*Editor's note: This album is so new, we don't have a catalogue entry for it yet! We'll add a link as soon as it becomes available.*
 
 ## [Freya Ridings - <cite>Freya Ridings</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2537220)
 
