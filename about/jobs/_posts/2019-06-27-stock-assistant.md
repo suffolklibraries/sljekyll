@@ -16,7 +16,7 @@ We're looking for a stock assistant to join our Content and Product Development 
 
 - Is confident and competent in using the internet, email and a variety of devices and applications
 
-- Has experiences in stock processes, administrative and financial routines
+- Has experience in stock processes, administrative and financial routines
 
 - Has an organised and efficient approach and is constantly looking for ways to improve processes and workflows
 

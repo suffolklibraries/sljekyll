@@ -9,7 +9,7 @@ event-ticket-price: 5
 breadcrumb: y
 ---
 
-10-14 year-olds are invited to an excited workshop. Make your own music video together and take a copy home!
+10-14 year-olds are invited to an exciting workshop. Make your own music video together and take a copy home!
 
 Lunch provided.
 
