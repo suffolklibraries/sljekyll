@@ -77,7 +77,9 @@ layout: blank
 
         <h2 class="f3 custom-lh-title dark-red">BLOC LABS</h2>
 
-        <p class="f4 measure">BLOC LABS are week-long mixed media artist residencies in libraries across Suffolk.</p>
+        <p class="f4 measure mb0">BLOC LABS are week-long mixed media artist residencies in libraries across Suffolk.</p>
+
+        <p class="f4 measure mt0"><a href="/bloc/artists/hadleigh-lab" class="blue">Artist applications open for summer LAB at Hadleigh Library</a>.</p>
 
         {% assign special-event-check = false %}
 

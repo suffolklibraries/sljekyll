@@ -94,29 +94,17 @@ layout: blank
 
     </section>
 
-    <!-- <section class="bg-black gold bb b--white pv3 pv4-ns">
+    <section class="bg-black gold bb b--white pv3 pv4-ns">
 
-        <div class="custom-max-width flex-l flex-wrap-l justify-between-l">
+        <div class="custom-max-width">
 
-            <div class="w-40-l pv2 pv3-ns pv4-ns ph2 ph3-ns">
+            <h2 class="f4 f3-ns custom-lh-title mb2 white">BLOC LAB summer 2019 applications open</h2>
 
-                <h2 class="f4 lh-title mt1"><a href="/bloc/culture-lab/" class="white no-underline underline-hover">Culture LAB: Arts in the community</a></h2>
-
-                <p class="ma0">Culture Lab was a week-long, mixed media residency in Ipswich County Library working in partnership with METAL</p>
-
-                <p class="mb0"><a href="/bloc/culture-lab/" class="lightest-blue no-underline underline-hover">Find out about Culture Lab →</a></p>
-
-            </div>
-
-            <div class="w-60-l pb4 pb0-l">
-
-                <a href="/bloc/culture-lab/"><img alt="Magazine cut out collage" class="db" src="/images/bloc/culture-lab.jpg"></a>
-
-            </div>
+            <p class="measure">We're holding the next artist LAB at Hadleigh Library between Aug 16-19. If you're an artist interested in taking part, <a href="/bloc/artists/hadleigh-lab/" class="lightest-blue underline hover-white">find out more about our summer LAB</a>.</p>
 
         </div>
 
-    </section> -->
+    </section>
 
     <section class="pa2 pa3-ns pv5-l bg-light-gray dark-gray b bb b--silver">
 

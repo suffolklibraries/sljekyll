@@ -43,9 +43,11 @@ layout: blank
 
             <h2 class="f4 f2-ns custon-lh-title">About</h2>
 
-            <p>We are inviting local artists to come and use Hadleigh Library as a work space to explore the role creativity plays as catalyst for nurturing confidence and wellbeing in the community.</p>
+            <p>We are inviting local artists to come and use <a href="/libraries/hadleigh-library/" class="blue underline">Hadleigh Library</a> as a work space to explore the role creativity plays as catalyst for nurturing confidence and wellbeing in the community.</p>
 
             <p>Five artists will be given the opportunity during the residency to explore their practice as well as their role as creative practitioners in community settings.</p>
+
+            <p><a href="/bloc/artists/culture-lab/" class="blue underline">Find out about the LAB we held at Ipswich County Library in 2018</a>.</p>
 
           </section>
 

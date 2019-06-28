@@ -124,8 +124,8 @@ layout: blank
 
             </fieldset>
 
-            <label for="where-hear" class="db f5 pt3">Where did you hear about this opportunity?</label>
-            <select name="where-hear" id="where-hear">
+            <label for="where-heard" class="db f5 pt3">Where did you hear about this opportunity?</label>
+            <select name="where-heard" id="where-heard">
               <option value="sl-website">Suffolk Libraries website</option>
               <option value="arts-jobs">Arts Jobs</option>
               <option value="arts-professional">Arts Professional</option>
@@ -135,8 +135,8 @@ layout: blank
               <option value="other-referrer">Somewhere else</option>
             </select>
 
-            <label for="get-emails" class="db f5 pt3">Are you happy to receive emails about about the progress of the BLOC Programme or other opportunities at Suffolk Libraries? <span class="red">*</span></label>
-            <select required name="get-emails" id="get-emails">
+            <label for="get-emails" class="db f5 pt3">Are you happy to receive emails about about the progress of the BLOC Programme or other opportunities at Suffolk Libraries?</label>
+            <select name="get-emails" id="get-emails">
               <option value="yes-get-emails">Yes</option>
               <option selected value="no-get-emails">No</option>
             </select>
