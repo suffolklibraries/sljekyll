@@ -76,8 +76,8 @@ layout: blank
 
             <label for="accommodation" class="db f5 pt3">Would you require accommodation for the 12-16 August? <span class="red">*</span></label>
             <select required name="accommodation" id="accommodation">
-              <option value="yes">Yes</option>
-              <option selected value="no">No</option>
+              <option value="yes-accommodation">Yes</option>
+              <option selected value="no-accommodation">No</option>
             </select>
 
             <label for="postcode" class="db f5 pt3">The first part of your postcode, e.g. IP1, NR33 etc. <span class="red">*</span></label>
@@ -101,20 +101,20 @@ layout: blank
 
               <label for="diversity-survey" class="db f5 pt3">Would you be happy to fill in a survey looking at the diversity of our applicants?</label>
               <select name="diversity-survey" id="diversity-survey">
-                <option value="yes">Yes</option>
-                <option value="no">No</option>
+                <option value="yes-diversity-survey">Yes</option>
+                <option value="no-diversity-survey">No</option>
               </select>
               <p class="ma0 custom-lh-title gray"><small>The information provided will not influence the outcome of the application process.</small></p>
 
               <label for="diversity-awareness" class="db f5 pt3">Did you feel the mission of diversity was apparent during the application process?</label>
               <select name="diversity-awareness" id="diversity-awareness">
-                <option value="yes">Yes</option>
-                <option value="no">No</option>
-                <option value="other">Other (specify below)</option>
+                <option value="yes-diversity-awareness">Yes</option>
+                <option value="no-diversity-awareness">No</option>
+                <option value="other-diversity-awareness">Other (specify below)</option>
               </select>
 
-              <label for="other-diversity-awareness" class="db f5">If you specified <em>other</em> please tell us more</label>
-              <textarea class="db border-box w-100 vh-25" name="other-diversity-awareness" id="other-diversity-awareness"></textarea>
+              <label for="other-diversity-feeling" class="db f5">If you specified <em>other</em> please tell us more</label>
+              <textarea class="db border-box w-100 vh-25" name="other-diversity-feeling" id="other-diversity-feeling"></textarea>
 
               <label for="accessibility-requirements" class="db f5 pt3">Are there any accessibility requirements we need to be aware of?</label>
               <textarea class="db border-box w-100 vh-25" name="accessibility-requirements" id="accessibility-requirements"></textarea>
@@ -124,7 +124,7 @@ layout: blank
 
             </fieldset>
 
-            <label for="referrer" class="db f5 pt3">Where did you here about this opportunity?</label>
+            <label for="referrer" class="db f5 pt3">Where did you hear about this opportunity?</label>
             <select name="referrer" id="referrer">
               <option value="sl-website">Suffolk Libraries website</option>
               <option value="arts-jobs">Arts Jobs</option>
@@ -132,15 +132,15 @@ layout: blank
               <option value="twitter">Twitter</option>
               <option value="instagram">Instagram</option>
               <option value="facebook">Facebook</option>
-              <option value="other">Other</option>
+              <option value="other-referrer">Other</option>
             </select>
             <label for="referrer-other" class="db f5">If you specified <em>other</em> please tell us more</label>
             <textarea class="db border-box w-100 vh-25" name="referrer-other" id="referrer-other"></textarea>
 
             <label for="get-emails" class="db f5 pt3">Are you happy to receive emails and be kept informed about about the progress of the BLOC Programme or other opportunities at Suffolk Libraries? <span class="red">*</span></label>
             <select required name="get-emails" id="get-emails">
-              <option value="yes">Yes</option>
-              <option value="no">No</option>
+              <option value="yes-get-emails">Yes</option>
+              <option value="no-get-emails">No</option>
             </select>
 
             <div class="mt3 pa2 bg-light-gray ba b--moon-gray">
