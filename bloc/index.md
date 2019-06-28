@@ -100,7 +100,7 @@ layout: blank
 
             <h2 class="f4 f3-ns custom-lh-title mb2 white">BLOC LAB summer 2019 applications open</h2>
 
-            <p class="measure">We're holding the next artist LAB at Hadleigh Library between Aug 16-19. If you're an artist interested in taking part, <a href="/bloc/artists/hadleigh-lab/" class="lightest-blue underline hover-white">find out more about our summer LAB</a>.</p>
+            <p class="measure">We're holding the next artist LAB at Hadleigh Library between Aug 12-16. If you're an artist interested in taking part, <a href="/bloc/artists/hadleigh-lab/" class="lightest-blue underline hover-white">find out more about our summer LAB</a>.</p>
 
         </div>
 
