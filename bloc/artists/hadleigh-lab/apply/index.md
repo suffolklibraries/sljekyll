@@ -143,10 +143,13 @@ layout: blank
               <option value="no">No</option>
             </select>
 
-            <div class="flex mt3 pa2 bg-light-gray ba b--moon-gray">
+            <div class="mt3 pa2 bg-light-gray ba b--moon-gray">
 
-              <label for="i-understand" class="pr1 f5">I understand I will be one of five artists <span class="red">*</span></label>
-              <input required type="checkbox" name="i-understand" id="i-understand" value="i-understand">
+              <label for="i-understand" class="flex items-center">I understand I will be one of five artists <span class="red">*</span>
+
+                <input required class="mr1 flex-none" type="checkbox" name="i-understand" id="i-understand" value="i-understand">
+
+              </label>
 
             </div>
 
