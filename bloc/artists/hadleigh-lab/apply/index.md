@@ -112,8 +112,9 @@ layout: blank
                 <option value="no">No</option>
                 <option value="other">Other (specify below)</option>
               </select>
-              <label for="diversity-awareness-other" class="db f5">If you specified <em>other</em> please tell us more</label>
-              <textarea class="db border-box w-100 vh-25" name="diversity-awareness-other" id="diversity-awareness-other"></textarea>
+
+              <label for="other-diversity-awareness" class="db f5">If you specified <em>other</em> please tell us more</label>
+              <textarea class="db border-box w-100 vh-25" name="other-diversity-awareness" id="other-diversity-awareness"></textarea>
 
               <label for="accessibility-requirements" class="db f5 pt3">Are there any accessibility requirements we need to be aware of?</label>
               <textarea class="db border-box w-100 vh-25" name="accessibility-requirements" id="accessibility-requirements"></textarea>
@@ -123,18 +124,18 @@ layout: blank
 
             </fieldset>
 
-            <label for="source" class="db f5 pt3">Where did you here about this opportunity?</label>
-            <select name="source" id="source">
-              <option value="yes">Suffolk Libraries website</option>
-              <option value="no">Arts Jobs</option>
-              <option value="no">Arts Professional</option>
-              <option value="no">Twitter</option>
-              <option value="no">Instagram</option>
-              <option value="no">Facebook</option>
-              <option value="no">Other</option>
+            <label for="referrer" class="db f5 pt3">Where did you here about this opportunity?</label>
+            <select name="referrer" id="referrer">
+              <option value="sl-website">Suffolk Libraries website</option>
+              <option value="arts-jobs">Arts Jobs</option>
+              <option value="arts-professional">Arts Professional</option>
+              <option value="twitter">Twitter</option>
+              <option value="instagram">Instagram</option>
+              <option value="facebook">Facebook</option>
+              <option value="other">Other</option>
             </select>
-            <label for="source-other" class="db f5">If you specified <em>other</em> please tell us more</label>
-            <textarea class="db border-box w-100 vh-25" name="source-other" id="source-other"></textarea>
+            <label for="referrer-other" class="db f5">If you specified <em>other</em> please tell us more</label>
+            <textarea class="db border-box w-100 vh-25" name="referrer-other" id="referrer-other"></textarea>
 
             <label for="get-emails" class="db f5 pt3">Are you happy to receive emails and be kept informed about about the progress of the BLOC Programme or other opportunities at Suffolk Libraries? <span class="red">*</span></label>
             <select required name="get-emails" id="get-emails">
