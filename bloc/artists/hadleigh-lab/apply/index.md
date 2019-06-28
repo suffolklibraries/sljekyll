@@ -41,7 +41,9 @@ layout: blank
 
           <h2 class="f4 f2-ns custon-lh-title">Summer BLOC LAB application form</h2>
 
-          <form class="pure-form pure-form-stacked pb4" netlify name="hadleigh-lab-application" action="/bloc/artists/hadleigh-lab/confirmation/" netlify-honeypot="bot-field">
+          <p><a class="blue underlined" href="/bloc/artists/hadleigh-lab/">Role notes &rarr;</a></p>
+
+          <form class="pure-form pure-form-stacked pb4" netlify name="hadleigh-lab-application" action="/bloc/artists/hadleigh-lab/apply/confirmation/" netlify-honeypot="bot-field">
 
             <p class="custom-lh-title mt0 mb4"><small>Fields marked <span class="red">*</span> are compulsory. <a class="blue underline" href="/about/jobs/privacy-notice-for-job-applicants/">Privacy notice</a>.</small></p>
 
@@ -142,8 +144,8 @@ layout: blank
 
             <div class="flex mt3 pa2 bg-light-gray ba b--moon-gray">
 
-              <label for="newsletter" class="pr1 f5">I understand I will be one of five artists</label>
-              <input type="checkbox" name="newsletter" id="newsletter" value="i-understand">
+              <label for="i-understand" class="pr1 f5">I understand I will be one of five artists <span class="red">*</span></label>
+              <input required type="checkbox" name="i-understand" id="i-understand" value="i-understand">
 
             </div>
 
