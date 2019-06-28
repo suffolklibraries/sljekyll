@@ -41,7 +41,7 @@ layout: blank
 
           <h2 class="f4 f2-ns custon-lh-title">Summer BLOC LAB application form</h2>
 
-          <p><a class="blue underlined" href="/bloc/artists/hadleigh-lab/">Role notes &rarr;</a></p>
+          <p><a class="blue underline" href="/bloc/artists/hadleigh-lab/">Role notes &rarr;</a></p>
 
           <form class="pure-form pure-form-stacked pb4" netlify name="hadleigh-lab-application" action="/bloc/artists/hadleigh-lab/apply/confirmation/" netlify-honeypot="bot-field">
 
