@@ -132,7 +132,7 @@ layout: blank
               <option value="twitter">Twitter</option>
               <option value="instagram">Instagram</option>
               <option value="facebook">Facebook</option>
-              <option value="other-referrer">Other</option>
+              <option value="other-referrer">Somewhere else</option>
             </select>
 
             <label for="get-emails" class="db f5 pt3">Are you happy to receive emails and be kept informed about about the progress of the BLOC Programme or other opportunities at Suffolk Libraries? <span class="red">*</span></label>
