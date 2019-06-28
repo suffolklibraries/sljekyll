@@ -134,8 +134,6 @@ layout: blank
               <option value="facebook">Facebook</option>
               <option value="other-referrer">Other</option>
             </select>
-            <label for="referrer-other" class="db f5">If you specified <em>other</em> please tell us more</label>
-            <textarea class="db border-box w-100 vh-25" name="referrer-other" id="referrer-other"></textarea>
 
             <label for="get-emails" class="db f5 pt3">Are you happy to receive emails and be kept informed about about the progress of the BLOC Programme or other opportunities at Suffolk Libraries? <span class="red">*</span></label>
             <select required name="get-emails" id="get-emails">
