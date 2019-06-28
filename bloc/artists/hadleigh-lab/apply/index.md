@@ -124,8 +124,8 @@ layout: blank
 
             </fieldset>
 
-            <label for="referrer" class="db f5 pt3">Where did you hear about this opportunity?</label>
-            <select name="referrer" id="referrer">
+            <label for="where-hear" class="db f5 pt3">Where did you hear about this opportunity?</label>
+            <select name="where-hear" id="where-hear">
               <option value="sl-website">Suffolk Libraries website</option>
               <option value="arts-jobs">Arts Jobs</option>
               <option value="arts-professional">Arts Professional</option>
@@ -135,17 +135,16 @@ layout: blank
               <option value="other-referrer">Somewhere else</option>
             </select>
 
-            <label for="get-emails" class="db f5 pt3">Are you happy to receive emails and be kept informed about about the progress of the BLOC Programme or other opportunities at Suffolk Libraries? <span class="red">*</span></label>
+            <label for="get-emails" class="db f5 pt3">Are you happy to receive emails about about the progress of the BLOC Programme or other opportunities at Suffolk Libraries? <span class="red">*</span></label>
             <select required name="get-emails" id="get-emails">
               <option value="yes-get-emails">Yes</option>
-              <option value="no-get-emails">No</option>
+              <option selected value="no-get-emails">No</option>
             </select>
 
             <div class="mt3 pa2 bg-light-gray ba b--moon-gray">
 
               <label for="i-understand" class="flex items-center">I understand I will be one of five artists <span class="red">*</span>
-
-                <input required class="mr1 flex-none" type="checkbox" name="i-understand" id="i-understand" value="i-understand">
+              <input required class="mr1 flex-none" type="checkbox" name="i-understand" id="i-understand" value="i-understand">
 
               </label>
 
