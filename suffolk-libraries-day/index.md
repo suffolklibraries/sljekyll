@@ -119,6 +119,12 @@ layout: blank
 
         <div class="w-40-ns w-20-l pv3">
 
+            <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.larking-gowen.co.uk/"><img class="db" src="/images/featured/featured-mha-larking-gowen.jpg" alt="MHA Larking Gowen"></a>
+
+        </div>
+
+        <div class="w-40-ns w-20-l pv3">
+
             <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.realisefutures.org/"><img class="db" src="/images/featured/featured-realise-futures.jpg" alt="Realise Futures"></a>
 
         </div>
