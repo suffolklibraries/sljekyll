@@ -17,7 +17,7 @@ PressReader allows you to read or download full digital editions of key newspape
 5. Fill in the fields in the 'New User' box and click 'Create my account'
 6. This service will now be available to use.
 
-**Your session will expire after 30 days. After 30 days, you can reactivate your account:**
+**Your session will expire after 30 days. After 30 days, you can continue to use PressReader for free by reactivating your account:**
 
 1. If you aren't already logged in, sign in using your email address and password
 2. Click your name in the top right-hand corner, then click 'My Account'
@@ -35,7 +35,7 @@ PressReader allows you to read or download full digital editions of key newspape
 7. Fill in the fields in the 'New User' box and press 'Agree'
 8. This service will now be available to use.
 
-**Your session will expire after 30 days. After 30 days, you can reactivate your account:**
+**Your session will expire after 30 days. After 30 days, you can continue to use PressReader for free by reactivating your account:**
 
 1. Press the 'Accounts' button on the bottom right of the screen and select your account
 2. Press 'Library and Group', then 'Unlink Account'

@@ -27,14 +27,6 @@ This year's Latitude music festival takes place in Southwold from 18-21 July. Wh
 
   <figure class="custom-flex-row-4 pv2">
 
-      <a class="white custom-no-underline" href="https://suffolklibraries.freegalmusic.com/search-page/snow%2520patrol%2520/artists/U25vdyBQYXRyb2w/albums/5099930906457/2"><img class="custom-constrain-img" src="/images/featured/featured-late-night-tales.jpg" alt="Late Night Tales"></a>
-
-      <figcaption class="ma0 pa0"><p class="f5 fw6 ma0 pa0 pr2"><a href="https://suffolklibraries.freegalmusic.com/search-page/snow%2520patrol%2520/artists/U25vdyBQYXRyb2w/albums/5099930906457/2" class="blue custom-no-underline">Snow Patrol - <cite>Late Night Tales</cite></a></p></figcaption>
-
-  </figure>
-
-  <figure class="custom-flex-row-4 pv2">
-
       <a class="white custom-no-underline" href="https://suffolklibraries.freegalmusic.com/search-page/primal%2520scream/albums/1902696/1"><img class="custom-constrain-img" src="/images/featured/featured-screamadelica.jpg" alt="Screamadelica"></a>
 
       <figcaption class="ma0 pa0"><p class="f5 fw6 ma0 pa0 pr2"><a href="https://suffolklibraries.freegalmusic.com/search-page/primal%2520scream/albums/1902696/1" class="blue custom-no-underline">Primal Scream - <cite>Screamadelica</cite></a></p></figcaption>
