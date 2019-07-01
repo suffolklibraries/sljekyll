@@ -127,7 +127,7 @@ layout: blank
 
                 </td>
               </tr>
-              <tr class="">
+              <tr class="bg-light-gray">
                 <td class="pa2 ba b--moon-gray">
                   Halesworth - Southwold
                 </td>
@@ -141,7 +141,7 @@ layout: blank
                   4pm - 5:30pm (1.5 hours)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-
+                  Halesworth and Southwold Railway Trust - van
                 </td>
               </tr>
               <tr class="bg-light-gray">
@@ -535,7 +535,7 @@ layout: blank
                   Hughes Electrical staff - cycling
                 </td>
               </tr>
-              <tr class="">
+              <tr class="bg-light-gray">
                 <td class="pa2 ba b--moon-gray">
                   Thurston - Elmswell
                 </td>
@@ -549,7 +549,7 @@ layout: blank
                   3pm - 4pm (1 hour)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-
+                  MHA Larking Gowen - TBC
                 </td>
               </tr>
               <tr class="bg-light-gray">
