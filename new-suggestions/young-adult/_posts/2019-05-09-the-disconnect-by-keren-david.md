@@ -13,7 +13,7 @@ genre-image: /images/featured/featured-the-disconnect-genre.jpg
 genre-alt: "The Disconnect"
 ---
 
-![Whiteout](/images/featured/featured-the-disconnect.jpg)
+![The Disconnect](/images/featured/featured-the-disconnect.jpg)
 
 **[See <cite>The Disconnect</cite> in our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2547895)**
 
