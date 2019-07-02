@@ -19,7 +19,7 @@ layout: blank
 
           <ul class="list ma0 pa0 f5">
 
-            <li>Mon 12 Aug – Fri 12 Aug 2019</li>
+            <li>Mon 12 Aug – Fri 16 Aug 2019</li>
             <li>Hadleigh Library</li>
             <li>£500 fee, lunch provided by Suffolk Libraries</li>
 
@@ -41,7 +41,7 @@ layout: blank
 
           <section>
 
-            <h2 class="f4 f2-ns custon-lh-title">About</h2>
+            <h2 class="f4 f2-ns custom-lh-title">About</h2>
 
             <p>We are inviting local artists to come and use <a href="/libraries/hadleigh-library/" class="blue underline">Hadleigh Library</a> as a work space to explore the role creativity plays as catalyst for nurturing confidence and wellbeing in the community.</p>
 
@@ -53,7 +53,7 @@ layout: blank
 
           <section class="pt2">
 
-            <h2 class="f4 f2-ns custon-lh-title">Background</h2>
+            <h2 class="f4 f2-ns custom-lh-title">Background</h2>
 
             <p>In April 2018, Suffolk Libraries were awarded NPO status by Arts Council England. Suffolk Libraries is made up of 44 individual libraries across the county and as part of this creative process the BLOC - Building Libraries on Creativity programme was created to develop libraries as creative community hubs.</p>
 
@@ -61,15 +61,15 @@ layout: blank
 
           <section class="pt2">
 
-            <h2 class="f4 f2-ns custon-lh-title">What the LAB will provide</h2>
+            <h2 class="f4 f2-ns custom-lh-title">What the LAB will provide</h2>
 
             <ul>
 
               <li>Inspiring workshops with invited guest speakers/artists</li>
-              <li>One-to-one advice from the weeks facilitator</li>
-              <li>Time for reflection and space to develop current work or to create new work</li>
+              <li>One-to-one advice from the week's facilitator</li>
+              <li>Time for reflection and space to develop current work or create new work</li>
               <li>Working and social time with peers for discussions and meaningful exchange of ideas and practice</li>
-              <li>Opportunity to meet both the Suffolk Libraries BLOC team and create links for the future</li>
+              <li>Opportunity to meet the Suffolk Libraries BLOC team and create links for the future</li>
 
             </ul>
 
@@ -77,11 +77,11 @@ layout: blank
 
           <section class="pt2">
 
-            <h2 class="f4 f2-ns custon-lh-title">Benefits to artists</h2>
+            <h2 class="f4 f2-ns custom-lh-title">Benefits to artists</h2>
 
             <ul>
 
-              <li>Focused time for the development of a current/ new idea and projects</li>
+              <li>Focused time for the development of a current/new idea and projects</li>
               <li>Being in a peer environment and experiencing media outside of their current practice</li>
               <li>Working collaboratively with libraries and their communities</li>
               <li>Opportunities to exchange ideas, share work and feed your creativity through encountering the experience of others both in and outside the arts</li>
@@ -93,14 +93,14 @@ layout: blank
 
           <section class="pt2">
 
-            <h2 class="f4 f2-ns custon-lh-title">Criteria for application</h2>
+            <h2 class="f4 f2-ns custom-lh-title">Criteria for application</h2>
 
             <ul>
 
-              <li>This LAB is for Suffolk based artists working in any discipline (Music/ technology/ paint/ sculpture/ film/ writing/ poetry/ theatre/ sound recording/ installations, dance etc.)</li>
-              <li>Applicants must commit to the full weeks residency, including some evenings</li>
+              <li>This LAB is for Suffolk based artists working in any discipline (music/technology/paint/sculpture/film/writing/poetry/theatre/sound recording/installations/dance, etc.)</li>
+              <li>Applicants must commit to the full week's residency, including some evenings</li>
               <li>We are looking for artists who are keen to create work with roots in the community</li>
-              <li>A proven commitment to their discipline, either through a portfolio of work or relevant course, qualifications or awards</li>
+              <li>Artists must show a proven commitment to their discipline, either through a portfolio of work or relevant course, qualifications or awards</li>
               <li>Living and/or working regularly in Suffolk (as defined by the Suffolk county boundaries)</li>
 
             </ul>
@@ -109,7 +109,7 @@ layout: blank
 
           <section class="pt2">
 
-            <h2 class="f4 f2-ns custon-lh-title">How to apply</h2>
+            <h2 class="f4 f2-ns custom-lh-title">How to apply</h2>
 
             <ul>
 
@@ -122,7 +122,7 @@ layout: blank
 
           <section class="pt2">
 
-            <h2 class="f4 f2-ns custon-lh-title">Deadline for submission</h2>
+            <h2 class="f4 f2-ns custom-lh-title">Deadline for submission</h2>
 
             <ul>
 

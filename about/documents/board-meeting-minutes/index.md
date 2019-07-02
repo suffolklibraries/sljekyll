@@ -10,6 +10,8 @@ You can download copies of our board meeting minutes. We redact information from
 2. they contain items where their disclosure would be likely to prejudice the commercial interests of any person
 
 ## 2019
+
+* [Board meeting minutes 2019-05-02](/assets/pdf/board-meeting-minutes-2019-05-02.pdf)
 * [Board meeting minutes 2019-02-28](/assets/pdf/board-meeting-minutes-2019-02-28.pdf)
 
 ## 2018
