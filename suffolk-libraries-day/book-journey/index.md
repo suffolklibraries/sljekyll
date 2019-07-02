@@ -277,7 +277,7 @@ layout: blank
                   9am - 10:30am (1.5 hours)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-                  Felixstowe Library staff - transport TBC
+                  Felixstowe Coastal Patrol - truck
                 </td>
               </tr>
               <tr class="bg-light-gray">
