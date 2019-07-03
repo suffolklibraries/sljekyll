@@ -91,38 +91,11 @@ layout: blank
               <option value="he">He/him</option>
             </select>
 
-            <div class="mb3"></div>
+            <label for="accessibility-requirements" class="db f5 pt3">Are there any accessibility requirements we need to be aware of?</label>
+            <textarea class="db border-box w-100 vh-25" name="accessibility-requirements" id="accessibility-requirements"></textarea>
 
-            <fieldset>
-
-              <legend class="mb0">Diversity and accessibility</legend>
-
-              <p class="ma0 custom-lh-title"><small>Suffolk Libraries is committed to ensuring the programme is open and inclusive to all.</small></p>
-
-              <label for="diversity-survey" class="db f5 pt3">Would you be happy to fill in a survey looking at the diversity of our applicants?</label>
-              <select name="diversity-survey" id="diversity-survey">
-                <option value="yes-diversity-survey">Yes</option>
-                <option value="no-diversity-survey">No</option>
-              </select>
-              <p class="ma0 custom-lh-title gray"><small>The information provided will not influence the outcome of the application process.</small></p>
-
-              <label for="diversity-awareness" class="db f5 pt3">Did you feel the mission of diversity was apparent during the application process?</label>
-              <select name="diversity-awareness" id="diversity-awareness">
-                <option value="yes-diversity-awareness">Yes</option>
-                <option value="no-diversity-awareness">No</option>
-                <option value="other-diversity-awareness">Other (specify below)</option>
-              </select>
-
-              <label for="other-diversity-feeling" class="db f5">If you specified <em>other</em> please tell us more</label>
-              <textarea class="db border-box w-100 vh-25" name="other-diversity-feeling" id="other-diversity-feeling"></textarea>
-
-              <label for="accessibility-requirements" class="db f5 pt3">Are there any accessibility requirements we need to be aware of?</label>
-              <textarea class="db border-box w-100 vh-25" name="accessibility-requirements" id="accessibility-requirements"></textarea>
-
-              <label for="accessibility-better" class="db f5 pt3">Was there anything we could have done better to make the application more accessible?</label>
-              <textarea class="db border-box w-100 vh-25" name="accessibility-better" id="accessibility-better"></textarea>
-
-            </fieldset>
+            <label for="accessibility-better" class="db f5 pt3">Was there anything we could have done better to make the application more accessible?</label>
+            <textarea class="db border-box w-100 vh-25" name="accessibility-better" id="accessibility-better"></textarea>
 
             <label for="where-heard" class="db f5 pt3">Where did you hear about this opportunity?</label>
             <select name="where-heard" id="where-heard">
