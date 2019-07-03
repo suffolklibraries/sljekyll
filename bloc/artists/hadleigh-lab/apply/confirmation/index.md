@@ -47,9 +47,19 @@ layout: blank
 
           <h2 class="f4 f2-ns custon-lh-title">Diversity information</h2>
 
-          <form class="pure-form pure-form-stacked pb4" netlify name="hadleigh-lab-application-diversity" action="/bloc/artists/hadleigh-lab/apply/confirmation/" netlify-honeypot="bot-field">
+          <div class="pa2 pa3-ns mb3 bg-light-gray ba b--moon-gray br2 f5">
 
-            <p class="ma0 custom-lh-title gray"><small>The is optional and information you provide will not influence the outcome of the application process.</small></p>
+            <p>This is optional and information you provide will not influence the outcome of the application process.</p>
+
+            <p>To fulfil the aims of the organisation and to make sure all opportunities created by Suffolk Libraries are available to everyone, we need to establish a baseline in data monitoring in order to improve. We need your help to do this.</p>
+
+            <p>The information you provide will stay confidential. It will only be used for monitoring purposes and will not be disclosed to any third party except where we are required to provide anonymous, statistical information, to, for example, funding bodies and organisations.</p>
+
+            <p>Thank you for taking the time to fill out this form.</p>
+
+          </div>
+
+          <form class="pure-form pure-form-stacked pb4" netlify name="hadleigh-lab-application-diversity" action="/bloc/artists/hadleigh-lab/apply/confirmation/diversity-confirmation/" netlify-honeypot="bot-field">
 
             <label for="diversity-survey-age" class="db f5 pt3">How old are you?</label>
             <select name="diversity-survey-age" id="diversity-survey-age">
@@ -60,7 +70,7 @@ layout: blank
               <option value="diversity-survey-age-not-say">Prefer not to say</option>
             </select>
 
-            <label for="diversity-survey-gender" class="db f5 pt3">How would you describe your gender</label>
+            <label for="diversity-survey-gender" class="db f5 pt3">Your gender</label>
             <select name="diversity-survey-gender" id="diversity-survey-gender">
               <option value="diversity-survey-female">Female</option>
               <option value="diversity-survey-male">Male</option>
@@ -73,8 +83,8 @@ layout: blank
 
             <label for="diversity-survey-disability" class="db f5 pt3">Do you have a disability?</label>
             <select name="diversity-survey-disability" id="diversity-survey-disability">
-              <option value="diversity-survey-disability-yes">Yes</option>
               <option value="diversity-survey-disability-no">No</option>
+              <option value="diversity-survey-disability-yes">Yes</option>
               <option value="diversity-survey-disability-not-say">Prefer not to say</option>
             </select>
 
@@ -95,9 +105,9 @@ layout: blank
           </form>
 
         </section>
-
-      </div>
-
+        
     </div>
 
-  </article>
+  </div>
+
+</article>
