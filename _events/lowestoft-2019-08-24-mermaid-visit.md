@@ -6,6 +6,7 @@ event-start-date: 2019-08-24
 event-start-time: 1045
 event-end-time: 1200
 event-ticket-price: free but donations appreciated
+event-category: summer-holidays
 breadcrumb: y
 ---
 
