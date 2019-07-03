@@ -91,60 +91,6 @@ layout: blank
               <option value="he">He/him</option>
             </select>
 
-            <div class="mb3"></div>
-
-            <fieldset>
-
-              <legend class="mb0">Diversity and accessibility</legend>
-
-              <p class="ma0 custom-lh-title"><small>Suffolk Libraries is committed to ensuring the programme is open and inclusive to all.</small></p>
-
-              <details class="pa2 pa3-ns bg-light-gray ba b--moon-gray br2 mt3">
-
-                <summary class="f4 pointer">Complete our diversity survey</summary>
-
-                <p class="ma0 custom-lh-title gray"><small>The is optional and information you provide will not influence the outcome of the application process.</small></p>
-
-                <label for="diversity-survey-age" class="db f5 pt3">Would you be happy to fill in a survey looking at the diversity of our applicants?</label>
-                <select name="diversity-survey-age" id="diversity-survey-age">
-                  <option value="diversity-survey-age-0-19">0-19</option>
-                  <option value="diversity-survey-age-20-34">20-34</option>
-                  <option value="diversity-survey-age-35-49">35-49</option>
-                  <option value="diversity-survey-age-50-64">50-64</option>
-                  <option value="diversity-survey-age-not-say">Prefer not to say</option>
-                </select>
-
-                <label for="diversity-survey-gender" class="db f5 pt3">Would you be happy to fill in a survey looking at the diversity of our applicants?</label>
-                <select name="diversity-survey-gender" id="diversity-survey-gender">
-                  <option value="diversity-survey-female">Female</option>
-                  <option value="diversity-survey-male">Male</option>
-                  <option value="diversity-survey-non-binary">Non-binary</option>
-                  <option value="diversity-survey-prefer-not-to-say">Prefer not to say</option>
-                </select>
-
-                <label for="diversity-ethnicity" class="db f5 pt3">How would you describe your ethnicity?</label>
-                <input class="border-box w-100" type="text" name="diversity-ethnicity" id="diversity-ethnicity">
-
-                <label for="diversity-survey-disability" class="db f5 pt3">Would you be happy to fill in a survey looking at the diversity of our applicants?</label>
-                <select name="diversity-survey-disability" id="diversity-survey-disability">
-                  <option value="diversity-survey-disability-yes">Yes</option>
-                  <option value="diversity-survey-disability-no">No</option>
-                  <option value="diversity-survey-disability-not-say">Prefer not to say</option>
-                </select>
-
-              </details>
-
-
-              <label for="diversity-awareness" class="db f5 pt3">Did you feel the mission of diversity was apparent during the application process?</label>
-              <select name="diversity-awareness" id="diversity-awareness">
-                <option value="yes-diversity-awareness">Yes</option>
-                <option value="no-diversity-awareness">No</option>
-                <option value="other-diversity-awareness">Other (specify below)</option>
-              </select>
-
-              <label for="other-diversity-feeling" class="db f5">If you specified <em>other</em> please tell us more</label>
-              <textarea class="db border-box w-100 vh-25" name="other-diversity-feeling" id="other-diversity-feeling"></textarea>
-
               <label for="accessibility-requirements" class="db f5 pt3">Are there any accessibility requirements we need to be aware of?</label>
               <textarea class="db border-box w-100 vh-25" name="accessibility-requirements" id="accessibility-requirements"></textarea>
 
