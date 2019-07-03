@@ -101,7 +101,7 @@ layout: blank
 
               <details class="pa2 pa3-ns bg-light-gray ba b--moon-gray br2 mt3">
 
-                <summary>Complete our diversity survey</summary>
+                <summary class="f4 pointer">Complete our diversity survey</summary>
 
                 <p class="ma0 custom-lh-title gray"><small>The is optional and information you provide will not influence the outcome of the application process.</small></p>
 
