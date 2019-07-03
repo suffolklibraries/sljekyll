@@ -91,13 +91,11 @@ layout: blank
               <option value="he">He/him</option>
             </select>
 
-              <label for="accessibility-requirements" class="db f5 pt3">Are there any accessibility requirements we need to be aware of?</label>
-              <textarea class="db border-box w-100 vh-25" name="accessibility-requirements" id="accessibility-requirements"></textarea>
+            <label for="accessibility-requirements" class="db f5 pt3">Are there any accessibility requirements we need to be aware of?</label>
+            <textarea class="db border-box w-100 vh-25" name="accessibility-requirements" id="accessibility-requirements"></textarea>
 
-              <label for="accessibility-better" class="db f5 pt3">Was there anything we could have done better to make the application more accessible?</label>
-              <textarea class="db border-box w-100 vh-25" name="accessibility-better" id="accessibility-better"></textarea>
-
-            </fieldset>
+            <label for="accessibility-better" class="db f5 pt3">Was there anything we could have done better to make the application more accessible?</label>
+            <textarea class="db border-box w-100 vh-25" name="accessibility-better" id="accessibility-better"></textarea>
 
             <label for="where-heard" class="db f5 pt3">Where did you hear about this opportunity?</label>
             <select name="where-heard" id="where-heard">
