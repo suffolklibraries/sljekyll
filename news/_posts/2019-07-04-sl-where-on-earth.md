@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "'Where on Earth are you?' Post your summer read selfies this summer"
+title: "'Where on Earth are you?' Post your summer reading selfies this summer"
 date: 2019-07-04
 author: hannah-foulstone
 category: news
