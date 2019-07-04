@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Lesley’s Readers on BBC Radio Suffolk – book choice for August"
-date: 2019-05-02
+date: 2019-07-04
 author: alice-violett
 category: news
 excerpt: "This month Lesley will be discussing <cite>The Body in the Castle Well</cite>, by Martin Walker."
