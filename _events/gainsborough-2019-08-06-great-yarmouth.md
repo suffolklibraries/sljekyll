@@ -1,5 +1,5 @@
 ---
-name: "Summer family coach trip to Great Yarmouth"
+name: "Summer family coach trip to Great Yarmouth - FULLY BOOKED"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2019-08-06
@@ -9,6 +9,8 @@ event-ticket-price: 4 adult; £2 children; family ticket (max 2 adults) £10
 event-category: summer-holidays
 breadcrumb: y
 ---
+
+**This event is fully booked**
 
 Residents of IP3 (Gainsborough, Greenwich, Ravenswood & Nacton) are invited on a coach trip to Great Yarmouth, departing from the library at 8:30am and leaving Great Yarmouth at 6pm. Members of the Gainsborough Community People's Forum will be coming along to help you plan your day.
 
