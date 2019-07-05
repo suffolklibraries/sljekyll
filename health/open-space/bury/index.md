@@ -28,77 +28,77 @@ Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &ra
 
 <tr>
 <td>
-25.03.19
+08.07.19
 </td>
 
 <td>
-Group discussion with David & Mothers' Day card making
-</td>
-</tr>
-
-<tr>
-<td>
-01.04.19
-</td>
-
-<td>
-Chair aerobics with Jacqui
+Group discussion with David & complete evaluation forms
 </td>
 </tr>
 
 <tr>
 <td>
-08.04.19
+15.07.19
 </td>
 
 <td>
-Group discussion with David & icing/decorating buns and/or biscuits
-</td>
-</tr>
-
-<tr>
-<td>
-15.04.19
-</td>
-
-<td>
-Making Easter baskets with Cathie
+Creative writing with Cathie
 </td>
 </tr>
 
 <tr>
 <td>
-29.04.19
+22.07.19
 </td>
 
 <td>
-Group discussion with David & board games/dominoes/card games
-</td>
-</tr>
-
-<tr>
-<td>
-13.05.19
-</td>
-
-<td>
-Painting stones, shells and wood
+Group discussion with David & board games/card games/paper games
 </td>
 </tr>
 
 <tr>
 <td>
-20.05.19
+29.07.19
 </td>
 
 <td>
-Group discussion & colouring or drawing
+Walk to Abbey Gardens for ice creams (weather permitting)
 </td>
 </tr>
 
 <tr>
 <td>
-03.06.19
+05.08.19
+</td>
+
+<td>
+Poetry session - bring your favourite to share or write one!
+</td>
+</tr>
+
+<tr>
+<td>
+12.08.19
+</td>
+
+<td>
+Making papier-mâché hot air balloons
+</td>
+</tr>
+
+<tr>
+<td>
+19.08.19
+</td>
+
+<td>
+Group discussion & goal setting for the autumn
+</td>
+</tr>
+
+<tr>
+<td>
+02.09.19
 </td>
 
 <td>
@@ -108,41 +108,71 @@ Quiz with Jacqui
 
 <tr>
 <td>
-10.06.19
+09.09.19
 </td>
 
 <td>
-Walk to Abbey Gardens (weather permitting!)
-</td>
-</tr>
-
-<tr>
-<td>
-17.06.19
-</td>
-
-<td>
-Group discussion with David & creative writing with Cathie
+Making woolly pom poms
 </td>
 </tr>
 
 <tr>
 <td>
-24.06.19
+16.09.19
 </td>
 
 <td>
-Group discussion & flower arranging with Cathie
+Group discussion with David & number puzzles/sudoku
 </td>
 </tr>
 
 <tr>
 <td>
-01.07.19
+23.09.19
 </td>
 
 <td>
-Mindfulness exercises with Jacqui
+Mobility, balance, stretch & relaxation with Jacqui
+</td>
+</tr>
+
+<tr>
+<td>
+30.09.19
+</td>
+
+<td>
+Group discussion & stencilling
+</td>
+</tr>
+
+<tr>
+<td>
+07.10.19
+</td>
+
+<td>
+World Mental Health Day - guest speaker TBC
+</td>
+</tr>
+
+<tr>
+<td>
+14.10.19
+</td>
+
+<td>
+Decorate an old shoe!
+</td>
+</tr>
+
+<tr>
+<td>
+21.10.19
+</td>
+
+<td>
+Group discussion with David & painting by numbers
 </td>
 </tr>
 </table>
