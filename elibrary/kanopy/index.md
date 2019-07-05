@@ -6,7 +6,7 @@ breadcrumb: elibrary
 
 <div class="{% include /c/generic-panel.html %}">
 
-    <p>Kanopy will become available to Suffolk Libraries customers on Monday 15 July</p>.
+    <p>Kanopy will become available to Suffolk Libraries customers on Monday 15 July.</p>
 
 </div>
 
