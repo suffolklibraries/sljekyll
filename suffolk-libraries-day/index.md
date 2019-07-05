@@ -33,17 +33,45 @@ layout: blank
 
   </header>
 
+  <section class="ph2 ph3-ns pv3 bg-light-gray">
+
+    <div class="custom-max-width">
+
+      <h2 class="tc f4 f3-ns custom-lh-title mb4-l">Get involved!</h2>
+
+      <div class="flex-l">
+
+        <div class="w-50-l pr4-l">
+
+          <img class="db mb3 center ba bw3 b--white shadow-2" src="/images/sld/elmswell.jpg" alt="30 or so people on bikes in front of Elmswell Library">
+
+        </div>
+
+        <div class="w-50-l pl4-l">
+
+          <p class="mt0 measure center">Come along or help arrange an event at your local library. So far, staff and volunteers have planned an art exhibition and sale, family history open event, adult craft sessions, a sponsored spin cycle, a sponsored choir/flash mob, a sponsored read, an author book signing, live music and cake sales&hellip;</p>
+
+          <p class="tc"><a href="/libraries" class="pa2 ba br2 b--moon-gray bg-blue hover-bg-dark-blue white pointer shadow-3">Contact your library &rarr;</a></p>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
   <section class="ph2 ph3-ns pv3 bg-white">
 
     <div class="custom-max-width">
 
-      <h2 class="tc f4 f3-ns custom-lh-title">The Book Journey Challenge</h2>
+      <h2 class="tc f4 f3-ns custom-lh-title mb4-l">The Book Journey Challenge</h2>
 
       <p class="measure center mb4">In the lead-up to Suffolk Libraries Day (7-12 October), we’ve challenged ourselves to send a book by a local author to all 44 of our libraries, from Bungay to Haverhill. The book will cover a total distance of 323.9 miles!</p>
 
       <figure class="ma0 pv2">
 
-        <img class="db center mv4" src="/images/sld/sld-map.jpg" alt="Map of book's route across Suffolk">
+        <img class="db center mv4 ba b--light-gray br2 shadow-2" src="/images/sld/sld-map.jpg" alt="Map of book's route across Suffolk">
 
         <figcaption><p class="f6 custom-lh-title tc">The book will visit all 44 of Suffolk’s libraries</p></figcaption>
 
