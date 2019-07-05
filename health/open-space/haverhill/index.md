@@ -28,37 +28,17 @@ Running order: tea/coffee &rarr; informal discussion topic or activity &rarr; te
 
 <tr>
 <td>
-24.05.19
+12.07.19
 </td>
 
 <td>
-Cherry blossom tree making
-</td>
-</tr>
-
-<tr>
-<td>
-31.05.19
-</td>
-
-<td>
-Board games
+Walk - you decide where!
 </td>
 </tr>
 
 <tr>
 <td>
-07.06.19
-</td>
-
-<td>
-Drumming from Jo Streeton from Pringle
-</td>
-</tr>
-
-<tr>
-<td>
-14.06.19
+19.07.19
 </td>
 
 <td>
@@ -68,17 +48,117 @@ Mosaic art
 
 <tr>
 <td>
-21.06.19
+26.07.19
 </td>
 
 <td>
-Favourite music and instrument making - tell us your favourite song!
+Importance of a good sleep routine - activities and discussion
 </td>
 </tr>
 
 <tr>
 <td>
-28.06.19
+02.08.19
+</td>
+
+<td>
+Quiz
+</td>
+</tr>
+
+<tr>
+<td>
+09.08.19
+</td>
+
+<td>
+What is anxiety - activities and discussion led by Karen
+</td>
+</tr>
+
+<tr>
+<td>
+16.08.19
+</td>
+
+<td>
+Rooted in History - activities revolving around the history of Haverhill with Hannah Salisbury
+</td>
+</tr>
+
+<tr>
+<td>
+23.08.19
+</td>
+
+<td>
+5 ways to wellbeing led by Karen
+</td>
+</tr>
+
+<tr>
+<td>
+30.08.19
+</td>
+
+<td>
+Design a postcard to your future self
+</td>
+</tr>
+
+<tr>
+<td>
+06.09.19
+</td>
+
+<td>
+Make a collage of the perfect day
+</td>
+</tr>
+
+<tr>
+<td>
+13.09.19
+</td>
+
+<td>
+Make a positivity/accomplishment jar
+</td>
+</tr>
+
+<tr>
+<td>
+20.09.19
+</td>
+
+<td>
+How music affects our mood - discussion and instrument making
+</td>
+</tr>
+
+<tr>
+<td>
+27.09.19
+</td>
+
+<td>
+Health quiz
+</td>
+</tr>
+
+<tr>
+<td>
+04.10.19
+</td>
+
+<td>
+Drumming demonstration with Jo Streeton (TBC)
+</td>
+</tr>
+
+<tr>
+<td>
+11.10.19
 </td>
 
 <td>
