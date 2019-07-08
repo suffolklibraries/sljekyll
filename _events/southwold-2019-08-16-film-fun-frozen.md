@@ -1,9 +1,9 @@
 ---
-name: "Kidz Film Fun: <cite>Paddington 2</cite>"
+name: "Kidz Film Fun: <cite>Frozen</cite>"
 location: southwold-library
 location-text: Southwold Library
 event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, Southwold, IP18 6JP"
-event-start-date: 2019-07-26
+event-start-date: 2019-08-16
 event-start-time: 1030
 event-end-time: 1300
 event-ticket-price: 3 for one child and up to two carers
@@ -11,6 +11,6 @@ event-category: summer-holidays
 breadcrumb: y
 ---
 
-Children are invited to bring their bears to watch <cite>Paddington 2</cite> (2017), make a luggage tag, suitcase and Paddington mask or roll, and try a marmalade sandwich or Paddington cupcake.
+Children are invited to watch <cite>Frozen</cite> (2013), make a sparkly crown or Olaf hat, snow globe and paper snowflakes, create and eat their own sweet or savoury edible Olaf and try some <cite>Frozen</cite> jelly and biscuits.
 
 Under 8s must be accompanied by an adult.
