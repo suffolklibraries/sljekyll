@@ -195,7 +195,7 @@ layout: blank
 
                 </td>
               </tr>
-              <tr class="">
+              <tr class="bg-light-gray">
                 <td class="pa2 ba b--moon-gray">
                   Leiston - Aldeburgh
                 </td>
@@ -209,10 +209,10 @@ layout: blank
                   12pm - 12:30pm (0.5 hours)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-
+                  East of England Co-op - 'Sourced locally' van
                 </td>
               </tr>
-              <tr class="">
+              <tr class="bg-light-gray">
                 <td class="pa2 ba b--moon-gray">
                   Aldeburgh - Wickham Market
                 </td>
@@ -226,7 +226,7 @@ layout: blank
                   12:30pm - 2:30pm (2 hours)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-
+                  East of England Co-op - 'Sourced locally' van
                 </td>
               </tr>
               <tr class="bg-light-gray">
