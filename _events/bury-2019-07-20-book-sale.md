@@ -1,10 +1,10 @@
 ---
-name: "Book sale"
+name: "Friends of Bury Library book sale"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
 event-start-date: 2019-07-20
 event-start-time: 1000
-event-end-time: 1300e
+event-end-time: 1300
 breadcrumb: y
 ---
 
