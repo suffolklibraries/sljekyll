@@ -10,4 +10,4 @@ breadcrumb: y
 
 Learn how illness was treated and prevented during the medieval period in this fascinating talk from Joy Hawkins.
 
-Ticket price includes light refreshments and a class of wine.
+Ticket price includes light refreshments and a glass of wine.
