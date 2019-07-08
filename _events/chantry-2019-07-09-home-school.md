@@ -1,5 +1,5 @@
 ---
-name: "Home schooling: what would you find useful?"
+name: "Home education: what would you find useful?"
 location: chantry-library
 location-text: Chantry Library
 event-start-date: 2019-07-09

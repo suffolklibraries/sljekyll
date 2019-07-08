@@ -1,5 +1,5 @@
 ---
-name: "Top Time: Meet the Author: Stella Bowling"
+name: "Top Time: Meet the Author: Callista Bowright"
 location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2019-08-01
@@ -10,7 +10,7 @@ event-ticket-price: 1
 breadcrumb: y
 ---
 
-Author Stella Bowling will be at the library talking about her book <cite>The Sixth of September</cite>, co-written with Alicia Wright under the name Callista Bowright:
+Author Callista Bowright will be at the library talking about her book <cite>The Sixth of September</cite>:
 
 > "As Olivia grows up within a simple Lancashire background, her traumatic childhood experiences propel her on a painful path that eventually moulds her into a tough, beautiful fighter.
 
