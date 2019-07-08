@@ -3,7 +3,7 @@ name: "St Elizabeth Care Agency stand"
 location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2019-07-16
-event-start-time: 1000
+event-start-time: 1100
 event-end-time: 1600
 breadcrumb: y
 ---
