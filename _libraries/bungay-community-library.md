@@ -1,7 +1,7 @@
 ---
 branch-unique-id: bungay-community-library
 branch-name: Bungay Community Library
-branch-image: /images/branches/bungay-community-library.jpg
+branch-image: /images/branches/bungay-library.jpg
 branch-monday-hours: 0900 – 1430
 branch-tuesday-hours:	0900 – 1700
 branch-wednesday-hours: 0900 – 1700
