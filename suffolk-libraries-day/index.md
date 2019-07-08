@@ -123,6 +123,12 @@ layout: blank
 
         <div class="w-40-ns w-20-l pv3">
 
+            <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.eastofengland.coop/"><img class="db" src="/images/featured/featured-east-of-england-co-op.jpg" alt="East of England Co-op"></a>
+
+        </div>
+
+        <div class="w-40-ns w-20-l pv3">
+
             <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.eocharging.com/"><img class="db" src="/images/featured/featured-eo.png" alt="EO"></a>
 
         </div>
