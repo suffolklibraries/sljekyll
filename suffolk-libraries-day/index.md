@@ -51,7 +51,7 @@ layout: blank
 
           <p class="mt0 measure center">Come along or help arrange an event at your local library. So far, staff and volunteers have planned an art exhibition and sale, family history open event, adult craft sessions, a sponsored spin cycle, a sponsored choir/flash mob, a sponsored read, an author book signing, live music and cake sales&hellip;</p>
 
-          <p class="tc"><a href="mailto:suffolklibrariesday@suffolklibraries.co.uk" class="custom-icon-email-white--button pa2 pl3 ba br2 b--moon-gray bg-blue hover-bg-dark-blue white pointer shadow-3">Contact us &rarr;</a></p>
+          <p class="tc"><a href="mailto:suffolklibrariesday@suffolklibraries.co.uk" class="pa2 ba br2 b--moon-gray bg-blue hover-bg-dark-blue white pointer shadow-3"><span class="custom-icon-email-white">Contact us &rarr;</span></a></p>
 
         </div>
 
