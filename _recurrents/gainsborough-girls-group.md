@@ -1,9 +1,6 @@
 ---
 recurrent-title: "Girls' group: have fun and build your self-esteem"
 recurrent-description: '<ul class="f6 ma0">
-                        <li>24 June: Cooking</li>
-                        <li>1 July: Sound studio & voice recording</li>
-                        <li>8 July: Sound studio & voice recording</li>
                         <li>15 July: Movie night</li>
                         <li>22 July: Outing - location tbc</li>
                         </ul>'
