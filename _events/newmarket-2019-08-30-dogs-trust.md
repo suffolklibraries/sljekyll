@@ -2,7 +2,7 @@
 name: "Stories and crafts from the Dogs Trust: for under-12s"
 location: newmarket-library
 location-text: Newmarket Library
-event-start-date: 2019-07-30
+event-start-date: 2019-08-30
 event-start-time: 1330
 event-end-time: 1500
 event-category: summer-holidays
