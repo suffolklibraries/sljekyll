@@ -43,7 +43,7 @@ layout: blank
 
         <div class="w-50-l pr4-l">
 
-          <img class="db mb3 center ba bw3 b--white shadow-2" src="/images/sld/elmswell.jpg" alt="30 or so people on bikes in front of Elmswell Library">
+          <img class="db mb3 center ba bw3 b--white shadow-2 border-box" src="/images/sld/elmswell.jpg" alt="30 or so people on bikes in front of Elmswell Library">
 
         </div>
 
@@ -51,7 +51,7 @@ layout: blank
 
           <p class="mt0 measure center">Come along or help arrange an event at your local library. So far, staff and volunteers have planned an art exhibition and sale, family history open event, adult craft sessions, a sponsored spin cycle, a sponsored choir/flash mob, a sponsored read, an author book signing, live music and cake sales&hellip;</p>
 
-          <p class="tc"><a href="mailto:suffolklibrariesday@suffolklibraries.co.uk" class="pa2 ba br2 b--moon-gray bg-blue hover-bg-dark-blue white pointer shadow-3">Contact us &rarr;</a></p>
+          <p class="tc"><a href="mailto:suffolklibrariesday@suffolklibraries.co.uk" class="custom-icon-email-white--button pa2 pl3 ba br2 b--moon-gray bg-blue hover-bg-dark-blue white pointer shadow-3">Contact us &rarr;</a></p>
 
         </div>
 
