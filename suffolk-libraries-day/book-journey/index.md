@@ -569,7 +569,7 @@ layout: blank
                   Hughes Electrical - Van
                 </td>
               </tr>
-              <tr class="">
+              <tr class="bg-light-gray">
                 <td class="pa2 ba b--moon-gray">
                   Lavenham - Great Cornard
                 </td>
@@ -583,7 +583,7 @@ layout: blank
                   10am - 11am (1 hour)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-
+                  Suffolk Family Carers - Triumph motorbike
                 </td>
               </tr>
               <tr class="bg-light-gray">
