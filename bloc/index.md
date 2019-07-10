@@ -34,11 +34,11 @@ layout: blank
 
           </div>
 
-          <video class="mw-100 h-auto db ma0 pa0 bg-black" controls poster="/videos/bloc-front-vid.jpg">
+          <video class="mw-100 h-auto db ma0 pa0 bg-black" controls poster="/videos/bloc-first-light-cover.jpg">
 
-              <source src="/videos/bloc-front-page.webm" type="video/webm">
-              <source src="/videos/bloc-front-page.mp4" type="video/mp4">
-              <p>Your browser doesn't support this video. Instead, you can <a href="/videos/bloc-front-page.webm">watch the video</a> in a video player.</p>
+              <source src="/videos/bloc-first-light.webm" type="video/webm">
+              <source src="/videos/bloc-first-light.mp4" type="video/mp4">
+              <p>Your browser doesn't support this video. Instead, you can <a href="/videos/bloc-first-light.webm">watch the video</a> in a video player.</p>
 
           </video>
 

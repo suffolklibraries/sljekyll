@@ -29,8 +29,5 @@ breadcrumb: y
 branch-borrowing-ereaders-and-ipads: an iPad for use in the library only
 branch-other-facilities: '<a href="/news/move-it/">Move It sports equipment available to borrow</a>'
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, older people's activities, sports equipment."
-branch-news: '<ul>
-              <li>Saxmundham Library will be closing at 1pm today (Tuesday 9 July).</li>
-              <li>Saxmundham Library is looking for <a href="/volunteer/home-library-service/">Home Library Service volunteers</a>.</li>
-              </ul>'
+branch-news: 'Saxmundham Library is looking for <a href="/volunteer/home-library-service/">Home Library Service volunteers</a>.'
 ---
