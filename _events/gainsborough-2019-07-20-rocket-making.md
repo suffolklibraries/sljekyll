@@ -1,5 +1,5 @@
 ---
-name: "Kinestic science rocket making workshop for ages 8+"
+name: "Kinetic science rocket making workshop for ages 8+"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2019-07-20
