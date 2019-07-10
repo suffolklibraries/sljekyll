@@ -26,7 +26,7 @@ breadcrumb: events
 
         <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/summer-holidays/summer-activities/">Summer holiday activities</a></h1>
 
-        <a class="custom-force-white" href="/events-activities/summer-holidays/summer-activities/"><img src="/images/featured/arts-crafts.jpg" class="custom-constrain-img" alt="Children making crafts at Gainsborough Community Library"></a>
+        <a class="custom-force-white" href="/events-activities/summer-holidays/summer-activities/"><img src="/images/featured/arts-crafts-370.jpg" class="custom-constrain-img" alt="Children making crafts at Gainsborough Community Library"></a>
 
         <p class="{% include /c/block-graf.html %}">One-off events for children and families in our libraries over the summer holidays.</p>
 
