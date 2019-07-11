@@ -41,3 +41,5 @@ If you are interested, please send a CV and supporting statement outlining what 
 As users of the disability confident scheme, we guarantee to interview all disabled applicants who meet the minimum criteria for the vacancy.
 
 The closing date for applications is **Friday 9 August 2019**. Interviews will be held on **Wednesday 4 September 2018**.
+
+If you are invited to an interview, you will need to bring along some [documents to verify your identity](/about/jobs/verification-of-identity/).

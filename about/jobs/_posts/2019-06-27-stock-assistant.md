@@ -31,3 +31,5 @@ The rate of pay is &pound;16,441.51 pro rata.
 If you are interested, please send a CV and supporting statement outlining what you could bring to this position and Suffolk Libraries to: **recruitment@suffolklibraries.co.uk**
 
 The closing date for applications is **Friday 12 July 2019**. Interviews will be held on **Wednesday 24 July 2019**.
+
+If you are invited to an interview, you will need to bring along some [documents to verify your identity](/about/jobs/verification-of-identity/).

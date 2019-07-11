@@ -28,127 +28,137 @@ Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &ra
 
 <tr>
 <td>
-10.04.19
+17.07.19
 </td>
 
 <td>
-Guest speaker
-</td>
-</tr>
-
-<tr>
-<td>
-17.04.19
-</td>
-
-<td>
-Easter card making
+Guest speaker: Luke from West Suffolk College
 </td>
 </tr>
 
 <tr>
 <td>
-24.04.19
+24.07.19
 </td>
 
 <td>
-Discussion with Sara
-</td>
-</tr>
-
-<tr>
-<td>
-01.05.19
-</td>
-
-<td>
-Bingo
+Making dream catchers/gods' eyes
 </td>
 </tr>
 
 <tr>
 <td>
-08.05.19
+31.07.19
 </td>
 
 <td>
-Biscuit decorating
-</td>
-</tr>
-
-<tr>
-<td>
-15.05.19
-</td>
-
-<td>
-Scrapbooking/collaging
+Guest speaker: Laura from Suffolk Carers Matter + bingo
 </td>
 </tr>
 
 <tr>
 <td>
-22.05.19
+07.08.19
 </td>
 
 <td>
-Discussion with Sara
-</td>
-</tr>
-
-<tr>
-<td>
-29.05.19
-</td>
-
-<td>
-Worry dolls
+Picnic at Severals Field / Mindfulness colouring at the library
 </td>
 </tr>
 
 <tr>
 <td>
-05.06.19
+14.08.19
 </td>
 
 <td>
-Board games
-</td>
-</tr>
-
-<tr>
-<td>
-12.06.19
-</td>
-
-<td>
-Fathers' Day card making
+Guest speaker: Hannah, local history expert
 </td>
 </tr>
 
 <tr>
 <td>
-19.06.19
+21.08.19
 </td>
 
 <td>
-Discussion with Sara
-</td>
-</tr>
-
-<tr>
-<td>
-26.06.19
-</td>
-
-<td>
-Summer fruits tea
+Making corner bookmarks
 </td>
 </tr>
 
 <tr>
 <td>
-03.07.19
+28.08.19
+</td>
+
+<td>
+Discussion with Sara from NSFT
+</td>
+</tr>
+
+<tr>
+<td>
+04.09.19
+</td>
+
+<td>
+Group general knowledge game
+</td>
+</tr>
+
+<tr>
+<td>
+11.09.19
+</td>
+
+<td>
+Mindfulness colouring
+</td>
+</tr>
+
+<tr>
+<td>
+18.09.19
+</td>
+
+<td>
+Board games & Pictionary
+</td>
+</tr>
+
+<tr>
+<td>
+25.09.19
+</td>
+
+<td>
+Discussion with Sara from NSFT
+</td>
+</tr>
+
+<tr>
+<td>
+02.10.19
+</td>
+
+<td>
+Making scrapbooks
+</td>
+</tr>
+
+<tr>
+<td>
+09.10.19
+</td>
+
+<td>
+Mindfulness colouring
+</td>
+</tr>
+
+<tr>
+<td>
+16.10.19
 </td>
 
 <td>
