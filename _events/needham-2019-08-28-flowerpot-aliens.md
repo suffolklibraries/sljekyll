@@ -2,7 +2,7 @@
 name: "Children's crafts: Flowerpot aliens"
 location: needham-market-library
 location-text: Needham Market Library
-event-start-date: 2019-08-14
+event-start-date: 2019-08-28
 event-start-time: 1400
 event-end-time: 1700
 event-category: summer-holidays
