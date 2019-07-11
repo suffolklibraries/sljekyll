@@ -38,7 +38,7 @@ Ashley Shorey-Mills, general manager of Hughes Smart, said: “Hughes are suppor
 
 "The work Suffolk Libraries do in engaging with their local communities and offering services that go way beyond just books is fantastic, and so when we heard about this event, we knew we wanted to be involved as much as we could. Suffolk is an incredible place, and it’s going to amazing to see the support from the people of Suffolk as this book travels across the county."
 
-Andy Wood, CEO of Adnams PLC, added: "The writer Sidney Sheldon once wrote that Libraries store the energy that fuels the imagination. They open up windows to the world and inspire us to explore and achieve, and contribute to improving our quality of life. We totally agree and this is why we are proud to support Suffolk Libraries Day and the other great initiatives that support learning through our Adnams Community Trust."
+Andy Wood, CEO of Adnams PLC, added: "The writer Sidney Sheldon once wrote that Libraries store the energy that fuels the imagination. They open up windows to the world and inspire us to explore and achieve, and contribute to improving our quality of life. We totally agree and this is why we are proud to support Suffolk Libraries Day and the other great initiatives which support learning through our Adnams Community Trust."
 
 Suffolk Libraries Day activities across the county confirmed so far include a sponsored readathon at a local school, a children’s disco, a sponsored walk/bike ride between Saxmundham, Leiston and Aldeburgh libraries, a photography competition, a Lego building session and a battle of the bands event.
 
