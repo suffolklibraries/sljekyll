@@ -17,9 +17,14 @@ layout: blank
 
           <div class="w-50-ns pr3-ns mb3">
 
-            <p class="f4 f3-ns">BLOC LABS are week-long mixed media artist residencies held in libraries across Suffolk.</p>
+            <p class="f4 f3-ns mb1 pb1 bb b--washed-yellow">BLOC LABS are mixed media artist residencies and events held in libraries across Suffolk.</p>
 
-            <p class="ma0"><a class="yellow no-underline underline-hover" href="/bloc/artists/hadleigh-lab">Artist applications open for Summer BLOC Lab at Hadleigh Library &rarr;</a></p>
+            <ul class="ma0 pa0 list f5">
+
+              <li><a class="pv1 yellow no-underline underline-hover" href="/bloc/artists/hadleigh-lab">Summer BLOC Lab at Hadleigh Library &rarr;</a></li>
+              <li><a class="pv1 yellow no-underline underline-hover" href="/bloc/artists/creative-tech">Creative Tech 3 Day Intensive for young artists at Ipswich County Library &rarr;</a></li>
+
+            </ul>
 
           </div>
 
