@@ -8,4 +8,6 @@ event-category: bloc
 breadcrumb: y
 ---
 
-Applications for artists open in June 2019.
+We are inviting local artists to come and use Hadleigh Library as a work space to explore the role creativity plays as catalyst for nurturing confidence and wellbeing in the community.
+
+[Find out more and apply &rarr;](/bloc/artists/hadleigh-lab/)
