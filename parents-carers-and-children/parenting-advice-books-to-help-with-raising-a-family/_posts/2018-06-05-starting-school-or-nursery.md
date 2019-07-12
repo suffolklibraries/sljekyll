@@ -17,6 +17,12 @@ meta-description: "Books to help children starting nursery or reception know wha
 
 </div>
 
+## [<cite>Let's Go To Nursery!</cite>, by Caryl Hart & Lauren Tobia](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2405773)
+
+> "It's Billy and Bee's very first day and, at the start, they feel a little shy. But soon they find out there are games to be played, friends to be made, and songs to be sung.
+
+> "A reassuring introduction to nursery that will ignite discussion and help very young children tackle all kinds of new experiences."
+
 ## [<cite>I'm Starting Nursery</cite>, by Marion Cocklico](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2408594)
 
 > "A practical and fun first experiences book for toddlers about starting nursery - with parent and carer tips."
@@ -24,6 +30,44 @@ meta-description: "Books to help children starting nursery or reception know wha
 ## [<cite>Alfie at Nursery School</cite>, by Shirley Hughes](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2411369)
 
 > "Alfie loves Nursery School - and so does Annie Rose. She can't wait to go there with him - in fact she's so desperate to join in that she gets Alfie into a very sticky situation in this collection of nursery school tales. Join Alfie as he navigates playground games and special concerts in this heartwarming book."
+
+## [<cite>I Am Too Absolutely Small for School</cite>, by Lauren Child](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=466309)
+
+> "Although Lola agrees with her brother that it would be useful to learn how to write, read and count, she can't go to school because her invisible friend's too nervous to go. This title in the Charlie and Lola series deals sympathetically with children's fears surrounding the first day at school."
+
+## [<cite>Going to School</cite>, by Rose Blake](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2408069)
+
+> "Explore a day in the life of a little girl at school in this book that takes you from breakfast to bedtime. Meet her classmates and try to spot what each friend is up to in every lesson throughout the book. Can you guess what they want to be when they grow up?
+
+> "This book provides a gentle introduction to the school day for little ones, with an unfolding visual narrative that young children will have fun making out for themselves."
+
+## [<cite>My First Day</cite>, by Amber Stewart & Layn Marlow](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2360394)
+
+> "Puddle is a little duckling. He's not sure he's ready for his first day at school. In fact he's really worried. But Mummy packs enough love and support into his school bag to carry him through the day."
+
+## [<cite>Little Owl's First Day</cite>, by Debi Gliori & Alison Brown](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2408567)
+
+> "It's a big day for Little Owl. His first day at school. Little Owl doesn't want a big day though. He'd rather stay at home and have fun with Mummy and Baby Owl. But at school he gets to build a rocket, learn to fly and even make a tiny new friend. Maybe big days spent with friends can be lots of fun after all!"
+
+## [<cite>Miffy at School</cite>, by Dick Bruna](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1646255)
+
+> "Join Miffy at school, where she learns to draw, write, read and sing. But Miffy's favourite thing is when the teacher reads the class a story."
+
+## [<cite>Prince George goes to School</cite>, by Caryl Hart & Laura Ellen Anderson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2407263)
+
+> "Prince George is starting school! There will be new faces, new friends, lots of new things to learn - as well as new challenges, like taking turns! How will the young royal enjoy his latest epic adventure?"
+
+## [<cite>Stanley's School</cite>, by William Bee](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2405800)
+
+> "It's another busy day for Stanley and friends. At Stanley's School, Little Woo, Sophie, and Benjamin enjoy storytime, playtime, measuring, and painting - all in one day!"
+
+## [<cite>Whiffy Wilson, the wolf who wouldn't go to school</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1789760)
+
+> "Whiffy Wilson doesn't know how to hold a pen and has never looked in a book, but fortunately his friend Dotty is on hand to show him that school is fun. Soon, Whiffy is in his element, and when he gets a gold star for all his work he realises that school is the best thing ever!"
+
+## [<cite>How To Get Your Teacher Ready For School</cite>, by Jean Reagan & Lee Wildish](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2393780)
+
+> "Follow a class of adorable students as they make sure their teacher is ready all year round. Written in a tongue-in-cheek instructional style, this book is a playful and heartwarming celebration of teachers and school, and an empowering book to help calm back-to-school nerves!"
 
 ## [<cite>Mr Men go to School</cite>, by Adam & Roger Hargreaves](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2396371)
 
@@ -72,12 +116,6 @@ meta-description: "Books to help children starting nursery or reception know wha
 ## [<cite>Starting School</cite>, by Janet & Allan Ahlberg](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1393497)
 
 > "A classic picture book which offers advice and enjoyment for the whole family before school starts. From first day nerves to finding your peg, this reassuring read is full of humour and fun for children and parents alike."
-
-## [<cite>Starting School</cite>, by Clara Vulliamy](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=431419)
-
-> "It's an exciting morning on Sugar Lump Lane. The ten Tinies are getting ready for a big adventure - their first day at school! But the Tiny twins aren't so sure they like the idea - they'd rather stay at home.
-
-> "This is a story about first day at school worries, told with warmth and humour."
 
 ## [<cite>Never Take a Bear to School</cite>, by Mark Sperring & Britta Teckentrup](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2187601)
 
