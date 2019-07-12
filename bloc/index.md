@@ -98,9 +98,9 @@ layout: blank
 
         <div class="custom-max-width">
 
-            <h2 class="f4 f3-ns custom-lh-title mb2 white">BLOC Artist Residencies and Creative Intensive summer 2019: Applications open</h2>
+            <h2 class="f4 f3-ns custom-lh-title mb2 white">Calling all artists</h2>
 
-            <p class="measure">We're holding our next mixed-media artist residency at Hadleigh Library between Aug 12-16, while there's a 3 day Creative Tech Intensive for young artists at Ipswich County Library between Aug 28-30. If you're an artist interested in taking part, <a href="/bloc/artists/" class="lightest-blue underline hover-white">find out more about our summer LAB and Intensive</a>.</p>
+            <p class="measure">We're holding our next <strong>mixed-media artist residency at Hadleigh Library</strong> between Aug 12-16, while there's a <strong>3 day Creative Tech Intensive for young artists at Ipswich County Library</strong> between Aug 28-30. <br><a href="/bloc/artists/" class="lightest-blue underline hover-white">Apply to take part in our Artist Residency or Creative Tech Intensive &rarr;</a></p>
 
         </div>
 

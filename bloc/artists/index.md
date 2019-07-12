@@ -82,9 +82,14 @@ layout: blank
 
         <h2 class="f3 custom-lh-title dark-red">BLOC LABS</h2>
 
-        <p class="f4 measure mb0">BLOC LABS are week-long mixed media artist residencies in libraries across Suffolk.</p>
+        <p class="f4 measure mb0">BLOC LABS are mixed media artist residencies and creative intensives in libraries across Suffolk. Artist applications open for:</p>
 
-        <p class="f4 measure mt0"><a href="/bloc/artists/hadleigh-lab" class="blue">Artist applications open for summer LAB at Hadleigh Library</a>.</p>
+        <ul class="measure">
+
+          <li class="measure mt0"><a href="/bloc/artists/hadleigh-lab" class="blue underline-hover pv1">Summer LAB at Hadleigh Library</a></li>
+          <li class="measure mt0"><a href="/bloc/artists/hadleigh-lab" class="blue underline-hover pv1">3 day Creative Tech Intensive for young artists at Ipswich County Library</a></li>
+
+        </ul>
 
         {% assign special-event-check = false %}
 
@@ -114,11 +119,9 @@ layout: blank
 
                   <article class="mb4">
 
-                      <h3 class="f4 custom-lh-title ma0 pa0">{{ event.name }}</h3>
+                      <h3 class="f4 custom-lh-title ma0 pa0"><a href="{{ event.url }}" class="blue underline-hover">{{ event.name }}</a></h3>
 
                       <p class="mt1 mb0 f5 mid-gray">{% if event.event-end-date %}<span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-end-time }}</span>, <a class="blue underline-hover" href="/libraries/{{ event.location }}/">{{ event.location-text }}</a>{% else %}<span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>, <a class="blue underline-hover" href="/libraries/{{ event.location }}/">{{ event.location-text }}</a>{% endif %}</p>
-
-                      <p class="ma0">{{ event.content | strip_html }}</p>
 
                   </article>
 
