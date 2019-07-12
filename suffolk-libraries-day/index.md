@@ -15,7 +15,7 @@ layout: blank
 
   <header class="bg-lightest-blue bb b--light-gray tc ph2 ph3-ns pv3 pv4-ns custom-bg-woodbridge cover">
 
-    <div class="measure center">
+    <div class="measure-narrow center">
 
       <div class="bg-navy white pa2 ph3-ns o-90">
 
@@ -25,7 +25,7 @@ layout: blank
 
         <p class="mt0"><time>12 October 2019</time></p>
 
-        <p class="f4 f3-ns mb4">Show your support for our libraries by sponsoring special fundraising events taking place across all 44 branches.</p>
+        <p class="f4 f3-ns mb4">Love your library? Support special fundraising events taking place across all 44 branches.</p>
 
       </div>
 
