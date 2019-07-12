@@ -6,6 +6,7 @@ event-start-date: 2019-08-01
 event-start-time: 1100
 event-end-time: 1200
 event-ticket-price: free
+event-category: summer-holidays
 breadcrumb: y
 ---
 
