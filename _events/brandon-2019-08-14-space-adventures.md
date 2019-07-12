@@ -3,8 +3,8 @@ name: "Space adventures: for 4-11 year-olds"
 location: brandon-library
 location-text: Brandon Library
 event-start-date: 2019-08-14
-event-doors-open: 1100
-event-start-time: 1300
+event-start-time: 1100
+event-end-time: 1300
 event-ticket-price: free
 event-category: summer-holidays
 breadcrumb: y
