@@ -155,7 +155,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="103">
-      1335 &#8211; 1350
+      1330 &#8211; 1345
     </td>
   </tr>
 
@@ -169,11 +169,11 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="169">
-      Redwold Close
+      Bridge Farm Day Nursery
     </td>
 
     <td valign="bottom" width="103">
-      1355 &#8211; 1410
+      1350 &#8211; 1420
     </td>
   </tr>
 
@@ -191,7 +191,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="103">
-      1420 &#8211; 1450
+      1430 &#8211; 1455
     </td>
   </tr>
 

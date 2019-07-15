@@ -36,7 +36,7 @@ Pamela Holmes, author of <cite>The Huntingfield Paintress</cite>, said: “I was
 
 Ashley Shorey-Mills, general manager of Hughes Smart, said: “Hughes are supporting the Suffolk Libraries Day book journey because we feel as a Suffolk company who started out in Lowestoft nearly 100 years ago, we need to support our local services.
 
-"The work Suffolk Libraries do in engaging with their local communities and offering services that go way beyond just books is fantastic, and so when we heard about this event, we knew we wanted to be involved as much as we could. Suffolk is an incredible place, and it’s going to amazing to see the support from the people of Suffolk as this book travels across the county."
+"The work Suffolk Libraries do in engaging with their local communities and offering services that go way beyond just books is fantastic, and so when we heard about this event, we knew we wanted to be involved as much as we could. Suffolk is an incredible place, and it’s going to be amazing to see the support from the people of Suffolk as this book travels across the county."
 
 Andy Wood, CEO of Adnams PLC, added: "The writer Sidney Sheldon once wrote that Libraries store the energy that fuels the imagination. They open up windows to the world and inspire us to explore and achieve, and contribute to improving our quality of life. We totally agree and this is why we are proud to support Suffolk Libraries Day and the other great initiatives which support learning through our Adnams Community Trust."
 

@@ -4,12 +4,6 @@ layout: sidebar-left
 breadcrumb: elibrary
 ---
 
-<div class="{% include /c/generic-panel.html %}">
-
-    <p>Kanopy will become available to Suffolk Libraries customers on Monday 15 July.</p>
-
-</div>
-
 Kanopy allows you to play 10 classic and indie films or documentaries per calendar month using your PC, mobile device or TV service. Once you press 'play' on a film, you have three days to watch it as many times as you like without using up additional credits.
 
 ## Setting up your device to watch films with Kanopy
