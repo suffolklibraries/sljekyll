@@ -654,7 +654,7 @@ layout: blank
                   Sue Baker - Unicorn
                 </td>
               </tr>
-              <tr class="">
+              <tr class="bg-light-gray">
                 <td class="pa2 ba b--moon-gray">
                   Bury St Edmunds - Brandon
                 </td>
@@ -668,7 +668,7 @@ layout: blank
                   2pm - 4pm (2 hours)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-
+                  Hughes Electrical staff - Sports car and fancy dress
                 </td>
               </tr>
               <tr class="bg-light-gray">
