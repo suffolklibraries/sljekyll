@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Lego Club, board games and table football"
+recurrent-title: "Lego Animation Club"
 recurrent-day: Monday
 recurrent-times: 1600-1800
 recurrent-location: gainsborough-community-library
