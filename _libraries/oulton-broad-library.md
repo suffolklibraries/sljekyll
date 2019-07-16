@@ -10,7 +10,7 @@ branch-thursday-hours: 1000 – 1300, 1400 – 1700
 branch-friday-hours: 1000 – 1300, 1400 – 1800
 branch-saturday-hours: 1000 – 1300, 1400 – 1700
 branch-sunday-hours: 1100 – 1600
-branch-address: Council Offices, 92 Bridge Road, Oulton Broad
+branch-address: 92 Bridge Road, Oulton Broad
 branch-post-code: NR32 3LR
 branch-tel: 01502 583135
 branch-friends: Friends of Oulton Broad Library
@@ -26,7 +26,6 @@ branch-photocopying: A4 available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/oulton-broad-library
 breadcrumb: y
-branch-news: 'Oulton Broad Library is looking for <a href="/volunteer/home-library-service/">Home Library Service volunteers</a>.'
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, Lego Club, older people's activities."
 branch-pride-and-periods: y
 ---
