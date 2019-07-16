@@ -1,5 +1,5 @@
 ---
-name: "ZooLab: for 3-11 year-olds"
+name: "ZooLab: for 3-11 year-olds - FULLY BOOKED"
 location: haverhill-library
 location-text: Haverhill Library
 event-start-date: 2019-08-07
@@ -8,6 +8,8 @@ event-ticket-price: 1
 event-category: summer-holidays
 breadcrumb: y
 ---
+
+**This event is now fully booked**
 
 3-11 year-olds are invited for an exciting encounter with ZooLab's small creatures!
 
