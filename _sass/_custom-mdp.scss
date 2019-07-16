@@ -35,6 +35,11 @@ a.custom-no-underline {
     text-decoration: none !important;
 }
 
+a.custom-no-underline-inherit {
+    border-bottom: inherit !important;
+    text-decoration: none !important;
+}
+
 // Allow moon gray borders around linked images
 a.custom-ba-moon-gray {
   border: 1px solid #CCC !important;
