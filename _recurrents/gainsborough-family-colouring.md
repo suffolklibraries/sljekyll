@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Family colouring group"
+recurrent-title: "Family colouring and Lego"
 recurrent-day: Saturday
 recurrent-times: 1130-1230 (1100-1300 during summer holidays)
 recurrent-location: gainsborough-community-library
