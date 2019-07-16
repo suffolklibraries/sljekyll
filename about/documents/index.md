@@ -19,7 +19,7 @@ Contact our marketing and communications manager for a full report: **james.powe
 
 ## 2020 Strategy
 
-[Suffolk Libraries 2020 Strategy: Our vision for the future](/assets/pdf/suffolk-libraries-2020-strategy-our-vision-for-the-future.pdf) (PDF)
+[Suffolk Libraries 2019-22 Strategy](/assets/pdf/suffolk-libraries-strategy-2019-22.pdf) (PDF)
 
 ## Board meeting minutes
 
