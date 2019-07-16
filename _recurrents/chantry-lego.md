@@ -1,7 +1,7 @@
 ---
 recurrent-title: "Lego Club"
 recurrent-description: "Contact the library for more details."
-recurrent-day: third Sunday of the month
+recurrent-day: Sundays 18 Aug, 15 Sep, 20 Oct, 17 Nov
 recurrent-times: 1100-1200
 recurrent-location: chantry-library
 recurrent-location-display-name: Chantry Library
