@@ -4,7 +4,7 @@ title: Library and information advisor, Bury St Edmunds Library
 category: jobs
 sidebar: about
 breadcrumb: jobs
-excerpt: "20.25 average hours per week, &pound;8.42 per hour, closing date Wed 7 August."
+excerpt: "20.25 average hours per week, &pound;8.42 per hour, closing date Wed 7 Aug."
 expiry-date: 2019-08-07
 ---
 
