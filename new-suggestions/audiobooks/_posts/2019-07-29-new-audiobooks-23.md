@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Recommended new audiobooks #23"
-date: 2019-07-24
+date: 2019-07-29
 author: sophie-green
 category: audiobooks
 excerpt: "Listen to top titles from Mick Herron, Elizabeth Gilbert, Victoria Hislop & more."

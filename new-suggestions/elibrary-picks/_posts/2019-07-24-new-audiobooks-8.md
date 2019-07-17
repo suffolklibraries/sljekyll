@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Recommended new eAudiobooks #8"
-date: 2019-07-24
+date: 2019-07-29
 author: sophie-green
 category: elibrary-picks
 tag: elibrary
