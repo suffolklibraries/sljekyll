@@ -1,5 +1,5 @@
 ---
-name: "Paella evening, auction and raffle"
+name: "Paella evening, auction and raffle - SOLD OUT"
 location: southwold-library
 location-text: Southwold Library
 event-alt-location: Stella Peskett Millennium Hall, Mights Road, Southwold, IP18 6BE
