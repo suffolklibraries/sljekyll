@@ -25,6 +25,7 @@ branch-parking: on-street parking only
 branch-bookdrop: y
 branch-refreshments: hot drinks for sale
 branch-which: y
+branch-news: "Closed 2-6pm Thu 18 July due to staff sickness."
 branch-for-sale: '<ul>
                   <li><a href="https://www.ticketsource.co.uk/suffolklibraries">Adopt a library animal</a>: online or by picking up a form from the library. Minimum £10 donation.</li>
                   <li>Crafts, Southwold and Suffolk Coast Treasure Trails sheets.</li>
