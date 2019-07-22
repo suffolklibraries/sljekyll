@@ -56,4 +56,4 @@ Where a serious complaint is not received through the email address or by phone,
 
 For the purposes of this policy, a 'serious complaint' is a complaint that cannot be immediately resolved by a member of staff and requires a direct response to the complainant from an ELM or senior manager.
 
-Complaints recorded through the problem management system are reviewed by the SLT at least every six months in order to identify any particular problems or patterns that may occur.
+Complaints recorded through the problem management system are reviewed by the Senior Leadership Team at least every six months in order to identify any particular problems or patterns that may occur.
