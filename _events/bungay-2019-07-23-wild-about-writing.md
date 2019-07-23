@@ -1,5 +1,5 @@
 ---
-name: "Dramatic Impact Wild About Writing workshop: for 7-13 year-olds"
+name: "Dramatic Impact Wild About Writing workshop: for 7-13 year-olds - POSTPONED"
 location: bungay-community-library
 location-text: Bungay Community Library
 event-start-date: 2019-07-23
@@ -9,6 +9,8 @@ event-category: summer-holidays
 event-ticket-price: free
 breadcrumb: y
 ---
+
+**This event has been postponed. Keep an eye out for a new date**
 
 Wild About Writing is a new writing competition for 7-13 year-olds. Write a story inspired by nature and you could win a £25 book token and see your work published in EADT <cite>Suffolk Magazine</cite>!
 
