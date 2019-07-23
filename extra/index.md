@@ -12,6 +12,6 @@ For this reason, we are placing a **temporary hold on any new members signing up
 
 All current Suffolk Libraries Extra members have been contacted about the review. Current members are welcome to renew their membership during the review period by visiting their [local library](/libraries/) or [phoning or emailing us](/contact/). You can also contact the membership team at **extra@suffolklibraries.co.uk** with any questions.
 
-Library users and members of the public can continue to [support Suffolk Libraries financially](/support-us/)  by making one-off, monthly or text donations.
+Individuals can continue to [support Suffolk Libraries financially](/support-us/)  by making one-off, monthly or text donations.
 
 <img class="db center" src="/images/featured/featured-extra-370.jpg" alt="Suffolk Libraries Extra logo">

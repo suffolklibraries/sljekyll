@@ -115,6 +115,12 @@ layout: blank
 
       </div>
 
+      <div class="w-40-ns w-20-l pv3">
+
+          <a class="db ba bw3 b--white pa2 pa3-ns" href="https://brittenpears.org/"><img class="db" src="/images/featured/featured-britten-pears.jpg" alt="Britten Pears Foundation"></a>
+
+      </div>
+
         <div class="w-40-ns w-20-l pv3">
 
             <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.careuk.com/"><img class="db" src="/images/featured/featured-care-uk.jpg" alt="Care UK"></a>
@@ -153,6 +159,12 @@ layout: blank
 
         <div class="w-40-ns w-20-l pv3">
 
+            <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.uos.ac.uk/content/ipswich-waterfront-innovation-centre-0"><img class="db" src="/images/featured/featured-ipswich-waterfront-innovation-centre.jpg" alt="Ipswich Waterfront Innovation Centre"></a>
+
+        </div>
+
+        <div class="w-40-ns w-20-l pv3">
+
             <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.larking-gowen.co.uk/"><img class="db" src="/images/featured/featured-mha-larking-gowen.jpg" alt="MHA Larking Gowen"></a>
 
         </div>
@@ -172,6 +184,12 @@ layout: blank
         <div class="w-40-ns w-20-l pv3">
 
             <a class="db ba bw3 b--white pa2 pa3-ns" href="https://scarlettandmustard.co.uk/"><img class="db" src="/images/featured/featured-scarlett-and-mustard.jpg" alt="Scarlett & Mustard"></a>
+
+        </div>
+
+        <div class="w-40-ns w-20-l pv3">
+
+            <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.uos.ac.uk/"><img class="db" src="/images/featured/featured-university-of-suffolk-2.jpg" alt="University of Suffolk"></a>
 
         </div>
 
