@@ -5,6 +5,7 @@ location-text: Chantry Library
 event-start-date: 2019-08-04
 event-start-time: 1030
 event-end-time: 1130
+event-category: summer-holidays
 breadcrumb: y
 ---
 
