@@ -26,7 +26,7 @@ branch-photocopying: available up to A3 size
 branch-colour-printing: available up to A4 size
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/felixstowe-library
-branch-other-facilities: 'Suffolk Coastal District Council customer services. Visit the <a href="http://www.eastsuffolk.gov.uk/contact-us/">Suffolk Coastal and Waveney Councils website</a> for opening times.'
+branch-other-facilities: 'East Suffolk Council customer services. Visit the <a href="http://www.eastsuffolk.gov.uk/contact-us/">East Suffolk Council website</a> for opening times.'
 breadcrumb: y
 branch-payments: cash, cheques and cards accepted
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, older people's activities, health & wellbeing groups."

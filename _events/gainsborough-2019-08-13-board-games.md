@@ -1,5 +1,5 @@
 ---
-name: "Family board games"
+name: "Family board games, Xbox, Wii, pool and table tennis"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2019-08-13
@@ -9,4 +9,4 @@ event-category: summer-holidays
 breadcrumb: y
 ---
 
-Beat summer holiday boredom with our selection of board games. Challenge your family and friends to an old favourite or try something new!
+Beat summer holiday boredom with our selection of games. Challenge your family and friends to an old favourite or try something new!
