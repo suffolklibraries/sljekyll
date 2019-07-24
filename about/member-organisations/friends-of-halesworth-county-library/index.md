@@ -127,7 +127,7 @@ Below is just a sample of the things we have achieved since we were established 
 * Exciting science activities with Kinetic Adventure in 2015, 2016, 2017 and 2018
 * A celebration of the 20th anniversary of the library's relocation to Bridge Street in 2016, featuring magic shows for children and adults
 * Popular quiz nights each spring and autumn
-* Monthly afternoon board games from October to June since 2015
+* Monthly afternoon board games from September to July (started in 2015)
 * Half-term and holiday activities for school-age children, including Christmas celebrations
 * Two visits from the Sutton Hoo Roadshow in late 2018
 * Plays from visiting groups including QuirkHouse and Spinning Wheel theatre companies and an in-house murder mystery
