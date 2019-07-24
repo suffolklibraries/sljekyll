@@ -98,7 +98,7 @@ Debut novel which comes highly recommended by Tessa Hadley.
 
 ## [<cite>The Man Who Saw Everything</cite>, by Deborah Levy](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2597437)
 
-Much-awaited new novel from the twice Booker-shortlisted author.
+Much-awaited new novel from the now three times Booker-shortlisted author.
 
 > "In 1989 Saul Adler (a narcissistic, young historian) is hit by a car on the Abbey Road. He is apparently fine; he gets up and goes to see his art student girlfriend, Jennifer Moreau. They have sex then break up, but not before she has photographed Saul crossing the same Abbey Road.
 

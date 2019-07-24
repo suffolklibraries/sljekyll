@@ -24,7 +24,7 @@ The prestigious Women's Prize for Fiction celebrates the best books by women eac
 
 > "But when first brother-in-law sniffs out her struggle, and rumours start to swell, middle sister becomes 'interesting'. The last thing she ever wanted to be. To be interesting is to be noticed and to be noticed is dangerous."
 
-## [<cite>My Sister, the Serial Killer</cite>, by Okinyan Braithwaite](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2487157)
+## [<cite>My Sister, the Serial Killer</cite>, by Oyinkan Braithwaite](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2487157)
 
 > "When Korede's dinner is interrupted one night by a distress call from her sister, Ayoola, she knows what's expected of her: bleach, rubber gloves, nerves of steel and a strong stomach. This'll be the third boyfriend Ayoola's dispatched in, quote, self-defence and the third mess that her lethal little sibling has left Korede to clear away. She should probably go to the police for the good of the menfolk of Nigeria, but she loves her sister and, as they say, family always comes first.
 
