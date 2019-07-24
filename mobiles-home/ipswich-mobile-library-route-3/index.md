@@ -3,6 +3,13 @@ layout: full-width-narrow
 title: Ipswich Mobile Library Route 3
 breadcrumb: mobiles-home
 ---
+
+<div class="{% include /c/generic-panel.html %}">
+
+    <p>Our mobile libraries are not running on Thursday 25 July due to extreme weather conditions.</p>
+
+</div>
+
 ## Contact us:
 
 Managers: Andrew Little and David Cook

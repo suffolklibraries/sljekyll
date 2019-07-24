@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Tot Rock"
-recurrent-description: "Songs and action rhymes for toddlers."
+recurrent-description: "Songs and action rhymes for toddlers. No session 25 July due to extreme weather conditions."
 recurrent-day: Thursday (library otherwise closed until 1430)
 recurrent-times: 0945-1015
 recurrent-location: kesgrave-library
