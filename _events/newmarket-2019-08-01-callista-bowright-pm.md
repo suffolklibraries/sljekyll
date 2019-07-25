@@ -1,5 +1,5 @@
 ---
-name: "Top Time: Meet the Author: Callista Bowright"
+name: "Top Time: Meet the Author: Callista Bowright - afternoon talk"
 location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2019-08-01

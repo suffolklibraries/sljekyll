@@ -19,7 +19,7 @@ genre-alt: "The Colour of Shadows"
 
 When Saffron discovers a shocking family secret that has been hidden from her for ten years, it shakes the very foundations of her life. Leaving home without a plan, she discovers herself and finds that the people who love her and come to her rescue are the ones she least expected.
 
-These include Tom. Where Saffron is bright, colourful (particularly orange!) and living on the very edge, Tom is mysterious, quiet, full of secrets and living in luxury. While Tom is hiding a heart-breaking secret, he will try to do anything for Saffron, even if it takes him a while to realise it.
+These include Tom. Where Saffron is bright, colourful (particularly orange!) and used to living in luxury, Tom is mysterious, quiet, full of secrets and living on the very edge of poverty. While Tom is hiding a heart-breaking secret, he will try to do anything for Saffron, even if it takes him a while to realise it.
 
 I loved <cite>The Colour of Shadows</cite>. It explores homelessness, extended families and loss, with the core messages not to make presumptions about the people who love and want to help you, and that 'God is a selfless act' towards others.
 
