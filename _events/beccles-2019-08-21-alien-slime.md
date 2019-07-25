@@ -2,7 +2,7 @@
 name: "Children's crafts: alien slime"
 location: beccles-library
 location-text: Beccles Library
-event-start-date: 2019-08-26
+event-start-date: 2019-08-21
 event-start-time: 1000
 event-end-time: 1100
 event-ticket-price: 2

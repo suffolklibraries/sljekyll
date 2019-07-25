@@ -1,5 +1,5 @@
 ---
-name: "Beach Bonkers - 2pm session"
+name: "Beach Bonkers - 2pm session - FULLY BOOKED"
 location: chantry-library
 location-text: Chantry Library
 event-start-date: 2019-07-26
@@ -9,6 +9,8 @@ event-category: summer-holidays
 event-ticket-price: 1
 breadcrumb: y
 ---
+
+**This event is fully booked**
 
 Find treasures in Beach Bonkers' mini-beach, handle amazing objects found on the beach, play the giant beachcombing board game, make some crafts and buy an ice cream to enjoy!
 
