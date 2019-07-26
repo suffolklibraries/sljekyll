@@ -4,7 +4,7 @@ layout: sidebar-left
 breadcrumb: elibrary
 ---
 
-Kanopy allows you to play 10 classic and indie films or documentaries per calendar month using your PC, mobile device or TV service. Once you press 'play' on a film, you have three days to watch it as many times as you like without using up additional credits.
+Kanopy allows you to play 10 classic and indie films or documentaries per calendar month using your PC, mobile device or TV service. Once you press 'play' on a standard film, you have three days to watch it as many times as you like without using up additional credits.
 
 ## Setting up your device to watch films with Kanopy
 
@@ -31,9 +31,10 @@ Kanopy allows you to play 10 classic and indie films or documentaries per calend
 
 ## Using Kanopy
 
-- You have 10 credits available per month to watch films. A credit is deducted once you've watched 10 seconds of a film, and then you can watch that film as many times as you like within 72 hours without paying additional credits.
-- Your allowance resets on the 1st of each month. You can see how many credits you have available in the top right-hand corner when logged in.
+- You have 10 credits available per month to watch films. Your allowance is reset on the first day of each month. You can see how many credits you have available in the top right-hand corner when logged in.
+- A credit is deducted once you've watched 10 seconds of a standard film, and then you can watch that film as many times as you like within 72 hours without paying additional credits.
+- If you play an episode of the Great Courses, you will have unlimited access to that entire course for 30 days without using additional play credits.
+- Parents can restrict their Kanopy account to only provide access to Kanopy Kids content. Select ‘Parental controls’ in the drop-down under your name in the top right-hand corner and follow the instructions to set up a 4-digit PIN. Once you've used one credit on a Kanopy Kids film, you have unlimited access to children's films for the next 30 days.
 - When you click on a film, you have the option to add it to 'My list' or click the play button and start watching. You can find the your list of saved films by choosing 'My Watchlist' from the drop-down menu under your name in the top right-hand corner.
-- Parents can restrict their Kanopy account to only provide access to Kanopy Kids content. Select ‘Parental controls’ in the drop-down under your name in the top right-hand corner and follow the instructions to set up a 4-digit PIN.
 - Add closed captions by clicking the ‘cc’ option at the bottom of the video
 - Increase or decrease speed of play by clicking ‘1x’ option at the bottom of the video
