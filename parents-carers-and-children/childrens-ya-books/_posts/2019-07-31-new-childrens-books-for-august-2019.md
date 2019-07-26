@@ -185,6 +185,16 @@ From the author of [<cite>The Dragon with a Chocolate Heart</cite>](https://suff
 
 Re-released to coincide with a new Netflix adaptation of the series coming this autumn.
 
+### [<cite>Cookie and the Most Annoying Boy in the World</cite>, by Konnie Huq](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2587644)
+
+First title in a new Wimpy Kid-style series about a science-mad British-Bangladeshi girl by the former <cite>Blue Peter</cite> presenter.
+
+> "Cookie's best friend in the whole world is moving to Solihull because one of her dads has a new job there. Solihull?! Where even is that?! Cookie begs her parents for a pet to fill the void but they have given her an absolute NO. It would be way too expensive and way too messy. But Cookie visits the pet shop anyway and sets her heart on the sweetest cutest kitteniest kitten ever: Bluey.
+
+> "But then - DISASTER! The most ANNOYING boy she's ever met in her entire nine years goes into the pet shop, buys Bluey and renames her Nigel! And then he joins her year at school! And if that wasn't bad enough, he moves in next door to her. AAAAGGGGHHHHH!
+
+> "But it's not all bad - Cookie gets the chance to go on her favourite TV show, Brainbusters. It's only a chance though - she'll have to win the school science competition first. It shouldn't be too hard - all she has to do is keep her head down, and not get too over-excited."
+
 ## Non-fiction
 
 ### [<cite>The Big Book of the UK: facts, folklore and fascinations from around the United Kingdom</cite>, by Imogen Russell Williams & Louise Lockhart](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2587669)
