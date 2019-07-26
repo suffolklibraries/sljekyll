@@ -43,6 +43,12 @@ title: "Summer Reading Challenge links"
 
       <p>This July, it’s 50 years since Neil Armstrong and Buzz Aldrin set foot on the Moon. We’ve picked out some brilliant books for younger children to mark the occasion.</p>
 
+      <h2 class="tc f4 f3-ns custom-lh-title mt4"><a href="/parents-carers-and-children/childrens-ya-books/spotlight-on-childrens-audiobooks/" class="blue no-underline underline-hover">Shake up your Summer Reading Challenge with our top children's CD and digital audiobooks</a></h2>
+
+      <img class="db center mv3 border-box ba bw3 b--light-gray shadow-2" src="/images/featured/featured-spotlight-on-childrens-audiobooks.jpg" alt="Five Children and It, The Light Jar">
+
+      <p>Did you know that audiobooks count towards the Summer Reading Challenge? Whether you've got a reluctant reader or are off on a road trip, we've got something for everyone.</p>
+
     </div>
 
   </div>
