@@ -583,7 +583,7 @@ layout: blank
                   10am - 11am (1 hour)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-                  Suffolk Family Carers - Triumph motorbike
+                  Suffolk Family Carers - Classic car or tandem with Edwardian costumes and handlebar moustache
                 </td>
               </tr>
               <tr class="bg-light-gray">

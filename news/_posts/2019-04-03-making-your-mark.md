@@ -14,9 +14,9 @@ The [Writing: Making your Mark exhibition](https://www.bl.uk/events/writing-maki
 
 The Suffolk exhibition will start at Ipswich County Library and then move on to Bury, Lowestoft and Felixstowe libraries, finishing at the end of August. Through images of carved stone inscriptions, medieval manuscripts and early printed works, the family-focused pop-up displays will span five millennia and five continents to deconstruct the act of writing and consider its future in the digital age. The exhibition dates for each library follow:
 
-* [Ipswich County Library: 26 April - 17 May](/events/ipswich-2019-04-26-writing-making-your-mark/)
-* [Bury St Edmunds Library: 31 May - 21 June](/events/bury-2019-05-31-writing-making-your-mark/)
-* [Lowestoft Library: 5 July - 26 July](/events/lowestoft-2019-07-05-writing-making-your-mark/)
+* Ipswich County Library: 26 April - 17 May
+* Bury St Edmunds Library: 31 May - 21 June
+* Lowestoft Library: 5 July - 26 July
 * [Felixstowe Library: 9 August - 27 August](/events/felixstowe-2019-08-09-writing-making-your-mark/)
 
 The exhibition is organised through the [Living Knowledge Network](https://www.bl.uk/projects/living-knowledge), an innovative partnership of public libraries working in collaboration with the British Library, the National Library of Scotland and the National Library of Wales. Suffolk Libraries is part of this network which shares resources, skills and ideas, promotes the enduring values of libraries, and aims to benefit the millions of people who use public libraries in the UK every day.

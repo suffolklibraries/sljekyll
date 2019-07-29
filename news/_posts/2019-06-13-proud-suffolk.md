@@ -32,7 +32,3 @@ This research shows that often the LGBTQA+ community do not always feel their en
 In the run-up to Suffolk Pride, Suffolk Libraries have been hosting various events to celebrate inclusivity and acceptance. Pantomime dame and storyteller Mama G has delivered children’s storytimes about ‘being who you are and loving who you want’ at many our libraries and is an advocate of Suffolk Pride and the library service. She said:
 
 "Suffolk libraries have been so welcoming, so inviting, it’s like walking into a big hug! All the librarians are so enthusiastic and I’ve seen all sorts of families of all sorts of shapes, sizes and varieties bringing their children to use these spaces. It just warms my heart."
-
-Mama G will be making a [special appearance at Ipswich County Library on Saturday 22 June](/events/ipswich-2019-06-22-mama-g/), the day of the Suffolk Pride parade.
-
-You can find out more about our Pride events, as well as LGBTQA+ reading ideas, on [our Pride 2019 webpage](/events-activities/pride/).

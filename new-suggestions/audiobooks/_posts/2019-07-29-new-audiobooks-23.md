@@ -12,7 +12,7 @@ breadcrumb: audiobooks
 
 ![City of Girls, Redemption](/images/featured/featured-audiobooks-23.jpg)
 
-[Check out our latest eAudiobooks &rarr;](/new-suggestions/elibrary-picks/new-eaudiobooks-8/)
+[Check out our latest eAudiobooks &rarr;](/new-suggestions/elibrary-picks/new-audiobooks-8/)
 
 ## [<cite>Joe Country</cite>, by Mick Herron, read by Sean Barrett](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2616427)
 
