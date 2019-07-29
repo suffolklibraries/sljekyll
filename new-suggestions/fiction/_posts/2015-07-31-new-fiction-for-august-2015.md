@@ -63,10 +63,6 @@ Senior investigator Cassie Dewell inquires into local drug trafficking in this t
 
 Business meets pleasure when Tremaine St. Michael negotiates fancy sheep with Lady Nita.
 
-## [![Betrayed in Cornwall (Rose Trevelyan Series, Book 4) by Janie Bolitho](/images/article/betrayed-in-cornwall.jpg)](http://suffolklibraries.lib.overdrive.com/65939961-F610-44CC-89DC-559DA6BE8146/10/50/en/ContentDetails.htm?id=EB11AFFF-4295-45E6-8CC1-CF8B9E2D6F50)
-
-Rose Trevelyan seeks out the truth when a man falls off a cliff in this mystery.
-
 ## [<cite>The No. 2 Feline Detective Agency (Hettie Bagshot Mystery Series, Book 1)</cite> by Mandy Morton](http://suffolklibraries.lib.overdrive.com/65939961-F610-44CC-89DC-559DA6BE8146/10/50/en/ContentDetails.htm?id=AA55E9C2-BB1A-4B96-B150-9E1730BFD1BD) (eBook)
 
 [![The No. 2 Feline Detective Agency (Hettie Bagshot Mystery Series, Book 1) by Mandy Morton](/images/article/the-no2-feline-detective-agency.jpg)](http://suffolklibraries.lib.overdrive.com/65939961-F610-44CC-89DC-559DA6BE8146/10/50/en/ContentDetails.htm?id=AA55E9C2-BB1A-4B96-B150-9E1730BFD1BD)

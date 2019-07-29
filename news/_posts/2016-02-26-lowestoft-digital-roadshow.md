@@ -21,7 +21,7 @@ The [Kano Computer Kit](https://kano.me/store/uk) is a small but powerful comput
 
 ![A laptop with coding program on screen](/images/article/congratulations-on-completing-one-hour-of-code.jpg)
 
-The final session looked at one of the fantastic coding websites linked to the [BBC Make It Digital](http://www.bbc.co.uk/makeitdigital) campaign. Using the free [Hour of Code](https://code.org/learn) from [Code.org](https://code.org), pupils worked independently to program droids, build a Minecraft world and even create their own Flappy Bird game.
+The final session looked at one of the fantastic coding websites linked to the BBC Make It Digital campaign. Using the free [Hour of Code](https://code.org/learn) from [Code.org](https://code.org), pupils worked independently to program droids, build a Minecraft world and even create their own Flappy Bird game.
 
 Feedback about the roadshow from the young people was universally positive with one pupil commenting, “I really enjoyed today because I learnt something new and had fun”, and another stating that “I would really like to get my own 3D printer to do stuff with!”. Teaching staff also commented that pupils had used literacy skills throughout the day by reading what were at times quite complex instructions both in print and online.
 
