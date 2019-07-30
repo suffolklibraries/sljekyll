@@ -52,7 +52,7 @@ Making dream catchers/gods' eyes
 </td>
 
 <td>
-Guest speaker: Laura from Suffolk Carers Matter + bingo
+Bingo
 </td>
 </tr>
 
