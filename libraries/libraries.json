@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [0.623191, 52.446679]
+  },
+  "properties": {
+    "library": "Brandon Library",
+    "address": "Bury Road, Brandon, IP27 0BQ",
+    "telephone": "01842 773390",
+    "website": "http://suffolklibraries.co.uk/libraries/brandon-library/",
+    "manager": "Mathew Sheldrick"
+  }
+}
