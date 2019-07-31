@@ -15,7 +15,7 @@ layout: blank
 
       <p class="f2-ns measure">A spacious, modern meeting space in the heart of Ipswich. 3 large meeting rooms, presentation equipment, internet access, refreshments and air conditioning.</p>
 
-      <p><span class="mid-gray">Contact:</span> <strong>hub@suffolklibraries.co.uk</strong> / 01473 351249</p>
+      <p><span class="mid-gray">Contact:</span> <strong>hub@suffolklibraries.co.uk</strong> / 01473 351249 / <a href="https://www.linkedin.com/company/suffolk-libraries/">Follow Suffolk Libraries on LinkedIn</a></p>
 
       <div class="flex-ns flex-wrap-ns">
 
