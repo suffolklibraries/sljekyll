@@ -28,36 +28,6 @@ Running order: tea/coffee &rarr; informal discussion topic or activity &rarr; te
 
 <tr>
 <td>
-12.07.19
-</td>
-
-<td>
-Walk - you decide where!
-</td>
-</tr>
-
-<tr>
-<td>
-19.07.19
-</td>
-
-<td>
-Mosaic art
-</td>
-</tr>
-
-<tr>
-<td>
-26.07.19
-</td>
-
-<td>
-Importance of a good sleep routine - activities and discussion
-</td>
-</tr>
-
-<tr>
-<td>
 02.08.19
 </td>
 
@@ -102,7 +72,7 @@ Rooted in History - activities revolving around the history of Haverhill with Ha
 </td>
 
 <td>
-Design a postcard to your future self
+Daisy Driver visits with information about annual health checks / Design a postcard to your future self
 </td>
 </tr>
 
