@@ -1,6 +1,6 @@
 ---
 recurrent-title: 'Scratch coding club: for children aged 8+'
-recurrent-description: "Term-time only. Join the waiting list by contacting Julie Shepherd at the library."
+recurrent-description: "Term-time only, resumes 14 September. Join the waiting list by contacting Julie Shepherd at the library."
 recurrent-day: every other Saturday
 recurrent-times: 1030-1200
 recurrent-location: eye-library
