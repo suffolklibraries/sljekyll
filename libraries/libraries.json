@@ -1,14 +1,804 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [0.623191, 52.446679]
-  },
-  "properties": {
-    "library": "Brandon Library",
-    "address": "Bury Road, Brandon, IP27 0BQ",
-    "telephone": "01842 773390",
-    "website": "http://suffolklibraries.co.uk/libraries/brandon-library/",
-    "manager": "Mathew Sheldrick"
-  }
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.14169,
+                    52.069472
+                ]
+            },
+            "properties": {
+                "library": "Broomhill Library (formerly Westbourne)",
+                "address": "Sherrington Road, Ipswich, IP1 4HT",
+                "telephone": "01473 749929",
+                "website": "http://suffolklibraries.co.uk/libraries/broomhill-library/",
+                "manager": "David Cook"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.049365,
+                    52.003899
+                ]
+            },
+            "properties": {
+                "library": "Capel St Mary Library",
+                "address": "Village Hall, The Street, Capel St Mary, IP9 2EP",
+                "telephone": "01473 311699",
+                "website": "http://suffolklibraries.co.uk/libraries/capel-st-mary-library/",
+                "manager": "Jackie Harman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.180128,
+                    52.228479
+                ]
+            },
+            "properties": {
+                "library": "Debenham Library",
+                "address": "Sir Robert Hitcham CEVAP Primary School, Debenham, Stowmarket, IP14 6PL",
+                "telephone": "01728 861940",
+                "website": "http://suffolklibraries.co.uk/libraries/debenham-library",
+                "manager": "Maureen John"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.749676,
+                    52.025218
+                ]
+            },
+            "properties": {
+                "library": "Great Cornard Library",
+                "address": "Thomas Gainsborough School (formerly known as the Upper School), Head Lane, Great Cornard, CO10 0JU",
+                "telephone": "01787 315195",
+                "website": "http://suffolklibraries.co.uk/libraries/great-cornard-library/",
+                "manager": "Heather Welch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.95464,
+                    52.042495
+                ]
+            },
+            "properties": {
+                "library": "Hadleigh Library",
+                "address": "29 High Street, Hadleigh, IP7 5AG",
+                "telephone": "01473 823778",
+                "website": "http://suffolklibraries.co.uk/libraries/hadleigh-library/",
+                "manager": "Sarah Hunt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.832319,
+                    52.297346
+                ]
+            },
+            "properties": {
+                "library": "Ixworth Library",
+                "address": "Village Hall, High Street, Ixworth, IP31 2HH",
+                "telephone": "01359 231493",
+                "website": "http://suffolklibraries.co.uk/libraries/ixworth-library/",
+                "manager": "Cathy McDonald"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.48774,
+                    52.089501
+                ]
+            },
+            "properties": {
+                "library": "Kedington Library",
+                "address": "Community Centre, Arms Lane, Kedington, CB9 7QQ",
+                "telephone": "01440 703449",
+                "website": "http://suffolklibraries.co.uk/libraries/kedington-library/",
+                "manager": "Dawn Bamford"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.237658,
+                    52.061509
+                ]
+            },
+            "properties": {
+                "library": "Kesgrave Library",
+                "address": "Kinsey House, Kays Close, Kesgrave, IP5 2HL",
+                "telephone": "01473 626103",
+                "website": "http://suffolklibraries.co.uk/libraries/kesgrave-library/",
+                "manager": "Maggie Lusher"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.72013,
+                    52.419081
+                ]
+            },
+            "properties": {
+                "library": "Kessingland Library",
+                "address": "Marram Green, Hall Road, Kessingland, NR33 7AH",
+                "telephone": "01502 741212",
+                "website": "http://suffolklibraries.co.uk/libraries/kessingland-library/",
+                "manager": "Sandra Knights"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.520397,
+                    52.414964
+                ]
+            },
+            "properties": {
+                "library": "Lakenheath Library",
+                "address": "65 High Street, Lakenheath, IP27 9DS",
+                "telephone": "01842 860723",
+                "website": "http://suffolklibraries.co.uk/libraries/lakenheath-library/",
+                "manager": "Chris Howard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.793349,
+                    52.105161
+                ]
+            },
+            "properties": {
+                "library": "Lavenham Library",
+                "address": "Lavenham Village Hall, Church Street, Lavenham, CO10 9QT",
+                "telephone": "01787 247729",
+                "website": "http://suffolklibraries.co.uk/libraries/lavenham-library/",
+                "manager": "Elise Hardy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.575756,
+                    52.20801
+                ]
+            },
+            "properties": {
+                "library": "Leiston Library",
+                "address": "Old Post Office Square, Main Street, Leiston, IP16 4ER",
+                "telephone": "01728 831252",
+                "website": "http://suffolklibraries.co.uk/libraries/leiston-library/",
+                "manager": "Gayla Rowling"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.518974,
+                    52.345482
+                ]
+            },
+            "properties": {
+                "library": "Mildenhall Library",
+                "address": "Chestnut Close, Mildenhall, IP28 7NL",
+                "telephone": "01638 713558",
+                "website": "http://suffolklibraries.co.uk/libraries/mildenhall-library/",
+                "manager": "Denise Gray"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.405162,
+                    52.244885
+                ]
+            },
+            "properties": {
+                "library": "Newmarket Library",
+                "address": "1a the Guineas, Newmarket, CB8 8EQ",
+                "telephone": "01638 661216",
+                "website": "http://suffolklibraries.co.uk/libraries/newmarket-library/",
+                "manager": "Kate Ashton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.181368,
+                    52.051312
+                ]
+            },
+            "properties": {
+                "library": "Rosehill Library",
+                "address": "Tomline Road, Ipswich, IP3 8DB",
+                "telephone": "01473 719279",
+                "website": "http://suffolklibraries.co.uk/libraries/rosehill-library/",
+                "manager": "Kate Byford"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.493277,
+                    52.216519
+                ]
+            },
+            "properties": {
+                "library": "Saxmundham Library",
+                "address": "County Offices, Street Farm Road, Saxmundham, IP17 1AL",
+                "telephone": "01728 652440",
+                "website": "http://suffolklibraries.co.uk/libraries/saxmundham-library/",
+                "manager": "Liz Gleave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.675865,
+                    52.329424
+                ]
+            },
+            "properties": {
+                "library": "Southwold Library",
+                "address": "North Green, Southwold, IP18 6AT",
+                "telephone": "01502 722519",
+                "website": "http://suffolklibraries.co.uk/libraries/southwold-library/",
+                "manager": "Charlotte Clark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.997104,
+                    52.187837
+                ]
+            },
+            "properties": {
+                "library": "Stowmarket Library",
+                "address": "Milton Road, Stowmarket, IP14 1EX",
+                "telephone": "01449 613143",
+                "website": "http://suffolklibraries.co.uk/libraries/stowmarket-library/",
+                "manager": "Ursula Scott"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.272487,
+                    52.318902
+                ]
+            },
+            "properties": {
+                "library": "Stradbroke Library",
+                "address": "Court House, Queens Street, Stradbroke, IP21 5HG",
+                "telephone": "01379 384768",
+                "website": "http://suffolklibraries.co.uk/libraries/stradbroke-library/",
+                "manager": "Maureen John"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.811039,
+                    52.254088
+                ]
+            },
+            "properties": {
+                "library": "Thurston Library",
+                "address": "Thurston Community College, Thurston, Bury St Edmunds, IP31 3PB",
+                "telephone": "01359 235048",
+                "website": "http://suffolklibraries.co.uk/libraries/thurston-library/",
+                "manager": "Cathy McDonald"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.696763,
+                    52.251448
+                ]
+            },
+            "properties": {
+                "library": "West Suffolk House Library",
+                "address": "Main reception, West Suffolk House, Western Way, Bury St Edmunds, IP33 3YU",
+                "telephone": "01284 763233",
+                "website": "http://suffolklibraries.co.uk/libraries/west-suffolk-house-library/",
+                "manager": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.364574,
+                    52.152064
+                ]
+            },
+            "properties": {
+                "library": "Wickham Market Library",
+                "address": "Resource Centre, Chapel Lane, Wickham Market, IP13 0SD",
+                "telephone": "01728 747216",
+                "website": "http://suffolklibraries.co.uk/libraries/wickham-market-library/",
+                "manager": "Lisa Sanders"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.148701,
+                    52.042694
+                ]
+            },
+            "properties": {
+                "library": "Stoke Library",
+                "address": "Maidenhall Approach, Ipswich, IP2 8PL",
+                "telephone": "01473 681751",
+                "website": "http://suffolklibraries.co.uk/libraries/stoke-library/",
+                "manager": "Charmain Osborne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.252343,
+                    51.969029
+                ]
+            },
+            "properties": {
+                "library": "Shotley (Suffolk Libraries Local)",
+                "address": "Shotley Village Hall, The Street, Shotley, Ipswich, IP9 1LX",
+                "telephone": "",
+                "website": "https://www.suffolklibraries.co.uk/libraries/shotley/",
+                "manager": "Tom Veasey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.595279,
+                    52.155656
+                ]
+            },
+            "properties": {
+                "library": "Aldeburgh Library",
+                "address": "Victoria Road, Aldeburgh, IP15 5EG",
+                "telephone": "01728 452502",
+                "website": "http://suffolklibraries.co.uk/libraries/aldeburgh-library/",
+                "manager": "Sue Osben"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.666274,
+                    52.099454
+                ]
+            },
+            "properties": {
+                "library": "Glemsford Library",
+                "address": "11 Tye Green, Glemsford, Sudbury CO10 7RH",
+                "telephone": "01787 281803",
+                "website": "http://suffolklibraries.co.uk/libraries/glemsford-library/",
+                "manager": "Sue Baker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.182875,
+                    52.067038
+                ]
+            },
+            "properties": {
+                "library": "Rushmere (Suffolk Libraries Local)",
+                "address": "Ransomes Sports Pavilion, 23 Sidegate Avenue, Ipswich",
+                "telephone": "",
+                "website": "https://www.suffolklibraries.co.uk/rushmere/",
+                "manager": "Tom Veasey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.623721,
+                    52.44662
+                ]
+            },
+            "properties": {
+                "library": "Brandon Library",
+                "address": "Bury Road, Brandon, IP27 0BQ",
+                "telephone": "01842 773390",
+                "website": "http://suffolklibraries.co.uk/libraries/brandon-library/",
+                "manager": "Mathew Sheldrick"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.730068,
+                    52.038034
+                ]
+            },
+            "properties": {
+                "library": "Sudbury Library",
+                "address": "Market Hill, Sudbury, CO10 2EN",
+                "telephone": "01787 321595",
+                "website": "http://suffolklibraries.co.uk/libraries/sudbury-library/",
+                "manager": "Gareth Lewry"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.711413,
+                    52.248085
+                ]
+            },
+            "properties": {
+                "library": "Bury St Edmunds Library",
+                "address": "Sergeants Walk, St Andrews Street North, Bury St Edmunds, IP33 1TZ",
+                "telephone": "01284 338830",
+                "website": "http://suffolklibraries.co.uk/libraries/bury-st-edmunds-library/",
+                "manager": "Neil Holmes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.317671,
+                    52.093739
+                ]
+            },
+            "properties": {
+                "library": "Woodbridge Library",
+                "address": "New Street, Woodbridge, IP12 1DT",
+                "telephone": "01394 330855",
+                "website": "http://suffolklibraries.co.uk/libraries/woodbridge-library/",
+                "manager": "Helen Scrivener"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.350759,
+                    51.963432
+                ]
+            },
+            "properties": {
+                "library": "Felixstowe Library",
+                "address": "Crescent Road, Felixstowe, IP11 7BY",
+                "telephone": "01394 330850",
+                "website": "http://suffolklibraries.co.uk/libraries/felixstowe-library/",
+                "manager": "Steph Merrett"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.182821,
+                    52.034092
+                ]
+            },
+            "properties": {
+                "library": "Gainsborough Community Library",
+                "address": "Clapgate Lane, Ipswich, IP3 0RL",
+                "telephone": "01473 927270",
+                "website": "http://suffolklibraries.co.uk/libraries/gainsborough-community-library/",
+                "manager": "Mandy Grimwood"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.156518,
+                    52.058836
+                ]
+            },
+            "properties": {
+                "library": "Ipswich County Library",
+                "address": "Northgate Street, Ipswich, IP1 3DE",
+                "telephone": "01473 927260",
+                "website": "http://suffolklibraries.co.uk/libraries/ipswich-county-library/",
+                "manager": "Marion Harvey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.565693,
+                    52.456299
+                ]
+            },
+            "properties": {
+                "library": "Beccles Library",
+                "address": "Blyburgate, Beccles, NR34 9TB",
+                "telephone": "01502 442820",
+                "website": "http://suffolklibraries.co.uk/libraries/beccles-library/",
+                "manager": "Annaliese Matheron-Avery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.58004,
+                    52.079162
+                ]
+            },
+            "properties": {
+                "library": "Clare Library",
+                "address": "The Guildhall, High Street, Clare, CO10 8NY",
+                "telephone": "01787 277702",
+                "website": "http://suffolklibraries.co.uk/libraries/clare-library/",
+                "manager": "Karla Greenwood"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.913565,
+                    52.23493
+                ]
+            },
+            "properties": {
+                "library": "Elmswell Library",
+                "address": "Memorial Library, Cooks Road, Elmswell, IP30 9BX",
+                "telephone": "01359 240974",
+                "website": "http://suffolklibraries.co.uk/libraries/elmswell-library/",
+                "manager": "Zoe Clark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.342924,
+                    52.222636
+                ]
+            },
+            "properties": {
+                "library": "Framlingham Library",
+                "address": "The Old Court House, Bridge Street, Framlingham, IP13 9BA",
+                "telephone": "01728 723735",
+                "website": "http://suffolklibraries.co.uk/libraries/framlingham-library/",
+                "manager": "Stella Houlihan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.71599,
+                    52.075605
+                ]
+            },
+            "properties": {
+                "library": "Long Melford Library",
+                "address": "United Reform Church Room, Hall Street, Long Melford, CO10 9JT",
+                "telephone": "01787 377525",
+                "website": "http://suffolklibraries.co.uk/libraries/long-melford-library/",
+                "manager": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.750475,
+                    52.476871
+                ]
+            },
+            "properties": {
+                "library": "Lowestoft Library",
+                "address": "Clapham Road South, Lowestoft, NR32 1DR",
+                "telephone": "01502 674660",
+                "website": "http://suffolklibraries.co.uk/libraries/lowestoft-library/",
+                "manager": "Jo Wilde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.051679,
+                    52.152266
+                ]
+            },
+            "properties": {
+                "library": "Needham Market Library",
+                "address": "School Street, Needham Market, IP6 8BB",
+                "telephone": "01449 720780",
+                "website": "http://suffolklibraries.co.uk/libraries/needham-market-library/",
+                "manager": "Donna Grand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.120438,
+                    52.044135
+                ]
+            },
+            "properties": {
+                "library": "Chantry Library",
+                "address": "Hawthorn Drive, Ipswich, IP2 0QY",
+                "telephone": "01473 927275",
+                "website": "http://suffolklibraries.co.uk/libraries/chantry-library/",
+                "manager": "Vicki Mann"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.145209,
+                    52.320962
+                ]
+            },
+            "properties": {
+                "library": "Eye Library",
+                "address": "6 Cross Street, Eye, IP23 7AB",
+                "telephone": "01379 870515",
+                "website": "http://suffolklibraries.co.uk/libraries/eye-library/",
+                "manager": "Julie Shepard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.501877,
+                    52.345031
+                ]
+            },
+            "properties": {
+                "library": "Halesworth Library",
+                "address": "Bridge Street, Halesworth, IP19 8AD",
+                "telephone": "01986 875095",
+                "website": "http://suffolklibraries.co.uk/libraries/halesworth-library/",
+                "manager": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.436114,
+                    52.082809
+                ]
+            },
+            "properties": {
+                "library": "Haverhill Library",
+                "address": "Camps Road, Haverhill, CB9 8HB",
+                "telephone": "01440 848095",
+                "website": "http://suffolklibraries.co.uk/libraries/haverhill-library/",
+                "manager": "Audrey Woodley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.439897,
+                    52.454071
+                ]
+            },
+            "properties": {
+                "library": "Bungay Community Library",
+                "address": "Wharton Street, Bungay, NR35 1EL",
+                "telephone": "01986 892748",
+                "website": "http://suffolklibraries.co.uk/libraries/bungay-community-library/",
+                "manager": "Amanda King"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.712353,
+                    52.475587
+                ]
+            },
+            "properties": {
+                "library": "Oulton Broad Library",
+                "address": "92 Bridge Road, Oulton Broad, NR32 3LR",
+                "telephone": "01502 583135",
+                "website": "http://suffolklibraries.co.uk/libraries/oulton-broad-library/",
+                "manager": "Jane Rothon"
+            }
+        }
+    ]
 }
