@@ -50,27 +50,21 @@
 
         const infoWindow = new google.maps.InfoWindow();
 
-        this.map.data.addListener('click', event => {
+        this.map.data.addListener('click', function(event) {
             const library = event.feature.getProperty('library');
             const address = event.feature.getProperty('address');
             const telephone = event.feature.getProperty('telephone');
             const website = event.feature.getProperty('website');
             const manager = event.feature.getProperty('manager');
             const position = event.feature.getGeometry().get();
-            const content = `
-                Library: <strong>${library}</strong><br />
-                Address: <strong>${address}</strong><br />
-                Phone no: <strong>${telephone}</strong><br />
-                Website: <strong><a href='${website}'>${website}</a></strong><br />
-                Manager: <strong>${manager}</strong>
-            `;
+            const content = 'Library: <strong>' + library + '</strong><br />Address: <strong>' + address + '</strong><br />Phone no: <strong>' + telephone + '</strong><br />Website: <strong><a href=' + website + '>' + website + '</a></strong><br />Manager: <strong>' + manager + '</strong>';
             infoWindow.setContent(content);
             infoWindow.setPosition(position);
             infoWindow.setOptions({pixelOffset: new google.maps.Size(0, -32)});
             infoWindow.open(this.map);
         });
 
-        this.map.data.setStyle(_ => {
+        this.map.data.setStyle(function() {
             return {
                 icon: {
                     url: 'http://maps.google.com/mapfiles/ms/icons/purple-dot.png'
