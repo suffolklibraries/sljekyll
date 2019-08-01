@@ -10,3 +10,5 @@ breadcrumb: y
 ---
 
 We've been inspired by [<cite>The Cosmic Atlas of Alfie Fleet</cite>, by Martin Howard](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2519398). Children and families are invited to hear the story and help us create a lost planet for the library!
+
+Please wear suitable clothing as we'll be using paints and glue.
