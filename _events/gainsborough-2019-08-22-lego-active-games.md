@@ -1,5 +1,5 @@
 ---
-name: "Family board games"
+name: "Lego & active games"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2019-08-22
@@ -9,4 +9,4 @@ event-category: summer-holidays
 breadcrumb: y
 ---
 
-Beat summer holiday boredom with our selection of board games. Challenge your family and friends to an old favourite or try something new!
+Feeling uninspired or cooped up during the holidays? Come along to the library and play with our Lego or get moving with some games.
