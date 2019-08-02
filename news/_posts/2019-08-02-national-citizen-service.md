@@ -7,10 +7,10 @@ category: news
 excerpt: "This week, a group of twelve National Citizen Service volunteers assisted with services and activities at Ipswich County Library and learned about the many things the library offers."
 breadcrumb: news
 featured-image: /images/featured/featured-ncs.jpg
-featured-alt: "Ipswich County Library manager Marion Harvey and assistant manager Charmain Osborne with National Citizen Service volunteers"
+featured-alt: "Ipswich County Library assistant manager Charmain Osborne (left) and manager Marion Harvey with National Citizen Service volunteers"
 ---
 
-{% include /c/figure.html src="/images/featured/featured-ncs.jpg" alt="Ipswich County Library manager Marion Harvey and assistant manager Charmain Osborne with National Citizen Service volunteers" caption="Ipswich County Library manager Marion Harvey and assistant manager Charmain Osborne with National Citizen Service volunteers" %}
+{% include /c/figure.html src="/images/featured/featured-ncs.jpg" alt="Ipswich County Library assistant manager Charmain Osborne (left) and manager Marion Harvey with National Citizen Service volunteers" caption="Ipswich County Library assistant manager Charmain Osborne (left) and manager Marion Harvey with National Citizen Service volunteers" %}
 
 This week (29 July-2 August), a group of twelve [National Citizen Service](https://www.ncsyes.co.uk/) volunteers assisted with services and activities at [Ipswich County Library](/libraries/ipswich-county-library/) and learned about the many things the library offers.
 
