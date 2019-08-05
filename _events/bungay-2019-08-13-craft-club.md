@@ -1,5 +1,5 @@
 ---
-name: "Craft club: make glowstick alien bag"
+name: "Craft club: make a glowstick alien bag"
 location: bungay-community-library
 location-text: Bungay Community Library
 event-start-date: 2019-08-13

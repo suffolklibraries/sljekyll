@@ -1,5 +1,5 @@
 ---
-name: "Poster and podcast workshop from Volunteering MattersL for girls aged 8-16"
+name: "Poster and podcast workshop from Volunteering Matters: for girls aged 8-16"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2019-08-19
