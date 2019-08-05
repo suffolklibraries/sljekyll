@@ -158,7 +158,7 @@
 
           <div class="pt2 pt3-ns">
 
-            <p class="lh-copy mt2 mb3"><a id="find_me" class="custom-no-underline ba b--light-silver br2 custom-force-dark-gray bg-moon-gray pv2 ph3 pointer" href="#map-instructions"><span class="custom-icon-location-white">Use my current location &rarr;</span></a></p>
+            <p class="lh-copy mt0 mb3"><button type="button" id="find_me" class="custom-no-underline ba b--light-silver br2 custom-force-dark-gray bg-moon-gray pv2 ph3 pointer" href="#map-instructions"><span class="custom-icon-location-white">Use my current location &rarr;</span></button></p>
 
             <p class="ma0">Or:</p>
 
@@ -183,7 +183,7 @@
 
         <div class="mb3">
 
-          <a id="search-button" class="dib mr1 custom-no-underline ba b--light-silver br2 custom-force-dark-gray bg-moon-gray pv2 ph3 pointer" href="#map-instructions">Search</a>
+          <button type="button" id="search-button" class="dib mr1 custom-no-underline ba b--light-silver br2 custom-force-dark-gray bg-moon-gray pv2 ph3 pointer" href="#map-instructions">Search</button>
           <a id="reset" class="dib f6 mr1 custom-no-underline pv1 blue" href="#map-instructions">Reset map</a>
 
         </div>
@@ -1496,7 +1496,7 @@
 
 
 
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyCzv2ep-hLeNxtPLTejxwBYmqZgXbE6faE&sensor=false&libraries=places"></script>
+<script src="https://maps.google.com/maps/api/js?key=AIzaSyCzv2ep-hLeNxtPLTejxwBYmqZgXbE6faE&sensor=false&libraries=places,geometry"></script>
 
 
 
@@ -1516,7 +1516,6 @@
 
             $(function() {
               var myMap = new MapsLib({
-                fusionTableId:      "1VaywTis_CDTsYqkFwVnCW3ZJ66mWSvEpapopkIZ3",
                 googleApiKey:       "AIzaSyCzv2ep-hLeNxtPLTejxwBYmqZgXbE6faE",
                 locationColumn:     "Address",
                 map_center:         [52.188902, 0.997712],
