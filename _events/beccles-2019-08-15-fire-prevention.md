@@ -1,5 +1,5 @@
 ---
-name: "Top Time Open House: talk John Clouting from Suffolk Fire Prevention Service"
+name: "Top Time Open House: talk by John Clouting from Suffolk Fire Prevention Service"
 location: beccles-library
 location-text: Beccles Library
 event-start-date: 2019-08-15
