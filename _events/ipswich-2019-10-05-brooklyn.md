@@ -7,7 +7,6 @@ event-start-time: 1830
 event-end-time: 2100
 event-ticket-url: https://www.eventbrite.com/e/brooklyn-12-with-applaud-coffee-tickets-66994106175
 event-ticket-price: 5.98
-event-category: bloc
 breadcrumb: y
 ---
 

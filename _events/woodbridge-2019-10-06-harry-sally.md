@@ -1,5 +1,5 @@
 ---
-name: "Film Feast: <cite>When Harry Met Sally</cite> (U15"
+name: "Film Feast: <cite>When Harry Met Sally</cite> (15)"
 location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2019-10-06
@@ -7,7 +7,6 @@ event-start-time: 1930
 event-end-time: 2200
 event-ticket-url: https://www.eventbrite.com/e/when-harry-met-sally-15-with-the-cooks-shed-tickets-66995235553?aff=ebapi
 event-ticket-price: 5.98
-event-category: bloc
 breadcrumb: y
 ---
 

@@ -5,7 +5,7 @@ location-text: Gainsborough Community Library
 event-start-date: 2019-08-28
 event-start-time: 1330
 event-end-time: 1630
-event-category: ["summer-holidays", "bloc"]
+event-category: summer-holidays
 breadcrumb: y
 ---
 
