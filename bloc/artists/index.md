@@ -86,8 +86,7 @@ layout: blank
 
         <ul class="measure">
 
-          <li class="measure mt0"><a href="/bloc/artists/hadleigh-lab" class="blue underline-hover pv1">Summer LAB at Hadleigh Library</a></li>
-          <li class="measure mt0"><a href="/bloc/artists/hadleigh-lab" class="blue underline-hover pv1">3 day Creative Tech Intensive for young artists at Ipswich County Library</a></li>
+          <li class="measure mt0"><a href="/bloc/artists/creative-tech/" class="blue underline-hover pv1">3 day Creative Tech Intensive for young artists at Ipswich County Library</a></li>
 
         </ul>
 
