@@ -128,19 +128,7 @@ layout: blank
 
         {% endfor %}
 
-        {% if special-event-check == false %}<p class="{% include /c/page-meta.html %} mb3">No upcoming artists Labs.</p>{% endif %}
-
-      </div>
-
-    </section>
-
-    <section class="ph2 ph3-ns bg-white dark-gray pv3 pv4-l">
-
-      <div class="custom-max-width">
-
-        <h2 class="f3 custom-lh-title dark-red">Find out more</h2>
-
-        <p>If you’re an artist interested in applying to take part in one of our BLOC Labs, email <strong>arts@suffolklibraries.co.uk</strong>.</p>
+        {% if special-event-check == false %}<p class="{% include /c/page-meta.html %} mb3">No upcoming artists' Labs.</p>{% endif %}
 
       </div>
 
