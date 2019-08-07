@@ -1,5 +1,5 @@
 ---
-name: "BLOC creative workshop for 11+ year-olds with Aga Serugo-Lugo"
+name: "BLOC songwriting session for 11+ year-olds with Aga Serugo-Lugo"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2019-08-21
@@ -9,7 +9,7 @@ event-category: "summer-holidays"
 breadcrumb: y
 ---
 
-We're launching [BLOC - Building Libraries on ](/bloc/) at Gainsborough Community Library with two creative workshops for 11+ year-olds with brilliant songwriter, musician and composer Aga Serugo-Lugo. Have a go at creating writing, songwriting, music and singing!
+We're launching [BLOC - Building Libraries on ](/bloc/) at Gainsborough Community Library with two creative workshops for 11+ year-olds with brilliant songwriter, musician and composer Aga Serugo-Lugo where you can have a go at creating your own song!
 
 Refreshments provided.
 
