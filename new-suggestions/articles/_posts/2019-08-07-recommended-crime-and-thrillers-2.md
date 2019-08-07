@@ -14,7 +14,7 @@ breadcrumb: articles
 
 Did you know that Suffolk borrowers' favourite genres are crime and thriller? Stock librarian Brandon King picks out some great recent titles you won't want to miss.
 
-## [<cite>Death Sentences: stories of deathly books, murderous booksellers and lethal literature</cite>, by Otto Penzler (ed.)]()
+## [<cite>Death Sentences: stories of deathly books, murderous booksellers and lethal literature</cite>, by Otto Penzler (ed.)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2618139)
 
 > "Sigmund Freud deals with an unwelcome visitor; Columbo confronts a murderous bookseller; a Mexican cartel kingpin with a fatal weakness for rare books; deadly secrets deep in the London Library: who knew literature could be so lethal? Here are 15 short stories to die for from the world's best crime writers."
 
