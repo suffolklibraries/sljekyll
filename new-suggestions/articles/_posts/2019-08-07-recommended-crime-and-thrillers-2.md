@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Recommended crime and thrillers #2"
-date: 2020-08-07
+date: 2019-08-07
 author: brandon-king
 category: articles
 excerpt: "Did you know that Suffolk borrowers' favourite genres are crime and thriller? Stock librarian Brandon King picks out some great recent titles you won't want to miss."
