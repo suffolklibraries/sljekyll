@@ -28,6 +28,8 @@ This role is subject to successful security and identity vetting through the pri
 
 If you are interested, please send a CV and supporting statement outlining what you could bring to this position and Suffolk Libraries to: **recruitment@suffolklibraries.co.uk**
 
+As users of the disability confident scheme, we guarantee to interview all disabled applicants who meet the minimum criteria for the vacancy.
+
 The closing date for applications is **Friday 16 August 2019**. Interviews will be held on **Friday 23 August 2019**.
 
 If you are invited to an interview, you will need to bring along some [documents to verify your identity](/about/jobs/verification-of-identity/).
