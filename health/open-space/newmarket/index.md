@@ -142,7 +142,7 @@ Discussion with Sara from NSFT
 </td>
 
 <td>
-Making scrapbooks
+Making lentil canvases with Karen
 </td>
 </tr>
 
