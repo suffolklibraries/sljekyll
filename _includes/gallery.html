@@ -4,7 +4,17 @@
 
   <figure class="mb3 w-30">
 
-    <img src="{{ pic.url }}" alt="{{ pic.alt }}">
+    {% if pic.link %}
+
+        <a href="{{ pic.link }}"><img src="{{ pic.url }}" alt="{{ pic.alt }}" /></a>
+
+        <figcaption><p class="ma0 f4 custom-lh-title"><a class="blue" href="{{ pic.link }}">{{ pic.caption }}</a></p></figcaption>
+
+    {% else %}
+
+        <img src="{{ pic.url }}" alt="{{ pic.alt }}">
+
+    {% endif %}
 
   </figure>
 

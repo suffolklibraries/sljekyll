@@ -6,7 +6,7 @@ event-start-date: 2019-08-09
 event-start-time: 1400
 event-end-time: 1600
 event-ticket-price: free
-event-category: summer-holidays
+event-category: ["summer-holidays", "bloc-mural"]
 breadcrumb: y
 ---
 
