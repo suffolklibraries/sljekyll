@@ -17,6 +17,8 @@ meta-description: "Books to help children starting nursery or reception know wha
 
 </div>
 
+See also: [Get Ready for School book bags](/parents-carers-and-children/bookstart-storytime-resources/).
+
 ## [<cite>Let's Go To Nursery!</cite>, by Caryl Hart & Lauren Tobia](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2405773)
 
 > "It's Billy and Bee's very first day and, at the start, they feel a little shy. But soon they find out there are games to be played, friends to be made, and songs to be sung.
