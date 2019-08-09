@@ -60,14 +60,6 @@ breadcrumb: audiobooks
 
 > "Ulf and his team come to realise that the world is a puzzling place, lycanthropy (were-wolfism) exists and fish might have something to teach us. There is so much to learn if you are a Swedish detective, and in the first book in this new quasi-Scandinavian series, Ulf Varg embarks on these lessons with spirit and good humour."
 
-## [<cite>The Secret Runners of New York</cite>, by Matthew Reilly, read by Norma Butikofer](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2584046)
-
-> "When Skye Rogers and her twin brother Red move to Manhattan, rumours of a coming global apocalypse are building. But this does not stop the young elite of New York from partying without a care.
-
-> "And then suddenly Skye is invited to join an exclusive gang known as the Secret Runners of New York. But this is no ordinary clique - they have access to an underground portal that can transport them into the future. And what Skye discovers in the future is horrifying...
-
-> "As society crumbles and Skye and Red race to figure out how to use their knowledge to survive the impending annihilation, they soon discover that the chaotic end of the world is a fine time for revenge..."
-
 ## [<cite>Redemption</cite>, by David Baldacci, read by Kyf Brewer & Orlagh Cassidy](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2597505)
 
 > "Amos Decker and his FBI partner Alex Jamison are visiting his hometown of Burlington, Ohio, when he’s approached by an unfamiliar man. But he instantly recognises the man’s name: Meryl Hawkins. He’s the first person Decker ever arrested for murder back when he was a young detective. Though a dozen years in prison have left Hawkins unrecognisably aged and terminally ill, one thing hasn’t changed: he maintains he never committed the murders. Could it be possible that Decker made a mistake all those years ago?
