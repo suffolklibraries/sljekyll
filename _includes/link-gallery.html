@@ -1,0 +1,15 @@
+<div class="flex flex-wrap justify-between">
+
+{% for pic in site.data.link-galleries.[include.link-gallery] %}
+
+  <figure class="mb3 w-30">
+
+        <a href="{{ pic.link }}"><img src="{{ pic.url }}" alt="{{ pic.alt }}" /></a>
+
+        <figcaption><p class="ma0 f4 custom-lh-title"><a class="blue" href="{{ pic.link }}">{{ pic.caption }}</a></p></figcaption>
+
+  </figure>
+
+{% endfor %}
+
+</div>

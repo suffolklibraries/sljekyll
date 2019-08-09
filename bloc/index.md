@@ -94,13 +94,25 @@ layout: blank
 
     </section>
 
+    <section class="pa2 pa3-ns pv5-l bg-light-gray dark-gray b bb b--silver">
+
+      <div class="custom-max-width">
+
+        <h2 class="f4 f3-ns custom-lh-title mb2">Upcoming events</h2>
+
+        {% include link-gallery.html link-gallery="bloc-events" %}
+
+      </div>
+
+    </section>
+
     <section class="bg-black gold bb b--white pa2 pa3-ns pv5-l">
 
         <div class="custom-max-width">
 
             <h2 class="f4 f3-ns custom-lh-title mb2 white">Calling all artists</h2>
 
-            <p class="measure">We're holding our next <strong>mixed-media artist residency at Hadleigh Library</strong> between Aug 12-16, while there's a <strong>3 day Creative Tech Intensive for young artists at Ipswich County Library</strong> between Aug 28-30. <br><a href="/bloc/artists/" class="lightest-blue underline hover-white">Apply to take part in our Artist Residency or Creative Tech Intensive &rarr;</a></p>
+            <p class="measure">We're holding our next <strong>mixed-media artist residency at Hadleigh Library</strong> between Aug 12-16, while there's a <strong>3 day Creative Tech Intensive for young artists at Ipswich County Library</strong> between Aug 28-30. <br><a href="/bloc/artists/" class="lightest-blue underline hover-white">Apply to take part in our Creative Tech Intensive &rarr;</a></p>
 
         </div>
 

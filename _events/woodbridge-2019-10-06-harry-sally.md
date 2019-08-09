@@ -7,6 +7,7 @@ event-start-time: 1930
 event-end-time: 2200
 event-ticket-url: https://www.eventbrite.com/e/when-harry-met-sally-15-with-the-cooks-shed-tickets-66995235553?aff=ebapi
 event-ticket-price: 5.98
+event-category: film-feast
 breadcrumb: y
 ---
 

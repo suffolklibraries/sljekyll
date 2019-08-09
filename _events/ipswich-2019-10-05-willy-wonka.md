@@ -7,6 +7,7 @@ event-start-time: 1430
 event-end-time: 1630
 event-ticket-url: https://www.eventbrite.com/e/willy-wonka-and-the-chocolate-factory-u-with-treat-tickets-66994631747?aff=erellivmlt
 event-ticket-price: 3.83
+event-category: film-feast
 breadcrumb: y
 ---
 
