@@ -129,6 +129,12 @@ layout: blank
 
         <div class="w-40-ns w-20-l pv3">
 
+            <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.cooperbmwipswich.co.uk/"><img class="db" src="/images/featured/featured-cooper-ipswich.jpg" alt="Cooper Ipswich"></a>
+
+        </div>
+
+        <div class="w-40-ns w-20-l pv3">
+
             <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.eastofengland.coop/"><img class="db" src="/images/featured/featured-east-of-england-co-op.jpg" alt="East of England Co-op"></a>
 
         </div>
