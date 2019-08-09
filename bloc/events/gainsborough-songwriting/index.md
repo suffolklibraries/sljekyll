@@ -1,5 +1,5 @@
 ---
-title: "Film Feast"
+title: "Songwriting sessions with Aga Serugo-Lugo at Gainsborough Community Library"
 layout: blank
 ---
 
@@ -11,13 +11,13 @@ layout: blank
 
         <div class="custom-max-width">
 
-          <h1 class="ma0 f5 f4-ns tracked ttl small-caps normal lightest-blue lh-title"><span class="pb1 bb-ns bw3-ns b--lightest-blue-ns">Film Feast</span></h1>
+          <h1 class="ma0 f5 f4-ns tracked ttl small-caps normal lightest-blue lh-title"><span class="pb1 bb-ns bw3-ns b--lightest-blue-ns">Songwriting sessions with Aga Serugo-Lugo at Gainsborough Community Library</span></h1>
 
           <div class="flex-ns flex-wrap-ns">
 
             <div class="w-50-ns pr3-ns mb3">
 
-              <p class="f4 f3-ns">Food-themed film screenings with related food from local independent cafés and restaurants. Find out more and see the whole Suffolk programme on the <a class="yellow" href="https://filmfeast.co.uk/">Film Feast website</a>.</p>
+              <p class="f4 f3-ns">Have a go at creating your own song with brilliant songwriter, musician and composer Aga Serugo-Lugo.</p>
 
             </div>
 
@@ -35,7 +35,7 @@ layout: blank
 
           {% assign special-event-check = false %}
 
-          {% assign events = site.events | where: "event-category", "film-feast" | sort: 'event-start-date' %}
+          {% assign events = site.events | where: "event-category", "bloc-song" | sort: 'event-start-date' %}
 
             {% for event in events %}
 

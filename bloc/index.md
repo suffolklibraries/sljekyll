@@ -100,7 +100,7 @@ layout: blank
 
         <h2 class="f4 f3-ns custom-lh-title mb2">Upcoming events</h2>
 
-        {% include gallery.html gallery="bloc-events" %}
+        {% include link-gallery.html link-gallery="bloc-events" %}
 
       </div>
 
