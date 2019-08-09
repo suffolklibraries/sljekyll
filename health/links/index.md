@@ -258,4 +258,5 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="https://www.suffolk.gov.uk/children-families-and-learning/childrens-health/school-nursing/#tab2">ChatHealth</a> - People aged 11-19 can text their school nurse on <a href="tel:07507333356">07507333356</a> for an appointment or advice on many health issues including sexual health, emotional wellbeing, bullying and self-harm</li>
 	<li><a href="http://www.thesource.me.uk/">The Source</a> - Offers young people in Suffolk information, advice and support on health, work, training, relationships and more.</li>
 	<li><a href="https://www.healthwatchsuffolk.co.uk/news/in-focus-young-peoples-emotional-wellbeing-support-in-suffolk/">Healthwatch</a> - Latest information report on Children and Young people’s mental health in Suffolk and extensive list of organisations for support and information</li>
+	<li><a href="https://www.themix.org.uk/">The Mix</a> - Support service for young people. Visit the site for information and advice or have a confidential chat over the phone or online.</li>
 </ul>
