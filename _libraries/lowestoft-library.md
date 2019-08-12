@@ -41,5 +41,4 @@ branch-other-facilities: '<ul>
                           </ul>'
 branch-pride-and-periods: y
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, Lego Club, older people's activities, health & wellbeing groups, free sanitary products."
-branch-news: 'Lowestoft Library is looking for <a href="/events-activities/summer-holidays/summer-reading-challenge/volunteer-for-the-summer-reading-challenge/">Summer Reading Challenge volunteers</a>.'
 ---
