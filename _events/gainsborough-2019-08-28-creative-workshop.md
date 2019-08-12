@@ -9,6 +9,8 @@ event-category: ["summer-holidays", "bloc-song"]
 breadcrumb: y
 ---
 
+<img src="/images/featured/featured-aga-serugo-lugo-200.jpg" alt="Songwriter, musician and composer Aga Serugo-Lugo playing the keyboard at Ipswich County Library" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+
 We're launching [BLOC - Building Libraries on ](/bloc/) at Gainsborough Community Library with two creative workshops for 11+ year-olds with brilliant songwriter, musician and composer Aga Serugo-Lugo where you can have a go at creating your own song!
 
 Refreshments provided.

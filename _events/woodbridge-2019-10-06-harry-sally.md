@@ -15,6 +15,8 @@ breadcrumb: y
 
 > Starring: Meg Ryan, Billy Crystal, Bruno Kirby, Carrie Fisher
 
+<img src="/images/featured/featured-film-feast-200.png" alt="Film Feast logo" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+
 Rob Reiner's classic and classy rom-com requires little introduction. Whilst food does play an integral part in proceedings, the film is forever enshrined in cinema history for that scene in Katz's Delicatessen when Sally convinces Harry (and every male who's ever watched it for that matter) that a lady most definitely can fake it. The late great screenwriter, Nora Ephron, was well known for not only writing this film and <cite>Julie and Julia</cite>, but was also a best-selling food writer.
 
 Food inspired by the film will be available in the library from Woodbridge's The Cooks Shed following the screening.

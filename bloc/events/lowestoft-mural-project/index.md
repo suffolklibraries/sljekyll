@@ -71,7 +71,7 @@ layout: blank
 
           {% endfor %}
 
-          {% if special-event-check == false %}<p class="{% include /c/page-meta.html %} mb3">No upcoming Film Feast events.</p>{% endif %}
+          {% if special-event-check == false %}<p class="{% include /c/page-meta.html %} mb3">No upcoming events.</p>{% endif %}
 
         </div>
 

@@ -321,6 +321,12 @@ richard-baker:
     job: library and information advisor
     bio: I'm a library and information advisor.
 
+rose-gant:
+    name: Rose Gant
+    job: volunteer book reviewer
+    img: /images/authors/rose-gant.jpg
+    bio: Hi, I’m Rose, a volunteer YA reviewer. I am a student at the University of Suffolk studying English. Check out more of my reviews on <a href="https://lifeamongstthepagesblog.wordpress.com">my book blog</a>.
+
 sarah-jenkins:
     name: Sarah Jenkins
     job: Lesley's Readers contributor

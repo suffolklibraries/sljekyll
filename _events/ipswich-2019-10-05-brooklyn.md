@@ -15,6 +15,8 @@ breadcrumb: y
 
 > Starring: Saoirse Ronan, Domnhall Gleeson, Jim Broadbent, Julie Walters
 
+<img src="/images/featured/featured-film-feast-200.png" alt="Film Feast logo" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+
 Ellis Lacey (Ronan) emigrates from her native Ireland in 1951 to Brooklyn, New York in search of a new life and greater opportunity. There she meets a young Italian American with whom she forms a close bond (and shares her first experience of Italian food) before her past catches up with her and necessitating a return to her roots and unforeseen complications.
 
 Food inspired by the film will be provided by Applaud Coffee and available to purchase after the screening.

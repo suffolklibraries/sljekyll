@@ -15,6 +15,8 @@ breadcrumb: y
 
 > Starring: Gene Wilder, Jack Albertson, Peter Ostrum, Roy Kinnear
 
+<img src="/images/featured/featured-film-feast-200.png" alt="Film Feast logo" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+
 The late, great Gene Wilder stars as the madcap chocolatier in this cult adaptation of Roald Dahl's beloved book. The perils of greed and gluttony are reinforced in the timeless tale of a young boy who gains a golden ticket to Wonka's wondrous chocolate factory. With its anarchic humour and memorable songs, this is a sweet treat that will tickle the taste-buds of both nostalgic adults and younger first-timers.
 
 A treat will be provided by Film Feast's Headline Sponsor, the East of England Co-op.
