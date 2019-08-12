@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "The Disconnect, by Keren David"
+title: "The Disconnect by Keren David"
 date: 2019-05-09
 author: amy-rush-da-silva
 category: young-adult
