@@ -1,5 +1,5 @@
 ---
-name: "Top Time: Meet the Author: Callista Bowright"
+name: "Top Time: Meet the Author: Callista Bowright - CANCELLED"
 location: sudbury-library
 location-text: Sudbury Library
 event-start-date: 2019-08-27
@@ -9,6 +9,8 @@ event-category: older
 event-ticket-price: free; refreshments 50p
 breadcrumb: y
 ---
+
+**This event has been cancelled**
 
 Author Callista Bowright will be at the library talking about her book <cite>The Sixth of September</cite>:
 

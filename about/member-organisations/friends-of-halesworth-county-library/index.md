@@ -17,6 +17,7 @@ breadcrumb: member-organisations
 * Vice chair: Sheila Freeman
 * Treasurer: David Borer
 * Minutes secretary: Evelyn Lindqvist
+* Trustee: Nigel Frostick
 * Trustee: Natalie Lloyd-Evans
 * Trustee (ex officio): Arlene Roberts (acting library manager)
 * Trustee: Yvonne Sandison
@@ -149,6 +150,7 @@ In 2019 we have already reorganised the library to make it more welcoming, and m
 
 ## Minutes
 
+* [Minutes - 25 June 2019](/assets/pdf/2019-06-25-fohcl-minutes.pdf) (PDF)
 * [Minutes - 21 May 2019](/assets/pdf/2019-05-21-fohcl-minutes.pdf) (PDF)
 * [Minutes - 16 April 2019](/assets/pdf/2019-04-16-fohcl-minutes.pdf) (PDF)
 * [Minutes - 5 March 2019](/assets/pdf/2019-03-05-fohcl-minutes.pdf) (PDF)

@@ -141,7 +141,7 @@ layout: blank
                   4pm - 5:30pm (1.5 hours)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-                  Halesworth and Southwold Railway Trust - van
+                  Halesworth to Southwold Narrow Gauge Railway Society - van
                 </td>
               </tr>
               <tr class="bg-light-gray">
