@@ -33,6 +33,8 @@ layout: blank
 
           <h2 class="f3 custom-lh-title dark-red">UPCOMING EVENTS</h2>
 
+          <img src="/images/featured/featured-film-feast-200.png" alt="Film Feast logo" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+
           {% assign special-event-check = false %}
 
           {% assign events = site.events | where: "event-category", "film-feast" | sort: 'event-start-date' %}
