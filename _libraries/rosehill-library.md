@@ -30,4 +30,5 @@ breadcrumb: y
 branch-payments: cash, cheques and cards accepted
 branch-pride-and-periods: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, older people's activities, free sanitary products."
+branch-news: "The library will be closed from 1-2pm today (Tuesday 13 August) due to staff sickness."
 ---
