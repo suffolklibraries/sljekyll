@@ -1,8 +1,8 @@
 ---
-recurrent-title: "Baby Bounce and Tot Rock"
-recurrent-description: "Songs and rhymes for babies and toddlers."
+recurrent-title: "Stay and Play"
+recurrent-description: "Play session for toddlers."
 recurrent-day: Tuesday
-recurrent-times: 0930-1015
+recurrent-times: 1015-1100
 recurrent-location: halesworth-library
 recurrent-location-display-name: Halesworth Library
 recurrent-location-display-url: /branches/halesworth-library/
