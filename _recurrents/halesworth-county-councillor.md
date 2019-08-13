@@ -1,5 +1,5 @@
 ---
-recurrent-title: "County councillor surgery"
+recurrent-title: "County and district councillor surgery"
 recurrent-day: second Saturday of the month
 recurrent-times: 1000-1100
 recurrent-location: halesworth-library
