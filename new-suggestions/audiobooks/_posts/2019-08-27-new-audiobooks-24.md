@@ -6,11 +6,11 @@ author: sophie-green
 category: audiobooks
 excerpt: "Listen to top titles from Lucy Dawson, Clive Cussler & Harlan Coben."
 featured-image: /images/featured/featured-audiobooks-24.jpg
-featured-alt: "Don't Ever Tell, The Grey Ghost"
+featured-alt: "Don't Ever Tell, The Bookshop on the Shore"
 breadcrumb: audiobooks
 ---
 
-![Don't Ever Tell, The Grey Ghost](/images/featured/featured-audiobooks-24.jpg)
+![Don't Ever Tell, The Bookshop on the Shore](/images/featured/featured-audiobooks-24.jpg)
 
 [Check out our latest eAudiobooks &rarr;](/new-suggestions/elibrary-picks/new-eaudiobooks-9/)
 
@@ -29,6 +29,18 @@ breadcrumb: audiobooks
 ## [<cite>The Peppermint Tea Chronicles</cite>, by Alexander McCall Smith, read by David Rintoul](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2630640)
 
 > "Changes are coming to 44 Scotland Street, what with Bertie and his friends getting older, and the neighbours gossiping about Irene's latest drama. Still, at the end of the day, the community of Edinburgh's New Town will find itself drawn together in surprising ways in this latest instalment of Alexander McCall Smith's witty, humorous, and engaging series."
+
+## [<cite>The Bookshop on the Shore</cite>, by Jenny Colgan, read by Eilidh Beaton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2600224)
+
+> "Escape to the Scottish Highlands, where a tiny bookshop perches on the edge of a loch.
+
+> "Zoe is a single mother, sinking beneath the waves trying to cope by herself in London. Hari, her gorgeous little boy, is perfect in every way - except for the fact that he just doesn't speak at all.
+
+> "When her landlord raises the rent on her flat, Zoe doesn't know where to turn. Then Hari's aunt suggests Zoe could move to Scotland to help run a bookshop. Going from the lonely city to a small village in the Highlands could be the change Zoe and Hari desperately need.   
+
+> "Faced with an unwelcoming boss, a moody, distant bookseller named Ramsay Urquart, and a band of unruly children, Zoe wonders if she's made the right decision. But Hari has found his very first real friend, and no one could resist the beauty of the loch glinting in the summer sun. If only Ramsay would just be a little more approachable....  
+
+> "Dreams start here..."
 
 ## [<cite>The Grey Ghost</cite>, by Clive Cussler & Robin Burcell, read by Jeff Harding](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2615338)
 
