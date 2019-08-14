@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Clare Mulley'
-date: 2019-08-15
+date: 2019-09-03
 author: brandon-king
 category: meet-the-author
 excerpt: "Clare Mulley describes the challenges and rewards of writing about remarkable women in history and gives us a taster of her talk at Lavenham Literary Festival in November."
@@ -28,7 +28,9 @@ I want to tell stories that I feel are important, and that have either been forg
 
 ## 3. [David Hare’s <cite>Plenty</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=146523) was written after he discovered that 75% of the women engaged in wartime SOE operations divorced in the immediate post-war years. Do you think some women are uniquely suited to the demands of wartime? I’m thinking of Krystyna Skarbek/Christine Granville’s heroism?
 
-The demands of war are varied. Traditionally men have served in the frontline of conflict, while women have played a vital role on the home front, including working in fields and factories, taking care of businesses and families, and serving in many supporting roles in the wider military structure. All of this should be remembered. However, there are also examples of women actively fighting in most wars through history, sometimes dressed as men, sometimes serving defiantly as women. War is fascinating for me as a historian, partly because it often enables women to find a role denied them in peacetime. It is not so much that few women are qualified to serve, but that so few have had the opportunity.
+The demands of war are varied. Traditionally men have served in the frontline of conflict, while women have played a vital role on the home front, including working in fields and factories, taking care of businesses and families, and serving in many supporting roles in the wider military structure. All of this should be remembered.
+
+However, there are also examples of women actively fighting in most wars through history, sometimes dressed as men, sometimes serving defiantly as women. War is fascinating for me as a historian, partly because it often enables women to find a role denied them in peacetime. It is not so much that few women are qualified to serve, but that so few have had the opportunity.
 
 Krystyna Skarbek was the first woman to serve Britain as a special agent in the Second World War, and the longest serving British agent, male or female, in that conflict. Female special agents, or women in the resistance more broadly, still tend to be presented in rather romantic terms, sometimes as 'honeytraps', and celebrated for their beauty, bravery and sacrifice, rather then their achievements. However, their greatest asset was usually not their unique skills in seduction, but simply their ability to be overlooked. This enabled women to risk moving documents, heavy wireless transmitters and weapons, where able-bodied men would immediately be suspect.
 
@@ -62,4 +64,6 @@ I am delighted to be returning to beautiful Lavenham to talk about the remarkabl
 
 The pioneering Eglantyne shocked many in her day, not just by studying for a degree, riding bicycles and writing romantic fiction, but also by admitting she didn’t much care for individual children, travelling into a war zone, and taking on the British government. On the way, she won over factory girls and the aristocracy, the wife of the British PM and even the Bolshevik government! Ultimately Eglantyne changed the world forever, yet she is almost forgotten today.
 
-This was the first book I wrote, which won the <cite>Daily Mail</cite> Biographers Club Prize. It has just been reissued to mark the charity’s centenary, and this spring Joely Richardson and Helena Bonham Carter acted out some of Eglantyne's dramatic life story from the book as a one-off fundraiser for the charity. All the book's royalties are also donated to Save the Children. It should be a great event - do join me!
+This was the first book I wrote, which won the <cite>Daily Mail</cite> Biographers Club Prize. It has just been reissued to mark the charity’s centenary, and this spring Joely Richardson and Helena Bonham Carter acted out some of Eglantyne's dramatic life story from the book as a one-off fundraiser for the charity. All the book's royalties are also donated to Save the Children.
+
+It should be a great event - do join me!
