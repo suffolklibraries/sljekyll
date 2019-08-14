@@ -4,7 +4,7 @@ title: IT support analyst, based at Ipswich County Library
 category: jobs
 sidebar: about
 breadcrumb: jobs
-excerpt: "27 hours per week, &pound;20,000 per annum, closing date Sat 31 Aug."
+excerpt: "27 hours per week, &pound;20,000 pro rata, closing date Sat 31 Aug."
 expiry-date: 2019-08-31
 ---
 
@@ -28,7 +28,7 @@ This role is for 27 hours across 3-5 days a week and may include working Saturda
 
 Applicants must hold a full driving licence.
 
-The rate of pay is &pound;20,000 per annum.
+The rate of pay is &pound;20,000 pro rata.
 
 If you are interested, please send a CV and supporting statement outlining what you could bring to this position and Suffolk Libraries to: **recruitment@suffolklibraries.co.uk**
 
