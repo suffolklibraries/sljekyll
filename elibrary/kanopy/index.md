@@ -22,12 +22,14 @@ Kanopy allows you to play 10 classic and indie films or documentaries per calend
 ### On a computer
 
 1. Go to the [Kanopy website](https://www.kanopy.com/)
-2. Click the white 'Sign up' button in the top right-hand corner of the screen (this button turns red when you click on it)
-3. Fill in the registration form and click 'Sign up'
-4. Kanopy will send an email to the address you provided. Click the orange ‘Verify email’ button in this email
-5. On the Kanopy website, choose the 'Suffolk Libraries' option. If this doesn’t appear, type 'Suffolk Libraries'
-6. Enter your library card number and click the red ‘Verify’ button
-7. Suffolk Libraries' Kanopy service will now be available to use.
+2. Click the white 'Log in' button in the top right-hand corner of the screen
+3. Click 'Don't have an account yet? Get Started'
+4. Click 'Find your library'
+5. Start typing 'Suffolk Libraries' and select 'Suffolk Libraries - United Kingdom' when it appears as a drop-down option
+6. Enter your library card number and click the red 'Continue' button
+7. Fill in the registration form
+8. Kanopy will send an email to the address you provided. Click the orange ‘Verify email’ button in this email
+9. Suffolk Libraries' Kanopy service will now be available to use.
 
 ## Using Kanopy
 
