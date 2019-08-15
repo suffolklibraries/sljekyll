@@ -41,7 +41,6 @@ branch-for-sale: Poetry book collated by Newmarket Library Friend Christine - £
 breadcrumb: y
 branch-pride-and-periods: y
 branch-news: '<ul>
-              <li>The customer lift is currently out of order. If you are unable to use the stairs, please talk to a member of staff, who will do everything they can to help you.</li>
               <li>We&apos;re looking for Code Club volunteers. Contact the library for more information and to get involved.</li>
               <li>We are part of the <a href="https://www.aht.org.uk/saddleup">Saddle Up Art Trail</a> from 8 July - 22 September.</li>
               </ul>'
