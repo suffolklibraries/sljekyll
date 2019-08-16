@@ -4,7 +4,7 @@ title: "Lowestoft Library registers youngest new borrower"
 date: 2019-08-16
 author: hannah-foulstone
 category: news
-excerpt: ""
+excerpt: "When new mum and schoolteacher Lucy Gildroy took her newborn daughter Summer into Lowestoft Library, she did so with one goal: to sign Summer up for her very first library card."
 breadcrumb: news
 featured-image: /images/featured/featured-summer.jpg
 featured-alt: "Baby Summer with mum Lucy Gildroy and Lowestoft Library staff member Debs Pullum"
