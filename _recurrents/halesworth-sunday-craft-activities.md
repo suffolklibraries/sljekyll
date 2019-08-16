@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Sunday Craft activities: for primary school age children"
+recurrent-title: "Craft activities: for primary school age children"
 recurrent-description: '<ul class="f6 ma0">
                         <li>18 August: Let&apos;s go fly a kite!</li>
                         <li>25 August: Gone Camping...</li>
