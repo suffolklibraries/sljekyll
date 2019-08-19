@@ -6,7 +6,11 @@ author: jenny-patch
 category: news
 excerpt: "Last week (12-16 August), Hadleigh Library hosted their very first BLOC Lab, with five East Anglian artists from different disciplines creating and working alongside each other in a library space."
 breadcrumb: news
+featured-image: /images/featured/featured-hadleigh-art.jpg
+featured-alt: "Works-in-progress at Hadleigh Library, clockwise from top left: body sculpture by Lucy Edwards, folk figure by Will Wright, Cyanotype prints by Ellie Seymour"
 ---
+
+{% include /c/figure.html src="/images/featured/featured-hadleigh-art.jpg" alt="Works-in-progress at Hadleigh Library, clockwise from top left: body sculpture by Lucy Edwards, folk figure by Will Wright, Cyanotype prints by Ellie Seymour" caption="Works-in-progress at Hadleigh Library, clockwise from top left: body sculpture by Lucy Edwards, folk figure by Will Wright, Cyanotype prints by Ellie Seymour" %}
 
 Last week (12-16 August), Hadleigh Library hosted their very first [BLOC Lab](/bloc/artists/), with five East Anglian artists from different disciplines creating and working alongside each other in a library space.
 
