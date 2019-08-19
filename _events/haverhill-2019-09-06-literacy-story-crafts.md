@@ -8,4 +8,4 @@ event-end-time: 1200
 breadcrumb: y
 ---
 
-Come along and celebrate World Literacy Day with stories and crafts at this session, supported by Havebury.
+Join us after our usual Baby Bounce slot for stories and crafts in association with Havebury Housing Partnership, with goody bags for the first 15 children in attendance and a colouring competition - you could win a £30 voucher!
