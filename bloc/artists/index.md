@@ -21,7 +21,6 @@ layout: blank
 
             <ul class="ma0 pa0 list f5">
 
-              <li><a class="pv1 yellow no-underline underline-hover" href="/bloc/artists/hadleigh-lab">Summer BLOC Lab at Hadleigh Library &rarr;</a></li>
               <li><a class="pv1 yellow no-underline underline-hover" href="/bloc/artists/creative-tech">Creative Tech 3 Day Intensive for young artists at Ipswich County Library &rarr;</a></li>
 
             </ul>
