@@ -10,3 +10,46 @@ breadcrumb: health
 Open Space launches at Woodbridge Library on Wednesday 11 September. Drop in for chat, colouring, word searches, games and refreshments. We plan to build a timetable of activities and discussions from suggestions within the group over the coming weeks.
 
 If you have any questions please do get in touch, or just come along to a session on Wednesdays from 2-4pm at [Woodbridge Library](/libraries/woodbridge-library/)&#8211; all are welcome!
+
+<table class="pure-table">
+<tr>
+<td>
+<strong>Date</strong>
+</td>
+
+<td>
+<strong>Topic</strong>
+</td>
+</tr>
+
+<tr>
+<td>
+11.09.19
+</td>
+
+<td>
+Discussion: Welcome to Open Space! What would you like from it?
+</td>
+</tr>
+
+<tr>
+<td>
+18.09.19
+</td>
+
+<td>
+Activity: Games & puzzles
+</td>
+</tr>
+
+<tr>
+<td>
+25.09.19
+</td>
+
+<td>
+Discussion: Planning & ideas for future sessions - help us build the next part of the timetable
+</td>
+</tr>
+
+</table>
