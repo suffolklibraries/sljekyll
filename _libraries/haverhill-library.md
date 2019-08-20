@@ -41,4 +41,5 @@ branch-other-facilities: '<ul>
                           <li>Reach Haverhill foodbank donation point</li>
                           </ul>'
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, sports equipment, free sanitary products."
+branch-news: '<a href="about/jobs/haverhill-library-and-information-advisor/">Haverhill Library is currently looking for a library and information advisor.</a>'
 ---
