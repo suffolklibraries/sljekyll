@@ -28,146 +28,6 @@ Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &ra
 
 <tr>
 <td>
-15.05.19
-</td>
-
-<td>
-Activity: Pub lunch! (contact [Ipswich County Library](/libraries/ipswich-county-library/) to find out the location)
-</td>
-</tr>
-
-<tr>
-<td>
-22.05.19
-</td>
-
-<td>
-Activity: Test your music knowledge with a quiz
-</td>
-</tr>
-
-<tr>
-<td>
-29.05.19
-</td>
-
-<td>
-Discussion: How does technology help/hinder us practically and socially?
-</td>
-</tr>
-
-<tr>
-<td>
-05.06.19
-</td>
-
-<td>
-Activity: Walk down to La Tour Café on the waterfront and have a drink
-</td>
-</tr>
-
-<tr>
-<td>
-12.06.19
-</td>
-
-<td>
-Activity: Create a picture of courage - help us make a collage!
-</td>
-</tr>
-
-<tr>
-<td>
-19.06.19
-</td>
-
-<td>
-Activity: Visit Holywells park - meet at the park's café at 1.15pm
-</td>
-</tr>
-
-<tr>
-<td>
-26.06.19
-</td>
-
-<td>
-Discussion & planning: Open Space going forward
-</td>
-</tr>
-
-<tr>
-<td>
-03.07.19
-</td>
-
-<td>
-Activity: Picnic & rounders in the park
-</td>
-</tr>
-
-<tr>
-<td>
-10.07.19
-</td>
-
-<td>
-Discussion/activity: Tree of wellbeing
-</td>
-</tr>
-
-<tr>
-<td>
-17.07.19
-</td>
-
-<td>
-Talk: Suffolk One Life on healthy eating
-</td>
-</tr>
-
-<tr>
-<td>
-24.07.19
-</td>
-
-<td>
-Discussion: How does the media affect us?
-</td>
-</tr>
-
-<tr>
-<td>
-31.07.19
-</td>
-
-<td>
-Activity: Arts & crafts - TBC
-</td>
-</tr>
-
-<tr>
-<td>
-07.08.19
-</td>
-
-<td>
-Discussion: What are values?
-</td>
-</tr>
-
-<tr>
-<td>
-14.07.19
-</td>
-
-<td>
-Talk: Find out where you can find information & support for Universal Credit & PIP claims
-</td>
-</tr>
-
-<tr>
-<td>
 21.08.19
 </td>
 
@@ -175,4 +35,174 @@ Talk: Find out where you can find information & support for Universal Credit & P
 Activity: Walk and mindfulness in Christchurch Park
 </td>
 </tr>
+
+<tr>
+<td>
+28.08.19
+</td>
+
+<td>
+Discussion: Stress bucket: how can we look after ourselves and deal with stress?
+</td>
+</tr>
+
+<tr>
+<td>
+04.09.19
+</td>
+
+<td>
+Activity: Walk along the Elmer Trail
+</td>
+</tr>
+
+<tr>
+<td>
+11.09.19
+</td>
+
+<td>
+Discussion: What is contentment?
+</td>
+</tr>
+
+<tr>
+<td>
+18.09.19
+</td>
+
+<td>
+Activity: Mindfulness walk
+</td>
+</tr>
+
+<tr>
+<td>
+25.09.19
+</td>
+
+<td>
+Discussion: Feedback and forward planning - share your thoughts on Open Space!
+</td>
+</tr>
+
+<tr>
+<td>
+02.10.19
+</td>
+
+<td>
+Discussion: How can we deal with suicidal thoughts, and what help is available?
+</td>
+</tr>
+
+<tr>
+<td>
+09.10.19
+</td>
+
+<td>
+Activity: Tea & Talk for World Mental Health Day: suicide prevention
+</td>
+</tr>
+
+<tr>
+<td>
+16.10.19
+</td>
+
+<td>
+Discussion: How can we deal with feelings of worry and panic?
+</td>
+</tr>
+
+<tr>
+<td>
+23.10.19
+</td>
+
+<td>
+Activity: Walk to the waterfront and visit a café for a drink
+</td>
+</tr>
+
+<tr>
+<td>
+30.10.19
+</td>
+
+<td>
+Discussion: How can we budget well?
+</td>
+</tr>
+
+<tr>
+<td>
+06.11.19
+</td>
+
+<td>
+Activity: Have a go at origami
+</td>
+</tr>
+
+<tr>
+<td>
+13.11.19
+</td>
+
+<td>
+Discussion: How can we build our self-esteem and confidence?
+</td>
+</tr>
+
+<tr>
+<td>
+20.11.19
+</td>
+
+<td>
+Activity: Scrapbooking & journaling
+</td>
+</tr>
+
+<tr>
+<td>
+27.11.19
+</td>
+
+Discussion: What does hope look like?
+</td>
+</tr>
+
+<tr>
+<td>
+04.12.19
+</td>
+
+<td>
+Activity: Christmas quiz
+</td>
+</tr>
+
+<tr>
+<td>
+11.12.19
+</td>
+
+<td>
+Discussion: Helpful tips to help us cope through the festive season
+</td>
+</tr>
+
+<tr>
+<td>
+18.12.19
+</td>
+
+<td>
+Activity: Christmas meal (venue TBD the week before)
+</td>
+</tr>
+
 </table>
