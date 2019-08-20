@@ -4,7 +4,7 @@ title: Library and information advisor, Haverhill Library
 category: jobs
 sidebar: about
 breadcrumb: jobs
-excerpt: "8.25 average hours per week, &pound;8.42 per hour, closing date Fri 6 Sep."
+excerpt: "8.25 average hours per week, &pound;8.42 per hour, closing date Tue 10 Sep."
 expiry-date: 2019-09-10
 ---
 
