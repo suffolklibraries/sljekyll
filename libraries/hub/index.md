@@ -23,7 +23,7 @@ layout: blank
 
           <img src="/images/hub/hub1.jpg" alt="Room with large screen and seats and chairs" class="db bw3 b--light-gray br2 shadow-2 border-box">
 
-          <figcaption class="f6">Meeting room 2</figcaption>
+          <figcaption class="f6">Wolsey Room</figcaption>
 
         </figure>
 
@@ -31,7 +31,7 @@ layout: blank
 
           <img src="/images/hub/hub3.jpg" alt="Sofas outside a meeting room" class="db bw3 b--light-gray br2 shadow-2 border-box">
 
-          <figcaption class="f6">Meeting room 2 exterior</figcaption>
+          <figcaption class="f6">Wolsey Room exterior</figcaption>
 
         </figure>
 
@@ -39,7 +39,7 @@ layout: blank
 
           <img src="/images/hub/hub4.jpg" alt="Room with large projector and seats and chairs" class="db bw3 b--light-gray br2 shadow-2 border-box">
 
-          <figcaption class="f6">Meeting room 1</figcaption>
+          <figcaption class="f6">Chaucer Room</figcaption>
 
         </figure>
 
@@ -47,7 +47,7 @@ layout: blank
 
           <img src="/images/hub/hub5.jpg" alt="Room with large screen and seats and chairs" class="db bw3 b--light-gray br2 shadow-2 border-box">
 
-          <figcaption class="f6">Meeting room 1 projector</figcaption>
+          <figcaption class="f6">Chaucer Room projector</figcaption>
 
         </figure>
 
