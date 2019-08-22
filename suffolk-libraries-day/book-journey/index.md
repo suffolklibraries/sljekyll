@@ -688,7 +688,7 @@ layout: blank
                   Brandon Fenn Hoppers - Running
                 </td>
               </tr>
-              <tr class="">
+              <tr class="bg-light-gray">
                 <td class="pa2 ba b--moon-gray">
                   Lakenheath - Mildenhall
                 </td>
@@ -702,7 +702,7 @@ layout: blank
                   9am - 10am (1 hour)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-
+                  Friends of the Library in Kessingland (F.O.L.K.) - Tractor
                 </td>
               </tr>
               <tr class="">
