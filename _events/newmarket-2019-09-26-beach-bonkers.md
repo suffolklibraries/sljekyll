@@ -10,4 +10,4 @@ event-category: older
 breadcrumb: y
 ---
 
-Why should children have all the fun of Beach Bonkers' mini-beach and giant board game? Seniors are invited to learn all about beachcombing and handle some surprising finds.
+Seniors are invited to learn all about beach-combing from Kate from Beach Bonkers with a short talk, hands-on quiz and object handling.
