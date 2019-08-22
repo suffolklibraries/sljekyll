@@ -4,11 +4,11 @@ title: "Gainsborough Community Library to celebrate ten-year anniversary"
 date: 2019-08-22
 author: hannah-foulstone
 category: news
-excerpt: "Monday 16 September marks ten years since Gainsborough Community Library moved into its current building."
+excerpt: "Monday 16 September marks ten years since Gainsborough Community Library moved into its current building. Everyone is invited to attend its birthday celebration, featuring activities for all ages, on Saturday 14 September."
 breadcrumb: news
 ---
 
-Monday 16 September marks ten years since Gainsborough Community Library moved into its current building.
+Monday 16 September marks ten years since Gainsborough Community Library moved into its current building. Everyone is invited to attend its [birthday celebration](events/gainsborough-2019-09-14-birthday-celebrations/), featuring activities for all ages, on Saturday 14 September.
 
 The building on Clapgate Lane, Ipswich, was purpose-built in 2009 as part of a £1.4m project by Suffolk County Council. It features a café, community garden, a digital sound studio and a distinctive green steel rotunda. It replaced a building that had served the community for over 70 years.
 
