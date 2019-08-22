@@ -15,8 +15,8 @@ breadcrumb: member-organisations
 
 * Library manager: Kate Ashton
 * Chair: Rachel Wood
-* Secretary: Margaret Jocelyn
-* Treasurer: Jack Merrell
+* Secretary: John Kolybecky
+* Treasurer: Lucy Sheppard
 
 ## Contact us
 
