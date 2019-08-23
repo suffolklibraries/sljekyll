@@ -1,17 +1,17 @@
 ---
 layout: sidebar-right
 title: "Recommended new eBooks for September 2019"
-date: 2020-08-22
+date: 2019-08-28
 author: lisa-brennan
 category: elibrary-picks
 tag: elibrary
 excerpt: "We've listed some of our favourite new eBooks on OverDrive for September to help you choose your next digital read."
 featured-image: /images/featured/featured-elibrary-september-2019.jpg
-featured-alt: ""
+featured-alt: "The Art of Dying, The Canal Boat Café, Killer of Kings"
 breadcrumb: elibrary-picks
 ---
 
-![](/images/featured/featured-elibrary-september-2019.jpg)
+![The Art of Dying, The Canal Boat Café, Killer of Kings](/images/featured/featured-elibrary-september-2019.jpg)
 
 We're always adding great titles to our [eLibrary](/elibrary/). We've listed some of our favourite new eBooks on [OverDrive](/elibrary/overdrive/) for September to help you choose your next digital read.
 

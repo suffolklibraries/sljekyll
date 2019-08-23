@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Check out the latest super-readable titles from Barrington Stoke"
-date: 2020-08-23
+date: 2019-08-23
 author: sophie-green
 category: childrens-ya-books
 excerpt: "New titles optimised for children with dyslexia and visual stress from Nicola Davies, Chris Priestly, Cat Clarke and more."
@@ -19,11 +19,11 @@ Barrington Stoke, who specialise in books for children with dyslexia and visual 
 
 > "Paul du Pain's bakery is a very special place. Each day, Paul bakes the bread while Marie serves customers in the shop. Everyone who walks in the door walks back out feeling happier than before. But when Marie goes away, Paul's days become sad and grey. Without her, the bakery's magic is gone. Will Paul ever be able to win her back?"
 
-## [<cite>Itch Scritch Scratch</cite>, by Eleanor Updale & Sarah Horne]()
+## [<cite>Itch Scritch Scratch</cite>, by Eleanor Updale & Sarah Horne](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2665738)
 
 > "Scratching kids and maddened mums wage war on some very nasty nits in this hilarious rhyming story. The rollicking text begs to be read aloud – a delightfully itchy comedy with added resonance for any family dealing with one of childhood’s scratchier issues!"
 
-## [<cite>Butterflies for Grandpa Joe</cite>, by Nicola Davies & Mike Byrne]()
+## [<cite>Butterflies for Grandpa Joe</cite>, by Nicola Davies & Mike Byrne](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2638128)
 
 > "Grandpa Joe is butterfly bonkers. There's nothing he loves more than photographing the fluttering, colourful creatures in his garden.
 
@@ -41,11 +41,11 @@ Barrington Stoke, who specialise in books for children with dyslexia and visual 
 
 > "But five years after shutting its doors, the toy factory is opening again, and Tess Pipps has found herself a job there. As she and her siblings start their first day of work, they are about to discover what dark secrets are lurking inside the factory's walls."
 
-## [<cite>Pancake Face</cite>, by Georgia Byng & Mike Phillips]()
+## [<cite>Pancake Face</cite>, by Georgia Byng & Mike Phillips](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2665735)
 
 > "Alice Peasbody has no nose. People point and stare. Only the birds in the garden are Alice's friends. She tries to hide away, but it's hard to hide a pancake face for ever..."
 
-## [<cite>Jenny's Choice</cite>, by Catherine MacPhail & Vladimir Stankovic]()
+## [<cite>Jenny's Choice</cite>, by Catherine MacPhail & Vladimir Stankovic](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2665737)
 
 > "A ghostly voice promises to help Karam, a new immigrant to the UK, deal with the bully at school. But there is a price to pay in this chilling thriller that's not for the faint-hearted..."
 
@@ -65,7 +65,7 @@ Barrington Stoke, who specialise in books for children with dyslexia and visual 
 
 > "When Agnes made a promise to her girlfriend Ellie, she thought that they would be together forever. One year later, Agnes is keeping that promise and it's put her in a situation she never could have predicted; climbing a desolate mountain, in miserable weather, with Ellie and her new boyfriend Steve. But when the weather takes a frightening turn and the sky-high tension between the trio hits its peak, Agnes will have to push herself further than she ever thought was possible."
 
-## [<cite>Cyborg</cite>, by Chris Bradford & Anders Frang]()
+## [<cite>Cyborg</cite>, by Chris Bradford & Anders Frang](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2638125)
 
 Conclusion of the Virtual Kombat trilogy.
 
