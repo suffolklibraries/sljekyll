@@ -94,7 +94,7 @@ Third in the Twit Twoo School series.
 
 ### [<cite>Hotel Flamingo: holiday heatwave</cite>, by Alex Milway](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2560346)
 
-We loved the first [<cite>Hotel Flamingo</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2503148) book, so we’re looking forward to a return visit! Author Alex Milway will be holding a children's drawing workshop for Felixstowe Book Festival at [Felixstowe Library on Saturday 29 June](/events/felixstowe-2019-06-29-fbf-hotel-flamingo/).
+We loved the first [<cite>Hotel Flamingo</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2503148) book.
 
 > "The temperature is rising, which can only mean one thing: it's summer! Bookings are up at Hotel Flamingo and the hotel is getting busy. Anna is excited to receive word from King Penguin royalty asking to holiday in their Royal Suite. But there's a lot to get done, and it's not easy to manage the needs of the penguins when there's a heatwave on and a huge ice shortage. Help!
 

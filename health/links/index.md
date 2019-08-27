@@ -91,7 +91,7 @@ Here are some of the organisations and information sources available for a varie
 <h3 id="bereavement">Bereavement</h3>
 <ul>
 	<li><a href="http://www.cruse.org.uk/">Cruse Bereavement Care</a> - Offering support you need after losing someone you care about</li>
-	<li><a href="http://www.winstonswish.org.uk/">Winston's Wish</a> - Support for those who are caring for bereaved children</li>
+	<li><a href="http://www.winstonswish.org/">Winston's Wish</a> - Support for those who are caring for bereaved children</li>
 	<li><a href="http://www.ageuk.org.uk/health-wellbeing/relationships-and-family/bereavement/emotional-effects-of-bereavement/">Age UK</a> - Practical support and advice on bereavement</li>
 	<li><a href="http://hopeaftersuicideloss.org.uk/">Hope After Suicide Loss (HOPE)</a> - National helpline and groups in Ipswich, Bury St Edmunds, Lowestoft and Norfolk</li>
 </ul>
@@ -199,7 +199,7 @@ Here are some of the organisations and information sources available for a varie
 </ul>
 <h3 id="parents">Parents and carers</h3>
 <ul>
-	<li><a href="https://www.parentsandcarerstogether.uk/">Parents and Carers Together (PACT)</a> - Support for parents and carers of children and young people with mental health issues of any kind. See also: <a href="https://www.facebook.com/parentsandcarerstogether">PACT Facebook page</a>; <a href="https://www.twitter.com/pactenquiries">PACT Twitter feed</a></li>
+	<li><a href="https://www.parentsandcarerstogether.co.uk/">Parents and Carers Together (PACT)</a> - Support for parents and carers of children and young people with mental health issues of any kind. See also: <a href="https://www.facebook.com/parentsandcarerstogether">PACT Facebook page</a>; <a href="https://www.twitter.com/pactenquiries">PACT Twitter feed</a></li>
 	<li><a href="https://suffolkfamilycarers.org/">Suffolk Family Carers</a> - support for family carers of all ages</li>
 	<li><a href="https://spcn.org.uk/">Suffolk Parent Carer Network (SPCN)</a> - support and a voice for parents and carers of children and young people with additional needs and/or disabilities.</li>
 </ul>

@@ -6,7 +6,6 @@ event-start-date: 2019-06-28
 event-start-time: 1800
 event-end-time: 2000
 event-ticket-price: free
-event-ticket-url: http://felixstowe-book-festival.bitballoon.com/event?event=204328
 event-category: fbf
 breadcrumb: y
 ---

@@ -48,7 +48,7 @@ Yes. But whether they get written will depend, to a degree, on the success of th
 
 I alternate a non-fiction book (specifically, relating to something I know nothing about) with fiction. Cabbage then cake, if you will.
 
-For non-fiction, I’ve just finished Ronen Bergman's <cite>Rise up and Kill First: the secret history of Israel's Targeted Assassinations</cite>, and am really enjoying Tim Marshall's [<cite>Prisoners of Geography: ten maps that explain everything about the world</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2029985) just now. Next up is <cite>Risk Savvy: how to make good decisions</cite>, by Gerd Gigerenzer and [<cite>Angry Write Pyjamas</cite>]((https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=355934)), by Robert Twigger.
+For non-fiction, I’ve just finished Ronen Bergman's <cite>Rise up and Kill First: the secret history of Israel's Targeted Assassinations</cite>, and am really enjoying Tim Marshall's [<cite>Prisoners of Geography: ten maps that explain everything about the world</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2029985) just now. Next up is <cite>Risk Savvy: how to make good decisions</cite>, by Gerd Gigerenzer and [<cite>Angry Write Pyjamas</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=355934)), by Robert Twigger.
 
 In terms of fiction, I’m reading Stephen King's [<cite>The Outsider</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2363972). I’m halfway through, and in the 'not sure' phase at the moment.
 
