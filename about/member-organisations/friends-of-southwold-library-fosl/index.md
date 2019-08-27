@@ -8,40 +8,39 @@ breadcrumb: member-organisations
 
 ## The story so far
 
-![FoSL’s fifth birthday cake](/images/featured/featured-fosl-fifth-birthday-cake.jpg)
-
-*FoSL’s fifth birthday cake*
+{% include /c/figure.html src="/images/featured/featured-fosl-fifth-birthday-cake.jpg" alt="FoSL’s fifth birthday cake" caption="FoSL’s fifth birthday cake" %}
 
 FoSL was established in January 2013 as a small charity to fundraise in support of Southwold Library. Members wanted to keep their library open, raise money to support the running of Southwold Library and, where possible, provide a few enhancements which the library’s budget might not otherwise stretch to.
 
-In the three years since then, FoSL has:
+In the six years since then, we have:
 
 * Provided funds to buy furniture, new moveable bookshelves and a new children's library
 * Paid for Wi-Fi, a laminator and a scanner, making new services available for local people
 * Sponsored community events run by Southwold Library staff, such as the Harry Potter night for children held in February and the very popular annual crime writers’ festival, Slaughter in Southwold, which takes place in June each year
+* Sponsored children's events throughout the summer holidays. In 2019, these included visits from the Mini Monsters, Mr Bean Entertainments, Beach Bonkers and local artist Meraylah Allwood. We also funded visits from organisations such as Sutton Hoo, and paid for materials for children's craft activities run by library staff.
 
-![Peter James at Slaughter in Southwold](/images/featured/featured-peter-james-slaughter-in-southwold.jpg)
+{% include /c/figure.html src="/images/featured/featured-val-mcdermid-slaughter-2019.jpg" alt="Crime writer Val McDermid speaking at Slaughter in Southwold" caption="Crime writer Val McDermid speaking at Slaughter in Southwold" %}
 
-*Crime author Peter James speaking at Slaughter in Southwold*
+We raise funds through events such as book sales, quiz nights, an annual plant sale & fete, sound & vision sales, coffee mornings and stalls at the Christmas Lights Switch-on, the Southwold Arts Festival, the Lions’ Club fete and more. All of these events are run by Friends. There are lots of opportunities to get involved, help the Library and meet other people who care about the Library. If you are not already a Friend, why not join us? You’ll find a form further down this page.
 
-Funds are raised through events such as book sales, quiz nights, the annual plant sale & fete, the sound and vision sale, coffee mornings and stalls at the Christmas Lights Switch-on, the Southwold Arts Festival, the Lions’ Club fete and more. All of these events are run by Friends. There are lots of opportunities to get involved, help the Library and meet other people who care about the Library. If you are not already a Friend, why not join us? You’ll find a form further down this page.
+We also sell a variety of items through the library, including Southwold Library branded bags, pens and water bottles as well as Treasure Trails treasure hunts, USB sticks, craft items and local books.
 
-FoSL has been so successful in its fundraising that it soon exceeded the £5,000 limit on a small charity’s income. In 2015 FoSL registered with the Charity Commission as a Charitable Incorporated Organisation. FoSL became a member of Suffolk Libraries IPS in March 2013; we are very proud to be part of an organisation identified as the gold standard of public libraries by William Sieghart, author of a recent government report on libraries in England.
+We have been so successful in its fundraising that we soon exceeded the £5,000 limit on a small charity’s income. In 2015, we registered with the Charity Commission as a Charitable Incorporated Organisation. We became a member of Suffolk Libraries IPS in March 2013; we are very proud to be part of an organisation identified as the gold standard of public libraries by William Sieghart, author of a recent government report on libraries in England.
 
 ## Why not join us?
 
-* Membership of FoSL is free and is open to anyone holding a Suffolk Libraries card and who is interested in furthering its purposes.
-* Membership is valid for three years and is renewable.
+* Membership of FoSL is free and is open to anyone holding a Suffolk Libraries card and who is interested in furthering its purposes
+* Membership is valid for three years and is renewable
 * Members will be invited to regular meetings and to take part in fundraising events.
-* Membership entitles you to attend and vote at the annual general meeting and to stand for election as a trustee or vote to elect the trustees.
+* Membership entitles you to attend and vote at the Annual General Meeting and to stand for election as a trustee or vote to elect the trustees
 * You can join by filling in our [FoSL membership form](/assets/doc/fosl-membership-form.docx) (Word doc) which is also available from Southwold Library.
 
 ## Annual Patron Scheme
 
-* Our Annual Patron Scheme is an initiative for our supporters who want to make a financial contribution towards the running costs of Southwold Library.
-* You’ll be listed in the FoSL Annual Report (though you may remain anonymous if you prefer) and receive a copy of the Annual Report.
-* You’ll also be invited to an annual Patrons’ Reception to discuss our work with the trustees and the library manager.
-* You will have the satisfaction of knowing you are supporting a much-valued service open to the whole of the local community.
+* Our Annual Patron Scheme is an initiative for our supporters who want to make a financial contribution towards the running costs of Southwold Library
+* You’ll be listed in the FoSL Annual Report (though you may remain anonymous if you prefer) and receive a copy of the Annual Report
+* You’ll also be invited to an annual Patrons’ Reception to discuss our work with the trustees and the library manager
+* You will have the satisfaction of knowing you are supporting a much-valued service open to the whole of the local community
 * You can donate by using the [FoSL Patrons' form](/assets/doc/fosl-patron-scheme-form.docx) (Word doc), or drop into the library to find out more.
 
 ## Our objectives
@@ -60,7 +59,6 @@ Read our full [FoSL constitution](/assets/pdf/fosl-constitution.pdf) (PDF) and 
 * Honor Manson
 * Treasurer: Kathy Oliver
 * Kate Stevenson
-* Duncan Taylor
 * Chair and Representative of FoSL at Suffolk’s Libraries IPS: John Verity
 
 ## Contact us

@@ -4,7 +4,7 @@ location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2019-09-16
 event-start-time: 1300
-event-ticket-price: "20 (includes a copy of <cite>The Body in the Castle Well</cite>); £12 for one additional ticket without the book"
+event-ticket-price: "20 (includes a copy of <cite>The Body in the Castle Well</cite>); £10 for one additional ticket without the book. £15 for one ticket without the book."
 breadcrumb: y
 ---
 

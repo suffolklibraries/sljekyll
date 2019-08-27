@@ -2,7 +2,7 @@
 name: "Infant Massage taster session"
 location: chantry-library
 location-text: Chantry Library
-event-start-date: 2019-09-22
+event-start-date: 2019-09-16
 event-start-time: 0930
 event-end-time: 1130
 event-ticket-price: free

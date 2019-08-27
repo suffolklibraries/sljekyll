@@ -43,7 +43,3 @@ Solo album from the lead guitarist and vocalist of Alabama Shakes, who played La
 ## [Marika Hackman - <cite>Any Human Friend</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2623288)
 
 Electronic and explicit tales of love and sex. This album has had some great reviews.
-
-## [Liam Gallagher - <cite>Why Me? Why Not?</cite>]()
-
-The title of the Oasis frontman’s new solo album is nothing to do with Mario Balotelli. It was inspired by some John Lennon drawings he bought.
