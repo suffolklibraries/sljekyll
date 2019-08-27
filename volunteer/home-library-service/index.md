@@ -11,4 +11,4 @@ See our case studies for [info on how rewarding volunteering for the home librar
 
 The minimum volunteers contribute is a morning or afternoon each month. You'll need access to a car, driving yourself or pairing up with another volunteer.
 
-For more information on volunteering for the home library service, or if you'd like to use the service, email **volunteer@suffolklibraries.co.uk**
+For more information on volunteering for the home library service, or if you'd like to use the service, email **hls@suffolklibraries.co.uk**
