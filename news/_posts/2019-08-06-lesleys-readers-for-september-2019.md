@@ -8,6 +8,8 @@ excerpt: "This month Lesley will be discussing <cite>The Horseman</cite>, by Tim
 breadcrumb: news
 ---
 
+**Please note date change**
+
 Each month BBC Radio Suffolk presenter Lesley Dolphin discusses a book with journalist Catherine Larner as part of Lesley's Readers monthly book group.
 
 This month's chosen book is [<cite>The Horseman</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1940622), by Tim Pears:
@@ -19,5 +21,5 @@ This month's chosen book is [<cite>The Horseman</cite>](https://suffolk.spydus.c
 > "And so a friendship begins, bound by a deep love of horses, but divided by rigid social boundaries - boundaries that become increasingly difficult to navigate as they approach adolescence."
 
 If you've read the book, why not join in the discussion at 2:20pm
-on Tuesday 3 September? Call Radio Suffolk on [01473 250000](tel:01473250000), email **lesley.dolphin@bbc.co.uk**, tweet
+on **Wednesday 4 September**? Call Radio Suffolk on [01473 250000](tel:01473250000), email **lesley.dolphin@bbc.co.uk**, tweet
 [@lesleydolphin](https://twitter.com/lesleydolphin) or visit the [Lesley's Readers Facebook page](http://www.facebook.com/LesleysReaders).
