@@ -32,5 +32,4 @@ branch-news: '<ul>
               <li>Baby Bounce and Tot Rock are currently not running at this library.</li>
               </ul>'
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, older people's activities."
-branch-news: "The library is closed today (Wednesday 28 August) due to an electrical failure."
 ---
