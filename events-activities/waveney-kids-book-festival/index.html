@@ -6,11 +6,414 @@ breadcrumb: events
 
 <h1 class="{% include /c/page-title.html %} tc">Waveney Kids' Book Festival</h1>
 
-<p class="tc b f4">Southwold and Beccles libraries, Southwold Arts Centre and Southwold Books 19 - 27 October 2019</p>
+<p class="tc b f4">Southwold Arts Centre and Beccles Library, 19 - 27 October 2019</p>
 
-<p class="ma0 mb2">A variety of events and activities based around books, writing and drawing for children of all ages this October half-term. Confirmed authors and illustrators so far include Kevin Crossley-Holland, Polly Dunbar, A. L. Kennedy, James Mayhew & Zeb Soanes, Julia Jones, Lisa Thompson, Francesca Armour-Chelu, Sophie Green and Linda Davies.</p>
+<p class="ma0 mb2">A variety of events and activities based around books, writing and drawing for children of all ages this October half-term.</p>
 
-<img class="db center" src="/images/featured/featured-wkbf-370.jpg" alt="Waveney Kids' Book Festival logo">
+<h2>Saturday 19 October</h2>
+
+<div class="custom-prose custom-lh-copy pb4">
+
+  {% assign current_event_list = site.events | where: "event-category", "wkbf-sat-19" | sort: 'event-start-time' %}
+
+  {% for current_event in current_event_list %}
+
+      <article class="{% include /c/slot.html %}">
+
+          <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ current_event.url }}" class="blue">{{ current_event.name | remove: "Waveney Kids' Book Festival: " }}</a></h1>
+
+          <p class="{% include /c/page-meta.html %} mb0">{{ current_event.event-start-time }}{% if current_event.event-end-time %}&#8211;{{ current_event.event-end-time }}{% endif %}
+          <br>{{ current_event.wkbf-location }}</p>
+
+          <div class="cf{% if current_event.event-image %} pt3{% endif %}">
+
+              {% if current_event.event-image %}
+
+                <div class="custom-g-l2">
+
+                    <img src="/images/{{ current_event.event-image }}" alt="{{ current_event.name }}" class="db center br-100">
+
+                </div>
+
+              {% endif %}
+
+              {% if current_event.event-image %}<div class="custom-g-l4 custom-g-nm">{% endif %}
+
+              <div class="custom-prose custom-lh-copy">
+
+                  {{ current_event.excerpt }}
+
+              </div>
+
+               {% if current_event.event-image %}</div>{% endif %}
+
+          </div>
+
+      </article>
+
+  {% endfor %}
+
+</div>
+
+<h2>Sunday 20 October</h2>
+
+<div class="custom-prose custom-lh-copy pb4">
+
+  {% assign current_event_list = site.events | where: "event-category", "wkbf-sun-20" | sort: 'event-start-time' %}
+
+  {% for current_event in current_event_list %}
+
+      <article class="{% include /c/slot.html %}">
+
+          <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ current_event.url }}" class="blue">{{ current_event.name | remove: "Waveney Kids' Book Festival: " }}</a></h1>
+
+          <p class="{% include /c/page-meta.html %} mb0">{{ current_event.event-start-time }}{% if current_event.event-end-time %}&#8211;{{ current_event.event-end-time }}{% endif %}
+          <br>{{ current_event.wkbf-location }}</p>
+
+          <div class="cf{% if current_event.event-image %} pt3{% endif %}">
+
+              {% if current_event.event-image %}
+
+                <div class="custom-g-l2">
+
+                    <img src="/images/{{ current_event.event-image }}" alt="{{ current_event.name }}" class="db center br-100">
+
+                </div>
+
+              {% endif %}
+
+              {% if current_event.event-image %}<div class="custom-g-l4 custom-g-nm">{% endif %}
+
+              <div class="custom-prose custom-lh-copy">
+
+                  {{ current_event.excerpt }}
+
+              </div>
+
+               {% if current_event.event-image %}</div>{% endif %}
+
+          </div>
+
+      </article>
+
+  {% endfor %}
+
+</div>
+
+<h2>Monday 21 October</h2>
+
+<div class="custom-prose custom-lh-copy pb4">
+
+  {% assign current_event_list = site.events | where: "event-category", "wkbf-mon" | sort: 'event-start-time' %}
+
+  {% for current_event in current_event_list %}
+
+      <article class="{% include /c/slot.html %}">
+
+          <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ current_event.url }}" class="blue">{{ current_event.name | remove: "Waveney Kids' Book Festival: " }}</a></h1>
+
+          <p class="{% include /c/page-meta.html %} mb0">{{ current_event.event-start-time }}{% if current_event.event-end-time %}&#8211;{{ current_event.event-end-time }}{% endif %}
+          <br>{{ current_event.wkbf-location }}</p>
+
+          <div class="cf{% if current_event.event-image %} pt3{% endif %}">
+
+              {% if current_event.event-image %}
+
+                <div class="custom-g-l2">
+
+                    <img src="/images/{{ current_event.event-image }}" alt="{{ current_event.name }}" class="db center br-100">
+
+                </div>
+
+              {% endif %}
+
+              {% if current_event.event-image %}<div class="custom-g-l4 custom-g-nm">{% endif %}
+
+              <div class="custom-prose custom-lh-copy">
+
+                  {{ current_event.excerpt }}
+
+              </div>
+
+               {% if current_event.event-image %}</div>{% endif %}
+
+          </div>
+
+      </article>
+
+  {% endfor %}
+
+</div>
+
+<h2>Tuesday 22 October</h2>
+
+<div class="custom-prose custom-lh-copy pb4">
+
+  {% assign current_event_list = site.events | where: "event-category", "wkbf-tue" | sort: 'event-start-time' %}
+
+  {% for current_event in current_event_list %}
+
+      <article class="{% include /c/slot.html %}">
+
+          <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ current_event.url }}" class="blue">{{ current_event.name | remove: "Waveney Kids' Book Festival: " }}</a></h1>
+
+          <p class="{% include /c/page-meta.html %} mb0">{{ current_event.event-start-time }}{% if current_event.event-end-time %}&#8211;{{ current_event.event-end-time }}{% endif %}
+          <br>{{ current_event.wkbf-location }}</p>
+
+          <div class="cf{% if current_event.event-image %} pt3{% endif %}">
+
+              {% if current_event.event-image %}
+
+                <div class="custom-g-l2">
+
+                    <img src="/images/{{ current_event.event-image }}" alt="{{ current_event.name }}" class="db center br-100">
+
+                </div>
+
+              {% endif %}
+
+              {% if current_event.event-image %}<div class="custom-g-l4 custom-g-nm">{% endif %}
+
+              <div class="custom-prose custom-lh-copy">
+
+                  {{ current_event.excerpt }}
+
+              </div>
+
+               {% if current_event.event-image %}</div>{% endif %}
+
+          </div>
+
+      </article>
+
+  {% endfor %}
+
+</div>
+
+<h2>Wednesday 23 October</h2>
+
+<div class="custom-prose custom-lh-copy pb4">
+
+  {% assign current_event_list = site.events | where: "event-category", "wkbf-wed" | sort: 'event-start-time' %}
+
+  {% for current_event in current_event_list %}
+
+      <article class="{% include /c/slot.html %}">
+
+          <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ current_event.url }}" class="blue">{{ current_event.name | remove: "Waveney Kids' Book Festival: " }}</a></h1>
+
+          <p class="{% include /c/page-meta.html %} mb0">{{ current_event.event-start-time }}{% if current_event.event-end-time %}&#8211;{{ current_event.event-end-time }}{% endif %}
+          <br>{{ current_event.wkbf-location }}</p>
+
+          <div class="cf{% if current_event.event-image %} pt3{% endif %}">
+
+              {% if current_event.event-image %}
+
+                <div class="custom-g-l2">
+
+                    <img src="/images/{{ current_event.event-image }}" alt="{{ current_event.name }}" class="db center br-100">
+
+                </div>
+
+              {% endif %}
+
+              {% if current_event.event-image %}<div class="custom-g-l4 custom-g-nm">{% endif %}
+
+              <div class="custom-prose custom-lh-copy">
+
+                  {{ current_event.excerpt }}
+
+              </div>
+
+               {% if current_event.event-image %}</div>{% endif %}
+
+          </div>
+
+      </article>
+
+  {% endfor %}
+
+</div>
+
+<h2>Thursday 24 October</h2>
+
+<div class="custom-prose custom-lh-copy pb4">
+
+  {% assign current_event_list = site.events | where: "event-category", "wkbf-thu" | sort: 'event-start-time' %}
+
+  {% for current_event in current_event_list %}
+
+      <article class="{% include /c/slot.html %}">
+
+          <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ current_event.url }}" class="blue">{{ current_event.name | remove: "Waveney Kids' Book Festival: " }}</a></h1>
+
+          <p class="{% include /c/page-meta.html %} mb0">{{ current_event.event-start-time }}{% if current_event.event-end-time %}&#8211;{{ current_event.event-end-time }}{% endif %}
+          <br>{{ current_event.wkbf-location }}</p>
+
+          <div class="cf{% if current_event.event-image %} pt3{% endif %}">
+
+              {% if current_event.event-image %}
+
+                <div class="custom-g-l2">
+
+                    <img src="/images/{{ current_event.event-image }}" alt="{{ current_event.name }}" class="db center br-100">
+
+                </div>
+
+              {% endif %}
+
+              {% if current_event.event-image %}<div class="custom-g-l4 custom-g-nm">{% endif %}
+
+              <div class="custom-prose custom-lh-copy">
+
+                  {{ current_event.excerpt }}
+
+              </div>
+
+               {% if current_event.event-image %}</div>{% endif %}
+
+          </div>
+
+      </article>
+
+  {% endfor %}
+
+</div>
+
+<h2>Friday 25 October</h2>
+
+<div class="custom-prose custom-lh-copy pb4">
+
+  {% assign current_event_list = site.events | where: "event-category", "wkbf-fri" | sort: 'event-start-time' %}
+
+  {% for current_event in current_event_list %}
+
+      <article class="{% include /c/slot.html %}">
+
+          <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ current_event.url }}" class="blue">{{ current_event.name | remove: "Waveney Kids' Book Festival: " }}</a></h1>
+
+          <p class="{% include /c/page-meta.html %} mb0">{{ current_event.event-start-time }}{% if current_event.event-end-time %}&#8211;{{ current_event.event-end-time }}{% endif %}
+          <br>{{ current_event.wkbf-location }}</p>
+
+          <div class="cf{% if current_event.event-image %} pt3{% endif %}">
+
+              {% if current_event.event-image %}
+
+                <div class="custom-g-l2">
+
+                    <img src="/images/{{ current_event.event-image }}" alt="{{ current_event.name }}" class="db center br-100">
+
+                </div>
+
+              {% endif %}
+
+              {% if current_event.event-image %}<div class="custom-g-l4 custom-g-nm">{% endif %}
+
+              <div class="custom-prose custom-lh-copy">
+
+                  {{ current_event.excerpt }}
+
+              </div>
+
+               {% if current_event.event-image %}</div>{% endif %}
+
+          </div>
+
+      </article>
+
+  {% endfor %}
+
+</div>
+
+<h2>Saturday 26 October</h2>
+
+<div class="custom-prose custom-lh-copy pb4">
+
+  {% assign current_event_list = site.events | where: "event-category", "wkbf-sat-26" | sort: 'event-start-time' %}
+
+  {% for current_event in current_event_list %}
+
+      <article class="{% include /c/slot.html %}">
+
+          <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ current_event.url }}" class="blue">{{ current_event.name | remove: "Waveney Kids' Book Festival: " }}</a></h1>
+
+          <p class="{% include /c/page-meta.html %} mb0">{{ current_event.event-start-time }}{% if current_event.event-end-time %}&#8211;{{ current_event.event-end-time }}{% endif %}
+          <br>{{ current_event.wkbf-location }}</p>
+
+          <div class="cf{% if current_event.event-image %} pt3{% endif %}">
+
+              {% if current_event.event-image %}
+
+                <div class="custom-g-l2">
+
+                    <img src="/images/{{ current_event.event-image }}" alt="{{ current_event.name }}" class="db center br-100">
+
+                </div>
+
+              {% endif %}
+
+              {% if current_event.event-image %}<div class="custom-g-l4 custom-g-nm">{% endif %}
+
+              <div class="custom-prose custom-lh-copy">
+
+                  {{ current_event.excerpt }}
+
+              </div>
+
+               {% if current_event.event-image %}</div>{% endif %}
+
+          </div>
+
+      </article>
+
+  {% endfor %}
+
+</div>
+
+<h2>Sunday 27 October</h2>
+
+<div class="custom-prose custom-lh-copy pb4">
+
+  {% assign current_event_list = site.events | where: "event-category", "wkbf-sun-27" | sort: 'event-start-time' %}
+
+  {% for current_event in current_event_list %}
+
+      <article class="{% include /c/slot.html %}">
+
+          <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ current_event.url }}" class="blue">{{ current_event.name | remove: "Waveney Kids' Book Festival: " }}</a></h1>
+
+          <p class="{% include /c/page-meta.html %} mb0">{{ current_event.event-start-time }}{% if current_event.event-end-time %}&#8211;{{ current_event.event-end-time }}{% endif %}
+          <br>{{ current_event.wkbf-location }}</p>
+
+          <div class="cf{% if current_event.event-image %} pt3{% endif %}">
+
+              {% if current_event.event-image %}
+
+                <div class="custom-g-l2">
+
+                    <img src="/images/{{ current_event.event-image }}" alt="{{ current_event.name }}" class="db center br-100">
+
+                </div>
+
+              {% endif %}
+
+              {% if current_event.event-image %}<div class="custom-g-l4 custom-g-nm">{% endif %}
+
+              <div class="custom-prose custom-lh-copy">
+
+                  {{ current_event.excerpt }}
+
+              </div>
+
+               {% if current_event.event-image %}</div>{% endif %}
+
+          </div>
+
+      </article>
+
+  {% endfor %}
+
+</div>
 
 <footer class="{% include /c/content-block.html %} pt2 bt b--light-gray">
 
@@ -18,7 +421,7 @@ breadcrumb: events
 
     <li class="dib mr2 mr3-ns"><img src="/images/featured/featured-southwold-arts-centre.jpg" alt="Southwold Arts Centre" /></a></li>
     <li class="dib mr2 mr3-ns"><img src="/images/featured/featured-southwold-books.jpg" alt="Southwold Books" /></a></li>
-    
+
   </ul>
 
 </footer>

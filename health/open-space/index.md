@@ -21,4 +21,4 @@ Find an Open Space meeting near you:
 - [Newmarket Library](/health/open-space/newmarket/)
 - [Stowmarket Library](/health/open-space/stowmarket/)
 - [Sudbury Library](/health/open-space/sudbury/)
-- [Sudbury Library](/health/open-space/woodbridge/)
+- [Woodbridge Library](/health/open-space/woodbridge/)
