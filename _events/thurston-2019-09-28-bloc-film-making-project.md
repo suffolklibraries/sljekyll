@@ -1,5 +1,5 @@
 ---
-name: "BLOC five-week creative film-making project: for 11-18 year-olds - five consecutive Saturdays"
+name: "BLOC creative film-making project: for 11-18 year-olds - five consecutive Saturdays"
 location: thurston-library
 location-text: Thurston Library
 event-start-date: 2019-09-28
