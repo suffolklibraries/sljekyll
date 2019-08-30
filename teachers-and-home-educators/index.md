@@ -10,7 +10,7 @@ breadcrumb: home
 
 We offer two special cards for educators:
 
-* **School Self-Service Card.** For £50 a year, schools can borrow up to 35 books for 17 weeks at a time. For more information and to apply, call [01473 351249](tel:01473 351249) or email **help@suffolklibraries.co.uk
+* **School Self-Service Card.** For £50 a year, schools can borrow up to 35 books for 17 weeks at a time. For more information and to apply, call [01473 351249](tel:01473 351249) or email **help@suffolklibraries.co.uk**
 * **Home Educator Card.** A free additional card that allows you to borrow up to 20 books for 12 weeks at a time if you teach your children at home. For more information and to apply, visit [your local library](/libraries/).
 
 ## School visits
