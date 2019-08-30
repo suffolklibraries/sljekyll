@@ -7,6 +7,8 @@ breadcrumb: home
 
 A full library service is provided in all prisons in Suffolk, funded by the Home Office and based in HMP Highpoint South, HMP Highpoint North, HMP &amp; YOI Hollesley Bay and HMP Warren Hill.
 
+Suffolk Libraries also provides library services outside of Suffolk, at HMP Bedford, HMP Ranby and HMP Whatton.
+
 For more information contact us:
 
 * Email: **help@suffolklibraries.co.uk**
