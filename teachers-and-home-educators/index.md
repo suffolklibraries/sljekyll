@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: full-width-narrow
 title: 'Teachers &amp; home educators'
 breadcrumb: home
 ---
-
-<h1 class="page-title">Teachers &amp; home educators</h1>
 
 ## Library cards
 
@@ -14,6 +12,8 @@ We offer two special cards for educators:
 * **Home Educator Card.** A free additional card that allows you to borrow up to 20 books for 12 weeks at a time if you teach your children at home. For more information and to apply, visit [your local library](/libraries/).
 
 ## School visits
+
+<img src="/images/featured/featured-school-visit.jpg" alt="Schoolchildren at the Suffolk Libraries Children's Month launch at Bungay Library" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
 
 Would you like to bring your class(es) to visit one of our libraries, or invite one of our staff to visit your school? Contact [your local library](/libraries/) or email **help@suffolklibraries.co.uk**
 
@@ -26,6 +26,8 @@ Would you like to bring your class(es) to visit one of our libraries, or invite 
 * [Fact-checking tips from Suffolk Libraries](/assets/pdf/get-your-facts-right.pdf) (PDF) - free poster you can download and print.
 
 ### Find the right book at the right time
+
+<img src="/images/featured/featured-children-holding-books.jpg" alt="Children holding up books that are popular with Suffolk Libraries readers" class="custom-br-50 mw-40 {% include /c/img-float-left.html %}" />
 
 * [New titles and recommendations for primary school children](/parents-carers-and-children/childrens-ya-books/) and [new titles and recommendations for secondary school children](/new-suggestions/young-adult/) - handpicked new and themed titles from our children's librarian. Includes lists for Empathy Day, Black History Month, Refugee Week and Pride, as well as award longlists and shortlists
 * [Booktrust Bookfinder](https://www.booktrust.org.uk/books-and-reading/bookfinder/) - perfect titles for all ages and interests
@@ -42,8 +44,11 @@ Would you like to bring your class(es) to visit one of our libraries, or invite 
 
 ### Further support
 
+<img src="/images/featured/featured-src-session.jpg" alt="Two boys with books and a Summer Reading Challenge volunteer" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+
 * [Dyslexia and Irlen syndrome](/parents-carers-and-children/dyslexia-irlen/) - information, advice and booklists for parents of children with dyslexia or visual stress
 * [Help with reading and literacy](/help-with-reading-and-literacy/) - information on local and national organisations and reading materials for struggling readers of all ages and abilities
 * [Bookstart and storytime resources](/parents-carers-and-children/bookstart-storytime-resources/) - includes information about our storysacks and big books - perfect for bringing stories to life for groups of children - as well as our Get Ready for School bags
 * [Parenting advice collection](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/) - booklists on lots of aspects of growing up, including mental health and wellbeing, aimed at young children and young adults
+* [Haverhill Library](/libraries/haverhill-library/) run a Home Education Book Club for Key Stage 1/2 children twice a month
 * Every year during the summer holidays we run the [Summer Reading Challenge](/src/). The challenge is aimed at children aged 5-11, and we encourage 12+ year-olds to volunteer to help out.

@@ -29,6 +29,7 @@ branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
 branch-news: '<ul>
               <li>Kedington Library will be closed from 27 - 30 September for essential electrical works.</li>
+              <li>The Friends of Kedington Library are looking for a <a href="/assets/pdf/friends-group-treasurer-volunteer-role-profile.pdf">volunteer treasurer</a>.</li>
               <li>Baby Bounce and Tot Rock are currently not running at this library.</li>
               </ul>'
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, older people's activities."
