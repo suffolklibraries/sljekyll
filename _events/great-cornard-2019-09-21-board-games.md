@@ -5,7 +5,6 @@ location-text: Great Cornard Library
 event-start-date: 2019-09-21
 event-start-time: 1700
 event-end-time: 1900
-event-category: summer-holidays
 breadcrumb: y
 ---
 

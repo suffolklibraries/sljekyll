@@ -35,7 +35,7 @@ Highlights include:
 * A children’s treasure hunt around the town from Clare Library
 * Evening 60s, 70s and 80s Old Skool Disco at Glemsford Library
 * Family history open event at Haverhill Library
-* Apple Day’ with apple-based food, a working apple press and crafts at Long Melford Library
+* 'Apple Day’ with apple-based food, a working apple press and crafts at Long Melford Library
 * Scavenger hunt around the library and a children’s author visit at Sudbury Library
 
 ## East Suffolk
@@ -44,10 +44,10 @@ Highlights include:
 *  Photography exhibition and visit from BPF Librarian Dr Nicholas Clark at Aldeburgh Library
 * Meet the Author event with Kate Thompson at Felixstowe Library
 
-The [mobile library service](/mobiles-home/) will also be holding a fundraising raffle. 
+The [mobile library service](/mobiles-home/) will also be holding a fundraising raffle.
 
 Suffolk Libraries business development manager Nikki Hulse said: "We’re thrilled at the creativity and dedication of our staff to run such a range of fun and diverse events. Like our library spaces, there’s something for everyone and we hope that they encourage people to see what libraries have to offer and show why we need the public's support."
 
 During the week leading up to Suffolk Libraries Day, a [Book Journey Challenge](/suffolk-libraries-day/book-journey/) will also take place, with Suffolk businesses coming together to get the book from Bungay to Haverhill, visiting all of the county’s libraries in between.
 
-Full details of all the events will soon be confirmed and posted on our [Suffolk Libraries Day page](/suffolk-libraries-day/). You can also visit [ yourlocal library](/libraries/) to find out more
+Full details of all the events will soon be confirmed and posted on our [Suffolk Libraries Day page](/suffolk-libraries-day/). You can also visit [your local library](/libraries/) to find out more
