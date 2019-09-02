@@ -9,6 +9,7 @@ branch-thursday-hours: Closed
 branch-friday-hours: 0930 – 1800
 branch-saturday-hours: 0930 – 1700
 branch-sunday-hours: 1000 – 1500
+branch-manager: Julie Gulliver
 branch-address: Bridge Street, Halesworth
 branch-post-code: IP19 8AD
 branch-tel: 01986 875095
