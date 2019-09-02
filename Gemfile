@@ -1,7 +1,7 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
-gem "jekyll"
+gem "jekyll", "3.8.5"
 gem "pathutil"
 gem "addressable"
 
