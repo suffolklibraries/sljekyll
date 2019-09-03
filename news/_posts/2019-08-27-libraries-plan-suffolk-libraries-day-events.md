@@ -6,6 +6,7 @@ author: hannah-foulstone
 category: news
 excerpt: "Many of our libraries have released initial details of the events and activities they plan to hold on and around the first ever Suffolk Libraries Day on Saturday 12 October."
 breadcrumb: news
+category: sld-news
 ---
 
 Many of our libraries have released initial details of the events and activities they plan to hold on and around the first ever [Suffolk Libraries Day](/suffolk-libraries-day/) on Saturday 12 October.

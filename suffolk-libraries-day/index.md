@@ -1,6 +1,11 @@
 ---
 title: "Suffolk Libraries Day"
 layout: blank
+featured: true
+featured-excerpt: "On Saturday 12 October, we're holding events across the county to celebrate everything our libraries do for their communities."
+featured-link-href-text: "Find out about Suffolk Libraries Day &rarr;"
+featured-image: "/images/featured/featured-bruce-and-pamela.jpg"
+featured-alt: "Suffolk Libraries CEO Bruce Leeke and The Huntingfield Paintress author Pamela Holmes launch Suffolk Libraries Day at Felixstowe Library"
 ---
 
 {% include hnav-small.html menu="sld" %}
@@ -32,6 +37,48 @@ layout: blank
     </div>
 
   </header>
+
+  <section class="ph2 ph3-ns pv3 bg-white">
+
+    <div class="custom-max-width">
+
+            <h2 class="tc f4 f3-ns custom-lh-title mb4-l">News and updates</h2>
+
+            <div class="flex-l">
+
+              <div class="w-50-l pr4-l">
+
+                {% assign sld-news = site.posts | where: "category", "sld-news" | sort: "date" %}
+
+                {% for post in sld-news %}
+
+                <p class="mt0 mb1 measure center b"><a class="dark-blue" href="{{ post.url }}">{{ post.title }}</a></p>
+
+                <p class="mt0 f6">{{ post.date | date: "%a %-d %b" }}</p>
+
+                <p class="mt0 measure center">{{ post.excerpt }}</p>
+
+                {% endfor %}
+
+              </div>
+
+              <div class="w-50-l pr4-l">
+
+                <figure class="mt3">
+
+                    <img class="db mb3 center ba bw3 b--white shadow-2 border-box" src="/images/featured/featured-bruce-and-pamela.jpg" alt="Suffolk Libraries CEO Bruce Leeke and The Huntingfield Paintress author Pamela Holmes launch Suffolk Libraries Day at Felixstowe Library">
+
+                    <figcaption><p class="f5 mt0">Suffolk Libraries CEO Bruce Leeke and <cite>The Huntingfield Paintress</cite> author Pamela Holmes launch Suffolk Libraries Day at Felixstowe Library</p></figcaption>
+
+                </figure>
+
+              </div>
+
+            </div>
+
+    </div>
+
+  </section>
 
   <section class="ph2 ph3-ns pv3 bg-light-gray">
 

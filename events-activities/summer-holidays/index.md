@@ -2,11 +2,6 @@
 layout: default
 title: Summer holiday activities for children
 breadcrumb: events
-featured: true
-featured-excerpt: "The summer holidays are here! Come to an event at your local library or take on the Summer Reading Challenge."
-featured-link-href-text: "Find out about our summer activities &rarr;"
-featured-image: "/images/featured/arts-crafts-370.jpg"
-featured-alt: "Children making crafts at Gainsborough Community Library"
 ---
 
 <h1 class="{% include /c/page-title.html %}">{{ page.title }}</h1>
