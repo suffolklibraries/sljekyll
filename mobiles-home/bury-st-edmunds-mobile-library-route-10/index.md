@@ -4,6 +4,12 @@ title: Bury St Edmunds Mobile Library Route 10
 breadcrumb: mobiles-home
 ---
 
+<div class="{% include /c/generic-panel.html %}">
+
+    <p>Bury St Edmunds Mobile Library Route 10 is off the road on Tuesday 3 September due to repairs.</p>
+
+</div>
+
 ## Contact us:
 
 Managers: Carl Bell and Kevin Lambert

@@ -6,7 +6,7 @@ breadcrumb: mobiles-home
 
 <div class="{% include /c/generic-panel.html %}">
 
-    <p>Bury St Edmunds Mobile Library Route 11 is off the road today (Wednesday 12 June) due to repairs.</p>
+    <p>Bury St Edmunds Mobile Library Route 11 is off the road on Wednesday 4 September due to repairs.</p>
 
 </div>
 

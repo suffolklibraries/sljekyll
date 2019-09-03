@@ -3,6 +3,13 @@ layout: full-width-narrow
 title: Bury St Edmunds Mobile Library Route 12
 breadcrumb: mobiles-home
 ---
+
+<div class="{% include /c/generic-panel.html %}">
+
+    <p>Bury St Edmunds Mobile Library Route 12 will not be running on the morning of Thursday 5 September due to repairs.</p>
+
+</div>
+
 ## Contact us:
 
 Managers: Carl Bell and Kevin Lambert

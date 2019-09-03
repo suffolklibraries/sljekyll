@@ -4,7 +4,7 @@ title: "Suffolk Libraries launches the first ever celebration of the county’s 
 date: 2019-07-11
 author: james-powell
 category: news
-excerpt: "Suffolk Libraries has officially launched a day of celebration to generate support for the county’s library service. The first ever Suffolk Libraries Day will take place on Saturday 12 October 2019"
+excerpt: "Suffolk Libraries has officially launched a day of celebration to generate support for the county’s library service. The first ever Suffolk Libraries Day will take place on Saturday 12 October 2019."
 breadcrumb: news
 featured-image: /images/featured/featured-bruce-and-pamela.jpg
 featured-alt: "Suffolk Libraries CEO Bruce Leeke and The Huntingfield Paintress author Pamela Holmes launch Suffolk Libraries Day at Felixstowe Library"
