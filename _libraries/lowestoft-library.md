@@ -36,7 +36,7 @@ branch-faxing: y
 branch-room-hire: /libraries/room-hire/lowestoft-library
 breadcrumb: y
 branch-other-facilities: '<ul>
-                            <li>Foodbank referral</li>
+                            <li>Foodbank referral - Mondays, Wednesdays and Fridays, 10am - 12pm</li>
                             <li>Lowestoft branch of the Suffolk Record Office on the first floor. See the <a class="blue" href="https://www.suffolkarchives.co.uk/planning-your-visit/suffolk-record-office-branches/lowestoft-branch/">Suffolk Record Office website</a> for opening hours and contact details</li>
                           </ul>'
 branch-pride-and-periods: y

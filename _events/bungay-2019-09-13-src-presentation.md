@@ -1,7 +1,7 @@
 ---
 name: "Summer Reading Challenge presentation"
-location: bungay-library
-location-text: Bungay Library
+location: bungay-community-library
+location-text: Bungay Community Library
 event-start-date: 2019-09-13
 event-start-time: 1545
 event-category: src-presentation

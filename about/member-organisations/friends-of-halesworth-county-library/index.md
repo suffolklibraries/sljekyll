@@ -11,7 +11,7 @@ breadcrumb: member-organisations
 * To raise funds to develop the range of services at Halesworth Library
 * To contribute to the development of the library service across Suffolk
 
-## Who we are
+## The Trustees
 
 * Chair and acting events co-ordinator: Alison Britton
 * Vice chair: Sheila Freeman
@@ -19,7 +19,7 @@ breadcrumb: member-organisations
 * Minutes secretary: Evelyn Lindqvist
 * Trustee: Nigel Frostick
 * Trustee: Natalie Lloyd-Evans
-* Trustee (ex officio): Arlene Roberts (acting library manager)
+* Trustee (ex officio): Julie Gulliver (library manager)
 * Trustee: Yvonne Sandison
 * Trustee: Irene Thomas
 
