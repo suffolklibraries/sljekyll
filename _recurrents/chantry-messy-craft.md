@@ -1,6 +1,6 @@
 ---
 recurrent-title: 'Free messy church with Ipswich Methodist Church: arts and crafts for all ages'
-recurrent-day: Tuesdays from 10 September
+recurrent-day: Tuesdays
 recurrent-times: 1600-1800
 recurrent-location: chantry-library
 recurrent-location-display-name: Chantry Library
