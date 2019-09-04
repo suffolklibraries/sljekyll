@@ -8,4 +8,4 @@ event-category: src-presentation
 breadcrumb: y
 ---
 
-Children who have completed the Summer Reading Challenge are invited to receive their certificates and medals.
+Children who have completed the Summer Reading Challenge are invited to receive their certificates and medals from Councillor Tony Goldson.
