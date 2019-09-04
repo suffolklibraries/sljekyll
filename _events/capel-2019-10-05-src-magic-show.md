@@ -2,7 +2,7 @@
 name: "Magic show: for Summer Reading Challenge finishers"
 location: capel-st-mary-library
 location-text: Capel St Mary Library
-event-start-date: 2019-10-15
+event-start-date: 2019-10-05
 event-start-time: 1330
 event-category: src-presentation
 breadcrumb: y
