@@ -702,7 +702,7 @@ layout: blank
                   9am - 10am (1 hour)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-                  Friends of the Library in Kessingland (F.O.L.K.) - Tractor
+                  Friends of Lakenheath Library (F.O.L.K.) - Tractor
                 </td>
               </tr>
               <tr class="">
