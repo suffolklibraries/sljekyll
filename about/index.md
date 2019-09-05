@@ -4,11 +4,11 @@ layout: sidebar-left
 sidebar: about
 breadcrumb: home
 ---
-<div class="f3 pb3 bb b--light-gray">
+<div class="pb3 bb b--light-gray">
 
-  <p>We’re a charity that provides all of Suffolk’s library services. We make life better for thousands of Suffolk people, through events, pre-school activities, wellbeing drop-ins, arts residencies and by simply providing a safe, non-judgemental place to be. And we lend physical and digital books – millions of them every year.</p>
+  <p class="f3">We’re a charity that provides all of Suffolk’s library services. We make life better for thousands of Suffolk people, through events, pre-school activities, wellbeing drop-ins, arts residencies and by simply providing a safe, non-judgemental place to be. And we lend physical and digital books – millions of them every year.</p>
 
-  <p>{% include /c/button-blue.html text="Read our 2019-2022 strategy &rarr;" url="/assets/pdf/suffolk-libraries-strategy-2019-22.pdf" %} <span class="f5 db pt3">(PDF, <cite>Making Life Better</cite>)</span></p>
+  <p class="f4 f3-ns">{% include /c/button-blue.html text="Read our 2019-2022 strategy &rarr;" url="/assets/pdf/suffolk-libraries-strategy-2019-22.pdf" %} <span class="f6 f5-ns db pt3">(PDF, <cite>Making Life Better</cite>)</span></p>
 
 </div>
 
