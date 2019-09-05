@@ -17,7 +17,7 @@ Highlights from our libraries and their friends groups.
 
 Contact our marketing and communications manager for a full report: **james.powell@suffolklibraries.co.uk**
 
-## 2020 Strategy
+## 2019-2022 strategy _Making Life Better_
 
 [Suffolk Libraries 2019-22 Strategy](/assets/pdf/suffolk-libraries-strategy-2019-22.pdf) (PDF)
 
