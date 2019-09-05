@@ -30,4 +30,5 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/elmswell-library
 breadcrumb: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, Lego Club, family history group."
+branch-news: "The library is closing at 5:30pm today (Thursday 5 September) due to staff sickness."
 ---
