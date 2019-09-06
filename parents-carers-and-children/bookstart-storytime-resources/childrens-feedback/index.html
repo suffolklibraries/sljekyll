@@ -1,0 +1,69 @@
+---
+title: "Children’s activity feedback"
+layout: blank
+---
+
+<article class="ph2 ph3-ns pv3 pv4-l bg-white">
+
+	<div class="custom-max-width">
+
+		<h1 class="custom-lh-title f2 pa0 ma0 mb3">Children’s activity feedback</h1>
+
+      <div class="measure">
+
+        <form class="pure-form pure-form-stacked pb4" netlify name="wordplay-feedback" action="/parents-carers-and-children/bookstart-storytime-resources/childrens-feedback/confirmation/" netlify-honeypot="bot-field">
+
+          <p class="custom-lh-title mt0 mb4"><small>Fill in as many fields as you like, none are compulsory. We won’t share any of your details with anyone else or use them for any other purpose.</small></p>
+
+          <label for="session" class="db f5 mid-gray">Which children’s activity session did you attend?</label>
+          <input class="border-box w-100" type="text" name="session" id="session">
+
+          <label for="library" class="db pt3 f5 mid-gray">At which library?</label>
+          <input class="border-box w-100" type="text" name="library" id="library">
+
+          <label for="comment" class="db pt3 f5 mid-gray">How have these sessions helped you and/or your children?</label>
+          <textarea class="db border-box w-100 vh-50" name="comment" id="comment"></textarea>
+
+					<label for="permission" class="db pt3 f5 mid-gray">Are you happy to be contacted to tell us more about how these sessions have helped?</label>
+          <select name="permission" id="permission">
+            <option value="yes-contact">Yes, you can contact me</option>
+            <option selected value="no-contact">No, don’t contact me</option>
+          </select>
+
+					<label for="email" class="db pt3 f5 mid-gray">Your email address</label>
+          <input class="border-box w-100" type="email" name="email" id="email">
+					<p class="f5 mt0 custom-lh-title">We’ll need this to contact you if you’re happy to tell us more.</p>
+
+          <label for="where-heard" class="db pt3 f5 mid-gray">Where did you hear about the activity?</label>
+          <select name="where-heard" id="where-heard">
+            <option value="posters">Posters/postcards</option>
+            <option value="word-of-mouth">Word of mouth</option>
+            <option value="newspaper">Newspaper</option>
+            <option value="sl-website">Suffolk Libraries website</option>
+            <option value="other-website">Other website</option>
+            <option value="newsletter">Suffolk Libraries newsletter</option>
+            <option value="local-newsletter-social-media">Local library newsletter/social media</option>
+            <option value="radio">Radio</option>
+            <option value="facebook">Facebook</option>
+            <option value="twitter">Twitter</option>
+            <option value="other-referrer">Somewhere else</option>
+          </select>
+
+          <label for="get-emails" class="db pt3 f5 mid-gray">Would you like to receive our monthly newsletter?</label>
+          <select name="get-emails" id="get-emails">
+            <option value="yes-get-emails">Yes, sign me up</option>
+            <option selected value="no-get-emails">No, don’t send me the newsletter</option>
+          </select>
+					<p class="f5 mt0 custom-lh-title">Our newsletter contains reading ideas for children and info on activities. We won’t use your email address for anything else, or share it with any other organisations.</p>
+
+          <p class="dn"><input name="bot-field"></p>
+
+          <div class="pt3">{% include /c/button-submit-blue.html text="Submit form" %}</div>
+
+        </form>
+
+      </div>
+
+    </div>
+
+</article>
