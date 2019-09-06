@@ -28,61 +28,81 @@ Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &ra
 
 <tr>
 <td>
-17.01.19
+12.09.19
 </td>
 
 <td>
-Visit: Sophie from Recovery College (2pm)
-</td>
-</tr>
-
-<tr>
-<td>
-24.01.19
-</td>
-
-<td>
-Talk: Sue Gray on emotional needs
+Visit: Jon Neal, CEO of Suffolk Mind
 </td>
 </tr>
 
 <tr>
 <td>
-31.01.19
+19.09.19
 </td>
 
 <td>
-Craft: worry dolls
-</td>
-</tr>
-
-<tr>
-<td>
-07.02.19
-</td>
-
-<td>
-Discussion: How helpful is a diagnosis? Does it help or hinder?
+Board games
 </td>
 </tr>
 
 <tr>
 <td>
-14.02.19
+26.09.19
 </td>
 
 <td>
-Quiz and games/walk to pier
+Picture quiz
 </td>
 </tr>
 
 <tr>
 <td>
-21.02.19
+03.10.19
 </td>
 
 <td>
-Talk: DAS on benefits
+Visit: Tina from Suffolk User Forum introduces the Stay Alive app
+</td>
+</tr>
+
+<tr>
+<td>
+10.10.19
+</td>
+
+<td>
+Visit: Total Voice Advocacy (TBC)
+</td>
+</tr>
+
+<tr>
+<td>
+17.10.19
+</td>
+
+<td>
+Find out about W. R. A. P. - Wellness Recovery Action Plan
+</td>
+</tr>
+
+<tr>
+<td>
+24.10.19
+</td>
+
+<td>
+Visit: Sarah Lungley from Suffolk Libraries discusses online resources
+</td>
+</tr>
+
+<tr>
+<td>
+31.10.19
+</td>
+
+<td>
+Craft: Halloween lanterns
 </td>
 </tr>
 </table>
