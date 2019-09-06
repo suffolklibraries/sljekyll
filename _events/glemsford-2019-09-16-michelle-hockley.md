@@ -2,7 +2,7 @@
 name: "Meet the Author: Michelle Hockley"
 location: glemsford-library
 location-text: Glemsford Library
-event-start-date: 2019-09-23
+event-start-date: 2019-09-16
 event-start-time: 1930
 event-ticket-price: 5
 breadcrumb: y

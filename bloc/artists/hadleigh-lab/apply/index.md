@@ -39,7 +39,7 @@ layout: blank
 
         <div class="measure-wide">
 
-          <h2 class="f4 f2-ns custon-lh-title">Summer BLOC LAB application form</h2>
+          <h2 class="f4 f2-ns custom-lh-title">Summer BLOC LAB application form</h2>
 
           <p><a class="blue underline" href="/bloc/artists/hadleigh-lab/">Role notes &rarr;</a></p>
 
