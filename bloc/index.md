@@ -112,7 +112,7 @@ layout: blank
 
             <h2 class="f4 f3-ns custom-lh-title mb2 white">Calling all artists</h2>
 
-            <p class="measure">We're holding our next <strong>mixed-media artist residency at Hadleigh Library</strong> between Aug 12-16, while there's a <strong>3 day Creative Tech Intensive for young artists at Ipswich County Library</strong> between Aug 28-30. <br><a href="/bloc/artists/" class="lightest-blue underline hover-white">Apply to take part in our Creative Tech Intensive &rarr;</a></p>
+            <p class="measure">We're holding our next <strong>mixed-media artist residency at Lowestoft Library</strong> from 21-25 October. <br><a href="/bloc/artists/" class="lightest-blue underline hover-white">Apply to take part &rarr;</a></p>
 
         </div>
 
