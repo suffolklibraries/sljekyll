@@ -19,7 +19,7 @@ layout: blank
 
           <ul class="list ma0 pa0 f5">
 
-            <li>Mon 21 - Fri 25 Octover 2019</li>
+            <li>Mon 21 - Fri 25 October 2019</li>
             <li>Lowestoft Library</li>
             <li>£500 fee, lunch provided by Suffolk Libraries</li>
 
@@ -126,7 +126,7 @@ layout: blank
 
             <ul>
 
-              <li>Deadline: <strong>Midday on Friday 4 October 2019</strong></li>
+              <li>Deadline: <strong>Midday, Friday 4 October 2019</strong></li>
               <li>Phone interviews: <strong>Monday 7 October 2019</strong></li>
               <li>Notification: <strong>Tuesday 8 October 2019</strong></li>
 

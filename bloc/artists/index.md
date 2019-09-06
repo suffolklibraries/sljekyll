@@ -21,7 +21,7 @@ layout: blank
 
             <ul class="ma0 pa0 list f5">
 
-              <li><a class="pv1 yellow no-underline underline-hover" href="/bloc/artists/creative-tech">Creative Tech 3 Day Intensive for young artists at Ipswich County Library &rarr;</a></li>
+              <li><a class="pv1 yellow no-underline underline-hover" href="/bloc/artists/lowestoft-lab">BLOC Lab: a week long mixed media artist residency at Lowestoft Library, 21-25 October &rarr;</a></li>
 
             </ul>
 
@@ -85,49 +85,9 @@ layout: blank
 
         <ul class="measure">
 
-          <li class="measure mt0"><a href="/bloc/artists/creative-tech/" class="blue underline-hover pv1">3 day Creative Tech Intensive for young artists at Ipswich County Library</a></li>
+          <li class="measure mt0"><a href="/bloc/artists/lowestoft-lab/" class="blue underline-hover pv1">BLOC Lab: a week long mixed media artist residency at Lowestoft Library, 21-25 October</a></li>
 
         </ul>
-
-        {% assign special-event-check = false %}
-
-        {% assign events = site.events | where: "event-category", "bloc" | sort: 'event-start-date' %}
-
-          {% for event in events %}
-
-              {% capture now-unix-seconds %} {{'now' | date: '%s' }} {% endcapture %}
-
-              {% if event.event-end-date %}
-
-                  {% capture event-time-seconds %}{{event.event-end-date | date: '%s' }}{% endcapture %}
-
-              {% else %}
-
-                  {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
-
-              {% endif %}
-
-              {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
-
-              {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
-
-              {% if now-unix <= event-time %}
-
-                  {% assign special-event-check = true %}
-
-                  <article class="mb4">
-
-                      <h3 class="f4 custom-lh-title ma0 pa0"><a href="{{ event.url }}" class="blue underline-hover">{{ event.name }}</a></h3>
-
-                      <p class="mt1 mb0 f5 mid-gray">{% if event.event-end-date %}<span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-end-time }}</span>, <a class="blue underline-hover" href="/libraries/{{ event.location }}/">{{ event.location-text }}</a>{% else %}<span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>, <a class="blue underline-hover" href="/libraries/{{ event.location }}/">{{ event.location-text }}</a>{% endif %}</p>
-
-                  </article>
-
-              {% endif %}
-
-        {% endfor %}
-
-        {% if special-event-check == false %}<p class="{% include /c/page-meta.html %} mb3">No upcoming artists' Labs.</p>{% endif %}
 
       </div>
 
