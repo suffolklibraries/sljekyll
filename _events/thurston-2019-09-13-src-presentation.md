@@ -1,9 +1,9 @@
 ---
 name: "Summer Reading Challenge presentation"
-location: ixworth-library
-location-text: Ixworth Library
+location: thurston-library
+location-text: Thurston Library
 event-start-date: 2019-09-13
-event-start-time: 1700
+event-start-time: 1800
 event-category: src-presentation
 breadcrumb: y
 ---
