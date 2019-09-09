@@ -1,0 +1,19 @@
+<div class="flex-l{% if include.layout-reverse %} flex-row-reverse-l{% endif %} {{ include.color }} {{ include.bg-color }} pv3 pv0-l">
+
+  <div class="w-50-l">
+
+    {% if include.link %}<a href="{{ include.link }}">{% endif %}<img class="db pa0 ma0" src="/images/{{ include.src }}" alt="{{ include.alt }}">{% if include.link %}</a>{% endif %}
+
+  </div>
+
+  <div class="w-50-l ph2 ph3-l pv3">
+
+    <h2 class="mt0 mb1 custom-lh-title f3">{{ include.title }}</h2>
+
+    <p class="ma0">{{ include.text }}</p>
+
+    {% if include.link %}<p class="mb0 mt1 b"><a href="{{ include.link }}" class="underline {% if include.link-color %}{{ include.link-color }}{% else %}blue{% endif %}{% if include.link-hover-color %} hover-{{ include.link-hover-color }}{% endif %}">{% if include.link-text %}{{ include.link-text }}{% endif %}</a></p>{% endif %}
+
+  </div>
+
+</div>
