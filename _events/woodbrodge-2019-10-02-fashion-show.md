@@ -9,6 +9,6 @@ event-ticket-price: 8
 breadcrumb: y
 ---
 
-Join us for a fashion-filled evening with a catwalk show from Holly Blue, Laura Jane, Ninni Noo and Sweet dreams and stalls from Tilley & Grace, Woodbridge Emporium, Silver Sun and Lounge Hair & Beauty.
+Join us for a fashion-filled evening with a catwalk show from Holly Blue, Laura Jane, Ninni Noo and Sweet dreams and stalls from Tilley & Grace, Woodbridge Emporium, Silver Sun and Lounge Hair & Beauty. You might also win something lovely in our raffle!
 
 Tickets include a welcome drink and can be purchased by contacting the library.

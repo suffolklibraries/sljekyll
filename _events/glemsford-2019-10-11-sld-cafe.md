@@ -1,5 +1,5 @@
 ---
-name: "Friday café and lunch for Suffolk Libraries Day"
+name: "Suffolk Libraries Day: Friday café and lunch"
 location: glemsford-library
 location-text: Glemsford Library
 event-start-date: 2019-10-11
