@@ -16,6 +16,10 @@ featured-caption: "CoderDojo at Ipswich Library"
   bg-color="bg-near-white"
   title="Making life better"
   text="Whether it’s through an inspiring read, meeting over a tea and a game of Scrabble or bringing families and carers together at children’s events, we have a huge impact on the people of Suffolk."
+  link="/about/case-studies/"
+  link-text="Read some customer stories &rarr;"
+  link-color="custom-corporate-green"
+  link-hover-color="custom-corporate-green"
 %}
 
 {%
