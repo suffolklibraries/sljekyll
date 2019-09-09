@@ -1,8 +1,9 @@
 ---
 recurrent-title: "Craft activities: for primary school age children"
 recurrent-description: '<ul class="f6 ma0">
-                        <li>18 August: Let&apos;s go fly a kite!</li>
-                        <li>25 August: Gone Camping...</li>
+                        <li>15 September: Roald Dahl Day: Make Mr Twit&apos;s beard (yuck!)</li>
+                        <li>22 September: Harvest festival</li>
+                        <li>29 September: Autumn leaf craft.</li>
                         </ul>'
 recurrent-day: Sunday
 recurrent-times: 1200-1430
