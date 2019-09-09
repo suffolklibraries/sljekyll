@@ -1,0 +1,59 @@
+{% include header.html %}
+
+{% if page.hnav %}
+
+  {% capture hnav-file %}{{ page.hnav }}{% endcapture %}
+
+  {% include hnav-small.html menu=hnav-file %}
+
+{% endif %}
+
+<main class="ph2 ph3-ns pv3 pv4-l bg-moon-gray" id="content" role="main">
+
+  {% if page.breadcrumb %}
+
+    <div class="custom-max-width bg-white">
+
+      {% include breadcrumb.html %}
+
+    </div>
+
+  {% endif %}
+
+  <article class="bg-white custom-max-width">
+
+    <header class="flex-l{% if page.layout-reverse %} flex-row-reverse{% endif %}{% if page.header-bg %} {{ page.header-bg }}{% endif %} white pb3 pb0-l">
+
+      <div class="w-third-l ph2 ph3-ns pv3">
+
+        <h1 class="mt0 mb2 f3 f2-ns custom-lh-title">{{ page.title }}</h1>
+
+        {% if page.featured-description %}<p class="ma0">{{ page.featured-description }}</p>{% endif %}
+
+      </div>
+
+      <div class="w-two-thirds-l">
+
+        <figure class="relative ma0 pa0">
+
+          {% if page.featured-image %}<img class="db ma0 pa0" src="/images/{{ page.featured-image}}" alt="page.featured-alt">{% endif %}
+
+          {% if page.featured-caption %}<figcaption class="{% unless page.layout-reverse %}tr {% endunless %}absolute bottom-0 left-0 f6 ma0 pa0 pb1 w-100 border-box"><span class="pv1 ph2 o-90 bg-black">{{ page.featured-caption }}</span></figcaption>{% endif %}
+
+        </figure>
+
+      </div>
+
+    </header>
+
+    {% if page.pad-content %}<div class="ph2 ph3-ns pv3 bg-white">{% endif %}
+
+    {{ content }}
+
+    {% if page.pad-content %}</div>{% endif %}
+
+  </article>
+
+</main>
+
+{% include footer.html %}

@@ -1,33 +1,51 @@
 ---
-title: About us
-layout: sidebar-left
-sidebar: about
-breadcrumb: home
+title: "About Suffolk Libraries"
+layout: featured
+hnav: about
+header-bg: custom-bg-corporate-green
+featured-description: "We improve the lives of thousands of Suffolk people by providing safe, fun and inspiring spaces and services. We expand knowledge, connect people, stimulate creativity and foster a sense of community. And we lend physical and digital books – millions of them every year."
+featured-image: "about/coder-dojo.jpg"
+featured-alt: "A young man helping children use laptops."
+featured-caption: "CoderDojo at Ipswich Library"
 ---
-<div class="pb3 bb b--light-gray">
 
-  <p class="f3">We’re a charity that provides all of Suffolk’s library services. We make life better for thousands of Suffolk people, through events, pre-school activities, wellbeing drop-ins, arts residencies and by simply providing a safe, non-judgemental place to be. And we lend physical and digital books – millions of them every year.</p>
+{%
+  include z-bar.html
+  src="about/tot-rock.jpg"
+  alt="Woman reading to young children who are shouting and dancing."
+  bg-color="bg-near-white"
+  title="Making life better"
+  text="Whether it’s through an inspiring read, meeting over a tea and a game of scrabble or bringing families and carers together at children’s events, we have a huge impact on the people of Suffolk."
+  link="/about/case-studies/"
+  link-text="Read some case studies &rarr;"
+  link-color="custom-corporate-green"
+  link-hover-color="custom-corporate-green"
+%}
 
-  <p class="f4 f3-ns">{% include /c/button-blue.html text="Read our 2019-2022 strategy &rarr;" url="/assets/pdf/suffolk-libraries-strategy-2019-22.pdf" %} <span class="f6 f5-ns db pt3">(PDF, <cite>Making Life Better</cite>)</span></p>
+{%
+  include z-bar.html
+  src="about/dojo2.jpg"
+  alt="A girl concentrating at a laptop."
+  layout-reverse="true"
+  color="white"
+  bg-color="custom-bg-corporate-green"
+  title="The future"
+  text="As the community’s needs and the environment we work in continue to change, we’re developing a new way of running a library service."
+  link="/news/our-new-strategy/"
+  link-text="Find out about our 2019-2022 strategy &rarr;"
+  link-color="white"
+  link-hover-color="white"
+%}
 
-</div>
-
-Suffolk’s Libraries Industrial and Provident Society Limited is our formally registered name. We call ourselves **Suffolk Libraries**.
-
-We are an [Industrial and Provident Society](http://www.fsa.gov.uk/doing/small_firms/msr/societies), a not for profit, independent and charitable organisation set up in August 2012 to run the service for the benefit of the people of Suffolk. Following the Co-operative and Community Benefit Societies Act 2014, such societies are now generally referred to as [‘Registered Societies’](https://www.fca.org.uk/firms/registered-societies-introduction/co-operative-community-benefit-societies-act-2014).
-
-All libraries in Suffolk are run by Suffolk Libraries. We're contracted by [Suffolk County Council](http://www.suffolk.gov.uk/) to run the service.
-
-Our membership is drawn from [member organisations](/about/member-organisations/), community groups made up of people who want to support their library and have a say in how they are run. Each library in Suffolk works with local people to develop these member organisations.
-
-We run a supporters' scheme, [Suffolk Libraries Extra](/extra/). Individuals and local businesses can make an annual donation if they would like to get more involved and enhance the service we provide. All members of Suffolk Libraries Extra get a membership card and special newsletter, while those who sign up at Platinum level can attend our AGM and are acknowledged in our annual review.
-
-Member organisations elect [our board](/about/board-members/).
-
-[Contact us](/contact/).
-
-## Keep updated
-
-* [Like us on Facebook](http://facebook.com/suffolklibraries)
-* [Follow us on Twitter](http://twitter.com/suffolklibrary)
-* [Sign up for our free email newsletter](http://suffolklibraries.us4.list-manage.com/subscribe?u=8fdb8e824d6cb5f95be2c5b88&amp;id=3ec8bb8121)
+{%
+  include z-bar.html
+  src="about/scrabbler.jpg"
+  alt="Two women playing Scrabble in a library."
+  bg-color="bg-near-white"
+  title="Support us"
+  text="We’re a charity that provides all of Suffolk’s library services. You might not realise we’re independent from Suffolk County Council, and that we haven’t closed any libraries since taking over their control in 2012."
+  link="/support-us/"
+  link-text="Make a donation &rarr;"
+  link-color="custom-corporate-green"
+  link-hover-color="custom-corporate-green"
+%}
