@@ -74,7 +74,7 @@ layout: blank
             <label for="social-media" class="db f5 pt3">Social media profile (if you have one)</label>
             <input class="border-box w-100" type="url" name="social-media" id="social-media">
 
-            <label for="accommodation" class="db f5 pt3">Would you require accommodation for the 12-16 August? <span class="red">*</span></label>
+            <label for="accommodation" class="db f5 pt3">Would you require accommodation for 21- 25 October? <span class="red">*</span></label>
             <select required name="accommodation" id="accommodation">
               <option value="yes-accommodation">Yes</option>
               <option selected value="no-accommodation">No</option>
