@@ -16,7 +16,7 @@ Newmarket Library borrowers Zuzana Belas and her son Roman became the proud owne
 
 We set up the special newsletter to help parents encourage their children to take part in the challenge by reminding them to visit their local library and showcasing our new and recommended children's books. The first 100 people to sign up were entered into the competition and Zuzana's name was drawn at random.
 
-We chose to give away a Lego space station on account of its broad appeal within the age range of the challenge and to fit in with this year's Space Chase theme, which commemorated the 50th anniversary of the Moon landings. Many of our libraries run popular Lego clubs for children. We also ran a photo competition, [#SLWhereOnEarth](/news/sl-where-on-earth/) with the same prize, and will be announcing the winner very soon.
+We chose to give away a Lego space station on account of its broad appeal within the age range of the challenge and to fit in with this year's Space Chase theme, which commemorated the 50th anniversary of the Moon landings. We also ran a photo competition, [#SLWhereOnEarth](/news/sl-where-on-earth/) with the same prize, and will be announcing the winner very soon.
 
 Zuzana described Roman as "very excited" about the win: "Roman couldn’t wait to bring it home and build it. We’d like to thank Suffolk Libraries for the Summer Reading Challenge. I hope Roman will be a great example to his little brother who sees him read a lot."
 
