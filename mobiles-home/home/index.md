@@ -16,6 +16,8 @@ breadcrumb: mobiles-home
 
     <div class="measure">
 
+			<p><strong><a class="blue" href="/mobiles-home/home/enquiry/">Complete an enquiry form &rarr;</a></strong></p>
+
       <p>If health or mobility problems are preventing you or someone you know getting to a branch or mobile library, volunteers from Suffolk Libraries Home Library Service can help.</p>
 
       <p>The service is free and available from most libraries.</p>
