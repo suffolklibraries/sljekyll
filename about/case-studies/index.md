@@ -28,3 +28,12 @@ featured-caption: "Using the PCs at Ipswich County Library"
   title="I bring my grandchildren here"
   text="Growing up, it felt like the only way for the economically disadvantaged to get educated. You could get a book on history or politics… I bring my grandchildren here and we’ll all choose some books together. I will come in sometimes just to have a look and speak to the staff here. It’s a good place to come in and have a chat. – <cite>Dennis Stevens, Stowmarket Library customer</cite>"
 %}
+
+{%
+  include z-bar.html
+  src="case-studies/angie.jpg"
+  alt="Angie Lee Foster sat in a library."
+  bg-color="bg-near-white"
+  title="I can reserve as many as I want, free of charge"
+  text="I have 3-4 eBooks on the go that I like to read and audio books for the car. I can reserve as many as I want, free of charge.” But Angie doesn’t just use the library service for books: “I’ve brought my daughter to the baby sessions. My younger daughter does the Summer Reading Challenge. I’ve even attended a knit and natter group.” – <cite>Angle Lee-Foster , Framlingham Library customer</cite>"
+%}
