@@ -53,9 +53,11 @@
 		<link rel="preload" as="font" type="font/woff2" href="/fonts/source-sans-pro-v11-latin-700.woff2">
 
     {% if page.dynatable %}
-
 		<link rel="stylesheet" href="/css/jquery.dynatable.css">
+		{% endif %}
 
-	{% endif %}
+		{% if page.awesomplete %}
+		<link rel="stylesheet" href="/css/awesomplete.min.css">
+		{% endif %}
 
 </head>
