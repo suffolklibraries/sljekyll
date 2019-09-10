@@ -221,6 +221,11 @@ particlesJS.load('particles-js', '/js/particles.json', function() {
 
         {% endif %}
 
+        {% if page.awesomplete %}
+        <script src="/js/awesomplete.min.js" async></script>
+        {% endif %}
+
+
         {% if page.breadcrumb == 'branch-room-hire' %}
 
         <script type="application/ld+json">
