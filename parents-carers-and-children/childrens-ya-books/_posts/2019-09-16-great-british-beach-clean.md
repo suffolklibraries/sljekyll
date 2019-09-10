@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Get ready for the Great British Beach Clean with these top seaside titles"
-date: 2019-09-20
+date: 2019-09-10
 author: sophie-green
 category: childrens-ya-books
 excerpt: "The Great British Beach Clean 2019 takes place from 20-23 September. We've teamed up with Suffolk Coast & Heaths Area of Outstanding Natural Beauty to pick out our favourite children's books about the beach and sea."

@@ -12,7 +12,7 @@ This October, [Film Feast](https://filmfeast.co.uk/) will be bringing three film
 
 The screenings are being presented in association with our Arts Council funded programme, [BLOC](/bloc/). Suffolk Libraries creative programmes manager Melissa Matthews said:
 
-"We are really excited about this collaboration with Film Feast and having the chance to bring these types of events to our libraries. Libraries are relaxed spaces and we want to change people’s perceptions of what they have to offer their communities. We are absolutely going for it with the cosy autumn vibes and cannot wait to collaborate with our favourite local cafés either."
+"We are really excited about this collaboration with Film Feast and having the chance to bring these types of events to our libraries. Libraries are relaxed spaces and we want to change people’s perceptions of what they have to offer their communities. We are absolutely going for it with the cosy autumn vibes and cannot wait to collaborate with our favourite local cafés."
 
 The events are as follows:
 

@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Enjoy our top beach-themed titles over the Great British Beach Clean weekend"
-date: 2019-09-20
+date: 2019-09-10
 author: brandon-king
 category: articles
 excerpt: "The Great British Beach Clean 2019 takes place from 20-23 September. Why not pick up some litter in the Suffolk Coast & Heaths Area of Outstanding Natural Beauty, then reward yourself for your efforts with a book about the coast?"
