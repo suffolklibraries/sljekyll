@@ -25,9 +25,9 @@ This role is for an average of 16.88 hours per week in the following pattern:
 
 **Week 2:** Tue 10am - 2:30pm; Thurs 10am - 2pm; Fri 9:15am - 1:15pm
 
-**Week 3:** Tue 10am - 2:30pm; Thurs 10am - 2pm; Fri 9:15am - 1:15pm; Sat 10:45am - 4:15pm
+**Week 3:** Tue 10am - 2:30pm; Thurs 10am - 2pm; Fri 9:15am - 1:15pm; Sat 10am - 5pm
 
-**Week 4:** Tue 10am - 2:30pm; Thurs 10am - 2pm; Fri 9:15am - 1:15pm; Sat 10:45am - 4:15pm
+**Week 4:** Tue 10am - 2:30pm; Thurs 10am - 2pm; Fri 9:15am - 1:15pm; Sun 10:45am - 4:15pm
 
 The rate of pay is &pound;10.62 per hour (£20,495.69 pro-rata).
 
