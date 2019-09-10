@@ -4,7 +4,7 @@ title: 'Meet the Author: Amanda Mason'
 date: 2019-09-10
 author: brandon-king
 category: meet-the-author
-excerpt: "Amanda Mason tells us about her spooky debut novel, <cite>The Wayward Girls</cite> and her journey to publication."
+excerpt: "Amanda Mason tells us about her spooky debut novel <cite>The Wayward Girls</cite> and her journey to publication."
 featured-image: /images/featured/featured-amanda-mason.jpg
 featured-alt: "Amanda Mason"
 breadcrumb: meet-the-author
