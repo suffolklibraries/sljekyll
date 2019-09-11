@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Youth-led arts festival set to rock Ipswich County Library"
-date: 2019-09-12
+date: 2019-09-11
 author: hannah-foulstone
 category: news
 excerpt: "On Saturday 9 November, the Takeover Festival will bring workshops, talks, exhibitions and live music to Ipswich County Library. The festival is entirely organised by young people and is facilitated by Suffolk Libraries' Arts Council funded youth arts programme, BLOC: Building Libraries on Creativity."
