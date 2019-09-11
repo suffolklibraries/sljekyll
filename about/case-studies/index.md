@@ -3,10 +3,10 @@ title: "Suffolk Libraries stories"
 layout: featured
 hnav: about
 header-bg: custom-bg-corporate
-featured-description: "We reach thousands of Suffolk’s residents through our services, events and spaces. Find out about some of the people whe’ve had an effect on."
-featured-image: "about/at-computer.jpg"
-featured-alt: "A woman sits at a computer in a library talking to friends."
-featured-caption: "Using the PCs at Ipswich County Library"
+featured-hero-description: "We reach thousands of Suffolk’s residents through our services, events and spaces. Find out about some of the people whe’ve had an effect on."
+featured-hero-image: "about/at-computer.jpg"
+featured-hero-alt: "A woman sits at a computer in a library talking to friends."
+featured-hero-caption: "Using the PCs at Ipswich County Library"
 ---
 
 {%

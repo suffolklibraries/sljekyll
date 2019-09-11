@@ -3,10 +3,10 @@ title: "About Suffolk Libraries"
 layout: featured
 hnav: about
 header-bg: custom-bg-corporate-green
-featured-description: "We improve the lives of thousands of Suffolk people by providing safe, fun and inspiring spaces and services. We expand knowledge, connect people, stimulate creativity and foster a sense of community. And we lend physical and digital books – millions of them every year."
-featured-image: "about/coder-dojo.jpg"
-featured-alt: "A young man helping children use laptops."
-featured-caption: "CoderDojo at Ipswich Library"
+featured-hero-description: "We improve the lives of thousands of Suffolk people by providing safe, fun and inspiring spaces and services. We expand knowledge, connect people, stimulate creativity and foster a sense of community. And we lend physical and digital books – millions of them every year."
+featured-hero-image: "about/coder-dojo.jpg"
+featured-hero-alt: "A young man helping children use laptops."
+featured-hero-caption: "CoderDojo at Ipswich Library"
 ---
 
 {%

@@ -22,13 +22,19 @@
 
   <article class="bg-white custom-max-width">
 
-    <header class="flex-l{% if page.layout-reverse %} flex-row-reverse{% endif %}{% if page.header-bg %} {{ page.header-bg }}{% endif %} white pb3 pb0-l">
+    <header class="flex-l{% if page.layout-reverse %} flex-row-reverse{% endif %} items-center-l {% if page.header-bg %} {{ page.header-bg }}{% endif %} white pb3 pb0-l">
 
       <div class="w-third-l ph2 ph3-ns pv3">
 
-        <h1 class="mt0 mb2 f3 f2-ns custom-lh-title">{{ page.title }}</h1>
+        {% if page.featured-hero-logo %}
 
-        {% if page.featured-description %}<p class="ma0">{{ page.featured-description }}</p>{% endif %}
+        <div class="mw4 center"><img class="db mb2 center" src="/images/{{ page.featured-hero-logo }}" alt="{{ page.featured-logo-alt }}"></div>
+
+        {% endif %}
+
+        <h1 class="mt0 mb2 f3 f2-ns custom-lh-title{% if page.featured-hero-logo %} tc{% endif %}">{{ page.title }}</h1>
+
+        {% if page.featured-hero-description %}<p class="ma0">{{ page.featured-hero-description }}</p>{% endif %}
 
       </div>
 
@@ -36,9 +42,9 @@
 
         <figure class="relative ma0 pa0">
 
-          {% if page.featured-image %}<img class="db ma0 pa0" src="/images/{{ page.featured-image}}" alt="page.featured-alt">{% endif %}
+          {% if page.featured-hero-image %}<img class="db ma0 pa0" src="/images/{{ page.featured-hero-image}}" alt="page.featured-hero-alt">{% endif %}
 
-          {% if page.featured-caption %}<figcaption class="{% unless page.layout-reverse %}tr {% endunless %}absolute bottom-0 left-0 f6 ma0 pa0 pb1 w-100 border-box"><span class="pv1 ph2 o-90 bg-black">{{ page.featured-caption }}</span></figcaption>{% endif %}
+          {% if page.featured-hero-caption %}<figcaption class="{% unless page.layout-reverse %}tr {% endunless %}absolute bottom-0 left-0 f6 ma0 pa0 pb1 w-100 border-box"><span class="pv1 ph2 o-90 bg-black">{{ page.featured-hero-caption }}</span></figcaption>{% endif %}
 
         </figure>
 
