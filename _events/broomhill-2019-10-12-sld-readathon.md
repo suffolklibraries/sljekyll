@@ -6,6 +6,7 @@ event-start-date: 2019-10-12
 event-start-time: 1000
 event-end-time: 1700
 event-category: sld
+sld-region: ipswich
 breadcrumb: y
 ---
 

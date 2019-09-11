@@ -6,6 +6,7 @@ event-alt-location: "Cardinal Newman Hall (Old Sorting Office), Manor Park Road,
 event-start-date: 2019-10-12
 event-start-time: 1900
 event-ticket-price: 3 per person
+sld-region: north
 breadcrumb: y
 ---
 

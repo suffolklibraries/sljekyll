@@ -12,52 +12,65 @@
 
 	{% if page.title == 'Events for your health and wellbeing' %}
 
-		<title>{{ page.title }} | strip_html }} &#8211; Suffolk Libraries</title>
+	<title>{{ page.title }} | strip_html }} &#8211; Suffolk Libraries</title>
 
 	{% elsif page.meta-title %}
 
-		<title>{{ page.meta-title | strip_html }} &#8211; Suffolk Libraries</title>
+	<title>{{ page.meta-title | strip_html }} &#8211; Suffolk Libraries</title>
 
 	{% elsif page.url contains "/events/" %}
 
-		<title>{{ page.name | strip_html  }} &#8211; Suffolk Libraries</title>
+	<title>{{ page.name | strip_html  }} &#8211; Suffolk Libraries</title>
 
 	{% else %}
 
-    	<title>{{ page.title | strip_html }} &#8211; Suffolk Libraries</title>
+  <title>{{ page.title | strip_html }} &#8211; Suffolk Libraries</title>
 
 	{% endif %}
 
 	{% if page.meta-description %}
 
-		<meta name="description" content="{{ page.meta-description }}">
+	<meta name="description" content="{{ page.meta-description }}">
 
 	{% endif %}
 
 	{% if page.category and page.featured-image %}
 
-		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@suffolklibrary">
-		<meta name="twitter:title" content="{{ page.title }}">
-		<meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
-		<meta name="twitter:image" content="{{ page.featured-image }}">
-		{% if page.featured-alt %}<meta name="twitter:image:alt" content="{{ page.featured-alt }}">{% endif %}
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@suffolklibrary">
+	<meta name="twitter:title" content="{{ page.title }}">
+	<meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
+	<meta name="twitter:image" content="{{ page.featured-image }}">
+	{% if page.featured-alt %}<meta name="twitter:image:alt" content="{{ page.featured-alt }}">{% endif %}
 
 	{% endif %}
 
 	<script src="/js/app.js"></script>
 
-    <link rel="stylesheet" href="/css/style.css">
-		<link rel="preload" as="font" type="font/woff2" href="/fonts/source-sans-pro-v11-latin-regular.woff2">
-		<link rel="preload" as="font" type="font/woff2" href="/fonts/source-sans-pro-v11-latin-italic.woff2">
-		<link rel="preload" as="font" type="font/woff2" href="/fonts/source-sans-pro-v11-latin-700.woff2">
+  <link rel="stylesheet" href="/css/style.css">
+	<link rel="preload" as="font" type="font/woff2" href="/fonts/source-sans-pro-v11-latin-regular.woff2">
+	<link rel="preload" as="font" type="font/woff2" href="/fonts/source-sans-pro-v11-latin-italic.woff2">
+	<link rel="preload" as="font" type="font/woff2" href="/fonts/source-sans-pro-v11-latin-700.woff2">
 
-    {% if page.dynatable %}
-		<link rel="stylesheet" href="/css/jquery.dynatable.css">
-		{% endif %}
+  {% if page.dynatable %}
+	<link rel="stylesheet" href="/css/jquery.dynatable.css">
+	{% endif %}
 
-		{% if page.awesomplete %}
-		<link rel="stylesheet" href="/css/awesomplete.min.css">
-		{% endif %}
+	{% if page.awesomplete %}
+	<link rel="stylesheet" href="/css/awesomplete.min.css">
+	{% endif %}
+
+	{% if page.jquery-ui %}
+	<script src="/js/jquery-2.2.4.min.js"></script>
+	<script src="/js/jquery-ui.min.js"></script>
+	{% endif %}
+
+	{% if page.tabs %}
+	<script>
+	$( function() {
+		$( "#tabs" ).tabs();
+	} );
+	</script>
+	{% endif %}
 
 </head>

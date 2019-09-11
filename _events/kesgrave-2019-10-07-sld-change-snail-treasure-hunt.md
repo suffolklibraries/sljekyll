@@ -5,6 +5,7 @@ location-text: Kesgrave Library
 event-start-date: 2019-10-07
 event-end-date: 2019-10-13
 event-category: sld
+sld-region: ipswich
 event-ticket-price: 1
 breadcrumb: y
 ---

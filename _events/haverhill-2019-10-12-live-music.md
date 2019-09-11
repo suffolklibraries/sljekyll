@@ -6,6 +6,7 @@ event-start-date: 2019-10-12
 event-start-time: 1300
 event-end-time: 1500
 event-category: sld
+sld-region: west
 breadcrumb: y
 ---
 

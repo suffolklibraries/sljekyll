@@ -6,7 +6,7 @@ featured-excerpt: "On Saturday 12 October, we're holding events across the count
 featured-link-href-text: "Find out about Suffolk Libraries Day &rarr;"
 featured-image: "/images/featured/featured-bruce-and-pamela.jpg"
 featured-alt: "Suffolk Libraries CEO Bruce Leeke and The Huntingfield Paintress author Pamela Holmes launch Suffolk Libraries Day at Felixstowe Library"
-featured-hero-description: "Love your library? Support special fundraising events taking place across all 44 branches."
+featured-hero-description: "Love your library? Support special fundraising events taking place across all 44 branches. <strong class='db tc'>Sat 12 Oct 2019</strong>"
 featured-hero-image: "sld/bg-woodbridge.jpg"
 featured-hero-alt: "Adults and children playing in a library."
 featured-hero-caption: "Tot rock at Woodbridge Library"
@@ -14,39 +14,101 @@ featured-hero-logo: "sld/sld-logo.png"
 featured-hero-logo-alt: "Suffolk Libraries Day"
 hnav: "sld"
 header-bg: custom-bg-corporate-green
+jquery-ui: true
+tabs: true
 ---
 
 <section class="ph2 ph3-ns pv3 bg-white">
 
-    <h2 class="tc f4 f3-ns custom-lh-title mb4-l">News and updates</h2>
+  <div id="tabs" class="ba b--light-gray bg-white pa3">
 
-    <div class="flex-l">
+    <h2 class="f4 f3-ns custom-lh-title mb4-l">Find a fundraising event</h2>
 
-      <div class="w-50-l pr4-l">
+      <ul class="f6 f4-ns list ma0 mb2 mb0-ns pa0">
+        <li class="dib ma0 pa0"><a class="pv2 ph1 pa2-ns underline" href="#tabs-1">Ipswich</a></li>
+        <li class="dib ma0 pa0"><a class="pv2 ph1 pa2-ns underline" href="#tabs-2">North</a></li>
+        <li class="dib ma0 pa0"><a class="pv2 ph1 pa2-ns underline" href="#tabs-3">South</a></li>
+        <li class="dib ma0 pa0"><a class="pv2 ph1 pa2-ns underline" href="#tabs-4">East</a></li>
+        <li class="dib ma0 pa0"><a class="pv2 ph1 pa2-ns underline" href="#tabs-5">West</a></li>
+      </ul>
 
-        {% assign sld-news = site.posts | where: "category", "sld-news" | sort: "date" %}
+      <div id="tabs-1">
 
-        {% for post in sld-news %}
+        <div class="flex-ns flex-wrap-ns">
 
-        <p class="mt0 mb1 measure center b"><a class="dark-blue" href="{{ post.url }}">{{ post.title }}</a></p>
+        {% assign events = site.events | where: "sld-region", "ipswich" %}
+        {% for event in events %}
+        {% assign event_name = event.name | replace: "Suffolk Libraries Day: ", "" | replace: "Suffolk Libraries Day ", "" | capitalize %}
 
-        <p class="mt0 f6">{{ post.date | date: "%a %-d %b" }}</p>
-
-        <p class="mt0 measure center">{{ post.excerpt }}</p>
+          <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate-green hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event.location-text }}</span><br>{{ event_name }}</a>
 
         {% endfor %}
 
+        </div>
+
       </div>
 
-      <div class="w-50-l pr4-l">
+      <div id="tabs-2">
 
-        <figure class="mt3">
+      <div class="flex-ns flex-wrap-ns">
 
-            <img class="db mb3 center ba bw3 b--white shadow-2 border-box" src="/images/featured/featured-bruce-and-pamela.jpg" alt="Suffolk Libraries CEO Bruce Leeke and The Huntingfield Paintress author Pamela Holmes launch Suffolk Libraries Day at Felixstowe Library">
+      {% assign events = site.events | where: "sld-region", "north" %}
+      {% for event in events %}
+      {% assign event_name = event.name | replace: "Suffolk Libraries Day: ", "" | replace: "Suffolk Libraries Day ", "" | capitalize %}
 
-            <figcaption><p class="f5 mt0">Suffolk Libraries CEO Bruce Leeke and <cite>The Huntingfield Paintress</cite> author Pamela Holmes launch Suffolk Libraries Day at Felixstowe Library</p></figcaption>
+        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate-green hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event.location-text }}</span><br>{{ event_name }}</a>
 
-        </figure>
+      {% endfor %}
+
+      </div>
+
+      </div>
+
+      <div id="tabs-3">
+
+      <div class="flex-ns flex-wrap-ns">
+
+      {% assign events = site.events | where: "sld-region", "south" %}
+      {% for event in events %}
+      {% assign event_name = event.name | replace: "Suffolk Libraries Day: ", "" | replace: "Suffolk Libraries Day ", "" | capitalize %}
+
+        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate-green hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event.location-text }}</span><br>{{ event_name }}</a>
+
+      {% endfor %}
+
+      </div>
+
+      </div>
+
+      <div id="tabs-4">
+
+      <div class="flex-ns flex-wrap-ns">
+
+      {% assign events = site.events | where: "sld-region", "east" %}
+      {% for event in events %}
+      {% assign event_name = event.name | replace: "Suffolk Libraries Day: ", "" | replace: "Suffolk Libraries Day ", "" | capitalize %}
+
+        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate-green hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event.location-text }}</span><br>{{ event_name }}</a>
+
+      {% endfor %}
+
+      </div>
+
+      </div>
+
+      <div id="tabs-5">
+
+      <div class="flex-ns flex-wrap-ns">
+
+      {% assign events = site.events | where: "sld-region", "west" %}
+      {% for event in events %}
+      {% assign event_name = event.name | replace: "Suffolk Libraries Day: ", "" | replace: "Suffolk Libraries Day ", "" | capitalize %}
+
+        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate-green hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event.location-text }}</span><br>{{ event_name }}</a>
+
+      {% endfor %}
+
+      </div>
 
       </div>
 
@@ -54,27 +116,21 @@ header-bg: custom-bg-corporate-green
 
 </section>
 
-<section class="ph2 ph3-ns pv3 bg-light-gray">
+<section class="bg-light-gray">
 
-    <h2 class="tc f4 f3-ns custom-lh-title mb4-l">Get involved!</h2>
-
-    <div class="flex-l">
-
-      <div class="w-50-l pr4-l">
-
-        <img class="db mb3 center ba bw3 b--white shadow-2 border-box" src="/images/sld/elmswell.jpg" alt="30 or so people on bikes in front of Elmswell Library">
-
-      </div>
-
-      <div class="w-50-l pl4-l">
-
-        <p class="mt0 measure center">Come along or help arrange an event at your local library. So far, staff and volunteers have planned an art exhibition and sale, family history open event, adult craft sessions, a sponsored spin cycle, a sponsored choir/flash mob, a sponsored read, an author book signing, live music and cake sales&hellip;</p>
-
-        <p class="tc"><a href="mailto:suffolklibrariesday@suffolklibraries.co.uk" class="pa2 ba br2 b--moon-gray bg-blue hover-bg-dark-blue white pointer shadow-3"><span class="custom-icon-email-white">Contact us &rarr;</span></a></p>
-
-      </div>
-
-    </div>
+{%
+  include z-bar.html
+  src="sld/kids-laughing.jpg"
+  alt="Two young children sitting on a library floor laughing."
+  bg-color="bg-near-white"
+  layout-reverse="true"
+  title="Get involved!"
+  text="Come along or help arrange an event at your local library. So far, staff and volunteers have planned an art exhibition and sale, family history open event, adult craft sessions, a sponsored spin cycle, a sponsored choir/flash mob, a sponsored read, an author book signing, live music and cake sales&hellip;"
+  link="mailto:suffolklibrariesday@suffolklibraries.co.uk"
+  link-text="Contact us &rarr;"
+  link-color="custom-corporate-green"
+  link-hover-color="custom-corporate-green"
+%}
 
 </section>
 
@@ -104,7 +160,7 @@ header-bg: custom-bg-corporate-green
 
 </section>
 
-<section class="ph2 ph3-ns pv3 bg-light-gray">
+<section class="ph2 ph3-ns pv3 custom-bg-corporate-green white">
 
     <p class="tc f3-ns">For more information and to get involved, contact <br><strong>suffolklibrariesday@suffolklibraries.co.uk</strong></p>
 

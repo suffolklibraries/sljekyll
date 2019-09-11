@@ -6,6 +6,7 @@ event-start-date: 2019-10-12
 event-start-time: 1930
 event-category: sld
 event-ticket-price: 4 per person
+sld-region: west
 breadcrumb: y
 ---
 
