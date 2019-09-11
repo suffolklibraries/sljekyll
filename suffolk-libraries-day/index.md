@@ -39,7 +39,7 @@ tabs: true
         {% assign events = site.events | where: "sld-region", "ipswich" %}
         {% for event in events %}
         {% assign event_name = event.name | strip_html | replace: "Suffolk Libraries Day: ", "" | replace: "Suffolk Libraries Day ", "" %}
-        {% assign event_loc = event.location-text | replace: " Library", "" %}
+        {% assign event_loc = event.location-text | replace: " Library", "" | replace: " Community", ""  %}
 
           <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate-green hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span><br>{{ event_name }}</a>
 
@@ -56,7 +56,7 @@ tabs: true
       {% assign events = site.events | where: "sld-region", "north" %}
       {% for event in events %}
       {% assign event_name = event.name | strip_html | replace: "Suffolk Libraries Day: ", "" | replace: "Suffolk Libraries Day ", "" %}
-      {% assign event_loc = event.location-text | replace: " Library", "" %}
+      {% assign event_loc = event.location-text | replace: " Library", "" | replace: " Community", "" %}
 
         <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate-green hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span><br>{{ event_name }}</a>
 
@@ -72,8 +72,8 @@ tabs: true
 
       {% assign events = site.events | where: "sld-region", "south" %}
       {% for event in events %}
-      {% assign event_name = event.name | replace: "Suffolk Libraries Day: ", "" | replace: "Suffolk Libraries Day ", "" %}
-      {% assign event_loc = event.location-text | replace: " Library", "" %}
+      {% assign event_name = event.name | strip_html | replace: "Suffolk Libraries Day: ", "" | replace: "Suffolk Libraries Day ", "" %}
+      {% assign event_loc = event.location-text | replace: " Library", "" | replace: " Community", "" %}
 
         <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate-green hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span><br>{{ event_name }}</a>
 
@@ -89,8 +89,8 @@ tabs: true
 
       {% assign events = site.events | where: "sld-region", "east" %}
       {% for event in events %}
-      {% assign event_name = event.name | replace: "Suffolk Libraries Day: ", "" | replace: "Suffolk Libraries Day ", "" %}
-      {% assign event_loc = event.location-text | replace: " Library", "" %}
+      {% assign event_name = event.name | strip_html | replace: "Suffolk Libraries Day: ", "" | replace: "Suffolk Libraries Day ", "" %}
+      {% assign event_loc = event.location-text | replace: " Library", "" | replace: " Community", "" %}
 
         <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate-green hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span><br>{{ event_name }}</a>
 
@@ -106,8 +106,8 @@ tabs: true
 
       {% assign events = site.events | where: "sld-region", "west" %}
       {% for event in events %}
-      {% assign event_name = event.name | replace: "Suffolk Libraries Day: ", "" | replace: "Suffolk Libraries Day ", "" %}
-      {% assign event_loc = event.location-text | replace: " Library", "" %}
+      {% assign event_name = event.name | strip_html | replace: "Suffolk Libraries Day: ", "" | replace: "Suffolk Libraries Day ", "" %}
+      {% assign event_loc = event.location-text | replace: " Library", "" | replace: " Community", ""  %}
 
         <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate-green hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span><br>{{ event_name }}</a>
 
