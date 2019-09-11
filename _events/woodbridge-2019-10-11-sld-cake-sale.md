@@ -5,6 +5,7 @@ location-text: Woodbridge Library
 event-start-date: 2019-10-11
 event-start-time: 1000
 event-category: sld
+sld-region: east
 breadcrumb: y
 ---
 

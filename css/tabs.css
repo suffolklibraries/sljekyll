@@ -1,0 +1,65 @@
+.tabs > div .tabs-panel {
+	display: none;
+	background: #fefefe;
+	padding: 1.5em 1em;
+}
+
+.tabs-panel {
+	margin-top: 0;
+}
+
+.tabs > div .tabs-panel-selected { display: block; }
+
+.tabs-nav a {
+	margin-bottom: 0;
+}
+
+li.tabs-selected a {
+	background: #fefefe;
+	color: #222;
+}
+
+.tabs-body {
+	margin-top: 0;
+}
+
+a[role="tab"] {
+	background: #1928CF;
+	color: #fff;
+	padding: 0.75em 0.33em;
+	display: inline-block;
+	margin-right: 0.25em;
+}
+
+a[aria-selected], a[role="tab"]:focus {
+	background: #fff;
+	color: #222;
+	border: 2px solid #222;
+	border-bottom: 0;
+	position: relative;
+	top: 2px;
+}
+
+a[role="tab"]:focus {
+	background: #eee;
+}
+
+[role="tablist"] li {
+	display: inline-block;
+	list-style: none;
+}
+
+[role="tabpanel"] {
+	margin-top: 0;
+	padding: 1.5em;
+	border: 2px solid #222;
+}
+
+[role="tabpanel"][aria-hidden="true"] {
+	display: none;
+}
+
+[role="tabpanel"]:focus {
+	background: #eee;
+	outline: thin dotted;
+}

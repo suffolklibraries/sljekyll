@@ -6,6 +6,7 @@ event-alt-location: Market Square, Haverhill
 event-start-date: 2019-10-12
 event-start-time: 1000
 event-category: sld
+sld-region: west
 breadcrumb: y
 ---
 

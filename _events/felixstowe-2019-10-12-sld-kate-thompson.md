@@ -6,6 +6,7 @@ event-start-date: 2019-10-12
 event-start-time: 1430
 event-ticket-price: 7
 event-category: sld
+sld-region: east
 breadcrumb: y
 ---
 

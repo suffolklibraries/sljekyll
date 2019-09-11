@@ -5,6 +5,7 @@ location-text: Stowmarket Library
 event-start-date: 2019-10-12
 event-start-time: 1100
 event-category: sld
+sld-region: west
 breadcrumb: y
 ---
 

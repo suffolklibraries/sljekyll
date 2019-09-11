@@ -6,6 +6,7 @@ event-start-date: 2019-10-11
 event-start-time: 1700
 event-end-time: 1800
 event-category: sld
+sld-region: ipswich
 event-ticket-price: 5
 breadcrumb: y
 ---

@@ -7,6 +7,7 @@ event-start-time: 1400
 event-end-time: 1600
 event-ticket-price: 3 per person or £9 for a group of 4
 event-category: sld
+sld-region: west
 breadcrumb: y
 ---
 

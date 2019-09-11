@@ -7,6 +7,7 @@ event-start-time: 1030
 event-end-time: 1200
 event-category: sld
 event-ticket-price: 2
+sld-region: west
 breadcrumb: y
 ---
 

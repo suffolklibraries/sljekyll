@@ -1,0 +1,9 @@
+.ui-tabs-tab a {
+  background-color: white;
+  color: $corporate-green;
+}
+
+.ui-tabs-active a {
+  background-color: $corporate-green;
+  color: white;
+}

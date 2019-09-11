@@ -6,6 +6,7 @@ event-start-date: 2019-10-12
 event-start-time: 1800
 event-ticket-price: 5
 event-category: sld
+sld-region: south
 breadcrumb: y
 ---
 

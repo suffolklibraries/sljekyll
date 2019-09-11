@@ -7,6 +7,7 @@ event-start-time: 1030
 event-end-time: 1230
 event-ticket-price: free but donations appreciated
 event-category: sld
+sld-region: west
 breadcrumb: y
 ---
 
