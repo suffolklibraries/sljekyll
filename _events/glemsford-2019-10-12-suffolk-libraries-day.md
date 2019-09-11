@@ -1,5 +1,5 @@
 ---
-name: "Suffolk Libraries Day market"
+name: "Suffolk Libraries Day: Market"
 location: glemsford-library
 location-text: Glemsford Library
 event-start-date: 2019-10-12

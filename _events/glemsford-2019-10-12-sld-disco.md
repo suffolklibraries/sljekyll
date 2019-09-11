@@ -8,6 +8,7 @@ event-start-time: 2000
 event-end-time: 2315
 event-category: sld
 event-ticket-price: 6
+sld-region: south
 breadcrumb: y
 ---
 

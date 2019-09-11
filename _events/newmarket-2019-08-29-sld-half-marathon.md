@@ -5,6 +5,7 @@ location-text: Newmarket Library
 event-start-date: 2019-08-29
 event-end-date: 2019-10-13
 event-category: sld
+sld-region: west
 breadcrumb: y
 ---
 
