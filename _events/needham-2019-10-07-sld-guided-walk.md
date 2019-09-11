@@ -7,6 +7,7 @@ event-doors-open: 0945
 event-start-time: 1000
 event-ticket-price: 5 adults; £1 accompanied children
 event-category: sld
+sld-region: west
 breadcrumb: y
 ---
 

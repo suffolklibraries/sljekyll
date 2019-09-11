@@ -1,5 +1,5 @@
 ---
-name: "Suffolk Libraries Day: pop-up café and book sale"
+name: "Suffolk Libraries Day: Pop-up café and book sale"
 location: brandon-library
 location-text: Brandon Library
 event-start-date: 2019-10-12
