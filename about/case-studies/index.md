@@ -37,3 +37,14 @@ featured-caption: "Using the PCs at Ipswich County Library"
   title="I can reserve as many as I want, free of charge"
   text="I have 3-4 eBooks on the go that I like to read and audio books for the car. I can reserve as many as I want, free of charge.” But Angie doesn’t just use the library service for books: “I’ve brought my daughter to the baby sessions. My younger daughter does the Summer Reading Challenge. I’ve even attended a knit and natter group.” – <cite>Angle Lee-Foster , Framlingham Library customer</cite>"
 %}
+
+{%
+  include z-bar.html
+  src="case-studies/brandon-and-matilda.jpg"
+  alt="Two young people in T-shirts in front of Ipswich County Library."
+  layout-reverse="true"
+  color="white"
+  bg-color="custom-bg-corporate"
+  title="More than stacking shelves and loaning books"
+  text="Brandon and Matilda did a one week placement in Ipswich as part of a programme with National Citizens Service. They set up a wedding venue, ran a slime workshop, set up fundraising initiatives, read with children taking part in the Summer Reading Challenge and organised an afternoon tea in support of mental health awareness. “The management here is lovely, they welcomed us with open arms. Every suggestion was taken on board. They’re so eager to have volunteers.”. – <cite>Brandon and Matilda, Ipswich County Library volunteers</cite>"
+%}
