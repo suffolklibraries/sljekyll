@@ -1,5 +1,5 @@
 ---
-name: "Suffolk Libraries Day: sponsored read and more"
+name: "Suffolk Libraries Day: Sponsored read and more"
 location: bungay-community-library
 location-text: Bungay Community Library
 event-start-date: 2019-10-12

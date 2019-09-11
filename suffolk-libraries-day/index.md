@@ -38,7 +38,7 @@ tabs: true
 
         {% assign events = site.events | where: "sld-region", "ipswich" %}
         {% for event in events %}
-        {% assign event_name = event.name | replace: "Suffolk Libraries Day: ", "" | replace: "Suffolk Libraries Day ", "" | capitalize %}
+        {% assign event_name = event.name | strip_html | replace: "Suffolk Libraries Day: ", "" | replace: "Suffolk Libraries Day ", "" %}
 
           <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate-green hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event.location-text }}</span><br>{{ event_name }}</a>
 
@@ -54,7 +54,7 @@ tabs: true
 
       {% assign events = site.events | where: "sld-region", "north" %}
       {% for event in events %}
-      {% assign event_name = event.name | replace: "Suffolk Libraries Day: ", "" | replace: "Suffolk Libraries Day ", "" | capitalize %}
+      {% assign event_name = event.name | strip_html | replace: "Suffolk Libraries Day: ", "" | replace: "Suffolk Libraries Day ", "" %}
 
         <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate-green hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event.location-text }}</span><br>{{ event_name }}</a>
 

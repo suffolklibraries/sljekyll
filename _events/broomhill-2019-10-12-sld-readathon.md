@@ -1,5 +1,5 @@
 ---
-name: "Suffolk Libraries Day readathon"
+name: "Suffolk Libraries Day Readathon"
 location: broomhill-library
 location-text: Broomhill Library
 event-start-date: 2019-10-12

@@ -6,7 +6,7 @@ event-start-date: 2019-10-13
 evnet-start-time: 1000
 event-end-time: 1200
 event-category: sld
-sld-region: east
+sld-region: ipswich
 event-ticket-price: free
 breadcrumb: y
 ---
