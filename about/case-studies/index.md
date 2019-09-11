@@ -3,10 +3,10 @@ title: "Suffolk Libraries stories"
 layout: featured
 hnav: about
 header-bg: custom-bg-corporate
-featured-description: "We reach thousands of Suffolk’s residents through our services, events and spaces. Find out about some of the people whe’ve had an effect on."
-featured-image: "about/at-computer.jpg"
-featured-alt: "A woman sits at a computer in a library talking to friends."
-featured-caption: "Using the PCs at Ipswich County Library"
+featured-hero-description: "We reach thousands of Suffolk’s residents through our services, events and spaces. Find out about some of the people whe’ve had an effect on."
+featured-hero-image: "about/at-computer.jpg"
+featured-hero-alt: "A woman sits at a computer in a library talking to friends."
+featured-hero-caption: "Using the PCs at Ipswich County Library"
 ---
 
 {%
@@ -40,11 +40,11 @@ featured-caption: "Using the PCs at Ipswich County Library"
 
 {%
   include z-bar.html
-  src="case-studies/brandon-and-matilda.jpg"
+  src="case-studies/bandm.jpg"
   alt="Two young people in T-shirts in front of Ipswich County Library."
   layout-reverse="true"
   color="white"
   bg-color="custom-bg-corporate"
   title="More than stacking shelves and loaning books"
-  text="Brandon and Matilda did a one week placement in Ipswich as part of a programme with National Citizens Service. They set up a wedding venue, ran a slime workshop, set up fundraising initiatives, read with children taking part in the Summer Reading Challenge and organised an afternoon tea in support of mental health awareness. “The management here is lovely, they welcomed us with open arms. Every suggestion was taken on board. They’re so eager to have volunteers.”. – <cite>Brandon and Matilda, Ipswich County Library volunteers</cite>"
+  text="Brandon and Matilda worked in Ipswich as part of their National Citizens Service. They set up a wedding venue, ran a slime workshop, fundraised, read with children taking part in the Summer Reading Challenge and organised afternoon tea in support of mental health awareness. “The management welcomed us with open arms. Every suggestion was taken on board. They’re so eager to have volunteers.” – <cite>Brandon and Matilda, Ipswich County Library volunteers</cite>"
 %}
