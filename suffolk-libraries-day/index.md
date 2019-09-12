@@ -12,6 +12,7 @@ featured-hero-alt: "Adults and children playing in a library."
 featured-hero-caption: "Tot rock at Woodbridge Library"
 featured-hero-logo: "sld/sld-logo.png"
 featured-hero-logo-alt: "Suffolk Libraries Day"
+featured-hero-center: true
 hnav: "sld"
 header-bg: custom-bg-corporate-green
 jquery-ui: true
