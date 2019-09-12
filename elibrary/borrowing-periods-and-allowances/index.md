@@ -58,6 +58,22 @@ We don't charge fees or fines for any of our eLibrary services.
     </tr>
     <tr>
       <td>
+        <a href="/elibrary/kanopy/">Kanopy</a>
+      </td>
+      <td>
+        Films and video courses
+      </td>
+      <td>
+      <ul class="list pa0 ma0">
+        <li>10 films a month for one credit each</li><li>Unlimited access to a Great Course for 30 days for 1 credit</li><li>Unlimited access to children's films for 30 days for 1 credit</li>
+      </ul>
+      </td>
+      <td>
+        See 'Loan period'
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="/elibrary/freegal/">Freegal</a>
       </td>
       <td>
@@ -67,20 +83,6 @@ We don't charge fees or fines for any of our eLibrary services.
       <ul class="list pa0 ma0">
         <li>5 track downloads a week</li><li>2 music video downloads a week (count as 2 tracks)</li><li>Unlimited streaming</li>
       </ul>
-      </td>
-      <td>
-        Unlimited
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="/elibrary/rbdigital/">RBdigital</a>
-      </td>
-      <td>
-        Magazines
-      </td>
-      <td>
-        Unlimited
       </td>
       <td>
         Unlimited
