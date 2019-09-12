@@ -12,7 +12,7 @@
 
     <p class="ma0">{{ include.text }}</p>
 
-    {% if include.link %}<p class="mb0 mt1 b"><a href="{{ include.link }}" class="underline {% if include.link-color %}{{ include.link-color }}{% else %}blue{% endif %}{% if include.link-hover-color %} hover-{{ include.link-hover-color }}{% endif %}">{% if include.link-text %}{{ include.link-text }}{% endif %}</a></p>{% endif %}
+    {% if include.link %}<p class="mb0 mt1 b{% if include.center %} tc{% endif %}"><a href="{{ include.link }}" class="underline {% if include.link-color %}{{ include.link-color }}{% else %}blue{% endif %}{% if include.link-hover-color %} hover-{{ include.link-hover-color }}{% endif %}">{% if include.link-text %}{{ include.link-text }}{% endif %}</a></p>{% endif %}
 
   </div>
 
