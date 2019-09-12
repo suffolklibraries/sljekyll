@@ -130,6 +130,7 @@ tabs: true
   alt="Two young children sitting on a library floor laughing."
   bg-color="bg-near-white"
   layout-reverse="true"
+  center="true"
   title="Get involved!"
   text="Come along or help arrange an event at your local library. So far, staff and volunteers have planned an art exhibition and sale, family history open event, adult craft sessions, a sponsored spin cycle, a sponsored choir/flash mob, a sponsored read, an author book signing, live music and cake sales&hellip;"
   link="mailto:suffolklibrariesday@suffolklibraries.co.uk"
@@ -148,7 +149,7 @@ tabs: true
 
     <figure class="ma0 pv2">
 
-      <img class="db center mv4 ba b--light-gray br2 shadow-2" src="/images/sld/sld-map.jpg" alt="Map of book's route across Suffolk">
+      <img class="db center mv4 ba b--light-gray" src="/images/sld/sld-map.jpg" alt="Map of book's route across Suffolk">
 
       <figcaption><p class="f6 custom-lh-title tc">The book will visit all 44 of Suffolk’s libraries</p></figcaption>
 
@@ -168,7 +169,7 @@ tabs: true
 
 <section class="ph2 ph3-ns pv3 custom-bg-corporate-green white">
 
-    <p class="tc f3-ns">For more information and to get involved, contact <br><strong>suffolklibrariesday@suffolklibraries.co.uk</strong></p>
+    <p class="tc f3-ns custom-break-word">For more information and to get involved, contact <br><strong>suffolklibrariesday@suffolklibraries.co.uk</strong></p>
 
 </section>
 
