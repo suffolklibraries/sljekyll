@@ -104,7 +104,7 @@ Third novel from the author of [<cite>The Loney</cite>](https://suffolk.spydus.c
 
 > "This odd couple, suffering from jet lag and culture shock, argue about everything from steak haché to screen time, and the trip is looking like a disaster. But as Michael's ease with tech and sharp eye help Noah unearth troubling details about their family's past, both of them come to grasp the risks that people in all eras have run for their loved ones, and find they are more akin than they knew."
 
-## [<cite>Find Me</cite>, by Andre Aciman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2637354)
+## [<cite>Find Me</cite>, by André Aciman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2637354)
 
 > "In this exploration of the varieties of love, the author of [<cite>Call Me by Your Name</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2286385) lets us back into his characters' lives years after their first meeting.
 
