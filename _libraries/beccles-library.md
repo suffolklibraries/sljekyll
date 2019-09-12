@@ -37,4 +37,5 @@ branch-other-facilities: '<ul>
                           <li>1940s, 1950s, 1960s and 1970s memory boxes available to local borrowers for up to three weeks. No library card required. Contact the library for more information.</li>
                           </ul>'
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, reminiscence items for dementia."
+branch-news: The library will be closing at 5pm on Friday 13 September due to staff sickness. The talk in the evening will be going ahead as planned.
 ---
