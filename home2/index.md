@@ -16,15 +16,15 @@ no-index: true
 
   <div class="flex-l flex-wrap-l justify-between-l">
 
-    <div class="w-third-l flex mv2 mv0-l">
+    <div class="w-25-l flex mv2 mv0-l">
 
-      <div class="w-third pa2 pv4-ns bg-white flex items-center">
+      <div class="w-25 pa2 pv4-ns bg-white">
 
-        <img src="/images/icons/essential-icons/search-1.svg" alt="Phone" class="db mw2 mw3-ns center">
+        <img src="/images/icons/essential-icons/search-1.svg" alt="Phone" class="db mw2 center">
 
       </div>
 
-      <div class="w-two-thirds pa2 pv4-ns bg-white">
+      <div class="w-75 pa2 pv4-ns bg-white">
 
         <h2 class="f4 custom-lh-title pa0 mt0 mb1 strong">Search &amp; reserve</h2>
 
@@ -34,15 +34,15 @@ no-index: true
 
     </div>
 
-    <div class="w-third-l flex mv2 mv0-l">
+    <div class="w-25-l flex mv2 mv0-l">
 
-      <div class="w-third pa2 pv4-ns bg-white flex items-center">
+      <div class="w-25 pa2 pv4-ns bg-white">
 
-        <img src="/images/icons/essential-icons/locked-2.svg" alt="Phone" class="db mw2 mw3-ns center">
+        <img src="/images/icons/essential-icons/locked-2.svg" alt="Phone" class="db mw2 center">
 
       </div>
 
-      <div class="w-two-thirds pa2 pv4-ns bg-white">
+      <div class="w-75 pa2 pv4-ns bg-white">
 
         <h2 class="f4 custom-lh-title pa0 mt0 mb1 strong">Login &amp; account</h2>
 
@@ -52,19 +52,37 @@ no-index: true
 
     </div>
 
-    <div class="w-third-l flex mv2 mv0-l">
+    <div class="w-25-l flex mv2 mv0-l">
 
-      <div class="w-third pa2 pv4-ns bg-white flex items-center">
+      <div class="w-25 pa2 pv4-ns bg-white">
 
-        <img src="/images/icons/essential-icons/id-card-5.svg" alt="Phone" class="db mw2 mw3-ns center">
+        <img src="/images/icons/essential-icons/id-card-5.svg" alt="Phone" class="db mw2 center">
 
       </div>
 
-      <div class="w-two-thirds pa2 pv4-ns bg-white">
+      <div class="w-75 pa2 pv4-ns bg-white">
 
         <h2 class="f4 custom-lh-title pa0 mt0 mb1 strong">Join</h2>
 
-        <p class="ma0 f5">Apply for a library card</p>
+        <p class="ma0 f5">Apply for a free library card</p>
+
+      </div>
+
+    </div>
+
+    <div class="w-25-l flex mv2 mv0-l">
+
+      <div class="w-25 pa2 pv4-ns bg-white">
+
+        <img src="/images/icons/essential-icons/info.svg" alt="Phone" class="db mw2 center">
+
+      </div>
+
+      <div class="w-75 pa2 pv4-ns bg-white">
+
+        <h2 class="f4 custom-lh-title pa0 mt0 mb1 strong">Help</h2>
+
+        <p class="ma0 f5">Using the service, charges, fines</p>
 
       </div>
 
@@ -78,7 +96,7 @@ no-index: true
   include z-bar.html
   src="sld/bg-woodbridge.jpg"
   alt="Woman reading to young children who are shouting and dancing."
-  bg-color="custom-bg-corporate-green"
+  bg-color="custom-bg-corporate"
   color="white"
   layout-reverse="true"
   title="Love your library: Suffolk Libraries Day"
@@ -263,7 +281,7 @@ no-index: true
   include z-bar.html
   src="home/leaflet.jpg"
   alt="Please read this leaflet carefully cover."
-  bg-color="custom-bg-corporate"
+  bg-color="custom-bg-corporate-green"
   color="white"
   title="Get ideas &amp; recommendations"
   text="Thousands of reading, listening and viewing recommendations from our staff and customers."
