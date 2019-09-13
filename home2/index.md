@@ -20,15 +20,19 @@ no-index: true
 
       <div class="w-25 pa2 pv4-ns bg-white">
 
-        <img src="/images/icons/essential-icons/search-1.svg" alt="Phone" class="db mw2 center">
+        <a href="#"><img src="/images/icons/essential-icons/search-1.svg" alt="Phone" class="db mw2 center"></a>
 
       </div>
 
       <div class="w-75 pa2 pv4-ns bg-white">
 
-        <h2 class="f4 custom-lh-title pa0 mt0 mb1 strong">Search &amp; reserve</h2>
+        <a href="#" class="custom-corporate-green no-underline">
 
-        <p class="ma0 f5">Reserve books, DVDs &amp; CDs for collection</p>
+          <h2 class="f4 custom-lh-title pa0 mt0 mb1 strong">Search &amp; reserve</h2>
+
+          <p class="ma0 f5 dark-gray">Reserve books, DVDs &amp; CDs for collection</p>
+
+        </a>
 
       </div>
 
@@ -38,7 +42,7 @@ no-index: true
 
       <div class="w-25 pa2 pv4-ns bg-white">
 
-        <img src="/images/icons/essential-icons/locked-2.svg" alt="Phone" class="db mw2 center">
+        <a href="#"><img src="/images/icons/essential-icons/locked-2.svg" alt="Phone" class="db mw2 center"></a>
 
       </div>
 
@@ -56,7 +60,7 @@ no-index: true
 
       <div class="w-25 pa2 pv4-ns bg-white">
 
-        <img src="/images/icons/essential-icons/id-card-5.svg" alt="Phone" class="db mw2 center">
+        <a href="#"><img src="/images/icons/essential-icons/id-card-5.svg" alt="Phone" class="db mw2 center"></a>
 
       </div>
 
@@ -74,7 +78,7 @@ no-index: true
 
       <div class="w-25 pa2 pv4-ns bg-white">
 
-        <img src="/images/icons/essential-icons/info.svg" alt="Phone" class="db mw2 center">
+        <a href="#"><img src="/images/icons/essential-icons/info.svg" alt="Phone" class="db mw2 center"></a>
 
       </div>
 
@@ -96,15 +100,15 @@ no-index: true
   include z-bar.html
   src="sld/bg-woodbridge.jpg"
   alt="Woman reading to young children who are shouting and dancing."
-  bg-color="custom-bg-corporate"
-  color="white"
+  bg-color="bg-light-gray"
+  color="dark-gray"
   layout-reverse="true"
   title="Love your library: Suffolk Libraries Day"
   text="Special fundraising activities and a celebration of our libraries. Sat 12 Oct across all branches."
   link="/about/case-studies/"
   link-text="Find an event &rarr;"
-  link-color="white"
-  link-hover-color="white"
+  link-color="custom-corporate-green"
+  link-hover-color="custom-corporate-green"
 %}
 
 <div class="ph2 ph3-ns pv3 pv4-l bg-white">
@@ -119,7 +123,7 @@ no-index: true
 
       </div>
 
-      <div class="w-two-thirds pa2 bg-moon-gray">
+      <div class="w-two-thirds pa2 custom-bg-corporate-green white">
 
         <h2 class="f4 custom-lh-title pa0 mt0 mb1 strong">eLibrary</h2>
 
@@ -137,7 +141,7 @@ no-index: true
 
       </div>
 
-      <div class="w-two-thirds pa2 bg-moon-gray">
+      <div class="w-two-thirds pa2 custom-bg-corporate-green white">
 
         <h2 class="f4 custom-lh-title pa0 mt0 mb1 strong">Libraries, mobiles &amp; home</h2>
 
@@ -155,7 +159,7 @@ no-index: true
 
       </div>
 
-      <div class="w-two-thirds pa2 bg-moon-gray">
+      <div class="w-two-thirds pa2 custom-bg-corporate-green white">
 
         <h2 class="f4 custom-lh-title pa0 mt0 mb1 strong">Health &amp; wellbeing</h2>
 
@@ -173,7 +177,7 @@ no-index: true
 
       </div>
 
-      <div class="w-two-thirds pa2 bg-moon-gray">
+      <div class="w-two-thirds pa2 custom-bg-corporate-green white">
 
         <h2 class="f4 custom-lh-title pa0 mt0 mb1 strong">Events &amp; activities</h2>
 
@@ -191,7 +195,7 @@ no-index: true
 
       </div>
 
-      <div class="w-two-thirds pa2 bg-moon-gray">
+      <div class="w-two-thirds pa2 custom-bg-corporate-green white">
 
         <h2 class="f4 custom-lh-title pa0 mt0 mb1 strong">Learning, research &amp; reference</h2>
 
@@ -209,7 +213,7 @@ no-index: true
 
       </div>
 
-      <div class="w-two-thirds pa2 bg-moon-gray">
+      <div class="w-two-thirds pa2 custom-bg-corporate-green white">
 
         <h2 class="f4 custom-lh-title pa0 mt0 mb1 strong">Arts &amp; entertainment</h2>
 
@@ -227,7 +231,7 @@ no-index: true
 
       </div>
 
-      <div class="w-two-thirds pa2 bg-moon-gray">
+      <div class="w-two-thirds pa2 custom-bg-corporate-green white">
 
         <h2 class="f4 custom-lh-title pa0 mt0 mb1 strong">Reading &amp; literacy</h2>
 
@@ -245,7 +249,7 @@ no-index: true
 
       </div>
 
-      <div class="w-two-thirds pa2 bg-moon-gray">
+      <div class="w-two-thirds pa2 custom-bg-corporate-green white">
 
         <h2 class="f4 custom-lh-title pa0 mt0 mb1 strong">News &amp; press</h2>
 
@@ -263,7 +267,7 @@ no-index: true
 
       </div>
 
-      <div class="w-two-thirds pa2 bg-moon-gray">
+      <div class="w-two-thirds pa2 custom-bg-corporate-green white">
 
         <h2 class="f4 custom-lh-title pa0 mt0 mb1 strong">Business &amp; room hire</h2>
 
