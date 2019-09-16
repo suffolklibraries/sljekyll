@@ -1,5 +1,5 @@
-<script src="/js/jquery-2.2.4.min.js"></script>
-<script src="/js/jquery-ui.min.js"></script>
+{% if page.jquery or page.jquery-ui %}<script src="/js/jquery-2.2.4.min.js"></script>{% endif %}
+{% if page.jquery-ui %}<script src="/js/jquery-ui.min.js"></script>{% endif %}
 
 {% if page.dynatable %}
 <script src="/js/jquery.dynatable.js"></script>
