@@ -100,15 +100,15 @@ no-index: true
   include z-bar.html
   src="sld/bg-woodbridge.jpg"
   alt="Woman reading to young children who are shouting and dancing."
-  bg-color="custom-bg-corporate"
-  color="white"
+  bg-color="bg-near-white"
+  color="dark-gray"
   layout-reverse="true"
   title="Love your library: Suffolk Libraries Day"
   text="Special fundraising activities and a celebration of our libraries. Sat 12 Oct across all branches."
   link="/about/case-studies/"
   link-text="Find an event &rarr;"
-  link-color="white"
-  link-hover-color="white"
+  link-color="custom-corporate-green"
+  link-hover-color="custom-corporate-green"
 %}
 
 <div class="ph2 ph3-ns pv3 pv4-l bg-white">
