@@ -1,8 +1,8 @@
 ---
 recurrent-title: "Baby Bounce and Tot Rock"
-recurrent-description: "Songs and rhymes for babies and toddlers. Term-time only."
+recurrent-description: "Rhymes and songs for babies and toddlers in the Room at the Top. Term-time only."
 recurrent-day: Friday
-recurrent-times: 1130-1200
+recurrent-times: 1100-1130
 recurrent-location: felixstowe-library
 recurrent-location-display-name: Felixstowe Library
 recurrent-location-display-url: /branches/felixstowe-library/

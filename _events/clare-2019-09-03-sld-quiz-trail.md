@@ -5,6 +5,7 @@ location-text: Clare Library
 event-start-date: 2019-09-03
 event-end-date: 2019-10-12
 event-category: sld
+sld-region: south
 event-ticket-price: 2.50
 breadcrumb: y
 ---

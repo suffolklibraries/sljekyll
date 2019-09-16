@@ -1,5 +1,5 @@
 ---
-name: "Waveney Kids' Book Festival: Sophie Green: <cite>Potkin and Stubbs</cite>"
+name: "Waveney Kids' Book Festival: Sophie Green: <cite>Potkin and Stubbs</cite>: for ages 7+"
 location: beccles-library
 location-text: Beccles Library
 wkbf-location: Beccles Library
@@ -13,7 +13,7 @@ event-ticket-url: https://www.ticketsource.co.uk/wkbf/sophie-green-author-of-pot
 breadcrumb: y
 ---
 
-Hear how unusual detective duo Potkin and Stubbs investigate crimes and try out your own detective skills.
+Hear how unusual duo Potkin and Stubbs investigate crimes, learn how to create a detective story of your own and then try out your codebreaking skills.
 
 <img src="/images/featured/featured-sophie-green-200.jpg" alt="Sophie Green" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
 
