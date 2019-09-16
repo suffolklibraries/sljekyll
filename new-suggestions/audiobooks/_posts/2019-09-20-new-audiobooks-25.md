@@ -73,3 +73,7 @@ breadcrumb: audiobooks
 > "The murder of a team of UN scientists while investigating mysterious deaths in El Salvador. A deadly collision in the waterways off Detroit. An attack from tomb raiders on an archaeological site along the Nile. Is there a link between these violent events? The answer may lie with the tale of an Egyptian princess forced to flee the armies of her father 3,000 years ago.
 
 > "From the desert sands of Egypt to the rocky isles of Ireland to the deepwater lochs of Scotland, only Dirk Pitt can unravel the secrets of an ancient enigma that could change the very future of mankind."
+
+## [<cite>Moondust: in search of the men who fell to Earth</cite>, by Andrew Smith, read by Matt Jamie](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2592654)
+
+> "This is a revealing work about the lives of the men who walked on the moon. Andrew Smith sets out to interview all the astronauts still alive who walked on the moon, and to find out how their lives changed for ever by what had happened."
