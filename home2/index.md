@@ -4,11 +4,11 @@ layout: new-blank
 no-index: true
 ---
 
-<div class="ph2 ph3-ns pv2 custom-bg-corporate-green white flex-ns">
+<div class="ph2 ph3-ns pv2 bb b--light-gray flex-ns">
 
   <h1 class="f4 pr3-ns custom-lh-title mt0 mb1 mb0-ns pa0">Welcome to Suffolk Libraries</h1>
 
-  <p class="custom-lh-title ma0">01473 351249 | help@suffolklibraries.co.uk</p>
+  <p class="f4 custom-lh-title ma0">01473 351249 | help@suffolklibraries.co.uk</p>
 
 </div>
 
@@ -100,7 +100,7 @@ no-index: true
   include z-bar.html
   src="sld/bg-woodbridge.jpg"
   alt="Woman reading to young children who are shouting and dancing."
-  bg-color="bg-light-gray"
+  bg-color="bg-near-white"
   color="dark-gray"
   layout-reverse="true"
   title="Love your library: Suffolk Libraries Day"
