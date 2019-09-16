@@ -4,7 +4,7 @@ location: shotley
 location-text: Shotley (Suffolk Libraries Local)
 event-start-date: 2019-10-07
 event-start-time: 1330
-event-end-time: 1630
+event-end-time: 1600
 event-ticket-price: free
 breadcrumb: y
 ---
