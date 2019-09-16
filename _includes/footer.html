@@ -122,112 +122,11 @@
 
                 </div>
 
-
-
         </div>
 
         </footer>
 
         {% include scripts.html %}
-
-        {% if page.map %}
-
-        <script src="/js/jquery.address.js"></script>
-        <script src="/js/sl_maps_lib.js"></script>
-        <script>
-          //<![CDATA[
-            $(window).resize(function () {
-              var h = $(window).height(),
-                offsetTop = 105; // Calculate the top offset
-
-              $('#map_canvas').css('height', (h - offsetTop));
-            }).resize();
-
-            $(function() {
-              var myMap = new MapsLib({
-                googleApiKey:       "AIzaSyCzv2ep-hLeNxtPLTejxwBYmqZgXbE6faE",
-                locationColumn:     "Address",
-                map_center:         [52.188902, 0.997712],
-                locationScope:      "suffolk",
-                searchRadius:       8047,
-                defaultZoom:        10,
-                addrMarkerImage:    "/images/icons/blue-pushpin.png"
-              });
-
-              var autocomplete = new google.maps.places.Autocomplete(document.getElementById('search_address'));
-
-              $(':checkbox').click(function(){
-                myMap.doSearch();
-              });
-
-              $(':radio').click(function(){
-                myMap.doSearch();
-              });
-
-              $('#search_radius').change(function(){
-                myMap.doSearch();
-              });
-
-              $('#search-button').click(function(){
-                myMap.doSearch();
-              });
-
-              $('#find_me').click(function(){
-                myMap.findMe();
-                return false;
-              });
-
-              $('#reset').click(function(){
-                myMap.reset();
-                return false;
-              });
-
-
-            });
-          //]]>
-        </script>
-
-        {% endif %}
-
-        {% if page.typewriter %}
-        <script src="/js/typewriter-core.js"></script>
-        <script>
-          const typewriter = new Typewriter('#typewriter', {
-            loop: false,
-          });
-          typewriter.typeString('Prood')
-            .pauseFor(500)
-            .deleteChars(2)
-            .typeString('ud Suffolk is a react')
-            .pauseFor(500)
-            .deleteChars(5)
-            .typeString('creative…')
-            .pauseFor(2500)
-            .start();
-        </script>
-        {% endif %}
-
-        {% if page.particles %}
-        <script src="/js/particles.min.js"></script>
-        <script>/* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
-        particlesJS.load('particles-js', '/js/particles.json', function() {
-          console.log('callback - particles.js config loaded');
-        });</script>
-        {% endif %}
-
-        {% if page.awesomplete %}
-        <script src="/js/awesomplete.min.js" async></script>
-        {% endif %}
-
-        {% if page.breadcrumb == 'branch-room-hire' %}
-        <script type="application/ld+json">
-            {
-              "@context": "https://schema.org/",
-              "@type": "MeetingRoom",
-              "name": "{{ page.title }}"
-            }
-        </script>
-        {% endif %}
 
     </body>
 
