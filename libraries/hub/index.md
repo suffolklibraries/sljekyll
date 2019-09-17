@@ -1,60 +1,45 @@
 ---
 title: "The Hub at Ipswich County Library"
-layout: blank
+layout: featured
+featured-hero-description: "A spacious, modern meeting space in the heart of Ipswich. 3 large meeting rooms, presentation equipment, internet access, refreshments and air conditioning. <br><strong>hub@suffolklibraries.co.uk</strong> / 01473 351249 / <a href='https://www.linkedin.com/company/suffolk-libraries/' class='white underline'>LinkedIn</a>"
+featured-hero-image: "hub/hub3.jpg"
+featured-hero-alt: "Glass walls with sofas in front of them."
+featured-hero-caption: "The Wolsey Room in the Ipswich Hub."
+header-bg: custom-bg-corporate-green
 ---
 
-<article class="ph2 ph3-ns pv3 pv4-l bg-navy">
+{%
+  include z-bar.html
+  src="hub/hub1.jpg"
+  alt="Large room with table, chairs and large display screen."
+  bg-color="bg-near-white"
+  layout-reverse="true"
+  title="The Wolsey Room"
+  text="Large room with seating and tables for up to 30 in various formats. Air conditioning and 84 inch presentation screen."
+%}
 
-  <div class="ph2 ph3-ns pv3 pv5-ns pv6-l ba-ns b--light-gray bg-white">
+{%
+  include z-bar.html
+  src="hub/hub5.jpg"
+  alt="Table and chairs in front of a presentation screen."
+  bg-color="custom-bg-corporate-green"
+  color="white"
+  title="The Chaucer Room"
+  text="Room with seating and tables for up to 12 people. Air conditioning and large presentation screen."
+%}
 
-    <div class="custom-max-width">
+{%
+  include z-bar.html
+  src="hub/cromwell2.jpg"
+  alt="Room with table, chairs and a display screen."
+  bg-color="bg-near-white"
+  layout-reverse="true"
+  title="The Cromwell Room"
+  text="Room with seating and tables for up to 10 people. Air conditioning and movable 55 inch presentation screen."
+%}
 
-      <h1 class="f3 f1-ns custom-lh-title mb2">The hub</h1>
+<div class="ph2 ph3-ns pv3 custom-bg-corporate-green white">
 
-      <p>Ipswich County Library, Northgate Street, Ipswich IP1 3DE</p>
+  <p class="f3 tc">Email <strong>hub@suffolklibraries.co.uk</strong> or call <strong>01473 351249</strong> for bookings and queries. <br><a href='https://www.linkedin.com/company/suffolk-libraries/' class='white underline'>We’re on LinkedIn</a></p>
 
-      <p class="f2-ns measure">A spacious, modern meeting space in the heart of Ipswich. 3 large meeting rooms, presentation equipment, internet access, refreshments and air conditioning.</p>
-
-      <p><span class="mid-gray">Contact:</span> <strong>hub@suffolklibraries.co.uk</strong> / 01473 351249 / <a href="https://www.linkedin.com/company/suffolk-libraries/">Follow Suffolk Libraries on LinkedIn</a></p>
-
-      <div class="flex-ns flex-wrap-ns">
-
-        <figure class="mb3 w-50-ns pr3-ns">
-
-          <img src="/images/hub/hub1.jpg" alt="Room with large screen and seats and chairs" class="db bw3 b--light-gray br2 shadow-2 border-box">
-
-          <figcaption class="f6">Wolsey Room</figcaption>
-
-        </figure>
-
-        <figure class="mb3 w-50-ns pl3-ns">
-
-          <img src="/images/hub/hub3.jpg" alt="Sofas outside a meeting room" class="db bw3 b--light-gray br2 shadow-2 border-box">
-
-          <figcaption class="f6">Wolsey Room exterior</figcaption>
-
-        </figure>
-
-        <figure class="mb3 w-50-ns pr3-ns">
-
-          <img src="/images/hub/hub4.jpg" alt="Room with large projector and seats and chairs" class="db bw3 b--light-gray br2 shadow-2 border-box">
-
-          <figcaption class="f6">Chaucer Room</figcaption>
-
-        </figure>
-
-        <figure class="mb3 w-50-ns pl3-ns">
-
-          <img src="/images/hub/hub5.jpg" alt="Room with large screen and seats and chairs" class="db bw3 b--light-gray br2 shadow-2 border-box">
-
-          <figcaption class="f6">Chaucer Room projector</figcaption>
-
-        </figure>
-
-      </div>
-
-    </div>
-
-  </div>
-
-</article>
+</div>
