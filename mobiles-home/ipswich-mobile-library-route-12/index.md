@@ -6,6 +6,12 @@ breadcrumb: mobiles-home
 
 <div class="{% include /c/generic-panel.html %}">
 
+    <p>The Ipswich Mobile Library is currently off the road for repairs.</a></p>
+
+</div>
+
+<div class="{% include /c/generic-panel.html %}">
+
     <p>Ipswich Mobile Library Route 12 is off the road today (Thursday 5 September) due to repairs.</p>
 
 </div>

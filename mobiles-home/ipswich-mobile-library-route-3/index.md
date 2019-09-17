@@ -4,6 +4,12 @@ title: Ipswich Mobile Library Route 3
 breadcrumb: mobiles-home
 ---
 
+<div class="{% include /c/generic-panel.html %}">
+
+    <p>The Ipswich Mobile Library is currently off the road for repairs.</a></p>
+
+</div>
+
 ## Contact us:
 
 Managers: Andrew Little and David Cook
