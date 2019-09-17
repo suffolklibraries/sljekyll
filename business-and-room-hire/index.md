@@ -1,58 +1,51 @@
 ---
-layout: default
 title: Business and room hire
-breadcrumb: home
+layout: featured
+featured-hero-description: "Excellent value meeting, work and study spaces and resources across Suffolk."
+featured-hero-image: "hub/hub3.jpg"
+featured-hero-alt: "Glass walls with sofas in front of them."
+featured-hero-caption: "The Wolsey Room in the Ipswich Hub."
+header-bg: custom-bg-corporate-green
 ---
 
-<h1 class="{% include /c/page-title.html %}">{{ page.title }}</h1>
+{%
+  include z-bar.html
+  src="hub/wolsey-door-2.jpg"
+  alt="A door with a 'Wolsey' sign on it."
+  bg-color="bg-near-white"
+  layout-reverse="true"
+  title="The Hub at Ipswich County Library"
+  text="A spacious, modern meeting space in the heart of Ipswich. Three large meeting rooms, presentation equipment, internet access, refreshments and air conditioning."
+  link="/libraries/hub/"
+  link-text="Hire a room in The Hub"
+  link-color="custom-corporate-green"
+  link-hover-color="custom-corporate-green"
+%}
 
-<div class="{% include /c/generic-panel.html %}">
+{%
+  include z-bar.html
+  src="hub/northgate-room.jpg"
+  alt="A grand room with an arched ceiling and desks."
+  bg-color="custom-bg-corporate-green"
+  color="white"
+  title="Room and space hire"
+  text="Most of our libraries offer excellent value spaces for hire. Some also offer refreshments, projectors and other meeting equipment."
+  link="/libraries/room-hire/"
+  link-text="Find a room to hire near you"
+  link-color="white"
+  link-hover-color="white"
+%}
 
-    <p class="ma0 f4">We offer resources and advice if you're setting up a new business or looking for excellent value meeting spaces across Suffolk. We also offer access to sewing machines and Kano kits in our Ipswich MakerSpace.</p>
-
-</div>
-
-<div class="cf">
-
-    <div class="custom-g-l2">
-
-        <section class="{% include /c/block.html %}">
-
-            <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/libraries/hub/">The hub</a></h1>
-
-            <a class="white custom-no-underline" href="/libraries/hub/"><img src="/images/featured/featured-hub-lounge-collage.jpg" class="custom-constrain-img" alt="Collage of presentation suite and facilities in the hub"></a>
-
-            <p class="{% include /c/block-graf.html %}">Business meeting and presentation spaces in Ipswich County Library.</p>
-
-        </section>
-
-    </div>
-
-    <div class="custom-g-l2">
-
-        <section class="{% include /c/block.html %}">
-
-            <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/libraries/room-hire/">Room &amp; space hire</a></h1>
-
-            <a class="white custom-no-underline" href="/libraries/room-hire/"><img src="/images/featured/featured-hub-pod.jpg" class="custom-constrain-img" alt="Chairs around a table next to a flipchart"></a>
-
-            <p class="{% include /c/block-graf.html %}">Most our libraries offer excellent value spaces for hire. Some also offer refreshments, projectors and other meeting equipment.</p>
-
-        </section>
-
-    </div>
-    <div class="custom-g-l2 custom-g-nm">
-
-        <section class="{% include /c/block.html %}">
-
-            <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/ceremonies/">Northgate room hire</a></h1>
-
-            <a class="white custom-no-underline" href="/events-activities/ceremonies/"><img src="/images/featured/featured-ceremonies.jpg" class="custom-constrain-img" alt="A wedding in a room lined with books"></a>
-
-            <p class="{% include /c/block-graf.html %}">Hire the Northgate room in Ipswich County Library for weddings and other ceremonies.</p>
-
-        </section>
-
-    </div>
-
-</div>
+{%
+  include z-bar.html
+  src="hub/ceremonies.jpg"
+  alt="Two people signing a book at a desk in front of several witnesses."
+  bg-color="bg-near-white"
+  layout-reverse="true"
+  title="Northgate Room Ipswich hire"
+  text="Hire the Northgate room in Ipswich County Library for weddings and other ceremonies."
+  link="/events-activities/ceremonies/"
+  link-text="Hire the Nortghate Room"
+  link-color="custom-corporate-green"
+  link-hover-color="custom-corporate-green"
+%}
