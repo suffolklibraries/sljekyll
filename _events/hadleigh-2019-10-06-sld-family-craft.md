@@ -6,7 +6,7 @@ event-start-date: 2019-10-12
 event-start-time: 1030
 event-end-time: 1430
 event-category: sld
-sld-region: west
+sld-region: south
 event-ticket-price: 1 suggested donation
 breadcrumb: y
 ---
