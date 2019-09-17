@@ -4,7 +4,7 @@ location: beccles-library
 location-text: Beccles Library
 wkbf-location: Beccles Library
 event-start-date: 2019-10-24
-event-start-time: 1430
+event-start-time: 1030
 event-ticket-price: 3
 event-category: wkbf-thu
 event-image: featured/featured-polly-dunbar.jpg
