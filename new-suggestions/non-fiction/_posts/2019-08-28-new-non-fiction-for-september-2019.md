@@ -12,7 +12,7 @@ breadcrumb: non-fiction
 
 ![A Killer's Confession and a mother's fight for the truth, Breaking and Mending, A Short History of Falling](/images/featured/featured-september-2019-non-fiction.jpg)
 
-## [<cite>I Love the Bones of You</cite>, by Christopher Eccleston](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2606212)
+## [<cite>I Love the Bones of You: my father and the making of me</cite>, by Christopher Eccleston](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2606212)
 
 > "A son. A father he adores. A profession he loves, and, a disease that destroys. The painful and life-changing journey one of Britain's finest actors takes as his late father struggles with dementia."
 
