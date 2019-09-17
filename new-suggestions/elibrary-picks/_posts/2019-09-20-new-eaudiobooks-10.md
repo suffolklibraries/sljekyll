@@ -141,7 +141,7 @@ See also: [recommended new physical audiobooks](/new-suggestions/audiobooks/new-
 
 > "As his companion dredges the sea for lost things, the Boy sifts for the truth of his missing father. Until one day, from the limitless water, a plan for escape emerges..."
 
-### [<cite>The Glass Woman</cite>, by Caroline Lea, read by Heiða Reed](https://suffolklibraries.overdrive.com/media/4331021)
+### [<cite>The Glass Woman</cite>, by Caroline Lea, read by Smari Gunn & Heiða Reed](https://suffolklibraries.overdrive.com/media/4331021)
 
 > "1686, Iceland. An isolated, windswept landscape.
 
