@@ -30,7 +30,7 @@ branch-scan-to-email: y
 breadcrumb: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, older people's activities."
 branch-news: '<ul>
-              <li>The main entrance to the library and the toilets will be unavailable until 12:30pm on Wednesday 18 September. Customers are advised to enter the building through the back reception door and the library fire exit and ask staff about alternative facilities.</li>
+              <li>The main entrance to the library and the toilets will be unavailable until 12:30pm on Wednesday 18 September. Customers are advised to enter the building through the back reception door and the library fire exit. Staff can advise about alternative facilities.</li>
               <li>The library will be closed on Thursday 10 October due to major electrical works.</li>
               </ul>'
 ---
