@@ -1,5 +1,5 @@
 ---
-name: "Halloween craft: Make your own spooky spoon! - 2pm session"
+name: "Halloween craft: Make your own spooky spoon! - 3pm session"
 location: haverhill-library
 location-text: Haverhill Library
 event-start-date: 2019-10-24
