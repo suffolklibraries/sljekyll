@@ -1,7 +1,7 @@
 ---
 branch-unique-id: aldeburgh-library
 branch-name: Aldeburgh Library
-branch-image: /images/branches/aldeburgh-library.jpg
+branch-image: /images/branches/aldeburgh-library-2.jpg
 branch-monday-hours: 0900 – 1300
 branch-tuesday-hours: 0900 – 1300
 branch-wednesday-hours:	0900 – 1300, 1500 – 1800

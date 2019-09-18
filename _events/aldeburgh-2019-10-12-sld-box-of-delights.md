@@ -2,9 +2,8 @@
 name: "Suffolk Libraries Day: Experience Britten-Pears' Box of Delights with Dr Nicholas Clark"
 location: aldeburgh-library
 location-text: Aldeburgh Library
-event-start-date: 2019-10-11
-event-start-time: 1030
-event-end-time: 1130
+event-start-date: 2019-10-12
+event-start-time: 1130
 event-category: sld
 sld-region: east
 event-ticket-price: free but donations appreciated
