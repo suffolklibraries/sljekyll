@@ -73,7 +73,7 @@ layout: blank
                   10:30am - 12pm (1.5 hours)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-                  Beccles Library - Triathlon
+                  Beccles Library - Running and cycling
                 </td>
               </tr>
               <tr class="bg-light-gray">
@@ -124,7 +124,7 @@ layout: blank
                   2pm - 4pm (2 hours)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-
+                  Suffolk Libraries staff - TBC
                 </td>
               </tr>
               <tr class="bg-light-gray">
@@ -192,7 +192,7 @@ layout: blank
                   11:30am - 12pm (0.5 hours)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-
+                  Suffolk Libraries staff - TBC
                 </td>
               </tr>
               <tr class="bg-light-gray">
@@ -583,7 +583,7 @@ layout: blank
                   10am - 11am (1 hour)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-                  Suffolk Family Carers - Classic car or tandem with Edwardian costumes and handlebar moustache
+                  Suffolk Family Carers - Classic car and motorbike
                 </td>
               </tr>
               <tr class="bg-light-gray">
@@ -716,10 +716,10 @@ layout: blank
                   Sat 12 Oct
                 </td>
                 <td class="pa2 ba b--moon-gray">
-                  10am - 11am (1 hour)
+                  10am - 10:30am (0.5 hours)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-
+                  Suffolk Libraries staff - TBC
                 </td>
               </tr>
               <tr class="bg-light-gray">
@@ -733,10 +733,10 @@ layout: blank
                   Sat 12 Oct
                 </td>
                 <td class="pa2 ba b--moon-gray">
-                  11am - 12pm (1 hour)
+                  10:30pm - 12pm (1.5 hours)
                 </td>
                 <td class="pa2 ba b--moon-gray">
-                  TBC - Tractor
+                  Hughes Electrical staff - Tractor
                 </td>
               </tr>
               <tr class="bg-light-gray">

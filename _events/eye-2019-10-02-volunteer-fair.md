@@ -5,6 +5,7 @@ location-text: Eye Library
 event-start-date: 2019-10-02
 event-start-time: 1030
 event-end-time: 1300
+event-category: saw
 breadcrumb: y
 ---
 

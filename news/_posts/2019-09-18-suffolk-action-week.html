@@ -1,0 +1,48 @@
+---
+layout: sidebar-right
+title: "Eight Suffolk Libraries to host volunteer fairs for Suffolk Action Week"
+date: 2019-09-18
+author: hannah-foulstone
+category: news
+excerpt: "The first Suffolk Action Week will take place from Monday 30 September - Sunday 6 October. Libraries across the county are getting involved by hosting events where potential volunteers can find out about opportunities in their local area."
+breadcrumb: news
+featured-image: /images/featured/featured-suffolk-action-week.jpg
+featured-alt: "Suffolk Libraries volunteer engagement manager Diane Moore and marketing manager James Powell at the Suffolk Action Week launch"
+---
+
+{% include /c/figure.html src="/images/featured/featured-suffolk-action-week.jpg" alt="Suffolk Libraries volunteer engagement manager Diane Moore and marketing manager James Powell at the Suffolk Action Week launch" caption="Suffolk Libraries volunteer engagement manager Diane Moore and marketing manager James Powell at the Suffolk Action Week launch. Image &copy; Community Action Suffolk" %}
+
+<p>The first <a href="https://www.communityactionsuffolk.org.uk/volunteering/suffolk-action-week/">Suffolk Action Week</a> will take place from Monday 30 September - Sunday 6 October. Libraries across the county are getting involved by hosting events where potential volunteers can find out about opportunities in their local area. Visitors to the fairs can meet with charity leaders, learn about specific roles, and discover the benefits of volunteering for their mental health and wellbeing.</p>
+
+<p>The campaign is led by <a href="https://www.communityactionsuffolk.org.uk/">Community Action Suffolk</a>, Suffolk Libraries, <a href="https://www.eastofengland.coop/">East of England Co-op</a> and charities including <a href="https://www.familyfirst-uk.org/">Family First</a>, <a href="http://www.westsuffolksight.org.uk/">West Suffolk Sight</a>, <a href="https://www.emmaus.org.uk/suffolk">Emmaus</a>, <a href="https://volunteeringmatters.org.uk/">Volunteering Matters</a>, <a href="http://lighthousewa.org.uk/">Lighthouse Women's Aid</a>, <a href="https://suffolkfamilycarers.org/">Suffolk Family Carers</a>, <a href="https://www.ageuk.org.uk/suffolk/">Age UK Suffolk</a> and <a href="https://www.suffolkcf.org.uk/">Suffolk Community Foundation</a>. It aims to showcase the wide variety of roles and opportunities available to people who are considering volunteering, and encourage business owners to learn more about Employer Supported Volunteering, which helps employees give their time to the organisations they care about more easily.</p>
+
+<p>Diane Moore, Suffolk Libraries volunteer engagement manager, said: "Suffolk Libraries is delighted to be supporting Suffolk Action Week. The campaign will hopefully highlight the valuable contribution volunteers make in the county as well as the many opportunities available and the benefits of volunteering.</p>
+
+<p>"Our library service is lucky to have a large group of dedicated volunteers who help to increase our impact and libraries are ideal places to host volunteer fairs as they are accessible, welcoming places at the heart of their local community."</p>
+
+<p>Community Action Suffolk estimates that 280,665 people in Suffolk have volunteered in some way during the past year. The campaign's organisers hope that Suffolk Action Week will help the county become a shining example to the rest of the UK of a community committed to giving its time to causes.</p>
+
+<p>Janet Perry, Community Action Suffolk volunteer services officer, said: "Volunteering is something which can fit into the lives of the vast majority of people – whether you’re 12 or 80 years old. As a county, we have such a diverse range of organisations in the voluntary sector, that it provides scope for people to take a role which is a perfect fit with their lifestyle, their hobbies, or their passions.
+
+<p>"Our message is very clear for this exciting new campaign week in Suffolk: ‘Get inspired, get involved, get volunteering."
+
+<p>A full list of library volunteer fairs follows.</p>
+
+{% assign saw-events = site.events | where: "event-category", "saw" | sort: "event-start-date" %}
+
+{% for event in saw-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> - {{ event.event-end-date | date: "%a %-d %b" }} <span>{{ event.event-start-time }} - {{ event.event-end-time }}</span>
+
+        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+        </p>
+
+    </article>
+
+{% endfor %}

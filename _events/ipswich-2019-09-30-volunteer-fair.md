@@ -5,6 +5,7 @@ location-text: Ipswich County Library
 event-start-date: 2019-09-30
 event-start-time: 1030
 event-end-time: 1400
+event-category: saw
 breadcrumb: y
 ---
 

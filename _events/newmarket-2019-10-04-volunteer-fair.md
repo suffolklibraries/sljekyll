@@ -5,6 +5,7 @@ location-text: Newmarket Library
 event-start-date: 2019-10-04
 event-start-time: 1030
 event-end-time: 1400
+event-category: saw
 breadcrumb: y
 ---
 

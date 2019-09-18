@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Top Time: events and activities for older people"
-recurrent-day: Wednesdays from 25 September
+recurrent-day: Wednesday
 recurrent-times: 1030-1200
 recurrent-location: stowmarket-library
 recurrent-location-display-name: Stowmarket Library

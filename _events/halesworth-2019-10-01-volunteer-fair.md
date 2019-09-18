@@ -5,6 +5,7 @@ location-text: Halesworth Library
 event-start-date: 2019-10-01
 event-start-time: 1030
 event-end-time: 1400
+event-category: saw
 breadcrumb: y
 ---
 
