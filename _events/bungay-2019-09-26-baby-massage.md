@@ -1,5 +1,5 @@
 ---
-name: "Infant massage taster sessions with Lucy from Bodies, Bumps and Babies"
+name: "Infant massage taster sessions with Lucy from Bodies, Bumps and Babies - CANCELLED"
 location: bungay-community-library
 location-text: Bungay Community Library
 event-start-date: 2019-09-26
@@ -7,6 +7,8 @@ event-start-time: 1000
 event-end-time: 1130
 breadcrumb: y
 ---
+
+**This event has been cancelled**
 
 16-22 September is Infant Massage Awareness Week. Why not bring your baby along to the library and experience the benefits for yourself with Lucy from Bodies, Bumps and Babies? You can also find out what your local library has to offer and pick up a free book bag for your baby!
 

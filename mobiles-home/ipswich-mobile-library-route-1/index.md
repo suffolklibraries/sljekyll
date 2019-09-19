@@ -6,7 +6,7 @@ breadcrumb: mobiles-home
 
 <div class="{% include /c/generic-panel.html %}">
 
-    <p>The Ipswich Mobile Library is currently off the road for repairs.</a></p>
+    <p>The Ipswich Mobile Library is currently off the road for repairs.</p>
 
 </div>
 
