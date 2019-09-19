@@ -5,6 +5,8 @@ location-text: Gainsborough Community Library
 event-start-date: 2019-09-28
 event-start-time: 1400
 event-end-time: 1600
+event-category: sld
+sld-region: ipswich
 event-ticket-price: free
 breadcrumb: y
 ---
