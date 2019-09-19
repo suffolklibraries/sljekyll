@@ -29,8 +29,5 @@ branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, older people's activities."
-branch-news: '<ul>
-              <li>The library is closed today (Wednesday 18 September).</li>
-              <li>The library will be closed on Thursday 10 October due to major electrical works</li>
-              </ul>'
+branch-news: 'The library will be closed on Thursday 10 October due to major electrical works.'
 ---

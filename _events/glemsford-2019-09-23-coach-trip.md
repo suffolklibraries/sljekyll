@@ -1,5 +1,5 @@
 ---
-name: "Coach trip to Huntingfield Church & Dunwich Museum"
+name: "Coach trip to Huntingfield Church & Dunwich Museum - CANCELLED"
 location: glemsford-library
 location-text: Glemsford Library
 event-start-date: 2019-09-23
@@ -8,6 +8,8 @@ event-end-time: 1700
 event-ticket-price: 25
 breadcrumb: y
 ---
+
+**This event has been cancelled**
 
 Join us for on a day out to Huntingfield Church and Dunwich Museum, with lunch at Flora tearooms.
 
