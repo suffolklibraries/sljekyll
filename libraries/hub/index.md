@@ -6,9 +6,6 @@ featured-hero-image: "hub/wolsey-door-2.jpg"
 featured-hero-alt: "A sign on a door saying 'Wolsey Room'."
 featured-hero-caption: "The Wolsey Room in the Ipswich Hub."
 header-bg: custom-bg-corporate-green
-modal: true
-jquery: true
-jquery-ui: true
 ---
 
 <div class="ph2 ph3-ns pv3 bg-near-white">
@@ -38,19 +35,19 @@ jquery-ui: true
 
   <div class="w-50-ns">
 
-    <a href="/images/hub/new-wolsey-1.jpg" class="db"><img class="db" src="/images/hub/new-wolsey-2.jpg" alt="3 rows of tables with 5 chairs behind each facing a presentation screen.">
+    <a href="/images/hub/new-wolsey-2.jpg" class="db"><img class="db" src="/images/hub/new-wolsey-2.jpg" alt="3 rows of tables with 5 chairs behind each facing a presentation screen."></a>
 
   </div>
 
   <div class="w-50-ns">
 
-    <a href="/images/hub/new-wolsey-1.jpg" class="db"><img class="db" src="/images/hub/new-wolsey-3.jpg" alt="4 rows of 6 chairs facing a presentation screen and a U arrangement of tables behind them.">
+    <a href="/images/hub/new-wolsey-3.jpg" class="db"><img class="db" src="/images/hub/new-wolsey-3.jpg" alt="4 rows of 6 chairs facing a presentation screen and a U arrangement of tables behind them."></a>
 
   </div>
 
   <div class="w-50-ns">
 
-    <a href="/images/hub/new-wolsey-1.jpg" class="db"><img class="db" src="/images/hub/new-wolsey-4.jpg" alt="8 rows of 7 chairs facing a presentation screen.">
+    <a href="/images/hub/new-wolsey-4.jpg" class="db"><img class="db" src="/images/hub/new-wolsey-4.jpg" alt="8 rows of 7 chairs facing a presentation screen."></a>
 
   </div>
 
