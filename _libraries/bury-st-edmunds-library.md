@@ -39,6 +39,5 @@ branch-other-facilities: '<ul>
                           <li>Board Games available to borrow - see the <a href="/assets/pdf/bury-board-games.pdf">Bury board games information sheet</a> (PDF) for further information</li>
                           </ul>'
 branch-pride-and-periods: y
-branch-refreshments: 'available from <a href="https://thecoffeehouse.co/our-shops/">The Coffee House</a>, situated in the library.'
 meta-description: "Free computer access, wifi, printing, scanning, room hire, children's activities, older people's activities, health & wellbeing groups, board games, free sanitary products."
 ---

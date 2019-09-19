@@ -1,7 +1,7 @@
 ---
 branch-unique-id: long-melford-library
 branch-name: Long Melford Library
-branch-image: /images/branches/long-melford-library-2.jpg
+branch-image: /images/branches/long-melford-library-3.jpg
 branch-monday-hours: Closed
 branch-tuesday-hours:	1000 - 1300, 1400 - 1700
 branch-wednesday-hours: 1000 - 1300, 1400 - 1700
