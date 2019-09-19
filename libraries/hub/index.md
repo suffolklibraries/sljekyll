@@ -29,25 +29,25 @@ header-bg: custom-bg-corporate-green
 
   <div class="w-50-ns">
 
-    <img class="db" src="/images/hub/new-wolsey-1.jpg">
+    <img class="db" src="/images/hub/new-wolsey-1.jpg" alt="15 chairs around a table.">
 
   </div>
 
   <div class="w-50-ns">
 
-    <img class="db" src="/images/hub/new-wolsey-2.jpg">
+    <img class="db" src="/images/hub/new-wolsey-2.jpg" alt="3 rows of tables with 5 chairs behind each facing a presentation screen.">
 
   </div>
 
   <div class="w-50-ns">
 
-    <img class="db" src="/images/hub/new-wolsey-3.jpg">
+    <img class="db" src="/images/hub/new-wolsey-3.jpg" alt="4 rows of 6 chairs facing a presentation screen and a U arrangement of tables behind them.">
 
   </div>
 
   <div class="w-50-ns">
 
-    <img class="db" src="/images/hub/new-wolsey-4.jpg">
+    <img class="db" src="/images/hub/new-wolsey-4.jpg" alt="8 rows of 7 chairs facing a presentation screen.">
 
   </div>
 
