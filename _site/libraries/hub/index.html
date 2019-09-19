@@ -32,10 +32,6 @@
 
 	
 
-	
-	<link rel="stylesheet" href="/css/jquery.modal.min.css">
-	
-
 </head>
 
 
@@ -180,29 +176,29 @@
 
   <div class="w-50-ns">
 
-    <a href="/images/hub/new-wolsey-1.jpg" rel="modal:open"><img class="db" src="/images/hub/new-wolsey-1.jpg" alt="15 chairs around a table." /></a>
+    <a href="/images/hub/new-wolsey-1.jpg" class="db"><img class="db" src="/images/hub/new-wolsey-1.jpg" alt="15 chairs around a table." /></a>
 
   </div>
 
   <div class="w-50-ns">
 
-    <img class="db" src="/images/hub/new-wolsey-2.jpg" alt="3 rows of tables with 5 chairs behind each facing a presentation screen." />
+    <a href="/images/hub/new-wolsey-1.jpg" class="db"><img class="db" src="/images/hub/new-wolsey-2.jpg" alt="3 rows of tables with 5 chairs behind each facing a presentation screen." />
 
-  </div>
-
-  <div class="w-50-ns">
-
-    <img class="db" src="/images/hub/new-wolsey-3.jpg" alt="4 rows of 6 chairs facing a presentation screen and a U arrangement of tables behind them." />
-
-  </div>
+  &lt;/div&gt;
 
   <div class="w-50-ns">
 
-    <img class="db" src="/images/hub/new-wolsey-4.jpg" alt="8 rows of 7 chairs facing a presentation screen." />
+    <a href="/images/hub/new-wolsey-1.jpg" class="db"><img class="db" src="/images/hub/new-wolsey-3.jpg" alt="4 rows of 6 chairs facing a presentation screen and a U arrangement of tables behind them." />
 
-  </div>
+  &lt;/div&gt;
 
-</div>
+  <div class="w-50-ns">
+
+    <a href="/images/hub/new-wolsey-1.jpg" class="db"><img class="db" src="/images/hub/new-wolsey-4.jpg" alt="8 rows of 7 chairs facing a presentation screen." />
+
+  &lt;/div&gt;
+
+&lt;/div&gt;
 
 <div class="flex-l items-center-l dark-gray bg-near-white pv3 pv0-l">
 
@@ -224,6 +220,7 @@
 
 </div>
 
+
 <div class="flex-l flex-row-reverse-l items-center-l white custom-bg-corporate-green pv3 pv0-l">
 
   <div class="w-50-l">
@@ -244,6 +241,7 @@
 
 </div>
 
+
 <div class="pv3 bg-near-white">
 
   <p class="ph2 ph3-ns f3">Email <strong>hub@suffolklibraries.co.uk</strong> or call <strong>01473 351249</strong> for bookings and queries. <br /><a href="https://www.linkedin.com/company/suffolk-libraries/" class="custom-corporate-green underline">We’re on LinkedIn</a></p>
@@ -255,6 +253,7 @@
   </div>
 
 </div>
+</a></div></a></div></a></div></div>
 
 
     
@@ -398,6 +397,7 @@
         </footer>
 
         <script src="/js/jquery-2.2.4.min.js"></script>
+<script src="/js/jquery-ui.min.js"></script>
 
 
 
@@ -414,8 +414,24 @@
 
 
 
-
-  <script src="/js/jquery.modal.min.js" async></script>
+<script>
+$( function() {
+$( ".dialog" ).dialog({
+  autoOpen: false,
+show: {
+  effect: "blind",
+  duration: 1000
+},
+hide: {
+  effect: "explode",
+  duration: 1000
+}
+});
+$( ".opener" ).on( "click", function() {
+  $( ".dialog" ).dialog( "open" );
+});
+} );
+</script>
 
 
 
