@@ -40,9 +40,6 @@ branch-faxing: y
 branch-for-sale: Poetry book collated by Newmarket Library Friend Christine - £5 each with all proceeds to Friends of Newmarket Library and St Nicholas Hospice.
 breadcrumb: y
 branch-pride-and-periods: y
-branch-news: '<ul>
-              <li>We&apos;re looking for Code Club volunteers. Contact the library for more information and to get involved.</li>
-              <li>We are part of the <a href="https://www.aht.org.uk/saddleup">Saddle Up Art Trail</a> from 8 July - 22 September.</li>
-              </ul>'
+branch-news: 'We&apos;re looking for Code Club volunteers. Contact the library for more information and to get involved.'
 meta-description: "Free computer access, wifi, printing, children's activities, older people's activities, health & wellbeing groups, sports equipment, free sanitary products."
 ---
