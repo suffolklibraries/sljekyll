@@ -35,3 +35,5 @@ The rate of pay commences at &pound;8.42 per hour.
 If you are interested, please send a CV and supporting statement outlining what you could bring to this position and Suffolk Libraries to: **recruitment@suffolklibraries.co.uk**
 
 As users of the disability conﬁdent scheme, we guarantee to interview all disabled applicants who meet the minimum criteria for the vacancy.
+
+If you are invited to an interview, you will need to bring along some [documents to verify your identity](/about/jobs/verification-of-identity/).
