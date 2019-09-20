@@ -112,7 +112,7 @@ layout: blank
 
             <h2 class="f4 f3-ns custom-lh-title mb2 white">Calling all artists</h2>
 
-            <p class="measure">We're holding our next <strong>mixed-media artist residency at Lowestoft Library</strong> from 21-25 October. <br><a href="/bloc/artists/" class="lightest-blue underline hover-white">Apply to take part &rarr;</a></p>
+            <p class="measure">We're holding our next <strong>mixed-media artist residency at Lowestoft Library</strong> from 21-25 October. <br><a href="/bloc/artists/lowestoft-lab/" class="lightest-blue underline hover-white">Find out about the Lowestoft Lab residency &rarr;</a></p>
 
         </div>
 
