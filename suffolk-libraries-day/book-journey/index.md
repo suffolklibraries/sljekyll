@@ -105,7 +105,7 @@ pad-content: true
             Care UK, Britten Court - Minibus
           </td>
         </tr>
-        <tr class="">
+        <tr class="bg-light-gray">
           <td class="pa2 ba b--moon-gray">
             Kessingland - Halesworth
           </td>
@@ -173,7 +173,7 @@ pad-content: true
             Scarlett & Mustard - Van
           </td>
         </tr>
-        <tr class="">
+        <tr class="bg-light-gray">
           <td class="pa2 ba b--moon-gray">
             Saxmundham - Leiston
           </td>
@@ -700,7 +700,7 @@ pad-content: true
             Friends of Lakenheath Library (F.O.L.K.) - Tractor
           </td>
         </tr>
-        <tr class="">
+        <tr class="bg-light-gray">
           <td class="pa2 ba b--moon-gray">
             Mildenhall - Newmarket
           </td>
