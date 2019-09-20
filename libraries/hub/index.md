@@ -6,6 +6,8 @@ featured-hero-image: "hub/wolsey-door-2.jpg"
 featured-hero-alt: "A sign on a door saying 'Wolsey Room'."
 featured-hero-caption: "The Wolsey Room in the Ipswich Hub."
 header-bg: custom-bg-corporate-green
+jquery: true
+lightbox: true
 ---
 
 <div class="ph2 ph3-ns pv3 bg-near-white">
