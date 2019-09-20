@@ -17,6 +17,7 @@ hnav: "sld"
 header-bg: custom-bg-corporate-green
 jquery-ui: true
 tabs: true
+breadcrumb: home
 ---
 
 <section class="ph2 ph3-ns pv3 bg-white">
