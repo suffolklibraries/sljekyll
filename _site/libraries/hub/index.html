@@ -414,7 +414,7 @@
 <style>
 .lightbox {width: 100%; height: 100%; position: fixed; top: 0; left: 0; background: rgba(0,0,0,0.85); z-index: 9999999; line-height: 0; cursor: pointer;}
 .lightbox .img {
-	position: relative; 
+	position: relative;
 	top: 50%;
 	left: 50%;
 	-ms-transform: translateX(-50%) translateY(-50%);
@@ -435,19 +435,19 @@
 	}
 }
 .lightbox span {
-		display: block; 
-		position: fixed; 
-		bottom: 13px; 
-		height: 1.5em; 
-		line-height: 1.4em; 
-		width: 100%; 
-		text-align: center; 
+		display: block;
+		position: fixed;
+		bottom: 13px;
+		height: 1.5em;
+		line-height: 1.4em;
+		width: 100%;
+		text-align: center;
 		color: white;
 		text-shadow:
     -1px -1px 0 #000,
     1px -1px 0 #000,
     -1px 1px 0 #000,
-    1px 1px 0 #000;  
+    1px 1px 0 #000;
 }
 
 
@@ -456,7 +456,7 @@
 
 
 .lightbox .videoWrapperContainer {
-	position: relative; 
+	position: relative;
 	top: 50%;
 	left: 50%;
 	-ms-transform: translateX(-50%) translateY(-50%);
@@ -473,7 +473,7 @@
 	position: relative;
 	padding-bottom: 56.333%; /* custom */
 	background: black;
-} 
+}
 .lightbox .videoWrapper iframe {
 	position: absolute;
 	top: 0;
@@ -482,7 +482,7 @@
 	height: 100%;
 	border: 0;
 	display: block;
-}   
+}
 .lightbox #prev, .lightbox #next {height: 50px; line-height: 36px; display: none; margin-top: -25px; position: fixed; top: 50%; padding: 0 15px; cursor: pointer; text-decoration: none; z-index: 99; color: white; font-size: 60px;}
 .lightbox.gallery #prev, .lightbox.gallery #next {display: block;}
 .lightbox #prev {left: 0;}
@@ -513,13 +513,13 @@ transform-origin: 50% 50%;
 -o-transform: rotate(45deg);
 }
 .lightbox, .lightbox * {
-    -webkit-user-select: none;  
-    -moz-user-select: none;    
-    -ms-user-select: none;      
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
     user-select: none;
 }
 </style>
-		
+
 <script>
 function is_youtubelink(url) {
   var p = /^(?:https?:\/\/)?(?:www\.)?(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=))((\w|-){11})(?:\S+)?$/;
@@ -563,7 +563,7 @@ $(document).ready(function() {
 	//remove the clicked lightbox
 	$("body").on("click", ".lightbox", function(event){
 		if($(this).hasClass('gallery')) {
-			
+
 			$(this).remove();
 
 			if($(event.target).attr('id')=='next') {
@@ -592,7 +592,7 @@ $(document).ready(function() {
 	//add the image lightbox on click
 	$("a.lightbox-image").click(function(event){
 		event.preventDefault();
-		$('<div class="lightbox"><a id="close"></a><a id="next">&rsaquo;</a><a id="prev">&lsaquo;</a><div class="img" style="background: url(\''+$(this).attr('href')+'\') center center / contain no-repeat;" title="'+$(this).attr('title')+'" ><img src="'+$(this).attr('href')+'" alt="'+$(this).attr('title')+'" /></div><span>'+$(this).attr('title')+'</span></div>').appendTo('body');
+		$('<div class="lightbox"><a id="close"></a><a id="next">&rsaquo;</a><a id="prev">&lsaquo;</a><div class="img" style="background: url(\''+$(this).attr('href')+'\') center center / contain no-repeat;" title="'+$(this).attr('title')+'" ><img src="'+$(this).attr('href')+'" alt="'+$(this).attr('title')+'" /></div></div>').appendTo('body');
 	});
 	//add the vimeo lightbox on click
 	$("body").on("click", "a.lightbox-vimeo", function(event){
@@ -614,7 +614,7 @@ $(document).ready(function() {
 		}
 	});
 
-	
+
 });
 
 $(document).keydown(function(e) {
@@ -639,7 +639,7 @@ $(document).keydown(function(e) {
   Swipe-it v1.4.1
   An event listener for swiping gestures with vanilla js.
   https://github.com/tri613/swipe-it#readme
- 
+
   @Create 2016/09/22
   @Update 2017/08/11
   @Author Trina Lu
