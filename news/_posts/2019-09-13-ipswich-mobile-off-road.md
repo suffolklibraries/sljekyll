@@ -11,3 +11,7 @@ breadcrumb: news
 The Ipswich Mobile is having severe mechanical difficulties and will be off road until further notice from today, Friday 13 September.
 
 We apologise for any inconvenience and are working to fix the problem as soon as possible.
+
+Update 23 Sep 2019:
+
+Please note the Ipswich Mobile Library is now running again. We apologise for any inconvenience.
