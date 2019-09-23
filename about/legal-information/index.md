@@ -1,5 +1,5 @@
 ---
-title: What we are
+title: Legal information
 layout: sidebar-left
 sidebar: about
 breadcrumb: about

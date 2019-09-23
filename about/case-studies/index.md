@@ -7,6 +7,7 @@ featured-hero-description: "We reach thousands of Suffolk’s residents through 
 featured-hero-image: "about/at-computer.jpg"
 featured-hero-alt: "A woman sits at a computer in a library talking to friends."
 featured-hero-caption: "Using the PCs at Ipswich County Library"
+breadcrumb: about
 ---
 
 {%

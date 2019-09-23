@@ -7,6 +7,7 @@ featured-hero-description: "We improve the lives of thousands of Suffolk people 
 featured-hero-image: "about/coder-dojo.jpg"
 featured-hero-alt: "A young man helping children use laptops."
 featured-hero-caption: "CoderDojo at Ipswich Library"
+breadcrumb: home
 ---
 
 {%
