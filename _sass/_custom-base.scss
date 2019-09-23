@@ -1,13 +1,17 @@
 @media screen, projection {
 
-body {
+html {
     font-size: 106.75%;
     scroll-behavior: smooth;
 
     @media (min-width: 40em) {
-		font-size: 131.25%;
+		font-size: 118.75%;
 	}
 
+  @media (min-width: 40em) {
+    font-size: 131.25%;
+  }
+  
 }
 
 main {
