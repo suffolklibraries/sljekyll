@@ -4,7 +4,7 @@ location: capel-st-mary-library
 location-text: Capel St Mary Library
 event-start-date: 2019-10-12
 event-start-time: 1000
-event-end-time: 1200
+event-end-time: 1400
 event-category: sld
 sld-region: south
 breadcrumb: y
