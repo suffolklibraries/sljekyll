@@ -12,4 +12,6 @@ breadcrumb: y
 
 Come along and celebrate Halloween by making your own spooky spoon!
 
-All materials provided, no need to book.
+All materials provided.
+
+Please book in advance at the library.
