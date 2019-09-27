@@ -11,7 +11,7 @@ We are an [Industrial and Provident Society](http://www.fsa.gov.uk/doing/small_f
 
 All libraries in Suffolk are run by Suffolk Libraries. We're contracted by [Suffolk County Council](http://www.suffolk.gov.uk/) to run the service.
 
-Our membership is drawn from [member organisations](/about/member-organisations/), community groups made up of people who want to support their library and have a say in how they are run. Each library in Suffolk works with local people to develop these member organisations.
+Our membership is drawn from [member organisations](/about/legal-information/member-organisations/), community groups made up of people who want to support their library and have a say in how they are run. Each library in Suffolk works with local people to develop these member organisations.
 
 We run a supporters' scheme, [Suffolk Libraries Extra](/extra/). Individuals and local businesses can make an annual donation if they would like to get more involved and enhance the service we provide. All members of Suffolk Libraries Extra get a membership card and special newsletter, while those who sign up at Platinum level can attend our AGM and are acknowledged in our annual review.
 

@@ -8,7 +8,6 @@ excerpt: "Suffolk Libraries has officially launched a day of celebration to gene
 breadcrumb: news
 featured-image: /images/featured/featured-bruce-and-pamela.jpg
 featured-alt: "Suffolk Libraries CEO Bruce Leeke and The Huntingfield Paintress author Pamela Holmes launch Suffolk Libraries Day at Felixstowe Library"
-category: sld-news
 ---
 
 {% include /c/figure.html src="/images/featured/featured-bruce-and-pamela.jpg" alt="Suffolk Libraries CEO Bruce Leeke and The Huntingfield Paintress author Pamela Holmes launch Suffolk Libraries Day at Felixstowe Library" caption="Suffolk Libraries CEO Bruce Leeke and <cite>The Huntingfield Paintress</cite> author Pamela Holmes launch Suffolk Libraries Day at Felixstowe Library" %}
