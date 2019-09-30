@@ -119,7 +119,7 @@ pad-content: true
             2pm - 4pm (2 hours)
           </td>
           <td class="pa2 ba b--moon-gray">
-            Suffolk Libraries staff - TBC
+            Suffolk Libraries staff
           </td>
         </tr>
         <tr>
@@ -187,7 +187,7 @@ pad-content: true
             11:30am - 12pm (0.5 hours)
           </td>
           <td class="pa2 ba b--moon-gray">
-            Suffolk Libraries staff - TBC
+            Suffolk Libraries staff
           </td>
         </tr>
         <tr>
@@ -289,7 +289,7 @@ pad-content: true
             10:30am - 11:30am (1 hour)
           </td>
           <td class="pa2 ba b--moon-gray">
-            St Joseph's College - Penny farthing
+            Penny farthing
           </td>
         </tr>
         <tr>
@@ -544,7 +544,7 @@ pad-content: true
             3pm - 4pm (1 hour)
           </td>
           <td class="pa2 ba b--moon-gray">
-            MHA Larking Gowen - TBC
+            MHA Larking Gowen - Running in fancy dress
           </td>
         </tr>
         <tr>
