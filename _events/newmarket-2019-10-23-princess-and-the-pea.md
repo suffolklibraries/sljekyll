@@ -1,5 +1,5 @@
 ---
-name: "Theatre of Widdenshins presents: <cite>The Princess and the Pea</cite>: for ages 3+"
+name: "Theatre of Widdershins presents: <cite>The Princess and the Pea</cite>: for ages 3+"
 location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2019-10-23

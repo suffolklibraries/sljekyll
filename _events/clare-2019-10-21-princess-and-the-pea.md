@@ -1,5 +1,5 @@
 ---
-name: "Theatre of Widdenshins presents: <cite>The Princess and the Pea</cite>"
+name: "Theatre of Widdershins presents: <cite>The Princess and the Pea</cite>"
 location: clare-library
 location-text: Clare Library
 event-start-date: 2019-10-21
