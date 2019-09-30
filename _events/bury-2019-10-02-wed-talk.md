@@ -1,5 +1,5 @@
 ---
-name: "Wednesday talk: ‘Caring for Others’ by Laura Watson"
+name: "Wednesday Talk: ‘Caring for Others’ by Laura Watson"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
 event-start-date: 2019-10-02

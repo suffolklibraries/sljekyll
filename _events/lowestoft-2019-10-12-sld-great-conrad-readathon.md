@@ -9,4 +9,4 @@ sld-region: north
 breadcrumb: y
 ---
 
-The Great Conrad Readathon" features actor Reece Ritchie (<cite>Lovely Bones/Hercules</cite>), actor/writer John Hale and Andy Wisher &amp; Agnes Lillis (<cite>With Love From Suffolk</cite>).
+Help us celebrate and raise funds for [Suffolk Libraries Day](/suffolk-libraries-day/) with the Great Conrad Readathon. Special guests include actor Reece Ritchie (<cite>The Lovely Bones/Hercules</cite>), actor/writer John Hale and Andy Wisher and Agnes Lillis (<cite>With Love From Suffolk</cite>).

@@ -1,5 +1,5 @@
 ---
-name: "Wednesday talk: ‘The Irving Stage Company’ by Christian Jenner"
+name: "Wednesday Talk: ‘The Irving Stage Company’ by Christian Jenner"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
 event-start-date: 2019-10-16

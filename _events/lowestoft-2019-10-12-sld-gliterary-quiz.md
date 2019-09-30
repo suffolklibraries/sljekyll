@@ -9,4 +9,4 @@ sld-region: north
 breadcrumb: y
 ---
 
-The Big Fat Gliterary Quiz — a literary quiz with added sparkle. Can your team beat the Librarians?
+Help us celebrate and raise funds for [Suffolk Libraries Day](/suffolk-libraries-day/) with the Big Fat Gliterary Quiz — a literary quiz with added sparkle. Can your team beat the Librarians?

@@ -9,4 +9,4 @@ sld-region: north
 breadcrumb: y
 ---
 
-Local author marketplace, book sale and a literary trail.
+Help us celebrate and raise funds for [Suffolk Libraries Day](/suffolk-libraries-day/) with our local author marketplace, book sale and a literary trail.

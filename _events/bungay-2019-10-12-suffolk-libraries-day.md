@@ -10,4 +10,8 @@ sld-region: north
 breadcrumb: y
 ---
 
-Celebrate and support your library on [Suffolk Libraries Day](/suffolk-libraries-day/) with a sponsored read, activities including 'guess the weight of the cake', and refreshments.
+Celebrate and support your library on [Suffolk Libraries Day](/suffolk-libraries-day/)! As well as activities including 'guess the weight of the cake', and refreshments, there will be:
+
+* A sponsored read from 9:30am-12pm
+* A children's hour from 10:30-11:30am - hear some great children's stories or make a bookmark for £1.
+- Saturday Social from 2:30-3:30pm - free cake, cuppa and chat!
