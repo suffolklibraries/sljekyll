@@ -7,9 +7,10 @@ event-start-time: 0930
 event-end-time: 1700
 event-category: sld
 sld-region: ipswich
+event-ticket-price: 1 per rock
 breadcrumb: y
 ---
 
-What’s your favourite thing about libraries? Can you draw it? Can you do an illustration of it on a rock?
+Join us on [Suffolk Libraries Day](/suffolk-libraries-day/) and illustrate your own rock to decorate your home, give to a friend or relative, or leave somewhere to brighten a stranger's day!
 
-&pound;1 a rock, sharpies and rocks provided.
+Sharpies and rocks provided.

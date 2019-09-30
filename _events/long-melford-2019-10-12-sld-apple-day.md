@@ -10,6 +10,4 @@ sld-region: south
 breadcrumb: y
 ---
 
-We will be selling apple based products such as chutneys, juice, cakes and pastries.
-
-Apple based crafts, and some apple bobbing. There’ll also be a working apple press and we’ll have someone on hand demonstrating our Apple iPads.
+Join us on [Suffolk Libraries Day](/suffolk-libraries-day/) for apple-based crafts and games, demonstrations of a working apple press and our Apple iPads, and the chance to pick up some delicious apple-based chutneys, juice, cakes and pastries.

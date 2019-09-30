@@ -10,4 +10,4 @@ sld-region: west
 breadcrumb: y
 ---
 
-Our Knit &amp; Natter Group will be selling knitted goods to help us celebrate Suffolk Libraries Day. There will also be a special prize draw to win a beautiful handmade quilt supplied by one of our customers plus other prizes.
+Our Knit &amp; Natter Group will be selling knitted goods to help us celebrate [Suffolk Libraries Day](/suffolk-libraries-day/). There will also be a special prize draw to win a beautiful handmade quilt supplied by one of our customers plus other prizes.

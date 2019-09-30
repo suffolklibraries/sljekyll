@@ -10,4 +10,4 @@ sld-region: west
 breadcrumb: y
 ---
 
-Join us for a special Suffolk Libraries Day readathon, all day during library opening hours.
+Join us for a special [Suffolk Libraries Day](/suffolk-libraries-day) readathon, all day during library opening hours.

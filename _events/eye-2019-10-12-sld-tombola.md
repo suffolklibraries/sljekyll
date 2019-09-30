@@ -10,4 +10,4 @@ sld-region: north
 breadcrumb: y
 ---
 
-Help us celebrate Suffolk Libraries Day by joining us for tea, cake and other refreshments and try your luck with our tombola.
+Help us celebrate [Suffolk Libraries Day](/suffolk-libraries-day/) by joining us for tea, cake and other refreshments and trying your luck with our tombola.

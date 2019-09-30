@@ -10,3 +10,10 @@ breadcrumb: y
 ---
 
 We're raising funds for [Suffolk Libraries Day](/suffolk-libraries-day/) all week! Pick up some good quality donated books at bargain prices or enter our raffle - tickets are 50p each or 5 for £2.
+
+Raffle prizes include:
+
+* A pair of tickets to the final race meeting of the season at Newmarket Racecourse
+* A goody bag of biscuits and wine from Tesco
+* Pamper bags
+* And more to be confirmed!
