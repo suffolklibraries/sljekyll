@@ -1,9 +1,10 @@
 ---
 recurrent-title: "Craft activities: for primary school age children"
 recurrent-description: '<ul class="f6 ma0">
-                        <li>15 September: Roald Dahl Day: Make Mr Twit&apos;s beard (yuck!)</li>
-                        <li>22 September: Harvest festival</li>
-                        <li>29 September: Autumn leaf craft.</li>
+                        <li>6 October - Silly squirrels</li>
+                        <li>13 October - Adorable acorns</li>
+                        <li>20 October - Apple day</li>
+                        <li>27 October - Halloween crafts</li>
                         </ul>'
 recurrent-day: Sunday
 recurrent-times: 1200-1430

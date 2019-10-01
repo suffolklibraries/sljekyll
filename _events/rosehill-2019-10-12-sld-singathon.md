@@ -1,13 +1,11 @@
 ---
 name: "Suffolk Libraries Day: Ipswich libraries' singathon on the Cornhill"
-location: gainsborough-community-library
-location-text: Gainsborough Community Library
+location: rosehill-library
+location-text: Rosehill Library
 event-alt-location: The Cornhill, Ipswich
 event-start-date: 2019-10-12
 event-start-time: 1000
 event-end-time: 1200
-event-category: sld
-sld-region: ipswich
 breadcrumb: y
 ---
 

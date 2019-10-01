@@ -1,20 +1,19 @@
 ---
 recurrent-title: "Time Out: events and activities for older people"
 recurrent-description: '<ul class="f6 ma0">
-                        <li>3 July: Foot health and wellbeing</li>
-                        <li>10 July: Talk on Vietnam and Cambodia</li>
-                        <li>17 July: Talk on alcoholism</li>
-                        <li>24 July: Meet local author Roger Ley</li>
-                        <li>31 July: Memories - Five Ways to Wellbeing with Wellbeing Norfolk and Waveney</li>
-                        <li>7 August: Talk on experiences au pairing in Germany</li>
-                        <li>14 August: Talk on Carlton Marshes from Suffolk Wildlife Trust</li>
-                        <li>21 August: Learn about the work of Halesworth Town Council</li>
-                        <li>28 August: Mandala crafts with Meraylah</li>
-                        <li>4 September: Talk on will-writing, trusts, tax planning, Powers of Attorney and more with Silver Lining Estate Planning</li>
-                        <li>11 September: a celebration of flowers with Irene</li>
-                        <li>18 September: TBC</li>
-                        <li>25 September: Share your current and favourite reads</li>
                         <li>2 October: Owl crafts with Diane</li>
+                        <li>9 October: Discussion: What do you collect? Who are your favourite artists?</li>
+                        <li>16 October: Discussion: What soaps do you follow?</li>
+                        <li>23 October: Crafts: Book boxes with Meraylah to celebrate Time Out&apos;s 12th anniversary - bring a 6x4 photo</li>
+                        <li>30 October: Quiz and chat about words</li>
+                        <li>6 November: Share your family&apos;s wartime stories</li>
+                        <li>13 November: Mystery session with Irene</li>
+                        <li>20 November: Find out about Meraylah&apos;s new book and Tarot deck!</li>
+                        <li>27 November: Meet the author: Martin Wanger (pen name Madeline Dando)</li>
+                        <li>4 December - Make your own Christmas cards using the technique of quilling</li>
+                        <li>11 December - Try handbell ringing</li>
+                        <li>18 December - Christmas party - bring poetry, stories, jokes and carols</li>
+                        <li>8 January 2020 - Discussion: What cheers you up? What positive news have you heard that gives you a warm glow?</li>
                         </ul>'
 recurrent-day: Wednesday
 recurrent-times: 1030-1200
