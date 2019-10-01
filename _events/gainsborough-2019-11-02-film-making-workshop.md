@@ -1,7 +1,7 @@
 ---
 name: "Autumn film-making workshop: for 10-18 year-olds - five consecutive Saturdays"
-location: chantry-library
-location-text: Chantry Library
+location: gainsborough-community-library
+location-text: Gainsborough Community Library
 event-start-date: 2019-11-02
 event-end-date: 2019-11-30
 event-start-time: 1030

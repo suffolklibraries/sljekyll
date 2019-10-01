@@ -4,7 +4,7 @@ title: Library and information advisor, Stowmarket Library
 category: jobs
 sidebar: about
 breadcrumb: jobs
-excerpt: "10 hours per week, &pound;8.42 per hour, closing date Tue 9 Oct."
+excerpt: "10 hours every other week, &pound;8.42 per hour, closing date Tue 9 Oct."
 expiry-date: 2019-10-09
 ---
 
@@ -21,7 +21,7 @@ We're looking for a library and information advisor at Stowmarket Library. We're
 
 If you have experience in a customer facing role, enjoy helping people, have a willingness to work within a team in a busy environment and an interest in books and computers, we would like to hear from you.
 
-This role is for an average of 10 hours per week: 4 hours on Saturdays and 6 hours on Sundays.
+This role is for 10 hours every other weekend: 4 hours on Saturdays and 6 hours on Sundays.
 
 The rate of pay is &pound;8.42 per hour.
 
