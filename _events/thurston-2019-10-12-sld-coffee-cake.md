@@ -1,7 +1,7 @@
 ---
 name: "Suffolk Libraries Day: Coffee and cake sale and raffle"
-location: ixworth-library
-location-text: Ixworth Library
+location: thurston-library
+location-text: Thurston Library
 event-start-date: 2019-10-12
 event-start-time: 1100
 event-end-time: 1300
