@@ -1,5 +1,5 @@
 {% if page.author %}
-<p class="{% include /c/page-meta.html %}">
+<p class="f6 mid-gray">
   Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[page.author] %}{{ author.name }}</span></span> &middot; Published {{ page.date | date: "%b %-d, %Y" }}{% if page.genre %} &middot; Filed under <a class="blue" href="/new-suggestions/reviews/genre/{{ page.genre }}">{{ page.genre | replace: "-", " " | capitalize  }}</a>{% endif %}
 </p>
 {% endif %}
