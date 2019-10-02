@@ -23,7 +23,7 @@ Contact our marketing and communications manager for a full report: **james.powe
 
 ## Board meeting minutes
 
-[Copies of our board meetings' minutes](/about/documents/board-meeting-minutes)
+[Copies of our board meetings' minutes](/about/legal-information/documents/board-meeting-minutes)
 
 ## AGM minutes
 

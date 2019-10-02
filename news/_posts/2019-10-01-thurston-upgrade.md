@@ -20,6 +20,6 @@ Richard Fawcett, chair of The Friends of Thurston Library, said: "The Suffolk Li
 
 During this period, the library will not be running their regular activities or groups.
 
-We apologise for any inconvenience caused by the closure. While the library is closed, you can use any other Suffolk library, the nearest being [Ixworth](/libraries/ixworth-library/) and [Elmswell](/libraries/elmwell-library/) and [Bury St Edmunds](/libraries/bury-st-edmunds-library/).
+We apologise for any inconvenience caused by the closure. While the library is closed, you can use any other Suffolk library, the nearest being [Ixworth](/libraries/ixworth-library/) and [Elmswell](/libraries/elmswell-library/) and [Bury St Edmunds](/libraries/bury-st-edmunds-library/).
 
 You can reserve and renew books through [our catalogue](https://suffolk.spydus.co.uk/). Any library loans from Thurston due back during the closure will have their return date automatically extended until after the library reopens.

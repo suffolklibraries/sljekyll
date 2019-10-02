@@ -17,7 +17,7 @@ The Suffolk exhibition will start at Ipswich County Library and then move on to 
 * Ipswich County Library: 26 April - 17 May
 * Bury St Edmunds Library: 31 May - 21 June
 * Lowestoft Library: 5 July - 26 July
-* [Felixstowe Library: 9 August - 27 August](/events/felixstowe-2019-08-09-writing-making-your-mark/)
+* Felixstowe Library: 9 August - 27 August
 
 The exhibition is organised through the [Living Knowledge Network](https://www.bl.uk/projects/living-knowledge), an innovative partnership of public libraries working in collaboration with the British Library, the National Library of Scotland and the National Library of Wales. Suffolk Libraries is part of this network which shares resources, skills and ideas, promotes the enduring values of libraries, and aims to benefit the millions of people who use public libraries in the UK every day.
 

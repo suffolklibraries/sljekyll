@@ -14,4 +14,4 @@ Join us for a talk from author Kate Thompson on [Suffolk Libraries Day](/suffolk
 
 Kate is a Suffolk Libraries favourite. Her WWII-set books include [<cite>The Allotment Girls</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2336087), [<cite>Secrets of the Sewing Bee</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1923434) and [<cite>Secrets of the Homefront Girls</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2586747).
 
-Contact [Felixstowe Library](/libraries/felixstowe-library/) or [Kesgrave Library](/kesgrave-library/) for tickets.
+Contact [Felixstowe Library](/libraries/felixstowe-library/) or [Kesgrave Library](/libraries/kesgrave-library/) for tickets.

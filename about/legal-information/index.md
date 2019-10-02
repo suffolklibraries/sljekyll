@@ -15,7 +15,7 @@ Our membership is drawn from [member organisations](/about/legal-information/mem
 
 We run a supporters' scheme, [Suffolk Libraries Extra](/extra/). Individuals and local businesses can make an annual donation if they would like to get more involved and enhance the service we provide. All members of Suffolk Libraries Extra get a membership card and special newsletter, while those who sign up at Platinum level can attend our AGM and are acknowledged in our annual review.
 
-Member organisations elect [our board](/about/board-members/).
+Member organisations elect [our board](/about/legal-information/board-members/).
 
 [Contact us](/contact/).
 

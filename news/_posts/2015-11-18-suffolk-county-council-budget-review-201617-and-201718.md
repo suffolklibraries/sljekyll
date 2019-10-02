@@ -13,7 +13,7 @@ Alison Wheeler, General Manager, Suffolk Libraries, said:
 
 >These are proposals and we are hoping soon to reach agreement, working constructively with the Council, as we have done in the past. We are in discussion about what we can do, and how we might move forward over the next two years and beyond. It is clear that the success of our model of service delivery has helped to protect Suffolk Libraries from even more threatening budget cuts at this time.
 
->We do not expect to have to make any major changes in the coming year. We had already planned to deliver the final part of the 30% efficiency savings which are set out in [our original contract](http://suffolklibraries.co.uk/about/documents). We have already saved approximately £2.5million from the cost of the in-house library service in 2010/11. These new proposals take us beyond the original target, but not that much further, in the coming year.
+>We do not expect to have to make any major changes in the coming year. We had already planned to deliver the final part of the 30% efficiency savings which are set out in [our original contract](/about/legal-information/documents/). We have already saved approximately £2.5million from the cost of the in-house library service in 2010/11. These new proposals take us beyond the original target, but not that much further, in the coming year.
 
 >We will ensure that any savings we need to make for the next financial year (2016/17) will not affect the integrity of Suffolk’s library service.
 
