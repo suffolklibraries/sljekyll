@@ -2,7 +2,7 @@
 name: "Suffolk Libraries Day: Tombola"
 location: eye-library
 location-text: Eye Library
-event-start-date: 2019-09-12
+event-start-date: 2019-10-12
 event-start-time: 0900
 event-end-time: 1300
 event-category: sld
