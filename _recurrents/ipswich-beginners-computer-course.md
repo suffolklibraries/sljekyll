@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Beginners' computing course: £25 for a five-week course"
+recurrent-title: "Beginners' computing course: £30 for a five-week course"
 recurrent-description: 'Learn how to use email and social media, find information on the internet, keep yourself safe online and more. Advance booking by contacting the library is essential.'
 recurrent-day: Wednesdays from 30 October
 recurrent-times: 1400-1600
