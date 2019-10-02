@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "It’s official: We make life better"
+title: "Independent research quantifies social value of Suffolk’s libraries"
 date: 2019-10-02
 author: leon-paternoster
 category: news
@@ -8,7 +8,7 @@ excerpt: "Ground-breaking research shows the real impact Suffolk Libraries has o
 breadcrumb: news
 ---
 
-<p class="f4 b">In-depth research commissioned by Suffolk Libraries shows the vital and previously unseen contribution libraries make to people’s lives in the county.</p>
+<p class="f4 b">Independent, in-depth research commissioned by Suffolk Libraries shows the vital and previously unseen contribution libraries make to people’s lives in the county, saving the public and organisations millions of pounds a year.</p>
 
 The impact report <cite><a href="/assets/pdf/suffolk-libraries-a-predictive-impact-analysis.pdf">Suffolk Libraries: A Predictive Impact Analysis</a></cite> (PDF, 2.4MB) by independent consultants [Moore Kingston Smith](https://mooreks.co.uk/) estimates that every £1 spent on just three of Suffolk Libraries’ services creates £8.04 in ‘social value’. This is based on a study of three of Suffolk Libraries’ key activities – early years sessions for under-fives (Baby Bounce and Tot Rock), Top Time sessions for older people and Open Space groups. The report found these three activities alone generate just under £2m of social value every year.
 
