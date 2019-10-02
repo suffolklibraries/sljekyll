@@ -6,7 +6,7 @@
 
         <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url }}">{{ post.title }}</a></h1>
 
-        {% unless page.category == 'child-family-problems' %}<p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>{% endunless %}
+        {% unless page.category == 'child-family-problems' %}<p class="f6 mid-gray">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>{% endunless %}
 
     </header>
 
