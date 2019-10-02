@@ -48,4 +48,3 @@ Their report also states that the social value created: “…is a very impressi
 
 - [Moore Kingston Smith and their approach](https://mooreks.co.uk/services/advisory/fundraising-and-management/impact-measurement/)
 - [Download the full report](/assets/pdf/suffolk-libraries-a-predictive-impact-analysis.pdf) (PDF, 2.4MB)
-- Link: [https://www.suffolklibraries.co.uk/assets/pdf/suffolk-libraries-a-predictive-impact-analysis.pdf](https://www.suffolklibraries.co.uk/assets/pdf/suffolk-libraries-a-predictive-impact-analysis.pdf)
