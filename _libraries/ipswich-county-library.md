@@ -25,7 +25,7 @@ branch-bookdrop: y
 branch-toilet: y
 branch-special-collections: 'African Caribbean resources, Indic language resources, <a href="/music-and-drama/">Music & drama library</a> (call <a href="tel:01473927267">01473 927267</a> for Music & drama library services)'
 branch-display-space: Double sided display case available for hire - please book 2 weeks in advance
-branch-which-travel: y
+branch-which: y
 branch-wifi: y
 branch-borrowing-microbits: y
 branch-colour-printing: available

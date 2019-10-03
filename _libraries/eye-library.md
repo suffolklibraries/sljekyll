@@ -16,7 +16,6 @@ branch-tel: 01379 870515
 branch-friends: Eye Library Friends
 branch-accessibility: https://www.accessable.co.uk/venues/eye-library
 branch-parking: free parking available
-branch-which: y
 branch-bookdrop: y
 branch-wifi: y
 branch-colour-printing: available

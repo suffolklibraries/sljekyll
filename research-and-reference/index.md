@@ -99,15 +99,14 @@ The following libraries subscribe to <cite>Which?</cite>. You can view hard copi
 * [Brandon Library](/libraries/brandon-library/)
 * [Broomhill Library](/libraries/broomhill-library/)
 * [Bungay Library](/libraries/bungay-library/)
-* [Bury St Edmunds Library](/libraries/bury-st-edmunds-library/) - also has <cite>Which? Travel</cite>
+* [Bury St Edmunds Library](/libraries/bury-st-edmunds-library/)
 * [Chantry Library](/libraries/chantry-library/)
-* [Eye Library](/libraries/eye-library/)
 * [Felixstowe Library](/libraries/felixstowe-library/)
 * [Gainsborough Community Library](/libraries/gainsborough-community-library/)
 * [Hadleigh Library](/libraries/hadleigh-library/)
 * [Halesworth Library](/libraries/halesworth-library/)
 * [Haverhill Library](/libraries/haverhill-library/)
-* [Ipswich County Library](/libraries/ipswich-county-library/) - also has <cite>Which? Travel</cite>
+* [Ipswich County Library](/libraries/ipswich-county-library/)
 * [Leiston Library](/libraries/leiston-library/)
 * [Lowestoft Library](/libraries/lowestoft-library/)
 * [Mildenhall Library](/libraries/mildenhall-library/)
@@ -117,5 +116,4 @@ The following libraries subscribe to <cite>Which?</cite>. You can view hard copi
 * [Southwold Library](/libraries/southwold-library/)
 * [Stowmarket Library](/libraries/stowmarket-library/)
 * [Sudbury Library](/libraries/sudbury-library/)
-* [Wickham Market Library](/libraries/wickham-market-library/)
 * [Woodbridge Library](/libraries/woodbridge-library/)
