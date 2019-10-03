@@ -40,4 +40,5 @@ branch-other-facilities: '<ul>
 breadcrumb: y
 branch-pride-and-periods: y
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, board games, jigsaw swap."
+branch-news: The first floor of the library will be closed on Sunday 27 October.
 ---

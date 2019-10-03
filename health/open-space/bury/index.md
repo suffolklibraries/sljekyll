@@ -28,126 +28,6 @@ Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &ra
 
 <tr>
 <td>
-08.07.19
-</td>
-
-<td>
-Group discussion with David & complete evaluation forms
-</td>
-</tr>
-
-<tr>
-<td>
-15.07.19
-</td>
-
-<td>
-Creative writing with Cathie
-</td>
-</tr>
-
-<tr>
-<td>
-22.07.19
-</td>
-
-<td>
-Group discussion with David & board games/card games/paper games
-</td>
-</tr>
-
-<tr>
-<td>
-29.07.19
-</td>
-
-<td>
-Walk to Abbey Gardens for ice creams (weather permitting)
-</td>
-</tr>
-
-<tr>
-<td>
-05.08.19
-</td>
-
-<td>
-Poetry session - bring your favourite to share or write one!
-</td>
-</tr>
-
-<tr>
-<td>
-12.08.19
-</td>
-
-<td>
-Making papier-mâché hot air balloons
-</td>
-</tr>
-
-<tr>
-<td>
-19.08.19
-</td>
-
-<td>
-Group discussion & goal setting for the autumn
-</td>
-</tr>
-
-<tr>
-<td>
-02.09.19
-</td>
-
-<td>
-Quiz with Jacqui
-</td>
-</tr>
-
-<tr>
-<td>
-09.09.19
-</td>
-
-<td>
-Making woolly pom poms
-</td>
-</tr>
-
-<tr>
-<td>
-16.09.19
-</td>
-
-<td>
-Group discussion with David & number puzzles/sudoku
-</td>
-</tr>
-
-<tr>
-<td>
-23.09.19
-</td>
-
-<td>
-Mobility, balance, stretch & relaxation with Jacqui
-</td>
-</tr>
-
-<tr>
-<td>
-30.09.19
-</td>
-
-<td>
-Group discussion & stencilling
-</td>
-</tr>
-
-<tr>
-<td>
 07.10.19
 </td>
 
@@ -173,6 +53,156 @@ Decorate an old shoe!
 
 <td>
 Group discussion with David & painting by numbers
+</td>
+</tr>
+
+<tr>
+<td>
+28.10.19
+</td>
+
+<td>
+Group discussion with David & Halloween puzzles
+</td>
+</tr>
+
+<tr>
+<td>
+04.11.19
+</td>
+
+<td>
+Craft: bonfire and/or fireworks decorations
+</td>
+</tr>
+
+<tr>
+<td>
+11.11.19
+</td>
+
+<td>
+Craft: Remembrance Day poppies
+</td>
+</tr>
+
+<tr>
+<td>
+18.11.19
+</td>
+
+<td>
+Group discussion with David & colouring
+</td>
+</tr>
+
+<tr>
+<td>
+25.11.19
+</td>
+
+<td>
+Group discussion with David & making Advent candles
+</td>
+</tr>
+
+<tr>
+<td>
+02.12.19
+</td>
+
+<td>
+Craft: Christmas table decorations
+</td>
+</tr>
+
+<tr>
+<td>
+09.12.19
+</td>
+
+<td>
+Craft: Christmas crackers
+</td>
+</tr>
+
+<tr>
+<td>
+16.12.19
+</td>
+
+<td>
+Group discussion with David & painting baubles
+</td>
+</tr>
+
+<tr>
+<td>
+23.12.19
+</td>
+
+<td>
+Festive party: wear something red, gold or green and enjoy games, music and nibbles
+</td>
+</tr>
+
+<tr>
+<td>
+30.12.19
+</td>
+
+<td>
+Design a New Year's Resolution poster
+</td>
+</tr>
+
+<tr>
+<td>
+06.01.20
+</td>
+
+<td>
+Group discussion with David & decorate a lucky horseshoe
+</td>
+</tr>
+
+<tr>
+<td>
+13.01.20
+</td>
+
+<td>
+Nutrition & activity guidance with Jacqui
+</td>
+</tr>
+
+<tr>
+<td>
+20.01.20
+</td>
+
+<td>
+Trip to Edmundo's for coffee
+</td>
+</tr>
+
+<tr>
+<td>
+27.01.20
+</td>
+
+<td>
+Group discussion with David & scrapbooking
+</td>
+</tr>
+
+<tr>
+<td>
+03.02.20
+</td>
+
+<td>
+Craft: lavender bags
 </td>
 </tr>
 </table>
