@@ -1,5 +1,5 @@
 ---
-name: "Suffolk Libraries Day: Local author marketplace, book sale literary trail"
+name: "Suffolk Libraries Day: Local author marketplace, book sale and literary trail"
 location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2019-10-12

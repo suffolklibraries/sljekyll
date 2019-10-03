@@ -1,5 +1,5 @@
 ---
-name: "Children’s eLibrary and online services introduction"
+name: "Get Online Week: children’s eLibrary and online services introduction"
 location: haverhill-library
 location-text: Haverhill Library
 event-start-date: 2019-10-15

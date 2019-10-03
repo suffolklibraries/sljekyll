@@ -3,7 +3,7 @@ name: "Suffolk Libraries Day: Three Library Challenge certificate presentation"
 location: leiston-library
 location-text: Leiston Library
 event-start-date: 2019-10-12
-event-stqrt-time: 1400
+event-start-time: 1400
 event-category: sld
 sld-region: east
 breadcrumb: y
