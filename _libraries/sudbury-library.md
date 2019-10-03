@@ -34,4 +34,5 @@ branch-other-facilities: 'Sudbury Tourist Information Centre is located within t
 breadcrumb: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, room hire, children's activities, Lego Club, older people's activities, health & wellbeing groups."
 branch-news: 'Sudbury Library is looking for <a href="/volunteer/home-library-service/">Home Library Service volunteers</a>.'
+branch-for-sale: '<a href="https://www.cardsforcharity.co.uk/">Cards for Good Causes</a>'
 ---
