@@ -1,5 +1,5 @@
 ---
-name: "Suffolk Libraries Day: Saturday Talk: 'Henry Cockton, Bury St Edmunds' Forgotten Novelist', by Robert Halliday"
+name: "Suffolk Libraries Day: Saturday Talk: 'Henry Cockton, Bury St Edmunds' Forgotten Novelist' by Robert Halliday"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
 event-start-date: 2019-10-12
