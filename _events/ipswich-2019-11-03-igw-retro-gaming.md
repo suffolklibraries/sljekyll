@@ -13,8 +13,10 @@ Prepare your thumbs for a gaming nostalgia extravaganza from [Bring Back Retro](
 
 You can also use our Board Games Library for free or bring your own board games to share.
 
-[Find out more about International Games Week and see the map of all the libraries across the world taking part this year &rarr;](http://games.ala.org/international-games-week/)
+<iframe src="https://www.google.com/maps/d/embed?mid=1GDEwM_SkZ7zxvvR2t3dXBlfOUojNwU_j" width="640" height="480"></iframe>
+
+[Find out more about International Games Week &rarr;](http://games.ala.org/international-games-week/)
 
 <img src="/images/featured/featured-zatu-games.png" class="{% include /c/img-float-left.html %}" alt="Zatu Games logo" />
 
-International Games Week events at Ipswich County Library are sponsored by [Zatu Games](https://www.board-game.co.uk/), sellers of over 7,000 games and collectables at low prices.
+International Games Week events at Ipswich County Library are supported by [Zatu Games](https://www.board-game.co.uk/), sellers of over 7,000 games and collectables at low prices.

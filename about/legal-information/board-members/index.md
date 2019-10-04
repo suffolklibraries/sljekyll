@@ -43,18 +43,6 @@ In 2004, following a long career in IT, she moved with her husband from London t
 
 She is a feoffee (trustee) of Bungay Town Trust, a charitable trust which owns and manages fourteen almshouses in the town. As a trustee of The Honeypot Company, which administers the existing community centre, she has been helping to spearhead a project seeking to build a new community centre for the town. She is also a governor at Bungay High School.
 
-### Colin Rockall
-
-<img src="/images/board/colin-rockall-200.jpg" alt="Colin Rockall" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
-
-Colin has been a resident of Lavenham since 2000 and is the current Chairman of Friends of Lavenham Library.
-
-Much of his professional career was spent in local government and during the period between 1985 and 2000 he held the position of District Council Chief Executive – initially with an authority in Surrey and then a council in Somerset.
-
-In 2000, he joined the Audit Commission, followed by a four year period with the Office of the Deputy Prime Minister (ODPM) as a Lead Official. In this role, he represented the Department by working to improve ‘failing’ authorities, reporting to Ministers and senior civil servants. When ODPM was disbanded he became, and still is, a self- employed consultant, continuing to work directly to local authorities on performance and improvement issues.
-
-Within Lavenham, Colin undertakes voluntary work, which includes being a Director of the Lavenham Literary Festival since 2009. He is currently Company Secretary.
-
 ### Maureen Garratt Simpson
 
 <img src="/images/board/maureen-garratt-simpson-200.jpg" alt="Maureen Garratt Simpson" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />

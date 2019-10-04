@@ -1,11 +1,11 @@
 ---
-name: "Suffolk Libraries Day: Sponsored spin cycle"
-location: haverhill-library
-location-text: Haverhill Library
-event-start-date: 2019-10-07
+name: "Suffolk Libraries Day: Cycling challenge"
+location: beccles-library
+location-text: Beccles Library
+event-start-date: 2019-10-06
 event-end-date: 2019-10-12
 event-category: sld
-sld-region: west
+sld-region: north
 breadcrumb: y
 ---
 
