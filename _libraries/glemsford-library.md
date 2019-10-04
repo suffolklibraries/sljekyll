@@ -26,4 +26,5 @@ branch-scan-to-email: y
 breadcrumb: y
 branch-payments: cash, cheques and cards accepted
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, Code Club, older people's activities."
+branch-for-sale: "Pre-order children's book <cite>Triana's Journey</cite> by local author Leonie Jane-Grey for £5.99 and collect your copy in November, with all profits going to the library service."
 ---
