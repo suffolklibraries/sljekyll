@@ -140,5 +140,9 @@ https://www.suffolklibraries.co.uk/new-suggestions/reviews/staff-picks/my-name-i
 /events/woodbrodge-2019-10-02-fashion-show/ /events/woodbridge-2019-10-02-fashion-show/
 /parents-carers-and-children/childrens-ya-books/black-history-month-2018/ /parents-carers-and-children/childrens-ya-books/black history-month/
 /about/member-organisations/* /about/legal-information/member-organisations/:splat
+/health/lists/health-lists/ /health/lists/
+/new-suggestions/reviews/staff-picks/ /new-suggestions/reviews/
+/about/documents/board-meeting-minutes/ about/legal-information/documents/
+/*/page /:splat/
 
 /*   /404/index.html   404
