@@ -123,26 +123,7 @@ breadcrumb: home
 
 </section>
 
-<section class="bg-light-gray">
-
-{%
-  include z-bar.html
-  src="sld/kids-laughing.jpg"
-  alt="Two young children sitting on a library floor laughing."
-  bg-color="bg-near-white"
-  layout-reverse="true"
-  center="true"
-  title="Get involved!"
-  text="Come along or help arrange an event at your local library. So far, staff and volunteers have planned an art exhibition and sale, family history open event, adult craft sessions, a sponsored spin cycle, a sponsored choir/flash mob, a sponsored read, an author book signing, live music and cake sales&hellip;"
-  link="mailto:suffolklibrariesday@suffolklibraries.co.uk"
-  link-text="Contact us &rarr;"
-  link-color="custom-corporate-green"
-  link-hover-color="custom-corporate-green"
-%}
-
-</section>
-
-<section class="ph2 ph3-ns pv3 bg-white">
+<section class="ph2 ph3-ns pv3 bg-light-gray">
 
     <h2 class="tc f4 f3-ns custom-lh-title mb4-l">The Book Journey Challenge</h2>
 
