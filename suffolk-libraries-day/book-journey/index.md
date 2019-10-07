@@ -357,7 +357,7 @@ pad-content: true
             1pm - 1:30pm (0.5 hours)
           </td>
           <td class="pa2 ba b--moon-gray">
-            Ipswich Buses & Bookstart Bear - Bus
+            Suffolk Libraries staff
           </td>
         </tr>
         <tr>
@@ -408,7 +408,7 @@ pad-content: true
             2:30pm - 3:30pm (1 hour)
           </td>
           <td class="pa2 ba b--moon-gray">
-            Ipswich Buses & Bookstart Bear - Bus
+            Suffolk Libraries staff
           </td>
         </tr>
         <tr>
@@ -425,7 +425,7 @@ pad-content: true
             3:30pm - 5pm (1.5 hours)
           </td>
           <td class="pa2 ba b--moon-gray">
-            Ipswich Buses & Bookstart Bear - Bus
+            Suffolk Libraries staff
           </td>
         </tr>
         <tr>
