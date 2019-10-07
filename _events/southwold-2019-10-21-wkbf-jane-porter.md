@@ -5,7 +5,7 @@ location-text: Southwold Library
 wkbf-location: Southwold Arts Centre
 event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, Southwold, IP18 6JP"
 event-start-date: 2019-10-21
-event-start-time: 1130
+event-start-time: 1030
 event-ticket-price: 3
 event-category: wkbf-mon
 event-image: featured/featured-jane-porter.jpg
