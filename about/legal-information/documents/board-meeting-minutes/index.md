@@ -3,6 +3,7 @@ title: Board meeting minutes
 layout: sidebar-left
 sidebar: about
 breadcrumb: documents
+hnav: about
 ---
 You can download copies of our board meeting minutes. We redact information from minutes when:
 

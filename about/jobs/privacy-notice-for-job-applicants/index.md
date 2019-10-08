@@ -1,9 +1,12 @@
 ---
-layout: sidebar-left
+layout: new-blank
 title: Privacy notice for job applicants
-sidebar: about
+pad-content: true
+hnav: about
 breadcrumb: about
 ---
+
+# Privacy notice for job applicants
 
 **Data controller:** Suffolk's Libraries IPS Limited, Ipswich County Library, Northgate Street, Ipswich, Suffolk, IP1 3DE, [01473 351249](tel:01473351249)
 

@@ -3,6 +3,7 @@ title: Board members
 layout: sidebar-left
 sidebar: about
 breadcrumb: about
+hnav: about
 ---
 Our member organisations elect our board.
 

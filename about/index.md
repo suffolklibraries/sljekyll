@@ -50,3 +50,18 @@ breadcrumb: home
   link-color="custom-corporate-green"
   link-hover-color="custom-corporate-green"
 %}
+
+{%
+  include z-bar.html
+  src="about/staff-shelves.jpg"
+  alt="Woman placing books on to a library shelf."
+  layout-reverse="true"
+  color="white"
+  bg-color="custom-bg-corporate-green"
+  title="Jobs"
+  text="We make the lives of thousands of Suffolk people better by providing safe, fun and inspiring spaces and services. Join a modern, forward-thinking library service."
+  link="/about/jobs/"
+  link-text="See our vacancies &rarr;"
+  link-color="white"
+  link-hover-color="white"
+%}

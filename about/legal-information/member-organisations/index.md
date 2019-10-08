@@ -3,6 +3,7 @@ title: Member organisations
 layout: sidebar-left
 sidebar: about
 breadcrumb: about
+hnav: about
 ---
 We're made up of member organisations who support the 44 Suffolk libraries. Each library works with local people to develop these member organisations.
 
