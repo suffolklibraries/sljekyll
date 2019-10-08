@@ -24,7 +24,7 @@ branch-payments: cash, cheques and cards accepted
 branch-autism-guide: true
 branch-parking: "on-site parking available for disabled customers and deliveries only, public pay-and-display short stay car park behind the library"
 branch-bookdrop: y
-branch-refreshments: café open 1000-1600 on weekdays
+branch-refreshments: "The Haven café run by St Nicholas open 9:30am - 4pm on weekdays"
 branch-wifi: y
 branch-borrowing-ereaders-and-ipads: an iPad or a Nexus 7 tablet
 branch-borrowing-microbits: y
