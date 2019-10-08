@@ -1,5 +1,5 @@
 ---
-name: "Suffolk Libraries Day: activities for all ages"
+name: "Suffolk Libraries Day: Refreshments and activities for all ages"
 location: wickham-market-library
 location-text: Wickham Market Library
 event-start-date: 2019-10-12
