@@ -8,6 +8,7 @@ featured-hero-caption: "Working at Ipswich County Library"
 header-bg: custom-bg-corporate-green
 breadcrumb: about
 pad-content: true
+hnav: about
 ---
 
 <ul>

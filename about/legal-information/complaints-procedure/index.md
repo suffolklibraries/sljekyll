@@ -3,6 +3,7 @@ title: Complaints procedure
 layout: sidebar-left
 sidebar: about
 breadcrumb: about
+hnav: about
 ---
 
 Suffolk Libraries views complaints as an opportunity to learn and improve for the future, as well as a chance to put things right for the person who has made the complaint.

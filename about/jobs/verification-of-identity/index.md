@@ -1,9 +1,12 @@
 ---
-layout: sidebar-left
+layout: new-blank
 title: Verification of identity documents for prospective employees
-sidebar: about
+pad-content: true
+hnav: about
 breadcrumb: about
 ---
+
+# Verification of identity documents for prospective employers
 
 If we invite you to an interview, we need the following documents to confirm your identity, immigration status and permission to work. **We can only accept original documents, not copies**.
 

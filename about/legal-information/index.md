@@ -3,6 +3,7 @@ title: Legal information
 layout: sidebar-left
 sidebar: about
 breadcrumb: about
+hnav: about
 ---
 
 Suffolk’s Libraries Industrial and Provident Society Limited is our formally registered name. We call ourselves **Suffolk Libraries**.
