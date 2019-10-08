@@ -1,5 +1,5 @@
 ---
-name: "WordPlay launch with Suffolk Owl Sanctuary: for pre-school children their parents/carers"
+name: "WordPlay launch with Suffolk Owl Sanctuary: for pre-school children and their parents/carers"
 location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2019-10-24

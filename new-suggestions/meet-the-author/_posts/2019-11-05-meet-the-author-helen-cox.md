@@ -40,7 +40,7 @@ I’m thrilled to say that librarians who have read the book since its publicati
 
 ## 4. Kitt is due to return in your second book <cite>A Body in the Bookshop</cite> at the end of October. Can you give Suffolk readers a brief taster of what to expect?
 
-<img src="/images/featured/featured-a-body-in-the-bookshop-200.jpg" alt="A Body in the Bookshop" class="mw-40 {% include /c/img-float-right.html %}" />
+<a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2632983"><img src="/images/featured/featured-a-body-in-the-bookshop-200.jpg" alt="A Body in the Bookshop" class="mw-40 {% include /c/img-float-right.html %}" /></a>
 
 <cite>A Body in the Bookshop</cite> is told from Evie’s perspective so we get to see Kitt’s crime-solving antics from a different point of view. It picks up very shortly after the last adventure and follows Evie and Kitt’s quest to clear DS Banks’s name after she is accused of assaulting a suspect. Unfortunately, their quest soon involves a body count.
 
