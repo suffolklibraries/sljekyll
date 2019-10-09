@@ -680,7 +680,7 @@ pad-content: true
             5pm - 7pm (2 hours)
           </td>
           <td class="pa2 ba b--moon-gray">
-            Brandon Fenn Hoppers - Running
+            Brandon Fern Hoppers - Running
           </td>
         </tr>
         <tr>
