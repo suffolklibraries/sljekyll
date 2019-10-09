@@ -6,5 +6,5 @@ recurrent-times: 1100-1230
 recurrent-location: thurston-library
 recurrent-location-display-name: Thurston Library
 recurrent-location-display-url: /branches/thurston-library/
-recurrent-category: children
+recurrent-category: ["children", "primary"]
 ---

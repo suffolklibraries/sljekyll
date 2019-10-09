@@ -6,5 +6,5 @@ recurrent-times: 1000-1100
 recurrent-location: stradbroke-library
 recurrent-location-display-name: Stradbroke Library
 recurrent-location-display-url: /branches/stradbroke-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 ---

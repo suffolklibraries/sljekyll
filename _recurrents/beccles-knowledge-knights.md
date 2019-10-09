@@ -6,5 +6,5 @@ recurrent-times: 1545-1645
 recurrent-location: beccles-library
 recurrent-location-display-name: Beccles Library
 recurrent-location-display-url: /branches/beccles-library/
-recurrent-category: children
+recurrent-category: ["children", "primary"]
 ---

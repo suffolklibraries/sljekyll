@@ -6,5 +6,5 @@ recurrent-times: 1700-1800
 recurrent-location: lavenham-library
 recurrent-location-display-name: Lavenham Library
 recurrent-location-display-url: /branches/lavenham-library/
-recurrent-category: children
+recurrent-category: ["children", "primary"]
 ---

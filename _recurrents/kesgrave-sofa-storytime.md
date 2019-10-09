@@ -6,6 +6,6 @@ recurrent-times: 1000-1100
 recurrent-location: kesgrave-library
 recurrent-location-display-name: Kesgrave Library
 recurrent-location-display-url: /branches/kesgrave-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 recurrent-bookstart: y
 ---

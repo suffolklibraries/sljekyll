@@ -6,6 +6,6 @@ recurrent-times: 1000-1100
 recurrent-location: clare-library
 recurrent-location-display-name: Clare Library
 recurrent-location-display-url: /branches/clare-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 recurrent-bookstart: y
 ---

@@ -6,5 +6,5 @@ recurrent-times: 0915-1015
 recurrent-location: bungay-community-library
 recurrent-location-display-name: Bungay Community Library
 recurrent-location-display-url: /branches/bungay-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 ---

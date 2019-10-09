@@ -6,5 +6,5 @@ recurrent-times: 1800-1900
 recurrent-location: broomhill-library
 recurrent-location-display-name: Broomhill Library
 recurrent-location-display-url: /branches/broomhill-library/
-recurrent-category: reading-groups
+recurrent-category: ["reading-groups", "children", "primary"]
 ---

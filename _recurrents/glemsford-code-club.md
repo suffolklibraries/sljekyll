@@ -6,5 +6,5 @@ recurrent-times: 1545-1645
 recurrent-location: glemsford-library
 recurrent-location-display-name: Glemsford Library
 recurrent-location-display-url: /branches/glemsford-library/
-recurrent-category: children
+recurrent-category: ["children", "primary"]
 ---

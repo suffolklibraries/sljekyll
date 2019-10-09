@@ -6,6 +6,6 @@ recurrent-times: 1000-1030
 recurrent-location: newmarket-library
 recurrent-location-display-name: Newmarket Library
 recurrent-location-display-url: /branches/newmarket-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 recurrent-bookstart: y
 ---

@@ -6,5 +6,5 @@ recurrent-times: 1030-1130
 recurrent-location: lowestoft-library
 recurrent-location-display-name: Lowestoft Library
 recurrent-location-display-url: /branches/lowestoft-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 ---

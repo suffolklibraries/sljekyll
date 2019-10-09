@@ -6,5 +6,5 @@ recurrent-times: 1000-1130
 recurrent-location: rosehill-library
 recurrent-location-display-name: Rosehill Library
 recurrent-location-display-url: /branches/rosehill-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 ---

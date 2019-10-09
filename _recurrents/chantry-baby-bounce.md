@@ -6,6 +6,6 @@ recurrent-times: 1000-1025
 recurrent-location: chantry-library
 recurrent-location-display-name: Chantry Library
 recurrent-location-display-url: /branches/chantry-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 recurrent-bookstart: y
 ---

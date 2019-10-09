@@ -6,5 +6,5 @@ recurrent-times: 1100-1200
 recurrent-location: framlingham-library
 recurrent-location-display-name: Framlingham Library
 recurrent-location-display-url: /branches/framlingham-library/
-recurrent-category: children
+recurrent-category: ["children", "primary"]
 ---

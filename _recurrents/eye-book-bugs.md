@@ -6,5 +6,5 @@ recurrent-times: 1400-1500
 recurrent-location: eye-library
 recurrent-location-display-name: Eye Library
 recurrent-location-display-url: /branches/eye-library/
-recurrent-category: reading-groups
+recurrent-category: ["reading-groups", "children", "primary"]
 ---

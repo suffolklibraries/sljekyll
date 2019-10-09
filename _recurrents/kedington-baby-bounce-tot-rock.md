@@ -6,6 +6,6 @@ recurrent-times: N/A
 recurrent-location: kedington-library
 recurrent-location-display-name: Kedington Library
 recurrent-location-display-url: /branches/kedington-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 recurrent-bookstart: y
 ---

@@ -6,6 +6,6 @@ recurrent-times: 1030-1100
 recurrent-location: southwold-library
 recurrent-location-display-name: Southwold Library
 recurrent-location-display-url: /branches/southwold-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 recurrent-bookstart: y
 ---

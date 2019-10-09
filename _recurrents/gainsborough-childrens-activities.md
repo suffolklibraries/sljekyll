@@ -6,5 +6,5 @@ recurrent-times: 1300-1600
 recurrent-location: gainsborough-community-library
 recurrent-location-display-name: Gainsborough Community Library
 recurrent-location-display-url: /branches/gainsborough-community-library/
-recurrent-category: children
+recurrent-category: ["children", "primary"]
 ---

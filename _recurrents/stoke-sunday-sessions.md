@@ -6,5 +6,5 @@ recurrent-times: 1030-1230
 recurrent-location: stoke-library
 recurrent-location-display-name: Stoke Library
 recurrent-location-display-url: /branches/stoke-library/
-recurrent-category: arts-crafts-games
+recurrent-category: ["arts-crafts-games", "children", "primary", "pre-school"]
 ---

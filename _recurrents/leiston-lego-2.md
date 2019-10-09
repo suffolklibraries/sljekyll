@@ -6,5 +6,5 @@ recurrent-times: 1330-1430
 recurrent-location: leiston-library
 recurrent-location-display-name: Leiston Library
 recurrent-location-display-url: /branches/leiston-library/
-recurrent-category: children
+recurrent-category: ["children", "primary"]
 ---

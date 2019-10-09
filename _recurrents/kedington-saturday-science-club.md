@@ -5,5 +5,5 @@ recurrent-times: 0930-1030
 recurrent-location: kedington-library
 recurrent-location-display-name: Kedington Library
 recurrent-location-display-url: /branches/kedington-library/
-recurrent-category: children
+recurrent-category: ["children", "primary"]
 ---

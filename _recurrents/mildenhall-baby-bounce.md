@@ -6,6 +6,6 @@ recurrent-times: 1300-1330
 recurrent-location: mildenhall-library
 recurrent-location-display-name: Mildenhall Library
 recurrent-location-display-url: /branches/mildenhall-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 recurrent-bookstart: y
 ---

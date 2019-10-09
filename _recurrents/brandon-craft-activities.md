@@ -5,5 +5,5 @@ recurrent-times: 1115-1230
 recurrent-location: brandon-library
 recurrent-location-display-name: Brandon Library
 recurrent-location-display-url: /branches/brandon-library/
-recurrent-category: children
+recurrent-category: ["children", "primary"]
 ---

@@ -6,5 +6,5 @@ recurrent-times: 1630-1830
 recurrent-location: lowestoft-library
 recurrent-location-display-name: Lowestoft Library
 recurrent-location-display-url: /branches/lowestoft-library/
-recurrent-category: ["children", "arts-crafts-games"]
+recurrent-category: ["children", "arts-crafts-games", "primary"]
 ---

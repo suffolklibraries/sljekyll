@@ -6,5 +6,5 @@ recurrent-times: 1415-1445
 recurrent-location: shotley
 recurrent-location-display-name: Shotley (Suffolk Libraries Local)
 recurrent-location-display-url: /branches/shotley/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 ---

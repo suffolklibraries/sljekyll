@@ -6,6 +6,6 @@ recurrent-times: 1000-1100
 recurrent-location: glemsford-library
 recurrent-location-display-name: Glemsford Library
 recurrent-location-display-url: /branches/glemsford-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 recurrent-bookstart: y
 ---

@@ -6,6 +6,6 @@ recurrent-times: 0900-0930
 recurrent-location: framlingham-library
 recurrent-location-display-name: Framlingham Library
 recurrent-location-display-url: /branches/framlingham-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 recurrent-bookstart: y
 ---

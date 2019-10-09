@@ -6,6 +6,6 @@ recurrent-times: 1030-1100
 recurrent-location: aldeburgh-library
 recurrent-location-display-name: Aldeburgh Library
 recurrent-location-display-url: /branches/aldeburgh-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 recurrent-bookstart: y
 ---

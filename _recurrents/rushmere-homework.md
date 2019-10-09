@@ -6,5 +6,5 @@ recurrent-times: 1515-1600
 recurrent-location: rushmere
 recurrent-location-display-name: Rushmere (Suffolk Libraries Local)
 recurrent-location-display-url: /branches/rushmere/
-recurrent-category: children
+recurrent-category: ["children", "primary"]
 ---

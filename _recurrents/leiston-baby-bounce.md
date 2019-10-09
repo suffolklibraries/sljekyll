@@ -6,6 +6,6 @@ recurrent-times: 1030-1100
 recurrent-location: leiston-library
 recurrent-location-display-name: Leiston Library
 recurrent-location-display-url: /branches/leiston-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 recurrent-bookstart: y
 ---

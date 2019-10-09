@@ -6,6 +6,6 @@ recurrent-times: 1015-1100
 recurrent-location: halesworth-library
 recurrent-location-display-name: Halesworth Library
 recurrent-location-display-url: /branches/halesworth-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 recurrent-bookstart: y
 ---

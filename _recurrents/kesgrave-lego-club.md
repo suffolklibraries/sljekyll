@@ -6,5 +6,5 @@ recurrent-times: 1545-1645
 recurrent-location: kesgrave-library
 recurrent-location-display-name: Kesgrave Library
 recurrent-location-display-url: /branches/kesgrave-library/
-recurrent-category: children
+recurrent-category: ["children", "primary"]
 ---

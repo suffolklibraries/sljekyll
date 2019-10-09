@@ -6,6 +6,6 @@ recurrent-times: 1100-1200
 recurrent-location: eye-library
 recurrent-location-display-name: Eye Library
 recurrent-location-display-url: /branches/eye-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 recurrent-bookstart: y
 ---

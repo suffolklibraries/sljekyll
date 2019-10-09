@@ -5,5 +5,5 @@ recurrent-times: 1415-1515
 recurrent-location: glemsford-library
 recurrent-location-display-name: Glemsford Library
 recurrent-location-display-url: /branches/glemsford-library/
-recurrent-category: reading-groups
+recurrent-category: ["reading-groups", "older"]
 ---

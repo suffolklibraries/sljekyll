@@ -6,6 +6,6 @@ recurrent-times: 0930-1000
 recurrent-location: felixstowe-library
 recurrent-location-display-name: Felixstowe Library
 recurrent-location-display-url: /branches/felixstowe-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 recurrent-bookstart: y
 ---

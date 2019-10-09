@@ -6,5 +6,5 @@ recurrent-times: 1100-1200
 recurrent-location: sudbury-library
 recurrent-location-display-name: Sudbury Library
 recurrent-location-display-url: /branches/sudbury-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 ---

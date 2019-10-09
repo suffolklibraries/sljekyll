@@ -6,6 +6,6 @@ recurrent-times: 0930-1000
 recurrent-location: saxmundham-library
 recurrent-location-display-name: Saxmundham Library
 recurrent-location-display-url: /branches/saxmundham-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 recurrent-bookstart: y
 ---

@@ -6,6 +6,6 @@ recurrent-times: 1030-1100
 recurrent-location: kessingland-library
 recurrent-location-display-name: Kessingland Library
 recurrent-location-display-url: /branches/kessingland-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 recurrent-bookstart: y
 ---

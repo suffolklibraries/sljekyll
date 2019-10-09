@@ -6,6 +6,6 @@ recurrent-times: 0945-1030
 recurrent-location: ixworth-library
 recurrent-location-display-name: Ixworth Library
 recurrent-location-display-url: /branches/ixworth-library/
-recurrent-category: children
+recurrent-category: ["children", "pre-school"]
 recurrent-bookstart: y
 ---
