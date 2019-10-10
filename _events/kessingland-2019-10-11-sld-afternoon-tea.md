@@ -1,7 +1,7 @@
 ---
 name: "Suffolk Libraries Day: Afternoon tea and cake sale"
-location: halesworth-library
-location-text: Halesworth Library
+location: kessingland-library
+location-text: Kessingland Library
 event-start-date: 2019-10-11
 event-start-time: 1400
 event-end-time: 1700
