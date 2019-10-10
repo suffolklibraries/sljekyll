@@ -12,3 +12,5 @@ breadcrumb: y
 8-18 year-olds are invited to an informal, relaxing session where they can explore creative activities, building their confidence and curiosity.
 
 This event is free but advance booking is required by contacting the library as spaces are limited.
+
+This event is part of our [BLOC youth arts programme](/bloc/).
