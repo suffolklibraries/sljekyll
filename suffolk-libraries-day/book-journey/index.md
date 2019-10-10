@@ -595,7 +595,7 @@ pad-content: true
             11am - 11:30am (0.5 hours)
           </td>
           <td class="pa2 ba b--moon-gray">
-            River Stour Trust and Great Cornard Adventure Scouts - Boat
+            River Stour Trust and Quay Explorers @ 3rd Sudbury Scout Group - Boat
           </td>
         </tr>
         <tr>
