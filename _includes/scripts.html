@@ -112,6 +112,19 @@ $( function() {
 </script>
 {% endif %}
 
+{% if page.click-modal %}
+<script>
+$( function() {
+  $( "#dialog" ).dialog({
+    autoOpen: false
+  });
+  $( "#opener" ).on( "click", function() {
+    $( "#dialog" ).dialog( "open" );
+  });
+} );
+</script>
+{% endif %}
+
 {% if page.lightbox %}
 {% include lightbox.html %}
 {% endif %}
