@@ -28,16 +28,6 @@ Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &ra
 
 <tr>
 <td>
-07.10.19
-</td>
-
-<td>
-World Mental Health Day - guest speaker TBC
-</td>
-</tr>
-
-<tr>
-<td>
 14.10.19
 </td>
 
@@ -62,7 +52,7 @@ Group discussion with David & painting by numbers
 </td>
 
 <td>
-Group discussion with David & Halloween puzzles
+Find out about the Stay Alive Suicide Prevention app from David and Wendy from Suffolk User Forum & Halloween puzzles
 </td>
 </tr>
 
