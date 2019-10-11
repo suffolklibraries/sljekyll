@@ -10,6 +10,4 @@ breadcrumb: y
 
 Join us for an informative talk from Ellen Shailes from Suffolk Wildlife Trust about the new visitor centre and habitat creation and Carlton Marshes Nature Reserve, and how this will help local wildlife.
 
-Ticket price includes refreshments.
-
 Contact the library to book your ticket.
