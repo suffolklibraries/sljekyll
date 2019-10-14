@@ -32,7 +32,7 @@ But when you talk to Generation Z, you realise that the generation coming up don
 
 ## 4. What was the last book you read that made a real impression on you, and why?
 
-I’ve just finished <cite>Dreaming The Beatles</cite> by Rob Sheffield, which was terrific. Just as The Beatles grow in stature with every passing year, so books about them keep changing and giving us new perspectives. <cite>Dreaming The Beatles</cite> is mainly about the love people feel for them, which is absolutely one of the most important parts of their legacy.
+I’ve just finished [<cite>Dreaming The Beatles</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2686527) by Rob Sheffield, which was terrific. Just as The Beatles grow in stature with every passing year, so books about them keep changing and giving us new perspectives. <cite>Dreaming The Beatles</cite> is mainly about the love people feel for them, which is absolutely one of the most important parts of their legacy.
 
 ## 5. Who is the most interesting person you have interviewed?
 

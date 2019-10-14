@@ -9,7 +9,7 @@ event-start-time: 1030
 event-ticket-price: 1
 event-category: wkbf-sun-27
 event-image: featured/featured-gruffalo-200.jpg
-event-image-alt: "The Gruaffalo"
+event-image-alt: "The Gruffalo"
 event-ticket-url: https://www.ticketsource.co.uk/wkbf/gruffalo-stories/e-mxgoqy
 breadcrumb: y
 ---
