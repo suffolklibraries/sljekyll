@@ -16,5 +16,3 @@ Whether you are just starting out or already a keen photographer, you're invited
 SLR cameras and equipment will be provided, wear suitable walking shoes.
 
 This workshop is limited to 10 people, so arrive at the **main information point in the library foyer** early to avoid disappointment.
-
-[NessFest](https://www.facebook.com/NessFestLowestoft/) is back for a second year!
