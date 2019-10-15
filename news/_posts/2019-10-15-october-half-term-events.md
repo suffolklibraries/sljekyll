@@ -18,7 +18,12 @@ featured-alt: "Children making crafts at Gainsborough Community Library"
 
 Children and families are invited to join us for author events, performances, arts and crafts and more this half-term.
 
-Highlights include [Waveney Kids' Book Festival](/wkbf/) at Beccles Library and Southwold Arts Centre, featuring author visits, screenings and activities, NessFest Youth Arts Festival art and craft sessions for 11-19 year-olds at Lowestoft Library, performances of <cite>The Princess and the Pea</cite> from Theatre of Widdershins at Clare, Felixstowe, Mildenhall and Newmarket libraries, and Halloween craft activities across the county.
+Highlights include:
+
+* [Waveney Kids' Book Festival](/wkbf/) at Beccles Library and Southwold Arts Centre, featuring author visits, screenings and activities
+* NessFest Youth Arts Festival arts and crafts sessions for 11-19 year-olds at Lowestoft Library
+* Performances of <cite>The Princess and the Pea</cite> from Theatre of Widdershins at Clare, Felixstowe, Mildenhall and Newmarket libraries
+* Halloween craft activities across the county.
 
 A full list of half-term events follows. Please [contact your local library](/libraries/) if they do not appear in the list, as they may still be finalising their events.
 
