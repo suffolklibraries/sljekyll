@@ -7,7 +7,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-10-27
 event-start-time: 1030
 event-ticket-price: 1
-event-category: wkbf-sun-27
+event-category: ["wkbf-sun-27", "half-term"]
 event-image: featured/featured-gruffalo-200.jpg
 event-image-alt: "The Gruffalo"
 event-ticket-url: https://www.ticketsource.co.uk/wkbf/gruffalo-stories/e-mxgoqy

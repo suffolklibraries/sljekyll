@@ -6,7 +6,7 @@ wkbf-location: Beccles Library
 event-start-date: 2019-10-21
 event-start-time: 1430
 event-ticket-price: 3
-event-category: wkbf-mon
+event-category: ["wkbf-mon", "half-term"]
 event-image: featured/featured-jane-porter.jpg
 event-image-alt: Jane Porter
 event-ticket-url: https://www.ticketsource.co.uk/wkbf/jane-porter-author-of-the-boy-who-loved-everyone/e-kymzbk

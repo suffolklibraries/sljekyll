@@ -5,6 +5,7 @@ location-text: Wickham Market Library
 event-start-date: 2019-10-19
 event-start-time: 1400
 event-ticket-price: free
+event-category: half-term
 breadcrumb: y
 ---
 

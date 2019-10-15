@@ -7,7 +7,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-10-22
 event-start-time: 1030
 event-ticket-price: 3
-event-category: wkbf-tue
+event-category: ["wkbf-tue", "half-term"]
 event-image: featured/featured-spike-gerrell.jpg
 event-image-alt: Spike Gerrell
 event-ticket-url: https://www.ticketsource.co.uk/wkbf/spike-gerrell-illustrator-of-football-school-followed-by-create-your-own-character/e-drkdmr

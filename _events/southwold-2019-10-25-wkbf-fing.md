@@ -7,7 +7,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-10-25
 event-start-time: 1430
 event-ticket-price: 1
-event-category: wkbf-fri
+event-category: ["wkbf-fri", "half-term"]
 event-image: featured/featured-fing.jpg
 event-image-alt: "Fing"
 event-ticket-url: https://www.ticketsource.co.uk/wkbf/fing-fun-crafts/e-vojxzy

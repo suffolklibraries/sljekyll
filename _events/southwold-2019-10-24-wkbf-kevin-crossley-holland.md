@@ -7,7 +7,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-10-24
 event-start-time: 1030
 event-ticket-price: 3
-event-category: wkbf-thu
+event-category: ["wkbf-thu", "half-term"]
 event-image: featured/featured-kevin-crossley-holland.jpg
 event-image-alt: "Kevin Crossley-Holland"
 event-ticket-url: https://www.ticketsource.co.uk/wkbf/kevin-crossley-holland-norse-myths-tales-of-odin-thor/e-ozkeea

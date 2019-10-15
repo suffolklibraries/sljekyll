@@ -7,7 +7,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-10-20
 event-start-time: 1030
 event-ticket-price: 3
-event-category: wkbf-sun-20
+event-category: ["wkbf-sun-20", "half-term"]
 event-image: featured/featured-francesca-armour-chelu-200-2.jpg
 event-image-alt: Francesca Armour-Chelu
 event-ticket-url: https://www.ticketsource.co.uk/wkbf/francesca-armour-chelu-author-of-the-butterfly-circus-followed-by-circus-skills-make-poi/e-bmzeor

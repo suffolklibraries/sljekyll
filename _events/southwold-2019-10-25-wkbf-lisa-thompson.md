@@ -7,7 +7,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-10-25
 event-start-time: 1030
 event-ticket-price: 3
-event-category: wkbf-fri
+event-category: ["wkbf-fri", "half-term"]
 event-image: featured/featured-lisa-thompson.jpg
 event-image-alt: "Lisa Thompson"
 event-ticket-url: https://www.ticketsource.co.uk/wkbf/lisa-thompson-author-of-the-day-i-was-erased-followed-by-make-a-dog-coaster/e-exagrk

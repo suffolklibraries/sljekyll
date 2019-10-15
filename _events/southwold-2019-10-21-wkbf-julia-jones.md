@@ -7,7 +7,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-10-21
 event-start-time: 1430
 event-ticket-price: 3
-event-category: wkbf-mon
+event-category: ["wkbf-mon", "half-term"]
 event-image: featured/featured-julia-jones.jpg
 event-image-alt: Julia Jones
 event-ticket-url: https://www.ticketsource.co.uk/wkbf/julia-jones-author-of-the-strong-winds-series-followed-by-nautical-origami/e-jmlqkl

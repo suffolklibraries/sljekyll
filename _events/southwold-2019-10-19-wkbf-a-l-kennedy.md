@@ -7,7 +7,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-10-19
 event-start-time: 1430
 event-ticket-price: 3
-event-category: wkbf-sat-19
+event-category: ["wkbf-sat-19", "half-term"]
 event-image: featured/featured-a-l-kennedy.jpg
 event-image-alt: A. L. Kennedy
 event-ticket-url: https://www.ticketsource.co.uk/wkbf/a-l-kennedy-author-of-uncle-shawn-and-badger-bill-followed-by-build-a-badger-craft/e-vojxly

@@ -7,7 +7,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-10-20
 event-start-time: 1430
 event-ticket-price: 3
-event-category: wkbf-sun-20
+event-category: ["wkbf-sun-20", "half-term"]
 event-image: featured/featured-linda-davies.jpg
 event-image-alt: Linda Davies
 event-ticket-url: https://www.ticketsource.co.uk/wkbf/linda-davies-author-of-longbow-girl-followed-by-make-a-bow-and-arrow-craft/e-yomkll

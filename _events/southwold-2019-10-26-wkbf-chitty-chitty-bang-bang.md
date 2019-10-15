@@ -7,7 +7,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-10-26
 event-start-time: 1030
 event-ticket-price: 4 (adults free)
-event-category: wkbf-sat-26
+event-category: ["wkbf-sat-26", "half-term"]
 event-image: featured/featured-chitty-chitty-bang-bang.jpg
 event-image-alt: "Chitty Chitty Bang Bang"
 event-ticket-url: https://www.ticketsource.co.uk/wkbf/kidz-film-fun-chitty-chitty-bang-bang-film-crafts-games-art-and-more/e-gomypj

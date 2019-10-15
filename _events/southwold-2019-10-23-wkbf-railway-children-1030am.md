@@ -7,7 +7,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-10-23
 event-start-time: 1030
 event-ticket-price: 10; £8 for ages 12 and under
-event-category: wkbf-wed
+event-category: ["wkbf-wed", "half-term"]
 event-image: featured/featured-presents-railway-children.jpg
 event-image-alt: "The Railway Children"
 event-ticket-url: https://www.ticketsource.co.uk/wkbf/the-railway-children-filmed-at-the-national-railway-museum-in-york/e-axojev

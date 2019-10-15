@@ -6,7 +6,7 @@ wkbf-location: Beccles Library
 event-start-date: 2019-10-24
 event-start-time: 1430
 event-ticket-price: 3
-event-category: wkbf-thu
+event-category: ["wkbf-thu", "half-term"]
 event-image: featured/featured-kevin-crossley-holland.jpg
 event-image-alt: "Kevin Crossley-Holland"
 event-ticket-url: https://www.ticketsource.co.uk/wkbf/kevin-crossley-holland-author-of-between-worlds-folktales-of-britain/e-jmlqol

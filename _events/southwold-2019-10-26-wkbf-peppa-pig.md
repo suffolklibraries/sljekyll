@@ -7,7 +7,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-10-26
 event-start-time: 1430
 event-ticket-price: 1
-event-category: wkbf-sat-26
+event-category: ["wkbf-sat-26", "half-term"]
 event-image: featured/featured-peppa-pig.jpg
 event-image-alt: "Peppa Pig"
 event-ticket-url: https://www.ticketsource.co.uk/wkbf/peppa-pig-stories/e-lrakep

@@ -7,7 +7,7 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2019-10-24
 event-start-time: 1430
 event-ticket-price: 1
-event-category: wkbf-thu
+event-category: ["wkbf-thu", "half-term"]
 event-image: featured/featured-supertato.jpg
 event-image-alt: "Supertato"
 event-ticket-url: https://www.ticketsource.co.uk/wkbf/supertato-stories/e-ozkega

@@ -1,5 +1,5 @@
 ---
-name: "Friends Of Ixworth Library present: Spooky tales storytelling"
+name: "Friends of Ixworth Library present: Spooky tales storytelling"
 location: ixworth-library
 location-text: Ixworth Library
 event-start-date: 2019-10-26

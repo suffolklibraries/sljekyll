@@ -6,7 +6,7 @@ wkbf-location: Beccles Library
 event-start-date: 2019-10-19
 event-start-time: 1430
 event-ticket-price: 3
-event-category: wkbf-sat-19
+event-category: ["wkbf-sat-19", "half-term"]
 event-image: featured/featured-sophie-green-200.jpg
 event-image-alt: Sophie Green
 event-ticket-url: https://www.ticketsource.co.uk/wkbf/sophie-green-author-of-potkin/e-drkdgr

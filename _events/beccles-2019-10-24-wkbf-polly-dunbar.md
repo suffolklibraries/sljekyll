@@ -6,7 +6,7 @@ wkbf-location: Beccles Library
 event-start-date: 2019-10-24
 event-start-time: 1030
 event-ticket-price: 3
-event-category: wkbf-thu
+event-category: ["wkbf-thu", "half-term"]
 event-image: featured/featured-polly-dunbar.jpg
 event-image-alt: Polly Dunbar
 event-ticket-url: https://www.ticketsource.co.uk/wkbf/polly-dunbar-author-of-red-red-red-penguin/e-exaggk
