@@ -42,7 +42,7 @@ See also:
 
 ## [<cite>Gotta Get Theroux This: my life and strange times in television</cite>, by Louis Theroux](https://suffolklibraries.overdrive.com/media/4822015)
 
-> "n 1994 fledgling journalist Louis Theroux was given a one-off gig on Michael Moore's <cite>TV Nation</cite>, presenting a segment on apocalyptic religious sects. Gawky, socially awkward and totally unqualified, his first reaction to this exciting opportunity was panic. But he'd always been drawn to off-beat characters, so maybe his enthusiasm would carry the day. Or, you know, maybe it wouldn't...
+> "In 1994 fledgling journalist Louis Theroux was given a one-off gig on Michael Moore's <cite>TV Nation</cite>, presenting a segment on apocalyptic religious sects. Gawky, socially awkward and totally unqualified, his first reaction to this exciting opportunity was panic. But he'd always been drawn to off-beat characters, so maybe his enthusiasm would carry the day. Or, you know, maybe it wouldn't...
 
 > "In <cite>Gotta Get Theroux This</cite>, Louis takes the reader on a joyous journey from his anxiety-prone childhood to his unexpectedly successful career. Nervously accepting the BBC's offer of his own series, he went on to create an award-winning documentary style that has seen him immersed in the weird worlds of paranoid US militias and secretive pro-wrestlers, get under the skin of celebrities like Max Clifford and Chris Eubank and tackle gang culture in San Quentin prison, all the time wondering whether the same qualities that make him good at documentaries might also make him bad at life.
 
