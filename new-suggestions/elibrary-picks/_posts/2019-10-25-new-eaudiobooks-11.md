@@ -5,13 +5,13 @@ date: 2019-10-25
 author: sophie-green
 category: elibrary-picks
 tag: elibrary
-excerpt: "Listen to top titles from Heather Morris, Lemn Sissay, Philippa Gregory and more."
+excerpt: "Listen to top titles from Lemn Sissay, Philippa Gregory, David Attenborough and more."
 featured-image: /images/featured/featured-eaudiobooks-11.jpg
-featured-alt: ""
+featured-alt: "Unicorn, A Bad Birdwatcher's Companion"
 breadcrumb: elibrary-picks
 ---
 
-![](/images/featured/featured-eaudiobooks-11.jpg)
+![Unicorn, A Bad Birdwatcher's Companion](/images/featured/featured-eaudiobooks-11.jpg)
 
 See also: [recommended new physical audiobooks](/new-suggestions/audiobooks/new-audiobooks-26/)
 
@@ -110,3 +110,57 @@ See also: [recommended new physical audiobooks](/new-suggestions/audiobooks/new-
 > "Myth-debunking and taboo-busting, this is going to be the book that everyone is talking about. Period.
 
 > "At a time when women around the world are raising their voices in the fight for equality, there is still one taboo where there remains a deafening silence: periods. This book is an agenda-setting manifesto to remove the stigma and myths continuing to surround the female body. Bold, unapologetic, and a crusade to ignite conversation, this is a book for every woman - and man - everywhere."
+
+### [<cite>Darkness on the Fens</cite>, by Joy Ellis, read by Henrietta Meire](https://suffolklibraries.overdrive.com/media/4971853)
+
+> "Revellers are flocking into Greenborough for the yearly Dark Greenborough Festival, a three-day event celebrating local folklore, superstition and the darker side of life. What the public doesn't know is that there has been a warning sent to the police, saying that Greenborough will be a very dangerous place this year. The anonymous letter ends with the Latin phrase, <em>Mors certa, hora incerta</em>: Death is certain, the hour uncertain.
+
+> "DI Nikki Galena and her team soon discover this is no hoax, as people start dying from what appears to be alcohol poisoning. Things rapidly escalate, and as the deaths get more horrific, Nikki realises they have a serial killer in their midst."
+
+### [<cite>The Heat of the Moment: life and death decision-making from a firefighter</cite>, written and read by Sabrina Cohen-Hatton](https://suffolklibraries.overdrive.com/media/4451593)
+
+> "In the face of urgency and uncertainty, would you respond analytically or trust your instincts? How would you decide who lives and who dies?
+
+> "Dr Sabrina Cohen-Hatton has been a firefighter for eighteen years. She decides which of her colleagues rush into a burning building and how they confront the blaze. She makes the call to evacuate if she believes the options have been exhausted or that the situation has escalated beyond hope. This is her astonishing account of a profession defined by the most difficult decisions imaginable.
+
+> "Taking us to the very heart of firefighting, Sabrina uses her award-winning research to reveal the skills that are essential to surviving – and even thriving – in such a fast-paced and emotionally-charged environment. And she immerses us in this extraordinary world; from scenes of devastation and crisis, through triumphs of bravery, to the quieter moments when she questions herself and the decisions made in the most unforgiving circumstances.
+
+> "Here is the truth about how we respond in our most extreme moments."
+
+### [<cite>Running Blind</cite>, by M. J. Arlidge, read by Grace Saif](https://suffolklibraries.overdrive.com/media/3078970)
+
+> "Fresh out of Police College, 18-year-old WPC Helen Grace is the first to arrive on the scene of a fatal collision. Her colleagues see nothing amiss, convinced that the young man's death was a tragic accident. But Helen is not so sure. Who is their mystery victim? Why would he risk life and limb running across a busy highway? And what might he have been running from? There's a dark secret lurking amid the quiet fields of Hampshire, one that Helen is determined to uncover."
+
+### [<cite>A Bad Birdwatcher's Companion: or a personal introduction to Britain's 50 most obvious birds</cite>, written and read by Simon Barnes](https://suffolklibraries.overdrive.com/media/133273)
+
+> "Simon Barnes is one of Britain’s leading bird writers and humorists. His weekly column in The Times, his essays for the RSPB magazine and his two books on bad bird-watching have made him one of the characters of the bird world. Here he reads his own illuminating introductions to the 50 main birds of Britain, supported by the distinguishing bird song of each species. He not only gives helpful identifying features, but enriches them with whimsical observations on their characters and tendencies. It is a delightful text, superbly presented by the author himself."
+
+### [<cite>New Life Stories</cite>, written and read by David Attenborough](https://suffolklibraries.overdrive.com/media/602642)
+
+> "One of the nation's most popular presenters examines twenty marvels of the natural world from his extraordinary and pioneering experiences. How did Sir David track down a giant earthworm? Why does he respect rats? What was the first bribe in nature? Why do well known foods often have two names? And where can you see evidence of the earliest life on Earth?
+
+> "His enthusiasm is as infectious as ever, and conveys a unique fascination on topics as diverse as the kiwi, hummingbirds, monsters, butterflies, chimps, cuckoos, fireflies and Elsa, the famous lioness. So listen to these stories to find out why rats should be respected and which insects emerge from the ground only once every 17 years."
+
+### [<cite>Chernobyl: history of a tragedy</cite>, by Serhii Plokhy, read by Leighton Pugh](https://suffolklibraries.overdrive.com/media/4394836)
+
+> "On the morning of 26 April 1986 Europe witnessed the worst nuclear disaster in history: the explosion of a reactor at the Chernobyl nuclear power plant in Soviet Ukraine. The outburst put the world on the brink of nuclear annihilation. In the end, less than five percent of the reactor's fuel escaped, but that was enough to contaminate over half of Europe with radioactive fallout.
+
+> "In <cite>Chernobyl</cite>, Serhii Plokhy recreates these events in all of their drama, telling the stories of the firefighters, scientists, engineers, workers, soldiers, and policemen who found themselves caught in a nuclear Armageddon and succeeded in doing the seemingly impossible: extinguishing the nuclear inferno and putting the reactor to sleep.
+
+> "While it is clear that the immediate cause of the accident was a turbine test gone wrong, Plokhy shows how the deeper roots of Chernobyl lay in the nature of the Soviet political system and the flaws of its nuclear industry. A little more than five years later, the Soviet Union would fall apart, destroyed from within by its unsustainable communist ideology and the dysfunctional managerial and economic systems laid bare in the wake of the disaster.
+
+> "A poignant, fast paced account of the drama of heroes, perpetrators, and victims, Chernobyl is the definitive history of the world's worst nuclear disaster."
+
+### [<cite>Unicorn: the memoir of a Muslim drag queen</cite>, written and read by Amrou Al-Kadhi](https://suffolklibraries.overdrive.com/media/4669746)
+
+> "My name is Amrou Al-Kadhi – by day. By night, I am Glamrou, an empowered, fearless and acerbic drag queen who wears seven-inch heels and says the things that nobody else dares to.
+
+> "Growing up in a strict Iraqi Muslim household, it didn't take long for me to realise I was different. When I was ten years old, I announced to my family that I was in love with Macaulay Culkin in <cite>Home Alone</cite>. The resultant fallout might best be described as something like the Iraqi version of <cite>Jerry Springer: The Opera</cite>. And that was just the beginning.
+
+> "This is the story of how I got from there to here: about my teenage obsession with marine biology, and how fluid aquatic life helped me understand my non-binary gender identity; about my two-year scholarship at Eton college, during which I wondered if I could forge a new identity as a British aristocrat (spoiler alert: it didn't work); about discovering the transformative powers of drag while at university (and how I very nearly lost my mind after I left); and about how, after years of rage towards it, I finally began to understand Islam in a new, queer way.
+
+> "Most of all, this is a book about my mother. It's the journey of how we lost and found each other, about forgiveness, understanding, hope – and the life-long search for belonging."
+
+### [<cite>La Belle Sauvage</cite>, by Philip Pullman, read by Michael Sheen](https://suffolklibraries.overdrive.com/media/4828740)
+
+> "Eleven-year-old Malcolm Polstead and his dæmon, Asta, live with his parents at the Trout Inn near Oxford. Across the River Thames (which Malcolm navigates often using his beloved canoe, a boat by the name of La Belle Sauvage) is the Godstow Priory where the nuns live. Malcolm learns they have a guest with them; a baby by the name of Lyra Belacqua..."
