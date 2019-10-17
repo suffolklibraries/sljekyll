@@ -2,7 +2,7 @@
 name: "Talk on military history research by Mike Durrant"
 location: felixstowe-library
 location-text: Felixstowe Library
-event-start-date: 2019-10-22
+event-start-date: 2019-10-19
 event-start-time: 1000
 event-end-time: 1200
 event-ticket-price: 5
