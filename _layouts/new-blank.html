@@ -24,7 +24,11 @@
 
     {% if page.pad-content %}<div class="ph2 ph3-ns pv3 bg-white">{% endif %}
 
-    {{ content }}
+      {% if page.measure %}<div class="measure center">{% endif %}
+
+      {{ content }}
+
+      {% if page.measure %}</div>{% endif %}
 
     {% if page.pad-content %}</div>{% endif %}
 

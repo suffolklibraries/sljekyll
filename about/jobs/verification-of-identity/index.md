@@ -4,6 +4,7 @@ title: Verification of identity documents for prospective employees
 pad-content: true
 hnav: about
 breadcrumb: about
+measure: true
 ---
 
 # Verification of identity documents for prospective employers
