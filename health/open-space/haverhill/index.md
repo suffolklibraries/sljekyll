@@ -28,7 +28,67 @@ Running order: tea/coffee &rarr; informal discussion topic or activity &rarr; te
 
 <tr>
 <td>
-02.08.19
+18.10.19
+</td>
+
+<td>
+Mask making
+</td>
+</tr>
+
+<tr>
+<td>
+25.10.19
+</td>
+
+<td>
+Chocolate apple making
+</td>
+</tr>
+
+<tr>
+<td>
+01.11.19
+</td>
+
+<td>
+Fruity fireworks and pumpkin carving
+</td>
+</tr>
+
+<tr>
+<td>
+08.11.19
+</td>
+
+<td>
+Making glitter bottles
+</td>
+</tr>
+
+<tr>
+<td>
+15.11.19
+</td>
+
+<td>
+Making mosaic art
+</td>
+</tr>
+
+<tr>
+<td>
+22.11.19
+</td>
+
+<td>
+Bingo
+</td>
+</tr>
+
+<tr>
+<td>
+29.11.19
 </td>
 
 <td>
@@ -38,101 +98,51 @@ Quiz
 
 <tr>
 <td>
-09.08.19
+06.12.19
 </td>
 
 <td>
-What is anxiety - activities and discussion led by Karen
-</td>
-</tr>
-
-<tr>
-<td>
-16.08.19
-</td>
-
-<td>
-Rooted in History - activities revolving around the history of Haverhill with Hannah Salisbury
+Cake/biscuit decorating
 </td>
 </tr>
 
 <tr>
 <td>
-23.08.19
+13.12.19
 </td>
 
 <td>
-5 ways to wellbeing led by Karen
-</td>
-</tr>
-
-<tr>
-<td>
-30.08.19
-</td>
-
-<td>
-Daisy Driver visits with information about annual health checks / Design a postcard to your future self
+Making calendars
 </td>
 </tr>
 
 <tr>
 <td>
-06.09.19
+20.12.19
 </td>
 
 <td>
-Make a collage of the perfect day
-</td>
-</tr>
-
-<tr>
-<td>
-13.09.19
-</td>
-
-<td>
-Make a positivity/accomplishment jar
+Christmas party
 </td>
 </tr>
 
 <tr>
 <td>
-20.09.19
+27.12.19
 </td>
 
 <td>
-How music affects our mood - discussion and instrument making
-</td>
-</tr>
-
-<tr>
-<td>
-27.09.19
-</td>
-
-<td>
-Health quiz
+No session
 </td>
 </tr>
 
 <tr>
 <td>
-04.10.19
+03.01.19
 </td>
 
 <td>
-Drumming demonstration with Jo Streeton (TBC)
-</td>
-</tr>
-
-<tr>
-<td>
-11.10.19
-</td>
-
-<td>
-Planning session
+New year planning session
 </td>
 </tr>
 </table>
