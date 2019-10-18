@@ -1,92 +1,51 @@
 ---
-layout: full-width
-title: Regular children's activities
+title: "Children’s activities"
+layout: featured
+header-bg: custom-bg-corporate-green
+featured-hero-description: "Activities, events and clubs for pre-school and school age children."
+featured-hero-image: "events/childrens-event.jpg"
+featured-hero-alt: "Children sat on a carpet in a library."
+featured-hero-caption: "Event at Ipswich County Library"
 breadcrumb: events
-jquery: true
-dynatable: true
 ---
 
-<div class="{% include /c/generic-panel.html %}">
+{%
+  include z-bar.html
+  src="events/rushmere-1000.jpg"
+  alt="Parents and carers playing with young children in a library."
+  bg-color="bg-near-white"
+  title="Pre-school children"
+  text="Free, fun sessions for babies, toddlers and young children. Have fun, meet other parents and carers and give your child a great start in life. <br><img class='db mv2 mw3 mw4-ns' src='/images/events/wordplay-coffee-logo.png'>"
+  link="/events-activities/children/pre-school-children/"
+  link-text="Find an activity near you &rarr;"
+  link-color="custom-corporate-green"
+  link-hover-color="custom-corporate-green"
+%}
 
-    <p>Children and families are invited to join us for author events, performances, arts and crafts and more this half-term. <a href="/news/october-half-term-events/">See what's on at your library &rarr;</a></p>
+{%
+  include z-bar.html
+  src="events/laptop-1000.jpg"
+  alt="Two children concentrating at a laptop."
+  layout-reverse="true"
+  color="white"
+  bg-color="custom-bg-corporate-green"
+  title="School age children"
+  text="Minecraft, reading &amp; writing groups and coding clubs for school age children."
+  link="/events-activities/children/school-age-children/"
+  link-text="Find an event near you &rarr;"
+  link-color="white"
+  link-hover-color="white"
+%}
 
-</div>
-
-<p>Our libraries run regular <a href="/parents-carers-and-children/bookstart-storytime-resources/">Baby Bounce and Tot Rock events</a> as well as playtimes, crafts, clubs, reading groups and <a href="/events-activities/upcoming/">special events</a>.</p>
-
-{% include dynatable-library-list.html %}
-
-<table id="search-table" class="pure-table pure-table-bordered">
-  <thead>
-    <tr>
-      <th data-dynatable-column="library">Library</th>
-      <th data-dynatable-column="activity">Activity</th>
-      <th data-dynatable-column="day">Day</th>
-      <th data-dynatable-column="times">Times</th>
-    </tr>
-  </thead>
-  <tbody>
-
-    {% assign recurrents = site.recurrents | where: "recurrent-category", "children" | sort: 'recurrent-location' %}
-
-    {% for recurrent in recurrents %}
-
-        {% assign hide-event = false %}
-
-        {% if recurrent.recurrent-expiry %}
-
-            {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
-
-            {% capture event-expiry-seconds %}{{recurrent.recurrent-expiry | date: '%s' }}{% endcapture %}
-
-            {% capture event-expiry %}{{ event-expiry-seconds | divided_by: 86400}}{% endcapture %}
-
-            {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
-
-            {% if now-unix > event-expiry %}
-
-                {% assign hide-event = true %}
-
-            {% endif %}
-
-        {% endif %}
-
-        {% unless hide-event %}
-
-        <tr>
-          <td>{{ recurrent.recurrent-location-display-name }}</td>
-          <td><a href="{{ recurrent.recurrent-location-display-url }}">{{ recurrent.recurrent-title }}</a></td>
-          <td>{{ recurrent.recurrent-day }}</td>
-          <td>{{ recurrent.recurrent-times }} </td>
-        </tr>
-
-        {% endunless %}
-
-    {% endfor %}
-
-  </tbody>
-</table>
-
-<h2>Outreach activities</h2>
-
-<table class="pure-table pure-table-bordered">
-  <thead>
-    <tr>
-      <th>Outreach activities</th>
-      <th>Activity</th>
-      <th>Day and Time</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Carlton Colville, St Peters Church Hall. Contact <a title="Lowestoft Library" href="/libraries/lowestoft-library/">Lowestoft Library</a></td>
-      <td>Tot Rock and Storytime</td>
-      <td>First Monday of month 1330-1500 (term time only)</td>
-    </tr>
-    <tr>
-      <td>RAF Honington. Contact <a title="Thurston Library" href="/libraries/thurston-library/">Thurston Library</a></td>
-      <td>Stay and Play</td>
-      <td>Wednesday 1000-1130</td>
-    </tr>
-  </tbody>
-</table>
+{%
+  include z-bar.html
+  src="events/gainsborough-event.jpg"
+  alt="Children at a craft activity in a library."
+  bg-color="bg-near-white"
+  title="Half-term Oct 2019"
+  text="Find something to do over the school holiday. Special events for children across our libraries for the October half-term."
+  link="/news/october-half-term-events/"
+  link-text="Find a half-term event near you &rarr;"
+  link-color="custom-corporate-green"
+  link-hover-color="custom-corporate-green"
+%}

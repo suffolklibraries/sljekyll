@@ -1,0 +1,92 @@
+---
+layout: full-width
+title: Regular children's activities
+breadcrumb: events
+jquery: true
+dynatable: true
+---
+
+<div class="{% include /c/generic-panel.html %}">
+
+    <p>Children and families are invited to join us for author events, performances, arts and crafts and more this half-term. <a href="/news/october-half-term-events/">See what's on at your library &rarr;</a></p>
+
+</div>
+
+<p>Our libraries run regular <a href="/parents-carers-and-children/bookstart-storytime-resources/">Baby Bounce and Tot Rock events</a> as well as playtimes, crafts, clubs, reading groups and <a href="/events-activities/upcoming/">special events</a>.</p>
+
+{% include dynatable-library-list.html %}
+
+<table id="search-table" class="pure-table pure-table-bordered">
+  <thead>
+    <tr>
+      <th data-dynatable-column="library">Library</th>
+      <th data-dynatable-column="activity">Activity</th>
+      <th data-dynatable-column="day">Day</th>
+      <th data-dynatable-column="times">Times</th>
+    </tr>
+  </thead>
+  <tbody>
+
+    {% assign recurrents = site.recurrents | where: "recurrent-category", "children" | sort: 'recurrent-location' %}
+
+    {% for recurrent in recurrents %}
+
+        {% assign hide-event = false %}
+
+        {% if recurrent.recurrent-expiry %}
+
+            {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+
+            {% capture event-expiry-seconds %}{{recurrent.recurrent-expiry | date: '%s' }}{% endcapture %}
+
+            {% capture event-expiry %}{{ event-expiry-seconds | divided_by: 86400}}{% endcapture %}
+
+            {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+
+            {% if now-unix > event-expiry %}
+
+                {% assign hide-event = true %}
+
+            {% endif %}
+
+        {% endif %}
+
+        {% unless hide-event %}
+
+        <tr>
+          <td>{{ recurrent.recurrent-location-display-name }}</td>
+          <td><a href="{{ recurrent.recurrent-location-display-url }}">{{ recurrent.recurrent-title }}</a></td>
+          <td>{{ recurrent.recurrent-day }}</td>
+          <td>{{ recurrent.recurrent-times }} </td>
+        </tr>
+
+        {% endunless %}
+
+    {% endfor %}
+
+  </tbody>
+</table>
+
+<h2>Outreach activities</h2>
+
+<table class="pure-table pure-table-bordered">
+  <thead>
+    <tr>
+      <th>Outreach activities</th>
+      <th>Activity</th>
+      <th>Day and Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Carlton Colville, St Peters Church Hall. Contact <a title="Lowestoft Library" href="/libraries/lowestoft-library/">Lowestoft Library</a></td>
+      <td>Tot Rock and Storytime</td>
+      <td>First Monday of month 1330-1500 (term time only)</td>
+    </tr>
+    <tr>
+      <td>RAF Honington. Contact <a title="Thurston Library" href="/libraries/thurston-library/">Thurston Library</a></td>
+      <td>Stay and Play</td>
+      <td>Wednesday 1000-1130</td>
+    </tr>
+  </tbody>
+</table>

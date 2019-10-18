@@ -4,6 +4,7 @@ title: Privacy notice for job applicants
 pad-content: true
 hnav: about
 breadcrumb: about
+measure: true
 ---
 
 # Privacy notice for job applicants
