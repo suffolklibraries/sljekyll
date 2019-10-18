@@ -1,24 +1,15 @@
 ---
 layout: sidebar-right
-title: Bookstart and storytime resources
+title: Storytime resources
 breadcrumb: children-parents
 sidebar: children-parents
 ---
 
-We hold Bookstart story and singing sessions and lend out storysacks and BIG Books to make storytime with your young children interactive and even more fun.
-
-## Bookstart sessions
-
-<img src="/images/featured/featured-storytime.jpg" alt="Storytime at Ipswich County Library" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
-
-All of our libraries hold [regular Bookstart Baby Bounce and Tot Rock sessions](/events-activities/children/) for babies and young children and their parents/carers. You can hear stories, sing, move and play with toys and instruments together. The sessions are free, informal and welcoming, with no need to book in advance.
-
-- [Find your regular Bookstart Baby Bounce and Tot Rock sessions](/events-activities/children/)
-- [More information about Bookstart sessions &rarr;](https://www.booktrust.org.uk/supporting-you/families/our-programmes/bookstart/what-bookstart-can-offer-you/rhymetimes/)
+We hold lend out storysacks, BIG Books and Get Ready for School book bags to make storytime with your young children interactive and even more fun.
 
 ## Storysacks
 
-<img src="/images/featured/featured-storysack.jpg" alt="Storysack containing A Quiet Night In and elephant toys" class="custom-br-50 mw-40 {% include /c/img-float-left.html %}" />
+<img src="/images/featured/featured-storysack.jpg" alt="Storysack containing A Quiet Night In and elephant toys" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
 
 Our collection of storysacks make reading a multi-sensory experience that's enjoyable to both parents and children.
 
@@ -28,7 +19,7 @@ Any member of Suffolk Libraries can borrow storysacks for free. You can search f
 
 ## Get Ready for School book bag
 
-<img src="/images/featured/featured-school-bag.jpg" alt="A Suffolk Libraries Get Ready for School book bag with a selection of books and information cards" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+<img src="/images/featured/featured-school-bag.jpg" alt="A Suffolk Libraries Get Ready for School book bag with a selection of books and information cards" class="custom-br-50 mw-40 {% include /c/img-float-left.html %}" />
 
 Our Get Ready for School book bag is designed for families with children about to start school. It contains handy information cards and three reassuring stories about the school day:
 
@@ -42,7 +33,7 @@ You can find more books to prepare children for school on our [Starting school o
 
 ## BIG Books
 
-<img src="/images/featured/featured-storytime-owl-babies.jpg" alt="A member of library staff with a big Owl Babies book" class="custom-br-50 mw-40 {% include /c/img-float-left.html %}" />
+<img src="/images/featured/featured-storytime-owl-babies.jpg" alt="A member of library staff with a big Owl Babies book" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
 
 We also stock BIG versions of your favourite picture books, which are ideal for reading to small groups of children. The larger words and pictures give children a more immersive experience, as everyone can see them more easily.
 
