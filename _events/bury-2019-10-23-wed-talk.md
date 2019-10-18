@@ -1,5 +1,5 @@
 ---
-name: "Wednesday Talk: ‘Billy and Charlie Forgeries’ by Robert Halliday"
+name: "Wednesday Talk: ‘Billy and Charley Forgeries’ by Robert Halliday"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
 event-start-date: 2019-10-23
