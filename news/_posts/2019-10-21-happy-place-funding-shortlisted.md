@@ -8,7 +8,7 @@ excerpt: "A Suffolk Libraries project has been announced as one of ten finalists
 breadcrumb: news
 ---
 
-A Suffolk Libraries project has been announced as one of ten finalists in the Nesta Challenges [Tech to Connect]((https://www.nesta.org.uk/project/tech-connect-challenge/) ) competition.
+A Suffolk Libraries project has been announced as one of ten finalists in the Nesta Challenges [Tech to Connect](https://www.nesta.org.uk/project/tech-connect-challenge/) competition.
 
 Tech to Connect seeks new ways to use technology to reduce social isolation and loneliness in England. The ten finalists have been selected from 130 applications from charities and social enterprises, with each being awarded £25,000 to develop their project over the next five months.
 
