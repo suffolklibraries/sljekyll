@@ -14,7 +14,7 @@ breadcrumb: meet-the-author
 
 Heather Morris was born in New Zealand and moved to Australia as an adult. She took a degree in Political Science, worked in the social work department at a hospital, competed as a veteran athlete in shot-put, discus, javelin and hammer throwing and wrote screenplays before turning to writing the story of her friend Lale Sokolov.
 
-This story became the bestselling [<cite>The Tattooist of Auschwitz</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2422748). Her second novel, [<cite>Cilka's Journey</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2633004), based on the life of another Holocaust survivor, Cilka Klein, was published earlier this month.
+This story became the bestselling [<cite>The Tattooist of Auschwitz</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2422748). Her second novel, [<cite>Cilka's Journey</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2633004), based on the life of another Holocaust survivor, Cilka Klein, was published earlier this month. <cite>Cilka's Journey</cite> is available through the library or to buy for £14.99 (RRP) in hardback, eBook or audio. Visit [Heather's website](http://www.heathermorrisauthor.com/) to find out about her current book tour of the UK and Ireland.
 
 ## 1. Who were your literary heroes and influences as you were growing up?
 
