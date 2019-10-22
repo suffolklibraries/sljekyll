@@ -1,5 +1,5 @@
 ---
-name: "International Games Week: Video games from Bring Back Retro"
+name: "International Games Week: Games Day with board and video games"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2019-11-03
@@ -9,9 +9,13 @@ event-ticket-price: free
 breadcrumb: y
 ---
 
-Prepare your thumbs for a gaming nostalgia extravaganza from [Bring Back Retro](http://www.bringbackretro.com/). Play on a Commodore A600, Megadrive, Nintendo 64 and more. Suitable for ages 3+.
+Prepare your thumbs for a gaming nostalgia extravaganza from [Bring Back Retro](http://www.bringbackretro.com/). Play on a Commodore A600, Megadrive, Nintendo 64 and more.
 
-You can also use our Board Games Library for free or bring your own board games to share.
+You can also use tabletop games from our Board Games Library for free. We have a collection of over 130 games for all the family, with new donations from CoiledSpring Games, Big Potato Games, Goliath Games and Haba Games. Staff will be on hand to demo and advise on games. You can also bring your own board games to share.
+
+Under 8s must be supervised at all times.
+
+> "Celebrate gaming with libraries all over the world - Play Together. Smile Together."
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1GDEwM_SkZ7zxvvR2t3dXBlfOUojNwU_j" width="640" height="480"></iframe>
 
