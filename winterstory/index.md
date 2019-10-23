@@ -9,6 +9,8 @@ awesomplete: true
 
 # Winterstory competition form
 
+7-11 year-olds are invited to enter our [Winter Storybook competition with Imagine That](/news/winter-storybook-competition/) for the chance to win a place on a special creative workshop at Ipswich County Library on Saturday 7 December.
+
 <form class="pure-form pure-form-stacked pb4" netlify name="winterstory" action="/winterstory/confirmation/" netlify-honeypot="bot-field">
 
   <p class="custom-lh-title"><small>Please note we’ll pass these details to <a href="https://www.imaginethat.com/" class="blue underline">Imagine That Publishing</a>, the organisation offering the workshop prize. They will only use this information to enter you into the competition and contact you. Neither Imagine That Publishing or us will share your information with anyone else.</small></p>
