@@ -4,25 +4,25 @@ title: "Oona recommends: Owl stories for sharing"
 date: 2019-10-28
 author: sophie-green
 category: childrens-ya-books
-excerpt: "We've recently unveiled WordPlay, a new look for our pre-school activities and resources featuring a host of adorable woodland animals, headed by Oona the owl. Stock librarian Sophie has helped Oona pick out our top titles about owls to mark the occasion."
+excerpt: "We've recently unveiled Wordplay, a new look for our pre-school activities and resources featuring a host of adorable woodland animals, headed by Oona the owl. Stock librarian Sophie has helped Oona pick out our top titles about owls to mark the occasion."
 featured-image: /images/featured/featured-owl-books.jpg
-featured-alt: ""
+featured-alt: "10, 9, 8...Owls Up Late!, A T-wit a T-woo, Baz & Benz"
 breadcrumb: childrens-ya-books
 ---
 
-![](/images/featured/featured-owl-books.jpg)
+![10, 9, 8...Owls Up Late!, A T-wit a T-woo, Baz & Benz](/images/featured/featured-owl-books.jpg)
 
 <div class="flex-ns">
 
   <div class="w-50-ns pr3-ns">
 
-    <p>We've recently unveiled WordPlay, a new look for our pre-school activities and resources featuring a host of adorable woodland animals, headed by Oona the owl. Stock librarian Sophie has helped Oona pick out our top titles about owls to mark the occasion.</p>
+    <p>We've recently unveiled Wordplay, a new look for our pre-school activities and resources featuring a host of adorable woodland animals, headed by Oona the owl. Stock librarian Sophie has helped Oona pick out our top titles about owls to mark the occasion.</p>
 
   </div>
 
   <div class="w-50-ns pl3-ns">
 
-    <img src="/images/featured/featured-oona-370.jpg" alt="Oona the Suffolk Libraries WordPlay owl">
+    <img src="/images/featured/featured-oona-370.jpg" alt="Oona the Suffolk Libraries Wordplay owl">
 
   </div>
 
