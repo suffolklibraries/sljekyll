@@ -146,5 +146,6 @@ https://www.suffolklibraries.co.uk/new-suggestions/reviews/staff-picks/my-name-i
 /*/page /:splat/
 /wordplay/ /events-activities/children/pre-school-children/
 /parents-carers-and-children/bookstart-storytime-resources/* /parents-carers-and-children/storytime-resources/:splat
+/winterstory/ /news/winter-storybook-competition/
 
 /*   /404/index.html   404
