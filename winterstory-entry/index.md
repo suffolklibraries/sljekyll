@@ -1,15 +1,15 @@
 ---
 layout: new-blank
-title: Winterstory competition form
+title: Winter Story competition form
 pad-content: true
 breadcrumb: home
 measure: true
 awesomplete: true
 ---
 
-# Winterstory competition form
+# Winter Story competition form
 
-Complete this form to enter the <a href="/news/winter-storybook-competition/" class="blue underline">Winter Storybook competition</a> with Imagine That for 7-11 year olds. They can win a place on a special creative workshop at Ipswich County Library on Saturday 7 December.
+Complete this form to enter the <a href="/news/winter-storybook-competition/" class="blue underline">Winter Story competition</a> with Imagine That for 7-11 year olds. They can win a place on a special creative workshop at Ipswich County Library on Saturday 7 December.
 
 <form class="pure-form pure-form-stacked pb4" netlify name="winterstory" action="/winterstory/confirmation/" netlify-honeypot="bot-field">
 

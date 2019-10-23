@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "7-11 year-olds invited to enter our Winter Storybook competition with Imagine That"
+title: "7-11 year-olds invited to enter our Winter Story competition with Imagine That"
 date: 2019-10-23
 author: james-powell
 category: news
@@ -10,7 +10,7 @@ breadcrumb: news
 
 We’re partnering with local children's book publisher Imagine That to offer Suffolk children the chance to win a space at a special winter storybook writing workshop.
 
-**[Enter the competition &rarr;](/winterstory-entry/)**
+**[Enter the Winter Story competition &rarr;](/winterstory-entry/)**
 
 The workshop will be led by publishing professionals from Imagine That in [Ipswich County Library's newly revamped Hub space](/libraries/hub/) on Saturday 7 December. Ten winners aged 7-11 can design and write their own winter-themed picture book and share their stories. Five additional winners will receive book bundles.
 
