@@ -14,7 +14,7 @@ featured-alt: "Suffolk Libraries Wordplay library card for 0-5 year-olds, featur
 
 Libraries in Suffolk have introduced a new card design for pre-school children as part of a relaunch of their activities for young children and their parents/carers.
 
-The card features a host of woodland creatures, headed by our new children's mascot Oona the Owl, whose name was chosen by our Facebook followers. It ties in with the launch of [Wordplay](/wordplay/), the new look and feel for the regular Baby Bounce, Tot Rock and Storytime sessions we hold across our libraries. The new name and artwork were officially unveiled at Newmarket Library's Tot Rock session on Thursday 24 October. Staff and Darwin the Chaco owl from Suffolk Owl Sanctuary, and an Oona the Owl mascot, came along to mark the occasion.
+The card features a host of woodland creatures, headed by our new children's mascot Oona the Owl, whose name was chosen by our Facebook followers. It ties in with the launch of [Wordplay](/wordplay/), the new look and feel for the regular Baby Bounce, Tot Rock and Storytime sessions we hold across our libraries. The new name and artwork were officially unveiled at Newmarket Library's Tot Rock session on Thursday 24 October. Staff and Darwin the Chaco owl from Suffolk Owl Sanctuary came along to mark the occasion.
 
 Hannah Foulstone, who managed the project on behalf of Suffolk Libraries, said: "We wanted to engage more with the community and provide a fun and interactive experience for the children that come along to our pre-school sessions, as well as support early childhood development. As another organisation that supports learning – and as our mascot is an owl! - the Suffolk Owl Sanctuary was a natural fit for working together."
 
