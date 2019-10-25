@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Storytime"
-recurrent-description: "Suitable for 2+ year-olds. Term-time only."
+recurrent-description: "Suitable for 2+ year-olds, term-time only."
 recurrent-day: Wednesday
 recurrent-times: 1000-1030
 recurrent-location: hadleigh-library
