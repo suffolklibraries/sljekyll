@@ -22,4 +22,4 @@ David Henderson, MD of Imagine That Publishing, said: "Having admired the valuab
 
 Bruce Leeke, Chief Executive of Suffolk Libraries, said: "I’d like to thank Imagine That for their support for our Suffolk Libraries Day activities recently. We’re really excited about working with them to offer this wonderful prize to some lucky local children and maybe we might inspire the next generation of authors."
 
-The competition opens on **Monday 28 October**. To enter, all you need to do is enter your child's details into our [online form](/winterstory-entry/) by **Friday 22 November**. Winners will be announced shortly after this date. We will only use your information to enter you into the competition and contact you if you're a winner, and won't pass your details on to anyone else.
+To enter, all you need to do is enter your child's details into our [online form](/winterstory-entry/) by **Friday 22 November**. Winners will be announced shortly after this date. We will only use your information to enter you into the competition and contact you if you're a winner, and won't pass your details on to anyone else.
