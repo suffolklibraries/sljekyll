@@ -10,7 +10,7 @@ featured-alt: "When the Stars Come Out, Bloom, Where the River Runs Gold"
 breadcrumb: childrens-ya-books
 ---
 
-![When the Stars Come Out, Bloom, Where the River Runs Gold](/images/featured/featured-blue-peter-2019.jpg)
+![When the Stars Come Out, Bloom, Where the River Runs Gold](/images/featured/featured-blue-peter-2020.jpg)
 
 The longlist for the 2020 Blue Peter Book Awards has been announced. The two category winners - voted for by hundreds of children in participating UK schools - will be revealed in February 2020.
 
