@@ -31,4 +31,5 @@ breadcrumb: y
 branch-payments: cash, cheques and cards accepted
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, older people's activities, health & wellbeing groups."
 branch-for-sale: '<a href="https://www.cardsforcharity.co.uk/">Cards for Good Causes</a>'
+branch-news: There may be some noise disturbance in the library from 4 - 20 November due to building improvement works.
 ---
