@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Find your new favourite fiction or non-fiction book with the 2020 Blue Peter Book Awards longlist"
-date: 2020-10-25
+date: 2019-10-25
 author: alice-violett
 category: childrens-ya-books
 excerpt: "The longlist for the 2019 Blue Peter Book Awards has been announced. Reserve a nominee today and see what you think."
@@ -94,15 +94,13 @@ The longlist for the 2020 Blue Peter Book Awards has been announced. The two cat
 
 > "Do you have what it takes to become an astronaut, a spaceship engineer or to work at Mission Control? Find out all about space and all the incredible space jobs you could do, from training to be a space chef or designing spacesuits to searching for new planets we could live on, or even blasting into space and living in the International Space Station."
 
-### [<cite>Humanimal: incredible ways animals are just like us!</cite>, by Christopher Lloyd & Mark Ruffle]()
+### [<cite>Humanimal: incredible ways animals are just like us!</cite>, by Christopher Lloyd & Mark Ruffle](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2642195)
 
-> "For a long time, humans considered themselves better than animals, an assumption based on a lack of research: when Jane Goodall proved that chimpanzees made and used tools, the “proof” that humans were superior in the natural order became a bit shaky.
+> "So you think you're special? You think that just because people have built giant cities, invented pop-up toasters and put a person on the Moon that they are somehow different from other living things? Well it's time to think again!
 
-> "In fact, for thousands of years, indigenous peoples had considered animals equal to or even superior to humans because they lived close to animals every day and observed them in great detail.
+> "<cite>Humanimal</cite> shows the inextricable interconnections of the human and animal worlds in ways you never before imagined. Inside you will discover how slime moulds can solve how to navigate through a maze; how rats tickle and laugh out loud; how elephants have funerals for their lost loved ones; how bees vote in elections to decide where to locate their nests; how crows use cars to crack nuts and a whole lot more!
 
-> "It turns out that, in fact, humans have far more in common with animals than you might expect. For instance, humans and animals live in communities, play for fun and work together to achieve common goals – bees, when moving to a new hive, vote on which new location to use by copying the movements of the winning bee. Ravens have been spotted rolling down snowy hills for fun, and termites live in vast insect cities featuring a variety of living and working areas. Orcas, elephants and baboons have also been observed to show grief.
-
-> "These examples and many more give a fascinating insight to the similarities between species and promote sympathy with the animal world – which can only be a good thing for future generations."
+> "This illustrated, mesmerising exploration shows that humans and other animals don't just live on the same planet, they also share many of the same patterns of behaviour, making us all fellow players in the drama that is life on Earth."
 
 ### [<cite>Plastic Sucks! You can make a difference</cite>, by Dougie Poynter](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2587791)
 
