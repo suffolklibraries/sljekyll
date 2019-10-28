@@ -147,5 +147,9 @@ https://www.suffolklibraries.co.uk/new-suggestions/reviews/staff-picks/my-name-i
 /wordplay/ /events-activities/children/pre-school-children/
 /parents-carers-and-children/bookstart-storytime-resources/* /parents-carers-and-children/storytime-resources/:splat
 /winterstory/ /news/winter-storybook-competition/
+/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/ /parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/
+/new-suggestions/reviews/genre/ /new-suggestions/reviews/
+/childrens-month/suffolk-libraries-favourite-childrens-books/childrens-ya-books/ /parents-carers-and-children/childrens-ya-books/
+
 
 /*   /404/index.html   404
