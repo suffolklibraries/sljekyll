@@ -27,5 +27,8 @@ branch-scan-to-email: y
 breadcrumb: y
 branch-pride-and-periods: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, free sanitary products."
-branch-news: 'Stoke Library is looking for <a href="/volunteer/home-library-service/">Home Library Service volunteers</a>.'
+branch-news: '<ul>
+              <li>Stoke library will be closed on Sunday 3 November.</li>
+              <li>The library is looking for <a href="/volunteer/home-library-service/">Home Library Service volunteers</a>.</li>
+              </ul>'
 ---
