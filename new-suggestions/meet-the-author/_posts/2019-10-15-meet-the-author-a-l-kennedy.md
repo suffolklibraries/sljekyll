@@ -14,8 +14,6 @@ breadcrumb: meet-the-author
 
 A. L. Kennedy was born in Dundee and now lives in North Essex, having previously lived in Glasgow. As well as adult fiction and non-fiction, she has written three children's books, including two titles about Uncle Shawn and Badger Bill, an unusual pair who have brilliantly bonkers adventures. She also writes for stage, screen, TV and radio and performs one-woman shows and stand-up comedy.
 
-You can see A. L. Kennedy in person at [Southwold Arts Centre on Saturday 19 October](/events/southwold-2019-10-19-wkbf-a-l-kennedy/) as part of the [Waveney Kids' Book Festival](/wkbf/).
-
 ## 1. Who were your literary heroes and influences as you were growing up?
 
 I was taught to read very early and was grabbing any book I could by the time I was four. I like ee cummings - he makes sense to a child. Very fond of C. S. Lewis and J. R. R. Tolkien. They may have encouraged me to write using initials.

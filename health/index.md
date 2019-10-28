@@ -8,7 +8,7 @@ breadcrumb: home
 
   <div class="w-third-l pr3-l">
 
-    <img src="/images/article/new-chapters-logo-smaller.png" alt="New Chapters Mental Health &amp; Wellbing Information Service" class="db mb2">
+    <img src="/images/article/new-chapters-logo-smaller.png" alt="New Chapters Mental Health &amp; Wellbeing Information Service" class="db mb2">
 
   </div>
 

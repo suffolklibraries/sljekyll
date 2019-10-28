@@ -29,13 +29,6 @@ Including eAudiobooks on Buddhism and self-acceptance.
 * [Music for Yoga](https://suffolklibraries.freegalmusic.com/browse/playlists/library-playlists/246278)
 * [Workout music](https://suffolklibraries.freegalmusic.com/browse/playlists/library-playlists/246280)
 
-## Magazines on RBdigital
-
-[Set up RBdigital &rarr;](/elibrary/rbdigital/)
-
-* [Hobby magazines](/new-suggestions/articles/hobby-magazines-on-rbdigital/)
-* [Sports and fitness magazines](/new-suggestions/articles/sports-and-fitness-magazines-on-rbdigital/)
-
 ## Articles on Britannica
 
 Simply log in with your library card number! Find out...

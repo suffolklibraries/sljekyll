@@ -10,7 +10,7 @@ featured-alt: "Rebel Dogs, Anatomicum, Earth Heroes"
 breadcrumb: childrens-ya-books
 ---
 
-![Rebel Dogs, Anatomicum, Earth Heroes](/images/featured/featured-blue-peter-2019.jpg)
+![Rebel Dogs, Anatomicum, Earth Heroes](/images/featured-non-fiction-november-2019.jpg)
 
 National Non-Fiction November highlights and celebrates factual books for children and encourages even the most reluctant readers to find something they like. We've picked out some of our favourites from 2019 to mark the occasion.
 
@@ -64,7 +64,7 @@ Essential reading for fans of all ages.
 
 > "Do you know your Mike from your Mater? Or your Evelyn from your Eve? Dive into the wonderful world of Disney Pixar with this colourful, fact-filled guide to your favourite Pixar characters. Find out more about the greatest and funniest heroes, villains, sidekicks, and oddballs from across all 21 movies - including the newest characters from <cite>Toy Story 4</cite>. Whether your favourite character is Woody, Dory, Lightning McQueen, Edna, Bing Bong or Dante, this encyclopedia lets you relive their best movie moments and latest adventures, discover special 'did you know?' facts, and much more."
 
-### [<cite>Star Wars Character Encyclopedia</citr>, by Simon Beecroft, Elizabeth Dowsett & Pablo Hidalgo](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2537561)
+### [<cite>Star Wars Character Encyclopedia</cite>, by Simon Beecroft, Elizabeth Dowsett & Pablo Hidalgo](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2537561)
 
 > "Want to know how tall Snoke is? Or learn where Maz Kanata is from? This character encyclopedia is full of fun facts and intriguing information that's guaranteed to enthrall fans of all ages. With plenty of lesser-known details, even die-hard fans will learn new facts about iconic characters."
 

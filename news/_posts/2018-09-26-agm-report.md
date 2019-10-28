@@ -12,7 +12,7 @@ Suffolk Libraries held its sixth Annual General Meeting on Tuesday 25 September.
 
 Our AGM is a formal meeting, attended by representatives of the 44 community groups who support the county’s libraries. It also provides an opportunity to celebrate the achievements of Suffolk Libraries over the past year and the great work being done by library staff with the support of the community groups. We have summarised these in our [Annual Review for 2017-18](/assets/pdf/suffolk-libraries-annual-review-2017-2018.pdf).
 
-At the meeting Sally Irvine from the Aldeburgh Library Friends was announced as the new member of the [Suffolk Libraries Board](/about/board-members/).
+At the meeting Sally Irvine from the Aldeburgh Library Friends was announced as the new member of the [Suffolk Libraries Board](/about/legal-information/board-members/).
 
 David Sheepshanks CBE was the guest speaker and gave a very inspiring speech about the important role of libraries in the Suffolk community. He also reminisced about his time as Chairman of Ipswich Town Football Club.
 

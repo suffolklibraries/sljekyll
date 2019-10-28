@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Suffolk Libraries signs Time to Change pledge"
 date: 2018-11-08
 author: james-powell
-category: ["news", "health"]
+category: news
 featured-image: /images/featured/featured-time-to-change-pledge.jpg
 featured-alt: "Suffolk Libraries chief executive Bruce Leeke signs the Time to Change pledge with Jon Neal from Suffolk Mind, Suffolk Libraries chairman Tony Brown and Suffolk Libraries staff"
 excerpt: "Suffolk Libraries has signed an employer pledge with Time to Change, the growing social movement run by charities Mind and Rethink Mental Illness which supports people to open up about mental health problems. By signing, we are committing to change the way we all think and act about mental health in the workplace."

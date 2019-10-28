@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Woodbridge Library to host dance taster sessions for young people"
 date: 2018-11-06
 author: melissa-matthews
-category: ["news", "bloc-news", "bloc"]
+category: news
 featured-image: /images/featured/featured-lynnette-king.jpg
 featured-alt: "Dance artist Lynnette King. Photo credit: George Casselton"
 excerpt: "11-25 year-olds who are interested in developing a creative performance are invited to a series of free fun and creative dance workshops with experienced dance artist Lynnette King this November and December."
