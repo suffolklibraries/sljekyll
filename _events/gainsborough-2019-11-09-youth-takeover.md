@@ -1,5 +1,5 @@
 ---
-name: "Youth Takeover Festival: iPad and VR workshop for 11-25 year-olds"
+name: "Youth Takeover Festival: iPad and VR workshop for under-25s"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2019-11-09
