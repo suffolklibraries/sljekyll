@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Conversation cafe"
-recurrent-description: "Drop in and improve your English speaking and listening skills with the help of native and fluent English speakers. 50p including a coffee or tea and a biscuit."
+recurrent-description: "Drop in and improve your English speaking and listening skills with the help of native and fluent English speakers. £1 including a coffee or tea and a biscuit."
 recurrent-day: Fridays
 recurrent-times: 1000-1200
 recurrent-location: ipswich-county-library

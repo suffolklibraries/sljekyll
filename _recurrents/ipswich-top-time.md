@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Top Time: events and activities for older people"
+recurrent-title: "Top Time: events and activities for older people: £1 for coffee/tea and a biscuit"
 recurrent-day: Thursday
 recurrent-times: 1415-1545
 recurrent-location: ipswich-county-library

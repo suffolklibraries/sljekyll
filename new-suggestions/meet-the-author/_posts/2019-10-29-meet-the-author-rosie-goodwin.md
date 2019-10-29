@@ -4,7 +4,7 @@ title: 'Meet the Author: Rosie Goodwin'
 date: 2019-10-29
 author: brandon-king
 category: meet-the-author
-excerpt: "Rosie Goodwin tells us about her new novel, <cite>A Precious Gift</cite> and how her books have evolved over her career."
+excerpt: "Rosie Goodwin tells us about her new novel, <cite>A Precious Gift</cite>, and how her books have evolved over her career."
 featured-image: /images/featured/featured-rosie-goodwin.jpg
 featured-alt: "Rosie Goodwin"
 breadcrumb: meet-the-author
