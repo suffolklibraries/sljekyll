@@ -40,7 +40,7 @@ National Non-Fiction November highlights and celebrates factual books for childr
 
 > "When faced with climate change, the biggest threat that our planet has ever confronted, it's easy to feel as if nothing you do can really make a difference. Proving how individual people really can change the world, this book contains 20 inspirational stories celebrating the pioneering work of a selection of Earth heroes from all around the globe, from Greta Thunberg and David Attenborough to Yin Yuzhen and Isatou Ceesay."
 
-### [<cite>Little Leaders: brave men in black history</cite>, by Vashti Harrison](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2637461)
+### [<cite>Little Leaders: exceptional men in black history</cite>, by Vashti Harrison](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2637461)
 
 > "This beautifully illustrated volume educates and inspires as it relates true stories of black men in history. Illuminating text paired with irresistible full-colour art bring to life both iconic and lesser-known figures. Among these biographies, readers will find aviators and artists, politicians and pop culture icons. The men featured include writer James Baldwin, artist Aaron Douglas, photographer Gordon Parks, diplomat Kofi Annan, comic book author Dwayne McDuffie, and musician Prince."
 
