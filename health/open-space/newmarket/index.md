@@ -28,137 +28,127 @@ Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &ra
 
 <tr>
 <td>
-17.07.19
+06.11.19
 </td>
 
 <td>
-Guest speaker: Luke from West Suffolk College
-</td>
-</tr>
-
-<tr>
-<td>
-24.07.19
-</td>
-
-<td>
-Making dream catchers/gods' eyes
+Remembrance Day crafts with Karen
 </td>
 </tr>
 
 <tr>
 <td>
-31.07.19
+13.11.19
 </td>
 
 <td>
-Bingo
-</td>
-</tr>
-
-<tr>
-<td>
-07.08.19
-</td>
-
-<td>
-Picnic at Severals Field / Mindfulness colouring at the library
+Talks from Leanne from Total Voice Suffolk & Nuala from Cocaine Anonymous
 </td>
 </tr>
 
 <tr>
 <td>
-14.08.19
+20.11.19
 </td>
 
 <td>
-Guest speaker: Hannah, local history expert
-</td>
-</tr>
-
-<tr>
-<td>
-21.08.19
-</td>
-
-<td>
-Making corner bookmarks
+Games/bingo
 </td>
 </tr>
 
 <tr>
 <td>
-28.08.19
+27.11.19
 </td>
 
 <td>
-Discussion with Sara from NSFT
-</td>
-</tr>
-
-<tr>
-<td>
-04.09.19
-</td>
-
-<td>
-Group general knowledge game
+Talk from Laura from Suffolk Carers Matter
 </td>
 </tr>
 
 <tr>
 <td>
-11.09.19
+04.12.19
 </td>
 
 <td>
-Mindfulness colouring
-</td>
-</tr>
-
-<tr>
-<td>
-18.09.19
-</td>
-
-<td>
-Board games & Pictionary
+Tea, biscuits and chat
 </td>
 </tr>
 
 <tr>
 <td>
-25.09.19
+11.12.19
 </td>
 
 <td>
-Discussion with Sara from NSFT
-</td>
-</tr>
-
-<tr>
-<td>
-02.10.19
-</td>
-
-<td>
-Making lentil canvases with Karen
+Christmas crafts with Karen
 </td>
 </tr>
 
 <tr>
 <td>
-09.10.19
+18.12.19
 </td>
 
 <td>
-Mindfulness colouring
+Christmas tea
 </td>
 </tr>
 
 <tr>
 <td>
-16.10.19
+25.12.19
+</td>
+
+<td>
+No session
+</td>
+</tr>
+
+<tr>
+<td>
+01.01.20
+</td>
+
+<td>
+No session
+</td>
+</tr>
+
+<tr>
+<td>
+08.01.20
+</td>
+
+<td>
+Tea, biscuits and chat
+</td>
+</tr>
+
+<tr>
+<td>
+15.01.20
+</td>
+
+<td>
+Record office visit/games
+</td>
+</tr>
+
+<tr>
+<td>
+22.01.20
+</td>
+
+<td>
+Mindfulness colouring/card games
+</td>
+</tr>
+
+<tr>
+<td>
+19.01.20
 </td>
 
 <td>
