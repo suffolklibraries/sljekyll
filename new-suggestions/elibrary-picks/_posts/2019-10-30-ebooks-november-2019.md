@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Recommended new eBooks for October 2019"
+title: "Recommended new eBooks for November 2019"
 date: 2019-10-30
 author: lisa-brennan
 category: elibrary-picks
