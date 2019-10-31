@@ -8,7 +8,7 @@ event-ticket-price: "20 (includes a copy of <cite>My Penguin Year</cite>); £10 
 breadcrumb: y
 ---
 
-Award-winning wildlife cameraman Lindsay McCrae has is the author of <cite>My Penguin Year</cite>, an extraordinary account of the time he spent alongside emperor penguins on Antarctica, filming for the BBC's <cite>Dynasties</cite> series. Lindsay spent a year 15,000km from home, where winter lasted eight months and no-one could get in or out of their station on the ice. 
+Award-winning wildlife cameraman Lindsay McCrae is the author of <cite>My Penguin Year</cite>, an extraordinary account of the time he spent alongside emperor penguins on Antarctica, filming for the BBC's <cite>Dynasties</cite> series. Lindsay spent a year 15,000km from home, where winter lasted eight months and no-one could get in or out of their station on the ice. 
 
 Join us for an illustrated talk where Lindsay will share the highs and lows of the experience and give further insight into the lives of these amazing birds.
 
