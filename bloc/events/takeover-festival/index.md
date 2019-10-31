@@ -17,7 +17,7 @@ layout: blank
 
             <div class="w-50-ns pr3-ns mb3">
 
-              <p class="f4 f3-ns">Live music and workshops for and by under-25s on Saturday 9 November. <a href="/news/youth-takeover-festival/">Find out more &rarr;</a></p>
+              <p class="f4 f3-ns">Live music and workshops for and by under-25s on Saturday 9 November. <a class="gold" href="/news/youth-takeover-festival/">Find out more &rarr;</a></p>
 
             </div>
 

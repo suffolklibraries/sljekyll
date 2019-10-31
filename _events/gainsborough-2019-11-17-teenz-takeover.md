@@ -5,7 +5,6 @@ location-text: Gainsborough Community Library
 event-start-date: 2019-11-17
 event-start-time: 1100
 event-end-time: 1600
-event-category: takeover-festival
 breadcrumb: y
 ---
 
