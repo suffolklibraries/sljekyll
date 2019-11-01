@@ -13,10 +13,13 @@ If you have written a novel, short story or poetry and you want people to read i
 
 What you need to provide:
 
-* A completed piece of work in ePub format (guide: [converting a Word doc to ePub](/events-activities/suffolk-writes/how-to-convert-a-word-document-to-epub/)) that you own the copyright to
+* **If you're submitting a novel:** the complete work in both Word and [ePub](/events-activities/suffolk-writes/how-to-convert-a-word-document-to-epub/) format
+* **If you're submitting a collection of short stories and/or poetry:** a separate Word document for each individual piece. We'll collate and convert them to ePub for you.
 * A brief synopsis or description of your work to appear on the library catalogue
 * Cover artwork, if available (again you must own the copyright) if you do not have a cover we will provide a Suffolk Libraries cover
 * [Suffolk Writes permissions form for contributors](/assets/doc/suffolk-writes-permissions-form-for-contributors.doc) (Word doc)
+
+**You must own the copyright to any work you submit**
 
 Suffolk Libraries will:
 
@@ -34,4 +37,4 @@ If you have written work to contribute or would be interested in being a volunte
 * [How to convert your document to ePub](/events-activities/suffolk-writes/how-to-convert-a-word-document-to-epub/)
 * [Suffolk Writes permissions form for contributors](/assets/doc/suffolk-writes-permissions-form-for-contributors.doc) (Word doc)
 
-You can find Suffolk Writes self published ebooks on [Overdrive](http://suffolklibraries.lib.overdrive.com).
+You can find Suffolk Writes self published ebooks on [Overdrive](https://suffolklibraries.overdrive.com/).
