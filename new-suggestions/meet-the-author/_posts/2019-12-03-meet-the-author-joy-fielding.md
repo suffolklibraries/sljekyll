@@ -12,19 +12,21 @@ breadcrumb: meet-the-author
 
 ![Joy Fielding](/images/featured/featured-joy-fielding.jpg)
 
-Joy Fielding is a Canadian novelist and bestselling author of [<cite>Someone is Watching</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2016586), [<cite>Now You See Her</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=520463) and [<cite>Still Life</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=520454), among other acclaimed novels. Her newest thriller, [<cite>All The Wrong Places</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2655476) is published by Zaffre on 12 December 2019 and is available to reserve from the library, or to buy as a paperback or eBook.
+Joy Fielding is a Canadian novelist and bestselling author of [<cite>Someone is Watching</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2016586), [<cite>Now You See Her</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=520463) and [<cite>Still Life</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=520454), among other acclaimed novels. Her newest thriller, [<cite>All The Wrong Places</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2655476), is published by Zaffre on 12 December 2019 and is available to reserve from the library, or to buy as a paperback or eBook.
 
 ## 1. Who were your literary heroes and influences as you were growing up?
 
-It's interesting but, as a young adult, I didn't do a lot of reading. Even as a child, I preferred making up my own stories. I remember a grade four teacher reading the class aloud from an adult book entitled, <cite>Linegan and the Ants</cite>, about man-eating ants in Africa, later made into a Hollywood movie called <cite>The Naked Jungle</cite>. She read a chapter to us a day, and it's always stuck with me.
+It's interesting but, as a young adult, I didn't do a lot of reading. Even as a child, I preferred making up my own stories. I remember a grade four teacher reading the class aloud from an adult book entitled <cite>Linegan and the Ants</cite>, about man-eating ants in Africa, later made into a Hollywood movie called <cite>The Naked Jungle</cite>. She read a chapter to us a day, and it's always stuck with me.
 
-As a teenager, I loved J.D. Salinger, and as a young adult, I adored Joan Didion. Today, I would say my favourite writers are Ann Patchett and Fredrik Backman. But my all-time favourite author is Philip Roth.
+As a teenager, I loved J. D. Salinger, and as a young adult, I adored Joan Didion. Today, I would say my favourite writers are Ann Patchett and Fredrik Backman. But my all-time favourite author is Philip Roth.
 
 ## 2. You are often described by your readers as an author who writes 'page-turners' that keep them reading all night. Is that a skill you developed through hard work and experience, or is it something that can be taught?
 
 I'm not sure how much is skill, hard work or just plain instinct. Certainly, there are elements of writing suspense that can be taught: pacing, threading in different story lines, how to build suspense, etc. And hard work never hurts. Also, reading good suspense or other page-turners, and analysing how these writers hold your interest and make you want to keep turning the pages.
 
 I think my background as an actress also helped. I know what makes a scene (or chapter) work. I know that the essence of drama is conflict. But action should spring from character. A writer should create real, believable characters whom the reader likes or identifies with, so that the reader cares about what happens to them. If a character isn't sympathetic, then they'd better be awfully interesting.
+
+<a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2655476"><img src="/images/featured/featured-all-the-wrong-places.jpg" alt="All The Wrong Places" class="mw-40 {% include /c/img-float-right.html %}" /></a>
 
 ## 3. Your latest book is <cite>All The Wrong Places</cite>. Can you give Suffolk readers a brief flavour of what to expect?
 
@@ -36,11 +38,9 @@ Actually, it wasn't difficult inhabiting the mind of a serial killer because ser
 
 As for unwinding after being inside their heads, you have to bear in mind that I'm creating these people and I know they're not real. I also know what's going to happen, so they don't really scare me. I take pretty good care of myself - mani-pedis, facial, massages. I also  go to movies, watch TV, and go in for significant retail therapy.
 
-<a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2655476"><img src="/images/featured/featured-all-the-wrong-places.jpg" alt="All The Wrong Places" class="mw-40 {% include /c/img-float-right.html %}" /></a>
-
 ## 5. Is there anything you can share about your next project?
 
-My next project - I'm halfway through - concerns five families who live on the same street. But I don't want to say anything more than that at the moment. Other than it's quite different than <cite>All The Wrong Places</cite>, and is definitely a page-turner.
+My next project - I'm halfway through - concerns five families who live on the same street. But I don't want to say anything more than that at the moment, other than it's quite different than <cite>All The Wrong Places</cite>, and is definitely a page-turner.
 
 ## 6. Have you ever read a book that changed your life or made you look at things differently?
 

@@ -12,7 +12,9 @@ breadcrumb: meet-the-author
 
 ![Amy Heydenrych](/images/featured/featured-amy-heydenrych.jpg)
 
-Amy Heydenrych is a writer and book blogger based in South Africa. She has been shortlisted twice for the acclaimed Miles Morland African Writing Scholarship. Her short stories and poems have published in multiple anthologies including <cite>Brittle Paper</cite>, <cite>The Kalahari Review</cite> and <cite>Short Sharp Stories</cite>. Her debut thriller, [<cite>Shame On You</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2397006), was published in the UK in January 2018. Her second novel, [<cite>The Pact</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2647172), is published by Zaffre on 28 November 2019, and is available to reserve from the library, or to buy as a paperback, eBook or audiobook for £7.99.
+Amy Heydenrych is a writer and book blogger based in South Africa. She has been shortlisted twice for the acclaimed Miles Morland African Writing Scholarship. Her short stories and poems have published in multiple anthologies including <cite>Brittle Paper</cite>, <cite>The Kalahari Review</cite> and <cite>Short Sharp Stories</cite>.
+
+Amy's debut thriller, [<cite>Shame On You</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2397006), was published in the UK in January 2018. Her second novel, [<cite>The Pact</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2647172), is published by Zaffre on 28 November 2019, and is available to reserve from the library, or to buy as a paperback, eBook or audiobook for £7.99.
 
 ## 1. Who were your literary heroes and influences as you were growing up?
 
@@ -28,13 +30,13 @@ When I first started writing <cite>Shame on You</cite>, I happened to be running
 
 As for Tyler – he was one of those characters who came to me fully formed!
 
-<a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2647172"><img src="/images/featured/featured-the-pact.jpg" alt="The Pact" class="mw-40 {% include /c/img-float-right.html %}" /></a>
-
 ## 4. Your latest book in the is <cite>The Pact</cite>. Can you tell us a little about it and your experience of writing it?
+
+<a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2647172"><img src="/images/featured/featured-the-pact.jpg" alt="The Pact" class="mw-40 {% include /c/img-float-right.html %}" /></a>
 
 <cite>The Pact</cite> is a story about what happens when office bullying is pushed to fever pitch. Freya, a promising young software engineer, begins her dream job at a hot new startup with an enigmatic CEO. She thrives in her new role, and starts dating one of the executives, Jay. However, another woman has dated Jay as well, and is intent on destroying her.
 
-Under the pressure of the incessant bullying, Freya cracks and plays a stupid prank on her bully. She thinks she has got away with it, until Nicole is found dead. It’s a story about the light and dark side of female relationships, and the challenges women face in the #metoo era.
+Under the pressure of the incessant bullying, Freya cracks and plays a stupid prank on her bully. She thinks she has got away with it, until Nicole is found dead. It’s a story about the light and dark side of female relationships, and the challenges women face in the #MeToo era.
 
 I loved writing the novel, because I included some deep personal elements of my own story in the creation of the narrative and the characters.
 
