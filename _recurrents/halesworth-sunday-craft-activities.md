@@ -1,10 +1,10 @@
 ---
 recurrent-title: "Craft activities: for primary school age children"
 recurrent-description: '<ul class="f6 ma0">
-                        <li>6 October - Silly squirrels</li>
-                        <li>13 October - Adorable acorns</li>
-                        <li>20 October - Apple day</li>
-                        <li>27 October - Halloween crafts</li>
+                        <li>10 November - Mushroom fairy houses</li>
+                        <li>17 November - Fantastic forest</li>
+                        <li>24 November - Batty beasts</li>
+                        <li>1 December - Advent wreath</li>
                         </ul>'
 recurrent-day: Sunday
 recurrent-times: 1200-1430
