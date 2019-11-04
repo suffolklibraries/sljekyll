@@ -17,6 +17,42 @@ meta-description: "Books to help children understand fostering and adoption, inc
 
 </div>
 
+## [<cite>Adoption</cite>, by Anita Ganeri & Ximena Jeria](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2449351)
+
+> "This hands-on picture book is designed to help children with their questions and feelings about tricky topics that can be hard to talk about. The exquisite and approachable illustrations give a comforting story book feel, particularly aimed at 5-7 year olds, while also appealing to both younger and older children."
+
+## [<cite>Daddy, Papa and Me</cite>, by Lesléa Newman & Carol Thompson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=405057)
+
+> "Rhythmic text and illustrations with universal appeal show a toddler spending the day with its daddies. From hide-and-seek to dress-up, then bath time and a kiss goodnight, there's no limit to what a loving family can do together."
+
+## [<cite>The Blanket Bears</cite>, by Samuel Langley-Swain & Ashlee Spink](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2690455)
+
+> "Written by an adoptive dad, <cite>The Blanket Bears</cite> sensitively and accurately outlines the adoption process from a child's perspective, helping young children to understand the concept of adoption."
+
+## [<cite>Morris and the Bundle of Worries</cite>, by Jill Seeney & Rachel Fuller](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1367389)
+
+> "Morris the mole has a secret. He has lots of worries - in fact, a big bundle of them. The worries fill up his bedroom which means he can't sleep. Morris doesn't know what to do. There are squiggly, wriggly worries, thorny, spiky ones, and even some TERRORS, which Morris is too scared to touch. The worries float around his head, and prick his paws, and make him shiver. He's scared to tell the other woodland animals about them.
+
+> "But one day, Morris finds a friend who can help him, and realises that problems are easier to deal with when you've got someone to talk to. Suddenly, the worries don't seem so frightening any more.
+
+> "A charming picture book for young children in a range of situations, <cite>Morris and the Bundle of Worries</cite> shows that talking about problems, and facing worries with the help of others is more helpful than hiding your fears."
+
+## [<cite>Dennis Duckling</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1728225), [<cite>Dennis and the Big Decisions</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=447650) and [<cite>Dennis Goes Home</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1621026), by Paul Sambrooks & Tommaso Levente Tani
+
+A trio of stories that follow Dennis and his sister as they leave their home to go into foster care, settle in, and eventually return to their birth parents.
+
+## [<cite>Chester and Daisy Move On</cite>, by Angela Lidster & Rachel Fuller](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1270772)
+
+> "This is a picture book for use with children who are moving on to adoption. It tells the story of two bear cubs who have to leave their parents and live with a foster bear family. The book's interactive text encourages children to compare their own experiences with those of the bears' and this helps to trigger discussions between children and adults going through the story with them."
+
+## [<cite>Elfa and the Box of Memories</cite>, by Michelle Bell & Rachel Fuller](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2699575)
+
+> "Elfa the elephant was in a bad mood. It was a hot day, and she was carrying a box on her back. It was really heavy and felt very uncomfortable. Elfa carried it on her back everywhere she went. She never took it off because she was scared of losing it. But even though it was a beautiful, shiny box, none of the other animals ever seemed to notice or ask what was inside... They didn't know that in it Elfa kept her most precious things - her memories."
+
+## [<cite>The Story of Tracy Beaker</cite>, by Jacqueline Wilson & Nick Sharratt](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=250484)
+
+> "Tracy is ten years old. She lives in a children's home but would like a real home one day, with a real family. Meet Tracy, follow her story and share her hopes for the future."
+
 ## [<cite>The Most Precious Present in the World</cite>, by Becky Edwards & Louise Comfort](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=397997)
 
 > "Taking the form of a dialogue between a little girl called Mia and her adoptive mother, this book explores questions that might preoccupy an adopted child. Mia wants to know why she looks different to her adoptive parents and why her birth parents didn't want to keep her."
@@ -33,10 +69,6 @@ Now we are a family."
 ## [<cite>The Nanny Goat's Kid</cite>, by Jeanne Willis & Tony Ross](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=606275)
 
 > "There was once a Nanny Goat who wanted kids more than anything in the world, but she couldn't have any of her own. Adopting seems like the perfect solution, but the kid she adopts is different to the others. In fact, he's a tiger cub! But the Nanny Goat doesn't care."
-
-## [<cite>We Are Fostering</cite>, by Jean Camis](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=659558)
-
-> "Based on the principles of life story work, this workbook will help birth children to know themselves, their history and their role in the family, and prepare them to welcome new arrivals into their homes and lives."
 
 ## [<cite>Tell Me Again About the Night I was Born</cite>, by Jamie Lee Curtis & Laura Cornell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1761547)
 
