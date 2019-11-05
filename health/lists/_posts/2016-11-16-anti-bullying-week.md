@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Bullying: recommended titles for children and young adults for Anti Bullying Week"
-date: 2018-11-13
+date: 2019-11-11
 author: jo-dixon-sophie-green
 category: health-lists
 excerpt: For Anti Bullying Week, we've put together a list of recommendations for children and young adults on the subject of bullying.
@@ -11,7 +11,7 @@ featured-image: /images/featured/featured-bullying-2018.jpg
 featured-alt: Something Else, How To Fly With Broken Wings, The Icarus Show
 ---
 
-*Created: 16 November 2016* | *Last updated: 13 November 2018*
+*Created: 16 November 2016* | *Last updated: 11 November 2019*
 
 ![Something Else, How To Fly With Broken Wings, The Icarus Show](/images/featured/featured-bullying-2018.jpg)
 
@@ -79,6 +79,32 @@ A super book about the harm caused by name calling, <cite>Secret Friends</cite> 
 
 ## Junior fiction
 
+### [<cite>The Boy at the Back of the Class</cite>, by Onjali Q. Rauf](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2394705)
+
+> "There used to be an empty chair at the back of my class, but now a new boy called Ahmet is sitting in it. He’s eight years old (just like me), but he’s very strange. He never talks and never smiles and doesn’t like sweets - not even lemon sherbets, which are my favourite!
+
+> "But the truth is, Ahmet really isn’t very strange at all. He’s a refugee who’s run away from a war. A real one. With bombs and fires and bullies that hurt people. And the more I find out about him, the more I want to be his friend. That’s where my best friends Josie, Michael and Tom come in. Because you see, together we’ve come up with a plan."
+
+### [<cite>Accidental Trouble Magnet</cite>, by Zanib Mian](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2538206)
+
+> "Welcome, readers, to the imaginative brain of Omar! You might not know me yet, but once you open the pages of this book you'll laugh so hard that snot will come out of your nose (plus you might meet a dragon and a zombie - what more could you want?).
+
+> "My parents decided it would be a good idea to move house AND move me to a new school at the same time. As if I didn't have a hard enough time staying out of trouble at home, now I've also got to try and make new friends. What's worse, the class bully seems to think I'm the perfect target.
+
+> "At least Eid's around the corner which means a feast (YAY) and presents (DOUBLE YAY). Well, as long as I can stay in Mum and Dad's good books long enough..."
+
+### [<cite>Cloud Busting</cite>, by Malorie Blackman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=250292)
+
+> "Sam doesn't want to be friends with Davey - in fact, he thinks he's a moron. But one day Davey saves Sam's life and an extraordinary friendship is formed, only to end in tragedy. This story is told in verse."
+
+### [<cite>The Tiger Rising</cite>, by Kate DiCamillo](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1581455)
+
+> "Rob's mum has recently died and with no-one to talk to he keeps his worries to himself. His life begins to change when he finds a caged tiger and decides to set it free."
+
+### [<cite>Girls at War</cite>, by Ann Turnbull](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2545021)
+
+> "When Josie goes to stay with her cousin Edith, she's glad to be starting a new life away from the shame that has haunted her family since her brother chose not to fight the war. But Edith's friends keep teasing a shy classmate, and when the bullying goes too far Josie faces a dilemma: if she takes a stand, will Edith tell everyone her secret?"
+
 ### [<cite>There's a Boy in the Girls' Bathroom</cite>, by Louis Sachar](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1881401)
 
 > "Bradley Chalkers is a bad lot! He lies, he gets into fights, no one wants to be his friend and he is all alone. Until, that is, he meets the delightful new school counsellor, Carla, and she persuades Bradley that he can change."
@@ -143,6 +169,30 @@ A super book about the harm caused by name calling, <cite>Secret Friends</cite> 
 
 ## Young Adult
 
+### [<cite>Face</cite>, by Benjamin Zephaniah](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2304223)
+
+> "In his debut novel, poet Benjamin Zephaniah tackles the moving story of a young man, Martin, whose life is completely changed when his face is badly scarred in a joyriding accident."
+
+### [<cite>The Chaos of Now</cite>, by Erin Lange](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2442258)
+
+> "When Jordan Bishop set himself on fire at Haver High school as a result of internet bullying, it triggered a nationwide crackdown. New laws empower teachers to become cyber snoops in case of abuse on social media. For teen hacker, Eli Bennett, the laws put fundamental freedoms at risk. And he's not alone in thinking this.
+
+> "Approached by two mysterious hackers, Eli is recruited into a group that wants justice for Jordan the way Jordan would've wanted it. But what starts as a bit of fun to rile the cyber snoops soon spirals out of control. Revenge on Jordan's bullies could be classed as bullying itself. At best, Eli's school career is in jeopardy, at worst, once more lives are at risk."
+
+### [<cite>The Teenage Guide to Friends</cite>, by Nicola Morgan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2137733)
+
+> "Essential reading for teenagers and the adults who care about them. Contents include a section on making friends, keeping friendships strong, and what happens when they break down - as well as a look at online friendships, cyber-bullying, toxic friendships and frenemies, and empathy. There is also a section on personality types - introverts and extroverts - and quizzes to help you discover what sort of person you are, how you relate to others and how to deal with difficult situations."
+
+### [<cite>Open Your Heart: learn to love your life and love yourself</cite>, by Gemma Cairney & Aurelia Lange](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2305957)
+
+> "Full of honest and practical advice from The Surgery agony aunt Gemma Cairney and a whole host of trained professionals and real people, <cite>Open Your Heart</cite> is a best friend in a book. From heartbreak and heartache to body image and everything in between, it will help you learn to love your body, your friends and your family, and tell you what to do if things go wrong."
+
+### [<cite>All I Know Now: wonderings and reflections on growing up gracefully</cite>, by Carrie Hope Fletcher](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1738097)
+
+> "We all know that growing up is hard to do, and sometimes the only thing that makes it better are the reassuring words of someone who has walked that bumpy road just a few steps ahead of you and somehow ended up as a fully-functioning adult. Thanks to her phenomenally popular YouTube videos, Carrie Hope Fletcher has become an 'honourary big sister' to hundreds of thousands of young people who turn to her for advice, friendship and, most of all, the knowledge that things will get better.
+
+> "Part memoir, part advice guide, this book includes Carrie's thoughts on some of the topics she's asked about most regularly: bullying, body image, relationships and perhaps the scariest question of all: what does the future hold for me?"
+
 ### [<cite>Thornhill</cite>, by Pam Smy](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2183579)
 
 > "As she unpacks in her new bedroom, Ella is irresistibly drawn to the big old house that she can see out of her window. Surrounded by overgrown gardens, barbed wire fences and 'keep out' signs. It looks derelict.
@@ -155,7 +205,7 @@ This is a dark tale, highly illustrated and an affecting portrayal of bullying a
 
 > "Armed with a suitcase and an old laundry bag filled with clothes, Kasienka and her mother leave Poland and head for the UK to find her father. Life is lonely for Kasienka. At home her mother's heart is breaking and at school Kasienka finds it impossible to make new friends."
 
-### [<cite>7 Days</cite>, by Eve Ainsworth](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1712146)
+### [<cite>7 Days</cite>, by Eve Ainsworth](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2289600)
 
 > "School should be a safe place for Jess, a refuge from her difficult home life - but thanks to Kez and her friends, it's everything she dreads.
 

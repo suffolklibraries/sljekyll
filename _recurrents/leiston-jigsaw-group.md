@@ -1,7 +1,7 @@
 ---
 recurrent-title: "Jigsaw puzzle group"
 recurrent-description: "Add some pieces to our jigsaw puzzle while chatting and relaxing with others."
-recurrent-day: Tuesdays from 12 November
+recurrent-day: Tuesday
 recurrent-times: 1030-1200
 recurrent-location: leiston-library
 recurrent-location-display-name: Leiston Library

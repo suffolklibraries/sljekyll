@@ -46,10 +46,6 @@ The first in-depth biography of the comic who died in 2018.
 
 > "This is the story of the game of battleships that won the Second World War. In 1941 Prime Minster Winston Churchill gathered a group of unlikely heroes - a retired naval captain and eight brilliant young women, the youngest only seventeen years-old - to form a secret strategy unit. On the top floor of a ramshackle HQ in Liverpool, the Western Approaches Tactical Unit spent day and night playing war games to crack the U-boat tactics."
 
-## [<cite>Vinyl Countdown</cite>, by Graham Sharpe](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2638276)
-
-> "Graham Sharpe's life has been played out to a background of personally significant vinyl-related events, and his own large and ever-growing collection of LPs not only reflects his musical addiction, but also represents an intensely direct link to many of his key experiences. In this book, he considers all the elements of record collecting which he loves - and one or two he doesn't - as he continues his long-term project to visit every surviving second hand record shop in his own and other countries, and reports on the many characters he has encountered, and the adventures he has accrued along the way."
-
 ## [<cite>The Power in You: how to accept your past, live in the present and shape a positive future</cite>, by Henry Fraser](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2607136)
 
 The inspirational young author of [<cite>The Little Big Things</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2197916), which has been read by many Suffolk book groups, returns with his new title.
