@@ -5,12 +5,12 @@ date: 2019-11-18
 author: sophie-green
 category: childrens-ya-books
 excerpt: "Tuesday 19 November is International Men's Day 2019. Introduce your children to inspiring role models with some of our favourite biographies of boys and men."
-featured-image: /images/featured/featured-international-mens-day-2019.jpg
+featured-image: /images/featured/featured-childrens-international-mens-day-2019.jpg
 featured-alt: "Tough Guys (have feelings too), Little People, Big Dreams: David Bowie, Boys Who Made a Difference"
 breadcrumb: childrens-ya-books
 ---
 
-![Tough Guys (have feelings too), Little People, Big Dreams: David Bowie, Boys Who Made a Difference](/images/featured/featured-international-mens-day-2019.jpg)
+![Tough Guys (have feelings too), Little People, Big Dreams: David Bowie, Boys Who Made a Difference](/images/featured/featured-childrens-international-mens-day-2019.jpg)
 
 Tuesday 19 November is International Men's Day 2019. Introduce your children to inspiring role models with some of our favourite biographies of boys and men.
 
