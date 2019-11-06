@@ -27,9 +27,9 @@ A bequest of a typical family library of a 19th century gentleman, namely George
   * **Material included:** Serials (e.g. journals), books
   * **Location:** [Bury Record Office](http://www.suffolkarchives.co.uk/planning-your-visit/suffolk-record-office-branches/bury-st-edmunds-branch/)
 
-## Edward Fitzgerald collection
+## Edward FitzGerald collection
 
-Covers most of Fitzgerald&#8217;s publications, including translations from foreign languages.
+Covers most of FitzGerald&#8217;s publications, including translations from foreign languages.
 
   * **Dates covered:** 1809 &#8211; 1880
   * **Material included:** Cuttings, ephemera (e.g. posters), books
