@@ -2,7 +2,7 @@
 name: "Meet the Author: Harry Sidebottom"
 location: glemsford-library
 location-text: Glemsford Library
-event-start-date: 2019-11-19
+event-start-date: 2019-11-18
 event-start-time: 1430
 event-ticket-price: 3
 breadcrumb: y
