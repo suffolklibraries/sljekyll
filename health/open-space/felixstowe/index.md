@@ -28,81 +28,81 @@ Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &ra
 
 <tr>
 <td>
-12.09.19
+14.07.19
 </td>
 
 <td>
-Visit: Jon Neal, CEO of Suffolk Mind
-</td>
-</tr>
-
-<tr>
-<td>
-19.09.19
-</td>
-
-<td>
-Board games
+Discussion and craft: How do we deal with the clock change?
 </td>
 </tr>
 
 <tr>
 <td>
-26.09.19
+21.11.19
 </td>
 
 <td>
-Picture quiz
-</td>
-</tr>
-
-<tr>
-<td>
-03.10.19
-</td>
-
-<td>
-Visit: Tina from Suffolk User Forum introduces the Stay Alive app
+Online resources for mental health and wellbeing (TBC); board games
 </td>
 </tr>
 
 <tr>
 <td>
-10.10.19
+28.11.19
 </td>
 
 <td>
-Visit: Total Voice Advocacy (TBC)
-</td>
-</tr>
-
-<tr>
-<td>
-17.10.19
-</td>
-
-<td>
-Find out about W. R. A. P. - Wellness Recovery Action Plan
+Vision boarding with Lara
 </td>
 </tr>
 
 <tr>
 <td>
-24.10.19
+05.12.19
 </td>
 
 <td>
-Visit: Sarah Lungley from Suffolk Libraries discusses online resources
+Discussion: Why do people find the festive season difficult?
 </td>
 </tr>
 
 <tr>
 <td>
-31.10.19
+12.12.19
 </td>
 
 <td>
-Craft: Halloween lanterns
+Angels workshop
+</td>
+</tr>
+
+<tr>
+<td>
+19.12.19
+</td>
+
+<td>
+Christmas quiz
+</td>
+</tr>
+
+<tr>
+<td>
+02.01.20
+</td>
+
+<td>
+Discussion: Experiencing the post-Christmas/new year 'dip'
+</td>
+</tr>
+
+<tr>
+<td>
+09.01.20
+</td>
+
+<td>
+Welcome to Open Space
 </td>
 </tr>
 </table>
