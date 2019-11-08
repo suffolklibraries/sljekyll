@@ -6,6 +6,14 @@ breadcrumb: home
 
 <article class="ph2 ph3-ns pv3 pv4-l bg-white">
 
+<div class="{% include /c/generic-panel.html %}">
+
+		<p>Our in-person website testing sessions at Ipswich County Library are now full, but you can still sign up for our online survey below for the chance to win a prize.</p>
+
+		<p>If you've already signed up for the in-person sessions, you should have received an email from us asking for your details and availability. We will send out invitations and further information early next week.</p>
+
+</div>
+
 		<h1 class="custom-lh-title f2 pa0 ma0 mb3">Website testing</h1>
 
     <div class="measure">
