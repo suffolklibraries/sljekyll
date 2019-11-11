@@ -48,6 +48,7 @@ Our volunteer opportunities centre around reading, information, learning and ski
 - [Lego support volunteer](/assets/pdf/lego-support-volunteer-role-profile.pdf) (PDF)
 - [Code Club volunteer](/assets/pdf/code-club-volunteer-role-profile.pdf) (PDF)
 - [Macmillan Cancer Support group lead volunteer](/assets/pdf/macmillan-role-profile.pdf) (PDF)
+- [Friends group secretary](/assets/pdf/friends-group-secretary-volunteer-role-profile.pdf) (PDF)
 - [Friends group treasurer volunteer](/assets/pdf/friends-group-treasurer-volunteer-role-profile.pdf) (PDF)
 
 Some libraries offer volunteering opportunities that can help you get back on your feet and feel part of your community again after a period of ill health. We will always try to accommodate any disabilities you may have.
