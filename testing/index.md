@@ -6,27 +6,13 @@ breadcrumb: home
 
 <article class="ph2 ph3-ns pv3 pv4-l bg-white">
 
-<div class="{% include /c/generic-panel.html %}">
-
-		<p>Our in-person website testing sessions at Ipswich County Library are now full, but you can still sign up for our online survey below for the chance to win a prize.</p>
-
-		<p>If you've already signed up for the in-person sessions, you should have received an email from us asking for your details and availability. We will send out invitations and further information early next week.</p>
-
-</div>
-
 		<h1 class="custom-lh-title f2 pa0 ma0 mb3">Website testing</h1>
 
     <div class="measure">
 
-			<p>Help us make our website easier to use.</p>
+			<p>We’ve closed website testing for the time being. Thanks to everyone who offered to help.</p>
 
-			<p>We’re looking for people to complete an online exercise. It takes about 20 minutes to complete and can be done from anywhere.</p>
-
-			<p>We’ll enter everyone who completes the exercise into a draw for a £30 gift voucher.</p>
-
-			<p>If you’re interested send us your details:</p>
-
-			<form class="pb4" netlify name="online-testing" action="/testing/confirmation/" netlify-honeypot="bot-field">
+			<!-- <form class="pb4" netlify name="online-testing" action="/testing/confirmation/" netlify-honeypot="bot-field">
 
 				<p class="mb0">All fields marked <span class="red">*</span> are compulsory.</p>
 
@@ -40,7 +26,7 @@ breadcrumb: home
 
 				<p class="mt0 custom-lh-title"><small>We won’t share your details with anyone else. We will only contact you about website testing.</small></p>
 
-			</form>
+			</form> -->
 
 		</div>
 
