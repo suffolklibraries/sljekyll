@@ -10,9 +10,13 @@ breadcrumb: home
 
     <div class="measure">
 
-			<p>We’ve closed website testing for the time being. Thanks to everyone who offered to help.</p>
+			<p>We periodically test our website and apps with users.</p>
 
-			<!-- <form class="pb4" netlify name="online-testing" action="/testing/confirmation/" netlify-honeypot="bot-field">
+			<p>Testing can take the form of an online exercise or an activity in a library. We normally enter online participants into a prize draw and offer a small payment plus reasonable travel expenses to testers who come to a library.</p>
+
+			<p>If you’re happy to take part in future testing complete this form:</p>
+
+			<form class="pb4" netlify name="future-testing" action="/testing/confirmation/" netlify-honeypot="bot-field">
 
 				<p class="mb0">All fields marked <span class="red">*</span> are compulsory.</p>
 
@@ -26,7 +30,7 @@ breadcrumb: home
 
 				<p class="mt0 custom-lh-title"><small>We won’t share your details with anyone else. We will only contact you about website testing.</small></p>
 
-			</form> -->
+			</form>
 
 		</div>
 

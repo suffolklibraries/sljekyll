@@ -10,7 +10,7 @@ breadcrumb: home
 
 		<h1 class="custom-lh-title f2 pa0 ma0 mb3">Thanks for your enquiry</h1>
 
-		<p>Thanks for contacting us about our website testing. We’ll be in touch as soon as possible. If you have any questions email help@suffolklibraries.co.uk or call 01473 351249.</p>
+		<p>Thanks for contacting us about our website testing. We’ll be in touch. If you have any questions email help@suffolklibraries.co.uk or call 01473 351249.</p>
 
   </div>
 
