@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "The Liars by Jennifer Mathieu"
-date: 2019-11-13
+date: 2019-11-14
 author: amy-rush-da-silva
 category: young-adult
 excerpt: "<cite>The Liars</cite> is a brilliant, addictive read full of secrets, shocks and deception."
@@ -27,6 +27,8 @@ genre-alt: "The Liars"
 
 The story itself had me gripped and often second-guessing what was going to happen. The twists and turns throughout the book had me gasping as I found myself being caught up in this tale full of lies and deceit. At times I found it hard to physically put the book down.
 
-The story is told through the viewpoints of Elena, Joaquin and their mother, Caridad. This meant that you really get under the skin of each of them, and I lapped this up. Each viewpoint was unique, and each character's voice was so distinctive. However, I think I enjoyed Caridad’s chapters the best, as we got to read first-hand what her life was like before having the children, and when they were babies. Her character was complex and through her chapters you really came to understand where all her problems stemmed from.
+The story is told through the viewpoints of Elena, Joaquin and their mother, Caridad. This meant that you really get under the skin of each of them, and I lapped this up. Each viewpoint was unique, and each character's voice was so distinctive. 
+
+However, I think I enjoyed Caridad’s chapters the best, as we got to read first-hand what her life was like before having the children, and when they were babies. Her character was complex and through her chapters you really came to understand where all her problems stemmed from.
 
 <cite>The Liars</cite> is a brilliant, addictive read full of secrets, shocks and deception that will shake you to your core.
