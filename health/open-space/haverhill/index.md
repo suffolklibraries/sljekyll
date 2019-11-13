@@ -28,51 +28,11 @@ Running order: tea/coffee &rarr; informal discussion topic or activity &rarr; te
 
 <tr>
 <td>
-18.10.19
-</td>
-
-<td>
-Mask making
-</td>
-</tr>
-
-<tr>
-<td>
-25.10.19
-</td>
-
-<td>
-Chocolate apple making
-</td>
-</tr>
-
-<tr>
-<td>
-01.11.19
-</td>
-
-<td>
-Fruity fireworks and pumpkin carving
-</td>
-</tr>
-
-<tr>
-<td>
-08.11.19
-</td>
-
-<td>
-Making glitter bottles
-</td>
-</tr>
-
-<tr>
-<td>
 15.11.19
 </td>
 
 <td>
-Making mosaic art
+Visit from Roisin Moyles from the Trussell Trust: what community services would you like to see in Haverhill?
 </td>
 </tr>
 
