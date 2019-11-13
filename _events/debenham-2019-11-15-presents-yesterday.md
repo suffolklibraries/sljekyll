@@ -3,7 +3,7 @@ name: "Suffolk Libraries Presents: <cite>Yesterday</cite>"
 location: debenham-library
 location-text: Debenham Library
 excerpt: "Filmed in Ramsholt, Gorleston, Lowestoft, Clacton and elsewhere, Danny Boyle joins celebrated screenwriter Richard Curtis for a new comedy starring Lily James, Himesh Patel and Kate McKinnon."
-event-start-date: 2019-11-13
+event-start-date: 2019-11-15
 event-doors-open: 1900
 event-start-time: 1930
 event-ticket-price: 5
