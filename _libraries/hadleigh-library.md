@@ -32,4 +32,5 @@ branch-room-hire: /libraries/room-hire/hadleigh-library
 breadcrumb: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, Lego Club, older people's activities."
 branch-for-sale: '<a href="https://www.cardsforcharity.co.uk/">Cards for Good Causes</a>, greetings cards for various occasions'
+branch-news: Hadleigh Library is currently closed due to flooding.
 ---
