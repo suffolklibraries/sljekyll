@@ -18,4 +18,5 @@ branch-news: '<ul>
 breadcrumb: y
 branch-local: y
 meta-description: "Books, CDs, DVDs, free computer access, children's activities, older people's activities."
+branch-news: There will be no session at Shotley on Monday 2 December.
 ---
