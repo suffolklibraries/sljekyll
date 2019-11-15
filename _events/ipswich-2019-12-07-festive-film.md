@@ -7,6 +7,7 @@ event-start-time: 1430
 event-end-time: 1700
 event-ticket-price: 4
 event-ticket-url: https://www.eventbrite.co.uk/e/festive-film-fun-nativity-tickets-81525540085
+event-category: festive-film
 breadcrumb: y
 ---
 
