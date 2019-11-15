@@ -22,7 +22,7 @@ breadcrumb: non-fiction
 
 ## [<cite>Lose Weight & Get Fit: 100 high-flavour recipes for dieting and fitness</cite>, by Tom Kerridge](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2654552)
 
-Tom Kerridge tends to release his books in December to catch the 'new year, new you' wave in January. This year is no exception.
+Tom Kerridge tends to release his books in December to catch the 'New Year, New You' wave in January. This year is no exception.
 
 > "As a Michelin-starred chef with personal experience of dieting, Tom Kerridge knows that cooking good food is the first step on the road to both weight-loss and better performance. In <cite>Lose Weight & Get Fit</cite> he shows how you can eat well, shed the pounds and kick-start a more active lifestyle."
 
