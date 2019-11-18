@@ -17,6 +17,14 @@ meta-description: "Positive books to help your child deal with separation and di
 
 </div>
 
+## [<cite>Luna Loves Library Day</cite>, by Joseph Coelho & Fiona Lumbers](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2258021)
+
+> "Luna loves library day: that's the day she spends with her dad. Exploring the shelves they find magic, mystery and even start to mend their own history."
+
+## [<cite>Dealing with my Parents' Divorce</cite>, by Jane Lacey & Venitia Dean](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2488861)
+
+> "Sometimes you can sort out a problem on your own. But sometimes you need to ask for help. This book helps young children to make this decision and find out about and understand what's happening when their parents divorce or separate. It features eight case studies from children who have a range of issues from a girl who is angry with her parents to a boy who is worried about what will happen next. "
+
 ## [<cite>My Family's Changing: a first look at family break-up</cite>, by Pat Thomas & Lesley Harker](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1630593)
 
 > "Using beautiful but realistic artwork, Pat Thomas and Lesley Harker take the extremely sensitive and often painful subject of divorce and explain the facts, gently but seriously, for the very youngest of readers."
@@ -81,7 +89,7 @@ meta-description: "Positive books to help your child deal with separation and di
 
 > "This charming picture book for younger children portrays a day in the life of a dad and daughter in a single-parent home, as they get up, have breakfast, go to school, go swimming, make dinner and prepare for bedtime. Dad is a great big bear, a silly monkey, a crocodile, an octopus and, at bedtime, a scary monster for a little while - but in the end it's Daddy being Daddy that the little girl loves best."
 
-## [<cite>All About Families</cite>, by Felicity Brooks & Mar Ferrero](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2395460)
+## [<cite>All About Families</cite>, by Felicity Brooks & Mar Ferrero](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2367731)
 
 > "Families come in all shapes and sizes and from all sorts of backgrounds. They speak various languages, eat different sorts of food, live in different kinds of homes and celebrate special occasions in a variety of ways. This book lets children explore questions such as 'What is a family?', 'What different sorts of families are there?' and more."
 
