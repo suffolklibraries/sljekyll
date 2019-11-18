@@ -7,4 +7,5 @@ recurrent-location: oulton-broad-library
 recurrent-location-display-name: Oulton Broad Library
 recurrent-location-display-url: /branches/oulton-broad-library/
 recurrent-category: ["children", "pre-school"]
+recurrent-bookstart: y
 ---

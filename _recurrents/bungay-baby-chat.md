@@ -7,4 +7,5 @@ recurrent-location: bungay-community-library
 recurrent-location-display-name: Bungay Community Library
 recurrent-location-display-url: /branches/bungay-library/
 recurrent-category: ["children", "pre-school"]
+recurrent-bookstart: y
 ---

@@ -7,4 +7,5 @@ recurrent-location: rushmere
 recurrent-location-display-name: Rushmere (Suffolk Libraries Local)
 recurrent-location-display-url: /branches/rushmere/
 recurrent-category: ["children", "pre-school"]
+recurrent-bookstart: y
 ---

@@ -1,8 +1,6 @@
 ---
 recurrent-title: "Craft activities: for primary school age children"
 recurrent-description: '<ul class="f6 ma0">
-                        <li>10 November - Mushroom fairy houses</li>
-                        <li>17 November - Fantastic forest</li>
                         <li>24 November - Batty beasts</li>
                         <li>1 December - Advent wreath</li>
                         </ul>'

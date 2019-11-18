@@ -7,4 +7,5 @@ recurrent-location: stradbroke-library
 recurrent-location-display-name: Stradbroke Library
 recurrent-location-display-url: /branches/stradbroke-library/
 recurrent-category: ["children", "pre-school"]
+recurrent-bookstart: y
 ---

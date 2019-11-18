@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Bookstart"
+recurrent-title: "Baby Bounce and Tot Rock"
 recurrent-description: "Stories and rhymes for pre-school children."
 recurrent-day: Friday
 recurrent-times: 0900-0930
