@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Singing and stay & play"
+recurrent-title: "Baby Bounce & Tot Rock"
 recurrent-day: Friday
 recurrent-times: 1000-1100
 recurrent-location: gainsborough-community-library
