@@ -6,5 +6,5 @@ recurrent-times: 1515-1545
 recurrent-location: clare-library
 recurrent-location-display-name: Clare Library
 recurrent-location-display-url: /branches/clare-library/
-recurrent-category: ["children", "pre-school" "primary"]
+recurrent-category: ["children", "pre-school", "primary"]
 ---
