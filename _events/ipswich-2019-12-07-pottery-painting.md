@@ -13,4 +13,4 @@ Children are invited to paint a range of pottery and wooden items for Christmas 
 
 Under 8s must be accompanied by an adult; older children must be able to provide a contact number.
 
-Booking is recommended - contact Claire on [07919204342](tel:07919204342), **artypants@outlook.com**, [Facebook](https://www.facebook.com/artypants/) or [Twitter](https://www.twitter.com/artypants) for more information and to book.
+Booking is recommended - contact Claire on [07919204342](tel:07919204342), **artypants@outlook.com**, [Facebook](https://www.facebook.com/artypants6/) or [Twitter](https://twitter.com/artypants6) for more information and to book.
