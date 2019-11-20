@@ -19,7 +19,7 @@ What you need to provide:
 * Cover artwork, if available (again you must own the copyright) if you do not have a cover we will provide a Suffolk Libraries cover
 * [Suffolk Writes permissions form for contributors](/assets/doc/suffolk-writes-permissions-form-for-contributors.doc) (Word doc)
 
-**You must own the copyright to any work you submit**
+**You must own the copyright to any work you submit. We are unable to accept non-fiction submissions.**
 
 Suffolk Libraries will:
 

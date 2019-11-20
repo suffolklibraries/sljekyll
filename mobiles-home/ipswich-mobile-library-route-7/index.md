@@ -187,7 +187,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="148">
-      Lay-by
+      Old Griffin
     </td>
 
     <td valign="bottom" width="110">
