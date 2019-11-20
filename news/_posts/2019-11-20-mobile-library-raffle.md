@@ -2,7 +2,7 @@
 layout: sidebar-right
 title: "Lucky winners of Suffolk Libraries mobile library raffle announced"
 date: 2019-11-20
-author: james-powell
+author: matt-shenton
 category: news
 excerpt: "We have now drawn the raffle we held on our mobile libraries as part of Suffolk Libraries Day 2019, with ten customers winning prizes."
 breadcrumb: news
@@ -26,4 +26,4 @@ All prize winners have now been identified, and mobile library drivers will be d
 
 We would like to thank everyone who supported the raffle which raised £416.10 for Suffolk Libraries after costs were deducted. A lottery return has been submitted to Ipswich Borough Council.
 
-We would also like to thank [Hughes Electrical](https://www.hughes.co.uk/), [East of England Co-op](https://www.eastofengland.coop/), [Adnams](https://www.adnams.co.uk/) and [Stokes Sauces](http://www.stokessauces.co.uk/) for donating some wonderful prizes. 
+We would also like to thank [Hughes Electrical](https://www.hughes.co.uk/), [East of England Co-op](https://www.eastofengland.coop/), [Adnams](https://www.adnams.co.uk/) and [Stokes Sauces](http://www.stokessauces.co.uk/) for donating some wonderful prizes.
