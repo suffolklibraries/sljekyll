@@ -629,7 +629,7 @@ pad-content: true
             12pm - 12:30pm (0.5 hours)
           </td>
           <td class="pa2 ba b--moon-gray">
-            Felix Vintage Coaches - Coach
+            Felix of Long Melford - Coach
           </td>
         </tr>
         <tr>
