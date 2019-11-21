@@ -24,7 +24,7 @@ lightbox: true
   color="white"
   layout-reverse="true"
   title="The Wolsey Room"
-  text="Large room with seating and tables for up to 60 in various formats. Air conditioning and 84 inch presentation screen. Refreshments included in booking."
+  text="Large room with seating and tables for up to 60 in various formats. Air conditioning and 84 inch presentation screen. <br>£110 for a half-day, £200 for a whole day. Refreshments included in booking."
 %}
 
 <div class="pb4 custom-bg-corporate-green white flex-ns flex-wrap-ns">
@@ -62,7 +62,7 @@ lightbox: true
   bg-color="bg-near-white"
   color="dark-gray"
   title="The Chaucer Room"
-  text="Room with seating and tables for up to 20 people. Air conditioning and large presentation screen."
+  text="Room with seating and tables for up to 20 people. Air conditioning and large presentation screen. <br>£15 per hour, refreshments available for an additional cost of £1.50 per person."
 %}
 
 {%
@@ -73,7 +73,7 @@ lightbox: true
   color="white"
   layout-reverse="true"
   title="The Cromwell Room"
-  text="Room with seating and tables for up to 15 people. Conference call facilities. Air conditioning and movable 55 inch presentation screen."
+  text="Room with seating and tables for up to 15 people. Conference call facilities. Air conditioning and movable 55 inch presentation screen. <br>£12 per hour, refreshments available for an additional cost of £1.50 per person."
 %}
 
 <div class="pv3 bg-near-white">
