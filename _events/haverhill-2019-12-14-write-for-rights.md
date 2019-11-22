@@ -4,7 +4,7 @@ location: haverhill-library
 location-text: Haverhill Library
 event-start-date: 2019-12-14
 event-start-time: 1100
-event-end-time: 1400
+event-end-time: 1500
 breadcrumb: y
 ---
 
