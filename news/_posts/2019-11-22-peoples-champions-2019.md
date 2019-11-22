@@ -4,7 +4,7 @@ title: "Suffolk Libraries rewards volunteer champions"
 date: 2019-11-22
 author: james-powell
 category: news
-excerpt: "On Wednesday 20 November, Suffolk Libraries held its first ever 'People's Champions Awards' to acknowledge the efforts of volunteers for their vital contribution to the county’s library service."
+excerpt: "On Wednesday 20 November, Suffolk Libraries held its first ever 'People's Champions Awards' to recognise volunteers' vital contribution to the county’s library service"
 breadcrumb: news
 featured-image: /images/featured/featured-peoples-champions-2019.jpg
 featured-alt: "Volunteer Engagement Manager Diane Moore with award winners Emma Fakes, Chloe Peck, Monica Ford, Charlotte Evans, Liz Ditton, Maggie Lusher (receiving the award on behalf of Gemma Southwood) and Mandy Grimwood"
@@ -12,7 +12,7 @@ featured-alt: "Volunteer Engagement Manager Diane Moore with award winners Emma 
 
 {% include /c/figure.html alt="Volunteer Engagement Manager Diane Moore with award winners Emma Fakes, Chloe Peck, Monica Ford, Charlotte Evans, Liz Ditton, Maggie Lusher (receiving the award on behalf of Gemma Southwood) and Mandy Grimwood" src="/images/featured/featured-peoples-champions-2019.jpg" caption="L-R: Volunteer Engagement Manager Diane Moore with award winners Emma Fakes, Chloe Peck, Monica Ford, Charlotte Evans, Liz Ditton, Maggie Lusher (receiving the award on behalf of Gemma Southwood) and Mandy Grimwood. Image &copy; Jack Spence" %}
 
-On Wednesday 20 November, Suffolk Libraries held its first ever 'People's Champions Awards' to acknowledge the efforts of volunteers for their vital contribution to the county’s library service.
+On Wednesday 20 November, Suffolk Libraries held its first ever 'People's Champions Awards' torecognise volunteers' vital contribution to the county’s library service.
 
 The seven category winners were:
 
