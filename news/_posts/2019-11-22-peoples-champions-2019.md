@@ -32,6 +32,8 @@ Bruce Leeke, CEO of Suffolk Libraries, said: "We’re incredibly lucky to have a
 
 [Winner of the Dedicated Volunteer award, Monica Ford, recently retired after an amazing 32 years of being a Home Library Service volunteer at Broomhill Library](/news/hls-volunteer-monica-ford-retires/). She said of her volunteer experience: "I learned to be a bit more tolerant and understanding of people. It’s been enjoyable and I would recommend it, it’s just a nice thing to do."
 
-1,170 volunteers make a contribution to our libraries in their own time, supporting staff in various ways including participating in community or friends groups, running the Home Library Service and helping with the Summer Reading Challenge. Volunteers completed 4,771 days of volunteering or work experience last year. Volunteer awards have formed part of Suffolk Libraries’ AGM for the past few years, but this is the first year a special celebration event has taken place.
+1,170 volunteers make a contribution to our libraries in their own time, supporting staff in various ways including participating in community or friends groups, running the Home Library Service and helping with the Summer Reading Challenge.
+
+Volunteers completed 4,771 days of volunteering or work experience last year. Volunteer awards have formed part of Suffolk Libraries’ AGM for the past few years, but this is the first year a special celebration event has taken place.
 
 The awards were presented by Freddie Gathorne-Hardy, CEO of Christie's Care; County Councillor Paul West; David Sheepshanks CBE, former chairman of Ipswich Town Football Club, Sylvia Knights, Suffolk Libraries Board Member and member of Bungay Library Friends Group; Bruce Leeke, CEO of Suffolk Libraries; Jenni Carberry, Enterprise and Business Development Manager at the University of Suffolk and Corrina Hanley, Volunteer Manager at Suffolk Mind.
