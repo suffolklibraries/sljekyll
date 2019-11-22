@@ -1,7 +1,7 @@
 ---
 name: "Meet the Author: Pauline Manders"
-location: woodbridge-library
-location-text: Woodbridge Library
+location: hadleigh-library
+location-text: Hadleigh Library
 event-start-date: 2019-11-29
 event-start-time: 0930
 breadcrumb: y
