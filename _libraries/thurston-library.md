@@ -31,4 +31,5 @@ branch-faxing: y
 branch-borrowing-ereaders-and-ipads: an eReader
 breadcrumb: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, Lego Club, Code Club, older people's activities, family history group."
+branch-news: "Thurston Library will be closed on Saturday 23 November."
 ---
