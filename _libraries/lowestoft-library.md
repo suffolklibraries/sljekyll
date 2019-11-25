@@ -41,5 +41,4 @@ branch-other-facilities: '<ul>
                           </ul>'
 branch-pride-and-periods: y
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, Lego Club, older people's activities, health & wellbeing groups, free sanitary products."
-branch-news: Lowestoft Library is closing at 1pm on Sunday 24 November.
 ---
