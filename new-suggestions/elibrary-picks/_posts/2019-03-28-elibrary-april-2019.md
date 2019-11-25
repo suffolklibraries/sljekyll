@@ -1,95 +1,21 @@
 ---
 layout: sidebar-right
-title: "Recommended new eBooks and eMagazines for April 2019"
+title: "Recommended new eBooks for April 2019"
 date: 2019-03-28
 author: lisa-brennan
 category: elibrary-picks
 tag: elibrary
-excerpt: "See the new releases we're reserving and downloading on OverDrive and RBdigital this month."
-featured-image: /images/featured/featured-elibrary-april-2019.jpg
-featured-alt: "Empire, Mojo, Cosmopolitan"
+excerpt: "See the new releases we're reserving and downloading on OverDrive this month."
 breadcrumb: elibrary-picks
 ---
 
-We're always adding great titles to our [eLibrary](/elibrary/). We've listed some of the eBooks and eMagazines we'll be reserving and downloading in April to give you some ideas!
+We're always adding great titles to our [eLibrary](/elibrary/). We've listed some of the eBooks we'll be reserving and downloading in April to give you some ideas!
 
 See also:
 
 * [Recommended new eAudiobooks &#x23;4](/new-suggestions/elibrary-picks/new-eaudiobooks-4/)
 * [Freegal music](/elibrary/freegal/)
 * [PressReader newspapers and magazines](/elibrary/press-reader/)
-
-## RBdigital eMagazines
-
-[Set up RBdigital &rarr;](/elibrary/rbdigital/)
-
-<div class="custom-flex-container">
-
-  <figure class="custom-flex-row-4 pv2">
-
-      <a class="white custom-no-underline" href="https://suffolk.rbdigitalglobal.com/#magazine/1390/436517"><img class="custom-constrain-img" src="/images/featured/featured-empire-march-2019.jpg" alt="Empire"></a>
-
-      <figcaption class="ma0 pa0"><p class="f5 fw6 ma0 pa0 pr2"><a href="https://suffolk.rbdigitalglobal.com/#magazine/1390/436517" class="blue custom-no-underline"><cite>Empire</cite></a></p></figcaption>
-
-  </figure>
-
-  <figure class="custom-flex-row-4 pv2">
-
-        <a class="white custom-no-underline" href="https://suffolk.rbdigitalglobal.com/#magazine/5519/441467"><img class="custom-constrain-img" src="/images/featured/featured-cosmopolitan-march-2019.jpg" alt="Cosmopolitan"></a>
-
-        <figcaption class="ma0 pa0"><p class="f5 fw6 ma0 pa0 pr2"><a href="https://suffolk.rbdigitalglobal.com/#magazine/5519/441467" class="blue custom-no-underline"><cite>Cosmopolitan</cite></a></p></figcaption>
-
-  </figure>
-
-  <figure class="custom-flex-row-4 pv2">
-
-        <a class="white custom-no-underline" href="https://suffolk.rbdigitalglobal.com/#magazine/2114/434235"><img class="custom-constrain-img" src="/images/featured/featured-sfx-march-2019.jpg" alt="SFX"></a>
-
-        <figcaption class="ma0 pa0"><p class="f5 fw6 ma0 pa0 pr2"><a href="https://suffolk.rbdigitalglobal.com/#magazine/2114/434235" class="blue custom-no-underline"><cite>SFX</cite></a></p></figcaption>
-
-  </figure>
-
-  <figure class="custom-flex-row-4 pv2">
-
-        <a class="white custom-no-underline" href="https://suffolk.rbdigitalglobal.com/#magazine/1596/427503"><img class="custom-constrain-img" src="/images/featured/featured-artists-and-illustrators-march-2019.jpg" alt="Artists & Illustrators"></a>
-
-        <figcaption class="ma0 pa0"><p class="f5 fw6 ma0 pa0 pr2"><a href="https://suffolk.rbdigitalglobal.com/#magazine/1596/427503" class="blue custom-no-underline"><cite>Artists & Illustrators</cite></a></p></figcaption>
-
-  </figure>
-
-  <figure class="custom-flex-row-4 pv2">
-
-        <a class="white custom-no-underline" href="https://suffolk.rbdigitalglobal.com/#magazine/1423/436760"><img class="custom-constrain-img" src="/images/featured/featured-mojo-march-2019.jpg" alt="Mojo"></a>
-
-        <figcaption class="ma0 pa0"><p class="f5 fw6 ma0 pa0 pr2"><a href="https://suffolk.rbdigitalglobal.com/#magazine/1423/436760" class="blue custom-no-underline"><cite>Mojo</cite></a></p></figcaption>
-
-  </figure>
-
-  <figure class="custom-flex-row-4 pv2">
-
-        <a class="white custom-no-underline" href="https://suffolk.rbdigitalglobal.com/#magazine/1794/436008"><img class="custom-constrain-img" src="/images/featured/featured-minecraft-world-march-2019.jpg" alt="Minecraft World"></a>
-
-        <figcaption class="ma0 pa0"><p class="f5 fw6 ma0 pa0 pr2"><a href="https://suffolk.rbdigitalglobal.com/#magazine/1794/436008" class="blue custom-no-underline"><cite>Minecraft World</cite></a></p></figcaption>
-
-  </figure>
-
-  <figure class="custom-flex-row-4 pv2">
-
-        <a class="white custom-no-underline" href="https://suffolk.rbdigitalglobal.com/#magazine/6364/438108"><img class="custom-constrain-img" src="/images/featured/featured-official-playstation-march-2019.jpg" alt="Official PlayStation Magazine"></a>
-
-        <figcaption class="ma0 pa0"><p class="f5 fw6 ma0 pa0 pr2"><a href="https://suffolk.rbdigitalglobal.com/#magazine/6364/438108" class="blue custom-no-underline"><cite>Official Playstation Magazine</cite></a></p></figcaption>
-
-  </figure>
-
-  <figure class="custom-flex-row-4 pv2">
-
-        <a class="white custom-no-underline" href="https://suffolk.rbdigitalglobal.com/#magazine/4663/419932"><img class="custom-constrain-img" src="/images/featured/featured-raspi-march-2019.jpg" alt="RasPi"></a>
-
-        <figcaption class="ma0 pa0"><p class="f5 fw6 ma0 pa0 pr2"><a href="https://suffolk.rbdigitalglobal.com/#magazine/4663/419932" class="blue custom-no-underline"><cite>RasPi</cite></a></p></figcaption>
-
-  </figure>
-
-</div>
 
 ## OverDrive eBooks
 
