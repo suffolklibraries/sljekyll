@@ -8,9 +8,9 @@ measure: true
 
 # Winter Story competition form
 
-Complete this form to enter the <a href="/news/winter-storybook-competition/" class="blue underline">Winter Story competition</a> with Imagine That for 7-11 year olds. They can win a place on a special creative workshop at Ipswich County Library on Saturday 7 December.
+The competition is now closed. Imagine That will announce the winner soon.
 
-<form class="pure-form pure-form-stacked pb4" netlify name="winterstory" action="/winterstory-entry/confirmation/" netlify-honeypot="bot-field">
+<!-- <form class="pure-form pure-form-stacked pb4" netlify name="winterstory" action="/winterstory-entry/confirmation/" netlify-honeypot="bot-field">
 
   <p class="custom-lh-title"><small>Please note we’ll pass these details to <a href="https://www.imaginethat.com/" class="blue underline">Imagine That Publishing</a>, the organisation offering the workshop prize. They will only use this information to enter you into the competition and contact you. Neither Imagine That Publishing or us will share your information with anyone else.</small></p>
 
@@ -30,4 +30,4 @@ Complete this form to enter the <a href="/news/winter-storybook-competition/" cl
 
   <div class="pt3">{% include /c/button-submit-blue.html text="Submit entry" %}</div>
 
-</form>
+</form> -->
