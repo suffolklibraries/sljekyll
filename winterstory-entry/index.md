@@ -8,7 +8,7 @@ measure: true
 
 # Winter Story competition form
 
-The competition is now closed. Imagine That will announce the winner soon.
+The competition is now closed. Imagine That will announce the winners soon.
 
 <!-- <form class="pure-form pure-form-stacked pb4" netlify name="winterstory" action="/winterstory-entry/confirmation/" netlify-honeypot="bot-field">
 
