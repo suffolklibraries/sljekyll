@@ -28,5 +28,8 @@ branch-scan-to-email: y
 breadcrumb: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, Lego Club, older people's activities."
 branch-other-facilities: "Terracycle recyling point: drop off your plastic crisp and sweet packets and wrappers, bread bags and baby food pouches."
-branch-news: 'Lavenham Library is looking for <a href="/assets/pdf/code-club-role-profile.pdf/">volunteers to run a Code Club</a> (PDF)'
+branch-news: '<ul>
+              <li><a href="/news/lavenham-library-hours-change/>Lavenham Library will be changing its opening hours from Wedneday 1 January</a>."
+              <li>The library is looking for <a href="/assets/pdf/code-club-role-profile.pdf/">volunteers to run a Code Club</a> (PDF)</li>
+              </ul>'
 ---
