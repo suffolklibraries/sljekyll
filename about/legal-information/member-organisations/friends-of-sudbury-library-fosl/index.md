@@ -13,12 +13,13 @@ breadcrumb: member-organisations
 
 ## Who we are
 
-* Chairperson: Anne Lowe
-* Secretary: Janet Cruttenden
+* Chairperson: Anne Lowen
 * Treasurer: Kay Mason
-* Anthony Platt
+* Secretary: Janet Cruttenden
 * Gladis Garcia-Soza
-* Laurence Reynolds
+* Janet Godsall
+* Marion Higgleton
+* Laurie Reynolds
 
 ## How to contact us
 
