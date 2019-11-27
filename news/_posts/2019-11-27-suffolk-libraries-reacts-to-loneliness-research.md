@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Auffolk Libraries reacts to loneliness research"
+title: "Suffolk Libraries reacts to loneliness research"
 date: 2019-11-27
 author: james-powell
 category: news
