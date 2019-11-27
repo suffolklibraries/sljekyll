@@ -9,4 +9,4 @@ event-end-time: 1200
 breadcrumb: y
 ---
 
-Drop in to Stella Peskett Millennium Hall for hot drinks, mince pies and biscuits as well as cakes, crafts, books, CDs and DVDs to buy as well as a raffle.
+Drop in to Stella Peskett Millennium Hall for hot drinks, mince pies and biscuits as well as cakes, crafts, books, CDs and DVDs to buy and a raffle.
