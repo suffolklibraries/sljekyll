@@ -40,6 +40,8 @@ Latest medical thriller from the man who invented the genre.
 
 > "You always know who you're meeting online - don't you? Four women decide to explore online dating, downloading an app that promises they will swipe their way to love and happiness. But not everyone is who they seem online. Hidden behind a perfect smile and charming humour, one man appears to be the perfect date. But the night he has planned is unlike any other. The clock is ticking, and for one woman, this date might just be her last."
 
+[Read our Meet the Author interview with Joy Fielding &rarr;](/new-suggestions/meet-the-author/meet-the-author-joy-fielding/)
+
 ## [<cite>Just Watch Me</cite>, by Jeff Lindsay](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2655442)
 
 From the author of the bestselling Dexter series.
