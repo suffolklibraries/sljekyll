@@ -4,7 +4,7 @@ location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2019-12-18
 event-start-time: 1930
-event-end-time: 2130
+event-end-time: 2100
 event-ticket-price: donate what you like
 breadcrumb: y
 ---
