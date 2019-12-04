@@ -5,6 +5,7 @@ location-text: Broomhill Library
 event-start-date: 2019-12-07
 event-start-time: 1200
 event-end-time: 1600
+event-category: xmas
 breadcrumb: y
 ---
 

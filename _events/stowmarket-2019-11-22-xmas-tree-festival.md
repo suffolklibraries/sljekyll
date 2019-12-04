@@ -4,6 +4,7 @@ location: stowmarket-library
 location-text: Stowmarket Library
 event-start-date: 2019-11-22
 event-end-date: 2020-01-04
+event-category: xmas
 breadcrumb: y
 ---
 

@@ -6,6 +6,7 @@ event-start-date: 2019-12-14
 event-start-time: 1430
 event-ticket-price: 5
 event-ticket-url: https://www.ticketsource.co.uk/ficl/o-rare-hoffnung/e-gooeoy
+event-category: xmas
 breadcrumb: y
 ---
 

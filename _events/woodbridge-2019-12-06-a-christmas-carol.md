@@ -5,6 +5,7 @@ location-text: Woodbridge Library
 event-start-date: 2019-12-06
 event-start-time: 1930
 event-ticket-price: 10 (£5 students)
+event-category: xmas
 breadcrumb: y
 ---
 

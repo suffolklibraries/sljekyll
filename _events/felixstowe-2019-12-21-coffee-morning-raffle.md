@@ -5,6 +5,7 @@ location-text: Felixstowe Library
 event-start-date: 2019-12-21
 event-start-time: 1000
 event-end-time: 1130
+event-category: xmas
 breadcrumb: y
 ---
 

@@ -6,7 +6,7 @@ event-start-date: 2019-12-21
 event-start-time: 1430
 event-end-time: 1700
 event-ticket-price: 4
-event-category: festive-film
+event-category: ["festive-film", "film"]
 breadcrumb: y
 ---
 

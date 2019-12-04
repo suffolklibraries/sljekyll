@@ -6,6 +6,7 @@ event-start-date: 2019-12-14
 event-start-time: 1400
 event-end-time: 1530
 event-ticket-price: 1
+event-category: xmas
 breadcrumb: y
 ---
 

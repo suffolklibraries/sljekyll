@@ -5,6 +5,7 @@ location-text: Glemsford Library
 event-start-date: 2019-12-07
 event-start-time: 1930
 event-ticket-price: 3 adults, £2 children
+event-category: xmas
 breadcrumb: y
 ---
 

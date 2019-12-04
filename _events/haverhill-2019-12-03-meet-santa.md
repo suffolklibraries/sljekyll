@@ -5,6 +5,7 @@ location-text: Haverhill Library
 event-start-date: 2019-12-03
 event-end-date: 2019-12-22
 event-ticket-price: 3
+event-category: xmas
 breadcrumb: y
 ---
 

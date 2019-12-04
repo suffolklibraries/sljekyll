@@ -5,6 +5,7 @@ location-text: Beccles Library
 event-start-date: 2019-12-02
 event-end-date: 2020-01-30
 event-ticket-price: 1
+event-category: xmas
 breadcrumb: y
 ---
 

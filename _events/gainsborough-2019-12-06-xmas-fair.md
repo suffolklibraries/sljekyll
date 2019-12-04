@@ -5,6 +5,7 @@ location-text: Gainsborough Community Library
 event-start-date: 2019-12-06
 event-start-time: 1600
 event-end-time: 1800
+event-category: xmas
 breadcrumb: y
 ---
 

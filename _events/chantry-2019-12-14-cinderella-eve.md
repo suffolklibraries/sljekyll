@@ -7,6 +7,7 @@ event-start-date: 2019-12-14
 event-doors-open: 1800
 event-start-time: 1830
 event-ticket-price: 1
+event-category: xmas
 breadcrumb: y
 ---
 

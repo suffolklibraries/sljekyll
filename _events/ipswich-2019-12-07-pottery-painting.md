@@ -6,6 +6,7 @@ event-start-date: 2019-12-07
 event-start-time: 1000
 event-end-time: 1400
 event-ticket-price: 1-£5 per item
+event-category: xmas
 breadcrumb: y
 ---
 

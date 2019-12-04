@@ -4,6 +4,7 @@ location: southwold-library
 location-text: Southwold Library
 event-start-date: 2019-12-19
 event-start-time: 1830
+event-category: xmas
 breadcrumb: y
 ---
 

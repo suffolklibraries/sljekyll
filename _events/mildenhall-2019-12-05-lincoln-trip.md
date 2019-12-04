@@ -6,6 +6,7 @@ event-start-date: 2019-12-05
 event-start-time: 0830
 event-end-time: 1730
 event-ticket-price: 25 per person
+event-category: xmas
 breadcrumb: y
 ---
 

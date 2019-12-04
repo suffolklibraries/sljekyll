@@ -4,6 +4,7 @@ location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
 event-start-date: 2019-11-21
 event-end-date: 2019-12-24
+event-category: xmas
 breadcrumb: y
 ---
 

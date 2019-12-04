@@ -5,6 +5,7 @@ location-text: Lowestoft Library
 event-start-date: 2019-12-06
 event-doors-open: 1845
 event-ticket-price: 5
+event-category: xmas
 breadcrumb: y
 ---
 

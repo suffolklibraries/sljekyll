@@ -4,6 +4,7 @@ location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2019-12-07
 event-end-date: 2019-12-23
+event-category: xmas
 breadcrumb: y
 ---
 

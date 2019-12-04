@@ -7,7 +7,7 @@ event-start-time: 1430
 event-end-time: 1700
 event-ticket-price: 4
 event-ticket-url: https://www.eventbrite.co.uk/e/festive-film-fun-muppet-christmas-carol-tickets-81527084705
-event-category: festive-film
+event-category: ["festive-film", "xmas"]
 breadcrumb: y
 ---
 
