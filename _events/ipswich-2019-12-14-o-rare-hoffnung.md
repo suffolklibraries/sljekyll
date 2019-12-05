@@ -1,5 +1,5 @@
 ---
-name: "Boswell, Cooper & Stafford present: <cite>O Rare Hoffnung!</cite>, a celebration of the life of Gerard Hoffnung"
+name: "Boswell, Cooper & Stafford present: <cite>O Rare Hoffnung!</cite>, a celebration of the life of Gerard Hoffnung - SOLD OUT"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2019-12-14
@@ -9,6 +9,8 @@ event-ticket-url: https://www.ticketsource.co.uk/ficl/o-rare-hoffnung/e-gooeoy
 event-category: xmas
 breadcrumb: y
 ---
+
+**This event is now sold out**
 
 Join us in the Lecture Hall for a humorous musical performance from Stephen Boswell, Josephine Cooper and Alan Stafford celebrating the life and works of Gerard Hoffnung.
 
