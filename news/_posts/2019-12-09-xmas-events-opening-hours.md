@@ -4,19 +4,21 @@ title: "Christmas events and opening hours at Suffolk Libraries"
 date: 2019-12-09
 author: alice-violett
 category: news
-excerpt: "All Suffolk libraries will be closed on 24, 25 and 26 December, and 1 January 2020. In the lead-up to Christmas, you're invited to join in the festive cheer with a range of seasonal events."
+excerpt: "In the lead-up to Christmas, you're invited to join in the festive cheer with a range of seasonal events. All Suffolk libraries will be closed on 24, 25 and 26 December, and 1 January 2020."
 breadcrumb: news
 jquery: true
 dynatable: true
 event-filter: xmas
 featured: true
-featured-excerpt: "All Suffolk libraries will be closed on 24, 25 and 26 December, and 1 January 2020. In the lead-up to Christmas, you're invited to join in the festive cheer with a range of seasonal events."
+featured-excerpt: "In the lead-up to Christmas, you're invited to join in the festive cheer with a range of seasonal events. All Suffolk libraries will be closed on 24, 25 and 26 December, and 1 January 2020."
 featured-link-href-text: "See what's happening at your library this Christmas &rarr;"
 featured-image: "/images/featured/featured-lowestoft-xmas.jpg"
 featured-alt: "Father Christmas reading a book at Lowestoft Library"
 ---
 
-All Suffolk libraries will be closed on 24, 25 and 26 December, and 1 January 2020. In the lead-up to Christmas, you're invited to join in the festive cheer with a range of seasonal events.
+In the lead-up to Christmas, you're invited to join in the festive cheer with a range of seasonal events.
+
+All Suffolk libraries will be closed on 24, 25 and 26 December, and 1 January 2020.
 
 If [your local library](/libraries/) normally stays open late on Tuesdays, it will be closing at the earlier time of 5pm on Tuesday 31 December.
 
