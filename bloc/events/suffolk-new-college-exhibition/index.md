@@ -1,5 +1,5 @@
 ---
-title: "Film Feast"
+title: "Suffolk New College art exhibition"
 layout: blank
 ---
 
@@ -11,13 +11,13 @@ layout: blank
 
         <div class="custom-max-width">
 
-          <h1 class="ma0 f5 f4-ns tracked ttl small-caps normal lightest-blue lh-title"><span class="pb1 bb-ns bw3-ns b--lightest-blue-ns">Film Feast</span></h1>
+          <h1 class="ma0 f5 f4-ns tracked ttl small-caps normal lightest-blue lh-title"><span class="pb1 bb-ns bw3-ns b--lightest-blue-ns">Suffolk New College art exhibition</span></h1>
 
           <div class="flex-ns flex-wrap-ns">
 
             <div class="w-50-ns pr3-ns mb3">
 
-              <p class="f4 f3-ns">Food-themed film screenings with related food from local independent cafés and restaurants. Find out more and see the whole Suffolk programme on the <a class="yellow" href="https://filmfeast.co.uk/">Film Feast website</a>.</p>
+              <p class="f4 f3-ns">A range of artworks from Suffolk New College students, all inspired by Ipswich County Library.</p>
 
             </div>
 
@@ -33,11 +33,9 @@ layout: blank
 
           <h2 class="f3 custom-lh-title dark-red">UPCOMING EVENTS</h2>
 
-          <img src="/images/featured/featured-film-feast-200.png" alt="Film Feast logo" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
-
           {% assign special-event-check = false %}
 
-          {% assign events = site.events | where: "event-category", "film-feast" | sort: 'event-start-date' %}
+          {% assign events = site.events | where: "event-category", "bloc-exhibition" | sort: 'event-start-date' %}
 
             {% for event in events %}
 

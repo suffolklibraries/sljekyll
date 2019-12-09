@@ -11,4 +11,6 @@ breadcrumb: y
 
 Come along and join us for a festive sing-song, ably led by Sudbury Choral Society.
 
+Children can meet special guest Father Christmas, who will be giving out sweets!
+
 Tea, coffee and mince pies available courtesy of the Friends of Sudbury Library.
