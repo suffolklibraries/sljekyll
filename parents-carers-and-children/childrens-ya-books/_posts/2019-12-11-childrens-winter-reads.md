@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Spend the Christmas holidays with our favourite children's winter reads"
-date: 2019-12-13
+date: 2019-12-11
 author: sophie-green
 category: childrens-ya-books
 excerpt: "It may be cold and dark out, but don't despair! We've picked out some classic adventure and fantasy titles perfect for nights by the fire with a mug of cocoa."
