@@ -4,12 +4,6 @@ title: Ipswich Mobile Library Route 12
 breadcrumb: mobiles-home
 ---
 
-<div class="{% include /c/generic-panel.html %}">
-
-    <p>Ipswich Mobile Library Route 12 is off the road today (Thursday 5 September) due to repairs.</p>
-
-</div>
-
 ## Contact us:
 
 Managers: Andrew Little and David Cook

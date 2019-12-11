@@ -1,10 +1,10 @@
 ---
-name: "Jumpstart January: Mindfulness workshop with Wellbeing Suffolk"
+name: "Jumpstart January: Everyday Wellbeing workshop with Wellbeing Suffolk"
 location: ipswich-county-library
 location-text: Ipswich County Library
-event-start-date: 2020-01-18
-event-start-time: 1130
-event-end-time: 1330
+event-start-date: 2020-01-07
+event-start-time: 1730
+event-end-time: 1930
 event-ticket-price: free
 event-category: jumpstart
 jj-region: ipswich

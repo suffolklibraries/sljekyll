@@ -1,10 +1,10 @@
 ---
-name: "Jumpstart January: Mindfulness workshop with Wellbeing Suffolk"
+name: "Jumpstart January: Everyday Wellbeing workshop with Wellbeing Suffolk"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
-event-start-date: 2020-01-21
-event-start-time: 1300
-event-end-time: 1500
+event-start-date: 2020-01-24
+event-start-time: 1800
+event-end-time: 2000
 event-ticket-price: free
 event-category: jumpstart
 jj-region: ipswich
