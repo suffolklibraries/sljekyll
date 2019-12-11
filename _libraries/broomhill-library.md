@@ -30,5 +30,8 @@ branch-room-hire: /libraries/room-hire/broomhill-library
 breadcrumb: y
 branch-pride-and-periods: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, older people's activities, free sanitary products."
-branch-news: "Broomhill Library will be closed for essential maintenance work on <cite>Monday 20 January</strong>."
+branch-news: "<ul>
+              <li>The library is closed on <strong>Thursday 12 December</strong> as it is being used as a Polling Station.</li>
+              <li>The library is closed for essential maintenance work on <strong>Monday 20 January</strong>.</li>
+              </ul>"
 ---
