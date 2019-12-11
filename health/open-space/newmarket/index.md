@@ -142,13 +142,13 @@ Record office visit/games
 </td>
 
 <td>
-Mindfulness colouring/card games
+Cuppa and chat with Suffolk Wellbeing Service
 </td>
 </tr>
 
 <tr>
 <td>
-19.01.20
+29.01.20
 </td>
 
 <td>
