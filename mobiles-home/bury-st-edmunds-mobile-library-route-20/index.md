@@ -197,4 +197,4 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Saturdays:**
 
-**2019:** 5 January, 2 February, 2 March, 30 March, 27 April, 25 May, 22 June, 20 July, 17 August, 14 September, 12 October, 9 November, 7 December
+**2020:** 4 January, 1 February, 29 February, 28 March, 25 April, 23 May, 20 June, 18 July, 15 August, 12 September, 10 October, 7 November, 5 December

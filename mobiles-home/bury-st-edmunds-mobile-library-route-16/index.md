@@ -100,22 +100,9 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1055-1115
+      1055-1120
     </td>
   </tr>
-
-  <tr>
-    <td valign="bottom" width="44">
-      16E
-    </td>
-
-    <td valign="bottom" width="139">
-      Woolpit
-    </td>
-
-    <td valign="bottom" width="176">
-      The Green
-    </td>
 
     <td valign="bottom" width="97">
       1120-1140
@@ -136,7 +123,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1150-1250
+      1130-1230
     </td>
   </tr>
 
@@ -154,7 +141,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="97">
-      1345-1400
+      1340-1400
     </td>
   </tr>
 
@@ -233,4 +220,4 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Mondays:**
 
-**2019:** 28 January, 25 February, 25 March, 22 April, 20 May, 17 June, 15 July, 12 August, 9 September, 7 October, 4 November, 2 December
+**2020:** 27 January, 24 February, 23 March, 20 April, 18 May, 15 June, 13 July, 10 August, 7 September, 5 October, 2 November, 30 November, **no visit in December**
