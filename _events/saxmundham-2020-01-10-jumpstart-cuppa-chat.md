@@ -13,4 +13,4 @@ breadcrumb: y
 
 Everyone is invited to drop in and chat about anything to do with wellbeing with Wellbeing Suffolk's community advisors over a free tea or coffee.
 
-This event is part of Jumpstart January, a month dedicated to everything our libraries do to boost your wellbeing.
+This event is part of [Jumpstart January](/jumpstart-january/), a month dedicated to everything our libraries do to boost your wellbeing.

@@ -1,96 +1,75 @@
 ---
-layout: sidebar-right
-title: Books on Prescription
+title: "Reading Well: Books on Prescription"
+layout: featured
+header-bg: custom-bg-corporate-green
+featured-hero-description: '<p>Reading Well supports you to understand and manage your health and wellbeing using helpful reading. The books are all chosen and endorsed by health experts, as well as by people living with the conditions covered and their relatives and carers.</p>'
+featured-hero-image: "featured/featured-reading-well-1000.jpg"
+featured-hero-alt: "Reading Well logo"
 breadcrumb: health
-sidebar: health
 ---
 
-![Reading Well Books on Prescription](/images/featured/featured-books-on-prescription.jpg)
+<section class="ph2 ph3-ns pv3 bg-light-gray">
 
-_Reading Well Books on Prescription_ helps you manage your well–being using self–help reading.
+    <div class="measure center">
 
-Your GP or another health practitioner may have recommended a self–book to help you manage conditions such as depression, phobias and anxiety.
+      <p>You can reserve any of these books for collection at <a href="/libraries">your local library</a>.</p>
 
-These books are available from all our libraries.
+      <div class="mv2 mr2-ns f6 tc"><a class="b pa2 custom-bg-corporate-green hover-bg-green custom-force-white custom-no-underline br2" href="/help/joining-the-library/">Join the library</a></div>
 
-## Anger
+    </div>
 
-  * [<cite>Overcoming Anger and Irritability</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1387116), by William Davies
+</section>
 
-## Anxiety
+{%
+  include z-bar.html
+  src="featured/featured-books-on-prescription-902.jpg"
+  alt="Books on Prescription logo"
+  bg-color="bg-near-white"
+  title='<a class="custom-corporate-green underline" hover="custom-corporate-green" href="/health/lists/health-lists/books-on-prescription-self-help-reading/">Books on Prescription: Self-help reading</a>'
+  text="The original Reading Well Books on Prescription list of books to help people manage conditions such as depression, phobias and anxiety."
+  link="/health/lists/health-lists/books-on-prescription-self-help-reading/"
+%}
 
-  * [<cite>Overcoming Anxiety: a self-help guide to using cognitive behavioral techniques</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1512206), by Helen Kennerley
-  * [<cite>Overcoming Anxiety, Stress and Panic: a five areas approach</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=603334), by Chris Williams
-  * [<cite>Feel the Fear and Do It Anyway</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=192458), by Susan Jeffers
+{%
+  include z-bar.html
+  src="featured/featured-reading-well-mental-health-902.jpg"
+  alt="The Sleep Book, A Mindfulness Guide for the Frazzled, The Essential Guide to Life After Bereavement"
+  layout-reverse="true"
+  color="white"
+  bg-color="custom-bg-corporate-green"
+  title='<a class="white underline" hover="white" href="/health/lists/health-lists/reading-well-for-mental-health/">Reading Well for mental health</a>'
+  text="Further titles to help people with mental health conditions such as depression, anxiety, OCD and eating disorders."
+  link="/health/lists/health-lists/reading-well-for-mental-health/"
+%}
 
-## Binge eating/Bulimia Nervosa
+{%
+  include z-bar.html
+  src="featured/featured-reading-well-for-young-people-902.jpg"
+  alt="Mind Your Head, The Self-Esteem Team's Guide to Sex, Drugs and WTFs, Blame My Brain"
+  bg-color="bg-near-white"
+  title='<a class="custom-corporate-green underline" hover="custom-corporate-green" href="/health/lists/health-lists/reading-well-for-young-people/">Reading Well for young people</a>'
+  text="Titles to help young people with their mental health, covering anxiety, body image and eating disorders, confidence and self-esteem, depression, mood swings and more."
+  link="/health/lists/health-lists/reading-well-for-young-people/"
+%}
 
-  * [<cite>Overcoming Binge Eating: the proven program to learn why you binge and how you can stop</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1400222), by Christopher G Fairburn
-  * [<cite>Getting Better Bit(e) by Bit(e): a survival kit for sufferers of bulimia nervosa and binge eating disorders</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=429720), by Ulrike Schmidt and Janet Treasure
-  * [<cite>Overcoming Bulimia Nervosa and Binge-eating: a self-help guide using cognitive behavioral techniques</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=591153), by Peter J Cooper
+{%
+  include z-bar.html
+  src="featured/featured-reading-well-long-term-902.jpg"
+  alt="Pain is Really Strange, How I Rescued My Brain, The Selfish Pig's Guide to Caring"
+  layout-reverse="true"
+  color="white"
+  bg-color="custom-bg-corporate-green"
+  title='<a class="white underline" hover="white" href="/health/lists/health-lists/reading-well-for-long-term-conditions/">Reading Well for long term conditions</a>'
+  text="Titles for people with long-term conditions such as chronic pain, arthritis and diabetes."
+  link="/health/lists/health-lists/reading-well-for-long-term-conditions/"
+%}
 
-## Chronic fatigue
-
-  * [<cite>Chronic Fatigue Syndrome</cite> (2nd edition)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=157088), by Frankie Campling and Michael Sharpe
-  * [<cite>Overcoming Chronic Fatigue: a self-help guide using cognitive behavioral techniques</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=591381), by Mary Burgess with Trudie Chalder
-
-## Chronic pain
-
-  * [<cite>Overcoming Chronic Pain</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=602384), by Francis Cole, Catherine Carus, Hazel Howden–Leach and Helen Macdonald
-
-## Depression
-
-  * [<cite>Overcoming Depression and Low Mood: a five areas approach (3rd edition)</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1340711), by Chris Williams
-  * [<cite>Mind Over Mood: change how you feel by changing the way you think</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1852746), by Dennis Greenberger and Christine Padesky
-  * [<cite>Overcoming Depression</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1852746), by Paul Gilbert
-
-## Health anxiety
-
-  * [<cite>Overcoming Health Anxiety</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=426203), by David Veale and Rob Wilson
-  * [<cite>An Introduction to Coping with Health Anxiety</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1104406), by Brenda Hogan and Charles Young
-
-## Obsessions and compulsions
-
-  * [<cite>Overcoming Obsessive Compulsive Disorder</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1154884), by David Veale and Rob Wilson
-  * [<cite>Understanding Obsessions and Compulsions: a self-help manual</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=394538), by Frank Tallis
-  * [<cite>Break Free from OCD: overcoming obsessive compulsive disorder with CBT</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=198597), by Fiona Challacombe, Victoria Bream Oldfield and Paul M Salkovkis
-
-## Panic
-
-  * [<cite>Overcoming Panic and Agoraphobia</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=590905), by Derrick Silove
-  * [<cite>Panic Attacks: what they are, why they happen and what you can do about them</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=51020), by Christine Ingham
-
-## Phobias
-
-  * [<cite>An Introduction to Coping with Phobias</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1104392), by Brenda Hogan
-
-## Relationship problems
-
-  * [<cite>Overcoming Relationship Problems: a self-help guide using cognitive behavioral techniques</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=423759), by Michael Crowe
-
-## Self–esteem
-
-  * [<cite>Overcoming Low Self–esteem: a self-help guide using cognitive behavioral techniques</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=591117), by Melanie Fennell
-  * [<cite>The Feeling Good Handbook</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=270896), by David Burns
-
-## Sleep problems
-
-  * [<cite>Overcoming Insomnia and Sleep Problems: a self-help guide using cognitive behavioral techniques</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=423791), by Colin A Espie
-
-## Social phobias
-
-  * [<cite>Overcoming Social Anxiety and Shyness: a self-help guide using cognitive behavioral techniques</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=590899), by Gillian Butler
-
-## Stress
-
-  * [<cite>The Relaxation and Stress Reduction Workbook</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1387117), by Martha Davis
-  * [<cite>Manage your Stress for a Happier Life</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=598031), by Terry Looker and Olga Gregson
-
-## Worry
-
-  * [<cite>The Worry Cure: stop worrying and start living</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=131786), by Robert L Leahy
-  * [<cite>How to Stop Worrying</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=505098), by Frank Tallis
-
-Supported by Department of Health (IAPT), Royal College of General Practitioners, Royal College of Psychiatrists, Royal College of Nursing, British Association for Behavioural and Cognitive Psychotherapies, British Psychological Society and Mind.
-
-Developed by [The Reading Agency](http://readingagency.org.uk/adults/quick-guides/reading-well/) in partnership with The Society of Chief Librarians.
+{%
+  include z-bar.html
+  src="featured/featured-reading-well-dementia-902.jpg"
+  alt="Grandma, Dear Dementia"
+  bg-color="bg-near-white"
+  title='<a class="custom-corporate-green underline" hover="custom-corporate-green" href="/health/lists/health-lists/reading-well-for-dementia/">Reading Well for dementia</a>'
+  text="Titles for people who have dementia, are caring for someone with dementia, or would like to find out more about the condition."
+  link="/health/lists/health-lists/reading-well-for-dementia/"
+%}

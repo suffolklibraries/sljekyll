@@ -16,4 +16,4 @@ Come along and find out how you can use mindfulness practices to boost your well
 
 Advance booking online or by contacting the library is advised.
 
-This event is part of Jumpstart January, a month dedicated to everything our libraries do to boost your wellbeing.
+This event is part of [Jumpstart January](/jumpstart-january/), a month dedicated to everything our libraries do to boost your wellbeing.

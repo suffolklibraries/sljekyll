@@ -16,4 +16,4 @@ Come along and find out how you can reduce stress and boost your wellbeing at th
 
 Advance booking online or by contacting the library is advised.
 
-This event is part of Jumpstart January, a month dedicated to everything our libraries do to boost your wellbeing.
+This event is part of [Jumpstart January](/jumpstart-january/), a month dedicated to everything our libraries do to boost your wellbeing.
