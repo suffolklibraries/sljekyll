@@ -6,8 +6,7 @@ event-start-date: 2019-12-16
 event-start-time: 1030
 event-end-time: 1530
 event-ticket-price: free
-event-category: jumpstart
-jj-region: east
+event-category: health
 breadcrumb: y
 ---
 
