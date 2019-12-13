@@ -4,13 +4,13 @@ layout: featured
 featured-hero-description: "Jumpstart your January and get your 2020 off to a fantastic start with events, great reads and help & advice."
 featured-hero-image: "jj/jj-splash.jpg"
 featured-hero-alt: ""
-header-bg: custom-bg-corporate-green
+header-bg: custom-bg-corporate
 jquery-ui: true
 tabs: true
 breadcrumb: events
 ---
 
-<section class="ph2 ph3-ns pv3 bg-white">
+<section class="ph2 ph3-ns pt3 bg-white">
 
   <div id="tabs" class="ba b--light-gray bg-white pa3">
 
@@ -35,7 +35,7 @@ breadcrumb: events
         {% assign event_name = event.name | strip_html | replace: "Jumpstart January: ", "" | replace: "Jumpstart January ", "" %}
         {% assign event_loc = event.location-text | replace: " Library", "" | replace: " Community", ""  %}
 
-          <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate-green hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span><br>{{ event_name }}</a>
+          <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span><br>{{ event_name }}</a>
 
         {% endfor %}
 
@@ -52,7 +52,7 @@ breadcrumb: events
       {% assign event_name = event.name | strip_html | replace: "Jumpstart January: ", "" | replace: "Jumpstart January ", "" %}
       {% assign event_loc = event.location-text | replace: " Library", "" | replace: " Community", "" %}
 
-        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate-green hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span><br>{{ event_name }}</a>
+        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span><br>{{ event_name }}</a>
 
       {% endfor %}
 
@@ -69,7 +69,7 @@ breadcrumb: events
       {% assign event_name = event.name | strip_html | replace: "Jumpstart January: ", "" | replace: "Jumpstart January ", "" %}
       {% assign event_loc = event.location-text | replace: " Library", "" | replace: " Community", "" %}
 
-        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate-green hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span><br>{{ event_name }}</a>
+        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span><br>{{ event_name }}</a>
 
       {% endfor %}
 
@@ -86,7 +86,7 @@ breadcrumb: events
       {% assign event_name = event.name | strip_html | replace: "Jumpstart January: ", "" | replace: "Jumpstart January ", "" %}
       {% assign event_loc = event.location-text | replace: " Library", "" | replace: " Community", "" %}
 
-        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate-green hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span><br>{{ event_name }}</a>
+        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span><br>{{ event_name }}</a>
 
       {% endfor %}
 
@@ -103,7 +103,7 @@ breadcrumb: events
       {% assign event_name = event.name | strip_html | replace: "Jumpstart January: ", "" | replace: "Jumpstart January ", "" %}
       {% assign event_loc = event.location-text | replace: " Library", "" | replace: " Community", ""  %}
 
-        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate-green hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span><br>{{ event_name }}</a>
+        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span><br>{{ event_name }}</a>
 
       {% endfor %}
 
@@ -115,22 +115,25 @@ breadcrumb: events
 
 </section>
 
-<!-- {%
+{%
   include z-bar.html
-  src="about/tot-rock.jpg"
-  alt="Woman reading to young children who are shouting and dancing."
+  src="featured/featured-reading-well-1000.jpg"
+  alt=""
   bg-color="bg-near-white"
-  title="Find a great read"
-  text="<p>Books to supercharge your 2020:</p><ul class='b list ma0 pa0'><li><a href='#' class='underline custom-corporate-green'>Eating healthily on a budget &rarr;</a></li><li><a href='#' class='underline custom-corporate-green'>Self-help Books on Prescription &rarr;</a></li></ul>"
+  title="Reading Well"
+  link="/health/books-on-prescription/"
+  link-text="Check out our Reading Well selections &rarr;"
+  link-color="custom-corporate"
+  text="Try our expert-selected books to supercharge your wellbeing into 2020."
 %}
 
-{%
+<!-- {%
   include z-bar.html
   src="about/dojo2.jpg"
   alt="A girl concentrating at a laptop."
   layout-reverse="true"
   color="white"
-  bg-color="custom-bg-corporate-green"
+  bg-color="custom-bg-corporate"
   title="Help &amp; advice"
   text="<p>Expert advice &amp; help:</p><ul class='b list ma0 pa0'><li><a href='#' class='underline white'>Books to help with raising every sort of family &rarr;</a></li><li><a href='#' class='underline white'>Help with homework &amp; research &rarr;</a></li></ul>"
 %}
