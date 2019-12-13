@@ -22,9 +22,9 @@ Two cute and sparkly titles, perfect for little hands.
 
 A new addition to the Busy Books series with tabs to push, pull and slide.
 
-### [<cite>Peppa Loves Yoga</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2678923)
+### [<cite>Peppa Loves Yoga</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2678923) and [<cite>Peppa Goes Swimming</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2675332)
 
-> "It is a very busy day at Peppa and George's playgroup, but they have a very special visitor coming in the afternoon. Miss Rabbit is going to teach the children how to calm down and relax with yoga. The children love learning all the different positions... and the parents love picking up their calm children!"
+The little pig gets active for the new year.
 
 ### [<cite>My First Yoga: fun and simple yoga poses for babies and toddlers</cite>, by DK](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2679062)
 
