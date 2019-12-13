@@ -76,7 +76,7 @@ breadcrumb: help
     </tr>
     <tr>
       <td>
-        Children&#8217;s and books (each)
+        Children&#8217;s books (each)
       </td>
       <td>
         3 weeks

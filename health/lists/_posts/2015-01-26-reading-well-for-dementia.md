@@ -17,6 +17,10 @@ Reading Well Books on Prescription for dementia recommends books you might find 
 
 ## Information and advice
 
+### [<cite>A Pocket Guide to Understanding Alzheimer's Disease and other dementias</cite>, by James Warner & Nori Graham](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2362221)
+
+> "If you or a loved one are worried about Alzheimer's disease or other types of dementia, this pocket guide will help you to better understand the conditions, and how they are diagnosed and treated. Written by leading dementia experts, this book provides clear and concise information on: symptoms; diagnosis and treatments; getting help and support; tips for people living with dementia; advice for carers."
+
 ### [<cite>About Dementia: for people with learning disabilities</cite>, by Karen Dodd, Vicky Turk & Michelle Christmas](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1726894)
 
 > "This title looks specifically at the challenges that people with learning disabilities who develop dementia may face."
