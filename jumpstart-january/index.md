@@ -1,7 +1,7 @@
 ---
 title: "Jumpstart January"
 layout: featured
-featured-hero-description: "Jumpstart your January and get your 2020 off to a fantastic start with events, great reads and help & advice."
+featured-hero-description: "Spring into 2020 with a health and wellbeing check-up, a great book or by finding something new at the library."
 featured-hero-image: "jj/jj-splash.jpg"
 featured-hero-alt: ""
 header-bg: custom-bg-corporate
