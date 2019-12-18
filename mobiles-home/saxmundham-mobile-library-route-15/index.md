@@ -12,8 +12,6 @@ Email: [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk?subject
 
 Telephone: 01473 351249
 
-**New route for 2018**
-
 ## Route timetable
 
 <table class="pure-table">
@@ -41,11 +39,11 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="139">
-      Rendlesham Pre-school
+      Rendlesham
     </td>
 
     <td valign="bottom" width="176">
-      Car park, Acer Road
+      Nursery
     </td>
 
     <td valign="bottom" width="97">
@@ -182,4 +180,4 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Thursdays:**
 
-**2019:** 3 January, 31 January, 28 February, 28 March, 25 April, 23 May, 20 June, 18 July, 15 August, 12 September, 10 October, 7 November, 5 December
+**2020:** 2 January, 30 January, 27 February, 26 March, 23 April, 21 May, 18 June, 16 July, 13 August, 10 September, 8 October, 5 November, 3 December, 31 December

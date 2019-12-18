@@ -133,7 +133,7 @@ Telephone: 01473 351249
     </td>
 
     <td width="169">
-      Village Hall
+      Green
     </td>
 
     <td width="112">
@@ -151,7 +151,7 @@ Telephone: 01473 351249
     </td>
 
     <td width="169">
-      Green
+      Village Hall
     </td>
 
     <td width="112">
@@ -216,4 +216,4 @@ Telephone: 01473 351249
 
 ### Calling every 4 weeks on Tuesdays:
 
-**2019:** 22 January, 19 February, 19 March, 16 April, 14 May, 11 June, 9 July, 6 August, 3 September, 1 October, 29 October, 26 November, **no visit in December**
+**2020:** 21 January, 18 February, 17 March, 14 April, 12 May, 9 June, 7 July, 4 August, 1 September, 29 September, 27 October, 24 November, 22 December

@@ -197,4 +197,6 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Fridays:**
 
-**2019:** 18 January, 15 February, 15 March, 12 April, 10 May, 7 June, 5 July, 2 August, 30 August, 27 September, 25 October, 22 November, 20 December
+**2019:** 20 December
+
+**2020:** 17 January, 14 February, 13 March, **no visit in April**, **Monday 4 May**, 5 June, 3 July, 31 July, 28 August, 25 September, 23 October, 20 November, 18 December
