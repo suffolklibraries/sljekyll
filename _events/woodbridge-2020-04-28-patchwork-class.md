@@ -12,3 +12,5 @@ breadcrumb: y
 Join Annabelle Reynolds for a patchwork class for all abilities. This session, you'll make a small mat using the Somerset star folded fabric technique.
 
 Ticket price includes materials and use of tools as well as a tea or coffee.
+
+Email **annabellerey4textiles@gmail.com** for more information and to book your place.
