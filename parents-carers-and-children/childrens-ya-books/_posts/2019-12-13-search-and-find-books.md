@@ -6,11 +6,11 @@ author: sophie-green
 category: childrens-ya-books
 excerpt: "Are you finding these super-popular boredom-busters as elusive as the characters they conceal? Reserve them from our catalogue to the reservation shelf."
 featured-image: /images/featured/featured-search-and-find.jpg
-featured-alt: ""
+featured-alt: "Where's the Narwhal?, Elmer Search and Find, Where's the Wookiee? 3"
 breadcrumb: childrens-ya-books
 ---
 
-![](/images/featured/featured-search-and-find.jpg)
+![Where's the Narwhal?, Elmer Search and Find, Where's the Wookiee? 3](/images/featured/featured-search-and-find.jpg)
 
 Are you finding these super-popular boredom-busters as elusive as the characters they conceal (hint: they can be classed under 793 in junior non-fiction or as picture books for older readers)? Reserve them from our catalogue to the reservation shelf.
 
