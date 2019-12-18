@@ -26,6 +26,7 @@ branch-bookdrop: y
 branch-refreshments: hot drinks for sale
 branch-which: y
 branch-for-sale: '<ul>
+                  <li>Tickets for <cite>Cinderella</cite>, the 40th Reydon and Southwold Pantomime, at Southwold Arts Centre on 26, 28, 30 and 31 January and 1 February 2020.</li>
                   <li><a href="https://www.ticketsource.co.uk/suffolklibraries">Adopt a library animal</a>: online or by picking up a form from the library. Minimum £10 donation.</li>
                   <li>Crafts, Southwold and Suffolk Coast Treasure Trails sheets.</li>
                   <li>Local authors&#39; books.</li>
