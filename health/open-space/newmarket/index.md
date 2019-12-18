@@ -108,11 +108,31 @@ No session
 
 <tr>
 <td>
+27.12.19, 2:30-4:30pm
+</td>
+
+<td>
+Drop in for refreshments, chat and games (if you fancy!)
+</td>
+</tr>
+
+<tr>
+<td>
 01.01.20
 </td>
 
 <td>
 No session
+</td>
+</tr>
+
+<tr>
+<td>
+03.01.19, 2:30-4:30pm
+</td>
+
+<td>
+Drop in for refreshments, chat and games (if you fancy!)
 </td>
 </tr>
 
