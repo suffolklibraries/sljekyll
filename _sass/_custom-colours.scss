@@ -10,6 +10,12 @@
   color: $corporate;
 }
 
+a.hover-custom-corporate:hover,
+a.hover-custom-corporate:active,
+a.hover-custom-corporate:focus {
+  color: $corporate;
+}
+
 .custom-corporate-green {
   color: $corporate-green;
 }
