@@ -1,5 +1,5 @@
 ---
-name: "'Lab in a Library' from Kinetic Science for ages 5+ - 10:30am session"
+name: "'Lab in a Library' from Kinetic Science for ages 5+"
 location: haverhill-library
 location-text: Haverhill Library
 event-start-date: 2019-12-21

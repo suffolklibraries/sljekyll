@@ -1,10 +1,13 @@
 ---
-name: "Winter vegan market"
+name: "Jumpstart January: Winter vegan market"
 location: beccles-library
 location-text: Beccles Library
 event-start-date: 2020-01-18
 event-start-time: 1130
 event-end-time: 1500
+event-ticket-price: free admission
+event-category: jumpstart
+jj-region: north
 breadcrumb: y
 ---
 
@@ -19,3 +22,5 @@ Whether you've been vegan for a while, have committed to Veganuary or a new year
 * Cheese
 * Cakes
 * And much more!
+
+This event is part of [Jumpstart January](/jumpstart-january/), a month dedicated to everything our libraries do to boost your wellbeing.
