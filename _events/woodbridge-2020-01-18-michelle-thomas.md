@@ -5,7 +5,7 @@ location-text: Woodbridge Library
 event-start-date: 2020-01-18
 event-start-time: 1930
 event-end-time: 2100
-event-ticket-price: 5.70
+event-ticket-price: "5.70"
 event-ticket-url: https://www.eventbrite.co.uk/e/michelle-thomas-my-sit-therapist-author-event-for-suffolk-libraries-jumpstart-january-tickets-84004432519
 event-category: jumpstart
 jj-region: east

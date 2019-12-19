@@ -127,6 +127,20 @@ breadcrumb: events
   text="Try our expert-selected books to supercharge your wellbeing into 2020."
 %}
 
+{%
+  include z-bar.html
+  src="jj/michelle-thomas.jpg"
+  alt=""
+  color="white"
+  layout-reverse="true"
+  bg-color="custom-bg-corporate"
+  title="An evening with My Sh*t Therapist author, Michelle Thomas"
+  link="/events/woodbridge-2020-01-18-michelle-thomas/"
+  link-text="Get a ticket &rarr;"
+  link-color="white"
+  text="<cite>My Sh*t Therapist</cite> is an honest account of living with mental illness, which mimics the frank, honest and funny interactions Michelle has had with her friends and followers about madness, medication, and making the most of a misbehaving brain."
+%}
+
 <!-- {%
   include z-bar.html
   src="about/dojo2.jpg"
