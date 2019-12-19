@@ -36,5 +36,4 @@ branch-other-facilities: '<ul>
                           <li><a href="https://bobbybuddies.co.uk/">Bobby Buddies collection point</a></li>
                           </ul>'
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, sports equipment, free sanitary products."
-branch-for-sale: '<a href="https://www.cardsforcharity.co.uk/">Cards for Good Causes</a>'
 ---
