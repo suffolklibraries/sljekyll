@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Jumpstart your January with our top books to help you eat well"
-date: 2020-12-18
+date: 2019-12-19
 author: brandon-king
 category: articles
 excerpt: "Jumpstart January is our month-long celebration of everything we do to improve your wellbeing. To mark the occasion, we've picked out some of our most trusted books to help you eat well."
