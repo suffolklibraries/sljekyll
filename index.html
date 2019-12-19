@@ -6,11 +6,111 @@ meta-title: "Home"
 meta-description: "Reserve and renew titles, download eBooks, eAudio and music, and find libraries and events"
 ---
 
-<section class="pb3 pb4-ns">
+<div class="flex-l flex-wrap-l justify-between-l">
 
-    <h2 class="f4 f3-ns pa0 ma0 mb2 pt2 pb2 bb b--light-gray">More</h2>
+  <div class="w-30-l">
 
-    <ul class="list ma0 mb2 pa0 f5">
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/elibrary/" class="underline-hover">eLibray</a></h2>
+
+    <p class="custom-lh-title f6">Free eBooks, magazines, eAudio, streaming</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/libraries/" class="underline-hover">Libraries</a></h2>
+
+    <p class="custom-lh-title f6">Opening times, facilities, events</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/mobiles-home/" class="underline-hover">Mobiles &amp; home service</a></h2>
+
+    <p class="custom-lh-title f6">Routes, timetables &amp; visits to houses and care homes</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/events-activities/" class="underline-hover">Events &amp; activities</a></h2>
+
+    <p class="custom-lh-title f6">Regular &amp; one off events, reading groups, courses</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/health/" class="underline-hover">Health &amp; wellbeing</a></h2>
+
+    <p class="custom-lh-title f6">Drop-ins, self-help reading, events, information</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/research-and-reference/" class="underline-hover">Research &amp; reference</a></h2>
+
+    <p class="custom-lh-title f6">Family history, encyclopedias, reference</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/help-with-reading-and-literacy/" class="underline-hover">Reading &amp; literacy</a></h2>
+
+    <p class="custom-lh-title f6">Helpful organisations, large print books</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/new-suggestions/" class="underline-hover">Recommendations &amp; reviews</a></h2>
+
+    <p class="custom-lh-title f6">Staff picks, reviews, articles, author interviews</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/parents-carers-and-children/" class="underline-hover">Parents, carers &amp; children</a></h2>
+
+    <p class="custom-lh-title f6">Family reading lists, children’s suggestions</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/help/" class="underline-hover">Help using the service</a></h2>
+
+    <p class="custom-lh-title f6">Charges, joining, printing &amp; copying</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/news/" class="underline-hover">News</a></h2>
+
+    <p class="custom-lh-title f6">Updates, press releases, blogs</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/about/jobs/" class="underline-hover">Jobs</a></h2>
+
+    <p class="custom-lh-title f6">Vacancies</p>
+
+  </div>
+
+</div>
+
+<section class="pt4 pb3 pb4-ns">
+
+    <h2 class="f5 pa0 ma0 mb2 pt2 pb2 bb b--light-gray">More</h2>
+
+    <ul class="list ma0 mb2 pa0 f6">
 
         <li class="dib-ns mr3-ns"><a href="/about/" class="db pv1 underline-hover dark-gray hover-custom-corporate">About us</a></li>
         <li class="dib-ns mr3-ns"><a href="/teachers-and-home-educators/" class="db pv1 underline-hover dark-gray hover-custom-corporate">Teachers &amp; home educators</a></li>
@@ -31,11 +131,11 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
      {% for post in featured_posts limit:1 %}
 
-         <article class="flex-l mv2 mv3-ns mt4-ns pv2 pv3-ns bt b--light-gray">
+         <article class="flex-l mv2 mv3-ns mt4-ns pv2 pv3-ns">
 
              <div class="w-50-l pr3-l">
 
-                 <h2 class="f4 f3-ns pa0 ma0 mb2 pt2 pb2 bb b--light-gray"><a href="{{ post.url }}" class="pv1 underline-hover dark-gray hover-custom-corporate">{{ post.title }}</a></h2>
+                 <h2 class="f4 pa0 ma0 mb2 pt0 pb2 bb b--light-gray"><a href="{{ post.url }}" class="pv1 underline-hover dark-gray hover-custom-corporate">{{ post.title }}</a></h2>
 
                  <p class="ma0 mb3 {% include /c/prose.html %}">{{ post.featured-excerpt }}</p>
 
@@ -57,7 +157,7 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
          <article class="cf mv2 mv3-ns mt4-ns pv2 pv3-ns">
 
-             <h2 class="f4 f3-ns pa0 ma0 mb2 pt2 pb2 bb b--light-gray"><a href="/new-suggestions/" class="pv1 underline-hover dark-gray hover-custom-corporate">Recommendations &amp; reviews</a></h2>
+             <h2 class="f4 pa0 ma0 mb2 pt0 pb2 bb b--light-gray"><a href="/new-suggestions/" class="pv1 underline-hover dark-gray hover-custom-corporate">Recommendations &amp; reviews</a></h2>
 
              <div class="custom-g-l3">
 
