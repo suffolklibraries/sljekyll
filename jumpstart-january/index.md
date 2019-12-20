@@ -131,7 +131,7 @@ breadcrumb: events
 {%
   include z-bar.html
   src="jj/michelle-thomas.jpg"
-  alt=Michelle Thomas""
+  alt="Michelle Thomas"
   color="white"
   layout-reverse="true"
   bg-color="custom-bg-corporate"
