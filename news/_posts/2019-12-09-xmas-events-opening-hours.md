@@ -11,11 +11,10 @@ jquery: true
 dynatable: true
 event-filter: xmas
 featured: true
-featured-excerpt: "<p>In the lead-up to Christmas, you're invited to join in the festive cheer with a range of seasonal events.</p>
-<p>All Suffolk libraries will be closed on 24, 25 and 26 December, and 1 January 2020.</p>"
+featured-excerpt: "Join the festive cheer with our seasonal events. All libraries will be closed 24, 25 and 26 December, and 1 January 2020."
 featured-link-href-text: "See what's happening at your library this Christmas &rarr;"
-featured-image: "/images/featured/featured-lowestoft-xmas.jpg"
-featured-alt: "Father Christmas reading a book at Lowestoft Library"
+featured-image: "/images/featured/ga-crafts.jpg"
+featured-alt: "Father doing crafts with daughter in a library"
 ---
 
 In the lead-up to Christmas, you're invited to join in the festive cheer with a range of seasonal events.
