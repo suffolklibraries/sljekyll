@@ -28,4 +28,5 @@ branch-room-hire: /libraries/room-hire/oulton-broad-library
 breadcrumb: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, Lego Club, older people's activities."
 branch-pride-and-periods: y
+branch-news: The library will be closing at 3pm on Sunday 29 October.
 ---
