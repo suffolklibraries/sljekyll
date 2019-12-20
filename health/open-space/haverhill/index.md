@@ -9,7 +9,7 @@ breadcrumb: health
 
 Here is the latest timetable for Open Space at Haverhill Library. Lots of exciting things coming up and some great discussions.
 
-If you have any questions please do get in touch, or just come along to a session on Fridays from 12:30-2:30pm at [Haverhill Library](/libraries/haverhill-library/) &#8211; all are welcome!
+If you have any questions please do get in touch, or just come along to a session on Fridays from 12:00-2:00pm at [Haverhill Library](/libraries/haverhill-library/) &#8211; all are welcome!
 
 Running order: tea/coffee &rarr; informal discussion topic or activity &rarr; tea/coffee. You can come and just listen if you prefer and drop in and out as you please.
 
