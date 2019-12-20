@@ -7,7 +7,20 @@ pad-content: true
 
 <h1 class="{% include /c/page-title.html %}">{{ page.title }}</h1>
 
-<div class="flex-l flex-wrap-l justify-between-l">
+{%
+  include z-bar.html
+  src="jj/jj-splash.jpg"
+  alt=""
+  color="white"
+  bg-color="custom-bg-corporate"
+  title="Jumpstart January"
+  link="/jumpstart-january/"
+  link-text="Kick start your 2020 &rarr;"
+  link-color="white"
+  text="Boost your wellbeing in 2020 with drop-ins, health check-ups, self-help reads and trying something new at the library."
+%}
+
+<div class="mt3 flex-l flex-wrap-l justify-between-l">
 
     <div class="w-30-l mb3">
 
