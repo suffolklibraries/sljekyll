@@ -2,7 +2,7 @@
 name: "Mini patchwork class: Make Origami decorations"
 location: woodbridge-library
 location-text: Woodbridge Library
-event-start-date: 2020-05-26
+event-start-date: 2020-11-24
 event-start-time: 1000
 event-end-time: 1200
 event-ticket-price: 12
