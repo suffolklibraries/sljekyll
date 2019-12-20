@@ -13,7 +13,7 @@ breadcrumb: elibrary-picks
 
 ![When the Time Comes, A Hut of One's Own, The Dark Isle](/images/featured/featured-elibrary-december-2019.jpg)
 
-We're always adding great titles to our [eLibrary](/elibrary/). We've listed some of our favourite new eBooks on [OverDrive](/elibrary/overdrive/) for November to help you choose your next digital read.
+We're always adding great titles to our [eLibrary](/elibrary/). We've listed some of our favourite new eBooks on [OverDrive](/elibrary/overdrive/) for December to help you choose your next digital read.
 
 See also:
 

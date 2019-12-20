@@ -54,7 +54,7 @@ breadcrumb: events
       {% assign event_loc = event.location-text | replace: " Library", "" | replace: " Community", "" %}
       {% assign event_date = event.event-start-date | date: "%b %-d" %}
 
-        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span><br>{{ event_name }}</a>
+        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span> <br><span class="f6">{{ event_date }}</span> <br>{{ event_name }}</a>
 
       {% endfor %}
 
@@ -72,7 +72,7 @@ breadcrumb: events
       {% assign event_loc = event.location-text | replace: " Library", "" | replace: " Community", "" %}
       {% assign event_date = event.event-start-date | date: "%b %-d" %}
 
-        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span><br>{{ event_name }}</a>
+        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span> <br><span class="f6">{{ event_date }}</span> <br>{{ event_name }}</a>
 
       {% endfor %}
 
@@ -90,7 +90,7 @@ breadcrumb: events
       {% assign event_loc = event.location-text | replace: " Library", "" | replace: " Community", "" %}
       {% assign event_date = event.event-start-date | date: "%b %-d" %}
 
-        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span><br>{{ event_name }}</a>
+        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span> <br><span class="f6">{{ event_date }}</span> <br>{{ event_name }}</a>
 
       {% endfor %}
 
@@ -108,7 +108,7 @@ breadcrumb: events
       {% assign event_loc = event.location-text | replace: " Library", "" | replace: " Community", ""  %}
       {% assign event_date = event.event-start-date | date: "%b %-d" %}
 
-        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span><br>{{ event_name }}</a>
+        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span> <br><span class="f6">{{ event_date }}</span> <br>{{ event_name }}</a>
 
       {% endfor %}
 
