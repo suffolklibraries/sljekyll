@@ -87,6 +87,10 @@ We have a whole range of photographic titles to help people with dementia rememb
 
 > "Meet Jack - an older man with dementia. Jack invites readers to learn about dementia from his perspective, helping them to understand the challenges faced by someone with dementia and the changes it causes to memory, communication and behaviour."
 
+### [<cite>When Someone You Love Has Dementia</cite>, by Susan Elliot-Wright](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1091903)
+
+> "For individual carers without enough support, having a loved one with dementia often remains challenging. This text looks at the practicalities and relationships."
+
 ## Personal stories
 
 ### [<cite>But Then Something Happened: a story of everyday dementia</cite>, by Chris Carling](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1422532)

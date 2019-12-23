@@ -21,7 +21,6 @@ breadcrumb: member-organisations
 ## Contact us
 
 * Email: newmarketfriends@gmail.com
-* Facebook: [Friends of Newmarket Library](http://www.facebook.com/friendsofnewmarketlibrary)
 * Ask at the counter in Newmarket Library
 
 ## How to join:
