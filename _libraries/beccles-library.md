@@ -37,5 +37,4 @@ branch-other-facilities: '<ul>
                           <li>1940s, 1950s, 1960s and 1970s memory boxes available to local borrowers for up to three weeks. No library card required. Contact the library for more information.</li>
                           </ul>'
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, reminiscence items for dementia."
-branch-for-sale: '<a href="https://www.cardsforcharity.co.uk/">Cards for Good Causes</a>, greetings cards for various occasions'
 ---

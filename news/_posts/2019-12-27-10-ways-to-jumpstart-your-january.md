@@ -36,9 +36,11 @@ We recently relaunched our [Wordplay](/wordplay/) sessions, which [improve speec
 
 You can also find breastfeeding support at [Chantry Library](/libraries/chantry-library/) on the first Monday of the month at 9:30am and at [Broomhill Library](/libraries/broomhill-library/) on Thursdays at 10am.
 
-## 7. Fulfil that New Year's resolution to lose weight safely and steadily
+## 7. Learn something new with Kanopy's Health & Wellness documentaries
 
-Ready to get fit for the new year? Slimming World offers weekly meetings at [Ipswich County Library](/libraries/ipswich-county-library/) on Thursdays from 9:30-11am and 12-1:30pm.
+Our video streaming service, [Kanopy](https://suffolklibraries.kanopy.com/), has hundreds of films to choose from in its [Health & Wellness category](https://suffolklibraries.kanopy.com/category/29293). Watch acclaimed documentaries on sports and fitness, nutrition, mental health and more, or take your knowledge further with one of [The Great Courses](https://suffolklibraries.kanopy.com/category/44478).
+
+[Set up Kanopy &rarr;](/elibrary/kanopy/)
 
 ## 8. Reminisce about Sporting Memories
 

@@ -1,36 +1,20 @@
 ---
 layout: sidebar-right
-title: "Christmas events and opening hours at Suffolk Libraries"
-date: 2019-12-09
+title: "Christmas opening hours at Suffolk Libraries"
+date: 2019-12-23
 author: alice-violett
 category: news
-excerpt: '<p class="mt0">In the lead-up to Christmas, you&apos;re invited to join in the festive cheer with a range of seasonal events.</p>
-<p class="mb0">All Suffolk libraries will be closed on 24, 25 and 26 December, and 1 January 2020.</p>'
+excerpt: 'All Suffolk libraries will be closed on 24, 25 and 26 December, and 1 January 2020.'
 breadcrumb: news
-jquery: true
-dynatable: true
-event-filter: xmas
 featured: true
-featured-excerpt: "Join the festive cheer with our seasonal events. All libraries will be closed 24, 25 and 26 December, and 1 January 2020."
-featured-link-href-text: "See what's happening at your library this Christmas &rarr;"
+featured-excerpt: "All Suffolk libraries will be closed on 24, 25 and 26 December, and 1 January 2020."
+featured-link-href-text: "Read more &rarr;"
 featured-image: "/images/featured/ga-crafts.jpg"
 featured-alt: "Father doing crafts with daughter in a library"
 ---
-
-In the lead-up to Christmas, you're invited to join in the festive cheer with a range of seasonal events.
 
 All Suffolk libraries will be closed on 24, 25 and 26 December, and 1 January 2020.
 
 If [your local library](/libraries/) normally stays open late on Tuesdays, it will be closing at the earlier time of 5pm on Tuesday 31 December.
 
-Several libraries are celebrating Christmas with special events. Highlights include:
-
-* Opportunities to meet Father Christmas at Haverhill, Lowestoft and Sudbury libraries
-* A chance for 0-5 year-olds and their parents/carers to meet owls, hear stories and enjoy seasonal refreshments at Suffolk Owl Sanctuary, with staff from Stowmarket Library
-* Christmas tree festivals at Stowmarket and Thurston libraries
-* Festive family film screenings at Ipswich County Library
-* A very special community pantomime at Chantry Methodist Church starring members of library staff!
-
-A list of festive events across our libraries follows.
-
-{% include filtered-events-table.html %}
+We'd like to wish all our customers a Merry Christmas and a Happy New Year.

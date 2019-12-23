@@ -36,6 +36,5 @@ branch-room-hire: /libraries/room-hire/aldeburgh-library
 branch-display-space: "Two cork boards in the foyer."
 branch-which: y
 breadcrumb: y
-branch-for-sale: '<a href="https://www.cardsforcharity.co.uk/">Cards for Good Causes</a>'
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, reminiscence items for dementia."
 ---

@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Lucinda Riley'
-date: 2020-12-23
+date: 2019-12-23
 author: brandon-king
 category: meet-the-author
 excerpt: "Lucinda Riley tells us where she got the idea for the Seven Sisters series and why she chose to set <cite>The Butterfly Room</cite> in Southwold, and relays a Christmas message to her many Suffolk readers."

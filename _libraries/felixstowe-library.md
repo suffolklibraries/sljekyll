@@ -30,5 +30,4 @@ branch-other-facilities: 'East Suffolk Council customer services. Visit the <a h
 breadcrumb: y
 branch-payments: cash, cheques and cards accepted
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, older people's activities, health & wellbeing groups."
-branch-for-sale: '<a href="https://www.cardsforcharity.co.uk/">Cards for Good Causes</a>'
 ---
