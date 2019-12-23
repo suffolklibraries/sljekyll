@@ -6,7 +6,7 @@ recurrent-description: '<ul class="f6 ma0">
                         <li>10 January: Meet the Author: David Laws</li>
                         <li>17 January: Art & craft group</li>
                         <li>24 January: Digital scrapbooking with Realise Futures</li>
-                        <li>31 January: Jumpstart January: talk from Yvonne Davey-Croft on Moving positively into 2020 with Emotional Freedom Techniques.
+                        <li>31 January: Jumpstart January: talk from Yvonne Davey-Croft on Moving Positively into 2020 with Emotional Freedom Techniques.
                         </ul>'
 recurrent-day: Friday
 recurrent-times: 1000-1200
