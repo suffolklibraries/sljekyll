@@ -9,4 +9,4 @@ event-ticket-price: free
 breadcrumb: y
 ---
 
-Are you thinking about tracing your family history in 2019, or have you hit a bump in your research? Drop in for help from experienced researchers from Suffolk Family History Society.
+Are you thinking about tracing your family history in 2020, or have you hit a bump in your research? Drop in for help from experienced researchers from Suffolk Family History Society.

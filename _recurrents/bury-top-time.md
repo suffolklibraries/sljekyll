@@ -1,11 +1,12 @@
 ---
 recurrent-title: "Top Time: for ages 55+"
 recurrent-description: '<ul class="f6 ma0">
-                        <li>29 November: Charity talk by Re-engage</li>
-                        <li>6 December: Book group</li>
-                        <li>13 December: Bell ringers & Christmas party</li>
-                        <li>20 December: Art & craft group: making calendars</li>
                         <li>27 December: Chit-chat morning</li>
+                        <li>3 January 2020: Book group: <cite>The Keeper of Lost Things</cite>, by Ruth Hogan</li>
+                        <li>10 January: Meet the Author: David Laws</li>
+                        <li>17 January: Art & craft group</li>
+                        <li>24 January: Digital scrapbooking with Realise Futures</li>
+                        <li>31 January: Jumpstart January: talk from Yvonne Davey-Croft on Moving positively into 2020 with Emotional Freedom Techniques.
                         </ul>'
 recurrent-day: Friday
 recurrent-times: 1000-1200
