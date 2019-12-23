@@ -35,8 +35,9 @@ breadcrumb: events
         {% assign event_name = event.name | strip_html | replace: "Jumpstart January: ", "" | replace: "Jumpstart January ", "" %}
         {% assign event_loc = event.location-text | replace: " Library", "" | replace: " Community", ""  %}
         {% assign event_date = event.event-start-date | date: "%b %-d" %}
+        {% assign event_end_date = event.event-end-date | date: "%b %-d" %}
 
-          <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span> <br><span class="f6">{{ event_date }}</span> <br>{{ event_name }}</a>
+          <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span> <br><span class="f6">{{ event_date }}{% if event.event-end-date %} &#8211; {{ event_end_date }}{% endif %}</span> <br>{{ event_name }}</a>
 
         {% endfor %}
 
@@ -53,8 +54,9 @@ breadcrumb: events
       {% assign event_name = event.name | strip_html | replace: "Jumpstart January: ", "" | replace: "Jumpstart January ", "" %}
       {% assign event_loc = event.location-text | replace: " Library", "" | replace: " Community", "" %}
       {% assign event_date = event.event-start-date | date: "%b %-d" %}
+      {% assign event_end_date = event.event-end-date | date: "%b %-d" %}
 
-        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span> <br><span class="f6">{{ event_date }}</span> <br>{{ event_name }}</a>
+        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span> <br><span class="f6">{{ event_date }}{% if event.event-end-date %} &#8211; {{ event_end_date }}{% endif %}</span> <br>{{ event_name }}</a>
 
       {% endfor %}
 
@@ -71,8 +73,9 @@ breadcrumb: events
       {% assign event_name = event.name | strip_html | replace: "Jumpstart January: ", "" | replace: "Jumpstart January ", "" %}
       {% assign event_loc = event.location-text | replace: " Library", "" | replace: " Community", "" %}
       {% assign event_date = event.event-start-date | date: "%b %-d" %}
+      {% assign event_end_date = event.event-end-date | date: "%b %-d" %}
 
-        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span> <br><span class="f6">{{ event_date }}</span> <br>{{ event_name }}</a>
+        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span> <br><span class="f6">{{ event_date }}{% if event.event-end-date %} &#8211; {{ event_end_date }}{% endif %}</span> <br>{{ event_name }}</a>
 
       {% endfor %}
 
@@ -89,8 +92,9 @@ breadcrumb: events
       {% assign event_name = event.name | strip_html | replace: "Jumpstart January: ", "" | replace: "Jumpstart January ", "" %}
       {% assign event_loc = event.location-text | replace: " Library", "" | replace: " Community", "" %}
       {% assign event_date = event.event-start-date | date: "%b %-d" %}
+      {% assign event_end_date = event.event-end-date | date: "%b %-d" %}
 
-        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span> <br><span class="f6">{{ event_date }}</span> <br>{{ event_name }}</a>
+        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span> <br><span class="f6">{{ event_date }}{% if event.event-end-date %} &#8211; {{ event_end_date }}{% endif %}</span> <br>{{ event_name }}</a>
 
       {% endfor %}
 
@@ -107,8 +111,9 @@ breadcrumb: events
       {% assign event_name = event.name | strip_html | replace: "Jumpstart January: ", "" | replace: "Jumpstart January ", "" %}
       {% assign event_loc = event.location-text | replace: " Library", "" | replace: " Community", ""  %}
       {% assign event_date = event.event-start-date | date: "%b %-d" %}
+      {% assign event_end_date = event.event-end-date | date: "%b %-d" %}
 
-        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span> <br><span class="f6">{{ event_date }}</span> <br>{{ event_name }}</a>
+        <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span> <br><span class="f6">{{ event_date }}{% if event.event-end-date %} &#8211; {{ event_end_date }}{% endif %}</span> <br>{{ event_name }}</a>
 
       {% endfor %}
 

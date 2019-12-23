@@ -28,7 +28,7 @@ Imogen Tink, library and information adviser at Felixstowe Library, added: "It h
 
 Local design company Silk Pearce have created the final anthology, including artwork inspired by scenes from around the town. Each student will be given a copy to keep following their performance on Friday and limited copies will also be available to buy at the Felixstowe Book Festival.
 
-The event takes place at [Felixstowe Library on Friday 28 June at 6pm](https://www.suffolklibraries.co.uk/events/felixstowe-2019-06-28-fbf-felixstowe-docs/). Tickets are free but space is limited, so booking is essential.
+The event takes place at Felixstowe Library on Friday 28 June at 6pm. Tickets are free but space is limited, so booking is essential.
 
 <pre>
 The library rests on the edge,
@@ -43,5 +43,5 @@ A place to read
 But also to learn,
 To unwind.
 
-&mdash; Felixstowe.docs participant 
+&mdash; Felixstowe.docs participant
 </pre>

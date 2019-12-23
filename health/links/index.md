@@ -243,7 +243,7 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="http://www.samaritans.org/">Samaritans</a> - If something's troubling you, then get in touch. Available 24 hours a day, 365 days a year</li>
 	<li><a href="https://www.mentalhealth.org.uk/a-to-z/s/suicide">Mental Health Foundation</a> - Information and guidance regarding suicide prevention</li>
 	<li><a href="https://www.thecalmzone.net/about-calm/what-is-calm/">CALM (Campaign Against Living Miserably)</a> - Offering support to men in the UK, of any age, who are down or in crisis via a helpline and website</li>
-	<li><a href="http://suffolk-sobs.org.uk/">Survivors of Bereavement by Suicide</a> - National helpline and local groups in Ipswich, Bury St Edmunds, Lowestoft and Norfolk that provide support for those affected by suicide</li>
+	<li><a href="http://hopeaftersuicideloss.org.uk/">Hope After Suicide Loss</a> - National helpline and local groups in Ipswich, Bury St Edmunds, Lowestoft and Norfolk that provide support for those affected by suicide</li>
 	<li><a href="http://media.wix.com/ugd/a72b48_5318444c562a4d6195afc6bf4ff116ff.pdf">Norfolk and Suffolk NHS Foundation Trust (PDF)</a> - Local suicide prevention strategy on providing care and support</li>
 	<li><a href="http://www.healthysuffolk.org.uk/projects/suffolk-lives-matter/">Suffolk Lives Matter</a> - 24/7 free and anonymous chat or email as well as information on Suffolk's Suicide Prevention Strategy</li>
 </ul>

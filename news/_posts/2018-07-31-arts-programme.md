@@ -14,7 +14,7 @@ breadcrumb: news
 
 **Arts programme coordinator Melissa Matthews talks about the next big step in the development of the Suffolk Libraries Arts Programme.**
 
-This week is a very exciting one, as we’re approaching the next big step in the development of the [Suffolk Libraries Arts Programme](/arts). All week we are running a ‘Culture Lab’ artists' residency at Ipswich County Library. On Thursday 2 August, we will be holding a [‘Meet the Artists’ event](/events/ipswich-2018-08-02-culture-lab/), where we will also be unveiling the new name and brand for the programme.
+This week is a very exciting one, as we’re approaching the next big step in the development of the [Suffolk Libraries Arts Programme](/arts). All week we are running a ‘Culture Lab’ artists' residency at Ipswich County Library. On Thursday 2 August, we will be holding a ‘Meet the Artists’ event, where we will also be unveiling the new name and brand for the programme.
 
 Since finding out we had been awarded [National Portfolio status](/news/national-portfolio-organisation/) in June 2017 we have done a lot to develop our arts programme. I joined Suffolk Libraries as arts programme coordinator in April 2018 and have had a very exciting and busy few months working on the development of our new Arts Council England funded programme, which will be working to engage young people for the next four years (and hopefully beyond).
 

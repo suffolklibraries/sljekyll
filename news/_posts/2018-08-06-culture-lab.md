@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Suffolk Libraries ‘Meet the Artist’ event introduces new arts programme"
 date: 2018-08-06
 author: james-powell
-category: ["news", "bloc-news"]
+category: news
 excerpt: 'Suffolk Libraries has officially launched its exciting new arts programme.'
 featured-image: "/images/featured/featured-bloc-launch.jpg"
 featured-alt: "Our artists in residence celebrating the launch of BLOC, our new arts programme"
