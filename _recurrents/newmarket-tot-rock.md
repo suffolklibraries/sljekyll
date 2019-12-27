@@ -1,8 +1,8 @@
 ---
-recurrent-title: "Tot Rock"
-recurrent-description: 'Songs and action rhymes for toddlers.'
+recurrent-title: "Tot Rock & storytime"
+recurrent-description: 'Songs and action rhymes for toddlers followed by a story session.'
 recurrent-day: Thursday
-recurrent-times: 1030-1100
+recurrent-times: 1030-1115
 recurrent-location: newmarket-library
 recurrent-location-display-name: Newmarket Library
 recurrent-location-display-url: /branches/newmarket-library/
