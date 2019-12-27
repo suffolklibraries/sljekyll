@@ -3,11 +3,16 @@ title: "Jumpstart January"
 layout: featured
 featured-hero-description: "Spring into 2020 with a health and wellbeing check-up, a great book or by finding something new at the library."
 featured-hero-image: "jj/jj-splash.jpg"
-featured-hero-alt: ""
+featured-hero-alt: "Purple and yellow swirls on a pink and orange ombre background"
 header-bg: custom-bg-corporate
 jquery-ui: true
 tabs: true
 breadcrumb: events
+featured: true
+featured-excerpt: "Spring into 2020 with a health and wellbeing check-up, a great book or by finding something new at the library."
+featured-link-href-text: "Find out more &rarr;"
+featured-image: "/images/jj/jj-splash.jpg"
+featured-alt: "Purple and yellow swirls on a pink and orange ombre background"
 ---
 
 <section class="ph2 ph3-ns pt3 bg-white">

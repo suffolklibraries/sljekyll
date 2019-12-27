@@ -26,4 +26,5 @@ branch-colour-printing: available
 branch-scan-to-email: y
 breadcrumb: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, older people's activities, family history group."
+branch-news: "The library is closed today (Wednesday 27 December) due to a broken boiler."
 ---

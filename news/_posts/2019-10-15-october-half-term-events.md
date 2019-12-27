@@ -9,7 +9,7 @@ breadcrumb: news
 jquery: true
 dynatable: true
 event-filter: half-term
-featured: true
+featured: false
 featured-excerpt: "Children and families are invited to join us for author events, performances, arts and crafts and more."
 featured-link-href-text: "See what's on at your library this half-term &rarr;"
 featured-image: "/images/featured/arts-crafts-370.jpg"

@@ -6,10 +6,6 @@ author: alice-violett
 category: news
 excerpt: 'All Suffolk libraries will be closed on 24, 25 and 26 December, and 1 January 2020.'
 breadcrumb: news
-featured: true
-featured-excerpt: "All Suffolk libraries will be closed on 24, 25 and 26 December, and 1 January 2020."
-featured-link-href-text: "Read more &rarr;"
-featured-image: "/images/featured/ga-crafts.jpg"
 featured-alt: "Father doing crafts with daughter in a library"
 ---
 
