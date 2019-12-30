@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Tot Rock"
-recurrent-description: 'Songs and action rhymes for toddlers, no need to book. Starts at 10:45am on Monday 16 December for Christmas party, then no session until 6 January 2020.'
+recurrent-description: 'Songs and action rhymes for toddlers, no need to book.'
 recurrent-day: Mondays except for Bank Holidays.
 recurrent-times: 1100-1200
 recurrent-location: eye-library

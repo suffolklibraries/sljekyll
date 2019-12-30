@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Baby Bounce"
-recurrent-description: 'Soothing songs and gentle nursery rhymes for babies, no need to book. Starts at 10:45am on Monday 16 December for Christmas party, then no session until 6 January 2020.'
+recurrent-description: 'Soothing songs and gentle nursery rhymes for babies, no need to book.'
 recurrent-day: Mondays except for Bank Holidays.
 recurrent-times: 1015-1045
 recurrent-location: eye-library
