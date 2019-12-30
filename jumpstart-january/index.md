@@ -9,10 +9,10 @@ jquery-ui: true
 tabs: true
 breadcrumb: events
 featured: true
-featured-excerpt: "Spring into 2020 with a health and wellbeing check-up, a great book or by finding something new at the library."
+featured-excerpt: "Spring into 2020 with a wellbeing check-up, one of our healthy eating picks or by trying something new at the library."
 featured-link-href-text: "Find out more &rarr;"
 featured-image: "/images/jj/jj-splash.jpg"
-featured-alt: "Purple and yellow swirls on a pink and orange ombre background"
+featured-alt: "Purple and yellow swirls on a pink and orange background"
 ---
 
 <section class="ph2 ph3-ns pt3 bg-white">
@@ -156,18 +156,19 @@ featured-alt: "Purple and yellow swirls on a pink and orange ombre background"
   text="<cite>My Sh*t Therapist</cite> is an honest account of living with mental illness, which mimics the frank, honest and funny interactions Michelle has had with her friends and followers about madness, medication, and making the most of a misbehaving brain."
 %}
 
-<!-- {%
+{%
   include z-bar.html
-  src="about/dojo2.jpg"
-  alt="A girl concentrating at a laptop."
-  layout-reverse="true"
-  color="white"
-  bg-color="custom-bg-corporate"
-  title="Help &amp; advice"
-  text="<p>Expert advice &amp; help:</p><ul class='b list ma0 pa0'><li><a href='#' class='underline white'>Books to help with raising every sort of family &rarr;</a></li><li><a href='#' class='underline white'>Help with homework &amp; research &rarr;</a></li></ul>"
+  src="jj/lean-in-15.jpg"
+  alt="Jo Wicks next to the number 15"
+  bg-color="bg-near-white"
+  title="Top books to help you eat well"
+  link="/new-suggestions/articles/jumpstart-january-eating-well/"
+  link-text="Reserve a book &rarr;"
+  link-color="custom-corporate"
+  text="Over-indulged over the holiday period? Supercharge your health and continue eating well into 2020."
 %}
 
-<section class="ph2 ph3-ns pv3 bg-white">
+<!-- <section class="ph2 ph3-ns pv3 bg-white">
 
   <h2 class="tc f4 f3-ns custom-lh-title">Our sponsors</h2>
 

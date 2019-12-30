@@ -1,7 +1,6 @@
 ---
 title: "Suffolk Libraries Day"
 layout: featured
-featured: true
 featured-excerpt: "On Saturday 12 October, we're holding events across the county to celebrate everything our libraries do for their communities."
 featured-link-href-text: "Find out about Suffolk Libraries Day &rarr;"
 featured-image: "/images/featured/featured-bruce-and-pamela.jpg"
