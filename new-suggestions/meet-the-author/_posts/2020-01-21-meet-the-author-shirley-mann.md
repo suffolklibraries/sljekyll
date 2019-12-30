@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Shirley Mann'
-date: 2019-12-30
+date: 2020-01-21
 author: brandon-king
 category: meet-the-author
 excerpt: "Shirley Mann tells us about her debut novel, <cite>Lily's War</cite>, and becoming an author in her 60s after a successful career as a journalist and media and PR consultant."
@@ -12,7 +12,7 @@ breadcrumb: meet-the-author
 
 ![Shirley Mann](/images/featured/featured-shirley-mann.jpg)
 
-Shirley Mann is a former journalist and media and PR consultant who now writes fiction full-time. Her first novel, [<cite>Lily's War</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2670515) is published by Zaffre on 23 January 2020, and is available to reserve from the library, or to buy as a paperback or eBook for £7.99.
+Shirley Mann is a former journalist and media and PR consultant who now writes fiction full-time. Her first novel, [<cite>Lily's War</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2670515), is published by Zaffre on 23 January 2020, and is available to reserve from the library, or to buy as a paperback or eBook for £7.99.
 
 ## 1. Who were your literary heroes and influences growing up?
 

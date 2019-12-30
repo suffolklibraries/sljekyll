@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Jessica Moor'
-date: 2019-12-29
+date: 2020-03-03
 author: brandon-king
 category: meet-the-author
 excerpt: "Jessica Moor tells us all about her intense debut thriller, <cite>Keeper</cite>."
@@ -12,7 +12,7 @@ breadcrumb: meet-the-author
 
 ![Jessica Moor](/images/featured/featured-jessica-moor.jpg)
 
-Jessica Moor grew up in south-west London. She has a BA in English Literature from Cambridge University and an MA in Creative Writing from the University of Manchester and lives in Berlin. Her debut thriller, [<cite>Keeper</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2702475) is published on 26 March.
+Jessica Moor grew up in south-west London. She has a BA in English Literature from Cambridge University and an MA in Creative Writing from the University of Manchester and lives in Berlin. Her debut thriller, [<cite>Keeper</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2702475), is published on 26 March.
 
 ## 1. Who were your literary heroes and influences as you were growing up?
 
@@ -50,12 +50,12 @@ I saw that Winterson was the Professor of Creative Writing at the University of 
 
 ## 7. Do you have a message for your readers here in Suffolk?
 
-Several. Firstly, enjoy having access to an English-language library! I live in Berlin now. Going to the library is one of the things I miss most about home. That and nice shop-bought sandwiches.
+Firstly, enjoy having access to an English-language library! I live in Berlin now. Going to the library is one of the things I miss most about home. That and nice shop-bought sandwiches.
 
 Secondly, if you're worried about someone, if you think their partner is diminishing them, stick close. Don't let them get isolated. If you think it might help and it's safe to do so, say something. The national domestic violence helpline number is [0808 2000 247](tel:08082000247).
 
 ## 8. Can you tell us one thing your readers may not know about you?
 
-I started writing <cite>Keeper</cite> when I was twenty-three. My protagonist was older than me. But now she’s younger, and I feel correspondingly protective of her.
+I started writing <cite>Keeper</cite> when I was 23. My protagonist was older than me. But now she’s younger, and I feel correspondingly protective of her.
 
 Also, I was born with one kidney.
