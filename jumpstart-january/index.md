@@ -15,7 +15,7 @@ featured-image: "/images/jj/jj-splash.jpg"
 featured-alt: "Purple and yellow swirls on a pink and orange background"
 ---
 
-<section class="ph2 ph3-ns pt3 bg-white">
+<div class="ph2 ph3-ns pt3 bg-white">
 
   <div id="tabs" class="ba b--light-gray bg-white pa3">
 
@@ -128,7 +128,7 @@ featured-alt: "Purple and yellow swirls on a pink and orange background"
 
     </div>
 
-</section>
+</div>
 
 {%
   include z-bar.html
@@ -168,108 +168,24 @@ featured-alt: "Purple and yellow swirls on a pink and orange background"
   text="Over-indulged over the holiday period? Supercharge your health and continue eating well into 2020."
 %}
 
-<!-- <section class="ph2 ph3-ns pv3 bg-white">
+<div class="ph2 ph3-ns pt3 bg-white bt b--light-gray">
 
-  <h2 class="tc f4 f3-ns custom-lh-title">Our sponsors</h2>
+  <h2 class="tc f3 custom-lh-title">Partners</h2>
 
-  <div class="flex-ns flex-wrap-ns justify-between-ns">
+  <div class="flex flex-wrap pv3">
 
-  <div class="w-40-ns w-20-l pv3">
+    <div class="w-50 ph2 mb3">
 
-      <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.adnams.co.uk/"><img class="db" src="/images/featured/featured-adnams.jpg" alt="Adnams"></a>
-
-  </div>
-
-  <div class="w-40-ns w-20-l pv3">
-
-      <a class="db ba bw3 b--white pa2 pa3-ns" href="https://brittenpears.org/"><img class="db" src="/images/featured/featured-britten-pears.jpg" alt="Britten Pears Foundation"></a>
-
-  </div>
-
-    <div class="w-40-ns w-20-l pv3">
-
-        <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.careuk.com/"><img class="db" src="/images/featured/featured-care-uk.jpg" alt="Care UK"></a>
+      <p class="ma0 tc"><img class="db mw4" src="/images/jj/wellbeing-suffolk.jpg" alt="Wellbeing Suffolk"></p>
 
     </div>
 
-    <div class="w-40-ns w-20-l pv3">
+    <div class="w-50 ph2 mb3">
 
-        <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.cooperbmwipswich.co.uk/"><img class="db" src="/images/featured/featured-cooper-ipswich.jpg" alt="Cooper Ipswich"></a>
-
-    </div>
-
-    <div class="w-40-ns w-20-l pv3">
-
-        <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.eastofengland.coop/"><img class="db" src="/images/featured/featured-east-of-england-co-op.jpg" alt="East of England Co-op"></a>
-
-    </div>
-
-    <div class="w-40-ns w-20-l pv3">
-
-        <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.eocharging.com/"><img class="db" src="/images/featured/featured-eo.png" alt="EO"></a>
-
-    </div>
-
-    <div class="w-40-ns w-20-l pv3">
-
-        <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.exterionmedia.com/uk"><img class="db" src="/images/featured/featured-exterion-media.jpg" alt="Exterion Media"></a>
-
-    </div>
-
-    <div class="w-40-ns w-20-l pv3">
-
-        <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.hughes.co.uk/"><img class="db" src="/images/featured/featured-hughes-electrical.jpg" alt="Hughes Electrical"></a>
-
-    </div>
-
-    <div class="w-40-ns w-20-l pv3">
-
-        <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.imaginethat.com/"><img class="db" src="/images/featured/featured-imagine-that.jpg" alt="Imagine That"></a>
-
-    </div>
-
-    <div class="w-40-ns w-20-l pv3">
-
-        <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.ipswichbuses.co.uk/"><img class="db" src="/images/featured/featured-ipswich-buses.png" alt="Ipswich Buses"></a>
-
-    </div>
-
-    <div class="w-40-ns w-20-l pv3">
-
-        <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.uos.ac.uk/content/ipswich-waterfront-innovation-centre-0"><img class="db" src="/images/featured/featured-ipswich-waterfront-innovation-centre.jpg" alt="Ipswich Waterfront Innovation Centre"></a>
-
-    </div>
-
-    <div class="w-40-ns w-20-l pv3">
-
-        <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.larking-gowen.co.uk/"><img class="db" src="/images/featured/featured-mha-larking-gowen.jpg" alt="MHA Larking Gowen"></a>
-
-    </div>
-
-    <div class="w-40-ns w-20-l pv3">
-
-        <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.realisefutures.org/"><img class="db" src="/images/featured/featured-realise-futures.jpg" alt="Realise Futures"></a>
-
-    </div>
-
-    <div class="w-40-ns w-20-l pv3">
-
-        <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.ryans.co.uk/"><img class="db" src="/images/featured/featured-ryans.jpg" alt="Ryan's"></a>
-
-    </div>
-
-    <div class="w-40-ns w-20-l pv3">
-
-        <a class="db ba bw3 b--white pa2 pa3-ns" href="https://scarlettandmustard.co.uk/"><img class="db" src="/images/featured/featured-scarlett-and-mustard.jpg" alt="Scarlett & Mustard"></a>
-
-    </div>
-
-    <div class="w-40-ns w-20-l pv3">
-
-        <a class="db ba bw3 b--white pa2 pa3-ns" href="https://www.uos.ac.uk/"><img class="db" src="/images/featured/featured-university-of-suffolk-2.jpg" alt="University of Suffolk"></a>
+      <p class="ma0 tc"><img class="db mw4" src="/images/jj/nhs.png" alt="NHS"></p>
 
     </div>
 
   </div>
 
-</section> -->
+</div>
