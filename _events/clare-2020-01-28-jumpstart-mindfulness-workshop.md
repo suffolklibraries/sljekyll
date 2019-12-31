@@ -2,7 +2,7 @@
 name: "Jumpstart January: Mindfulness workshop with Wellbeing Suffolk"
 location: clare-library
 location-text: Clare Library
-event-start-date: 2020-01-29
+event-start-date: 2020-01-28
 event-start-time: 1100
 event-end-time: 1200
 event-ticket-price: free
