@@ -3,6 +3,8 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
+Gemfile.lock
+
 # Created by https://www.gitignore.io/api/macos,jekyll
 
 ### macOS ###
