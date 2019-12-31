@@ -47,7 +47,6 @@ The main terms of the loan are:
   * [Capel Library](/libraries/capel-st-mary-library)
   * [Clare Library](/libraries/clare-library)
   * [Halesworth Library](/libraries/halesworth-library)
-  * [Haverhill Library](/libraries/haverhill-library) (two Nexus 7 tablets also available to borrow)
   * [Ixworth Library](/libraries/ixworth-library)
   * [Kedington Library](/libraries/kedington-library)
   * [Lakenheath Library](/libraries/lakenheath-library)

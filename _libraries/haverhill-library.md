@@ -26,7 +26,7 @@ branch-parking: "on-site parking available for disabled customers and deliveries
 branch-bookdrop: y
 branch-refreshments: "The Haven café run by St Nicholas open 9:30am - 4pm on weekdays"
 branch-wifi: y
-branch-borrowing-ereaders-and-ipads: an iPad or a Nexus 7 tablet
+branch-borrowing-ereaders-and-ipads: a Nexus 7 tablet
 branch-borrowing-microbits: y
 branch-colour-printing: available (up to A4)
 branch-photocopying: available (up to A4)
