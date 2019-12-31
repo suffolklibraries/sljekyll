@@ -3,7 +3,7 @@ name: "Jumpstart January: Everyday Wellbeing workshop with Wellbeing Suffolk"
 location: glemsford-library
 location-text: Glemsford Library
 event-start-date: 2020-01-29
-event-start-time: 130
+event-start-time: 1330
 event-end-time: 1500
 event-ticket-price: free
 event-category: jumpstart
