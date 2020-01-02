@@ -2,7 +2,7 @@
 name: "Top Time: Visit from Healthwatch Suffolk"
 location: lavenham-library
 location-text: Lavenham Library
-event-start-date: 2020-02-24
+event-start-date: 2020-02-04
 event-start-time: 1430
 event-end-time: 1600
 event-ticket-price: 2
