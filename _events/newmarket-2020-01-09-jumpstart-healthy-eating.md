@@ -11,3 +11,5 @@ breadcrumb: y
 ---
 
 Parents and carers are invited to stay on after our regular Tot Rock session for tips and advice on healthy eating from Health Coach Hannah Macrae of [Be Health Happy](http://behealthhappy.co.uk/).
+
+This event is part of [Jumpstart January](/jumpstart-january/), a month dedicated to everything our libraries do to boost your wellbeing.
