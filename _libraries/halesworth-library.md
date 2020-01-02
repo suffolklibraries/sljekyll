@@ -36,4 +36,5 @@ breadcrumb: y
 branch-for-sale: 'Antiquarian books, stamps, cards, artwork, jewellery, books from local authors, reading glasses and accessories from ReadySpex, Halesworth Library bags, bookmarks and pens.'
 branch-display-space: "Window space and poster display unit available to hire for posters and notices. Contact the library for more details."
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, Lego Club, older people's activities, health & wellbeing groups."
+branch-news: The library will be closed from 9 - 13 March for installation of new windows and doors.
 ---
