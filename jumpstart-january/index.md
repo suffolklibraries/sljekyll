@@ -21,7 +21,7 @@ featured-alt: "Purple and yellow swirls on a pink and orange background"
 
     <h2 class="f4 f3-ns custom-lh-title mb2">Find a library event</h2>
 
-    <p class="mt0 mb4-l">Find a wellbeing drop-in, health check-up or something new at your library.</p>
+    <p class="mt0 mb4-l">Find a wellbeing drop-in, health check-up or something new at your library:</p>
 
       <ul class="f6 f4-ns list ma0 mb2 mb0-ns pa0">
         <li class="dib ma0 pa0"><a class="pv2 ph1 pa2-ns underline" href="#tabs-1">Ipswich</a></li>
