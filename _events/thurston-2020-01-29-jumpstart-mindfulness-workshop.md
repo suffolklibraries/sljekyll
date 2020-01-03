@@ -6,7 +6,7 @@ event-start-date: 2020-01-29
 event-start-time: 1100
 event-end-time: 1200
 event-ticket-price: free
-event-category: []"jumpstart", "sign-up"]
+event-category: ["jumpstart", "sign-up"]
 jj-region: west
 breadcrumb: y
 ---

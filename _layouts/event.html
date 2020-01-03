@@ -106,7 +106,34 @@
 
                     <div class="{% include /c/prose.html %} custom-remove-tm custom-underline custom-visited">
 
-                        {{ content }}
+                      {{ content }}
+
+                      {% if page.event-category[1] == "sign-up" %}
+
+                      <h2 class="f4 custom-lh-title mt0 mb2">Register for this event</h2>
+
+                      <form class="pure-form pure-form-stacked pb4" netlify name="event-sign-up" action="/events-activities/sign-up/" netlify-honeypot="bot-field">
+
+                        <p class="mt0 f6">We’ll never share your personal details with anyone else. All fields marked <span class="red">*</span> are compulsory.</p>
+
+                        <label for="name" class="db f5 pt3">Your name <span class="red">*</span></label>
+                        <input required class="border-box w-100" type="text" name="name" id="name">
+
+                        <label for="email" class="db f5 pt3">Your email</label>
+                        <input class="border-box w-100" type="email" name="email" id="email">
+
+                        <input class="clip" hidden value="{{ page.name }}" name="event-name" id="event-name">
+
+                        <label for="comments" class="db f5 pt3">Any details you’d like to add</label>
+                        <textarea class="db border-box w-100 vh-25" name="comments" id="comments"></textarea>
+
+                        <p class="dn"><input name="bot-field"></p>
+
+                        <div class="pt3">{% include /c/button-submit-blue.html text="Register" %}</div>
+
+                      </form>
+
+                      {% endif %}
 
                     </div>
 
