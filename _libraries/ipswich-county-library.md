@@ -9,7 +9,7 @@ branch-thursday-hours: 0900 – 1800
 branch-friday-hours: 0900 – 1900
 branch-saturday-hours: 0830 – 1700
 branch-sunday-hours: 1000 – 1600
-branch-manager: Marion Harvey
+branch-manager: Charmain Osborne
 branch-address: Northgate Street, Ipswich
 branch-post-code: IP1 3DE
 branch-tel: 01473 927260
