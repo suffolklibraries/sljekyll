@@ -122,7 +122,7 @@
                         <label for="email" class="db f5 pt3">Your email</label>
                         <input class="border-box w-100" type="email" name="email" id="email">
 
-                        <input class="clip" hidden value="{{ page.name }}" name="event-name" id="event-name">
+                        <input class="clip" hidden value="{{ page.name }} at {{ page.location-text }} on {{ page.event-start-date }}" name="event-details" id="event-details">
 
                         <label for="comments" class="db f5 pt3">Any details you’d like to add</label>
                         <textarea class="db border-box w-100 vh-25" name="comments" id="comments"></textarea>
