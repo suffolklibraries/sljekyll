@@ -5,7 +5,7 @@ date: 2020-01-03
 author: lisa-brennan
 category: articles
 tag: elibrary
-excerpt: "Did you know that our Kanopy video streaming service gives you access to thousands of lessons from The Great Courses? We've picked out just a few examples of their huge range."
+excerpt: "Did you know that our Kanopy video streaming service gives you access to thousands of lessons from The Great Courses? We've picked out just a few examples of their huge range to inspire you during Jumpstart January."
 featured-image: /images/featured/featured-kanopy-great-courses.jpg
 featured-alt: "Writing Great Fiction, The Meaning of Life, Making Healthy Food Taste Great, Food, Science, and the Human Body"
 breadcrumb: articles
@@ -13,7 +13,7 @@ breadcrumb: articles
 
 ![Writing Great Fiction, The Meaning of Life, Making Healthy Food Taste Great, Food, Science, and the Human Body](/images/featured/featured-kanopy-great-courses.jpg)
 
-Did you know that our [Kanopy](https://suffolklibraries.kanopy.com/) video streaming service gives you access to thousands of lessons from The Great Courses? We've picked out just a few examples of [their huge range](https://suffolklibraries.kanopy.com/category/915).
+Did you know that our [Kanopy](https://suffolklibraries.kanopy.com/) video streaming service gives you access to thousands of lessons from The Great Courses? We've picked out just a few examples of [their huge range](https://suffolklibraries.kanopy.com/category/915) to inspire you during [Jumpstart January](/jumpstart-january/).
 
 [Set up Kanopy &rarr;](/elibrary/kanopy/)
 
