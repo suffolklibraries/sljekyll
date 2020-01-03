@@ -16,11 +16,11 @@
 	{{ site.message_link_text }}
 	{% endcapture %}
 
-	<div class="bg-black white pa2 pv1 pv3-ns ph3-ns">
+	<div class="bg-light-gray dark-gray ph2 pv1 ph3-ns">
 
 		<div class="custom-max-width custom-underline">
 
-			<p class="f6 ma0 pv2 pv0-ns">{% if site.message_title %}<strong>{{ site.message_title }}</strong>: {% endif %}{{ site.message }}{% if site.message_link %} <span class="db mv2 mv0-ns ml1-ns dib">{% include /c/button-green.html url=link-url text=link-text %}</span>{% endif %}</p>
+			<p class="f7 ma0 custom-lh-title">{% if site.message_title %}<strong>{{ site.message_title }}</strong>: {% endif %}{{ site.message }}{% if site.message_link %} <a href="{{ link-url }}" class="underline blue">{{ link-text }}</a>{% endif %}</p>
 
 		</div>
 
