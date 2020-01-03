@@ -22,49 +22,37 @@
 
                     <ul class="list ma0 pa0 mb2 mid-gray">
 
-                    {% if page.event-category == 'bookfest' %}
-
-                        <p class="ma0 mb2 mb3-ns"><a href="/events-activities/bookfest/" class="white"><img src="/images/article/bf-logo.jpg" alt="Bookfest"></a></p>
-
-                    {% endif %}
-
-                    {% if page.event-category == 'sld' %}
-
-                        <p class="ma0 mb2 mb3-ns"><a href="/suffolk-libraries-day/" class="white"><img src="/images/sld/sld-logo.png" alt="Suffolk Libraries Day"></a></p>
-
-                    {% endif %}
-
                     {% if page.event-category == 'slaughter-author' %}
 
-                        <p class="ma0 mb2 mb3-ns"><a href="/events-activities/slaughter/" class="white"><img src="/images/featured/featured-slaughter-logo.jpg" alt="Slaughter in Southwold"></a></p>
+                        <li class="ma0 mb2 mb3-ns"><a href="/events-activities/slaughter/" class="white"><img src="/images/featured/featured-slaughter-logo.jpg" alt="Slaughter in Southwold"></a></li>
 
                     {% endif %}
 
                     {% if page.event-category == 'slaughter-food-fun' %}
 
-                        <p class="ma0 mb2 mb3-ns"><a href="/events-activities/slaughter/" class="white"><img src="/images/featured/featured-slaughter-logo.jpg" alt="Slaughter in Southwold"></a></p>
+                        <li class="ma0 mb2 mb3-ns"><a href="/events-activities/slaughter/" class="white"><img src="/images/featured/featured-slaughter-logo.jpg" alt="Slaughter in Southwold"></a></li>
 
                     {% endif %}
 
                     {% if page.event-category == 'presents' %}
 
-                        <p class="ma0 mb2 mb3-ns"><a href="/events-activities/presents/" class="white"><img src="/images/article/sl-presents-logo.jpg" alt="Suffolk Libraries Presents"></a></p>
+                        <li class="ma0 mb2 mb3-ns"><a href="/events-activities/presents/" class="white"><img src="/images/article/sl-presents-logo.jpg" alt="Suffolk Libraries Presents"></a></li>
 
                     {% endif %}
 
                     {% if page.event-category == 'ltfest' %}
 
-                        <p class="ma0 mb2 mb3-ns f5">Part of <a href="/events-activities/lowestoft-library-literary-festival/" class="blue">Lowestoft Library Literary Festival</a></p>
+                        <li class="ma0 mb2 mb3-ns f5">Part of <a href="/events-activities/lowestoft-library-literary-festival/" class="blue">Lowestoft Library Literary Festival</a></li>
 
                     {% endif %}
 
                     {% if page.event-alt-location %}
 
-                        <li class="mv1 mv0-ns">{% if page.event-alt-location-link %}<a class="blue" href="{{ page.event-alt-location-link }}">{% endif %}{{ page.event-alt-location }}{% if page.event-alt-location-link %}</a>{% endif %}</li><br>
+                        <li class="mv1 mv0-ns">{% if page.event-alt-location-link %}<a class="blue" href="{{ page.event-alt-location-link }}">{% endif %}{{ page.event-alt-location }}{% if page.event-alt-location-link %}</a>{% endif %}</li>
 
                     {% else %}
 
-                        <li class="mv1 mv0-ns"><a class="blue" href="/libraries/{{ page.location }}">{{ page.location-text }}</a></li><br>
+                        <li class="mv1 mv0-ns"><a class="blue" href="/libraries/{{ page.location }}">{{ page.location-text }}</a></li>
 
                     {% endif %}
 
