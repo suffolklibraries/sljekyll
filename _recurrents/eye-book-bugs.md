@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Book Bugs reading group for 4-7 year olds"
-recurrent-description: "Next meeting 15 December, topic 'Winter'"
+recurrent-description: "Next meeting 2 February, topic 'Magic'"
 recurrent-day: Sunday once a month
 recurrent-times: 1400-1500
 recurrent-location: eye-library

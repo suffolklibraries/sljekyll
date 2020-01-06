@@ -1,13 +1,13 @@
 ---
 name: "Jumpstart January: Free NHS Health Checks for 40-74 year-olds from OneLife Suffolk"
-location: felixstowe-library
-location-text: Felixstowe Library
-event-start-date: 2020-01-06
-event-start-time: 1030
-event-end-time: 1530
+location: bury-st-edmunds-library
+location-text: Bury St Edmunds Library
+event-start-date: 2020-01-27
+event-start-time: 0930
+event-end-time: 1600
 event-ticket-price: free
 event-category: jumpstart
-jj-region: east
+jj-region: west
 breadcrumb: y
 ---
 
