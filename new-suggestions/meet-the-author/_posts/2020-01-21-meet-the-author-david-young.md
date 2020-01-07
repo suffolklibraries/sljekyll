@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: David Young'
-date: 2020-01-14
+date: 2020-01-21
 author: brandon-king
 category: meet-the-author
 excerpt: "David Young tells us about his new novel, <cite>Stasi Winter</cite>, and how he came to write thrillers about a female detective in communist East Germany."

@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Shirley Mann'
-date: 2020-01-21
+date: 2020-01-28
 author: brandon-king
 category: meet-the-author
 excerpt: "Shirley Mann tells us about her debut novel, <cite>Lily's War</cite>, and becoming an author in her 60s after a successful career as a journalist and media and PR consultant."
