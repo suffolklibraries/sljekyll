@@ -4,11 +4,11 @@ title: "Halesworth Library to create memorial garden for late manager Ali Hopkin
 date: 2020-01-07
 author: hannah-foulstone
 category: news
-excerpt: "A memorial garden is being planned at Halesworth Library in memory of much-loved Ali Hopkins, who managed the library up until her death in January 2019."
+excerpt: "A memorial garden is being planned at Halesworth Library in honour of much-loved Ali Hopkins, who managed the library up until her death in January 2019."
 breadcrumb: news
 ---
 
-A memorial garden is being planned at Halesworth Library in memory of much-loved Ali Hopkins, who managed the library up until her death in January 2019.
+A memorial garden is being planned at Halesworth Library in honour of much-loved Ali Hopkins, who managed the library up until her death in January 2019.
 
 Library staff, volunteers and the Friends of Halesworth Library are raising funds for the work which will create a lasting memorial to Ali. The redesigned garden will be colourful all year round, provide a haven for wildlife, and be a space for events, children’s workshops and sitting in the sunshine to read a book. It will incorporate plants that Ali loved and be accessible to all.
 
