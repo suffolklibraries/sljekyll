@@ -4,7 +4,7 @@ title: 'Meet the Author: Isabel Allende'
 date: 2020-01-07
 author: brandon-king
 category: meet-the-author
-excerpt: "Isabel Allende tells us how she came to publish her first novel at the age of forty, how her success as a writer transformed her life, and what we can expect from her latest book, <cite>A Long Petal of the Sea</cite>."
+excerpt: "Isabel Allende tells us how she came to publish her first novel at the age of 40, how her success as a writer transformed her life, and what we can expect from her latest book, <cite>A Long Petal of the Sea</cite>."
 featured-image: /images/featured/featured-isabel-allende.jpg
 featured-alt: "Isabel Allende"
 breadcrumb: meet-the-author

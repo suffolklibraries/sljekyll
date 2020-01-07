@@ -14,7 +14,7 @@ breadcrumb: fiction
 
 ## [<cite>A Long Petal of the Sea</cite>, by Isabel Allende](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2669924)
 
-Isabel Allende is visiting the UK for the first time in 12 years from 9-13 February. You can see her at the [Royal Festival Hall on Sunday 9 February](https://www.southbankcentre.co.uk/whats-on/138380-isabel-allende-long-petal-sea-2020) and the [UEA Literature Festival on Wednesday 12 February](https://www.uea.ac.uk/litfest/programme).
+Isabel Allende is visiting the UK for the first time in 12 years from 9-13 February. You can see her at the [Royal Festival Hall on Sunday 9 February](https://www.southbankcentre.co.uk/whats-on/138380-isabel-allende-long-petal-sea-2020) and the [UEA Literature Festival on Wednesday 12 February](https://www.uea.ac.uk/litfest/programme). She's also given us a great interview for [Meet the Author](/new-suggestions/meet-the-author/meet-the-author-isabel-allende/).
 
 > "That September 2, 1939, the day of the Spanish exiles' splendid arrival in Chile, the Second World War broke out in Europe. Victor Dalmau is a young doctor when he is caught up in the Spanish Civil War, a tragedy that leaves his life - and the fate of his country - forever changed. Together with his sister-in-law, the pianist Roser Bruguera, he is forced out of his beloved Barcelona and into exile.
 
