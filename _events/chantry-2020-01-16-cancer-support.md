@@ -13,4 +13,4 @@ breadcrumb: y
 
 Cancer patients, carers, friends and family are invited to our monthly cancer support group. Swap tips, experiences and receive support in a relaxed environment with hot drinks and cake.
 
-[Jumpstart January](/jumpstart-january/) is our month-long celebration of everything we do to help with your wellbeing.
+[Jumpstart January](/jumpstart-january/) is a month dedicated to everything we do to help with your wellbeing.
