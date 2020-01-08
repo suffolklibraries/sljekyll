@@ -17,7 +17,9 @@ meta-description: "Books to help children starting nursery or reception know wha
 
 </div>
 
-See also: [Get Ready for School book bags](/parents-carers-and-children/bookstart-storytime-resources/).
+See also:
+* [Books to help children learn numbers and basic maths before starting school](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/get-ready-for-school-numbers/)
+* [Get Ready for School book bags](/parents-carers-and-children/bookstart-storytime-resources/)
 
 ## [<cite>Let's Go To Nursery!</cite>, by Caryl Hart & Lauren Tobia](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2405773)
 

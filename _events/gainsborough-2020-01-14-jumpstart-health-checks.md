@@ -4,7 +4,7 @@ location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2020-01-14
 event-start-time: 0900
-event-end-time: 1600
+event-end-time: 1415
 event-ticket-price: free
 event-category: jumpstart
 jj-region: ipswich
