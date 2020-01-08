@@ -98,11 +98,21 @@ No session
 
 <tr>
 <td>
-03.01.19
+03.01.20
 </td>
 
 <td>
 New year planning session
+</td>
+</tr>
+
+<tr>
+<td>
+10.01.20
+</td>
+
+<td>
+Board games, card games, dominies and mindful colouring
 </td>
 </tr>
 </table>
