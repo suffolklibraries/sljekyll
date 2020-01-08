@@ -1,13 +1,13 @@
 ---
 name: "Jumpstart January: Everyday Wellbeing workshop with Wellbeing Suffolk"
-location: halesworth-library
-location-text: Halesworth Library
-event-start-date: 2020-01-31
-event-start-time: 1430
-event-end-time: 1630
+location: long-melford-library
+location-text: Long Melford Library
+event-start-date: 2020-01-28
+event-start-time: 1900
+event-end-time: 2100
 event-ticket-price: free
 event-category: ["jumpstart", "sign-up"]
-jj-region: north
+jj-region: south
 breadcrumb: y
 ---
 
