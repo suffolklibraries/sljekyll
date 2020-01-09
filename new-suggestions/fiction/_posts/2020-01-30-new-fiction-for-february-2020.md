@@ -96,7 +96,7 @@ You can see [Liz Trenow in conversation with Catherine Larner at Woodbridge Libr
 
 > "1936: The dark clouds of war are gathering across Europe and the brightest minds in Britain have been brought together in a grand manor on the Suffolk coast. These select few have been tasked by Churchill to develop, in utmost secrecy, an invention that will help win the war and alter the course of history. In this tense atmosphere, an unlikely friendship develops between Vic, a brilliant but shy physicist, and Kathleen, a cheerful local girl helping her mother in the kitchens."
 
-## [<cite>The Mercies</cite>, by Kiran Millwood Hargrave](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2687362)
+## [<cite>The Mercies</cite>, by Kiran Milwood Hargrave](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2687362)
 
 The hugely successful author of children’s novels [<cite>The Girl of Ink & Stars</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1958229) and [<cite>The Island at the End of Everything</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2142406) makes her adult debut with the real life tale of the 1617 Christmas Eve storm off the Norwegian island of Vardø and the witch trials that followed.
 
@@ -116,7 +116,7 @@ The hugely successful author of children’s novels [<cite>The Girl of Ink & Sta
 
 > "Poland, 1980. Anxious, disillusioned Ludwik Glowacki, soon to graduate university, has been sent along with the rest of his class to an agricultural camp. Here he meets Janusz - and together, they spend a dreamlike summer swimming in secluded lakes, reading forbidden books - and falling in love. But with summer over, the two are sent back to Warsaw, and to the harsh realities of life under the Party. Exiled from paradise, Ludwik and Janusz must decide how they will survive; and in their different choices, find themselves torn apart."
 
-## [<cite>Kim Jiyoung, born 1982</cite>, by Cho Nam-Joo & Jamie Chang (trans.)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2688126)
+## [<cite>Kim Jiyoung, Born 1982</cite>, by Cho Nam-Joo & Jamie Chang (trans.)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2688126)
 
 This caused a huge sensation in South Korea when it was published.
 
