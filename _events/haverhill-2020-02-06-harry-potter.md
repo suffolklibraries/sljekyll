@@ -1,5 +1,5 @@
 ---
-name: "Harry Potter Book Night: take part oi our Triwizard Tournament!"
+name: "Harry Potter Book Night: take part in our Triwizard Tournament!"
 location: haverhill-library
 location-text: Haverhill Library
 event-start-date: 2020-02-06
