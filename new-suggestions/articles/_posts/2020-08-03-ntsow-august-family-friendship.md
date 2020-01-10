@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "The Novels That Shaped Our World: titles on Family & Friendship"
+title: "The Novels That Shaped Our World: Family & Friendship"
 date: 2020-08-03
 author: alice-violett
 category: articles
@@ -11,6 +11,8 @@ breadcrumb: articles
 ---
 
 ![A Suitable Boy, Ballet Shoes, Cold Comfort Farm](/images/featured/featured-ntsow-family-friendship.jpg)
+
+As part of [Novels That Shaped Our World](https://www.bbc.co.uk/programmes/articles/494P41NCbVYHlY319VwGbxp/explore-the-list-of-100-novels-that-shaped-our-world), the BBC's year-long celebration of literature, a panel of writers, curators and critics have selected 100 books that have had an impact on their lives, split into ten monthly themes. August's theme is Family & Friendship.
 
 ## [<cite>A Suitable Boy</cite>, by Vikram Seth](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2123178)
 

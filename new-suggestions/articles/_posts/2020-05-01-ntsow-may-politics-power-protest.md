@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "The Novels That Shaped Our World: titles on Politics, Power & Protest"
+title: "The Novels That Shaped Our World: Politics, Power & Protest"
 date: 2020-05-01
 author: alice-violett
 category: articles

@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "The Novels That Shaped Our World: titles on Coming of Age"
+title: "The Novels That Shaped Our World: Coming of Age"
 date: 2020-07-01
 author: alice-violett
 category: articles

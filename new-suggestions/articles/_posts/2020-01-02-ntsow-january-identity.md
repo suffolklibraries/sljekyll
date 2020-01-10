@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "The Novels That Shaped Our World: titles on Identity"
+title: "The Novels That Shaped Our World: Identity"
 date: 2020-01-02
 author: alice-violett
 category: articles

@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "The Novels That Shaped Our World: titles on Class & Society"
+title: "The Novels That Shaped Our World: Class & Society"
 date: 2020-06-01
 author: alice-violett
 category: articles

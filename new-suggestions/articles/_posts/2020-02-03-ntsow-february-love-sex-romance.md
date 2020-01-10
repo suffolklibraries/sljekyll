@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "The Novels That Shaped Our World: titles on Love, Sex & Romance"
+title: "The Novels That Shaped Our World: Love, Sex & Romance"
 date: 2020-02-03
 author: alice-violett
 category: articles

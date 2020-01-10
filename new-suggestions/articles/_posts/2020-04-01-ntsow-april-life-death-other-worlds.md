@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "The Novels That Shaped Our World: titles on Life, Death & Other Worlds"
+title: "The Novels That Shaped Our World: Life, Death & Other Worlds"
 date: 2020-04-01
 author: alice-violett
 category: articles

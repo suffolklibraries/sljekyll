@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "The Novels That Shaped Our World: titles on Adventure"
+title: "The Novels That Shaped Our World: Adventure"
 date: 2020-03-02
 author: alice-violett
 category: articles
