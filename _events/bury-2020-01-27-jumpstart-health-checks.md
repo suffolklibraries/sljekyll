@@ -27,6 +27,6 @@ Eligibility criteria:
     * Kidney disease
     * Dementia
 
-**Book in advance at the library or by calling [01473 718193](tel:01473718193).**
+**Book in advance at the library or by calling [01284 338830](tel:01284338830).**
 
 [Find out more about Jumpstart January &rarr;](/jumpstart-january/)
