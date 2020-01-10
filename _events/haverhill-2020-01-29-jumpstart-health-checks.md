@@ -7,7 +7,7 @@ event-start-time: 1000
 event-end-time: 1600
 event-ticket-price: free
 event-category: jumpstart
-jj-region: ipswich
+jj-region: west
 breadcrumb: y
 ---
 

@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Creative Café with Rock Paper Scissors: for ages 8-18"
-recurrent-description: 'Explore creative activities, building your confidence and curiosity in a relaxed environment. Free but advance booking required by contacting the library. Run in partnership with <a href="/bloc/">BLOC</a>. Currently on Christmas break, resumes 9 January.'
+recurrent-description: 'Explore creative activities, building your confidence and curiosity in a relaxed environment. Free but advance booking required by contacting the library. Run in partnership with <a href="/bloc/">BLOC</a>.'
 recurrent-day: Thursdays
 recurrent-times: 1600-1730
 recurrent-location: ipswich-county-library
