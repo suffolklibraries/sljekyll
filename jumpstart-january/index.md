@@ -46,10 +46,10 @@ featured-alt: "Purple and yellow swirls on a pink and orange background"
 
         {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
         {% capture event-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
-        {% capture event-expiry %}{{ event-seconds | divided_by: 86400}}{% endcapture %}
-        {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+        {% capture event-expiry %}{{ event-seconds | divided_by: 86400}} {% endcapture %}
+        {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400 }}{% endcapture %}
 
-        {% if now-unix < event-expiry %}
+        {% if now-unix <= event-expiry %}
 
           <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span> <br><span class="f6">{{ event_date }}{% if event.event-end-date %} &#8211; {{ event_end_date }}{% endif %}</span> <br>{{ event_name }}</a>
 
@@ -66,6 +66,7 @@ featured-alt: "Purple and yellow swirls on a pink and orange background"
       <div class="flex-ns flex-wrap-ns">
 
       {% assign events = site.events | where: "jj-region", "north" %}
+
       {% for event in events %}
 
       {% assign event_name = event.name | strip_html | replace: "Jumpstart January: ", "" | replace: "Jumpstart January ", "" %}
@@ -75,10 +76,10 @@ featured-alt: "Purple and yellow swirls on a pink and orange background"
 
       {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
       {% capture event-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
-      {% capture event-expiry %}{{ event-seconds | divided_by: 86400}}{% endcapture %}
-      {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+      {% capture event-expiry %}{{ event-seconds | divided_by: 86400}} {% endcapture %}
+      {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}} {% endcapture %}
 
-      {% if now-unix < event-expiry %}
+      {% if now-unix <= event-expiry %}
 
         <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span> <br><span class="f6">{{ event_date }}{% if event.event-end-date %} &#8211; {{ event_end_date }}{% endif %}</span> <br>{{ event_name }}</a>
 
@@ -108,7 +109,7 @@ featured-alt: "Purple and yellow swirls on a pink and orange background"
       {% capture event-expiry %}{{ event-seconds | divided_by: 86400}}{% endcapture %}
       {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
 
-      {% if now-unix < event-expiry %}
+      {% if now-unix <= event-expiry %}
 
         <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span> <br><span class="f6">{{ event_date }}{% if event.event-end-date %} &#8211; {{ event_end_date }}{% endif %}</span> <br>{{ event_name }}</a>
 
@@ -135,10 +136,10 @@ featured-alt: "Purple and yellow swirls on a pink and orange background"
 
       {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
       {% capture event-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
-      {% capture event-expiry %}{{ event-seconds | divided_by: 86400}}{% endcapture %}
+      {% capture event-expiry %}{{ event-seconds | divided_by: 86400 }}{% endcapture %}
       {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
 
-      {% if now-unix < event-expiry %}
+      {% if now-unix <= event-expiry %}
 
         <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span> <br><span class="f6">{{ event_date }}{% if event.event-end-date %} &#8211; {{ event_end_date }}{% endif %}</span> <br>{{ event_name }}</a>
 
@@ -168,7 +169,7 @@ featured-alt: "Purple and yellow swirls on a pink and orange background"
       {% capture event-expiry %}{{ event-seconds | divided_by: 86400}}{% endcapture %}
       {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
 
-      {% if now-unix < event-expiry %}
+      {% if now-unix <= event-expiry %}
 
         <a href="{{ event.url }}" class="f5 w-third-ns w-25-l custom-lh-title db custom-bg-corporate hover-bg-light-gray hover-dark-gray white pa3"><span class="b">{{ event_loc }}</span> <br><span class="f6">{{ event_date }}{% if event.event-end-date %} &#8211; {{ event_end_date }}{% endif %}</span> <br>{{ event_name }}</a>
 
