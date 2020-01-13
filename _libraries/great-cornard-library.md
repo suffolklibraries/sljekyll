@@ -27,4 +27,5 @@ branch-scan-to-email: y
 breadcrumb: y
 branch-payments: cash, cheques and cards accepted
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, Lego Club, older people's activities, health & wellbeing groups."
+branch-news: 'The main entrance to Great Cornard Library is out of use until March for construction work to improve disabled access. Customers can enter the library through Great Cornard Leisure Centre and Gainsborough Coffee House.'
 ---

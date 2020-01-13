@@ -21,5 +21,5 @@ Narrator: Jamie Symons
 Pilgrim: Huw Brentnall
 Grimlip: Richard Bates
 True-love: Zoë Wells
-False-love: Clare Hawe
+False-love: Clare Hawes
 Music: Andrew Leach
