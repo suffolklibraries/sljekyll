@@ -32,5 +32,8 @@ branch-other-facilities: Foodbank collection point throughout the year
 breadcrumb: y
 branch-pride-and-periods: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, Lego Club, older people's activities, health & wellbeing groups."
-branch-news: "The library is looking to provide resources for home educators, but need to know what you need! Email <strong>helen.armitage@suffolk.gov.uk</strong> to share your ideas."
+branch-news: "<ul>
+              <li>Parking at the library may be restricted between 15 - 18 January due to remedial work.</li>
+              <li>The library is looking to provide resources for home educators, but need to know what you need! Email <strong>helen.armitage@suffolk.gov.uk</strong> to share your ideas.</li>
+              </ul>"
 ---

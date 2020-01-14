@@ -19,7 +19,6 @@ branch-facebook: Oulton-Broad-Library-224683134540328
 branch-accessibility: https://www.accessable.co.uk/venues/oulton-broad-library
 branch-payments: cash, cheques and cards accepted
 branch-parking: available
-branch-bookdrop: y
 branch-wifi: y
 branch-colour-printing: A4 available
 branch-photocopying: A4 available
@@ -28,5 +27,4 @@ branch-room-hire: /libraries/room-hire/oulton-broad-library
 breadcrumb: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, Lego Club, older people's activities."
 branch-pride-and-periods: y
-branch-news: The library will be closing at 3pm on Sunday 29 October.
 ---

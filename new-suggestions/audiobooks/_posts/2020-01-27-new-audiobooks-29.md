@@ -22,6 +22,14 @@ breadcrumb: audiobooks
 
 > "What hold could the gangs possibly have on the old guy? Will Reacher sit back and let bad things happen? Or can he twist the situation to everyone's benefit?"
 
+## [<cite>The Lying Room</cite>, by Nicci French, read by Olivia Poulet](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2630735)
+
+> "A trusted colleague and friend. A mother. A wife. Neve Connolly is all these things. She has also made mistakes; some small, some unconsciously done, some large, some deliberate. She is only human, after all.
+
+> "But now one mistake is spiralling out of control and Neve is bringing those around her into immense danger. She can’t tell the truth. So how far is she prepared to go to protect those she loves. And who does she really know? And who can she trust?
+
+> "A liar. A cheat. A threat. Neve Connolly is all these things. Could she be a murderer?"
+
 ## [<cite>Me</cite>, by Elton John, read by the author and Taron Egerton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2679863)
 
 > "In his first and only official autobiography, music icon Elton John reveals the truth about his extraordinary life. The result is <cite>Me</cite> - the joyously funny, honest, and moving story of the most enduringly successful singer/songwriter of all time."
