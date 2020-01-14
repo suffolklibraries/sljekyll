@@ -24,7 +24,7 @@ Following recent consultations with customers, [Kessingland](/libraries/kessingl
 
 **Rosehill Library** will be opening 30 minutes earlier on Wednesdays, Thursdays and Fridays, and closing an hour and a half earlier on Fridays. This meets customer requests for earlier opening times and improves staff safety by reducing lone working time in the evening.
 
-**The new opening times for Lavenham Library are as follows:**
+**The new opening times for Rosehill Library are as follows:**
 
 * Monday - closed (no change)
 * Tuesday - 9:30am - 5pm (no change)
