@@ -28,81 +28,81 @@ Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &ra
 
 <tr>
 <td>
-14.07.19
+16.01.20
 </td>
 
 <td>
-Discussion and craft: How do we deal with the clock change?
-</td>
-</tr>
-
-<tr>
-<td>
-21.11.19
-</td>
-
-<td>
-Online resources for mental health and wellbeing (TBC); board games
+Find out about the How Are You? campaign from SCC
 </td>
 </tr>
 
 <tr>
 <td>
-28.11.19
+23.01.20
 </td>
 
 <td>
-Vision boarding with Lara
-</td>
-</tr>
-
-<tr>
-<td>
-05.12.19
-</td>
-
-<td>
-Discussion: Why do people find the festive season difficult?
+Share your favourite stories/memories
 </td>
 </tr>
 
 <tr>
 <td>
-12.12.19
+30.01.20
 </td>
 
 <td>
-Angels workshop
-</td>
-</tr>
-
-<tr>
-<td>
-19.12.19
-</td>
-
-<td>
-Christmas quiz
+Chair-based relaxation taster session
 </td>
 </tr>
 
 <tr>
 <td>
-02.01.20
+06.02.20
 </td>
 
 <td>
-Discussion: Experiencing the post-Christmas/new year 'dip'
+Share your favourite poems
 </td>
 </tr>
 
 <tr>
 <td>
-09.01.20
+13.02.20
 </td>
 
 <td>
-Welcome to Open Space
+Plant pot painting
+</td>
+</tr>
+
+<tr>
+<td>
+20.02.20
+</td>
+
+<td>
+Quiz - how good is your memory of 2019?
+</td>
+</tr>
+
+<tr>
+<td>
+27.02.20
+</td>
+
+<td>
+Plant potting
+</td>
+</tr>
+
+<tr>
+<td>
+05.03.20
+</td>
+
+<td>
+World Book Day
 </td>
 </tr>
 </table>
