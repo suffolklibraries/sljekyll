@@ -9,4 +9,4 @@ event-ticket-price: free
 breadcrumb: y
 ---
 
-Handle amazing objectsfrom Sutton Hoo and learn all about the site from the experts who work there. Includes lots of activities for children!
+Handle amazing objects from Sutton Hoo and learn all about the site from the experts who work there. Includes lots of activities for children!
