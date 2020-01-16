@@ -17,9 +17,9 @@ breadcrumb: member-organisations
 
 * Chair: Debra Reay
 * Treasurer: Lesley Sloane
-* Secretary: Frances Ferneyhough
+* Secretary: Joan Smith
 * Trustees: Ruth Fenton, Ruth Fenton, Sarah Chandler
-* Ex-officio members: Cathy McDonald, Jack Norman, Kaye Atkins
+* Ex-officio members: Cathy McDonald, Kaye Atkins
 * Patron: [Lady Carlise](/news/new-ixworth-patron/)
 
 ## The story so far
