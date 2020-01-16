@@ -15,4 +15,4 @@ Join us at the Methodist Church Hall for an afternoon with Elly Griffiths, autho
 
 Ticket price includes light refreshments.
 
-We strongly advise [booking in advance online](https://www.eventbrite.co.uk/e/an-evening-with-elly-griffiths-tickets-83773987251) or by contacting the library as Elly's events are always very popular!
+We strongly advise [booking in advance online](https://www.eventbrite.co.uk/e/elly-griffiths-bestselling-author-talk-and-book-signing-tickets-87940062093?ref=estw) or by contacting the library as Elly's events are always very popular!
