@@ -39,5 +39,5 @@ branch-other-facilities: '<ul>
                           </ul>'
 branch-pride-and-periods: y
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, sports equipment, free sanitary products."
-branch-news: 'The library is looking for a <a href="/assets/pdf/general-library-volunteer-role-profile.pdf">general library volunteer</a> (PDF).'
+branch-news: 'The library is looking for a volunteer to help in the café.'
 ---
