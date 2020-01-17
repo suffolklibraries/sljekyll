@@ -4,7 +4,7 @@ location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2020-01-29
 event-start-time: 0950
-event-end-time: 1200
+event-end-time: 1100
 event-ticket-price: free
 event-category: ["jumpstart", "sign-up"]
 jj-region: north
