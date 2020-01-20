@@ -16,7 +16,6 @@ We're always adding great titles to our [eLibrary](/elibrary/). We've listed som
 See also:
 
 * [Recommended new eAudiobooks &#x23;2](/new-suggestions/elibrary-picks/new-eaudiobooks-2/)
-* [RBdigital magazines](/elibrary/rbdigital/)
 * [PressReader newspapers and magazines](/elibrary/press-reader/)
 
 ## Music
