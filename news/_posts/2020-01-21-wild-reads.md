@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Suffolk Libraries rewards volunteer champions"
+title: "Suffolk Libraries and Suffolk Wildlife Trust get wild about reading"
 date: 2020-01-21
 author: james-powell
 category: news
