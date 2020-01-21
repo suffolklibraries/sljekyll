@@ -47,4 +47,10 @@ The full list of Wild Reads titles is:
 * [<cite>The Overstory</cite>, by Richard Powers](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2537501)
 * [<cite>The Salt Path</cite>, by Raynor Winn](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2501053)
 
-Visit the [Suffolk Wildlife Trust website](https://www.suffolkwildlifetrust.org/events?tags=1005) for a full list of Wild Reads events and activities.
+There will be Walking Book Clubs at Christchurch Park, Ipswich on 27 February, 30 April, 25 June, 27 August, 29 October and 26 November from 1:30-2:30pm, as well as the following Wildlife Walks at Suffolk Wildlife Trust reserves, exploring the wildlife and habitats featured in selected books:
+
+* Black Bourn  - Saturday 16 May, 10am-12pm
+* Mellis Common  - Saturday 13 June, 10am-12pm
+* Bradfield Woods - Saturday 17 October, 10am-12pm
+
+Visit the [Suffolk Wildlife Trust website](https://www.suffolkwildlifetrust.org/events?tags=1005) for a to find out more and book on to these events and activities.
