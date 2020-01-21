@@ -21,7 +21,7 @@ featured-alt: "Purple and yellow swirls on a pink and orange background"
 
     <h2 class="f4 f3-ns custom-lh-title mb2">Find a library event</h2>
 
-    <p class="mt0 mb4-l">Find a wellbeing drop-in, health check-up or something new at your library:</p>
+    <p class="mt0 mb4-l">Find a wellbeing drop-in, health check-up or something near you in Suffolk:</p>
 
       <ul class="f6 f4-ns list ma0 mb2 mb0-ns pa0">
         <li class="dib ma0 pa0"><a class="pv2 ph1 pa2-ns underline" href="#tabs-1">Ipswich</a></li>
@@ -199,27 +199,15 @@ featured-alt: "Purple and yellow swirls on a pink and orange background"
 
 {%
   include z-bar.html
-  src="jj/michelle-thomas.jpg"
-  alt="Michelle Thomas"
+  src="jj/lean-in-15.jpg"
+  alt="Jo Wicks next to the number 15"
   color="white"
   layout-reverse="true"
   bg-color="custom-bg-corporate"
-  title="An evening with My Sh*t Therapist author, Michelle Thomas"
-  link="/events/woodbridge-2020-01-18-michelle-thomas/"
-  link-text="Get a ticket &rarr;"
-  link-color="white"
-  text="<cite>My Sh*t Therapist</cite> is an honest account of living with mental illness, which mimics the frank, honest and funny interactions Michelle has had with her friends and followers about madness, medication, and making the most of a misbehaving brain."
-%}
-
-{%
-  include z-bar.html
-  src="jj/lean-in-15.jpg"
-  alt="Jo Wicks next to the number 15"
-  bg-color="bg-near-white"
   title="Top books to help you eat well"
   link="/new-suggestions/articles/jumpstart-january-eating-well/"
   link-text="Reserve a book &rarr;"
-  link-color="custom-corporate"
+  link-color="white"
   text="Over-indulged over the holiday period? Supercharge your health and continue eating well into 2020."
 %}
 
