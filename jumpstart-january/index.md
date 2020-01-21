@@ -229,6 +229,12 @@ featured-alt: "Purple and yellow swirls on a pink and orange background"
 
     </div>
 
+    <div class="w-50 ph2 mb3">
+
+      <p class="ma0 tc"><img class="db mw4" src="/images/jj/onelife-suffolk.png" alt="Onelife Suffolk"></p>
+
+    </div>
+
   </div>
 
 </div>
