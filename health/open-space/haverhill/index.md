@@ -28,91 +28,101 @@ Running order: tea/coffee &rarr; informal discussion topic or activity &rarr; te
 
 <tr>
 <td>
-15.11.19
+24.01.20
 </td>
 
 <td>
-Visit from Roisin Moyles from the Trussell Trust: what community services would you like to see in Haverhill?
-</td>
-</tr>
-
-<tr>
-<td>
-22.11.19
-</td>
-
-<td>
-Bingo
+Goals and ambitions for the year and collaging
 </td>
 </tr>
 
 <tr>
 <td>
-29.11.19
+31.01.20
 </td>
 
 <td>
-Quiz
-</td>
-</tr>
-
-<tr>
-<td>
-06.12.19
-</td>
-
-<td>
-Cake/biscuit decorating
+Book folding
 </td>
 </tr>
 
 <tr>
 <td>
-13.12.19
+07.02.20
 </td>
 
 <td>
-Making calendars
-</td>
-</tr>
-
-<tr>
-<td>
-20.12.19
-</td>
-
-<td>
-Christmas party
+Time To Change Day
 </td>
 </tr>
 
 <tr>
 <td>
-27.12.19
+14.02.20
 </td>
 
 <td>
-No session
-</td>
-</tr>
-
-<tr>
-<td>
-03.01.20
-</td>
-
-<td>
-New year planning session
+Chocolate/strawberry biscuit decorating and card making for Valentine's Day
 </td>
 </tr>
 
 <tr>
 <td>
-10.01.20
+21.02.20
 </td>
 
 <td>
-Board games, card games, dominies and mindful colouring
+Clay modelling
+</td>
+</tr>
+
+<tr>
+<td>
+28.02.20
+</td>
+
+<td>
+Walk around Haverhill
+</td>
+</tr>
+
+<tr>
+<td>
+06.03.20
+</td>
+
+<td>
+Chair yoga
+</td>
+</tr>
+
+<tr>
+<td>
+13.03.20
+</td>
+
+<td>
+Irish quiz and shamrock activity for St Patrick's Day
+</td>
+</tr>
+
+<tr>
+<td>
+20.03.20
+</td>
+
+<td>
+Spring bulb planting
+</td>
+</tr>
+
+<tr>
+<td>
+27.03.20
+</td>
+
+<td>
+Planning session
 </td>
 </tr>
 </table>
