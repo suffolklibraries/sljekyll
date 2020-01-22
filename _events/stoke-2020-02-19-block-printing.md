@@ -13,3 +13,5 @@ breadcrumb: y
 11-24 year-olds are invited to make their own block-printed tote bags and stickers at this free workshop.
 
 All materials and tools provided.
+
+Spaces are limited, so please book in advance by contacting the library or emailing **stoke.library@suffolklibraries.co.uk**

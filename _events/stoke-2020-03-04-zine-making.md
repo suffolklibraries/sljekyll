@@ -12,3 +12,5 @@ breadcrumb: y
 11-24 year-olds are invited to make their own zines about whatever they're passionate about, using a range of craft techniques.
 
 All materials and tools provided.
+
+Spaces are limited, so please book in advance by contacting the library or emailing **stoke.library@suffolklibraries.co.uk**
