@@ -3,7 +3,7 @@ name: "Sutton Hoo roadshow"
 location: kesgrave-library
 location-text: Kesgrave Library
 event-start-date: 2020-01-29
-event-start-time: 1200
+event-start-time: 1030
 event-end-time: 1330
 event-ticket-price: free
 breadcrumb: y

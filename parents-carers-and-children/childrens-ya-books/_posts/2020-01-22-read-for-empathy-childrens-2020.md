@@ -70,9 +70,7 @@ Translated by Žanete Vēvere Pasqualini, Sara Smith & Richard O'Brien.
 
 > "When the class feels like a many-headed dragon, how can you find a place for yourself? Would you feel less lonely if you could smuggle a cat in? And when your parents are fighting, don't you find yourself looking into other people's windows on the walk back home?"
 
-### <cite>Hopscotch in the Sky</cite>, by Lucinda Jacob & Lauren O'Neill
-
-Coming to our catalogue soon - watch this space!
+### [<cite>Hopscotch in the Sky</cite>, by Lucinda Jacob & Lauren O'Neill](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2262035)
 
 > "Full colour, illustrated and hardback poetry book containing poetry on all the seasons for young readers. It includes poems about nature, the landscape, the weather and children's experiences of the seasons from ice-creams to Christmas trees."
 
@@ -114,9 +112,7 @@ Coming to our catalogue soon - watch this space!
 
 > "As Jingwen and Yanghao bake more elaborate cakes, they'll have to cook up more elaborate excuses to keep their baking a secret - and continue the dream their father started."
 
-### <cite>Me and Mrs Moon</cite>, by Helen Bate
-
-Coming to our catalogue soon - watch this space!
+### [<cite>Me and Mrs Moon</cite>, by Helen Bate](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2549748)
 
 > "Maisie and Dylan love Mrs Moon. She picks them up from school every day and they have great fun together. But then things start to get strange: a coat without sleeves, old socks as Christmas decorations, a missing dog, an imaginary folk band... The children want to help, but what should they do for the best?
 
@@ -168,9 +164,7 @@ Coming to our catalogue soon - watch this space!
 
 > "Matthew Henson was simply an ordinary man. That was, until Commander Robert E. Peary entered his life, and offered him a chance at true adventure. Henson would become navigator, craftsman, translator, and right-hand man on a treacherous journey to the North Pole. Defying the odds and the many prejudices that faced him to become a true pioneer. This is his incredible and often untold story."
 
-### <cite>Cloud Boy</cite>, by Marcia Williams
-
-Coming to our catalogue soon - watch this space!
+### [<cite>Cloud Boy</cite>, by Marcia Williams](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2537435)
 
 > "Harry Christmas and Angie Moon are best friends and almost-twins. Ever since they were born two days apart they've been partners in cloud-spotting, sweet-eating and treehouse-building. But when Harry is taken to hospital for headaches that won't go away, he needs Angie more than ever. Because when things fall apart, only a best friend can stitch them back together.
 

@@ -103,7 +103,7 @@ This LGBT History Month, we've added lots of great new titles to our Young Adult
 
 > "Queer author and activist Sarah Prager delves deep into the lives of 23 people who fought, created, and loved on their own terms. From high-profile figures like Abraham Lincoln and Eleanor Roosevelt to the trailblazing gender-ambiguous Queen of Sweden and a bisexual blues singer who didn't make it into your history books, these astonishing true stories uncover a rich queer heritage that encompasses every culture, in every era."
 
-### [<cite>Can Everyone Please Calm Down? Mae Martin's guide to 21st century sexuality</cite>, by Mae Martin](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2392400)
+### [<cite>Can Everyone Please Calm Down? Mae Martin's guide to 21st century sexuality</cite>, by Mae Martin](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2550861)
 
 > "Mae Martin is a Canadian comedian with an encyclopedic knowledge of Harry Potter trivia. Aside from this, if there's one area that she's 100% anecdotally and personally qualified to tackle, it's sexuality: should there be any such thing as a 'sexuality spectrum', then Mae has probably existed at every point on it at some stage in her life. This book is Mae's attempt to demystify sexuality by narrating her own often humiliating adventures in sex, dating and gender identity."
 

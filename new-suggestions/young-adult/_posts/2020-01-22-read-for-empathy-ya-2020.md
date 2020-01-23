@@ -110,9 +110,7 @@ Ahead of Empathy Day (9 June 2019), EmpathyLab have put together a collection of
 
 > "Simon is different, people don't really like that. Judy is difficult, and people don't like that either. So when they become friends, it's unexpected. And everything that comes next - the search for Judy's father, the journey to Sweden, the crash, the fight - I guess you could say that's unexpected too."
 
-## <cite>A Country to Call Home: an anthology on the experiences of young refugees and asylum seekers</cite>, by Lucy Popescu (ed.) & Chris Riddell
-
-Coming to our catalogue soon - watch this space!
+## [<cite>A Country to Call Home: an anthology on the experiences of young refugees and asylum seekers</cite>, by Lucy Popescu (ed.) & Chris Riddell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2366000)
 
 > "An anthology of new writing on one of the defining issues of our time. Focusing on the fate of refugee children and young adults, it is aimed at children and adult readers alike, and features work from Michael Morpurgo, Eoin Colfer, Kit de Waal and Simon Armitage among many others."
 
