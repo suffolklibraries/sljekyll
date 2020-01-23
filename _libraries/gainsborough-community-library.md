@@ -39,5 +39,5 @@ branch-other-facilities: '<ul>
                           </ul>'
 branch-pride-and-periods: y
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, sports equipment, free sanitary products."
-branch-news: 'The library is looking for a volunteer to help in the café.'
+branch-news: '<a href="/assets/pdf/gainsborough-cafe-volunteer-role-profile.pdf">Voices 4 Gainsborough Community Library are looking for volunteers to help run the library café</a> (link opens a PDF about the role).'
 ---

@@ -30,6 +30,6 @@ Jon Neal said: "Wellbeing and health in the workplace has never been so importan
 
 The all-day conference will feature speakers and discussions exploring the legal framework around the Equality Act, Disability Discrimination Act and Mental Health Act review. It will also show delegates how to put a mental health and wellbeing framework in place.
 
-Speakers on the day will represent the experiences of top companies including UBS, Direct Line Group, Astra Zeneca, ACAS, Adnams, C&I Wellbeing, RWE, Aon, Havas Creative Group and City of London Corporation.
+Speakers on the day will represent the experiences of top companies including UBS, Direct Line Group, Astra Zeneca, ACAS, Adnams, RWE, Aon, Havas Creative Group and City of London Corporation.
 
 There is an early bird 33% discounted rate of £199 for bookings made before Friday 7 February. There are also opportunities on the day for sponsors and exhibitors. Anyone interested should contact Nikki Hulse at Suffolk Libraries at **nikki.hulse@suffolklibraries.co.uk**
