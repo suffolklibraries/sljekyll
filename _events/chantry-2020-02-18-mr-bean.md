@@ -10,6 +10,6 @@ event-category: half-term
 breadcrumb: y
 ---
 
-Children are invited to have a go at magic and balloon modelling with Mr Bean this half-term.
+Children are invited for a magic show and balloon modelling with Mr Bean this half-term.
 
 Advance booking by contacting the library is essential.
