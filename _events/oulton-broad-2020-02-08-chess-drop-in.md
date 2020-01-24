@@ -1,5 +1,5 @@
 ---
-name: "Jumpstart January: Chess drop-in"
+name: "Chess drop-in"
 location: oulton-broad-library
 location-text: Oulton Broad Library
 event-start-date: 2020-02-08
