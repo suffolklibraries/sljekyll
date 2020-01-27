@@ -1,5 +1,5 @@
 ---
-name: "Harry Potter Book Nght"
+name: "Harry Potter Book Night"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2020-02-06
