@@ -11,6 +11,7 @@ branch-social-media: y
 branch-facebook: Suffolk-Libraries-Local-Shotley-274635152948530
 branch-local-internet: y
 branch-news: '<ul>
+                <li>There will be no session at Shotley on <strong>Monday 17 February</strong>.</li>
                 <li>Browse and borrow books, attend a range of activities and use IT facilities.</li>
                 <li>Self-service available during activities.</li>
                 <li>Payment facilities not available at Suffolk Libraries Local branches. Call <a class="blue" href="tel:01473351249">01473 351249</a> for any payments.</li>
