@@ -62,7 +62,7 @@ Time To Change Day
 </td>
 
 <td>
-Chocolate/strawberry biscuit decorating and card making for Valentine's Day
+Talk about Anderson Shelters from Charmian Thompson from the Haverhill Family History Group
 </td>
 </tr>
 
