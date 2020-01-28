@@ -6,7 +6,7 @@ event-start-date: 2020-02-21
 event-start-time: 1030
 event-end-time: 1200
 event-ticket-price: 1
-event-category: half-term
+event-category: ["half-term", "harry-potter"]
 breadcrumb: y
 ---
 

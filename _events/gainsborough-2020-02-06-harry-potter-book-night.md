@@ -5,6 +5,7 @@ location-text: Gainsborough Community Library
 event-start-date: 2020-02-06
 event-start-time: 1530
 event-end-time: 1700
+event-category: harry-potter
 breadcrumb: y
 ---
 

@@ -6,6 +6,7 @@ event-start-date: 2020-02-07
 event-start-time: 1500
 event-end-time: 1630
 event-ticket-price: free activity with a cost for refreshments
+event-category: harry-potter
 breadcrumb: y
 ---
 
