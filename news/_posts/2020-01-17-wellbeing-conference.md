@@ -14,7 +14,7 @@ The [Proactive Workplace Mental Health Summit](https://hivesuffolk.co.uk/) is ta
 
 The conference aims to help companies understand the costs of poor mental health and stress in the workplace. It will also help to show the positive action they can take to address the issue to benefit their employees and their bottom line. The event is being organised by Suffolk Libraries’ new HIVE network in partnership with Suffolk Mind.
 
-A 2017 government-commissioned report by Deloitte estimated that poor mental health in the workplace costs employers between £33bn and £42bn every year. Although workplace absence has fallen in recent years, the proportion of days lost due to mental health issues has risen.
+The recent [Mental Health and Employers: Refreshing the Case for Investment report from Deloitte](https://www2.deloitte.com/uk/en/pages/consulting/articles/mental-health-and-employers-refreshing-the-case-for-investment.html) estimated that poor mental health at work costs UK employers up to £45 billion a year. Although workplace absence has fallen in recent years, the proportion of days lost due to mental health issues has risen.
 
 However, the research also found that the return on investment of workplace mental health interventions can make a big difference when it comes to tackling the issue.
 
