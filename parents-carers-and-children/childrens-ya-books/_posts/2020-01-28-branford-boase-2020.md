@@ -72,9 +72,7 @@ A nomination for our very own Stock Librarian!
 
 > "When young friends Newt and Devlin start to question the system, they set in motion a chain of events that could destroy their entire world. But freedom is worth fighting for."
 
-## <cite>The Girl Who Lost Her Shadow</cite>, by Emily Ilett
-
-Coming to our catalogue soon!
+## [<cite>The Girl Who Lost Her Shadow</cite>, by Emily Ilett](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2614289)
 
 > "<em>Shadows were meant to stay stuck, like ears and promises.</em>
 

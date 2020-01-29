@@ -24,6 +24,12 @@ This LGBT History Month, we've added lots of great new titles to our Young Adult
 
 Charlie and Nick's story continues in the second and third instalments of this graphic novel series.
 
+### [<cite>The Love and Lies of Rukhsana Ali</cite>, by Sabina Khan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2515805)
+
+> "Seventeen-year-old Rukhsana Ali tries her hardest to live up to her conservative Muslim parents' expectations, but lately she's finding that impossible to do. She rolls her eyes when they blatantly favour her brother and saves her crop tops and makeup for parties her parents don't know about. If she can just hold out another few months, Rukhsana will be out of her familial home and away from her parents' ever-watchful eyes at Caltech, a place where she thinks she can finally be herself.
+
+> "But when she is caught kissing her girlfriend Ariana, her devastated parents take Rukhsana to Bangladesh, where everything she had been planning is out of reach. There, immersed in a world of tradition and arranged marriages, Rukhsana finds the perspective she's been looking for in her grandmother's old diary. The only question left for her to answer is: Can she fight for the life she wants without losing her family in the process?"
+
 ### [<cite>Wayward Son</cite>, by Rainbow Rowell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2652970)
 
 Sequel to [<cite>Carry On: the rise and fall of Simon Snow</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1905702).
@@ -49,9 +55,23 @@ Four-volume manga series following the experiences of gay high schooler Tasuku a
 
 [Read Emily's review of <cite>The Black Flamingo</cite> &rarr;](/new-suggestions/young-adult/the-black-flamingo-by-dean-atta/)
 
+### [<cite>Laura Dean Keeps Breaking Up With Me</cite>, by Mariko Tamaki & Rosemary Valero-O'Connell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2614642)
+
+> "Laura Dean, the most popular girl in high school, was Frederica Riley's dream girl: charming, confident, and SO cute. There's just one problem: Laura Dean is maybe not the greatest girlfriend.
+
+> "Reeling from her latest break up, Freddy's best friend, Doodle, introduces her to the Seek-Her, a mysterious medium who leaves Freddy some cryptic parting words: Break up with her."
+
 ### [<cite>Wranglestone</cite>, by Darren Charlton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2687397)
 
 > "When Peter puts the lake-bound sanctuary of Wranglestone in danger by allowing a stranger to come ashore, he's forced to leave and help rancher Cooper herd the dead from their shores. But as love blossoms between the pair, a dark discovery reveals the sanctuary's secret past."
+
+### [<cite>Her Royal Highness</cite>, by Rachel Hawkins](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2647839)
+
+> "Millie Quint is devastated when she discovers that her sort-of-best friend/sort-of-girlfriend has been kissing someone else. Heartbroken and ready for a change of pace, Millie decides to apply for scholarships to boarding schools... the farther from Houston the better.
+
+> "Soon, Millie is accepted into one of the world's most exclusive schools, located in the rolling highlands of Scotland. Here, the country is dreamy and green; the school is covered in ivy, and the students think her American-ness is adorable. The only problem: Mille's roommate Flora is a total princess. She's also an actual princess. Of Scotland.
+
+> "At first, the girls can't stand each other, but before Millie knows it, she has another sort-of-best-friend/sort-of-girlfriend. Princess Flora could be a new chapter in her love life, but Millie knows the chances of happily-ever-afters are slim...after all, real life isn't a fairy tale... or is it?"
 
 ### [<cite>Running with Lions</cite>, by Julian Winters](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2445628)
 
