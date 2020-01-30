@@ -10,6 +10,6 @@ event-ticket-price: 4
 breadcrumb: y
 ---
 
-Enjoy stories, party games, photos and more with the Ice Queen this half-term.
+Enjoy stories, songs, party games and more with the Ice Queen this half-term.
 
 Advance booking by contacting the library is essential.
