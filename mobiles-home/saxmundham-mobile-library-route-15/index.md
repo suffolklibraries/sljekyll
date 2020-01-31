@@ -4,12 +4,6 @@ title: Saxmundham Mobile Library Route 15
 breadcrumb: mobiles-home
 ---
 
-<div class="{% include /c/generic-panel.html %}">
-
-<p>Saxmundham Mobile Library Route 15 is not running today (Thursday 30 January).</p>
-
-</div>
-
 ## Contact us:
 
 Manager: Rob Alcraft and Peter Fiske
