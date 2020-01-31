@@ -1,7 +1,7 @@
 ---
 name: "Saturday Fun: Harry Potter crafts and puzzles"
-location: gainsborough-community-library
-location-text: Gainsborough Community Library
+location: lowestoft-library
+location-text: Lowestoft Library
 event-start-date: 2020-02-08
 event-start-time: 1045
 event-end-time: 1145
