@@ -1,7 +1,7 @@
 ---
 name: "Bike marking"
-location: bungay-library
-location-text: Bungay Library
+location: bungay-community-library
+location-text: Bungay Community Library
 event-start-date: 2020-02-29
 event-start-time: 1030
 event-end-time: 1130

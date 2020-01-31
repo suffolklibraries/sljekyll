@@ -1,7 +1,7 @@
 ---
 name: "World Book Day party"
-location: bungay-library
-location-text: Bungay Library
+location: bungay-community-library
+location-text: Bungay Community Library
 event-start-date: 2020-03-05
 event-start-time: 1530
 event-end-time: 1630

@@ -1,7 +1,7 @@
 ---
 name: "Children's craft club: Owl stories and masks"
-location: bungay-library
-location-text: Bungay Library
+location: bungay-community-library
+location-text: Bungay Community Library
 event-start-date: 2020-02-20
 event-start-time: 0930
 event-end-time: 1200
