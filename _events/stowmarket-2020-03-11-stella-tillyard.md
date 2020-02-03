@@ -16,7 +16,7 @@ Join us for an evening with Stella Tillyard. Stella is an author and historian w
 
 > "Many years later, now a distinguished gentleman in Nieuw Amsterdam in the bustling hubbub of the New World, Jan receives a note, unsigned."
 
-<cite>The Great Level</cite> is one of our DiscoverReads titles for 2020 (more details coming soon!) and was shortlisted for the [2019 New Angle Prize](/new-suggestions/articles/new-angle-longlist-2019/).
+<cite>The Great Level</cite> is one of our [Discovereads](/discovereads/) titles for 2020 and was shortlisted for the [2019 New Angle Prize](/new-suggestions/articles/new-angle-longlist-2019/).
 
 Ticket price includes refreshments.
 
