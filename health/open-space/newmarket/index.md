@@ -28,147 +28,137 @@ Running order: lunch/tea/coffee &rarr; informal discussion topic or activity &ra
 
 <tr>
 <td>
-06.11.19
+05.02.20
 </td>
 
 <td>
-Remembrance Day crafts with Karen
-</td>
-</tr>
-
-<tr>
-<td>
-13.11.19
-</td>
-
-<td>
-Talks from Leanne from Total Voice Suffolk & Nuala from Cocaine Anonymous
+Crafts with Karen
 </td>
 </tr>
 
 <tr>
 <td>
-20.11.19
+12.02.20
 </td>
 
 <td>
-Games/bingo
-</td>
-</tr>
-
-<tr>
-<td>
-27.11.19
-</td>
-
-<td>
-Talk from Laura from Suffolk Carers Matter
+Crafts with Karen: Lavender bags
 </td>
 </tr>
 
 <tr>
 <td>
-04.12.19
+19.02.20
 </td>
 
 <td>
-Tea, biscuits and chat
-</td>
-</tr>
-
-<tr>
-<td>
-11.12.19
-</td>
-
-<td>
-Christmas crafts with Karen
+Crafts with Karen
 </td>
 </tr>
 
 <tr>
 <td>
-18.12.19
+26.02.20
 </td>
 
 <td>
-Christmas tea
-</td>
-</tr>
-
-<tr>
-<td>
-25.12.19
-</td>
-
-<td>
-No session
+Boccia
 </td>
 </tr>
 
 <tr>
 <td>
-27.12.19, 2:30-4:30pm
+04.03.20
 </td>
 
 <td>
-Drop in for refreshments, chat and games (if you fancy!)
-</td>
-</tr>
-
-<tr>
-<td>
-01.01.20
-</td>
-
-<td>
-No session
+Bingo with chocolate prizes
 </td>
 </tr>
 
 <tr>
 <td>
-03.01.19, 2:30-4:30pm
+11.03.20
 </td>
 
 <td>
-Drop in for refreshments, chat and games (if you fancy!)
-</td>
-</tr>
-
-<tr>
-<td>
-08.01.20
-</td>
-
-<td>
-Tea, biscuits and chat
+Crafts with Karen
 </td>
 </tr>
 
 <tr>
 <td>
-15.01.20
+18.03.20
 </td>
 
 <td>
-Record office visit/games
-</td>
-</tr>
-
-<tr>
-<td>
-22.01.20
-</td>
-
-<td>
-Cuppa and chat with Suffolk Wellbeing Service
+Discussion with Sara
 </td>
 </tr>
 
 <tr>
 <td>
-29.01.20
+25.03.20
+</td>
+
+<td>
+Visit from the Record Office
+</td>
+</tr>
+
+<tr>
+<td>
+01.04.20
+</td>
+
+<td>
+Card and board games
+</td>
+</tr>
+
+<tr>
+<td>
+08.04.20
+</td>
+
+<td>
+Crafts with Karen
+</td>
+</tr>
+
+<tr>
+<td>
+15.04.20
+</td>
+
+<td>
+Craft: Easter badkets
+</td>
+</tr>
+
+<tr>
+<td>
+22.04.20
+</td>
+
+<td>
+Crafts with Karen
+</td>
+</tr>
+
+<tr>
+<td>
+29.04.20
+</td>
+
+<td>
+Discussion with Sara
+</td>
+</tr>
+
+<tr>
+<td>
+06.05.20
 </td>
 
 <td>

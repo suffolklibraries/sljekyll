@@ -4,9 +4,9 @@ branch-name: Rosehill Library
 branch-image: /images/branches/rosehill-library-2.jpg
 branch-monday-hours: Closed
 branch-tuesday-hours:	0930 – 1700
-branch-wednesday-hours: 0930 – 1700
-branch-thursday-hours: 0930 – 1700
-branch-friday-hours: 0930 – 1930
+branch-wednesday-hours: 0900 - 1700
+branch-thursday-hours: 0900 – 1700
+branch-friday-hours: 0900 – 1800
 branch-saturday-hours: 0930 – 1700
 branch-sunday-hours: 1100 – 1600
 branch-manager: Kate Byford
