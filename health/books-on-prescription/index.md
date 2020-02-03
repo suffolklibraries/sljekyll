@@ -36,27 +36,39 @@ breadcrumb: health
 
 {%
   include z-bar.html
+  src="featured/featured-reading-well-children-902.jpg"
+  alt="Planet Omar: Accidental Trouble Magnet, Clownfish, Worry Angels"
+  bg-color="bg-near-white"
+  title="Reading Well for children"
+  text="Titles for children that cover mental health, feelings, worries, bullying, tough times, having a disability and more."
+  link="/health/lists/health-lists/reading-well-for-children/"
+  link-text="Check out Reading Well for children &rarr;"
+  link-color="custom-corporate-green"
+%}
+
+{%
+  include z-bar.html
   src="featured/featured-reading-well-for-young-people-902.jpg"
   alt="Mind Your Head, The Self-Esteem Team's Guide to Sex, Drugs and WTFs, Blame My Brain"
-  bg-color="bg-near-white"
+  layout-reverse="true"
+  color="white"
+  bg-color="custom-bg-corporate-green"
   title="Reading Well for young people"
   text="Titles to help young people with their mental health, covering anxiety, body image and eating disorders, confidence and self-esteem, depression, mood swings and more."
   link="/health/lists/health-lists/reading-well-for-young-people/"
   link-text="Check out Reading Well for young people &rarr;"
-  link-color="custom-corporate-green"
+  link-color="white"
 %}
 
 {%
   include z-bar.html
   src="featured/featured-reading-well-long-term-902.jpg"
   alt="Pain is Really Strange, How I Rescued My Brain, The Selfish Pig's Guide to Caring"
-  layout-reverse="true"
-  color="white"
-  bg-color="custom-bg-corporate-green"
+  bg-color="bg-near-white"
   title="Reading Well for long term conditions"
   text="Titles for people with long-term conditions such as chronic pain, arthritis and diabetes."
   link="/health/lists/health-lists/reading-well-for-long-term-conditions/"
-  link-color="white"
+  link-color="custom-corporate-green"
   link-text="Check out Reading Well for long term conditions &rarr;"
 %}
 
@@ -64,11 +76,13 @@ breadcrumb: health
   include z-bar.html
   src="featured/featured-reading-well-dementia-902.jpg"
   alt="Grandma, Dear Dementia"
-  bg-color="bg-near-white"
+  layout-reverse="true"
+  color="white"
+  bg-color="custom-bg-corporate-green"
   title="Reading Well for dementia"
   text="Titles for people who have dementia, are caring for someone with dementia, or would like to find out more about the condition."
   link="/health/lists/health-lists/reading-well-for-dementia/"
-  link-color="custom-corporate-green"
+  link-color="white"
   link-text="Check out Reading Well for dementia &rarr;"
 %}
 
