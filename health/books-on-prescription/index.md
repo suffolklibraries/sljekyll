@@ -40,7 +40,7 @@ breadcrumb: health
   alt="Planet Omar: Accidental Trouble Magnet, Clownfish, Worry Angels"
   bg-color="bg-near-white"
   title="Reading Well for children"
-  text="Titles for children that cover mental health, feelings, worries, bullying, tough times, having a disability and more."
+  text="Titles for children that cover mental health, feelings, worries, bullying, tough times, living with a disability and more."
   link="/health/lists/health-lists/reading-well-for-children/"
   link-text="Check out Reading Well for children &rarr;"
   link-color="custom-corporate-green"
