@@ -41,4 +41,5 @@ branch-other-facilities: '<ul>
                           </ul>'
 branch-pride-and-periods: y
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, Lego Club, older people's activities, health & wellbeing groups, free sanitary products."
+branch-news: "The library is open as usual during works to repair the roof and protect it from gulls. This coincides with the County Council's work on the Record Office, which involves a closure of the search room."
 ---
