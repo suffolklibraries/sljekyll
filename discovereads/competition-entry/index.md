@@ -14,7 +14,7 @@ You can submit feedback separately for each of the titles you've read - so if yo
 
 This competition closes on Tuesday 30 June and the winner will be notified soon after.
 
-<form class="pure-form pure-form-stacked pb4" netlify name="discovereads" action="/discovereads/confirmation/" netlify-honeypot="bot-field">
+<form class="pure-form pure-form-stacked pb4" netlify name="discovereads" action="/discovereads/competition-entry/confirmation/" netlify-honeypot="bot-field">
 
   <form class="pb4" netlify name="discovereads" action="/discovereads/competition-entry/confirmation/" netlify-honeypot="bot-field">
 
