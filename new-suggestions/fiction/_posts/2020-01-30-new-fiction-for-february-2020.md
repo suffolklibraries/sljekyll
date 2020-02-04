@@ -72,6 +72,8 @@ If you enjoyed Lucy Foley’s first book, [<cite>The Hunting Party</cite>](https
 
 > "But a chance encounter in the park with two very different women opens the door to something different. A new life beckons for Missy, if only she can be brave enough to grasp the opportunity. But seventy-nine is too late for a second chance. Isn't it?"
 
+[Read our Meet the Author interview with Beth Morrey &rarr;](/new-suggestions/meet-the-author/meet-the-author-beth-morrey/)
+
 ## [<cite>The Burial Circle</cite>, by Kate Ellis](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2688039)
 
 > "On a stormy night in December, a tree is blown down on an isolated Devon farm. And when the fallen tree is dragged away a rucksack is found caught amongst the roots - and next to it is a human skeleton.

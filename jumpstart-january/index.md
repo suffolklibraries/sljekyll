@@ -8,7 +8,7 @@ header-bg: custom-bg-corporate
 jquery-ui: true
 tabs: true
 breadcrumb: events
-featured: true
+featured: false
 featured-excerpt: "Spring into 2020 with a wellbeing check-up, one of our healthy eating picks or by trying something new at the library."
 featured-link-href-text: "Find out more &rarr;"
 featured-image: "/images/jj/jj-splash.jpg"
