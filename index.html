@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Suffolk Libraries reserve, renew, branches and eLibrary
-featured-story: false
+featured-story: true
 meta-title: "Home"
 meta-description: "Reserve and renew titles, download eBooks, eAudio and music, and find libraries and events"
 ---
@@ -127,7 +127,7 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
  {% if page.featured-story %}
 
-     {% assign featured_posts = site.pages | where: "featured", "true" %}
+     {% assign featured_posts = site.posts | where: "featured", "true" %}
 
      {% for post in featured_posts limit:1 %}
 
