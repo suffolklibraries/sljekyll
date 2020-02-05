@@ -21,7 +21,7 @@ layout: blank
 
             <ul class="ma0 pa0 list f5">
 
-              <li><a class="pv1 yellow no-underline underline-hover" href="/bloc/artists/lowestoft-lab">BLOC Lab: a week long mixed media artist residency at Lowestoft Library, 21-25 October &rarr;</a></li>
+              <li><a class="pv1 yellow no-underline underline-hover" href="/bloc/artists/bury-lab">BLOC Lab: a week long mixed media artist residency at Bury St Edmunds Library, 30 March - 3 April &rarr;</a></li>
 
             </ul>
 
@@ -85,7 +85,7 @@ layout: blank
 
         <ul class="measure">
 
-          <li class="measure mt0"><a href="/bloc/artists/lowestoft-lab/" class="blue underline-hover pv1">BLOC Lab: a week long mixed media artist residency at Lowestoft Library, 21-25 October</a></li>
+          <li class="measure mt0"><a href="/bloc/artists/bury-lab/" class="blue underline-hover pv1">BLOC Lab: a week long mixed media artist residency at Bury St Edmunds Library, 30 March - 3 April</a></li>
 
         </ul>
 

@@ -11,7 +11,7 @@ layout: blank
 
       <div class="custom-max-width">
 
-        <h1 class="ma0 f5 f4-ns tracked ttl small-caps normal washed-blue lh-title"><span class="pb1 bb-ns bw3-ns b--washed-blue-ns">Lowestoft BLOC LAB</span></h1>
+        <h1 class="ma0 f5 f4-ns tracked ttl small-caps normal washed-blue lh-title"><span class="pb1 bb-ns bw3-ns b--washed-blue-ns">Bury St Edmunds BLOC LAB</span></h1>
 
         <div class="measure">
 
@@ -19,8 +19,8 @@ layout: blank
 
           <ul class="list ma0 pa0 f5">
 
-            <li>Mon 21 - Fri 25 Oct 2019</li>
-            <li>Lowestoft Library</li>
+            <li>Mon 30 March - Friday 3 April 2020</li>
+            <li>Bury St Edmunds Library</li>
             <li>£500 fee, lunch provided by Suffolk Libraries</li>
 
           </ul>

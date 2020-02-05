@@ -1,5 +1,5 @@
 ---
-title: "Lowestoft BLOC LAB application form"
+title: "Bury St Edmunds BLOC LAB application form"
 layout: blank
 ---
 
@@ -11,7 +11,7 @@ layout: blank
 
       <div class="custom-max-width">
 
-        <h1 class="ma0 f5 f4-ns tracked ttl small-caps normal washed-blue lh-title"><span class="pb1 bb-ns bw3-ns b--washed-blue-ns">Lowestoft BLOC LAB</span></h1>
+        <h1 class="ma0 f5 f4-ns tracked ttl small-caps normal washed-blue lh-title"><span class="pb1 bb-ns bw3-ns b--washed-blue-ns">Bury St Edmunds BLOC LAB</span></h1>
 
         <div class="measure">
 
@@ -19,13 +19,13 @@ layout: blank
 
           <ul class="list ma0 pa0 f5">
 
-            <li>Mon 21 – Fri 25 October 2019</li>
-            <li>Lowestoft Library</li>
+            <li>Mon 30 March - Fri 3 April</li>
+            <li>Bury St Edmunds Library</li>
             <li>£500 fee, lunch provided by Suffolk Libraries</li>
 
           </ul>
 
-          <p><a class="b yellow no-underline underline-hover" href="/bloc/artists/lowestoft-lab/">Find out more &rarr;</a></p>
+          <p><a class="b yellow no-underline underline-hover" href="/bloc/artists/bury-lab/">Find out more &rarr;</a></p>
 
         </div>
 
@@ -39,15 +39,15 @@ layout: blank
 
         <div class="measure-wide">
 
-          <h2 class="f4 f2-ns custom-lh-title">Lowestoft BLOC LAB application form</h2>
+          <h2 class="f4 f2-ns custom-lh-title">Bury St Edmunds BLOC LAB application form</h2>
 
-          <p><a class="blue underline" href="/bloc/artists/lowestoft-lab/">Role notes &rarr;</a></p>
+          <p><a class="blue underline" href="/bloc/artists/bury-lab/">Role notes &rarr;</a></p>
 
-          <form class="pure-form pure-form-stacked pb4" netlify name="lowestoft-lab-application" action="/bloc/artists/lowestoft-lab/apply/confirmation/" netlify-honeypot="bot-field">
+          <form class="pure-form pure-form-stacked pb4" netlify name="bury-lab-application" action="/bloc/artists/bury-lab/apply/confirmation/" netlify-honeypot="bot-field">
 
             <p class="custom-lh-title mt0 mb4"><small>Fields marked <span class="red">*</span> are compulsory. <a class="blue underline" href="/about/jobs/privacy-notice-for-job-applicants/">Privacy notice</a>.</small></p>
 
-            <label for="available" class="db f5">Are you available between 21-25 Oct 2019? <span class="red">*</span></label>
+            <label for="available" class="db f5">Are you available between 30 March - 3 April 2020? <span class="red">*</span></label>
             <select required name="available" id="available">
               <option value="yes">Yes</option>
               <option value="no">No</option>
@@ -74,7 +74,7 @@ layout: blank
             <label for="social-media" class="db f5 pt3">Social media profile (if you have one)</label>
             <input class="border-box w-100" type="url" name="social-media" id="social-media">
 
-            <label for="accommodation" class="db f5 pt3">Would you require accommodation for 21- 25 October? <span class="red">*</span></label>
+            <label for="accommodation" class="db f5 pt3">Would you require accommodation for 30 March - 3 April? <span class="red">*</span></label>
             <select required name="accommodation" id="accommodation">
               <option value="yes-accommodation">Yes</option>
               <option selected value="no-accommodation">No</option>

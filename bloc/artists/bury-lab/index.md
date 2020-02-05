@@ -1,5 +1,5 @@
 ---
-title: "Lowestoft BLOC LAB applications"
+title: "Bury St Edmunds BLOC LAB applications"
 layout: blank
 ---
 
@@ -11,7 +11,7 @@ layout: blank
 
       <div class="custom-max-width">
 
-        <h1 class="ma0 f5 f4-ns tracked ttl small-caps normal washed-blue lh-title"><span class="pb1 bb-ns bw3-ns b--washed-blue-ns">Lowestoft BLOC LAB</span></h1>
+        <h1 class="ma0 f5 f4-ns tracked ttl small-caps normal washed-blue lh-title"><span class="pb1 bb-ns bw3-ns b--washed-blue-ns">Bury St Edmunds BLOC LAB</span></h1>
 
         <div class="measure">
 
@@ -19,13 +19,13 @@ layout: blank
 
           <ul class="list ma0 pa0 f5">
 
-            <li>Mon 21 - Fri 25 October 2019</li>
-            <li>Lowestoft Library</li>
+            <li>Mon 30 March - Fri 3 April 2020</li>
+            <li>Bury St Edmunds Library</li>
             <li>£500 fee, lunch provided by Suffolk Libraries</li>
 
           </ul>
 
-          <p><a class="b yellow no-underline underline-hover" href="/bloc/artists/lowestoft-lab/apply/">Apply to take part &rarr;</a></p>
+          <p><a class="b yellow no-underline underline-hover" href="/bloc/artists/bury-lab/apply/">Apply to take part &rarr;</a></p>
 
         </div>
 
@@ -43,9 +43,11 @@ layout: blank
 
             <h2 class="f4 f2-ns custom-lh-title">About</h2>
 
-            <p>We are inviting local artists to come and use <a href="/libraries/lowestoft-library/" class="blue underline">Lowestoft Library</a> as a work space to explore the role creativity plays as catalyst for nurturing confidence and wellbeing in the community.</p>
+            <p>We are inviting six local artists to come and use <a href="/libraries/bury-st-edmunds-library/" class="blue underline">Bury St Edmunds Library</a> as a workspace to explore the role creativity plays as catalyst for nurturing confidence and wellbeing in the community. During the residency artists will be given the opportunity to examine their role as creative practitioners in community settings, and explore their practice through the theme of gender equality.</p>
 
-            <p>Six artists will be given the opportunity during the residency to explore their practice as well as their role as creative practitioners in community settings.</p>
+            <p>In spring 2020, the British Library presents <a href="https://www.bl.uk/events/unfinished-business">Unfinished Business: The Fight for Women’s Rights</a>. The exhibition will explore how contemporary fights for gender equality and liberation in the UK have their roots in the long and complex history of women’s activism and campaigning. It will include items ranging from personal diaries, letters, banners and protest fashion, to subversive literature, film, music and art.</p>
+
+            <p>To coincide with the British Library exhibition, Suffolk Libraries will be hosting pop-up exhibitions and events at <a href="/libraries/ipswich-county-library/">Ipswich County Library</a>, <a href="/libraries/lowestoft-library/">Lowestoft Library</a> and <a href="/libraries/bury-st-edmunds-library">Bury St Edmunds Library</a>. Thus, for this year’s artist residency at Bury St Edmunds Library, we are looking for artists who are keen to create work with roots in community in relation to equality and battles not yet won.</p>
 
             <p><a href="/bloc/artists/culture-lab/" class="blue underline">Find out about the LAB we held at Ipswich County Library in 2018</a>.</p>
 
@@ -126,15 +128,15 @@ layout: blank
 
             <ul>
 
-              <li>Deadline: <strong>Midday, Friday 4 October 2019</strong></li>
-              <li>Phone interviews: <strong>Monday 7 October 2019</strong></li>
-              <li>Notification: <strong>Tuesday 8 October 2019</strong></li>
+              <li>Deadline: <strong>Midday, Friday 6 March 2020</strong></li>
+              <li>Phone interviews: <strong>Tuesday 10 March 2020</strong></li>
+              <li>Notification: <strong>Wednesday 11 March 2020</strong></li>
 
             </ul>
 
             <p>Applicants will be selected in accordance to how well they meet the criteria outlined above.</p>
 
-            <p class="f3 mt4"><a class="b bg-gold pa2 ba b--light-gray br2 hover-bg-yellow dark-gray" href="/bloc/artists/lowestoft-lab/apply/">Apply to take part &rarr;</a></p>
+            <p class="f3 mt4"><a class="b bg-gold pa2 ba b--light-gray br2 hover-bg-yellow dark-gray" href="/bloc/artists/bury-lab/apply/">Apply to take part &rarr;</a></p>
 
           </section>
 

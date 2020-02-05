@@ -1,5 +1,5 @@
 ---
-title: "Lowestoft BLOC LAB application form confirmation"
+title: "Bury St Edmunds BLOC LAB application form confirmation"
 layout: blank
 ---
 
@@ -11,7 +11,7 @@ layout: blank
 
       <div class="custom-max-width">
 
-        <h1 class="ma0 f5 f4-ns tracked ttl small-caps normal washed-blue lh-title"><span class="pb1 bb-ns bw3-ns b--washed-blue-ns">Lowestoft BLOC LAB</span></h1>
+        <h1 class="ma0 f5 f4-ns tracked ttl small-caps normal washed-blue lh-title"><span class="pb1 bb-ns bw3-ns b--washed-blue-ns">Bury St Edmunds BLOC LAB</span></h1>
 
         <div class="measure">
 
@@ -19,8 +19,8 @@ layout: blank
 
           <ul class="list ma0 pa0 f5">
 
-            <li>Mon 21 Oct – Fri 25 Oct 2019</li>
-            <li>Lowestoft Library</li>
+            <li>Mon 30 March - Fri 4 April 2020</li>
+            <li>Bury St Edmunds Library</li>
             <li>£500 fee, lunch provided by Suffolk Libraries</li>
 
           </ul>
@@ -59,7 +59,7 @@ layout: blank
 
           </div>
 
-          <form class="pure-form pure-form-stacked pb4" netlify name="lowestoft-lab-application-diversity" action="/bloc/artists/lowestoft-lab/apply/confirmation/diversity-confirmation/" netlify-honeypot="bot-field">
+          <form class="pure-form pure-form-stacked pb4" netlify name="bury-lab-application-diversity" action="/bloc/artists/bury-lab/apply/confirmation/diversity-confirmation/" netlify-honeypot="bot-field">
 
             <label for="diversity-survey-age" class="db f5 pt3">How old are you?</label>
             <select name="diversity-survey-age" id="diversity-survey-age">
