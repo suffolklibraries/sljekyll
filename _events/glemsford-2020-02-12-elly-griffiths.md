@@ -1,5 +1,5 @@
 ---
-name: "Meet the Author: Elly Griffiths"
+name: "Meet the Author: Elly Griffiths - SOLD OUT"
 location: glemsford-library
 location-text: Glemsford Library
 event-alt-location: Methodist Church Hall, Tye Green, Glemsford, CO10 7RH
@@ -10,6 +10,8 @@ event-ticket-price: 5
 event-ticket-url: https://www.eventbrite.co.uk/e/elly-griffiths-bestselling-author-talk-and-book-signing-tickets-87940062093?ref=estw
 breadcrumb: y
 ---
+
+**This event is sold out**
 
 Join us at the Methodist Church Hall for an afternoon with Elly Griffiths, author of the best-selling Dr Ruth Galloway and Stephens and Mephisto series. The CWA Dagger in the Library winner will be talking about her new Dr Ruth Galloway novel, [<cite>The Lantern Men</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2687390) and her books more generally, taking questions and signing copies of her books.
 
