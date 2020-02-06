@@ -10,9 +10,9 @@ featured-alt: "The Boy Who Grew Dragons, Little Leaders: Bold Women in Black His
 breadcrumb: childrens-ya-books
 ---
 
-## Illustrated books
-
 ![The Boy Who Grew Dragons, Little Leaders: Bold Women in Black History, A Winter's Promise](/images/featured/featured-waterstones-children-2019.jpg)
+
+## Illustrated books
 
 ### [<cite>100 Dogs</cite>, by Michael Whaite](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2408534)
 
