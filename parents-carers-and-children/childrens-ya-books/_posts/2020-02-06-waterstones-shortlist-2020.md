@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Pick up an excellent book from the 2019 Waterstones Children's Book Prize shortlist"
+title: "Pick up an excellent book from the 2020 Waterstones Children's Book Prize shortlist"
 date: 2020-02-06
 author: sophie-green
 category: childrens-ya-books
