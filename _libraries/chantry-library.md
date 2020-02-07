@@ -32,5 +32,4 @@ branch-other-facilities: Foodbank collection point throughout the year
 breadcrumb: y
 branch-pride-and-periods: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, Lego Club, older people's activities, health & wellbeing groups."
-branch-news: "Parking at the library may be restricted between 15 - 18 January due to remedial work."
 ---

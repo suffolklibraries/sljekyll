@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Try something new with Suffolk Libraries' new Discovereads promotion"
+title: "Try something new with Suffolk Libraries' Discovereads promotion"
 date: 2020-02-07
 author: james-powell
 category: news
@@ -31,4 +31,4 @@ Lisa Brennan, Content and Reader Development Librarian at Suffolk Libraries, sai
 
 "We’re delighted to be launching a promotion of these six amazing books chosen with help from our book groups across Suffolk. We’d love people to take part and discover something new. You don’t have to be a regular reader or library customer – we’d love to engage with as many people as possible."
 
-The programme will run until the end of May, with other events and discussions also taking place. [Anyone feeding back their views on the Discovereads titles by Tuesday 30 June will also be entered into a prize draw to win paperback copies of all six books](https://www.suffolklibraries.co.uk/discovereads/competition-entry/). 
+The programme will run until the end of May, with other events and discussions also taking place. [Anyone feeding back their views on the Discovereads titles by Tuesday 30 June will also be entered into a prize draw to win paperback copies of all six books](https://www.suffolklibraries.co.uk/discovereads/competition-entry/).
