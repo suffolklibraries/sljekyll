@@ -1,7 +1,7 @@
 ---
 recurrent-title: "Creative Café: for ages 8-18"
 recurrent-description: 'Explore creative activities, building your confidence and curiosity in a relaxed environment. A <a href="/bloc/">BLOC</a> initiative.'
-recurrent-day: Friday
+recurrent-day: Fridays from 28 February
 recurrent-times: 1800-1930
 recurrent-location: gainsborough-community-library
 recurrent-location-display-name: Gainsborough Community Library
