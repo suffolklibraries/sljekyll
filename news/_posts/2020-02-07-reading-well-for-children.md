@@ -4,11 +4,11 @@ title: "New reading list to support children’s mental health and literacy"
 date: 2020-02-07
 author: hannah-foulstone
 category: news
-excerpt: "A new ‘Reading Well for children’ booklist has been launched for Children’s Mental Health Week."
+excerpt: "A new ‘Reading Well for Children’ booklist has been launched for Children’s Mental Health Week."
 breadcrumb: news
 ---
 
-A new ‘Reading Well for children’ booklist has been launched for Children’s Mental Health Week.
+A new ‘Reading Well for Children’ booklist has been launched for Children’s Mental Health Week.
 
 Children’s Mental Health Week is coordinated by [Place2Be](https://www.childrensmentalhealthweek.org.uk/) and runs from 3-9 February with the aim of shining a spotlight on the importance of children and young people’s mental health.  
 
@@ -18,7 +18,7 @@ The books will be available from Suffolk Libraries with full sets at [Ipswich](h
 
 Sarah Lungley, Wellbeing Manager for Suffolk Libraries, said:
 
-“We are thrilled to be supporting the launch of the new Reading Well for Children scheme. Suffolk Libraries are passionate about supporting early years and children’s wellbeing and this list is a fantastic resource for parents, carers and children.”
+“We are thrilled to be supporting the launch of the new Reading Well for Children scheme. We are passionate about supporting early years and children’s wellbeing and this list is a fantastic resource for parents, carers and children.”
 
 “Reading can often help people feel less alone in their experiences, thoughts and feelings. This can be invaluable and especially useful for children and young people going through a difficult time.”
 
@@ -28,6 +28,6 @@ The booklist is targeted at children in Key Stage 2 (aged 7-11) and includes a w
 
 There are 44 libraries across Suffolk where parents and children can get easy and free access to books, eBooks, eAudio and more.  
 
-Suffolk Libraries also offers [Open Space](https://www.suffolklibraries.co.uk/health/open-space/) drop-ins, where people of all ages can discuss their wellbeing and socialize in a no-pressure environment. These drop-ins take place at libraries in Bury St Edmunds, Felixstowe, Haverhill, Ipswich County, Newmarket, Stowmarket, Sudbury and Woodbridge. These are run in partnership with Norfolk and Suffolk NHS Foundation Trust, Julian Support, Richmond Fellowship and Suffolk Mind.
+We also offer [Open Space](https://www.suffolklibraries.co.uk/health/open-space/) drop-ins, where people of all ages can discuss their wellbeing and socialize in a no-pressure environment. These drop-ins take place at libraries in Bury St Edmunds, Felixstowe, Haverhill, Ipswich County, Newmarket, Stowmarket, Sudbury and Woodbridge. These are run in partnership with Norfolk and Suffolk NHS Foundation Trust, Julian Support, Richmond Fellowship and Suffolk Mind.
 
 You can find more about our [New Chapters service](https://www.suffolklibraries.co.uk/health/) to find out what libraries can offer for your mental health and wellbeing.
