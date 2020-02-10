@@ -9,4 +9,6 @@ event-category: bloc-exhibition
 breadcrumb: y
 ---
 
-Pop up to the second floor to view a range of artworks from Suffolk New College students, all inspired by Ipswich County Library.
+Pop up to the second floor to view a range of artworks from Suffolk New College students, all on the theme of sustainability.
+
+This theme is perfect for the library, because sustainability is at the heart of everything we do!

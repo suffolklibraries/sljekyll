@@ -1,5 +1,5 @@
 ---
-name: "Meet a princess!"
+name: "Meet a princess! - SOLD OUT"
 location: southwold-library
 location-text: Southwold Library
 event-start-date: 2020-02-19
@@ -10,6 +10,8 @@ event-ticket-price: 2
 event-ticket-url: https://www.ticketsource.co.uk/suffolklibraries/meet-a-princess-at-southwold-library/e-rjxaoe
 breadcrumb: y
 ---
+
+**This event is sold out**
 
 Enjoy stories, magic wishes and party games with a princess this half-term.
 
