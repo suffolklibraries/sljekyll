@@ -142,7 +142,7 @@ emma-raindle:
 emma-yarrow:
     name: Emma Yarrow
     job: library manager
-    bio: I'm the manager at Elmswell Library.
+    bio: I'm the former manager of Elmswell Library.
 
 emily-mitchell:
     name: Emily Mitchell
@@ -250,12 +250,12 @@ kate-bacon:
 katie-olivia-mitton:
     name: Katie and Olivia Mitton
     job: library customers
-    bio: We are 9- and 11-year-old Felixstowe Library customers.
+    bio: We are Felixstowe Library customers.
 
 krystal-vittles:
     name: Krystal Vittles
     job: libraries innovation and development manager
-    bio: I'm the Libraries Innovation and Development Manager.
+    bio: I'm the Head of Service Delivery.
 
 leon-paternoster:
     name: Leon Paternoster
@@ -291,6 +291,11 @@ melissa-matthews:
     bio: I'm the arts programmes coordinator
     img: /images/authors/melissa-matthews.jpg
 
+miles-row:
+    name: Miles Row
+    job: Elmswell Library Manager
+    bio: I'm Elmswell Library Manager.
+
 natasha-catchpole:
     name: Natasha Catchpole
     job: staff at Bury St Edmunds
@@ -309,7 +314,7 @@ nilima-banerji:
 olivia-roberts:
     name: Olivia Roberts
     job: Great Cornard library customer
-    bio: I'm a 13-year-old customer at Great Cornard Library.
+    bio: I'm a customer at Great Cornard Library.
 
 paul-howarth:
     name: Paul Howarth
