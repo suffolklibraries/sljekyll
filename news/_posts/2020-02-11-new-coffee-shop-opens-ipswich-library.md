@@ -12,7 +12,7 @@ featured-alt: "L-R: Scott Barker, Maria Gasparova and Dilyana Nikolova at the op
 
 {% include /c/figure.html alt="S" src="/images/featured/featured-coffeelink-launch.jpg" caption="L-R: Scott Barker, Maria Gasparova and Dilyana Nikolova at the opening of the new Coffeelink café at Ipswich County Library" %}
 
-Library users can now enjoy a hot drink or a delicious pastry whilst browsing books at [Ipswich County Library](/libraries/ipswich-county-library/) with the opening of a new Coffeelink café.
+Library users can now enjoy a hot drink or a delicious pastry while browsing books at [Ipswich County Library](/libraries/ipswich-county-library/) with the opening of a new Coffeelink café.
 
 The coffee shop at the library on Northgate Street is open to the public as of 11 February.
 
