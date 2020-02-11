@@ -40,5 +40,5 @@ branch-other-facilities: '<ul>
 breadcrumb: y
 branch-pride-and-periods: y
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, board games, jigsaw swap."
-branch-refreshments: "Coffeelink café serving hot and cold drinks and snacks. Open Monday-Friday 9am-5pm and Saturday 10am-3pm."
+branch-refreshments: "Coffeelink café serving hot and cold drinks and snacks. Open Monday-Friday 9am-5pm, Saturday 9am-4pm and Sunday 10am-3pm."
 ---
