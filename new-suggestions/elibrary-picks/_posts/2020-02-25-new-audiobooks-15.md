@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Recommended new eAudiobooks #15"
-date: 2020-02-11
+date: 2020-02-25
 author: sophie-green
 category: elibrary-picks
 tag: elibrary
@@ -106,3 +106,63 @@ See also: [recommended new physical audiobooks](/new-suggestions/audiobooks/new-
 > "In <cite>Ghostland</cite>, Parnell goes in search of the ‘sequestered places’ of the British Isles, our lonely moors, our moss-covered cemeteries, our stark shores and our folkloric woodlands. He explores how these landscapes conjured and shaped a kaleidoscopic spectrum of literature and cinema, from the ghost stories and weird fiction of M. R. James, Arthur Machen and Algernon Blackwood to the children’s fantasy novels of Alan Garner and Susan Cooper; from W. G. Sebald’s <cite>The Rings of Saturn</cite> and Graham Swift’s <cite>Waterland</cite> to the archetypal ‘folk horror’ film <cite>The Wicker Man</cite>...
 
 > "<cite>Ghostland</cite> is Parnell’s moving exploration of what has haunted our writers and artists – and what is haunting him."
+
+## OverDrive
+
+[Set up OverDrive &rarr;](/elibrary/overdrive/)
+
+### [<cite>Bel Canto</cite>, by Ann Patchett, read by Anna Fields](https://suffolklibraries.overdrive.com/media/177650)
+
+> "Ann Patchett's award winning, <cite>New York Times</cite> bestselling <cite>Bel Canto</cite> balances themes of love and crisis as disparate characters learn that music is their only common language. The author's lyrical prose and lucid imagination make <cite>Bel Canto</cite> a captivating story of strength and frailty, love and imprisonment, and an inspiring tale of transcendent romance."
+
+### [<cite>Long Road from Jarrow: a journey through Britain then and now</cite>, written and read by Stuart Maconie](https://suffolklibraries.overdrive.com/media/3301272)
+
+> "In the autumn of 1936, some 200 men from the Tyneside town of Jarrow marched 300 miles to London in protest against the destruction of their towns and industries. Precisely 80 years on, Stuart Maconie walks from north to south retracing the route of the emblematic Jarrow Crusade. Following history's footsteps, Maconie is in search of what Britain is really like today.
+
+> "Travelling down the country's spine, Maconie moves through a land that is, in some ways, very much the same as the England of the thirties with its political turbulence, austerity, north/south divide, food banks and of course, football mania. Yet in other ways, it is completely unrecognisable; high streets peppered with pound shops and e-cigarette vendors, smoothie bars and Costas on every corner.
+
+> "Maconie visits the great, established and yet evolving cities of Leeds, Sheffield and London, as well as the sleepy hamlets, quiet lanes and roaring motorways. He meets those with stories to tell and whose voices build a funny, complex and entertaining tale of Britain, then and now. Written in Maconie's signature style, this is a fascinating exploration of a modern nation that, though looks and sounds strangely familiar, has been completely transformed."
+
+### [<cite>No One Home</cite>, by Tim Weaver, read by Lorelai King](https://suffolklibraries.overdrive.com/media/4576807)
+
+> "On Halloween night, the residents of Black Gale gather for a dinner party. As the only nine people living there, they've become close friends as well as neighbours. They eat, drink and laugh. They play games and take photographs. Except those photographs will be the last record of any of them. By the next morning, the whole village has vanished. With no bodies, no evidence and no clues, the mystery of what happened at Black Gale remains unsolved two and a half years on.
+
+> "But then the families of the missing turn to investigator David Raker - and their obsession becomes his. What secrets were the neighbours keeping from their families - and from each other? Were they really everything they seemed to be? And is Raker looking for nine missing people - or nine dead bodies?"
+
+### [<cite>The Retribution</cite>, by Val McDermid, read by Saul Reichlin](https://suffolklibraries.overdrive.com/media/3836195)
+
+> "There is one serial killer who has shaped police profiler Tony Hill's life. One serial killer who has the power to chill him to the bone: Jacko Vance. And now Jacko is back. Even more twisted and cunning than ever before, he is focused on wreaking revenge. Tony doesn't know when Jacko will strike, or where. All he knows is that Jacko will cause him to feel fear like he has never known before..."
+
+### [<cite>An Accidental Death</cite>, by Peter Grainger, read by Gildart Jackson](https://suffolklibraries.overdrive.com/media/2925897)
+
+> "The story opens with the apparently accidental drowning of a sixth form student in the Norfolk countryside. As a matter of routine, or so it seems, the case passes across the desk of Detective Sergeant Smith, recently returned to work after an internal investigation into another case that has led to tensions between officers at Kings Lake police headquarters. As an ex DCI, Smith could have retired by now, and it is clear that some of his superiors wish that he would do so. The latest trainee detective to work with him is the son of a member of his former team, and together they begin to unravel the truth about what happened to Wayne Fletcher.
+
+> "As the investigation proceeds, it becomes clear that others are involved-some seem determined to prevent it, some seem to be taking too much interest. In the end Smith operates alone, having stepped too far outside standard procedures to ask for support. He knows that his own life might be at risk but he has not calculated on the life of his young assistant also being put in danger."
+
+### [<cite>The Girl Who Takes an Eye for an Eye</cite>, by David Lagercrantz, read by Saul Reichlin](https://suffolklibraries.overdrive.com/media/4767762)
+
+> "Confined to the secure unit of a women's prison, Lisbeth Salander finds herself in relative safety. Flodberga is a failing prison and for a computer hacker with her exceptional gifts, there are no boundaries. When Mikael Blomkvist makes his weekly visit, Salander tells him to check out Leo Mannheimer, who is somehow connected to the death of a psychologist and to the psychiatric unit where Lisbeth was an involuntary patient as a child. Lisbeth knows she is coming closer to solving the mysteries of her early life and feels the deadly influence exerted by her twin sister."
+
+### [<cite>Olive Kitteridge</cite>, by Elizabeth Strout, read by Kimberley Farr](https://suffolklibraries.overdrive.com/media/4470955)
+
+> "At times stern, at other times patient, at times perceptive, at other times in sad denial, Olive Kitteridge, a retired schoolteacher, deplores the changes in her little town of Crosby, Maine, and in the world at large, but she doesn't always recognise the changes in those around her: a lounge musician haunted by a past romance; a former student who has lost the will to live; Olive's own adult child, who feels tyrannised by her irrational sensitivities; and her husband, Henry, who finds his loyalty to his marriage both a blessing and a curse.
+
+> "As the townspeople grapple with their problems, mild and dire, Olive is brought to a deeper understanding of herself and her life — sometimes painfully, but always with ruthless honesty. <cite>Olive Kitteridge</cite> offers profound insights into the human condition — its conflicts, its tragedies and joys, and the endurance it requires."
+
+### [<cite>The Picture on the Fridge</cite>, by Ian W. Sainsbury, read by Matthew Lloyd Davies](https://suffolklibraries.overdrive.com/media/4982778)
+
+> "Mags Barkworth still suffers the effects of a life-changing tragedy over a decade ago. She knows her husband loves her. She knows he would never do anything to hurt her, or their daughter. But what if the voice in her head, the one she's pushed away with therapy and anti-depressants, is telling the truth? What if it's all a lie?
+
+> "When Tam, their daughter, draws an uncannily detailed picture of a place she's never been, Mags's life starts to unravel. But even in her most paranoid moment, Mags could never have guessed the secret she is destined to uncover."
+
+### [<cite>A Snow Garden and other stories</cite>, by Rachel Joyce, read by Niamh Cusack](https://suffolklibraries.overdrive.com/media/3031608)
+
+Seven funny, joyous and poignant stories themed around Christmas but enjoyable all year round.
+
+### [<cite>Thanks for the Memories</cite>, by Cecelia Ahern, read by Amy Creighton](https://suffolklibraries.overdrive.com/media/1940172)
+
+> "Joyce Conway remembers things she shouldn't. She knows about tiny cobbled streets in Paris, which she has never visited. And every night she dreams about an unknown little girl with blonde hair.
+
+> "Justin Hitchcock is divorced, lonely and restless. He arrives in Dublin to give a lecture on art and meets an attractive doctor, who persuades him to donate blood. It's the first thing to come straight from his heart in a long time.
+
+> "When Joyce leaves hospital after a terrible accident, with her life and her marriage in pieces, she moves back in with her elderly father. All the while, a strong sense of déjà vu is overwhelming her and she can't figure out why..."
