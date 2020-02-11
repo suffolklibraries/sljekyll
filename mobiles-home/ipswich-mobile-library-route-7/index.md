@@ -4,6 +4,12 @@ title: Ipswich Mobile Library Route 7
 breadcrumb: mobiles-home
 ---
 
+<div class="{% include /c/generic-panel.html %}">
+
+    <p>Ipswich Mobile Library Route 7 is not running on Thursday 13 February due to essential repairs.</p>
+
+</div>
+
 ## Contact us:
 
 Managers: Andrew Little and David Cook

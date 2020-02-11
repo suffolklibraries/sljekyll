@@ -4,6 +4,12 @@ title: Ipswich Mobile Library Route 6
 breadcrumb: mobiles-home
 ---
 
+<div class="{% include /c/generic-panel.html %}">
+
+    <p>Ipswich Mobile Library Route 6 is not running on Wednesday 12 February due to essential repairs.</p>
+
+</div>
+
 ## Contact us:
 
 Managers: Andrew Little and David Cook

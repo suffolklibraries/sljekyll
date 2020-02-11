@@ -4,6 +4,12 @@ title: Ipswich Mobile Library Route 8
 breadcrumb: mobiles-home
 ---
 
+<div class="{% include /c/generic-panel.html %}">
+
+    <p>Ipswich Mobile Library Route 8 is not running on Friday 14 February due to essential repairs.</p>
+
+</div>
+
 ## Contact us:
 
 Managers: Andrew Little and David Cook
