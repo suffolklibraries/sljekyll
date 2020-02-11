@@ -8,7 +8,7 @@ breadcrumb: branch-room-hire
 [Booking form for Sudbury Library premises](/assets/doc/booking-form-for-sudbury-library-premises.docx)
 
 * Capacity: 12 people
-* Cost: £7.50 per hour for community/charity/private bookings, £11.25 per hour for commercial/statutory bookings
+* Cost: £7.50 per hour for community/charity/private bookings, £11.25 per hour for commercial/statutory bookings. **Changing to £10 per hour for all from Wednesday 1 April 2020**.
 * Availability: All day subject to other bookings. Bookings outside library opening hours may attract an additional charge to cover staffing cost.
 
 ## Other information
