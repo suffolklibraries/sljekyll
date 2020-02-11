@@ -12,7 +12,7 @@ breadcrumb: meet-the-author
 
 ![Alison MacLeod](/images/featured/featured-alison-macleod.jpg)
 
-Alison MacLeod grew up in Canada and lives in Brighton. She has a PhD in creative writing and is a Professor of Contemporary Fiction at the University of Chichester. Her 2013 novel, [<cite>Unexploded</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1564401), was longlisted for the Booker Prize. Her latest book is 2017's short story collection, [<cite>All the Beloved Ghosts</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2332591), and her next novel is due out later this year.
+Alison MacLeod grew up in Canada and has lived in the UK since 1987. Until 2018, she was Professor of Contemporary Fiction at the University of Chichester, where she is now Visiting Professor. Her 2013 novel, [<cite>Unexploded</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1564401), was longlisted for the Booker Prize. Her latest book is 2017’s short story collection, [<cite>All the Beloved Ghosts</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2332591), and her next novel is due out in late 2020 or early 2021. She lives in Brighton.
 
 ## 1. Who were your literary heroes and influences as you were growing up?
 
