@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Local artists invited to explore the theme of gender equality with Suffolk Libraries' latest artist-in-residence opportunity"
+title: "Local artists invited to explore the theme of gender equality with Suffolk Libraries' latest BLOC Lab"
 date: 2020-02-13
 author: hannah-foulstone
 category: news
