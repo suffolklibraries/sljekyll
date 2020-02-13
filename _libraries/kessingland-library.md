@@ -9,7 +9,7 @@ branch-thursday-hours: Closed
 branch-friday-hours: 1000 – 1700
 branch-saturday-hours: 1000 - 1500
 branch-sunday-hours: 1000 – 1500
-branch-manager: Sandra Knights
+branch-manager: Lesley Cox
 branch-address: Marram Green, Hall Road, Kessingland
 branch-post-code: NR33 7AH
 branch-tel: 01502 741212
