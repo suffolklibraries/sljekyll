@@ -3,7 +3,7 @@ name: "Film screening: <cite>Stanley's War</cite> - 2pm showing"
 location: felixstowe-library
 location-text: Felixstowe Library
 event-start-date: 2020-02-21
-event-doors-open: 1400
+event-start-time: 1400
 event-ticket-price: 7
 breadcrumb: y
 ---
