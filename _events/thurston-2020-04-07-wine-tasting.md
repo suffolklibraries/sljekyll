@@ -1,8 +1,8 @@
 ---
-name: "Wine tasting"
+name: "Wine tasting: Posh or not?"
 location: thurston-library
 location-text: Thurston Library
-event-start-date: 2020-04-07
+event-start-date: 2020-04-17
 event-start-time: 1930
 event-ticket-price: 10
 breadcrumb: y
