@@ -26,7 +26,9 @@ The purpose of the Friends of Thurston Library is to support our public library 
 ## Contact us
 
 - Richard Fawcett: richard4cett@gmail.com
-Other committee members
+
+## Other committee members
+
 - Library manager: Cathy McDonald
 - Community libraries manager: Jack Norman
 - County councillor Penny Otton
