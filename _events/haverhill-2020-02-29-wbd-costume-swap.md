@@ -1,10 +1,9 @@
 ---
 name: "World Book Day costume swap"
-location: lowestoft-library
-location-text: Lowestoft Library
-event-start-date: 2020-03-01
-event-start-time: 1000
-event-end-time: 1600
+location: haverhill-library
+location-text: Haverhill Library
+event-start-date: 2020-02-29
+event-end-date: 2020-03-04
 event-category: costume-swap
 breadcrumb: y
 ---

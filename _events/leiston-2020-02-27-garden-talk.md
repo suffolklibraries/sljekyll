@@ -13,4 +13,4 @@ Matt Tanton Brown trained at RHS Wisley and is one of the gardening experts on B
 
 The plants will be for sale at the end of the evening.
 
-Contact the [library](https://www.suffolklibraries.co.uk/libraries/leiston-library/) to book your place. Ticket price includes a glass of wine or soft drink.
+Contact [Leiston Library](/libraries/leiston-library/) to book your place. Ticket price includes a glass of wine or soft drink.

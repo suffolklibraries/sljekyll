@@ -5,6 +5,7 @@ location-text: Stowmarket Library
 event-start-date: 2020-02-23
 event-start-time: 1000
 event-end-time: 1500
+event-category: costume-swap
 breadcrumb: y
 ---
 

@@ -4,6 +4,7 @@ location: bungay-community-library
 location-text: Bungay Community Library
 event-start-date: 2020-02-14
 event-end-date: 2020-03-04
+event-category: costume-swap
 breadcrumb: y
 ---
 
