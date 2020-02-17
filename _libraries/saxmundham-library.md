@@ -29,5 +29,5 @@ breadcrumb: y
 branch-borrowing-ereaders-and-ipads: an iPad for use in the library only
 branch-other-facilities: '<a href="/news/move-it/">Move It sports equipment available to borrow</a>'
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, older people's activities, sports equipment."
-branch-news: 'Saxmundham Library is looking for <a href="/volunteer/home-library-service/">Home Library Service volunteers</a>.'
+branch-news: "Saxmundham Library will be closed on <strong>Tuesday 10 March</strong>. It will be temporarily accommodated further down Street Farm Road (opposite Fromus Veterinary Group) from Wednesday 11 March while Suffolk County Council redevelops the existing site into a new, modern and larger library space."
 ---
