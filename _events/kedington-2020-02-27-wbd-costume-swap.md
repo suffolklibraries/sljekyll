@@ -5,6 +5,7 @@ location-text: Kedington Library
 event-start-date: 2020-02-27
 event-start-time: 1500
 event-end-time: 1700
+event-category: costume-swap
 breadcrumb: y
 ---
 

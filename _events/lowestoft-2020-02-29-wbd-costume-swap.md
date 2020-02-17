@@ -5,6 +5,7 @@ location-text: Lowestoft Library
 event-start-date: 2020-02-29
 event-start-time: 0900
 event-end-time: 1700
+event-category: costume-swap
 breadcrumb: y
 ---
 

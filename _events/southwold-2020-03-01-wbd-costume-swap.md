@@ -1,9 +1,9 @@
 ---
 name: "World Book Day costume swap"
-location: lowestoft-library
-location-text: Lowestoft Library
+location: southwold-library
+location-text: Southwold Library
 event-start-date: 2020-03-01
-event-start-time: 1000
+event-start-time: 1100
 event-end-time: 1600
 event-category: costume-swap
 breadcrumb: y

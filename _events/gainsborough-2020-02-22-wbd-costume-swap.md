@@ -1,10 +1,10 @@
 ---
 name: "World Book Day costume swap"
-location: lowestoft-library
-location-text: Lowestoft Library
-event-start-date: 2020-03-01
-event-start-time: 1000
-event-end-time: 1600
+location: gainsborough-community-library
+location-text: Gainsborough Community Library
+event-start-date: 2020-02-22
+event-start-time: 1100
+event-end-time: 1300
 event-category: costume-swap
 breadcrumb: y
 ---
