@@ -45,7 +45,7 @@ See also: [recommended new physical audiobooks](/new-suggestions/audiobooks/new-
 
 [Read Chantry Journeys book group's review of <cite>Just Mercy</cite> &rarr;](/new-suggestions/reviews/staff-picks/just-mercy-by-bryan-stevenson/)
 
-### [<cite>Mudlarking</cite>, written and read by Lara Maiklem](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_697724&fromPage=1&b2bSite=4172)
+### [<cite>Mudlarking: lost and found on the River Thames</cite>, written and read by Lara Maiklem](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_697724&fromPage=1&b2bSite=4172)
 
 > "<em>Mudlark (/'mAdla;k/) noun A person who scavenges for usable debris in the mud of a river or harbour.</em>
 

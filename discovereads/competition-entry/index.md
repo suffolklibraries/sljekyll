@@ -37,6 +37,15 @@ This competition closes on Tuesday 30 June and the winner will be notified soon 
   <label class="db f5 pt3">What did you think of this title? <span class="red">*</span></label>
   <textarea name="message" required class="border-box w-100 ba b--moon-gray pa1 mb2"></textarea>
 
+  <label for="get-emails" class="db pt3 f5 mid-gray">Would you like to receive our monthly newsletter?</label>
+  <select name="get-emails" id="get-emails">
+    <option value="yes-get-emails">Yes, sign me up</option>
+    <option selected value="no-get-emails">No, don’t send me the newsletter</option>
+  </select>
+  <p class="f5 mt0 custom-lh-title">Our newsletter contains reading ideas and events for all ages. We won’t use your email address for anything else, or share it with any other organisations.</p>
+
+  <p class="dn"><input name="bot-field"></p>
+
   <div class="pt3">{% include /c/button-submit-blue.html text="Submit" %}</div>
 
   <p class="mt0 custom-lh-title"><small>We won’t share your details with anyone else. We will only contact you if you win the competition.</small></p>

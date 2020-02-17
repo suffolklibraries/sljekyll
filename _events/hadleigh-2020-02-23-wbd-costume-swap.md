@@ -4,7 +4,7 @@ location: hadleigh-library
 location-text: Hadleigh Library
 event-start-date: 2020-02-23
 event-start-time: 1030
-event-end-time: 1600
+event-end-time: 1530
 event-category: costume-swap
 breadcrumb: y
 ---
