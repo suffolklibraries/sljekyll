@@ -2,12 +2,14 @@
 name: "Suffolk New College student art exhibition"
 location: ipswich-county-library
 location-text: Ipswich County Library
-event-start-date: 2020-02-18
-event-start-time: 1100
-event-end-time: 1500
+event-start-date: 2020-02-19
+event-start-time: 1200
+event-end-time: 1700
 event-category: bloc-exhibition
 breadcrumb: y
 ---
+
+**Please note date change**
 
 Pop up to the second floor to view a range of artworks from Suffolk New College students, all on the theme of sustainability.
 
