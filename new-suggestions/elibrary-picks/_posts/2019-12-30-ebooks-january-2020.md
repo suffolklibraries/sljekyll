@@ -13,7 +13,7 @@ breadcrumb: elibrary-picks
 
 ![Spy, Caesar & Hussein, The Dilemma](/images/featured/featured-elibrary-january-2020.jpg)
 
-We're always adding great titles to our [eLibrary](/elibrary/). We've listed some of our favourite new eBooks on [OverDrive](/elibrary/overdrive/) for December to help you choose your next digital read.
+We're always adding great titles to our [eLibrary](/elibrary/). We've listed some of our favourite new eBooks on [OverDrive](/elibrary/overdrive/) for January to help you choose your next digital read.
 
 See also:
 

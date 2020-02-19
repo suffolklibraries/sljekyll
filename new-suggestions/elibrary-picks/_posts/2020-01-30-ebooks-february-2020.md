@@ -13,7 +13,7 @@ breadcrumb: elibrary-picks
 
 ![Safe as Houses, The Hopes and Triumphs of the Amir Sisters, I'm Not Scared](/images/featured/featured-elibrary-february-2020.jpg)
 
-We're always adding great titles to our [eLibrary](/elibrary/). We've listed some of our favourite new eBooks on [OverDrive](/elibrary/overdrive/) for December to help you choose your next digital read.
+We're always adding great titles to our [eLibrary](/elibrary/). We've listed some of our favourite new eBooks on [OverDrive](/elibrary/overdrive/) for February to help you choose your next digital read.
 
 See also:
 
