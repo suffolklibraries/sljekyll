@@ -5,7 +5,7 @@ date: 2019-12-30
 author: lisa-brennan
 category: elibrary-picks
 tag: elibrary
-excerpt: "We've listed some of our favourite new eBooks on OverDrive for December to help you choose your next digital read."
+excerpt: "We've listed some of our favourite new eBooks on OverDrive for January to help you choose your next digital read."
 featured-image: /images/featured/featured-elibrary-january-2020.jpg
 featured-alt: "Spy, Caesar & Hussein, The Dilemma"
 breadcrumb: elibrary-picks

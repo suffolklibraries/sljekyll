@@ -16,7 +16,7 @@ This competition closes on Tuesday 30 June and the winner will be notified soon 
 
 <form class="pb4" netlify name="discovereads" action="/discovereads/competition-entry/confirmation/" netlify-honeypot="bot-field">
 
-  <p class="mb0">All fields marked <span class="red">*</span> are compulsory.</p>
+  <p class="custom-lh-title mt0 mb4"><small>All fields marked <span class="red">*</span> are compulsory. We may use your comments to stimulate online discussion about the Discovereads books or for marketing purposes. We won't share your name or any other details.</small></p>
 
   <label for="name" class="db f5 pt3">Your name <span class="red">*</span></label>
   <input required class="border-box w-100 ba b--moon-gray pa1" type="text" name="name" id="name">

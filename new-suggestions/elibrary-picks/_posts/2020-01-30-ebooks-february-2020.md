@@ -5,7 +5,7 @@ date: 2020-01-30
 author: lisa-brennan
 category: elibrary-picks
 tag: elibrary
-excerpt: "We've listed some of our favourite new eBooks on OverDrive for December to help you choose your next digital read."
+excerpt: "We've listed some of our favourite new eBooks on OverDrive for February to help you choose your next digital read."
 featured-image: /images/featured/featured-elibrary-february-2020.jpg
 featured-alt: "Safe as Houses, The Hopes and Triumphs of the Amir Sisters, I'm Not Scared"
 breadcrumb: elibrary-picks
