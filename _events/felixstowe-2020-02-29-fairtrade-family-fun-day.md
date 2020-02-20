@@ -2,7 +2,7 @@
 name: "Fairtrade family fun day"
 location: felixstowe-library
 location-text: Felixstowe Library
-event-start-date: 2020-02-24
+event-start-date: 2020-02-29
 event-start-time: 1000
 event-end-time: 1630
 breadcrumb: y
