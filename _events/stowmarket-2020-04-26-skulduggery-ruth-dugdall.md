@@ -2,7 +2,7 @@
 name: "Skulduggery in Stowmarket: Ruth Dugdall: A Life of Crime - from probation officer to crime author"
 location: stowmarket-library
 location-text: Stowmarket Library
-event-start-date: 2019-04-26
+event-start-date: 2020-04-26
 event-start-time: 1330
 event-end-time: 1420
 event-ticket-price: "5; day tickets £20; weekend tickets £35"

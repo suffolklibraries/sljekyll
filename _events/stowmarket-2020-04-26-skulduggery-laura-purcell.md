@@ -2,7 +2,7 @@
 name: "Skulduggery in Stowmarket: Laura Purcell: Creating Foreboding and Tension in Fiction"
 location: stowmarket-library
 location-text: Stowmarket Library
-event-start-date: 2019-04-26
+event-start-date: 2020-04-26
 event-start-time: 1445
 event-end-time: 1535
 event-ticket-price: "5; day tickets £20; weekend tickets £35"
