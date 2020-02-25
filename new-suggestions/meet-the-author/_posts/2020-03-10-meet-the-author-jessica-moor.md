@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Jessica Moor'
-date: 2020-03-11
+date: 2020-03-10
 author: brandon-king
 category: meet-the-author
 excerpt: "Jessica Moor tells us all about her intense debut thriller, <cite>Keeper</cite>."
