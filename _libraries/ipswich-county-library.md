@@ -34,6 +34,7 @@ branch-faxing: y
 branch-room-hire: /libraries/room-hire/ipswich-county-library
 branch-room-hire-text: "Presentation suite, large meeting areas, meeting pods, wedding, ceremony &amp; venue hire, study areas, lecture hall."
 branch-other-facilities: '<ul>
+                          <li>Wellpoint kiosk: free electronic health checks</li>
                           <li>Board Games Library - see the <a href="/assets/pdf/ipswich-board-games-library.pdf">Ipswich Board Games Library information sheet</a> (PDF) for further information</li>
                           <li>Jigsaw swap - bring in a complete puzzle and exchange it for one from the table</li>
                           </ul>'
@@ -41,5 +42,4 @@ breadcrumb: y
 branch-pride-and-periods: y
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, board games, jigsaw swap."
 branch-refreshments: "Coffeelink café serving hot and cold drinks and snacks. Open Monday-Friday 9am-5pm, Saturday 10am-4pm and Sunday 10am-3pm."
-branch-news: "The customer lift will be out of use on Saturday 22 February. Please ask a member of staff if you require an assistance."
 ---

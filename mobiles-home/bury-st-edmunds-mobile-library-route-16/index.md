@@ -104,11 +104,6 @@ Telephone: 01473 351249
     </td>
   </tr>
 
-    <td valign="bottom" width="97">
-      1120-1140
-    </td>
-  </tr>
-
   <tr>
     <td valign="bottom" width="44">
       16F

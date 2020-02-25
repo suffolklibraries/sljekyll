@@ -270,6 +270,6 @@ Telephone: 01473 351249
 
 **Calling every 4 weeks on Fridays:**
 
-**2020:** 24 January, 21 February, 30 March, 17 April, 15 May, 12 June, 10 July, 7 August, 4 September, 2 October, 30 October, 27 November, **no visit in December**
+**2020:** 24 January, 21 February, 20 March, 17 April, 15 May, 12 June, 10 July, 7 August, 4 September, 2 October, 30 October, 27 November, **no visit in December**
 
 **2021:** 22 January
