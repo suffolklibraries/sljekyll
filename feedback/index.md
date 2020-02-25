@@ -32,7 +32,7 @@ Fields marked with a <span class="red">*</span> are required.
     >
 
     <label for="message" class="f6 mt3 db">Your feedback <span class="red">*</span></label>
-    <textarea name="message" id="message" required class="border-box w-100 mb2 vh-50 ph1 ba b--light-gray"></textarea>
+    <textarea name="message" id="message" required class="border-box w-100 mb2 vh-50 ph1 ba b--moon-gray"></textarea>
 
     <p class="dn"><input name="bot-field"></p>
 
