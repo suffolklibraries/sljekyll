@@ -19,8 +19,3 @@ It is a sweetly written story of friendship, growing up and of overcoming obstac
 You can hear the author Alex Gino talk about their book below in a video produced by Scholastic for [The Guardian Children&#8217;s Books](http://www.theguardian.com/childrens-books-site) site (a fantastic place for info on books for all ages!).
 
 <cite>George</cite> by Alex Gino, published by Scholastic, ages 9+, 240 pages. [Reserve <cite>George</cite> from Suffolk Libraries](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1022162?QRY=CTIBIB%3C%20IRN(464266)&QRYTEXT=George)
-
-Other LGBTQ+ books and resources:
-
-  * [Suffolk LGBT network](http://www.suffolklgbtnetwork.org.uk/)
-  * [What are the best LGBT books for children, teenagers and YAs?](http://www.theguardian.com/childrens-books-site/2014/may/12/best-lgbt-books-children-teenagers-yas)

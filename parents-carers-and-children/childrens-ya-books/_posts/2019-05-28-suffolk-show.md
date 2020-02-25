@@ -14,7 +14,7 @@ breadcrumb: childrens-ya-books
 
 The Suffolk Show 2019 takes place on 29 and 30 May. To mark the occasion we've picked out some of our favourite farming-themed children's books.
 
-Why not [come and see us at the Suffolk Show](/news/suffolk-show/)?
+Why not come and see us at the Suffolk Show?
 
 ## [<cite>Farm Friends: baby's first book of animals</cite>, by Susie Brooks, Dawn Machell & Kay Vincent](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2300411)
 

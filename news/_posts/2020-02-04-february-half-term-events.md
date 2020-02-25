@@ -25,7 +25,7 @@ Highlights include:
 * The chance to meet animals from Kimmy's Zoo at [Capel St Mary Library](/libraries/capel-st-mary-library/) on Wednesday 19 February
 * Princess parties at [Southwold Library on Wednesday 19 February](/events/southwold-2020-02-19-princess/) and [Chantry Library on Saturday 22 February](/events/chantry-2020-02-22-ice-queen/)
 * Beach Bonkers at [Clare Library](/libraries/clare-library/) on Thursday 20 February
-* Kinetic Science's Lab in a Library at [Southwold Library](/southwold-library/) on Friday 21 February.
+* Kinetic Science's Lab in a Library at [Southwold Library](/libraries/southwold-library/) on Friday 21 February.
 
 A full list of half-term events follows. Please [contact your local library](/libraries/) if they do not appear in the list, as they may still be finalising their events.
 

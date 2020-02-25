@@ -12,10 +12,6 @@ breadcrumb: childrens-ya-books
 
 ![The Naughtiest Unicorn, Sam Wu is NOT Afraid of Spiders](/images/featured/featured-childrens-audio-oct-2019.jpg)
 
-See also:
-* [New children's eAudiobooks on BorrowBox](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/mainPage.html?b2bSite=4172&fromPage=1&expand=10537&b2bSite=4172)
-* [New children's eAudiobooks on OverDrive](https://suffolklibraries.overdrive.com/collection/1026734)
-
 ## [<cite>The Naughtiest Unicorn</cite>, by Pip Bird, read by Peer Carlyss](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2597031)
 
 > "Mira can't wait to start Unicorn School. (Her big sister goes and won't stop going on about it). But when Mira arrives on her first day all the unicorns are gone - except Dave! Dave isn't quite the sparkly unicorn Mira was expecting to find at the end of the rainbow - he's more grumpy than glittery, more interested in lunch than magical Quests and he always runs off when Mira tries to ride him - but Mira's not going to let that get her down. Along with her new friends and their (much more glittery) unicorns, she is determined to be the best at Quests and protect the special unicorn world!"

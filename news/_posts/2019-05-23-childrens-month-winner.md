@@ -8,7 +8,7 @@ excerpt: "One young book fan has won a special competition run by Suffolk Librar
 breadcrumb: news
 ---
 
-One young book fan has won a special competition run by Suffolk Libraries to find the county's favourite children’s book. People of all ages were asked to name their favourite title to enter the competition for the first [Suffolk Libraries Children’s Month](/news/childrens-month/) in April.
+One young book fan has won a special competition run by Suffolk Libraries to find the county's favourite children’s book. People of all ages were asked to name their favourite title to enter the competition for the first Suffolk Libraries Children’s Month](/childrens-month/) in April.
 
 There were over 600 entries and the lucky winner was 18-month-old Sienna, who selected [<cite>Each Peach Pear Plum</cite> by Janet and Allan Ahlberg](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2124041) as her favourite children’s book.
 

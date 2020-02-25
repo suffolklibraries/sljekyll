@@ -12,11 +12,12 @@ Our member organisations elect our board.
 * Tony Brown (Beccles Library Community Trust) — board chair
 * Sylvia Knights (Bungay Community Library) — board vice chair
 * Maureen Garratt Simpson (Ipswich County Library Friends Group) - board honorary secretary
-* Colin Rockall (Friends of Lavenham Library)
 * Suffolk Libraries Chief Executive, Bruce Leeke (_ex officio_)
 * Sue Buck (Friends of Long Melford Library)
-* Sarah Wilson (Friends of Capel St Mary Library)
 * Sally Irvine (Aldeburgh Library Friends)
+* Alison Leyshon
+* Kathy Oliver (Friends of Southwold Library)
+* Sarah Wilson (Friends of Capel St Mary Library)
 
 ## Biographies
 

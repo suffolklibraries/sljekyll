@@ -16,7 +16,7 @@ Suffolk Wildlife Trust and Suffolk Libraries are launching a new partnership pro
 
 The [Wild Reads](/wild-reads/) project will run throughout 2020 and aims to give everyone the opportunity to enjoy the very best nature writing. It aims to inspire and ignite a love of nature in readers through the lenses of a wide variety of writers.
 
-Together, we've selected a collection of ten books for the project, including authors such as the BBC’s Kate Humble, Isabella Tree and Melissa Harrison. Wild Reads books will be available across Suffolk, with titles available off-the-shelf from [Lowestoft](/libraries/lowestoft-library/) and [Bury St Edmunds](/libraries/bury-st-edmunds/) libraries.
+Together, we've selected a collection of ten books for the project, including authors such as the BBC’s Kate Humble, Isabella Tree and Melissa Harrison. Wild Reads books will be available across Suffolk, with titles available off-the-shelf from [Lowestoft](/libraries/lowestoft-library/) and [Bury St Edmunds](/libraries/bury-st-edmunds-library/) libraries.
 
 There will also be book-related events, readings and discussions as well as walks and activities as part of the partnership.
 

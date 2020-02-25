@@ -11,4 +11,4 @@ breadcrumb: y
 
 Drop in and handle amazing objects from Sutton Hoo and learn all about the site from the experts who work there. Includes lots of activities for children!
 
-There will also be a [Sutton Hoo Wednesday Talk](/events/2020-03-18-wednesday-talk-sutton-hoo/) for adults. Advance booking is recommended for the talk.
+There will also be a [Sutton Hoo Wednesday Talk](/events/bury-2020-03-18-wednesday-talk-sutton-hoo/) for adults. Advance booking is recommended for the talk.

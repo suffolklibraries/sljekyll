@@ -14,31 +14,31 @@ Why not boost your mood by visiting a library? We've listed ten events and activ
 
 ## 1. Write down your worries
 
-Throughout January, Newmarket Library are displaying a [worry tree](/events/newmarket-2020-01-02-jumpstart-worry-tree/), which you can add your worries to anonymously. Writing down your concerns has been repeatedly shown to have a positive impact on wellbeing and provide a much-needed therapeutic release, allowing you to focus on moving forward.
+Throughout January, Newmarket Library are displaying a worry tree, which you can add your worries to anonymously. Writing down your concerns has been repeatedly shown to have a positive impact on wellbeing and provide a much-needed therapeutic release, allowing you to focus on moving forward.
 
 ## 2. Enjoy the seaside
 
-Do you miss the clement weather and seaside visits of the summer? Woodbridge Library are holding an [exhibition of amateur photographer Richard Mitchell's work](/events/woodbridge-2020-01-02-artlib-jan/) this month, which focusses on beaches, boats and the sea. Fulfil your longings for the seaside without getting cold or wet!
+Do you miss the clement weather and seaside visits of the summer? Woodbridge Library are holding an exhibition of amateur photographer Richard Mitchell's work this month, which focusses on beaches, boats and the sea. Fulfil your longings for the seaside without getting cold or wet!
 
 ## 3. Connect through comics
 
-Local artist and author Irina Richards has an exhibition, [Seeing Stories](/events/newmarket-2020-01-04-manga-exhibition/) at Newmarket Library until Sunday 26 January. Her work investigates life experiences, human relationships and connections with the world around us using the medium of comics and graphic novels, deals with sensitive issues and draws influences from diverse visual narrative traditions, including Japanese manga.
+Local artist and author Irina Richards has an exhibition, Seeing Stories at Newmarket Library until Sunday 26 January. Her work investigates life experiences, human relationships and connections with the world around us using the medium of comics and graphic novels, deals with sensitive issues and draws influences from diverse visual narrative traditions, including Japanese manga.
 
 ## 4. Take a break with chair-based relaxation
 
-Ease the stresses of everyday life with a [chair-based relaxation session at Felixstowe Library](/events/felixstowe-2020-01-20-jumpstart-chair-relaxations/) from 2:30-3:30pm. Contact the library to book your place.
+Ease the stresses of everyday life with a chair-based relaxation session at Felixstowe Library from 2:30-3:30pm. Contact the library to book your place.
 
 ## 5. Learn to be mindful
 
-Ipswich County Library will be running a [Mindfulness taster session with Wellbeing Suffolk](/events/ipswich-2020-01-20-jumpstart-mindfulness-workshop/) from 12-1pm which can boost your wellbeing and help you become more mindful of your surroundings. Register your interest online or by contacting the library.
+Ipswich County Library will be running a Mindfulness taster session with Wellbeing Suffolk from 12-1pm which can boost your wellbeing and help you become more mindful of your surroundings. Register your interest online or by contacting the library.
 
 ## 6. Manage your stress
 
-Find out how you can reduce stress and boost your wellbeing at Wellbeing Suffolk's [Everyday Wellbeing workshop at Ipswich County Library](/events/ipswich-2020-01-20-jumpstart-stress-workshop/) from 2–4pm. Register your interest online or by contacting the library.
+Find out how you can reduce stress and boost your wellbeing at Wellbeing Suffolk's Everyday Wellbeing workshop at Ipswich County Library from 2–4pm. Register your interest online or by contacting the library.
 
 ## 7. Take a crochet class
 
-Suitable for both beginners and returners, Barbara Johnson of Spotty Dog Designs' [crochet sessions at Southwold Library](/events/southwold-2020-01-20-crochet-class/) start on Monday. There are six weekly sessions altogether, and you can pick which classes you want to go to for £5 each, or go to all six for £25.
+Suitable for both beginners and returners, Barbara Johnson of Spotty Dog Designs' crochet sessions at Southwold Library start on Monday. There are six weekly sessions altogether, and you can pick which classes you want to go to for £5 each, or go to all six for £25.
 
 ## 8. Have fun with words
 

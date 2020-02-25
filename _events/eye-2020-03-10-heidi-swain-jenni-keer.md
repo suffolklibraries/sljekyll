@@ -4,6 +4,7 @@ location: eye-library
 location-text: Eye Library
 event-start-date: 2020-03-10
 event-start-time: 1100
+event-end-time: 1200
 event-ticket-price: "Free; tea and coffee available for a donation"
 breadcrumb: y
 ---

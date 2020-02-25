@@ -12,7 +12,7 @@ breadcrumb: childrens-ya-books
 
 ![Goodnight Tiger, Shhh!, Tickle My Ears](/images/featured/featured-pyjamarama-bedtime-stories.jpg)
 
-BookTrust's [Pyjamarama](/news/pyjamarama/) campaign (3 - 9 June) celebrates the magic of bedtime stories. We've picked out some of our favourites to mark the occasion.
+BookTrust's Pyjamarama campaign (3 - 9 June) celebrates the magic of bedtime stories. We've picked out some of our favourites to mark the occasion.
 
 ## [<cite>You're Safe with Me</cite>, by Chitra Soundar](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2364064)
 

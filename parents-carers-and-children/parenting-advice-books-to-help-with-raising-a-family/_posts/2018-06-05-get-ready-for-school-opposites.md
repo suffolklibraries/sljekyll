@@ -17,12 +17,6 @@ meta-description: "Books to help children learn opposites before starting school
 
 </div>
 
-See also:
-* [Get Ready for School: Numbers](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/get-ready-for-school-numbers/)
-* [Get Ready for School: Colours](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/get-ready-for-school-colours/)
-* [Reassuring books to help prepare children for their first day of school or nursery](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/starting-school-or-nursery/)
-* [Get Ready for School book bags](/parents-carers-and-children/bookstart-storytime-resources/)
-
 ## [<cite>Stanley's Opposites</cite>, by William Bee](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2181791)
 
 > "Its another busy day for Stanley and friends! Travel through a day with Stanley and Little Woo as they learn about opposites."
@@ -79,6 +73,12 @@ See also:
 
 > "This simple but engaging format encourages conversation and play, so those little fingers can really get to grips with opposites. Great for enriching young readers' vocabulary in a fun and engaging way, this interactive book features bright illustrations and is the perfect introduction to the idea of opposites."
 
-## [<cite>Some Dinosoars are Small</cite>, by Charlotte Voake](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2672667)
+## [<cite>Some Dinosaurs are Small</cite>, by Charlotte Voake](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2672667)
 
 > "This is a book about opposites: big and small, fast and slow, carnivore and herbivore. Some dinosaurs are small, and some dinosaurs are BIG. Some dinosaurs have tiny teeth for munching leaves, and some dinosaurs have POINTY teeth for munching. OTHER dinosaurs! UH-OH. Some dinosaurs need to RUN!"
+
+See also:
+* [Get Ready for School: Numbers](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/get-ready-for-school-numbers/)
+* [Get Ready for School: Colours](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/get-ready-for-school-colours/)
+* [Reassuring books to help prepare children for their first day of school or nursery](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/starting-school-or-nursery/)
+* [Get Ready for School book bags](/parents-carers-and-children/bookstart-storytime-resources/)
