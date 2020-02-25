@@ -1,10 +1,10 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Kate Bradley'
-date: 2020-02-27
+date: 2020-03-17
 author: brandon-king
 category: meet-the-author
-excerpt: ""
+excerpt: "Kate Bradley tells us all about her thrilling debut novel, <cite>To Keep You Safe</cite>."
 featured-image: /images/featured/featured-kate-bradley.jpg
 featured-alt: "Kate Bradley"
 breadcrumb: meet-the-author
@@ -24,7 +24,7 @@ I got serious about it about 13 years ago after I took an evening course at Suss
 
 <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2701196"><img src="/images/featured/featured-to-keep-you-safe.jpg" alt="To Keep You Safe" class="mw-40 {% include /c/img-float-right.html %}" /></a>
 
-It hasn’t happened for me yet... my paperback comes out in March 2020 [this interview was conducted in February]. The eBook is already out though, and to see people reading and reviewing my book online has felt both scary and exciting in equal measures. I think it might be an indescribable thrill to see it on a bookshelf... I will try not to tug on a sleeve of a random stranger and say – 'look! I wrote that!' but I cannot guarantee it.
+It hasn’t happened for me yet... my paperback comes out in March 2020 [we interviewed Kate in February!]. The eBook is already out though, and to see people reading and reviewing my book online has felt both scary and exciting in equal measures. I think it might be an indescribable thrill to see it on a bookshelf... I will try not to tug on a sleeve of a random stranger and say – 'look! I wrote that!' but I cannot guarantee it.
 
 ## 3. For anyone who has not picked it up yet, can you give us a flavour of <cite>To Keep You Safe</cite>?
 
