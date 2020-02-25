@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Top Time: events and activities for older people"
-recurrent-description: "£1 per person to include refreshments."
+recurrent-description: "<strong>Currently held at Sax'cess House</strong>. £1 per person to include refreshments."
 recurrent-day: Thursday
 recurrent-times: 1000-1200
 recurrent-location: saxmundham-library

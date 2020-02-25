@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Friday Readers book group"
-recurrent-description: "50p to include coffee and biscuits."
+recurrent-description: "<strong>Held at Sax'cess House from March</strong>. 50p to include coffee and biscuits."
 recurrent-day: Friday once a month
 recurrent-times: 1330
 recurrent-location: saxmundham-library
