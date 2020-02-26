@@ -14,7 +14,7 @@ The current site on Street Farm Road is being redeveloped by Suffolk County Coun
 
 The library will be moving into a portacabin for several months so people can continue to access the library service during the work. It will be **closed for one day on Tuesday 10 March, before reopening on Wednesday  11 March in its temporary home further down Street Farm Road (opposite Fromus Veterinary Group)**. The new library is due to open in the autumn.
 
-Saxmundham will be one of three new libraries likely to open in Suffolk in 2020, with Mildenhall Library moving to the new Mildenhall Hub later in the year and Needham Market getting a new library as part of the development of the current site. A new Eye Library also opened in early 2019.
+Saxmundham will be one of two new libraries likely to open in Suffolk in 2020, with Needham Market getting a new library as part of the development of the current site. A new Eye Library also opened in early 2019.
 
 Bruce Leeke, Chief Executive of Suffolk Libraries, said:
 
