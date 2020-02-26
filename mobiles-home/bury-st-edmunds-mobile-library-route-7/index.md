@@ -115,7 +115,7 @@ Telephone: 01473 351249
     </td>
 
     <td valign="bottom" width="176">
-      Village Hall
+      Old Bury Road
     </td>
 
     <td valign="bottom" width="97">
