@@ -17,12 +17,6 @@ meta-description: "Books to help children learn numbers and basic maths before s
 
 </div>
 
-See also:
-* [Get Ready for School: Colours](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/get-ready-for-school-colours/)
-* [Get Ready for School: Opposites](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/get-ready-for-school-opposites/)
-* [Reassuring books to help prepare children for their first day of school or nursery](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/starting-school-or-nursery/)
-* [Get Ready for School book bags](/parents-carers-and-children/bookstart-storytime-resources/)
-
 ## [<cite>Look I'm a Maths Wizard</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2622496)
 
 > "Perfect for kids ages 3 to 6, <cite>Look I'm a Maths Wizard</cite> is full of activities to show young readers just how much fun maths can be. Children will discover that maths is in the world all around us and that they already have the tools they need to be magical maths wizards: an inquisitive mind, unlimited imagination, and super senses.
@@ -96,3 +90,7 @@ See also:
 > "What can you do in a minute? Blink 20 times? Do 77 star jumps? Or hoover up 24 ants, if you're a hungry anteater!
 
 > "<cite>In a Minute</cite> is a clever way to think about time. With engaging contemporary illustrations and irresistible challenges for inquisitive minds, this title encourages children to think about the world around them and ask why and how?"
+
+See also:
+* [Reassuring books to help prepare children for their first day of school or nursery](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/starting-school-or-nursery/)
+* [Get Ready for School book bags](/parents-carers-and-children/bookstart-storytime-resources/)

@@ -78,7 +78,5 @@ meta-description: "Books to help children learn opposites before starting school
 > "This is a book about opposites: big and small, fast and slow, carnivore and herbivore. Some dinosaurs are small, and some dinosaurs are BIG. Some dinosaurs have tiny teeth for munching leaves, and some dinosaurs have POINTY teeth for munching. OTHER dinosaurs! UH-OH. Some dinosaurs need to RUN!"
 
 See also:
-* [Get Ready for School: Numbers](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/get-ready-for-school-numbers/)
-* [Get Ready for School: Colours](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/get-ready-for-school-colours/)
 * [Reassuring books to help prepare children for their first day of school or nursery](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/starting-school-or-nursery/)
 * [Get Ready for School book bags](/parents-carers-and-children/bookstart-storytime-resources/)

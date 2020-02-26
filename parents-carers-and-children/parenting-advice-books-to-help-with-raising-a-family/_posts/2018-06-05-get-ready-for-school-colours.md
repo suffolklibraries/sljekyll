@@ -78,7 +78,5 @@ meta-description: "Books to help children learn colours before starting school."
 > "Elmer the patchwork elephant has lent one of his colours to each scene in this rainbow search and find adventure! Jam-packed full of things to spot, questions to answer and details to discover, all from Elmer's colourful world. Help young children learn their colours while searching each busy scene, developing their powers of observation, visual acuity, and their number and language skills."
 
 See also:
-* [Get Ready for School: Numbers](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/get-ready-for-school-numbers/)
-* [Get Ready for School: Opposites](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/get-ready-for-school-opposites/)
 * [Reassuring books to help prepare children for their first day of school or nursery](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/starting-school-or-nursery/)
 * [Get Ready for School book bags](/parents-carers-and-children/bookstart-storytime-resources/)

@@ -38,10 +38,6 @@ Sequel to [<cite>Orphan, monster, spy</cite>](https://suffolk.spydus.co.uk/cgi-b
 
 > "When their father fails to come home one day, Lola and Amit face a terrifying new reality. With no money and no idea how to look after themselves, they are made homeless and must find a way to survive on the streets."
 
-## [<cite>Wranglestone</cite>, by Darren Charlton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2687397)
-
-> "When Peter puts the lake-bound sanctuary of Wranglestone in danger by allowing a stranger to come ashore, he's forced to leave and help rancher Cooper herd the dead from their shores. But as love blossoms between the pair, a dark discovery reveals the sanctuary's secret past."
-
 ## [<cite>Havenfall</cite>, by Sara Holland](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2690974)
 
 First book in a new series from the author of [<cite>Evermore</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2472886)
