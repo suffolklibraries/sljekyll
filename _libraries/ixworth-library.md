@@ -9,7 +9,6 @@ branch-thursday-hours: 1030 – 1230, 1400 – 1730
 branch-friday-hours: 1030 – 1230, 1330 – 1730
 branch-saturday-hours: 1030 – 1300
 branch-sunday-hours: 1100 – 1600
-branch-manager: Cathy McDonald
 branch-address: Village Hall, High Street, Ixworth
 branch-post-code: IP31 2HH
 branch-tel: 01359 231493
