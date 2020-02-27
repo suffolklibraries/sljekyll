@@ -30,4 +30,5 @@ branch-room-hire: /libraries/room-hire/broomhill-library
 breadcrumb: y
 branch-pride-and-periods: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, older people's activities, free sanitary products."
+branch-other-facilities: "Range of children's literacy games to play in the library or borrow for a week."
 ---
