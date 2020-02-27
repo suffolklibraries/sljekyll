@@ -1,5 +1,5 @@
 ---
-name: "'The Fragrant Garden Throughout the Year' talk"
+name: "'The Fragrant Garden Throughout the Year' talk - FULLY BOOKED"
 location: leiston-library
 location-text: Leiston Library
 event-start-date: 2020-02-27
@@ -8,6 +8,8 @@ event-end-time: 2030
 event-ticket-price: 2
 breadcrumb: y
 ---
+
+**This event is fully booked**
 
 Matt Tanton Brown trained at RHS Wisley and is one of the gardening experts on BBC Radio Suffolk. Matt will talk you through the year, illustrating with plants how to add fragrance to your garden.
 
