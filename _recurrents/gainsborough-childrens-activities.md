@@ -1,12 +1,11 @@
 ---
 recurrent-title: "Children's activities"
 recurrent-description: '<ul class="f6 ma0">
-                        <li>25 January - Make a &apos;stained glass&apos; window display</li>
-                        <li>1 February - Decorate canvas bags</li>
-                        <li>8 February - Make beautiful bracelets</li>
-                        <li>15 February: Community Cooking: scones</li>
-                        <li>22 February: Science Fun: catapults</li>
                         <li>29 February: Make a frog and lily pad</li>
+                        <li>7 March: Make a felt March hare</li>
+                        <li>14 March: Solar System rock painting</li>
+                        <li>21 March: Mother&apos;s Day crafts</li>
+                        <li>28 March: Make an apple spice cake</li>
                         </ul>'
 recurrent-day: Saturday
 recurrent-times: 1400-1600
