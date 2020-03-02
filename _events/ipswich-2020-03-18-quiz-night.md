@@ -2,7 +2,7 @@
 name: "Quiz night"
 location: ipswich-county-library
 location-text: Ipswich County Library
-event-start-date: 2020-03-07
+event-start-date: 2020-03-18
 event-start-time: 1900
 event-end-time: 2130
 event-ticket-price: 6
