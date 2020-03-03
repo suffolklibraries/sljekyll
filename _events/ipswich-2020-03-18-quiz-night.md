@@ -9,4 +9,6 @@ event-ticket-price: 6
 breadcrumb: y
 ---
 
-Come and join us for our fun filled quiz! Teams of up to 6 people are invited to take part in our quiz night! Booking essential by Thursday 12th March. To book phone 01473 927260 or email ipswich.events@suffolklibraries.co.uk.
+Come and join us for our fun filled quiz.
+
+Teams of up to 6 people are invited to take part in our quiz night. Booking essential by Thursday 12 March. **To book phone 01473 927260 or email ipswich.events@suffolklibraries.co.uk**
