@@ -12,7 +12,7 @@ People in the Saxmundham area can look forward to improved library facilities. T
 
 The current site on Street Farm Road is being redeveloped by Suffolk County Council. Once remodelled, the new library will be twice as big as the current one, providing much more room for events and activities.
 
-The library will be moving into a portacabin for several months so people can continue to access the library service during the work. It will be **closed for one day on Tuesday 10 March, before reopening on Wednesday  11 March in its temporary home further down Street Farm Road (opposite Fromus Veterinary Group)**. The new library is due to open in the autumn.
+The library will be moving into a portacabin for several months so people can continue to access the service during the work. It will be closed for one day while staff move to the new temporary home further down Street Farm Road (opposite Fromus Veterinary Group). The date of the move has been put back a few days and we will let customers know when the new date has been confirmed. The new library is due to open in the autumn.
 
 Saxmundham will be one of two new libraries likely to open in Suffolk in 2020, with Needham Market getting a new library as part of the development of the current site. A new Eye Library also opened in early 2019.
 

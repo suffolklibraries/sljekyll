@@ -28,7 +28,7 @@ no-index: true
       <label for="address" class="f6 mt2 db">Your address <span class="red">*</span></label>
       <textarea name="address" id="address" required class="db border-box w-100 w-50-ns mb2 vh-25 ph1 ba b--moon-gray"></textarea>
 
-      <label for="postcode" class="f6 mt2 db">Postcode<span class="red">*</span></label>
+      <label for="postcode" class="f6 mt2 db">Postcode <span class="red">*</span></label>
       <input type="text" required name="postcode" id="postcode" minlength="6" maxlength="10" class="db w4 border-box pa1 ba b--moon-gray">
 
       <p class="dn"><input name="bot-field"></p>
