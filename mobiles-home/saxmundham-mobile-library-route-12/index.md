@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: Saxmundham Mobile Library Route 12
+title: Leiston Mobile Library Route 12
 breadcrumb: mobiles-home
 ---
 ## Contact us:
