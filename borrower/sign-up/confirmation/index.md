@@ -10,10 +10,13 @@ no-index: true
 
 <div class="measure">
 
-  <p>We’ll set you up on our system and email your borrower ID. This is a 13 digit number you’ll need to login to your account and use our eLibrary services.</p>
+  <ul>
 
-  <p>We’ll also post you a library card which you can use in branch.</p>
+    <li>We’ll set you up on our system and email your borrower ID. This is a 13 digit number you’ll need to login to your account and use our eLibrary services.</li>
+    <li>Remember the 4 digit PIN you just entered – you’ll need it to login</li>
+    <li>We’ll also post you a library card which you can use in branch.</li>
+    <li>Any questions call <a href="tel:01473351249" class="blue underline">01473 351249</a> (Mon-Fri) or email help@suffolklibraries.co.uk</li>
 
-  <p>If you’ve got any questions call 01473 351249 (Mon-Fri) or email help@suffolklibraries.co.uk</p>
+  </ul>
 
 </div>
