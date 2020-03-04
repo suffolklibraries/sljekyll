@@ -24,7 +24,7 @@ breadcrumb: true
       <label for="email" class="f6 mt2 db">Your email <span class="red">*</span></label>
       <input type="email" required name="email" id="email" class="border-box w-100 w-50-ns pa1 ba b--moon-gray">
 
-      <label for="dob" class="f6 mt2 db">Your date of birth (dd/mm/yyy) <span class="red">*</span></label>
+      <label for="dob" class="f6 mt2 db">Your date of birth (dd/mm/yyyy) <span class="red">*</span></label>
       <input type="date" required name="dob" id="dob" class="border-box w-100 w-50-ns pa1 ba b--moon-gray">
 
       <label for="pw" class="f6 mt2 db">Your 4 digit login PIN (numbers only, no letters or other characters!) <span class="red">*</span></label>
