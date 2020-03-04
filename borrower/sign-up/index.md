@@ -2,6 +2,7 @@
 layout: full-width
 title: Sign up
 no-index: true
+breadcrumb: true
 ---
 
 <form netlify name="borrower-signup" action="/borrower/sign-up/confirmation/" netlify-honeypot="bot-field">

@@ -29,3 +29,12 @@ breadcrumb: home
   title="Streaming"
   text="Stream arthouse and indie films, challenging documentaries and hundreds of academic lectures."
 %}
+
+{%
+  include z-bar.html
+  src="borrower/good-food-900.jpg"
+  alt="Good Food magazine cover"
+  bg-color="bg-near-white"
+  title="Newspapers & magazines"
+  text="All the dailies, Sundays and a wide range of popular magazines."
+%}
