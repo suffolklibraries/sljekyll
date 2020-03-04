@@ -23,7 +23,7 @@ breadcrumb: home
   include z-bar.html
   layout-reverse="true"
   src="borrower/paterson.jpg"
-  alt="Woman curled up with a man with the title Paterson"
+  alt="Woman curled up with a man with the title Paterson, by Jim Jarmusch"
   bg-color="custom-bg-corporate"
   color="white"
   title="Streaming"
@@ -38,3 +38,17 @@ breadcrumb: home
   title="Newspapers & magazines"
   text="All the dailies, Sundays and a wide range of popular magazines."
 %}
+
+<div class="ph2 ph3-ns pv3 custom-bg-corporate white">
+
+  <div class="measure center">
+
+    <h2 class="mt0 mb1 custom-lh-title f3 tc">It’s all free</h2>
+
+    <p>Access to all these online services – and everything else we do – is free when you sign up for a library card.</p>
+
+    <p class="tc b"><a href="/borrower/sign-up/" class="white underline">Sign up for a free library card &rarr;</a></p>
+
+  </div>
+
+</div>
