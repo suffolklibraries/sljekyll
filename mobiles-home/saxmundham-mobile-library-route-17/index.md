@@ -4,12 +4,6 @@ title: Leiston Mobile Library Route 17
 breadcrumb: mobiles-home
 ---
 
-<div class="{% include /c/generic-panel.html %}">
-
-    <p>Saxmundham Mobile Library will be selling cakes and holding a raffle for <a href="/suffolk-libraries-day/">Suffolk Libraries Day</a> on Saturday 12 October.</p>
-
-</div>
-
 ## Contact us:
 
 Manager: Rob Alcraft and Peter Fiske
