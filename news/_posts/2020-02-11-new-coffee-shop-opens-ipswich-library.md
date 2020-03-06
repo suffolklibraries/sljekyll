@@ -30,4 +30,3 @@ The new coffee shop will be available to customers at the following times:
 
 * Monday to Friday - 9am to 5pm
 * Saturday - 10am to 4pm
-* Sunday - 10am to 3pm
