@@ -6,6 +6,7 @@ location-text: Ipswich County Library
 event-start-date: 2020-04-04
 event-start-time: 1400
 event-ticket-price: 4
+event-ticket-url: https://www.eventbrite.co.uk/e/matilda-movie-and-snacks-tickets-95217956471
 breadcrumb: y
 ---
 

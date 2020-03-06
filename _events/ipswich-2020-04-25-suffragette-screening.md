@@ -5,6 +5,7 @@ location-text: Ipswich County Library
 event-start-date: 2020-04-25
 event-start-time: 1900
 event-ticket-price: 6
+event-ticket-url: https://www.eventbrite.co.uk/e/suffragette-film-and-snack-tickets-95218774919
 breadcrumb: y
 ---
 
