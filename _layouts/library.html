@@ -14,67 +14,65 @@
 
             {% include breadcrumb.html %}
 
-            <article class="custom-visited custom-underline">
+            <article class="">
 
                 <h1 class="{% include /c/page-title.html %}">{{ page.branch-name }}</h1>
 
-                <div class="flex-l flex-wrap-l custom-prose custom-visited bg-light-gray pa3">
+                <div class="flex-l flex-wrap-l items-center-l custom-prose custom-visited custom-bg-corporate white">
 
-                    <div class="w-50-l pr3-l">
+                    <div class="w-50-l">
 
                         {% if page.branch-image %}
 
-                            <img src="{{ page.branch-image }}" alt="{{ page.branch-name }}" />
+                            <img class="db ma0 pa0" src="{{ page.branch-image }}" alt="{{ page.branch-name }}" />
 
                         {% endif %}
 
                     </div>
 
-                    <section class="w-50-l pl3-l" id="details">
+                    <div class="w-50-l ph3 pv2 f6" id="details">
 
-                        <p class="mt0">{% if page.branch-manager %}
-                        Manager: <strong>{{ page.branch-manager }}</strong>
-                        {% endif %}</p>
+                        {% if page.branch-manager %}<p class="ma0 pb1">
+                        Manager: <strong>{{ page.branch-manager }}</strong></p>{% endif %}
 
-                        <p class="mt0">{% if page.acting-branch-manager %}
-                        Acting manager: <strong>{{ page.acting-branch-manager }}</strong>
-                        {% endif %}</p>
+                        {% if page.acting-branch-manager %}<p class="ma0 pb1">
+                        Acting manager: <strong>{{ page.acting-branch-manager }}</strong></p>{% endif %}
 
-                        <p>{{ page.branch-address }}<br>
+                        <p class="ma0 pv1">{{ page.branch-address }}<br>
                         {{ page.branch-post-code }}</p>
 
-                        <ul class="ma0 pa0 list">
+                        <ul class="ma0 pa0 pt1 list">
 
-                        <li>Tel: <strong><a href="tel:{{ page.branch-tel }}">{{ page.branch-tel }}</a></strong></li>
+                        <li>Tel: <strong><a class="custom-force-white underline" href="tel:{{ page.branch-tel }}">{{ page.branch-tel }}</a></strong></li>
                         {% if page.branch-fax %}
                         <li>Fax: <strong>{{ page.branch-fax }}</strong></li>
                         {% endif %}
-                        <li>Email: <strong><a class="blue" href="mailto:help@suffolklibraries.co.uk">help@suffolklibraries.co.uk</a></strong></li>
+                        <li class="pb1 mb1">Email: <strong><a class="custom-force-white underline" href="mailto:help@suffolklibraries.co.uk">help@suffolklibraries.co.uk</a></strong></li>
                         {% if page.branch-friends-url %}
-                        <li>Friends group: <strong><a class="blue" href="{{ page.branch-friends-url }}">{{ page.branch-friends }}</a></strong></li>
+                        <li>Friends group: <strong><a class="custom-force-white underline" href="{{ page.branch-friends-url }}">{{ page.branch-friends }}</a></strong></li>
                         {% elsif page.branch-friends %}
                         <li>Friends group: <strong>{{ page.branch-friends }}</strong></li>
                         {% else %}
                         {% endif %}
                         {% if page.branch-newsletter %}
-                        <li>Newsletter: <a class="blue" href="{{ page.branch-newsletter }}">Sign up</a></li>
+                        <li>Newsletter: <a class="custom-force-white underline" href="{{ page.branch-newsletter }}">Sign up</a></li>
                         {% endif %}
                         {% if page.branch-social-media %}
                         {% if page.branch-facebook %}
-                        <li class="custom-icon-facebook dib mr2"><a class="blue" href="http://www.facebook.com/{{ page.branch-facebook }}">Facebook</a></li>
+                        <li class="custom-icon-facebook dib mr2"><a class="custom-force-white underline" href="http://www.facebook.com/{{ page.branch-facebook }}">Facebook</a></li>
                         {% endif %}
                         {% if page.branch-twitter %}
-                        <li class="custom-icon-twitter dib mr2"><a class="blue" href="http://www.twitter.com/{{ page.branch-twitter }}">Twitter</a></li>
+                        <li class="custom-icon-twitter dib mr2"><a class="custom-force-white underline" href="http://www.twitter.com/{{ page.branch-twitter }}">Twitter</a></li>
                         {% endif %}
                         {% if page.branch-instagram %}
-                        <li class="custom-icon-instagram dib mr2"><a class="blue" href="http://www.instagram.com/{{ page.branch-instagram }}">Instagram</a></li>
+                        <li class="custom-icon-instagram dib mr2"><a class="custom-force-white underline" href="http://www.instagram.com/{{ page.branch-instagram }}">Instagram</a></li>
                         {% endif %}
                         {% if page.branch-pinterest %}
-                        <li class="custom-icon-pinterest dib mr2"><a class="blue" href="http://www.pinterest.com/{{ page.branch-pinterest }}">Pinterest</a></li>
+                        <li class="custom-icon-pinterest dib mr2"><a class="custom-force-white underline" href="http://www.pinterest.com/{{ page.branch-pinterest }}">Pinterest</a></li>
                         {% endif %}
                         {% endif %}
 
-                    </section>
+                    </div>
 
                 </div>
 
