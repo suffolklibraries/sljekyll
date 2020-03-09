@@ -14,11 +14,11 @@
 
             {% include breadcrumb.html %}
 
-            <article class="">
+            <article>
 
                 <h1 class="{% include /c/page-title.html %}">{{ page.branch-name }}</h1>
 
-                <div class="flex-l flex-wrap-l items-center-l custom-prose custom-visited custom-bg-corporate white">
+                <div class="flex-l flex-wrap-l items-center-l custom-prose custom-visited bg-light-gray">
 
                     <div class="w-50-l">
 
@@ -43,32 +43,32 @@
 
                         <ul class="ma0 pa0 pt1 list">
 
-                        <li>Tel: <strong><a class="custom-force-white underline" href="tel:{{ page.branch-tel }}">{{ page.branch-tel }}</a></strong></li>
+                        <li>Tel: <strong><a class="blue underline" href="tel:{{ page.branch-tel }}">{{ page.branch-tel }}</a></strong></li>
                         {% if page.branch-fax %}
                         <li>Fax: <strong>{{ page.branch-fax }}</strong></li>
                         {% endif %}
-                        <li class="pb1 mb1">Email: <strong><a class="custom-force-white underline" href="mailto:help@suffolklibraries.co.uk">help@suffolklibraries.co.uk</a></strong></li>
+                        <li class="pb1 mb1">Email: <strong><a class="blue underline" href="mailto:help@suffolklibraries.co.uk">help@suffolklibraries.co.uk</a></strong></li>
                         {% if page.branch-friends-url %}
-                        <li>Friends group: <strong><a class="custom-force-white underline" href="{{ page.branch-friends-url }}">{{ page.branch-friends }}</a></strong></li>
+                        <li>Friends group: <strong><a class="blue underline" href="{{ page.branch-friends-url }}">{{ page.branch-friends }}</a></strong></li>
                         {% elsif page.branch-friends %}
                         <li>Friends group: <strong>{{ page.branch-friends }}</strong></li>
                         {% else %}
                         {% endif %}
                         {% if page.branch-newsletter %}
-                        <li>Newsletter: <a class="custom-force-white underline" href="{{ page.branch-newsletter }}">Sign up</a></li>
+                        <li>Newsletter: <a class="blue underline" href="{{ page.branch-newsletter }}">Sign up</a></li>
                         {% endif %}
                         {% if page.branch-social-media %}
                         {% if page.branch-facebook %}
-                        <li class="custom-icon-facebook dib mr2"><a class="custom-force-white underline" href="http://www.facebook.com/{{ page.branch-facebook }}">Facebook</a></li>
+                        <li class="custom-icon-facebook dib mr2"><a class="blue underline" href="http://www.facebook.com/{{ page.branch-facebook }}">Facebook</a></li>
                         {% endif %}
                         {% if page.branch-twitter %}
-                        <li class="custom-icon-twitter dib mr2"><a class="custom-force-white underline" href="http://www.twitter.com/{{ page.branch-twitter }}">Twitter</a></li>
+                        <li class="custom-icon-twitter dib mr2"><a class="blue underline" href="http://www.twitter.com/{{ page.branch-twitter }}">Twitter</a></li>
                         {% endif %}
                         {% if page.branch-instagram %}
-                        <li class="custom-icon-instagram dib mr2"><a class="custom-force-white underline" href="http://www.instagram.com/{{ page.branch-instagram }}">Instagram</a></li>
+                        <li class="custom-icon-instagram dib mr2"><a class="blue underline" href="http://www.instagram.com/{{ page.branch-instagram }}">Instagram</a></li>
                         {% endif %}
                         {% if page.branch-pinterest %}
-                        <li class="custom-icon-pinterest dib mr2"><a class="custom-force-white underline" href="http://www.pinterest.com/{{ page.branch-pinterest }}">Pinterest</a></li>
+                        <li class="custom-icon-pinterest dib mr2"><a class="blue underline" href="http://www.pinterest.com/{{ page.branch-pinterest }}">Pinterest</a></li>
                         {% endif %}
                         {% endif %}
 
@@ -76,430 +76,434 @@
 
                 </div>
 
-                {% if page.branch-news %}
+                <div class="custom-visited custom-underline">
 
-                <section class="pb4 bt b--light-gray">
+                  {% if page.branch-news %}
 
-                  <h2 class="f3 ma0 mb1 custom-lh-title">Branch updates</h2>
+                  <section class="pb4 bt b--light-gray">
 
-                  <p class="ma0">{{ page.branch-news }}</p>
+                    <h2 class="f3 ma0 mb1 custom-lh-title">Branch updates</h2>
 
-                </section>
+                    <p class="ma0">{{ page.branch-news }}</p>
 
-                {% endif %}
+                  </section>
 
-                <div class="pb4 bt b--light-gray flex-l flex-wrap-l">
+                  {% endif %}
 
-                  <section class="w-50-l pr3-l" id="opening-hours">
+                  <div class="pb4 bt b--light-gray flex-l flex-wrap-l">
 
-                    {% unless page.branch-local %}
+                    <section class="w-50-l pr3-l" id="opening-hours">
 
-                      <h2 class="f3 ma0 mb1 custom-lh-title">Opening hours</h2>
+                      {% unless page.branch-local %}
 
-                      <table class="pure-table mb0">
-                      <thead>
-                      <tr>
-                      <th>Day</th>
-                      <th>Hours</th>
-                      </tr>
-                      </thead>
-                      <tbody>
-                      <tr>
-                      <td>Monday</td>
-                      <td>{{ page.branch-monday-hours }}</td>
-                      </tr>
-                      <tr>
-                      <td>Tuesday</td>
-                      <td>{{ page.branch-tuesday-hours }}</td>
-                      </tr>
-                      <tr>
-                      <td>Wednesday</td>
-                      <td>{{ page.branch-wednesday-hours }}</td>
-                      </tr>
-                      <tr>
-                      <td>Thursday</td>
-                      <td>{{ page.branch-thursday-hours }}</td>
-                      </tr>
-                      <tr>
-                      <td>Friday</td>
-                      <td>{{ page.branch-friday-hours }}</td>
-                      </tr>
-                      <tr>
-                      <td>Saturday</td>
-                      <td>{{ page.branch-saturday-hours }}</td>
-                      </tr>
-                      <tr>
-                      <td>Sunday</td>
-                      <td>{{ page.branch-sunday-hours }}</td>
-                      </tr>
-                      </tbody>
-                      </table>
+                        <h2 class="f3 ma0 mb1 custom-lh-title">Opening hours</h2>
 
-                    {% endunless %}
+                        <table class="pure-table mb0">
+                        <thead>
+                        <tr>
+                        <th>Day</th>
+                        <th>Hours</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                        <td>Monday</td>
+                        <td>{{ page.branch-monday-hours }}</td>
+                        </tr>
+                        <tr>
+                        <td>Tuesday</td>
+                        <td>{{ page.branch-tuesday-hours }}</td>
+                        </tr>
+                        <tr>
+                        <td>Wednesday</td>
+                        <td>{{ page.branch-wednesday-hours }}</td>
+                        </tr>
+                        <tr>
+                        <td>Thursday</td>
+                        <td>{{ page.branch-thursday-hours }}</td>
+                        </tr>
+                        <tr>
+                        <td>Friday</td>
+                        <td>{{ page.branch-friday-hours }}</td>
+                        </tr>
+                        <tr>
+                        <td>Saturday</td>
+                        <td>{{ page.branch-saturday-hours }}</td>
+                        </tr>
+                        <tr>
+                        <td>Sunday</td>
+                        <td>{{ page.branch-sunday-hours }}</td>
+                        </tr>
+                        </tbody>
+                        </table>
 
-                    {% if page.branch-local %}
+                      {% endunless %}
 
-                      <table class="pure-table mb0">
-                      <thead>
-                      <tr>
-                      <th>Day</th>
-                      <th>Hours</th>
-                      </tr>
-                      </thead>
-                      <tbody>
-                      <tr>
-                      <td>{{ page.branch-local-day }}</td>
-                      <td>{{ page.branch-local-hours }}</td>
-                      </tr>
-                      </tbody>
-                      </table>
+                      {% if page.branch-local %}
 
-                    {% endif %}
+                        <table class="pure-table mb0">
+                        <thead>
+                        <tr>
+                        <th>Day</th>
+                        <th>Hours</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                        <td>{{ page.branch-local-day }}</td>
+                        <td>{{ page.branch-local-hours }}</td>
+                        </tr>
+                        </tbody>
+                        </table>
 
-                  </section> <!-- end #opening-hours -->
+                      {% endif %}
 
-                  {% if page.branch-room-hire %}
+                    </section> <!-- end #opening-hours -->
 
-                    <section class="w-50-l pl3-l">
+                    {% if page.branch-room-hire %}
 
-                      <h2 class="f3 ma0 mb1 custom-lh-title">Room &amp; venue hire</h2>
+                      <section class="w-50-l pl3-l">
 
-                        {% if page.branch-room-hire-text %}<p class="ma0">{{ page.branch-room-hire-text }}</p>{% endif %}
+                        <h2 class="f3 ma0 mb1 custom-lh-title">Room &amp; venue hire</h2>
 
-                        <p class="ma0"><a class="custom-no-underline dark-blue" href="{{ page.branch-room-hire }}">Room and space hire at {{ page.branch-name }} &rarr;</a></p>
+                          {% if page.branch-room-hire-text %}<p class="ma0">{{ page.branch-room-hire-text }}</p>{% endif %}
 
-                      </section>
-
-                    {% endif %}
-
-            </div>
-
-                <div class="pb4 bt b--light-gray flex-l flex-wrap-l">
-
-                    <section class="w-50-l pr3-l" id="branch facilities">
-
-                            {% unless page.branch-local %}
-
-                            <h2 class="f3 ma0 mb1 custom-lh-title">Branch facilities</h2>
-
-                            <ul class="pl0-ns mb0">
-
-                                {% if page.branch-accessibility %}
-                                  <li>
-                                  <a  class="blue" href="{{ page.branch-accessibility }}">Accessibility information</a>
-                                  </li>
-                                {% endif %}
-
-                                {% if page.branch-autism-guide %}
-                                    <li>
-                                        <a class="blue" href="/assets/pdf/autism-friendly-library.pdf">Autism&#8211;friendly guide to the library</a> (PDF)
-                                    </li>
-                                {% endif %}
-
-                                {% if page.branch-payments %}
-                                  <li>
-                                  Payments: {{ page.branch-payments }}
-                                  </li>
-                                {% endif %}
-
-                                {% if page.branch-special-collections %}
-                                  <li>
-                                  <a class="blue" href="/special-collections/">Special collections:</a> {{ page.branch-special-collections }}</a>
-                                  </li>
-                                {% endif %}
-
-                                {% if page.branch-parking %}
-                                  <li>
-                                  Parking: {{ page.branch-parking }}
-                                  </li>
-                                {% endif %}
-
-                                {% if page.branch-bookdrop %}
-                                  <li>
-                                  Out-of-hours book return available
-                                  </li>
-                                {% endif %}
-
-                                {% if page.branch-toilet %}
-                                  <li>
-                                  Customer toilet
-                                  </li>
-                                {% endif %}
-
-                                {% if page.branch-pride-and-periods %}
-                                    <li>
-                                        <a class="blue" href="/health/pride-and-periods/">Free sanitary products available</a>
-                                    </li>
-                                {% endif %}
-
-                                {% if page.branch-refreshments %}
-                                  <li>
-                                  Refreshments: {{ page.branch-refreshments }}
-                                  </li>
-                                {% endif %}
-
-                                {% if page.branch-display-space %}
-                                  <li>
-                                  Display space: {{ page.branch-display-space }}
-                                  </li>
-                                {% endif %}
-
-                                {% if page.branch-which %}
-                                  <li>
-                                  <cite>Which?</cite> available - ask staff for magazine or to log in
-                                  </li>
-                                {% endif %}
-
-                                {% if page.branch-which-travel %}
-                                  <li>
-                                  <cite>Which?</cite> and <cite>Which? Travel</cite> available - ask staff for magazine or to log in
-                                  </li>
-                                {% endif %}
-
-                                {% if page.branch-for-sale %}
-                                  <li>
-                                  For sale: {{ page.branch-for-sale }}
-                                  </li>
-                                {% endif %}
-
-                                {% if page.branch-other-facilities %}
-                                  <li>
-                                  Also available: {{ page.branch-other-facilities }}
-                                  </li>
-                                {% endif %}
-
-
-                            </ul>
-
-                          {% endunless %}
+                          <p class="ma0"><a class="blue underline" href="{{ page.branch-room-hire }}">Room and space hire at {{ page.branch-name }} &rarr;</a></p>
 
                         </section>
 
-                        <section class="w-50-l pl3-l">
+                      {% endif %}
 
-                          <h2 class="f3 ma0 mb1 custom-lh-title">IT and printing facilities</h2>
+              </div>
 
-                          <ul class="pl0-ns mb0">
+                  <div class="pb4 bt b--light-gray flex-l flex-wrap-l">
 
-                              {% if page.branch-wifi %}
-                                <li>
-                                Free wifi
-                                </li>
-                                {% endif %}
-
-                              {% if page.branch-local-internet %}
-                                <li>
-                                Free internet access on library Chromebooks
-                                </li>
-                                {% endif %}
+                      <section class="w-50-l pr3-l" id="branch facilities">
 
                               {% unless page.branch-local %}
 
-                              <li><a href="https://suffolk.getnetloan.co.uk/netloan/Home.aspx" class="blue">Book a computer</a></a></li>
+                              <h2 class="f3 ma0 mb1 custom-lh-title">Branch facilities</h2>
 
-                              {% endunless %}
+                              <ul class="pl0-ns mb0">
 
-                              {% if page.branch-borrowing-ereaders-and-ipads %}
-                                <li>
-                                <a class="blue" href="/help/borrowing-ereaders-and-ipads/">Borrow {{ page.branch-borrowing-ereaders-and-ipads }}</a>
-                                </li>
-                              {% endif %}
+                                  {% if page.branch-accessibility %}
+                                    <li>
+                                    <a class="blue underline" href="{{ page.branch-accessibility }}">Accessibility information</a>
+                                    </li>
+                                  {% endif %}
 
-                              {% if page.branch-borrowing-microbits %}
-                                <li>
-                                <a class="blue" href="/help/borrowing-bbc-microbits/">Borrow a BBC micro:bit</a>
-                                </li>
-                              {% endif %}
+                                  {% if page.branch-autism-guide %}
+                                      <li>
+                                          <a class="blue underline" href="/assets/pdf/autism-friendly-library.pdf">Autism&#8211;friendly guide to the library</a> (PDF)
+                                      </li>
+                                  {% endif %}
 
-                              {% if page.branch-photocopying %}
-                                <li>
-                                Photocopying: {{ page.branch-photocopying }}
-                                </li>
-                              {% endif %}
+                                  {% if page.branch-payments %}
+                                    <li>
+                                    Payments: {{ page.branch-payments }}
+                                    </li>
+                                  {% endif %}
 
-                              {% if page.branch-colour-printing %}
-                                <li>
-                                Colour printing: {{ page.branch-colour-printing }}
-                                </li>
-                              {% endif %}
+                                  {% if page.branch-special-collections %}
+                                    <li>
+                                    <a class="blue underline" href="/special-collections/">Special collections: {{ page.branch-special-collections }}</a>
+                                    </li>
+                                  {% endif %}
 
-                              {% if page.branch-scan-to-email %}
-                                <li>
-                                Scan to email
-                                </li>
-                              {% endif %}
+                                  {% if page.branch-parking %}
+                                    <li>
+                                    Parking: {{ page.branch-parking }}
+                                    </li>
+                                  {% endif %}
 
-                              {% if page.branch-scan-to-usb %}
-                                <li>
-                                Scan to personal USB
-                                </li>
-                              {% endif %}
+                                  {% if page.branch-bookdrop %}
+                                    <li>
+                                    Out-of-hours book return available
+                                    </li>
+                                  {% endif %}
 
-                              {% if page.branch-faxing %}
+                                  {% if page.branch-toilet %}
+                                    <li>
+                                    Customer toilet
+                                    </li>
+                                  {% endif %}
+
+                                  {% if page.branch-pride-and-periods %}
+                                      <li>
+                                          <a class="blue underline" href="/health/pride-and-periods/">Free sanitary products available</a>
+                                      </li>
+                                  {% endif %}
+
+                                  {% if page.branch-refreshments %}
+                                    <li>
+                                    Refreshments: {{ page.branch-refreshments }}
+                                    </li>
+                                  {% endif %}
+
+                                  {% if page.branch-display-space %}
+                                    <li>
+                                    Display space: {{ page.branch-display-space }}
+                                    </li>
+                                  {% endif %}
+
+                                  {% if page.branch-which %}
+                                    <li>
+                                    <cite>Which?</cite> available - ask staff for magazine or to log in
+                                    </li>
+                                  {% endif %}
+
+                                  {% if page.branch-which-travel %}
+                                    <li>
+                                    <cite>Which?</cite> and <cite>Which? Travel</cite> available - ask staff for magazine or to log in
+                                    </li>
+                                  {% endif %}
+
+                                  {% if page.branch-for-sale %}
+                                    <li>
+                                    For sale: {{ page.branch-for-sale }}
+                                    </li>
+                                  {% endif %}
+
+                                  {% if page.branch-other-facilities %}
+                                    <li>
+                                    Also available: {{ page.branch-other-facilities }}
+                                    </li>
+                                  {% endif %}
+
+
+                              </ul>
+
+                            {% endunless %}
+
+                          </section>
+
+                          <section class="w-50-l pl3-l">
+
+                            <h2 class="f3 ma0 mb1 custom-lh-title">IT and printing facilities</h2>
+
+                            <ul class="pl0-ns mb0">
+
+                                {% if page.branch-wifi %}
                                   <li>
-                                  Fax
+                                  Free wifi
                                   </li>
-                              {% endif %}
+                                  {% endif %}
 
-                              {% if page.branch-3d-printing %}
-                                <li>
-                                3D printing: {{ page.branch-3d-printing }}
-                                </li>
-                              {% endif %}
+                                {% if page.branch-local-internet %}
+                                  <li>
+                                  Free internet access on library Chromebooks
+                                  </li>
+                                  {% endif %}
 
-                              {% unless page.branch-local %}
+                                {% unless page.branch-local %}
 
-                              <li><a class="blue" href="/help/printing-copying-scanning/">Printing, photocopying &amp; scanning charges</a></li>
+                                <li><a href="https://suffolk.getnetloan.co.uk/netloan/Home.aspx" class="blue underline">Book a computer</a></li>
 
-                              {% endunless %}
+                                {% endunless %}
 
-                          </ul>
+                                {% if page.branch-borrowing-ereaders-and-ipads %}
+                                  <li>
+                                  <a class="blue underline" href="/help/borrowing-ereaders-and-ipads/">Borrow {{ page.branch-borrowing-ereaders-and-ipads }}</a>
+                                  </li>
+                                {% endif %}
 
-                      </section> <!-- end #facilities -->
+                                {% if page.branch-borrowing-microbits %}
+                                  <li>
+                                  <a class="blue underline" href="/help/borrowing-bbc-microbits/">Borrow a BBC micro:bit</a>
+                                  </li>
+                                {% endif %}
 
-                      </div>
+                                {% if page.branch-photocopying %}
+                                  <li>
+                                  Photocopying: {{ page.branch-photocopying }}
+                                  </li>
+                                {% endif %}
 
-                <div class="pb4 bt b--light-gray flex-l flex-wrap-l">
+                                {% if page.branch-colour-printing %}
+                                  <li>
+                                  Colour printing: {{ page.branch-colour-printing }}
+                                  </li>
+                                {% endif %}
 
-                    <section class="w-50-l pr3-l" id="regular-events">
+                                {% if page.branch-scan-to-email %}
+                                  <li>
+                                  Scan to email
+                                  </li>
+                                {% endif %}
 
-                        <h2 class="f3 ma0 mb1 custom-lh-title">Regular events and activities</h2>
+                                {% if page.branch-scan-to-usb %}
+                                  <li>
+                                  Scan to personal USB
+                                  </li>
+                                {% endif %}
 
-                        {% assign current = page.branch-unique-id %}
+                                {% if page.branch-faxing %}
+                                    <li>
+                                    Fax
+                                    </li>
+                                {% endif %}
 
-                        {% for current-recurrent in site.data.cats-recurrents %}
+                                {% if page.branch-3d-printing %}
+                                  <li>
+                                  3D printing: {{ page.branch-3d-printing }}
+                                  </li>
+                                {% endif %}
 
-                            {% assign stub = current-recurrent.stub %}
+                                {% unless page.branch-local %}
 
-                            {% assign recurrents = site.recurrents | where: "recurrent-category", stub | where: "recurrent-location", current %}
+                                <li><a class="blue underline" href="/help/printing-copying-scanning/">Printing, photocopying &amp; scanning charges</a></li>
 
-                            {% if recurrents.size > 0 %}
+                                {% endunless %}
 
-                                <details class="pb1 mb1 bb b--light-gray">
+                            </ul>
 
-                                    <summary class="blue pointer b">{{ current-recurrent.title }}</summary>
+                        </section> <!-- end #facilities -->
 
-                                    {% for recurrent in recurrents %}
+                        </div>
 
-                                        {% assign hide-event = false %}
+                  <div class="pb4 bt b--light-gray flex-l flex-wrap-l">
 
-                                        {% if recurrent.recurrent-expiry %}
+                      <section class="w-50-l pr3-l" id="regular-events">
 
-                                            {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
-
-                                            {% capture event-expiry-seconds %}{{recurrent.recurrent-expiry | date: '%s' }}{% endcapture %}
-
-                                            {% capture event-expiry %}{{ event-expiry-seconds | divided_by: 86400}}{% endcapture %}
-
-                                            {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
-
-                                            {% if now-unix > event-expiry %}
-
-                                                {% assign hide-event = true %}
-
-                                            {% endif %}
-
-                                        {% endif %}
-
-                                        {% unless hide-event %}
-
-                                            <article class="{% include /c/listing.html %}">
-
-                                            <h3 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h3>
-
-                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
-
-                                            {% if recurrent.recurrent-description %}
-
-                                            <p class="f6 ma0">{{ recurrent.recurrent-description }}</p>
-
-                                            {% endif %}
-
-                                            {% if recurrent.recurrent-bookstart %}
-
-                                            <p class="f6 ma0"><a href="/wordplay/">Find out more about Wordplay</a>
-
-                                            {% endif %}
-
-                                            </article>
-
-                                        {% endunless %}
-
-                                    {% endfor %}
-
-                                </details>
-
-                            {% endif %}
-
-                        {% endfor %}
-
-                    </section> <!-- end #regular-events -->
-
-                      <section class="w-50-l pl3-l" id="upcoming-events">
-
-                          <h2 class="f3 ma0 mb1 custom-lh-title">Upcoming special events</h2>
-
-                          {% assign special-event-check = false %}
+                          <h2 class="f3 ma0 mb1 custom-lh-title">Regular events and activities</h2>
 
                           {% assign current = page.branch-unique-id %}
 
-                          {% assign events = site.events | sort: 'event-start-date' %}
+                          {% for current-recurrent in site.data.cats-recurrents %}
 
-                          {% for event in events %}
+                              {% assign stub = current-recurrent.stub %}
 
-                              {% if event.location == current %}
+                              {% assign recurrents = site.recurrents | where: "recurrent-category", stub | where: "recurrent-location", current %}
 
-                                {% unless event.hide-from-lib-page %}
+                              {% if recurrents.size > 0 %}
 
-                                  {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+                                  <details class="pb1 mb1 bb b--light-gray">
 
-                                  {% if event.event-end-date %}
+                                      <summary class="blue pointer b">{{ current-recurrent.title }}</summary>
 
-                                      {% capture event-time-seconds %}{{event.event-end-date | date: '%s' }}{% endcapture %}
+                                      {% for recurrent in recurrents %}
 
-                                  {% else %}
+                                          {% assign hide-event = false %}
 
-                                      {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+                                          {% if recurrent.recurrent-expiry %}
 
-                                  {% endif %}
+                                              {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
 
-                                  {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+                                              {% capture event-expiry-seconds %}{{recurrent.recurrent-expiry | date: '%s' }}{% endcapture %}
 
-                                  {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+                                              {% capture event-expiry %}{{ event-expiry-seconds | divided_by: 86400}}{% endcapture %}
 
-                                  {% if now-unix <= event-time %}
+                                              {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
 
-                                      {% assign special-event-check = true %}
+                                              {% if now-unix > event-expiry %}
 
-                                      <article class="{% include /c/listing.html %}">
+                                                  {% assign hide-event = true %}
 
-                                          <h3 class="f5 custom-lh-title mb0"><a class="blue" href="{{ event.url }}">{{ event.name }}</a></h3>
-
-                                          <p class="f6 mt0">
-
-                                          {% if event.event-end-date %}
-
-                                              <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-end-time }}</span>
-
-                                              {% else %}
-
-                                              <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
+                                              {% endif %}
 
                                           {% endif %}
 
-                                      </article>
+                                          {% unless hide-event %}
 
-                                  {% endif %}
+                                              <article class="{% include /c/listing.html %}">
 
-                                {% endunless %}
+                                              <h3 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h3>
+
+                                              <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+
+                                              {% if recurrent.recurrent-description %}
+
+                                              <p class="f6 ma0">{{ recurrent.recurrent-description }}</p>
+
+                                              {% endif %}
+
+                                              {% if recurrent.recurrent-bookstart %}
+
+                                              <p class="f6 ma0"><a class="blue underline" href="/wordplay/">Find out more about Wordplay</a>
+
+                                              {% endif %}
+
+                                              </article>
+
+                                          {% endunless %}
+
+                                      {% endfor %}
+
+                                  </details>
 
                               {% endif %}
 
                           {% endfor %}
 
-                          {% if special-event-check == false %}<p class="{% include /c/page-meta.html %} mb3">No upcoming special events.</p>{% endif %}
+                      </section> <!-- end #regular-events -->
 
-                      </section> <!-- end #upcoming-events -->
+                        <section class="w-50-l pl3-l" id="upcoming-events">
+
+                            <h2 class="f3 ma0 mb1 custom-lh-title">Upcoming special events</h2>
+
+                            {% assign special-event-check = false %}
+
+                            {% assign current = page.branch-unique-id %}
+
+                            {% assign events = site.events | sort: 'event-start-date' %}
+
+                            {% for event in events %}
+
+                                {% if event.location == current %}
+
+                                  {% unless event.hide-from-lib-page %}
+
+                                    {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+
+                                    {% if event.event-end-date %}
+
+                                        {% capture event-time-seconds %}{{event.event-end-date | date: '%s' }}{% endcapture %}
+
+                                    {% else %}
+
+                                        {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+
+                                    {% endif %}
+
+                                    {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+
+                                    {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+
+                                    {% if now-unix <= event-time %}
+
+                                        {% assign special-event-check = true %}
+
+                                        <article class="{% include /c/listing.html %}">
+
+                                            <h3 class="f5 custom-lh-title mb0"><a class="blue" href="{{ event.url }}">{{ event.name }}</a></h3>
+
+                                            <p class="f6 mt0">
+
+                                            {% if event.event-end-date %}
+
+                                                <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-end-time }}</span>
+
+                                                {% else %}
+
+                                                <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
+
+                                            {% endif %}
+
+                                        </article>
+
+                                    {% endif %}
+
+                                  {% endunless %}
+
+                                {% endif %}
+
+                            {% endfor %}
+
+                            {% if special-event-check == false %}<p class="{% include /c/page-meta.html %} mb3">No upcoming special events.</p>{% endif %}
+
+                        </section> <!-- end #upcoming-events -->
+
+                      </div>
 
                     </div>
 
