@@ -27,5 +27,4 @@ branch-refreshments: "available in our café, run by Access Community Trust."
 branch-payments: cash, cheques and cards accepted
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, older people's activities."
 branch-pride-and-periods: y
-branch-news: '<a href="/news/kessingland-rosehill-hours-change/">Kessingland Library is changing its opening hours from Monday 3 February.</a>'
 ---
