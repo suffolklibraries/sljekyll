@@ -14,13 +14,13 @@ bredcrumb: home
 
 </div>
 
-As a public-facing service we have a responsibility to consider the potential impact of the coronavirus if there was an outbreak in Suffolk. We consider the wellbeing of our customers and staff.
+As a public-facing service we have a responsibility to consider the potential impact of the coronavirus. The wellbeing of our customers and staff is paramount.
 
-We’re monitoring advice from the Government, NHS and the county council and pass on relevant information to our staff. Library staff are aware of the ways we can reduce the risk of passing on illness, and they will also display public health notices.
+We’re monitoring advice from the Government, NHS and the county council and keep all staff updated on a daily basis. Library staff are aware of the ways we can reduce the risk of passing on illness, and they will also display public health notices.
 
-If an outbreak were to occur in Suffolk this might have an effect on our libraries and their activities. We will keep customers informed about any changes.
+If an outbreak were to occur in Suffolk this might have an effect on our libraries and their activities. We will keep customers informed of any changes to opening hours and events.
 
-Suffolk Libraries also has a role to play in ensuring people know where to access reliable and accurate information. Reliable and up to date information about the coronavirus situation is available from:
+Reliable and up to date information about the coronavirus situation is available from:
 
 - [General information from the NHS website](https://www.nhs.uk/conditions/coronavirus-covid-19/)
 - [What to do if you feel you might have coronavirus: NHS 111 immediate-response COVID-19 advice service](https://111.nhs.uk/covid-19)
