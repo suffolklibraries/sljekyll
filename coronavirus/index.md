@@ -2,6 +2,11 @@
 layout: default
 title: "Suffolk Libraries and coronavirus"
 bredcrumb: home
+featured: true
+featured-image: "/images/coronavirus/coronavirus.jpg"
+featured-alt: "NHS advice poster: Wash your hands more often for 20 seconds"
+featured-excerpt: "Up to date information on closures and cancellations."
+featured-link-href-text: "Find out more &rarr;"
 ---
 
 <h1 class="f3 f2-ns custom-lh-title mb4">Suffolk Libraries and coronavirus</h1>
