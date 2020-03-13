@@ -19,8 +19,6 @@ featured-link-href-text: "Find out more &rarr;"
 
 </div>
 
-As a public-facing service we have a responsibility to consider the potential impact of the coronavirus. The wellbeing of our customers and staff is paramount.
-
 We’re monitoring advice from the Government, NHS and the county council and keep all staff updated on a daily basis. Library staff are aware of the ways we can reduce the risk of passing on illness, and they will also display public health notices.
 
 If an outbreak were to occur in Suffolk this might have an effect on our libraries and their activities, the mobile service and the home library service. We will keep customers informed of any changes to opening hours and events.
@@ -28,6 +26,18 @@ If an outbreak were to occur in Suffolk this might have an effect on our librari
 - [See your library page for information on cancelled events and closures](/libraries/)
 - [Mobile library updates](/mobiles-home/)
 - [Home Library Service](/mobiles-home/home/)
+
+## eLibrary, reservations and renewals if you’re self-isolating
+
+You can renew all loans by phone or online:
+
+- [Suffolk Libraries website](https://www.suffolklibraries.co.uk)
+- [01473 351249](tel:01473351249)
+- help@suffollibraries.co.uk
+
+**We have a [free eLibrary service](/elibrary/) where you can download eBooks, eAudio, eMagazines and newspapers and stream music, films, documentaries and courses.**
+
+[Contact your local library](/libraries/) to ask about reservation collection.
 
 Reliable and up to date information about the coronavirus situation is available from:
 
