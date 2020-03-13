@@ -39,6 +39,8 @@ You can renew all loans by phone or online:
 
 [Contact your local library](/libraries/) to ask about reservation collection.
 
+## Information and advice
+
 Reliable and up to date information about the coronavirus situation is available from:
 
 - [General information from the NHS website](https://www.nhs.uk/conditions/coronavirus-covid-19/)
