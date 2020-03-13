@@ -24,4 +24,4 @@ Bruce Leeke, Chief Executive of Suffolk Libraries, said:
 
 We will keep customers informed about the project as we approach the move date.
 
-There is more information about the project on the [Mildenhall hub website](www.mildenhallhub.info).  
+There is more information about the project on the [Mildenhall hub website](https://www.mildenhallhub.info).  
