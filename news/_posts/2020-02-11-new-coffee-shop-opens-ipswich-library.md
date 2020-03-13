@@ -28,5 +28,5 @@ Azzouz El-Mahraoui, Company Director of Coffeelink, said:
 
 The new coffee shop will be available to customers at the following times:
 
-* Monday to Friday - 9am to 5pm
+* Monday to Friday - 9.30am to 4.30pm
 * Saturday - 10am to 4pm
