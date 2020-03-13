@@ -15,29 +15,31 @@ featured-link-href-text: "Find out more &rarr;"
 
 <div class="custom-bg-corporate white pa3" markdown="1">
 
-**We’ll update this page as we get further information about coronavirus from the government, NHS and Suffolk County Council.**
+We’ll update this page as we get further information about coronavirus from the government, NHS and Suffolk County Council.
 
 </div>
 
-We’re monitoring advice from the Government, NHS and the county council and keep all staff updated on a daily basis. Library staff are aware of the ways we can reduce the risk of passing on illness, and they will also display public health notices.
+## eLibrary
 
-If an outbreak were to occur in Suffolk this might have an effect on our libraries and their activities, the mobile service and the home library service. We will keep customers informed of any changes to opening hours and events.
+Download and stream free eBooks, eAudio, magazines, newspapers, films, documentaries and music:
+
+**[eLibrary instructions](/elibrary)**
+
+
+## Cancellations and closures
 
 - [See your library page for information on cancelled events and closures](/libraries/)
 - [Mobile library updates](/mobiles-home/)
-- [Home Library Service](/mobiles-home/home/)
+- The **Home Library Service** has been suspended until further notice
 
-## eLibrary, reservations and renewals if you’re self-isolating
+## Reservations and renewals if you’re self-isolating
 
 You can renew all loans by phone or online:
 
 - [Suffolk Libraries website](https://www.suffolklibraries.co.uk)
 - [01473 351249](tel:01473351249)
 - help@suffollibraries.co.uk
-
-**We have a [free eLibrary service](/elibrary/) where you can download eBooks, eAudio, eMagazines and newspapers and stream music, films, documentaries and courses.**
-
-[Contact your local library](/libraries/) to ask about reservation collection.
+- [Contact your local library](/libraries/) to ask about reservation collection.
 
 ## Information and advice
 

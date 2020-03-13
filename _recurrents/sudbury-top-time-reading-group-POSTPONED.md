@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Top Time reading group"
+recurrent-title: "Top Time reading group (CANCELLED DUE TO CORONAVIRUS SITUATION)"
 recurrent-day: third Tuesday of the month
 recurrent-times: 1430-1630
 recurrent-location: sudbury-library

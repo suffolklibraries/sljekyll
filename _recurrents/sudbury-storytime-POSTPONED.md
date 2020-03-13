@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Storytime: stories and rhymes for pre-school children"
+recurrent-title: "Storytime: stories and rhymes for pre-school children (CANCELLED DUE TO CORONAVIRUS SITUATION)"
 recurrent-day: Thursday
 recurrent-times: 1030-1100
 recurrent-location: sudbury-library

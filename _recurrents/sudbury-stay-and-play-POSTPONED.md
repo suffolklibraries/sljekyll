@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Stay and play: for babies and toddlers and their parents"
+recurrent-title: "Stay and play: for babies and toddlers and their parents  (CANCELLED DUE TO CORONAVIRUS SITUATION)"
 recurrent-description: "Chat and enjoy a drink and biscuit with other parents while your children play with our toys. Donations for tea/coffee appreciated."
 recurrent-day: Thursday
 recurrent-times: 1100-1200

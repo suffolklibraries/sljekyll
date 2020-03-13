@@ -1,5 +1,5 @@
 ---
-recurrent-title: 'Open space: drop in for health info and chats. All welcome.'
+recurrent-title: 'Open space: drop in for health info and chats. All welcome.  (CANCELLED DUE TO CORONAVIRUS SITUATION)'
 recurrent-description: 'See the <a href="/health/open-space/sudbury/">latest Sudbury Open Space timetable</a>.'
 recurrent-day: Thursday
 recurrent-times: 1230-1430
