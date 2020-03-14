@@ -1,0 +1,16 @@
+current directory: /Users/leon/Sites/sljekyll/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/Users/leon/.rvm/rubies/ruby-2.6.2/bin/ruby -I /Users/leon/.rvm/rubies/ruby-2.6.2/lib/ruby/2.6.0 -r ./siteconf20200314-47229-1010ec2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/leon/Sites/sljekyll/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/leon/Sites/sljekyll/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/leon/Sites/sljekyll/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20200314-47229-1elsea
