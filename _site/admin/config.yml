@@ -38,3 +38,23 @@ files:
       - {label: "Featured alt text", name: "featured-alt", widget: "string"}
       - {label: "Featured excerpt", name: "featured-excerpt", widget: "string"}
       - {label: "Featured link text", name: "featured-link-text", widget: "string"}
+
+- name: 'pages'
+  label: 'Pages'
+  editor:
+    preview: false
+  files:
+    - label: 'Suffolk Libraries and coronavirus'
+      name: 'coronavirus'
+      file: '/coronavirus/index.md'
+      fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "full-width"}
+      - {label: "Title", name: "title", widget: "hidden", default: "Suffolk Libraries and coronavirus"}
+      - {label: "Breadcrumb", name: "breadcrumb", widget: "hidden", default: "home"}
+      - {label: "Callout text (in the purple box)", name: "callout-text", widget: "string", default: "We’ll update this page as we get further information about coronavirus from the government, NHS and Suffolk County Council."}
+      - {label: "Featured", name: "featured", widget: "boolean", default: "true"}
+      - {label: "Featured image (full path and file extension)", name: "featured-image", widget: "string", default: "/images/coronavirus/coronavirus.jpg"}
+      - {label: "Featured alt text", name: "featured-alt", widget: "string", default: "NHS advice poster advising wash your hands more often for 20 seconds"}
+      - {label: "Featured excerpt", name: "featured-excerpt", widget: "string", default: "Up to date information on closures and cancellations."}
+      - {label: "Featured link text", name: "featured-link-text", widget: "string", default: "Find out more &rarr;"}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
