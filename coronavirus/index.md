@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Suffolk Libraries and coronavirus"
-bredcrumb: home
+breadcrumb: home
 callout-text: "We’ll update this page as we get further information about coronavirus from the government, NHS and Suffolk County Council."
 featured: true
 featured-image: "/images/coronavirus/coronavirus.jpg"
@@ -29,7 +29,8 @@ Download and stream free eBooks, eAudio, magazines, newspapers, films, documenta
 
 ## Cancellations and closures
 
-- [See your library page for information on cancelled events and closures](/libraries/)
+- [See your library page](/libraries/) for information on closures and changes to hours
+- [List of postponed regular events and activities](/coronavirus/postponed-events/)
 - [Mobile library updates](/mobiles-home/)
 - The **Home Library Service** has been suspended until further notice
 

@@ -1,0 +1,75 @@
+---
+layout: default
+title: "Suffolk Libraries and coronavirus: Postponed regular events"
+breadcrumb: home
+jquery: true
+dynatable: true
+---
+
+<h1 class="f3 f2-ns custom-lh-title mb4">{{ page.title }}</h1>
+
+<div class="measure" markdown="1">
+
+<p class="f4">The following regular events have been postponed until further notice due to the coronavirus situation.</p>
+
+</div>
+
+{% include dynatable-library-list.html %}
+
+<table id="search-table" class="pure-table pure-table-bordered">
+
+  <thead class="bg-dark-gray">
+
+    <tr>
+
+      <th data-dynatable-column="library">Library</th>
+      <th data-dynatable-column="activity">Activity</th>
+      <th data-dynatable-column="day">Day</th>
+      <th data-dynatable-column="times">Times</th>
+
+    </tr>
+
+  </thead>
+
+  <tbody>
+
+    {% assign recurrents = site.recurrents | where: "recurrent-corona", "true" | sort: "recurrent-location" %}
+
+    {% for recurrent in recurrents %}
+
+        {% assign hide-event = false %}
+
+        {% if recurrent.recurrent-expiry %}
+
+            {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+
+            {% capture event-expiry-seconds %}{{recurrent.recurrent-expiry | date: '%s' }}{% endcapture %}
+
+            {% capture event-expiry %}{{ event-expiry-seconds | divided_by: 86400}}{% endcapture %}
+
+            {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+
+            {% if now-unix > event-expiry %}
+
+                {% assign hide-event = true %}
+
+            {% endif %}
+
+        {% endif %}
+
+        {% unless hide-event %}
+
+        <tr>
+          <td><a class="blue underline" href="{{ recurrent.recurrent-location-display-url }}">{{ recurrent.recurrent-location-display-name }}</a></td>
+          <td>{{ recurrent.recurrent-title }}</td>
+          <td>{{ recurrent.recurrent-day }}</td>
+          <td>{{ recurrent.recurrent-times }} </td>
+        </tr>
+
+        {% endunless %}
+
+    {% endfor %}
+
+  </tbody>
+
+</table>
