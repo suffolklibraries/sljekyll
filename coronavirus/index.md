@@ -40,7 +40,7 @@ You can renew all loans by phone or online:
 
 - [Suffolk Libraries website](https://www.suffolklibraries.co.uk)
 - [01473 351249](tel:01473351249)
-- help@suffollibraries.co.uk
+- help@suffolkibraries.co.uk
 - [Contact your local library](/libraries/) to ask about reservation collection.
 
 ## Information and advice
