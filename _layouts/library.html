@@ -18,6 +18,8 @@
 
                 <h1 class="{% include /c/page-title.html %}">{{ page.branch-name }}</h1>
 
+                {% if page.branch-coronavirus %}<p class="ma0 f3 b pa3 custom-bg-corporate white">{{ page.branch-name }} is currently closed due to the coronavirus situation.</p>{% endif %}
+
                 <div class="flex-l flex-wrap-l items-center-l custom-prose custom-visited bg-light-gray">
 
                     <div class="w-50-l">

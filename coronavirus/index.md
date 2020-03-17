@@ -25,7 +25,17 @@ featured-link-href-text: Find out more &rarr;
 
 The following libraries are closed due to staff shortages:
 
-- Southwold Library
+<ul>
+
+{% assign closed-libraries == site.libraries | where: "branch-coronavirus", "true" | sort: "branch-unique-id" %}
+
+{% for library in closed-libraries %}
+
+<li>{{ library.branch-name }}</li>
+
+{% endfor %}
+
+</ul>
 
 At this moment the other libraries are open, but there is a possibility some or all will close.
 
