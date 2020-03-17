@@ -2,7 +2,7 @@
 layout: default
 title: Suffolk Libraries and coronavirus
 breadcrumb: home
-callout-text: "All libraries remain open, although all events have been postponed. The Home
+callout-text: "All events and activities have been postponed. The Home
   Library Service has been suspended until further notice."
 featured: true
 featured-image: /images/coronavirus/coronavirus.jpg
@@ -23,7 +23,11 @@ featured-link-href-text: Find out more &rarr;
 
 ## Closures
 
-At this moment libraries are open, but there is a possibility some or all will close.
+The following libraries are closed due to staff shortages:
+
+- Southwold Library
+
+At this moment the other libraries are open, but there is a possibility some or all will close.
 
 If you would like to borrow books please do this as soon as possible.
 
