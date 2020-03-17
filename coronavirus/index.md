@@ -13,8 +13,6 @@ featured-link-href-text: Find out more &rarr;
 
 <h1 class="f3 f2-ns custom-lh-title mb4">{{ page.title }}</h1>
 
-<div class="measure" markdown="1">
-
 <div class="custom-bg-corporate white pa3 mb4" markdown="1">
 
 <p class="ma0 f4">{{ page.callout-text }}</p>
@@ -41,6 +39,12 @@ At this moment the other libraries are open, but there is a possibility some or 
 
 If you would like to borrow books please do this as soon as possible.
 
+## Loans, renewals and charges
+
+All overdue charges incurred from 17 March onwards have been suspended.
+
+To renew books due back before 17 March, [login to your account](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB).
+
 ## Events & activities
 
 All library events and activities have been postponed.
@@ -52,9 +56,8 @@ Download and stream free eBooks, eAudio, magazines, newspapers, films, documenta
 [eLibrary instructions &rarr;](/elibrary)
 
 
-## Cancellations and closures
+## Home and mobile library services
 
-- [See your library page](/libraries/) for information on closures and changes to hours
 - [Mobile library updates](/mobiles-home/)
 - The **Home Library Service** has been suspended until further notice
 
@@ -75,5 +78,3 @@ Reliable and up to date information about the coronavirus situation is available
 - What to do if you feel you might have coronavirus: [NHS 111 immediate-response COVID-19 advice service](https://111.nhs.uk/covid-19)
 - [The government’s advisory service](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public)
 - [Suffolk County Council’s coronavirus response](https://www.suffolk.gov.uk/council-and-democracy/council-directorates-services-and-senior-officers/directorates/public-health/suffolks-coronavirus-covid-19-response/)
-
-</div>
