@@ -27,7 +27,7 @@ The following libraries are closed due to staff shortages:
 
 <ul>
 
-{% assign closed-libraries == site.libraries | where: "branch-coronavirus", "true" | sort: "branch-unique-id" %}
+{% assign closed-libraries = site.libraries | where: "branch-coronavirus", "true" | sort: "branch-unique-id" %}
 
 {% for library in closed-libraries %}
 
