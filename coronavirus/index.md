@@ -21,6 +21,16 @@ featured-link-href-text: Find out more &rarr;
 
 </div>
 
+## Closures
+
+At this moment libraries are open, but there is a possibility some or all will close.
+
+If you would like to borrow books please do this as soon as possible.
+
+## Events & activities
+
+All library events and activities have been postponed.
+
 ## eLibrary
 
 Download and stream free eBooks, eAudio, magazines, newspapers, films, documentaries and music:
