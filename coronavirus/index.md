@@ -2,9 +2,8 @@
 layout: default
 title: Suffolk Libraries and coronavirus
 breadcrumb: home
-callout-text: >-
-  All libraries remain open, although some events have been postponed. The Home
-  Library Service has been suspended until further notice.
+callout-text: "All libraries remain open, although all events have been postponed. The Home
+  Library Service has been suspended until further notice."
 featured: true
 featured-image: /images/coronavirus/coronavirus.jpg
 featured-alt: 'NHS advice poster: Wash your hands more often for 20 seconds'
@@ -32,7 +31,6 @@ Download and stream free eBooks, eAudio, magazines, newspapers, films, documenta
 ## Cancellations and closures
 
 - [See your library page](/libraries/) for information on closures and changes to hours
-- [List of postponed regular events and activities](/coronavirus/postponed-events/)
 - [Mobile library updates](/mobiles-home/)
 - The **Home Library Service** has been suspended until further notice
 
