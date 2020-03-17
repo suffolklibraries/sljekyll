@@ -35,15 +35,15 @@ The following libraries are closed due to staff shortages:
 
 </ul>
 
-At this moment the other libraries are open, but there is a possibility some or all will close.
+- At this moment the other libraries are open, but there is a possibility some or all will close
+- If you would like to borrow books please do this as soon as possible
 
-If you would like to borrow books please do this as soon as possible.
+## Renewals, reservations and charges
 
-## Loans, renewals and charges
+- All overdue charges incurred from 17 March onwards have been suspended
+- To renew books due back before 17 March, [login to your account](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB)
+- Reservation collection dates extended in case libraries are closed or you’ve self-isolated
 
-All overdue charges incurred from 17 March onwards have been suspended.
-
-To renew books due back before 17 March, [login to your account](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB).
 
 ## Events & activities
 
