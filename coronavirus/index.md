@@ -21,7 +21,7 @@ featured-link-href-text: Find out more &rarr;
 
 ## Closures
 
-The following libraries are closed due to staff shortages:
+The following libraries are currently closed due to staff shortages:
 
 <ul>
 

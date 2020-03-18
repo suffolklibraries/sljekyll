@@ -24,4 +24,5 @@ branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, older people's Scrabble group."
+branch-coronavirus: true
 ---
