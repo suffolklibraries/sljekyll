@@ -2,7 +2,7 @@
 layout: default
 title: Suffolk Libraries and coronavirus
 breadcrumb: home
-callout-text: "All library buildings will close indefintely from the end of Friday 20 March. The mobile library service will also be suspended, while the home library service is already suspended."
+callout-text: "All library buildings will close indefinitely from the end of Friday 20 March. The mobile library service will also be suspended, while the home library service is already suspended."
 featured: true
 featured-image: /images/coronavirus/coronavirus.jpg
 featured-alt: 'NHS advice poster: Wash your hands more often for 20 seconds'
