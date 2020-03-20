@@ -6,7 +6,7 @@ callout-text: "All library buildings will close temporarily from the end of Frid
 featured: true
 featured-image: /images/coronavirus/coronavirus.jpg
 featured-alt: 'NHS advice poster: Wash your hands more often for 20 seconds'
-featured-excerpt: Up to date information on closures and cancellations.
+featured-excerpt: Up to date information on closures and service changes.
 featured-link-href-text: Find out more &rarr;
 ---
 
@@ -47,7 +47,7 @@ You can renew all loans by phone or online:
 - help@suffolklibraries.co.uk
 - [Contact your local library](/libraries/) to ask about reservation collection.
 
-## Vulnerable and older Customers
+## Vulnerable and older customers
 
 We provide invaluable social contact for many of Suffolk’s older and more vulnerable residents. Many of our home library service volunteers are remaining in touch with customers. We are also looking at ways we can remain in contact and provide some form of service when library buildings close.
 
