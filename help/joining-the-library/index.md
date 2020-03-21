@@ -5,7 +5,9 @@ breadcrumb: help
 sidebar: help
 ---
 
-<div class="pv3 bb b--light-gray">
+{% include callout.html message="Apply online for a library card and we’ll email your library card number within one working day so you can start using the eLibrary straight away." %}
+
+<div class="pv3">
 
 {% include /c/button-blue.html text="Apply for a card online now &rarr;" url="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN" %}
 

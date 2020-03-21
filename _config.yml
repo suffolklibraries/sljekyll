@@ -13,7 +13,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.suffolklibraries.co.uk" # the base hostname & protocol for your site
 twitter_username: suffolklibrary
 github_username:  suffolklibraries
-message: "All library buildings will close from end of Fri 20 Mar"
+message: "All library buildings closed"
 message_link: /coronavirus/
 message_link_text: "Latest Coronavirus updates &rarr;"
 
