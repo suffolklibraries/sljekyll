@@ -11,6 +11,8 @@ sidebar: help
 
 {% include /c/button-blue.html text="Apply for a card online now &rarr;" url="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN" %}
 
+<div class="f6">Opens on a different website</div>
+
 </div>
 
 You can apply for a library card if you:
