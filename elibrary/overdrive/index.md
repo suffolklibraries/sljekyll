@@ -4,7 +4,7 @@ layout: sidebar-left
 breadcrumb: elibrary
 ---
 
-OverDrive allows you to download eBooks and eAudiobooks. This service is available on a tablet, smartphone or web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer.
+OverDrive/Libby allows you to download the latest children’s and adult eBooks and eAudiobooks for free. This service is available on a tablet, smartphone or web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer.
 
 You can also read eBooks and listen to eAudiobooks on a device that plays MP3 files, such as an iPod, tablet or smartphone using **OverDrive's app, Libby**. OverDrive is additionally available on some eReaders.
 
