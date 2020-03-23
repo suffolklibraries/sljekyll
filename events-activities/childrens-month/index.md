@@ -10,7 +10,7 @@ cta-text: "Sign up for a library card &rarr;"
 cta-link: "/help/joining-the-library/"
 ---
 
-{%
+<!-- {%
   include z-bar.html
   src="events/childrens-event.jpg"
   alt="Primary aged children sitting on a rug at an event"
@@ -21,19 +21,17 @@ cta-link: "/help/joining-the-library/"
   link-text="Find an event near you &rarr;"
   link-color="custom-corporate-green"
   link-hover-color="custom-corporate-green"
-%}
+%} -->
 
-<section class="ph2 ph3-l pv3">
+<section class="ph2 ph3-l pv3 bg-light-gray">
 
     <h2 class="f3 tc custom-lh-title mb1">About Children’s Month 2020</h2>
 
     <div class="measure center">
 
-      <p>Enjoy all the things we offer children and families, including Easter holiday family activities and events.</p>
-
       <p>This Children’s Month we’re running a special prize draw. Anyone who signs up their child or children for their first library card will be entered into a draw to win an iPad. You don’t have to do anything else to enter – just make sure you include your email address when you sign up.</p>
 
-      <p>Getting a library card is free and you can <a href="/help/joining-the-library/" class="blue underline">join online</a> or at <a href="/libraries/" class="blue underline">your nearest library</a>.</p>
+      <p>Getting a library card is free and you can <a href="/help/joining-the-library/" class="blue underline">join online</a>.</p>
 
       <p>This year’s theme is nature, celebrating the lovely specially commissioned Mouse and Mole artwork from local illustrator James Mayhew.</p>
 
