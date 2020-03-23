@@ -38,6 +38,12 @@ Download and stream free eBooks, eAudio, magazines, newspapers, films, documenta
 
 [eLibrary instructions &rarr;](/elibrary)
 
+## Online events & activities
+
+Check out your library’s social media page for details of live, online events, such as baby bounce and tot rock. We’ll be updating this website with a list of events soon.
+
+Find your library’s social media accounts on [library pages](/libraries/).
+
 
 ## Questions and queries
 
