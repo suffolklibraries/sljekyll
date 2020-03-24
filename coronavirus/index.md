@@ -20,6 +20,8 @@ featured-link-href-text: Find out more &rarr;
 
 </div>
 
+Last updated Tue, 24 March.
+
 ## Closures
 
 - All library buildings closed
@@ -34,9 +36,10 @@ featured-link-href-text: Find out more &rarr;
 
 ## eLibrary
 
-Download and stream free eBooks, eAudio, magazines, newspapers, films, documentaries and music. Free with a library card, which you can get online:
+Download and stream free eBooks, eAudio, magazines, newspapers, films, documentaries and music. Free with a library card number, which you can get online:
 
-[eLibrary instructions &rarr;](/elibrary)
+- [Apply for a library card number](/help/joining-the-library/)
+- [eLibrary instructions &rarr;](/elibrary/)
 
 ## Online events & activities
 
