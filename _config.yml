@@ -48,6 +48,9 @@ collections:
         output: false
     online-events:
         output: true
+    elibrary-recommendations:
+        output: false
+
 defaults:
   - scope:
       type: libraries
