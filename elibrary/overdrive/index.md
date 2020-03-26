@@ -6,7 +6,7 @@ breadcrumb: elibrary
 
 <div class="pa3 bg-light-gray mb3" markdown="1">
 
-Looking to borrow eTitles in your browser? Visit the [OverDrive website](https://suffolklibraries.lib.overdrive.com/).
+Looking to borrow eTitles in your browser? Visit the [OverDrive website](http://suffolklibraries.lib.overdrive.com/).
 
 </div>
 
