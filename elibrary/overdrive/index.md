@@ -4,6 +4,12 @@ layout: sidebar-left
 breadcrumb: elibrary
 ---
 
+<div class="pa3 bg-light-gray mb3" markdown="1">
+
+Looking to borrow eTitles in your browser? Visit the [OverDrive website](https://suffolklibraries.lib.overdrive.com/).
+
+</div>
+
 OverDrive/Libby allows you to download the latest children’s and adult eBooks and eAudiobooks for free. This service is available on a tablet, smartphone or web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer.
 
 You can also read eBooks and listen to eAudiobooks on a device that plays MP3 files, such as an iPod, tablet or smartphone using **OverDrive's app, Libby**. OverDrive is additionally available on some eReaders.

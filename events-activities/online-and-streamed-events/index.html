@@ -1,8 +1,8 @@
 ---
-title: "Online and streamed events"
+title: "Online events, activities & groups"
 layout: featured
 header-bg: custom-bg-corporate
-featured-hero-description: "Enjoy live streamed and recorded library events & book groups from your home."
+featured-hero-description: "Enjoy library live streams, recorded events and book & film groups from your home."
 featured-hero-image: "home/storytime.jpg"
 featured-hero-alt: "A girl watching a woman tell a story on TV."
 featured-hero-caption: "Southwold Library’s story time live streamed"
@@ -53,17 +53,11 @@ ling: true
 
       <h2 class="ph2 ph3-ns custom-bg-corporate white f5 normal custom-lh-title mt0 mb1">{{ event.title }}</h2>
 
-      <p class="f6 gray ph2 ph3-ns mv1">
-        {{ event.start-date | date: "%a %-d %b, %Y" }}
-        {% if event.end-date %} – {{ event.end-date | date: "%a %-d %b, %Y" }}{% endif %}
-        {% if event.start-time %}, {{ event.start-time }}{% endif %}
-        {% if event.end-time %} – {{ event.end-time }}{% endif %}</p>
+      <p class="f6 gray ph2 ph3-ns mv1">{{ event.start-date | date: "%a %-d %b, %Y" }}{% if event.end-date and event.end-date > event.start-date %} – {{ event.end-date | date: "%a %-d %b, %Y" }}{% endif %}{% if event.start-time %} – {{ event.start-time }}{% endif %}{% if event.end-time %} – {{ event.end-time }}{% endif %}</p>
 
-      <p class="mv1 f6 ph2 ph3-ns">{{ event.content | strip_html | truncatewords: 10 }}</p>
+      <p class="mv1 f6 ph2 ph3-ns">{{ event.content | strip_html | truncatewords: 10 }} <a href="{{ event.url }}" class="blue underline">More info</a></p>
 
-      <p class="ph2 ph3-ns f6 mt0"><a href="{{ event.url }}" class="blue underline">More info</a></p>
-
-      <p class="ph2 ph3-ns f6 mt0"><a href="{{ event.link }}" class="b blue underline">Join &rarr;</a></p>
+      <p class="ph2 ph3-ns f6"><a href="{{ event.link }}" class="b blue underline">Join &rarr;</a></p>
 
     </article>
 
@@ -75,13 +69,11 @@ ling: true
 
     <h2 class="ph2 ph3-ns custom-bg-corporate white f5 normal custom-lh-title mt0 mb1">{{ event.title }}</h2>
 
-    <p class="f6 gray ph2 ph3-ns mv1">{{ event.day }}{% if event.times %}, {{ event.times }}{% endif %}</p>
+    <p class="f6 gray ph2 ph3-ns mv1">{{ event.day }}{% if event.times %} – {{ event.times }}{% endif %}</p>
 
-    {% if event.description %}<p class="mv1 f6 ph2 ph3-ns">{{ event.description | strip_html | truncatewords: 10 }}</p>{% endif %}
+    <p class="mv1 f6 ph2 ph3-ns">{% if event.description %}{{ event.description | strip_html | truncatewords: 10 }} {% endif %}<a href="{{ event.url }}" class="blue underline">More info</a></p>
 
-    <p class="ph2 ph3-ns f6 mt0"><a href="{{ event.url }}" class="blue underline">More info</a></p>
-
-    <p class="ph2 ph3-ns f6 mt0"><a href="{{ event.link }}" class="b blue underline">Join &rarr;</a></p>
+    <p class="ph2 ph3-ns f6"><a href="{{ event.link }}" class="b blue underline">Join &rarr;</a></p>
 
   </article>
 

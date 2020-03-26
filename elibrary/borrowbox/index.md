@@ -4,6 +4,12 @@ layout: sidebar-left
 breadcrumb: elibrary
 ---
 
+<div class="pa3 bg-light-gray mb3" markdown="1">
+
+Looking to borrow eAudio titles in your browser? Visit the [BorrowBox website](https://library.bolindadigital.com/suffolk).
+
+</div>
+
 BorrowBox allows you to&nbsp;download eAudio books. This service is available on a tablet, smartphone or web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer.
 
 ## Devices compatible with BorrowBox

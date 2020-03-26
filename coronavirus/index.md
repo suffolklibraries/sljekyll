@@ -2,7 +2,7 @@
 layout: default
 title: Suffolk Libraries and coronavirus
 breadcrumb: home
-callout-text: "All library buildings temporarily closed. Mobile and home library services suspended."
+callout-text: "All library buildings temporarily closed. Mobile and home library services suspended. Access the eLibrary, online events & activities and book & film groups from your home."
 featured: true
 featured-image: /images/coronavirus/coronavirus.jpg
 featured-alt: 'NHS advice poster: Wash your hands more often for 20 seconds'
@@ -20,7 +20,7 @@ featured-link-href-text: Find out more &rarr;
 
 </div>
 
-Last updated Tue, 24 March.
+Last updated Thu, 26 March.
 
 ## Closures
 
@@ -43,9 +43,9 @@ Download and stream free eBooks, eAudio, magazines, newspapers, films, documenta
 
 ## Online events & activities
 
-Check out your library’s social media page for details of live, online events, such as baby bounce and tot rock. We’ll be updating this website with a list of events soon.
+Libraries are recording and streaming events and activities, and running book and film groups online:
 
-Find your library’s social media accounts on [library pages](/libraries/).
+[Find an online activity or group &rarr;](/events-activities/online-and-streamed-events/)
 
 
 ## Questions and queries

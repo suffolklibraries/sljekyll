@@ -1,6 +1,7 @@
 ---
 title: "Lego challenges"
-day: Wednesday
+day: Wednesdays
+description: Take a lego challenge online.
 location: great-cornard-library
 location-display-name: Great Cornard Library
 location-display-url: /libraries/great-cornard-library/
