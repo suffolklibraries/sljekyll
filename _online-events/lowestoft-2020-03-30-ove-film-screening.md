@@ -1,13 +1,11 @@
 ---
-name: "Film club: <cite>A Man Called Ove</cite> discussion"
+title: "Film club: <cite>A Man Called Ove</cite> discussion"
 location: lowestoft-library
 location-text: Lowestoft Library
-event-start-date: 2020-03-30
-event-end-date: 2020-04-02
-breadcrumb: y
+start-date: 2020-03-30
+end-date: 2020-04-02
 link: https://www.facebook.com/events/251432832550487/
-event-online: true
-event-category: online-film-club
+category: discussion
 ---
 
 <cite>A Man Called Ove</cite> is available from our [Kanopy eLibrary service](/elibrary/kanopy/).

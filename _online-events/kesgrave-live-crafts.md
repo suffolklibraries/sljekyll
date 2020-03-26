@@ -1,12 +1,11 @@
 ---
-recurrent-title: "Live craft sessions"
-recurrent-description: "Easy crafts for children to make."
-recurrent-day: Tuesdays and Thursdays
-recurrent-times: 1030-1100
-recurrent-location: kesgrave-library
-recurrent-location-display-name: Kesgrave Library
-recurrent-location-display-url: /branches/kesgrave-library/
-recurrent-category: ["children", "pre-school"]
+title: "Live craft sessions"
+description: "Easy crafts for children to make."
+day: Tuesdays and Thursdays
+times: 1030-1100
+location: kesgrave-library
+location-display-name: Kesgrave Library
+location-display-url: /branches/kesgrave-library/
+category: children
 link: https://www.facebook.com/Kesgravelibrary/
-recurrent-online: true
 ---

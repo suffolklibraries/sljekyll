@@ -1,13 +1,11 @@
 ---
-name: "Film club: <cite>Llama Nation</cite> discussion"
+title: "Film club: <cite>Llama Nation</cite> discussion"
 location: lowestoft-library
 location-text: Lowestoft Library
-event-start-date: 2020-04-02
-event-end-date: 2020-04-06
-breadcrumb: y
+start-date: 2020-04-02
+end-date: 2020-04-06
 link: https://www.facebook.com/events/524054304918088/
-event-online: true
-event-category: online-film-club
+category: discussion
 ---
 
 <cite>Llama Nation</cite> is available from our [Kanopy eLibrary service](/elibrary/kanopy/).

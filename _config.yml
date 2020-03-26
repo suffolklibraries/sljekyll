@@ -46,6 +46,8 @@ collections:
         output: true
     recurrents:
         output: false
+    online-events:
+        output: true
 defaults:
   - scope:
       type: libraries

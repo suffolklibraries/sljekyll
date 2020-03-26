@@ -1,13 +1,11 @@
 ---
-recurrent-title: "Wordplay: Baby Bounce and Tot Rock Livestream"
-recurrent-description: "Songs and nursery rhymes."
-recurrent-day: Mondays, Wednesdays and Fridays
-recurrent-times: 1030-1100
-recurrent-location: kesgrave-library
-recurrent-location-display-name: Kesgrave Library
-recurrent-location-display-url: /branches/kesgrave-library/
-recurrent-category: ["children", "pre-school"]
-recurrent-bookstart: y
+title: "Wordplay: Baby Bounce and Tot Rock Livestream"
+description: "Songs and nursery rhymes."
+day: Mondays, Wednesdays and Fridays
+times: 1030-1100
+location: kesgrave-library
+location-display-name: Kesgrave Library
+location-display-url: /branches/kesgrave-library/
+category: children
 link: https://www.facebook.com/Kesgravelibrary/
-recurrent-online: true
 ---

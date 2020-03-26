@@ -1,12 +1,11 @@
 ---
-recurrent-title: "Daily quiz"
-recurrent-description: Test your knowledge with daily quizzes
-recurrent-day: Everyday
-recurrent-times: 1000
-recurrent-location: southwold-library
-recurrent-location-display-name: Southwold Library
-recurrent-location-display-url: /branches/southwold-library/
-recurrent-category: ["older", "arts-crafts-games"]
+title: "Daily quiz"
+description: Test your knowledge with daily quizzes
+day: Everyday
+times: 1000
+location: southwold-library
+location-display-name: Southwold Library
+location-display-url: /branches/southwold-library/
+category: quiz
 link: https://www.facebook.com/southwoldlibrary/
-recurrent-online: true
 ---
