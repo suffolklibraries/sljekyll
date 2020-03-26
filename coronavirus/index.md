@@ -55,7 +55,6 @@ Full customer service available Mon-Fri 9-5pm. Leave a message out of these hour
 - [Suffolk Libraries website](https://www.suffolklibraries.co.uk)
 - [01473 351249](tel:01473351249)
 - help@suffolklibraries.co.uk
-- [Contact your local library](/libraries/) to ask about reservation collection.
 
 ## Vulnerable and older customers
 
