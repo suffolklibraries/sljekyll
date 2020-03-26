@@ -1,0 +1,59 @@
+{% include header.html %}
+
+<main class="ph2 ph3-ns pv3 pv4-l bg-moon-gray" id="content" role="main">
+
+  <div class="custom-max-width bg-white">
+
+    {% include breadcrumb.html %}
+
+  </div>
+
+  <article class="bg-white custom-max-width">
+
+    <div class="ph2 ph3-ns pv3 bg-white">
+
+      <h1 class="f3 custom-lh-title mb2">{{ page.title }}</h1>
+
+      {% if page.start-date %}
+
+        <p class="f6 mb1">{{ page.start-date | date: "%a %-d %b, %Y" }}{% if page.end-date and page.end-date > page.start-date %} – {{ page.end-date | date: "%a %-d %b, %Y" }}{% endif %}</p>
+
+      {% else %}
+
+        <p class="f6 mb1">{{ page.day }}{% if page.times %} – {{ page.times }}{% endif %}</p>
+
+      {% endif %}
+
+      {% if page.location-display-name %}
+
+      <p class="f6 mb1 mt0">Run by {{ page.location-display-name }}</p>
+
+      {% else %}
+
+      <p class="f6 mb1 mt0">Run by {{ page.location-text }}</p>
+
+      {% endif %}
+
+      <p><a href="{{ page.link }}" class="blue underline b">Join this event online &rarr;</a></p>
+
+      <div class="measure custom-visited">
+
+      {% if page.description %}
+
+      <p>{{ page.description }}</p>
+
+      {% else %}
+
+      {{ content }}
+
+      {% endif %}
+
+      </div>
+
+    </div>
+
+  </article>
+
+</main>
+
+{% include footer.html %}

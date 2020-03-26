@@ -1,0 +1,84 @@
+---
+title: "Online events, activities & groups"
+layout: featured
+header-bg: custom-bg-corporate
+featured-hero-description: "Enjoy library live streams, recorded events and book & film groups from your home."
+featured-hero-image: "home/storytime.jpg"
+featured-hero-alt: "A girl watching a woman tell a story on TV."
+featured-hero-caption: "Southwold Library’s story time live streamed"
+breadcrumb: home
+pad-content: true
+jquery: true
+ling: true
+---
+
+<div class="mv3 f6" id="event-cats">
+
+    <div class="db dib-ns mb2 mb0-ns mr2-ns">Filter events: </div>
+
+    <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns mr2-ns" data-tag="all" href="#">All</a>
+    <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns mr2-ns" data-tag="children" href="#">Children</a>
+    <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns mr2-ns" data-tag="quiz" href="#">Quizzes</a>
+    <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns" data-tag="discussion" href="#">Book/film groups</a>
+
+</div>
+
+<div id="all-events" class="flex-l flex-wrap-l justify-between-l">
+
+{% assign events = site.online-events | sort: "title" %}
+
+{% for event in events %}
+
+{% if event.start-date %}
+
+  {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+
+  {% if event.end-date %}
+
+      {% capture event-time-seconds %}{{event.end-date | date: '%s' }}{% endcapture %}
+
+  {% else %}
+
+      {% capture event-time-seconds %}{{event.start-date | date: '%s' }}{% endcapture %}
+
+  {% endif %}
+
+  {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+
+  {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+
+  {% if now-unix <= event-time %}
+
+    <article class="mv3 w-30-l ba b--light-gray" data-category="{% for cat in event.category %}{{ cat }}{% endfor %}">
+
+      <h2 class="ph2 ph3-ns custom-bg-corporate white f5 normal custom-lh-title mt0 mb1">{{ event.title }}</h2>
+
+      <p class="f6 gray ph2 ph3-ns mv1">{{ event.start-date | date: "%a %-d %b, %Y" }}{% if event.end-date and event.end-date > event.start-date %} – {{ event.end-date | date: "%a %-d %b, %Y" }}{% endif %}{% if event.start-time %} – {{ event.start-time }}{% endif %}{% if event.end-time %} – {{ event.end-time }}{% endif %}</p>
+
+      <p class="mv1 f6 ph2 ph3-ns">{{ event.content | strip_html | truncatewords: 10 }} <a href="{{ event.url }}" class="blue underline">More info</a></p>
+
+      <p class="ph2 ph3-ns f6"><a href="{{ event.link }}" class="b blue underline">Join &rarr;</a></p>
+
+    </article>
+
+  {% endif %}
+
+{% else %}
+
+  <article class="mv3 w-30-l ba b--light-gray" data-category="{% for cat in event.category %}{{ cat }}{% endfor %}">
+
+    <h2 class="ph2 ph3-ns custom-bg-corporate white f5 normal custom-lh-title mt0 mb1">{{ event.title }}</h2>
+
+    <p class="f6 gray ph2 ph3-ns mv1">{{ event.day }}{% if event.times %} – {{ event.times }}{% endif %}</p>
+
+    <p class="mv1 f6 ph2 ph3-ns">{% if event.description %}{{ event.description | strip_html | truncatewords: 10 }} {% endif %}<a href="{{ event.url }}" class="blue underline">More info</a></p>
+
+    <p class="ph2 ph3-ns f6"><a href="{{ event.link }}" class="b blue underline">Join &rarr;</a></p>
+
+  </article>
+
+{% endif %}
+
+{% endfor %}
+
+</div>

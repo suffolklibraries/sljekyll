@@ -4,6 +4,12 @@ layout: sidebar-left
 breadcrumb: elibrary
 ---
 
+<div class="pa3 bg-light-gray mb3" markdown="1">
+
+Looking to read magazines and newspapers in your browser? Visit the [PressReader website](https://www.pressreader.com/).
+
+</div>
+
 PressReader allows you to read or download full digital editions of key newspaper and magazine titles from around the world. This service is available through a web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer. An app called PressReader is available for Android and iOS.
 
 ## Setting up your device to read or download digital newspapers and magazines with PressReader

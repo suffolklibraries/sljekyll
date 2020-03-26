@@ -1,0 +1,178 @@
+---
+layout: default
+title: Suffolk Libraries reserve, renew, branches and eLibrary
+featured-story: true
+meta-title: "Home"
+meta-description: "Reserve and renew titles, download eBooks, eAudio and music, and find libraries and events"
+---
+
+<div class="flex-l flex-wrap-l justify-between-l">
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/elibrary/" class="underline-hover">eLibrary</a></h2>
+
+    <p class="custom-lh-title f6">Free eBooks, magazines, eAudio, streaming</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/libraries/" class="underline-hover">Libraries</a></h2>
+
+    <p class="custom-lh-title f6">Opening times, facilities, events</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/mobiles-home/" class="underline-hover">Mobiles &amp; home service</a></h2>
+
+    <p class="custom-lh-title f6">Routes, timetables &amp; visits to houses and care homes</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/events-activities/" class="underline-hover">Events &amp; activities</a></h2>
+
+    <p class="custom-lh-title f6">Regular &amp; one off events, reading groups, courses</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/health/" class="underline-hover">Health &amp; wellbeing</a></h2>
+
+    <p class="custom-lh-title f6">Drop-ins, self-help reading, events, information</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/research-and-reference/" class="underline-hover">Research &amp; reference</a></h2>
+
+    <p class="custom-lh-title f6">Family history, encyclopedias, reference</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/help-with-reading-and-literacy/" class="underline-hover">Reading &amp; literacy</a></h2>
+
+    <p class="custom-lh-title f6">Helpful organisations, large print books</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/new-suggestions/" class="underline-hover">Recommendations &amp; reviews</a></h2>
+
+    <p class="custom-lh-title f6">Staff picks, reviews, articles, author interviews</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/parents-carers-and-children/" class="underline-hover">Parents, carers &amp; children</a></h2>
+
+    <p class="custom-lh-title f6">Family reading lists, children’s suggestions</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/help/" class="underline-hover">Help using the service</a></h2>
+
+    <p class="custom-lh-title f6">Charges, joining, printing &amp; copying</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/news/" class="underline-hover">News</a></h2>
+
+    <p class="custom-lh-title f6">Updates, press releases, blogs</p>
+
+  </div>
+
+  <div class="w-30-l">
+
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/about/jobs/" class="underline-hover">Jobs</a></h2>
+
+    <p class="custom-lh-title f6">Vacancies</p>
+
+  </div>
+
+</div>
+
+<section class="pt4 pb3 pb4-ns">
+
+    <h2 class="f5 pa0 ma0 mb2 pt2 pb2 bb b--light-gray">More</h2>
+
+    <ul class="list ma0 mb2 pa0 f6">
+
+        <li class="dib-ns mr3-ns"><a href="/about/" class="db pv1 underline-hover dark-gray hover-custom-corporate">About us</a></li>
+        <li class="dib-ns mr3-ns"><a href="/teachers-and-home-educators/" class="db pv1 underline-hover dark-gray hover-custom-corporate">Teachers &amp; home educators</a></li>
+        <li class="dib-ns mr3-ns"><a href="/work-and-benefits/" class="db pv1 underline-hover dark-gray hover-custom-corporate">Work &amp; benefits</a></li>
+        <li class="dib-ns mr3-ns"><a href="/business-and-room-hire/" class="db pv1 underline-hover dark-gray hover-custom-corporate">Business &amp; room hire</a></li>
+        <li class="dib-ns mr3-ns"><a href="/bloc/" class="db pv1 underline-hover dark-gray hover-custom-corporate">BLOC youth arts programme</a></li>
+        <li class="dib-ns mr3-ns"><a href="/music-and-drama" class="db pv1 underline-hover dark-gray hover-custom-corporate">Music &amp; Drama Library</a></li>
+        <li class="dib-ns mr3-ns"><a href="/volunteer" class="db pv1 underline-hover dark-gray hover-custom-corporate">Volunteering</a></li>
+        <li class="dib-ns mr3-ns"><a href="/support-us" class="db pv1 underline-hover dark-gray hover-custom-corporate">Support us</a></li>
+
+    </ul>
+
+ </section>
+
+ {% if page.featured-story %}
+
+     {% assign featured_posts = site.pages | where: "featured", "true" %}
+
+     {% for post in featured_posts limit:1 %}
+
+       <div class="flex-l items-center-l white custom-bg-corporate pv3 pv0-l">
+
+         <div class="w-50-l">
+
+           <a href="{{ post.url }}"><img class="db pa0 ma0" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
+
+         </div>
+
+         <div class="w-50-l ph2 ph3-l pv3">
+
+           <h2 class="mt0 mb1 custom-lh-title f3"><a class="custom-force-white" href="{{ post.url }}">{{ post.title }}</a></h2>
+
+           <p class="ma0">{{ post.featured-excerpt }}</p>
+
+           <p class="mb0 mt1 b"><a href="{{ post.url }}" class="underline custom-force-white">{{ post.featured-link-href-text }}</a></p>
+
+         </div>
+
+       </div>
+
+     {% endfor %}
+
+     {% elsif page.featured-story == false %}
+
+     <div class="flex-l items-center-l white custom-bg-corporate pv3 pv0-l">
+
+       <div class="w-50-l">
+
+         <a href="/new-suggestions/"><img class="db pa0 ma0" src="/images/featured/tablet-reading.jpg" alt="Man reading from a tablet in a café"></a>
+
+       </div>
+
+       <div class="w-50-l ph2 ph3-l pv3">
+
+         <h2 class="mt0 mb1 custom-lh-title f3"><a class="custom-force-white" href="/new-suggestions/">Recommendations &amp; reviews</a></h2>
+
+         <p class="ma0">New books, audiobooks, music and DVDs, reviews, Meet the Author and more.</p>
+
+         <p class="mb0 mt1 b"><a href="/new-suggestions/" class="underline custom-force-white">Get recommendations &amp; ideas &rarr;</a></p>
+
+       </div>
+
+     </div>
+
+     {% endif %}

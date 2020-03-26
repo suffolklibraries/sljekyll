@@ -125,6 +125,18 @@ $( function() {
 </script>
 {% endif %}
 
+{% if page.ling %}
+<script src="/js/ling-gallery-filter.js"></script>
+<script>
+$(document).ready(function () {
+   $('#all-events').lingGalleryFilter({
+        tagContainer: $('#event-cats'),
+    });
+});
+</script>
+
+{% endif %}
+
 {% if page.lightbox %}
 {% include lightbox.html %}
 {% endif %}
