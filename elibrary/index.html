@@ -8,6 +8,7 @@ featured-hero-alt: "Man in a suit reading an eBook."
 # cta-text: "Sign up for free &rarr;"
 # cta-link: "/borrower/sign-up/"
 breadcrumb: home
+hnav: elibrary
 ---
 
 {%
@@ -82,11 +83,11 @@ breadcrumb: home
 
       <div class="w-40 w-20-ns mv2">
 
-        <a href="{{ pick.url }}" class="db">
+        <a href="{{ pick.url }}" class="db underline-hover">
 
           <img class="db ma0 pa0" alt="{{ pick.alt }}" src="{{ pick.image }}">
 
-          <h3 class="f6 f5-l mv1 pa0 custom-lh-title normal tc b blue">{{ pick.title }}</h3>
+          <h3 class="f6 f5-l mv1 pa0 custom-lh-title normal tc blue">{{ pick.title }}</h3>
 
         </a>
 
@@ -95,5 +96,7 @@ breadcrumb: home
     {% endfor %}
 
   </div>
+
+  <p class="tc b"><a href="/elibrary/picks/" class="white bg-blue hover-bg-dark-blue pa2 br2">All staff picks &rarr;</a></p>
 
 </div>

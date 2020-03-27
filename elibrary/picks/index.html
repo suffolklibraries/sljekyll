@@ -1,0 +1,31 @@
+---
+layout: new-blank
+title: Staff picks
+breadcrumb: elibrary
+pad-content: true
+hnav: elibrary
+---
+
+<h2 class="f3 custom-lh-title mb1 tc">Staff picks</h2>
+
+<p class="tc">A collection of eLibrary recommendations, lists and articles from our staff.</p>
+
+<div class="flex flex-wrap justify-around justify-between-ns">
+
+  {% for pick in site.elibrary-recommendations %}
+
+    <div class="w-40 w-20-ns mv2">
+
+      <a href="{{ pick.url }}" class="db underline-hover">
+
+        <img class="db ma0 pa0" alt="{{ pick.alt }}" src="{{ pick.image }}">
+
+        <h3 class="f6 f5-l mv1 pa0 custom-lh-title normal tc blue">{{ pick.title }}</h3>
+
+      </a>
+
+    </div>
+
+  {% endfor %}
+
+</div>
