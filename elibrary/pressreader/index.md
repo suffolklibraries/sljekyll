@@ -2,6 +2,7 @@
 title: Setting up PressReader on your device
 layout: sidebar-left
 breadcrumb: elibrary
+hnav: elibrary
 ---
 
 <div class="pa3 bg-light-gray mb3" markdown="1">

@@ -34,6 +34,36 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
   link-color="white"
 %}
 
+<div class="ph2 ph3-ns pv3 bg-near-white">
+
+  <h2 class="f3 custom-lh-title mb1 tc">Staff picks</h2>
+
+  <p class="tc">A collection of recommendations, lists and articles from our staff.</p>
+
+  <div class="flex flex-wrap justify-around justify-between-ns">
+
+    {% for pick in site.elibrary-recommendations limit:4 %}
+
+      <div class="w-40 w-20-ns mv2">
+
+        <a href="{{ pick.url }}" class="db underline-hover blue">
+
+          <img class="db ma0 pa0" alt="{{ pick.alt }}" src="{{ pick.image }}">
+
+          <h3 class="f6 f5-l mv1 pa0 custom-lh-title normal tc blue">{{ pick.title }}</h3>
+
+        </a>
+
+      </div>
+
+    {% endfor %}
+
+  </div>
+
+  <p class="tc b"><a href="/elibrary/picks/" class="white bg-blue hover-bg-dark-blue pa2 br2">All staff picks &rarr;</a></p>
+
+</div>
+
 <div class="flex-l flex-wrap-l justify-between-l pv3 ph2 ph3-ns">
 
   <div class="w-30-l">
