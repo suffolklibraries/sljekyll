@@ -1,0 +1,55 @@
+{% include header.html %}
+
+<main class="ph2 ph3-ns pv3 pv4-l bg-moon-gray" id="content" role="main">
+
+  <div class="custom-max-width bg-white">
+
+    {% include breadcrumb.html %}
+
+  </div>
+
+  <article class="bg-white custom-max-width">
+
+    <div class="ph2 ph3-ns pv3 bg-white">
+
+      <h1 class="f3 custom-lh-title mb2">{{ page.title }}</h1>
+
+      <div class="flex-l flex-wrap-l">
+
+        <div class="w-50-l pr3-l mb2">
+
+          <img class="db center" src="{{ page.image }}" alt="{{ page.alt }}">
+
+        </div>
+
+        <div class="w-50-l pl3-l mb2 custom-visited">
+
+          {{ content }}
+
+          <ul class="list ma0 pa0 bb b--light-gray">
+
+            {% if page.service %}<li><a class="pv1 bt b--light-gray db" href="/elibrary/{{ page.service | downcase }}/">Set up {{ page.service }} on your device</a></li>{% endif %}
+            {% if page.link %}<li><a class="pv1 bt b--light-gray db" href="{{ page.link }}/">See this pick</a></li>{% endif %}
+            {% if page.service %}<li><a class="pv1 bt b--light-gray db" href="/elibrary/">Find out more about our eLibrary</a></li>{% endif %}
+
+          </ul>
+
+          {% if page.service %}
+
+          <p>To access eLibrary content for free all you need is a library card number. If you don’t have a library card, you can apply straight away:</p>
+
+          <p><a href="/help/joining-the-library/">Apply for a library card number now &rarr;</a></p>
+
+          {% endif %}
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </article>
+
+</main>
+
+{% include footer.html %}
