@@ -1,6 +1,14 @@
 {% include header.html %}
 
-<main class="ph2 ph3-ns pv3 pv4-l bg-moon-gray" id="content" role="main">
+{% if page.hnav %}
+
+  {% capture hnav-file %}{{ page.hnav }}{% endcapture %}
+
+  {% include hnav-small.html menu=hnav-file %}
+
+{% endif %}
+
+<main class="ph2 ph3-ns pv3 bg-moon-gray" id="content" role="main">
 
   <div class="custom-max-width bg-white">
 

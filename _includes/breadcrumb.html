@@ -1,6 +1,6 @@
 {% if page.breadcrumb %}
 
-  <div class="pa2 bg-white ba b--light-gray {% unless page.layout == "featured" %}mb3 {% endunless %}custom-underline f6">
+  <div class="pa2 ph3-ns bg-white ba b--light-gray custom-underline f6">
     {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
     <a class="blue underline" href="/">Home</a>
     {% for crumb in crumbs offset: 1 %}

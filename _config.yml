@@ -72,6 +72,7 @@ defaults:
       layout: elibrary-recommendation
       permalink: /elibrary/picks/:name
       breadcrumb: true
+      hnav: elibrary
 
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set
