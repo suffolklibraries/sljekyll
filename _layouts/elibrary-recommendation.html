@@ -18,7 +18,11 @@
 
         <div class="w-50-l pr3-l mb2">
 
+          {% if page.link %}<a href="{{ page.link }}" class="db">{% endif %}
+
           <img class="db center" src="{{ page.image }}" alt="{{ page.alt }}">
+
+          {% if page.link %}</a>{% endif %}
 
         </div>
 
@@ -28,17 +32,30 @@
 
           <ul class="list ma0 pa0 bb b--light-gray">
 
-            {% if page.service %}<li><a class="pv1 bt b--light-gray db" href="/elibrary/{{ page.service | downcase }}/">Set up {{ page.service }} on your device</a></li>{% endif %}
-            {% if page.link %}<li><a class="pv1 bt b--light-gray db" href="{{ page.link }}/">See this pick</a></li>{% endif %}
-            {% if page.service %}<li><a class="pv1 bt b--light-gray db" href="/elibrary/">Find out more about our eLibrary</a></li>{% endif %}
+            {% if page.service %}
+            <li class="pv1 bt b--light-gray">Available on <strong>{{ page.service }}</strong></li>
+            <li><a class="pv1 bt b--light-gray db" href="/elibrary/{{ page.service | downcase }}/">Set up {{ page.service }} on your device</a></li>
+            {% endif %}
+
+            {% if page.link %}
+            <li><a class="pv1 bt b--light-gray db" href="{{ page.link }}/">See this pick on the {{ page.service }} website</a></li>
+            {% endif %}
+
+            {% if page.service %}
+            <li><a class="pv1 bt b--light-gray db" href="/elibrary/">Find out more about our eLibrary</a></li>
+            {% endif %}
 
           </ul>
 
           {% if page.service %}
 
-          <p>To access eLibrary content for free all you need is a library card number. If you don’t have a library card, you can apply straight away:</p>
+          <div class="pa3 bg-light-gray mv3">
 
-          <p><a href="/help/joining-the-library/">Apply for a library card number now &rarr;</a></p>
+            <p class="mb1">To access eLibrary content for free all you need is a library card number. If you don’t have a library card, you can apply straight away:</p>
+
+            <p><a class="pv1" href="/help/joining-the-library/">Apply for a library card number now &rarr;</a></p>
+
+          </div>
 
           {% endif %}
 
