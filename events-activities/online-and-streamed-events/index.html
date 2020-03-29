@@ -12,7 +12,7 @@ jquery: true
 ling: true
 ---
 
-<div class="mv3 f6" id="event-cats">
+<div class="mv3 f6 pb2 bb b--light-gray" id="event-cats">
 
     <div class="db dib-ns mb2 mb0-ns mr2-ns">Filter events: </div>
 
@@ -23,7 +23,7 @@ ling: true
 
 </div>
 
-<div id="all-events" class="flex-l flex-wrap-l justify-between-l">
+<div id="all-events">
 
 {% assign events = site.online-events | sort: "title" %}
 
@@ -49,15 +49,15 @@ ling: true
 
   {% if now-unix <= event-time %}
 
-    <article class="mv3 w-30-l ba b--light-gray" data-category="{% for cat in event.category %}{{ cat }}{% endfor %}">
+    <article class="mv3 pb1" data-category="{% for cat in event.category %}{{ cat }}{% endfor %}">
 
-      <h2 class="ph2 ph3-ns custom-bg-corporate white f5 normal custom-lh-title mt0 mb1">{{ event.title }}</h2>
+      <h2 class="f4 custom-lh-title mt0 mb1 pa0"><a href="{{ event.url }}" class="blue underline-hover">{{ event.title }}</a></h2>
 
-      <p class="f6 gray ph2 ph3-ns mv1">{{ event.start-date | date: "%a %-d %b, %Y" }}{% if event.end-date and event.end-date > event.start-date %} – {{ event.end-date | date: "%a %-d %b, %Y" }}{% endif %}{% if event.start-time %} – {{ event.start-time }}{% endif %}{% if event.end-time %} – {{ event.end-time }}{% endif %}</p>
+      <p class="f6 mv1">{{ event.start-date | date: "%a %-d %b, %Y" }}{% if event.end-date and event.end-date > event.start-date %} – {{ event.end-date | date: "%a %-d %b, %Y" }}{% endif %}{% if event.start-time %} – {{ event.start-time }}{% endif %}{% if event.end-time %} – {{ event.end-time }}{% endif %}</p>
 
-      <p class="mv1 f6 ph2 ph3-ns">{{ event.content | strip_html | truncatewords: 10 }} <a href="{{ event.url }}" class="blue underline">More info</a></p>
+      <p class="mv1 f6 custom-links">{{ event.excerpt | markdownify | remove: "<p>" | remove: "</p>" | truncatewords: 10 }} <a href="{{ event.url }}" class="blue underline">More info</a></p>
 
-      <p class="ph2 ph3-ns f6"><a href="{{ event.link }}" class="b blue underline">Join &rarr;</a></p>
+      <p class="f6 mt0"><a href="{{ event.link }}" class="b blue underline">Join &rarr;</a></p>
 
     </article>
 
@@ -65,15 +65,15 @@ ling: true
 
 {% else %}
 
-  <article class="mv3 w-30-l ba b--light-gray" data-category="{% for cat in event.category %}{{ cat }}{% endfor %}">
+  <article class="mv3 pb1" data-category="{% for cat in event.category %}{{ cat }}{% endfor %}">
 
-    <h2 class="ph2 ph3-ns custom-bg-corporate white f5 normal custom-lh-title mt0 mb1">{{ event.title }}</h2>
+    <h2 class="f4 custom-lh-title mt0 mb1 pa0"><a href="{{ event.url }}" class="blue underline-hover">{{ event.title }}</a></h2>
 
-    <p class="f6 gray ph2 ph3-ns mv1">{{ event.day }}{% if event.times %} – {{ event.times }}{% endif %}</p>
+    <p class="f6 mv1">{{ event.day }}{% if event.times %} – {{ event.times }}{% endif %}</p>
 
-    <p class="mv1 f6 ph2 ph3-ns">{% if event.description %}{{ event.description | strip_html | truncatewords: 10 }} {% endif %}<a href="{{ event.url }}" class="blue underline">More info</a></p>
+    <p class="mv1 f6 custom-links">{% if event.description %}{{ event.description | truncatewords: 10 }} {% endif %}<a href="{{ event.url }}" class="blue underline">More info</a></p>
 
-    <p class="ph2 ph3-ns f6"><a href="{{ event.link }}" class="b blue underline">Join &rarr;</a></p>
+    <p class="f6 mt0"><a href="{{ event.link }}" class="b blue underline">Join &rarr;</a></p>
 
   </article>
 
