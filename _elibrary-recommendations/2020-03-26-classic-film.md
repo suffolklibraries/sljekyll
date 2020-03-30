@@ -6,4 +6,4 @@ service: Kanopy
 category: film
 ---
 
-A collection of classic films from the Kanopy service to stream for free.
+A collection of classics from the Kanopy service to stream for free, including <cite>Rear Window</cite>, <cite>Black Orpheus</cite>, <cite>A Farewell to Arms</cite>, <cite>A Star is Born</cite>, <cite>Carnival of Souls</cite> and many Sherlock Holmes classics.

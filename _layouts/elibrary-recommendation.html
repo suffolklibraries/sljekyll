@@ -38,11 +38,18 @@
 
           {{ content }}
 
+          {% if page.web-link %}<p class="mb4"><a href="{{ page.web-link }}">Find out more &rarr;</a></p>{% endif %}
+
           <ul class="list ma0 pa0 bb b--light-gray">
 
             {% if page.service %}
-            <li class="pv1 bt b--light-gray">Available on <strong>{{ page.service }}</strong></li>
-            <li><a class="pv1 bt b--light-gray db" href="/elibrary/{{ page.service | downcase }}/">Set up {{ page.service }} on your device</a></li>
+
+            <li class="pv1 bt b--light-gray">Available on <strong>{{ page.service | join: ", " }}</strong></li>
+
+            {% for service in page.service %}
+            <li><a class="pv1 bt b--light-gray db" href="/elibrary/{{ service | downcase }}/">Set up {{ service }} on your device</a></li>
+            {% endfor %}
+
             {% endif %}
 
             {% if page.link %}

@@ -10,11 +10,13 @@ hnav: elibrary
 
 <p class="tc">A collection of recommendations, lists and articles from our staff for reading online. Perfect for if you’re stuck at home.</p>
 
-<div class="flex flex-wrap justify-around justify-between-ns">
+<div class="flex flex-wrap justify-start">
 
-  {% for pick in site.elibrary-recommendations %}
+  {% assign picks = site.elibrary-recommendations | reverse %}
 
-    <div class="w-40 w-20-ns mv2">
+  {% for pick in picks %}
+
+    <div class="w-50 w-25-ns mv2 ph2">
 
       <a href="{{ pick.url }}" class="db underline-hover blue">
 
