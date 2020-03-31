@@ -44,9 +44,9 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
     {% assign picks = site.elibrary-recommendations | reverse %}
 
-    {% for pick in picks limit:4 %}
+    {% for pick in picks limit:5 %}
 
-      <div class="w-50 w-25-ns mv2 ph2">
+      <div class="w-50 w-third-ns w-20-l mv2 ph2">
 
         <a href="{{ pick.url }}" class="db underline-hover blue">
 

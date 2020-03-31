@@ -23,6 +23,46 @@ hnav: elibrary
   link-color="custom-corporate"
 %}
 
+<div class="ph2 ph3-ns pv3 bg-light-gray">
+
+  <h2 class="f3 custom-lh-title mb1 tc pa0">eLibrary staff picks</h2>
+
+  <p class="tc f6 mt0">A collection of recommendations, lists and articles from our staff for reading online. Perfect for if you’re stuck at home.</p>
+
+  <div class="flex flex-wrap jutify-start">
+
+    {% assign picks = site.elibrary-recommendations | reverse %}
+
+    {% for pick in picks limit:5 %}
+
+      <div class="w-50 w-third-ns w-20-l mv2 ph2">
+
+        <a href="{{ pick.url }}" class="db underline-hover blue">
+
+          <img class="db ma0 pa0" alt="{{ pick.alt }}" src="{{ pick.image }}">
+
+          <h3 class="f6 f5-l mv1 pa0 custom-lh-title normal tc blue">{{ pick.title }}</h3>
+
+        </a>
+
+      </div>
+
+    {% endfor %}
+
+  </div>
+
+  <p class="tc b"><a href="/elibrary/picks/" class="white bg-blue hover-bg-dark-blue pa2 br2">All staff picks &rarr;</a></p>
+
+</div>
+
+<div class="ph2 ph3-ns pv3">
+
+  <h2 class="f3 custom-lh-title mb1 tc pa0">Set up services on your device</h2>
+
+  <p class="tc f6 mt0">Works with ereaders, Mac and Windows PCs, Android phones and tablets and iPhones and iPads&hellip;</p>
+
+</div>
+
 {%
   include z-bar.html
   src="borrower/libby.jpg"
@@ -88,35 +128,3 @@ hnav: elibrary
   link-text="Get started with Freegal &rarr;"
   link-color="white"
 %}
-
-<div class="ph2 ph3-ns pv3 bg-near-white">
-
-  <h2 class="f3 custom-lh-title mb1 tc">eLibrary staff picks</h2>
-
-  <p class="tc">A collection of recommendations, lists and articles from our staff for reading online. Perfect for if you’re stuck at home.</p>
-
-  <div class="flex flex-wrap jutify-start">
-
-    {% assign picks = site.elibrary-recommendations | reverse %}
-
-    {% for pick in picks limit:4 %}
-
-      <div class="w-50 w-25-ns mv2 ph2">
-
-        <a href="{{ pick.url }}" class="db underline-hover blue">
-
-          <img class="db ma0 pa0" alt="{{ pick.alt }}" src="{{ pick.image }}">
-
-          <h3 class="f6 f5-l mv1 pa0 custom-lh-title normal tc blue">{{ pick.title }}</h3>
-
-        </a>
-
-      </div>
-
-    {% endfor %}
-
-  </div>
-
-  <p class="tc b"><a href="/elibrary/picks/" class="white bg-blue hover-bg-dark-blue pa2 br2">All staff picks &rarr;</a></p>
-
-</div>
