@@ -7,4 +7,5 @@ location: chantry-library
 location-display-name: Chantry Library
 category: children
 link: https://www.facebook.com/ChantryLibrary/
+live: true
 ---

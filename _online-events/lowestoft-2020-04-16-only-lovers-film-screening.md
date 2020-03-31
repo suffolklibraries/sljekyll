@@ -7,6 +7,7 @@ start-time: 2030
 end-time: 2230
 link: https://www.facebook.com/events/207107270558714/
 category: discussion
+live: true
 ---
 
 <cite>Only Lovers Left Alive</cite> is available from our [Kanopy eLibrary service](/elibrary/kanopy/).

@@ -6,6 +6,7 @@ start-date: 2020-03-30
 end-date: 2020-04-02
 link: https://www.facebook.com/events/251432832550487/
 category: discussion
+format: discussion
 ---
 
 <cite>A Man Called Ove</cite> is available from our [Kanopy eLibrary service](/elibrary/kanopy/).

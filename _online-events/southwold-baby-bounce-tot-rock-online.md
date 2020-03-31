@@ -8,4 +8,5 @@ location-display-name: Southwold Library
 location-display-url: /branches/southwold-library/
 category: children
 link: https://www.facebook.com/southwoldlibrary
+live: true
 ---

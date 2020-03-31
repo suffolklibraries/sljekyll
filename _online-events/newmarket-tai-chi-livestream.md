@@ -7,4 +7,5 @@ location: newmarket-library
 location-display-name: Newmarket Library
 link: https://www.facebook.com/NewmarketLibrary
 category: health
+live: true
 ---

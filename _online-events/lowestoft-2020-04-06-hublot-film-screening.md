@@ -6,6 +6,7 @@ start-date: 2020-04-06
 end-date: 2020-04-09
 link: https://www.facebook.com/events/547260642570032/
 category: children
+format: discussion
 ---
 
 <cite>Mr Hublot</cite> is available from our [Kanopy eLibrary service](/elibrary/kanopy/).

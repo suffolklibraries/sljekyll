@@ -1,0 +1,47 @@
+---
+title: "Recorded events and activities"
+layout: new-blank
+breadcrumb: home
+pad-content: true
+jquery: true
+ling: true
+---
+
+<h1 class="f3 f2-ns custom-lh-title">Recorded events and activities</h1>
+
+<div class="mv3 f6 pb2 bb b--light-gray" id="event-cats">
+
+    <div class="db dib-ns mb2 mb0-ns mr2-ns">Filter recordings: </div>
+
+    <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns mr2-ns" data-tag="all" href="#">All</a>
+    <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns mr2-ns" data-tag="children" href="#">Children</a>
+
+</div>
+
+<div id="all-events" class="flex-l flex-wrap-l justify-start-l">
+
+{% assign events = site.online-events | where: "recording", "true" | sort: "title" %}
+
+{% for event in events %}
+
+  <article class="mv3 pb1 w-50-l ph2-l" data-category="{% for cat in event.category %}{{ cat }}{% endfor %}">
+
+    {% if event.service == "youtube" %}
+
+      <div class="custom-constrain">
+
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ event.web-link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+      </div>
+
+    {% endif %}
+
+    <h2 class="f5 custom-lh-title mv1 pa0">{{ event.title | strip_html }}</h2>
+
+    <p class="mv1 f6 custom-links">{% if event.description %}{{ event.description }}{% endif %}</p>
+
+  </article>
+
+{% endfor %}
+
+</div>

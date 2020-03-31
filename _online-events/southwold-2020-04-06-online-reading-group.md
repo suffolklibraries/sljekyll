@@ -7,6 +7,7 @@ start-time: 1900
 link: https://www.facebook.com/southwoldlibrary
 online: true
 category: discussion
+format: discussion
 ---
 
 Join us in reading [<cite>"Three Men in a Boat"</cite>](https://suffolklibraries.overdrive.com/media/787026) by Jerome K Jerome.

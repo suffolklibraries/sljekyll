@@ -12,74 +12,36 @@ jquery: true
 ling: true
 ---
 
-<div class="mv3 f6 pb2 bb b--light-gray" id="event-cats">
+<div class="flex flex-wrap justify-start">
 
-    <div class="db dib-ns mb2 mb0-ns mr2-ns">Filter events: </div>
+  <div class="ph2 mv2 w-50 w-third-ns">
 
-    <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns mr2-ns" data-tag="all" href="#">All</a>
-    <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns mr2-ns" data-tag="children" href="#">Children</a>
-    <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns mr2-ns" data-tag="quiz" href="#">Quizzes</a>
-    <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns mr2-ns" data-tag="discussion" href="#">Book/film groups</a>
-    <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns" data-tag="health" href="#">Health & wellbeing</a>
+      <h2 class="f4 custom-lh-title pa0 mh0 mb1"><a href="/events-activities/online-and-streamed-events/live/" class="db blue hover-underline">Live streamed events</a></h2>
 
-</div>
+      <a class="db ba bw2 b--light-gray pa0 border-box" href="/events-activities/online-and-streamed-events/live/"><img class="db" src="/images/events/kesgrave-stream.jpg" alt="Child playing in front of a TV live stream."></a>
 
-<div id="all-events">
+      <p class="mb0 mt1">Events and activities streamed from library staff to your device.</p>
 
-{% assign events = site.online-events | sort: "title" %}
+  </div>
 
-{% for event in events %}
+  <div class="ph2 mv2 w-50 w-third-ns">
 
-{% if event.start-date %}
+    <h2 class="f4 custom-lh-title pa0 mh0 mb1"><a href="/events-activities/online-and-streamed-events/book-and-film-groups/" class="db blue hover-underline">Online book & film groups</a></h2>
 
-  {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+    <a class="db ba bw2 b--light-gray pa0 border-box" href="/events-activities/online-and-streamed-events/book-and-film-groups/"><img class="db" src="/images/events/ove.jpg" alt="Screenshot of a Man Called Ove Facebook event."></a>
 
-  {% if event.end-date %}
+    <p class="mb0 mt1">Discuss books and films online with library staff and other people.</p>
 
-      {% capture event-time-seconds %}{{event.end-date | date: '%s' }}{% endcapture %}
+  </div>
 
-  {% else %}
+  <div class="ph2 mv2 w-50 w-third-ns">
 
-      {% capture event-time-seconds %}{{event.start-date | date: '%s' }}{% endcapture %}
+    <h2 class="f4 custom-lh-title pa0 mh0 mb1"><a href="/events-activities/online-and-streamed-events/recordings/" class="db blue hover-underline">Recordings</a></h2>
 
-  {% endif %}
+    <a class="db ba bw2 b--light-gray pa0 border-box" href="/events-activities/online-and-streamed-events/recordings/"><img class="db" src="/images/events/sudbury-live.jpg" alt="Woman playing a guitar with some duck emojis above her head."></a>
 
-  {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+    <p class="mb0 mt1">Events, stories and singalongs to catch up with whenever you want.</p>
 
-  {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
-
-  {% if now-unix <= event-time %}
-
-    <article class="mv3 pb1" data-category="{% for cat in event.category %}{{ cat }}{% endfor %}">
-
-      <h2 class="f4 custom-lh-title mt0 mb1 pa0"><a href="{{ event.url }}" class="blue underline-hover">{{ event.title }}</a></h2>
-
-      <p class="f6 mv1">{{ event.start-date | date: "%a %-d %b, %Y" }}{% if event.end-date and event.end-date > event.start-date %} – {{ event.end-date | date: "%a %-d %b, %Y" }}{% endif %}{% if event.start-time %} – {{ event.start-time }}{% endif %}{% if event.end-time %} – {{ event.end-time }}{% endif %}{% if event.category %} <span class="pa1 bg-light-gray br2">{{ event.category }}</span>{% endif %}</p>
-
-      <p class="mv1 f6 custom-links">{{ event.excerpt | markdownify | remove: "<p>" | remove: "</p>" | truncatewords: 10 }} <a href="{{ event.url }}" class="blue underline">More info</a></p>
-
-      <p class="f6 mt0"><a href="{{ event.link }}" class="b blue underline">Join &rarr;</a></p>
-
-    </article>
-
-  {% endif %}
-
-{% else %}
-
-  <article class="mv3 pb1" data-category="{% for cat in event.category %}{{ cat }}{% endfor %}">
-
-    <h2 class="f4 custom-lh-title mt0 mb1 pa0"><a href="{{ event.url }}" class="blue underline-hover">{{ event.title }}</a></h2>
-
-    <p class="f6 mv1">{{ event.day }}{% if event.times %} – {{ event.times }}{% endif %}{% if event.category %} <span class="pa1 bg-light-gray br2">{{ event.category }}</span>{% endif %}</p>
-
-    <p class="mv1 f6 custom-links">{% if event.description %}{{ event.description | truncatewords: 10 }} {% endif %}<a href="{{ event.url }}" class="blue underline">More info</a></p>
-
-    <p class="f6 mt0"><a href="{{ event.link }}" class="b blue underline">Join &rarr;</a></p>
-
-  </article>
-
-{% endif %}
-
-{% endfor %}
+  </div>
 
 </div>

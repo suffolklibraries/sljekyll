@@ -6,6 +6,7 @@ start-date: 2020-04-02
 end-date: 2020-04-06
 link: https://www.facebook.com/events/524054304918088/
 category: discussion
+format: discussion
 ---
 
 <cite>Llama Nation</cite> is available from our [Kanopy eLibrary service](/elibrary/kanopy/).

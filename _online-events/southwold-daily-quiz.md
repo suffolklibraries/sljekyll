@@ -8,4 +8,5 @@ location-display-name: Southwold Library
 location-display-url: /branches/southwold-library/
 category: quiz
 link: https://www.facebook.com/southwoldlibrary/
+live: true
 ---
