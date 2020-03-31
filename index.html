@@ -66,6 +66,46 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
 </div>
 
+<div class="ph2 ph3-ns pv3 custom-bg-corporate white">
+
+  <h2 class="f3 custom-lh-title mb1 tc">Latest videos</h2>
+
+  <p class="tc">Enjoy library activities, events and kids singalongs at home.</p>
+
+  <div class="flex-ns flex-wrap-ns justify-start-ns">
+
+    {% assign events = site.online-events | where: "recording", "true" | sort: "title" %}
+
+    {% for event in events limit:3 %}
+
+      <article class="mv3 pb1 w-50-ns w-third-l ph2-ns" data-category="{% for cat in event.category %}{{ cat }}{% endfor %}">
+
+        {% if event.service == "youtube" %}
+
+          <div class="custom-constrain">
+
+            <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ event.web-link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+          </div>
+
+        {% endif %}
+
+        <h2 class="f6 tc normal custom-lh-title mv1 pa0">{{ event.title | strip_html }}</h2>
+
+        <p class="mv1 f6 custom-links">{% if event.description %}{{ event.description }}{% endif %}</p>
+
+      </article>
+
+    {% endfor %}
+
+  </div>
+
+  <p class="tc b"><a href="/events-activities/online-and-streamed-events/recordings/" class="white bg-blue hover-bg-dark-blue pa2 br2">All videos &rarr;</a></p>
+
+</div>
+
+
+
 <div class="flex-l flex-wrap-l justify-between-l pv3 ph2 ph3-ns">
 
   <div class="w-30-l">
