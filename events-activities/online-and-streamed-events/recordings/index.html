@@ -36,9 +36,7 @@ ling: true
 
     {% endif %}
 
-    <h2 class="f5 custom-lh-title mv1 pa0">{{ event.title | strip_html }}</h2>
-
-    <p class="mv1 f6 custom-links">{% if event.description %}{{ event.description }}{% endif %}</p>
+    <h2 class="f5 custom-lh-title mv1 pa0"><a href="{{ event.url }}" class="blue underline-hover">{{ event.title | strip_html }}</a></h2>
 
   </article>
 

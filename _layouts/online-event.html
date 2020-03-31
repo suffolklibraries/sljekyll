@@ -14,37 +14,55 @@
 
       <h1 class="f3 custom-lh-title mb2">{{ page.title }}</h1>
 
-      {% if page.start-date %}
+      {% if page.recording %}
 
-        <p class="f6 mb1">{{ page.start-date | date: "%a %-d %b, %Y" }}{% if page.end-date and page.end-date > page.start-date %} – {{ page.end-date | date: "%a %-d %b, %Y" }}{% endif %}</p>
+      <div class="custom-constrain">
 
-      {% else %}
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ page.web-link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-        <p class="f6 mb1">{{ page.day }}{% if page.times %} – {{ page.times }}{% endif %}</p>
-
-      {% endif %}
-
-      {% if page.location-display-name %}
-
-      <p class="f6 mb1 mt0">Run by {{ page.location-display-name }}</p>
-
-      {% else %}
-
-      <p class="f6 mb1 mt0">Run by {{ page.location-text }}</p>
-
-      {% endif %}
-
-      <p><a href="{{ page.link }}" class="blue underline b">Join this event online &rarr;</a></p>
+      </div>
 
       <div class="measure custom-visited">
 
-      {% if page.description %}
+        {{ content }}
 
-      <p>{{ page.description }}</p>
+      </div>
 
       {% else %}
 
-      {{ content }}
+        {% if page.start-date %}
+
+          <p class="f6 mb1">{{ page.start-date | date: "%a %-d %b, %Y" }}{% if page.end-date and page.end-date > page.start-date %} – {{ page.end-date | date: "%a %-d %b, %Y" }}{% endif %}</p>
+
+        {% else %}
+
+          <p class="f6 mb1">{{ page.day }}{% if page.times %} – {{ page.times }}{% endif %}</p>
+
+        {% endif %}
+
+        {% if page.location-display-name %}
+
+        <p class="f6 mb1 mt0">Run by {{ page.location-display-name }}</p>
+
+        {% else %}
+
+        <p class="f6 mb1 mt0">Run by {{ page.location-text }}</p>
+
+        {% endif %}
+
+        <p><a href="{{ page.link }}" class="blue underline b">Join this event online &rarr;</a></p>
+
+        <div class="measure custom-visited">
+
+        {% if page.description %}
+
+        <p>{{ page.description }}</p>
+
+        {% else %}
+
+        {{ content }}
+
+        {% endif %}
 
       {% endif %}
 
