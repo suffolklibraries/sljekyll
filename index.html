@@ -6,105 +6,127 @@ meta-title: "Home"
 meta-description: "Reserve and renew titles, download eBooks, eAudio and music, and find libraries and events"
 ---
 
-{%
-  include z-bar.html
-  src="borrower/ebook.jpg"
-  alt="Man in a suit reading an eBook."
-  bg-color="bg-white"
-  color="dark-gray"
-  title="eLibrary"
-  small-text="true"
-  text="Free access to thousands of the latest eBooks, eAudio titles, magazines, newspapers, films, courses and streaming. For children and adults."
-  link="/elibrary/"
-  link-text="Get set up with the eLibrary now &rarr;"
-  link-color="custom-corporate"
-%}
+<div class="flex-l flex-wrap-l bb b--moon-gray">
 
-{%
-  include z-bar.html
-  src="home/online.jpg"
-  alt="A child watching a man playing a guitar on a TV."
-  bg-color="custom-bg-corporate"
-  color="white"
-  title="Online events, activities & groups"
-  small-text="true"
-  text="Enjoy library live streams, recorded events and book & film groups from your home."
-  link="/events-activities/online-and-streamed-events/"
-  link-text="Find an online activity &rarr;"
-  link-color="white"
-%}
+  <div class="w-50-l flex bb b--moon-gray bn-l">
 
-<div class="ph2 ph3-ns pv3 bg-near-white">
+    <a href="/elibrary/" class="w-third pa2 pa3-ns flex items-center">
 
-  <h2 class="f3 custom-lh-title mb1 tc">eLibrary staff picks</h2>
+      <img src="/images/icons/essential-icons/smartphone-1.svg" alt="Phone" class="db mw3 center">
 
-  <p class="tc">A collection of recommendations, lists and articles from our staff for reading online. Perfect for if you’re stuck at home.</p>
+    </a>
 
-  <div class="flex flex-wrap justify-start">
+    <div class="w-two-thirds pa2 pa3-ns">
 
-    {% assign picks = site.elibrary-recommendations | reverse%}
+      <a href="/elibrary/" class="db blue">
 
-    {% for pick in picks limit:5 %}
+        <h2 class="f4 custom-lh-title pa0 mt0 mb1">eLibrary</h2>
 
-      <div class="w-50 w-third-ns w-20-l mv2 ph2">
+        <p class="ma0 f5 dark-gray">eBooks, eAudio, films, documentaries, courses, streaming.</p>
 
-        <a href="{{ pick.url }}" class="db underline-hover blue">
+      </a>
 
-          <img class="db ma0 pa0" alt="{{ pick.alt }}" src="{{ pick.image }}">
-
-          <h3 class="f6 f5-l mv1 pa0 custom-lh-title normal tc blue">{{ pick.title }}</h3>
-
-        </a>
-
-      </div>
-
-    {% endfor %}
+    </div>
 
   </div>
 
-  <p class="tc b"><a href="/elibrary/picks/" class="white bg-blue hover-bg-dark-blue pa2 br2">All staff picks &rarr;</a></p>
+  <div class="w-50-l flex bl-l b--moon-gray">
 
-</div>
+    <a href="/elibrary/" class="w-third pa2 pa3-ns flex items-center">
 
-<div class="ph2 ph3-ns pv3 custom-bg-corporate white">
+      <img src="/images/icons/essential-icons/video-player.svg" alt="Video player" class="db mw3 center">
 
-  <h2 class="f3 custom-lh-title mb1 tc">Latest videos</h2>
+    </a>
 
-  <p class="tc">Enjoy library activities, events and kids singalongs at home.</p>
+    <div class="w-two-thirds pa2 pa3-ns">
 
-  <div class="flex-ns flex-wrap-ns justify-start-ns">
+      <a href="/elibrary" class="db blue">
 
-    {% assign events = site.online-events | where: "featured-recording", "true" %}
+        <h2 class="f4 custom-lh-title pa0 mt0 mb1">Online groups & activities</h2>
 
-    {% for event in events limit:3 %}
+        <p class="ma0 f5 dark-gray">Library streams and recordings: Tot Rock, podcasts, workshops.</p>
 
-      <article class="mv3 pb1 w-50-ns w-third-l ph2-ns" data-category="{% for cat in event.category %}{{ cat }}{% endfor %}">
+      </a>
 
-        {% if event.service == "youtube" %}
-
-          <div class="custom-constrain">
-
-            <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ event.link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-          </div>
-
-        {% endif %}
-
-        <h2 class="f6 tc normal custom-lh-title mv1 pa0">{{ event.title | strip_html }}</h2>
-
-        <p class="mv1 f6 custom-links">{% if event.description %}{{ event.description }}{% endif %}</p>
-
-      </article>
-
-    {% endfor %}
+    </div>
 
   </div>
 
-  <p class="tc b"><a href="/events-activities/online-and-streamed-events/recordings/" class="white bg-blue hover-bg-dark-blue pa2 br2">All videos &rarr;</a></p>
-
 </div>
 
+<div class="flex-l flex-wrap-l">
 
+  <div class="ph2 ph3-ns pv3 bg-near-white w-50-l">
+
+    <h2 class="f4 custom-lh-title mb1 pa0">eLibrary staff picks</h2>
+
+    <p class="f6">A collection of recommendations, lists and articles from our staff for reading online. Perfect for if you’re stuck at home.</p>
+
+    <div class="flex flex-wrap justify-start">
+
+      {% assign picks = site.elibrary-recommendations | reverse%}
+
+      {% for pick in picks limit:4 %}
+
+        <div class="w-50 mv2 ph2">
+
+          <a href="{{ pick.url }}" class="db underline-hover blue">
+
+            <img class="db ma0 pa0" alt="{{ pick.alt }}" src="{{ pick.image }}">
+
+            <h3 class="f6 mv1 pa0 custom-lh-title normal tc blue">{{ pick.title }}</h3>
+
+          </a>
+
+        </div>
+
+      {% endfor %}
+
+    </div>
+
+    <p class="b"><a href="/elibrary/picks/" class="white bg-blue hover-bg-dark-blue pa2 br2">All staff picks &rarr;</a></p>
+
+  </div>
+
+  <div class="ph2 ph3-ns pv3 bg-near-white w-50-l w-50-l">
+
+    <h2 class="f4 custom-lh-title mb1 pa0">Latest videos</h2>
+
+    <p class="f6">Enjoy library activities, events and kids singalongs at home.</p>
+
+    <div class="flex-ns flex-wrap-ns justify-start-ns">
+
+      {% assign events = site.online-events | where: "featured-recording", "true" %}
+
+      {% for event in events limit:3 %}
+
+        <article class="mv3 pb1 w-50-ns w-third-l ph2-ns" data-category="{% for cat in event.category %}{{ cat }}{% endfor %}">
+
+          {% if event.service == "youtube" %}
+
+            <div class="custom-constrain">
+
+              <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ event.link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+            </div>
+
+          {% endif %}
+
+          <h2 class="f6 normal custom-lh-title mv1 pa0">{{ event.title | strip_html }}</h2>
+
+          <p class="mv1 f6 custom-links">{% if event.description %}{{ event.description }}{% endif %}</p>
+
+        </article>
+
+      {% endfor %}
+
+    </div>
+
+    <p class="tc b"><a href="/events-activities/online-and-streamed-events/recordings/" class="white bg-blue hover-bg-dark-blue pa2 br2">All videos &rarr;</a></p>
+
+  </div>
+
+</div>
 
 <div class="flex-l flex-wrap-l justify-between-l pv3 ph2 ph3-ns">
 
