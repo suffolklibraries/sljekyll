@@ -2,6 +2,8 @@
 
 ## Introduction
 
+The website uses what are called Markdown files to generate pages for events, picks and recordings (e.g. https://www.suffolklibraries.co.uk/events-activities/online-and-streamed-events/2020-04-02-sudbury-old-macdonald), and listing pages (e.g. https://www.suffolklibraries.co.uk/elibrary/picks/). Markdown is plain text and human readable.
+
 Markdown files consist of two parts:
 
 ### 1. YAML
