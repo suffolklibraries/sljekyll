@@ -4,7 +4,7 @@
 
 Markdown files consist of two parts:
 
-1. YAML
+### 1. YAML
 
 YAML is data _about_ whatever it is we’re publishing. So it could be publication date, location of an event, its start time etc.
 
@@ -13,13 +13,13 @@ YAML has simple syntax rules:
 - It starts with three dashes on a separate line ---
 - It ends with three dashes on a separate line ---
 
-The data itself takes the form of key value pairs separated by a colon, e.g.
+The data itself takes the form of key/value pairs separated by a colon, e.g.
 
-`title: "The man whose head expanded: A history of The Fall"`
-`author: Leon Paternoster`
-`start-time: 1530`
-`start-date: 2020-04-20`
-`days: Mon-Thu`
+- `title: "The man whose head expanded: A history of The Fall"`
+- `author: Leon Paternoster`
+- `start-time: 1530`
+- `start-date: 2020-04-20`
+- `days: Mon-Thu`
 
 Note the quotes in the first example. They’re used when something in the data might confuse the syntax. In this case the colon in `The man whose head expanded: A history of The Fall` would confuse the colon after `title`.
 
@@ -29,9 +29,9 @@ If a key has more than one value, use this syntax:
 
 `categories: ["children", "film-club", "screening"]`
 
-2. The content
+### 2. The content
 
-This is the the actual content itself. Note that some data doesn’t require content – it’s just a list of data items.
+This is the the actual content itself. Note that some events and picks don’t require content – they’re just a list of data items.
 
 Examples of content include a news story and a long description of an event. Generally, content will consist of several paragraphs, and may have headings and similar – it’s prose.
 
@@ -75,3 +75,9 @@ Note that one off events can have either a `live` or `discussion` format
 	- `youtube`
 	- `facebook`
 	- `soundcloud`
+
+## Examples of Markdown files
+
+- [A one-off online streamed event](https://raw.githubusercontent.com/suffolklibraries/sljekyll/master/_online-events/lowestoft-2020-04-02-llama-film-screening.md)
+- [A recurring streamed event](https://raw.githubusercontent.com/suffolklibraries/sljekyll/master/_online-events/kesgrave-wordplay-livestream.md)
+- [A YouTube recording](https://raw.githubusercontent.com/suffolklibraries/sljekyll/master/_online-events/2020-03-29-newmarket-wordplay-video.md)
