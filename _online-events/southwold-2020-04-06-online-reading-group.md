@@ -6,7 +6,7 @@ start-date: 2020-04-06
 start-time: 1900
 link: https://www.facebook.com/southwoldlibrary
 online: true
-category: book-group
+category: group
 format: discussion
 ---
 

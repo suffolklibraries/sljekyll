@@ -20,7 +20,7 @@ ling: true
 
 <div id="all-events" class="flex-ns flex-wrap-ns justify-start-ns">
 
-{% assign events = site.online-events | where: "format", "recording" | sort: "title" %}
+{% assign events = site.online-events | where: "format", "recording" | reverse %}
 
 {% for event in events %}
 

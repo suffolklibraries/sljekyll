@@ -5,7 +5,7 @@ location-text: Lowestoft Library
 start-date: 2020-04-02
 end-date: 2020-04-06
 link: https://www.facebook.com/events/524054304918088/
-category: discussion
+category: group
 format: discussion
 ---
 

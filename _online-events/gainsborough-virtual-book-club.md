@@ -5,7 +5,7 @@ description: "A friendly, social, online group to share your thoughts and feelin
 location: gainsborough-community-library
 location-display-name: Gainsborough Community Library
 location-display-url: /branches/gainsborough-community-library/
-category: discussion
+category: group
 link: https://www.facebook.com/groups/1034718386929165
 format: discussion
 ---
