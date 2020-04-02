@@ -23,7 +23,7 @@ ling: true
 
 <div id="all-events">
 
-{% assign events = site.online-events | where: "live", "true" | sort: "title" %}
+{% assign events = site.online-events | where: "format", "live" | sort: "title" %}
 
 {% for event in events %}
 

@@ -8,5 +8,5 @@ location-display-name: Kesgrave Library
 location-display-url: /branches/kesgrave-library/
 category: children
 link: https://www.facebook.com/Kesgravelibrary/
-live: true
+format: live
 ---

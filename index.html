@@ -74,7 +74,7 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
   <div class="flex-ns flex-wrap-ns justify-start-ns">
 
-    {% assign events = site.online-events | where: "recording", "true" | sort: "title" %}
+    {% assign events = site.online-events | where: "featured-recording", "true" %}
 
     {% for event in events limit:3 %}
 

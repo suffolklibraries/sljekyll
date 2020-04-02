@@ -6,7 +6,7 @@ start-date: 2020-03-30
 start-time: 1500
 link: https://www.facebook.com/events/879528742512236/
 category: children
-live: true
+format: live
 ---
 
 <cite>Don't let the pigeon drive the bus</cite> is available from our [Kanopy eLibrary service](/elibrary/kanopy/).

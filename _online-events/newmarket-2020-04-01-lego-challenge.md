@@ -1,5 +1,5 @@
 ---
-name: "30 day LEGO challenge"
+title: "30 day LEGO challenge"
 location: newmarket-library
 location-text: Newmarket Library
 start-date: 2020-04-01

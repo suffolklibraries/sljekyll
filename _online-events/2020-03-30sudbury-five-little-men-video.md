@@ -2,7 +2,7 @@
 title: "<cite>5 Little Men</cite> singalong"
 location: sudbury-library
 category: children
-recording: true
+format: recording
 service: youtube
 web-link: 7nnSbsZ4xMY
 ---

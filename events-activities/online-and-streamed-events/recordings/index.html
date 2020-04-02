@@ -18,13 +18,13 @@ ling: true
 
 </div>
 
-<div id="all-events" class="flex-l flex-wrap-l justify-start-l">
+<div id="all-events" class="flex-ns flex-wrap-ns justify-start-ns">
 
-{% assign events = site.online-events | where: "recording", "true" | sort: "title" %}
+{% assign events = site.online-events | where: "format", "recording" | sort: "title" %}
 
 {% for event in events %}
 
-  <article class="mv3 pb1 w-50-l ph2-l" data-category="{% for cat in event.category %}{{ cat }}{% endfor %}">
+  <article class="mv3 pb1 w-50-ns w-third-l ph2-ns" data-category="{% for cat in event.category %}{{ cat }}{% endfor %}">
 
     {% if event.service == "youtube" %}
 
