@@ -34,6 +34,14 @@ ling: true
 
       </div>
 
+    {% elsif event.service == "facebook" %}
+
+      <div class="custom-constrain">
+
+        <iframe src="{{ event.web-link }}" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+      </div>
+
     {% endif %}
 
     <h2 class="f5 custom-lh-title mv1 pa0"><a href="{{ event.url }}" class="blue underline-hover">{{ event.title | strip_html }}</a></h2>

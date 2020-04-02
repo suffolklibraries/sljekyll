@@ -16,11 +16,23 @@
 
       {% if page.format == "recording" %}
 
+      {% if page.service == "youtube" %}
+
       <div class="custom-constrain">
 
         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ page.web-link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       </div>
+
+      {% elsif page.service == "facebook" %}
+
+        <div class="custom-constrain">
+
+          <iframe src="{{ page.web-link }}" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+        </div>
+
+      {% endif %}
 
       <div class="measure custom-visited">
 
