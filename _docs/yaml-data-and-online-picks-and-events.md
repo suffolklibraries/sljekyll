@@ -104,4 +104,10 @@ Here’s the data you’ll need to supply:
 - `image`: a URL to an image. Note the image should be 510x680px and this URL will take the format `/images/elibrary/filename.jpg/` Supply the image in the `images` folder in the `Web posts for uploads` Dropbox folder.
 - `alt`: Screenreader alt text for the image
 - `service`: The service(s) where you can find the eLibrary resource. Type as you’d like it displayed, e.g. `BorrowBox` not `borrowbox`. If there’s more than one use the `service: ["OverDrive", "BorrowBox"]` format
--
+- `category`: Choose one of:
+	- `eAudio`
+	- `eBook`
+	- `film`
+	- `music`
+	- `newspaper`
+	- `magazine`
