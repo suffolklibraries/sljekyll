@@ -56,7 +56,7 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
     <div class="flex flex-wrap justify-start">
 
-      {% assign picks = site.elibrary-recommendations | reverse%}
+      {% assign picks = site.elibrary-recommendations | where: "featured-pick", "true" | reverse %}
 
       {% for pick in picks limit:4 %}
 

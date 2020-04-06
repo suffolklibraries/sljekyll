@@ -102,7 +102,7 @@ hnav: elibrary
 
   <div class="flex flex-wrap jutify-start">
 
-    {% assign picks = site.elibrary-recommendations | reverse %}
+    {% assign picks = site.elibrary-recommendations | where: "featured-pick", "true" | reverse %}
 
     {% for pick in picks limit:5 %}
 

@@ -5,6 +5,7 @@ image: /images/elibrary/harry-potter.jpg
 alt: "Harry Potter and the Philosopher's Stone"
 service: Overdrive
 category: ["eBook", "eAudio"]
+featured-pick: true
 ---
 
 Access our brand new Harry Potter Unlimited collection on Overdrive, recently announced by [Pottermore Publishing](https://www.wizardingworld.com/news/introducing-hp-at-home) where our customers will be able to borrow any Harry Potter title as an eBook or eAudiobook in over 20 languages with no queue!
