@@ -1,0 +1,33 @@
+---
+layout: new-blank
+title: Staff picks
+breadcrumb: elibrary
+pad-content: true
+hnav: elibrary
+---
+
+<h1 class="f3 f2-ns custom-lh-title mb1 tc">eLibrary staff picks</h1>
+
+<p class="tc">A collection of recommendations, lists and articles from our staff for reading online. Perfect for if you’re stuck at home.</p>
+
+<div class="flex flex-wrap justify-start">
+
+  {% assign picks = site.elibrary-recommendations | reverse %}
+
+  {% for pick in picks %}
+
+    <div class="w-50 w-third-ns w-20-l mv2 ph2">
+
+      <a href="{{ pick.url }}" class="db underline-hover blue">
+
+        <img class="db ma0 pa0" alt="{{ pick.alt }}" src="{{ pick.image }}">
+
+        <h2 class="f6 f5-l mv1 pa0 custom-lh-title normal tc blue">{{ pick.title }}</h2>
+
+      </a>
+
+    </div>
+
+  {% endfor %}
+
+</div>

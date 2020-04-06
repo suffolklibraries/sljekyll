@@ -12,6 +12,36 @@ breadcrumb: home
 
 </div>
 
+<div class="ph2 ph3-ns pv3 bg-near-white">
+
+  <h2 class="f3 custom-lh-title mb1 tc">eLibrary staff picks</h2>
+
+  <p class="tc">A collection of recommendations, lists and articles from our staff for reading online. Perfect for if you’re stuck at home.</p>
+
+  <div class="flex flex-wrap justify-around justify-between-ns">
+
+    {% for pick in site.elibrary-recommendations limit:4 %}
+
+      <div class="w-40 w-20-ns mv2">
+
+        <a href="{{ pick.url }}" class="db underline-hover blue">
+
+          <img class="db ma0 pa0" alt="{{ pick.alt }}" src="{{ pick.image }}">
+
+          <h3 class="f6 f5-l mv1 pa0 custom-lh-title normal tc blue">{{ pick.title }}</h3>
+
+        </a>
+
+      </div>
+
+    {% endfor %}
+
+  </div>
+
+  <p class="tc b"><a href="/elibrary/picks/" class="blue bg-light-gray hover-bg-near-white ba b--moon-gray pa2 br2">All staff picks &rarr;</a></p>
+
+</div>
+
 <div class="custom-flex-container">
 
 {% for current in site.data.cats-suggestions %}

@@ -21,7 +21,7 @@ layout: blank
 
             <li>Mon 30 March - Fri 3 April 2020</li>
             <li>Bury St Edmunds Library</li>
-            <li>£500 fee, lunch provided by Suffolk Libraries</li>
+            <li>Artists will be paid £500, lunch provided by Suffolk Libraries</li>
 
           </ul>
 
@@ -45,7 +45,7 @@ layout: blank
 
             <p>We are inviting six local artists to come and use <a href="/libraries/bury-st-edmunds-library/" class="blue underline">Bury St Edmunds Library</a> as a workspace to explore the role creativity plays as catalyst for nurturing confidence and wellbeing in the community. During the residency artists will be given the opportunity to examine their role as creative practitioners in community settings, and explore their practice through the theme of gender equality.</p>
 
-            <p>In spring 2020, the British Library presents <a href="https://www.bl.uk/events/unfinished-business">Unfinished Business: The Fight for Women’s Rights</a>. The exhibition will explore how contemporary fights for gender equality and liberation in the UK have their roots in the long and complex history of women’s activism and campaigning. It will include items ranging from personal diaries, letters, banners and protest fashion, to subversive literature, film, music and art.</p>
+            <p>In spring 2020, the British Library presents <a class="blue underline" href="https://www.bl.uk/events/unfinished-business">Unfinished Business: The Fight for Women’s Rights</a>. The exhibition will explore how contemporary fights for gender equality and liberation in the UK have their roots in the long and complex history of women’s activism and campaigning. It will include items ranging from personal diaries, letters, banners and protest fashion, to subversive literature, film, music and art.</p>
 
             <p>To coincide with the British Library exhibition, Suffolk Libraries will be hosting pop-up exhibitions and events at <a href="/libraries/ipswich-county-library/">Ipswich County Library</a>, <a href="/libraries/lowestoft-library/">Lowestoft Library</a> and <a href="/libraries/bury-st-edmunds-library">Bury St Edmunds Library</a>. Thus, for this year’s artist residency at Bury St Edmunds Library, we are looking for artists who are keen to create work with roots in community in relation to equality and battles not yet won.</p>
 

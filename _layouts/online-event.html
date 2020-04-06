@@ -1,0 +1,89 @@
+{% include header.html %}
+
+<main class="ph2 ph3-ns pv3 pv4-l bg-moon-gray" id="content" role="main">
+
+  <div class="custom-max-width bg-white">
+
+    {% include breadcrumb.html %}
+
+  </div>
+
+  <article class="bg-white custom-max-width">
+
+    <div class="ph2 ph3-ns pv3 bg-white">
+
+      <h1 class="f3 f2-ns custom-lh-title mb2">{{ page.title }}</h1>
+
+      {% if page.format == "recording" %}
+
+      {% if page.service == "youtube" %}
+
+      <div class="custom-constrain">
+
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ page.link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+      </div>
+
+      {% elsif page.service == "facebook" %}
+
+        <div class="custom-constrain">
+
+          <iframe src="{{ page.link }}" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+        </div>
+
+      {% endif %}
+
+      <div class="measure custom-visited">
+
+        {{ content }}
+
+      </div>
+
+      {% else %}
+
+        {% if page.start-date %}
+
+          <p class="f6 mb1">{{ page.start-date | date: "%a %-d %b, %Y" }}{% if page.end-date and page.end-date > page.start-date %} – {{ page.end-date | date: "%a %-d %b, %Y" }}{% endif %}</p>
+
+        {% else %}
+
+          <p class="f6 mb1">{{ page.day }}{% if page.times %} – {{ page.times }}{% endif %}</p>
+
+        {% endif %}
+
+        {% if page.location-display-name %}
+
+        <p class="f6 mb1 mt0">Run by {{ page.location-display-name }}</p>
+
+        {% else %}
+
+        <p class="f6 mb1 mt0">Run by {{ page.location-text }}</p>
+
+        {% endif %}
+
+        <p><a href="{{ page.link }}" class="blue underline b">Join this event online &rarr;</a></p>
+
+        <div class="measure custom-visited">
+
+        {% if page.description %}
+
+        <p>{{ page.description }}</p>
+
+        {% else %}
+
+        {{ content }}
+
+        {% endif %}
+
+      {% endif %}
+
+      </div>
+
+    </div>
+
+  </article>
+
+</main>
+
+{% include footer.html %}

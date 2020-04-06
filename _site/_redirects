@@ -1,13 +1,11 @@
 /beyond-the-book /schools/online-resources/
 /bookedout /new-suggestions/booked-out
-/bookfest /events-activities/bookfest
 /ceremonies /events-activities/ceremonies
 /charges /help/book-cd-audiobook-game-dvd-borrowing-overdues
 /events-activities/imagination /events-activities/summer-holidays/imagination
 /fowl /about/member-organisations/friends-of-woodbridge-library-fowl
 /help/charges /help/book-cd-audiobook-game-dvd-borrowing-overdues/
 /hub /libraries/hub
-/hubnewsletter http://suffolklibraries.us4.list-manage.com/subscribe?u=8fdb8e824d6cb5f95be2c5b88&id=747a12b906
 /jobs /about/jobs
 /libraries-and-mobiles /mobiles-home
 /literacy /schools/online-resources/
@@ -15,9 +13,7 @@
 /mobiles /mobiles-home
 /myaccount http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB
 /newchapters /health
-/presents /events-activities/presents
 /research /information-resources
-/reading /events-activities/our-year-of-reading
 /slaughter /events-activities/slaughter-in-southwold
 /sls /schools
 /src /events-activities/summer-holidays/summer-reading-challenge/
@@ -122,7 +118,7 @@
 /help/using-library-computers/borrowing-chromebooks /help/using-library-pcs/borrowing-chromebooks/
 /news/youth-council-taster-days/ /news/bloc-news/bloc/youth-council-taster-days/
 /news/bloc-news/youth-council-taster-days/ /news/bloc-news/bloc/youth-council-taster-days/
-/elibrary/pressreader/ /elibrary/press-reader/
+/elibrary/press-reader/ /elibrary/pressreader/
 /super-happy-sunday/ /events-activities/super-happy-sunday/
 /arts/ /bloc/about/
 /health/lists/health-lists/sobs-reading-list/ /health/lists/health-lists/hope-reading-list/
@@ -146,7 +142,6 @@ https://www.suffolklibraries.co.uk/new-suggestions/reviews/staff-picks/my-name-i
 /*/page /:splat/
 /wordplay/ /events-activities/children/pre-school-children/
 /parents-carers-and-children/bookstart-storytime-resources/* /parents-carers-and-children/storytime-resources/:splat
-/winterstory/ /news/winter-storybook-competition/
 /parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/child-family-problems/ /parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/
 /new-suggestions/reviews/genre/ /new-suggestions/reviews/
 /childrens-month/suffolk-libraries-favourite-childrens-books/childrens-ya-books/ /parents-carers-and-children/childrens-ya-books/
@@ -157,5 +152,6 @@ https://www.suffolklibraries.co.uk/new-suggestions/reviews/staff-picks/my-name-i
 /discoverreads/ /discovereads/
 /discover-reads/ /discovereads/
 /parents-carers-and-children/old-index/ /parents-carers-and-children/
+/childrens-month/ /events-activities/childrens-month/
 
 /*   /404/index.html   404

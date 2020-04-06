@@ -37,7 +37,7 @@
 </head>
 
 
-<body class="custom-sans-serif lh-copy dark-gray bg-light-gray">
+<body class="custom-sans-serif lh-copy dark-gray bg-moon-gray">
 
 	<ul class="clip">
 
@@ -50,38 +50,43 @@
 
 	<header id="site-header" class="custom-lh-title">
 
-		<div class="bg-black white ph2 ph3-ns">
+		<div class="bg-white dark-gray ph2 ph3-ns pt2 pt3-ns">
 
-			<div class="custom-max-width flex-l">
+			<div class="custom-max-width flex">
 
-				<div class="pv2 w-50-l overflow-x-auto nowrap custom-overflow-scrolling">
+				<div class="w-30">
 
-						<ul class="ma0 pa0 pt2-l list f6">
-
-							<li class="dib mr2 mr3-ns pv1 pv0-ns"><a href="/" class="moon-gray hover-white no-underline underline-hover pv2 pv1-l"><span class="white fw6">Suffolk</span> <span class="custom-corporate-green normal">Libraries</span></a></li>
-							<li class="dib mr2 mr3-ns pv1 pv0-ns"><a href="/help/" class="moon-gray hover-white no-underline underline-hover pv2 pv1-l">Help</a></li>
-							<li class="dib mr2 mr3-ns pv1 pv0-ns"><a href="/contact/" class="moon-gray hover-white no-underline underline-hover pv2 pv1-l">Contact</a></li>
-							<li class="dib mr2 mr3-ns pv1 pv0-ns"><a href="/about/" class="moon-gray hover-white no-underline underline-hover pv2 pv1-l">About</a></li>
-							<li class="dib mr2 mr3-ns pv1 pv0-ns"><a href="/help/joining-the-library/" class="moon-gray hover-white no-underline underline-hover pv2 pv1-l">Join</a></li>
-							<li class="dib pv1 pv0-ns"><a class="b white no-underline custom-bg-corporate-green hover-bg-green pa1 br2" href="/support-us/">Donate</a></li>
-
-						</ul>
+					<a href="/"><img src="/images/logos/sl.svg" class="v-btm w3 w4-ns" alt="Suffolk Libraries"></a>
 
 				</div>
 
-				<div class="w-50-l flex justify-end-l">
+				<div class="w-70 flex justify-end items-center">
 
-					<form method="get" action="/search" id="search" class="pv2 mt1 w-100 custom-lh-title dark-gray f6 tr-l">
-
-						<input id="s" type="search" name="q" value="" class="custom-webkit-app-none pa1 w-70 ba b--light-silver br2">
-						<input id="searchsubmit" type="submit" value="Search" class="custom-webkit-app-none black pa1 ba b--light-silver br2 bg-light-gray hover-bg-near-white pointer">
-						<input type="hidden" hidden name="sitesearch" value="suffolklibraries.co.uk">
-
-					</form>
-
-					<div class="f6 pv2 ml2 tr-l"><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB" class="dib custom-icon custom-icon-lock-white moon-gray hover-white no-underline underline-hover pv2">Login</a></div>
+					<div><a href="/help/joining-the-library/" class="dib custom-icon custom-icon-card blue underline pv1 pv2-ns f6">Join now</a></div>
+					<div><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB" class="dib custom-icon custom-icon-lock blue underline pv1 pv2-ns ml2 f6">Login</a></div>
+					<div><a href="/search-form/" class="dib custom-icon custom-icon-search blue underline pv1 pv2-ns ml2 f6">Search</a></div>
 
 				</div>
+
+			</div>
+
+		</div>
+
+		<div class="custom-bg-corporate white ph2 ph3-ns bb b--white">
+
+			<div class="custom-max-width">
+
+				<ul class="ma0 pa0 list f6">
+
+					<li class="dib mr2 mr3-l"><a href="/" class="white underline db pv2">Home</a></li>
+					<li class="dib mr2 mr3-l"><a href="/elibrary/" class="white underline db pv2">eLibrary</a></li>
+					<li class="dib mr2 mr3-l"><a href="/events-activities/online-and-streamed-events/" class="white underline db pv2">Online events</a></li>
+					<li class="dib mr2 mr3-l"><a href="/help/" class="white underline db pv2">Help</a></li>
+					<li class="dib mr2 mr3-l"><a href="/contact/" class="white underline db pv2">Contact</a></li>
+					<!-- <li class="dib mr2 mr3-l"><a href="/about/" class="white underline db pv2">About</a></li>
+					<li class="dib"><a class="white underline db pv2" href="/support-us/">Donate</a></li> -->
+
+				</ul>
 
 			</div>
 
@@ -106,12 +111,12 @@
 
             
 
-  <div class="pa2 bg-white ba b--light-gray mb3 custom-underline f6">
+  <div class="pa2 ph3-ns bg-white ba b--light-gray custom-underline f6">
     
-    <a class="blue" href="/">Home</a>
+    <a class="blue underline" href="/">Home</a>
     
       
-      → <a class="blue" href="/events-activities/">Events activities</a>
+      → <a class="blue underline" href="/events-activities/">Events activities</a>
       
     
       
@@ -129,7 +134,10 @@
             <div class="lh-copy custom-hyphens custom-prose
  custom-underline custom-visited">
 
-                <p>A list of all special events taking place across our libraries.</p>
+                <p class="pa3 custom-bg-corporate white mt0 f4"><strong>Coronavirus update:</strong> All events and activities have been postponed indefintely.</p>
+
+
+<p>A list of all special events taking place across our libraries.</p>
 
 <div class="bg-light-gray pa2 pa3-ns mb2 mb4-ns ba b--near-white
 ">
@@ -3304,208 +3312,6 @@
 
     
 
-        <tr>
-
-            <td><a href="/events/bungay-2020-02-14-wbd-costume-swap/">World Book Day costume swap</a></td>
-            <td>Bungay Community Library</td>
-            <td>Fri 14 Feb, 2020 &#8211; Wed 4 Mar, 2020</td>
-            <td></td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/newmarket-2020-02-18-wbd-costume-swap/">World Book Day costume swap</a></td>
-            <td>Newmarket Library</td>
-            <td>Tue 18 Feb, 2020 &#8211; Wed 4 Mar, 2020</td>
-            <td></td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
     
 
     
@@ -4261,287 +4067,911 @@
 
     
 
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
         <tr>
 
-            <td><a href="/events/kedington-2020-02-27-wbd-costume-swap/">World Book Day costume swap</a></td>
-            <td>Kedington Library</td>
-            <td>Thu 27 Feb, 2020</td>
-            <td>1500</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/beccles-2020-02-27-planet-talk/">Talk: 'Protect our planet: climate change' by Dr Silvana Birchenough & Nick Scott</a></td>
-            <td>Beccles Library</td>
-            <td>Thu 27 Feb, 2020</td>
-            <td>1900</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/leiston-2020-02-27-garden-talk/">'The Fragrant Garden Throughout the Year' talk - FULLY BOOKED</a></td>
-            <td>Leiston Library</td>
-            <td>Thu 27 Feb, 2020</td>
-            <td>1900</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/newmarket-2020-02-27-top-time-leeper/">Top Time: Fenland stories with Marion Leeper</a></td>
-            <td>Newmarket Library</td>
-            <td>Thu 27 Feb, 2020</td>
-            <td>1430</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/kesgrave-2020-02-27-wbd-costume-swap/">World Book Day costume swap</a></td>
-            <td>Kesgrave Library</td>
-            <td>Thu 27 Feb, 2020</td>
-            <td>1530</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/southwold-2020-02-28-fosl-stand/">Find out about becoming a friend of Southwold Library</a></td>
-            <td>Southwold Library</td>
-            <td>Fri 28 Feb, 2020</td>
-            <td>1000</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/glemsford-2020-02-28-wbd-costume-swap/">World Book Day costume swap</a></td>
-            <td>Glemsford Library</td>
-            <td>Fri 28 Feb, 2020</td>
-            <td>1030</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/elmswell-2020-02-28-south-american-wine/">South American wine tasting evening</a></td>
-            <td>Elmswell Library</td>
-            <td>Fri 28 Feb, 2020</td>
-            <td>1930</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/kesgrave-2020-02-28-wbd-costume-swap/">World Book Day costume swap</a></td>
-            <td>Kesgrave Library</td>
-            <td>Fri 28 Feb, 2020</td>
-            <td>1530</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/southwold-2020-02-28-crochet-class/">Crochet class with Spotty Dog Designs: make a granny or Afghan square</a></td>
-            <td>Southwold Library</td>
-            <td>Fri 28 Feb, 2020</td>
-            <td>1830</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/beccles-2020-02-29-fairtrade-chocolate-cafe/">Fairtrade chocolate themed pop-up cafe</a></td>
-            <td>Beccles Library</td>
-            <td>Sat 29 Feb, 2020</td>
-            <td>1015</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/capel-2020-02-29-wbd-costume-swap/">World Book Day costume swap</a></td>
-            <td>Capel St Mary Library</td>
-            <td>Sat 29 Feb, 2020</td>
-            <td>1030</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/stoke-2020-02-29-wbd-costume-swap/">World Book Day costume swap</a></td>
-            <td>Stoke Library</td>
-            <td>Sat 29 Feb, 2020 &#8211; Wed 4 Mar, 2020</td>
+            <td><a href="/events/lowestoft-2020-04-02-llama-film-screening/">Film club: <cite>Llama Nation</cite> discussion</a></td>
+            <td>Lowestoft Library</td>
+            <td>Thu 2 Apr, 2020 &#8211; Mon 6 Apr, 2020</td>
             <td></td>
 
         </tr>
@@ -4557,1535 +4987,6 @@
     
 
     
-
-    
-
-        <tr>
-
-            <td><a href="/events/haverhill-2020-02-29-wbd-costume-swap/">World Book Day costume swap</a></td>
-            <td>Haverhill Library</td>
-            <td>Sat 29 Feb, 2020 &#8211; Wed 4 Mar, 2020</td>
-            <td></td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/felixstowe-2020-02-29-fairtrade-family-fun-day/">Fairtrade family fun day</a></td>
-            <td>Felixstowe Library</td>
-            <td>Sat 29 Feb, 2020</td>
-            <td>1000</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/bury-2020-02-29-book-sale/">Book sale</a></td>
-            <td>Bury St Edmunds Library</td>
-            <td>Sat 29 Feb, 2020</td>
-            <td>1000</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/elmswell-2020-02-29-wbd-costume-swap/">World Book Day costume swap</a></td>
-            <td>Elmswell Library</td>
-            <td>Sat 29 Feb, 2020</td>
-            <td>1000</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/lowestoft-2020-02-29-wbd-costume-swap/">World Book Day costume swap</a></td>
-            <td>Lowestoft Library</td>
-            <td>Sat 29 Feb, 2020</td>
-            <td>0900</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/lowestoft-2020-02-29-fairtrade-stalls/">Fairtrade stalls and information</a></td>
-            <td>Lowestoft Library</td>
-            <td>Sat 29 Feb, 2020</td>
-            <td>0900</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/woodbridge-2020-02-29-pilgrim/">Performance: <cite>Pilgrim: the search for lost love</cite> by Dominic Shea & Andrew Leach</a></td>
-            <td>Woodbridge Library</td>
-            <td>Sat 29 Feb, 2020</td>
-            <td>1930</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/bungay-2020-02-29-bike-marking/">Bike marking</a></td>
-            <td>Bungay Community Library</td>
-            <td>Sat 29 Feb, 2020</td>
-            <td>1030</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/halesworth-2020-02-29-winterlight-festival/">Winterlight Festival</a></td>
-            <td>Halesworth Library</td>
-            <td>Sat 29 Feb, 2020</td>
-            <td>1800</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/southwold-2020-03-01-book-sale/">Book sale</a></td>
-            <td>Southwold Library</td>
-            <td>Sun 1 Mar, 2020</td>
-            <td>1400</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/southwold-2020-03-01-wbd-costume-swap/">World Book Day costume swap</a></td>
-            <td>Southwold Library</td>
-            <td>Sun 1 Mar, 2020</td>
-            <td>1100</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/hadleigh-2020-03-01-wbd-costume-swap/">World Book Day costume swap</a></td>
-            <td>Hadleigh Library</td>
-            <td>Sun 1 Mar, 2020</td>
-            <td>1030</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/lowestoft-2020-03-01-wbd-costume-swap/">World Book Day costume swap</a></td>
-            <td>Lowestoft Library</td>
-            <td>Sun 1 Mar, 2020</td>
-            <td>1000</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/glemsford-2020-03-01-wbd-costume-swap/">World Book Day costume swap</a></td>
-            <td>Glemsford Library</td>
-            <td>Sun 1 Mar, 2020</td>
-            <td>1130</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/southwold-2020-03-02-crochet-along/">Crochet-along class with Spotty Dog Designs</a></td>
-            <td>Southwold Library</td>
-            <td>Mon 2 Mar, 2020</td>
-            <td>1000</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/woodbridge-2020-03-02-artlib-march/">ArtLib: Seckford Almshouses</a></td>
-            <td>Woodbridge Library</td>
-            <td>Mon 2 Mar, 2020 &#8211; Tue 31 Mar, 2020</td>
-            <td></td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/newmarket-2020-03-03-suffolk-carers-matter/">Coffee and chat with Suffolk Carers Matter</a></td>
-            <td>Newmarket Library</td>
-            <td>Tue 3 Mar, 2020</td>
-            <td>1030</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/lowestoft-2020-03-03-home-ed-drop-in/">Elective home education drop-in</a></td>
-            <td>Lowestoft Library</td>
-            <td>Tue 3 Mar, 2020</td>
-            <td>1100</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/long-melford-2020-03-03-agm/">Friends of Long Melford Library AGM</a></td>
-            <td>Elmswell Library</td>
-            <td>Tue 3 Mar, 2020</td>
-            <td>1715</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/lavenham-2020-03-03-radio-drama-club/">Make Do & Friends radio drama club with Suffolk Artlink</a></td>
-            <td>Lavenham Library</td>
-            <td>Tue 3 Mar, 2020</td>
-            <td>1430</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/bury-2020-03-04-wednesday-talk-jackie-carreira/">Wednesday Talk: Talk and signing from author Jackie Carreira</a></td>
-            <td>Bury St Edmunds Library</td>
-            <td>Wed 4 Mar, 2020</td>
-            <td>1100</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/stoke-2020-03-04-zine-making/">Zine making: for 11-24 year-olds</a></td>
-            <td>Stoke Library</td>
-            <td>Wed 4 Mar, 2020</td>
-            <td>1500</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/woodbridge-2020-03-05-chinese-medicine-talk/">Talk on medical herbalism and traditional Chinese medicine from Steve Kippax</a></td>
-            <td>Woodbridge Library</td>
-            <td>Thu 5 Mar, 2020</td>
-            <td>1800</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/bungay-2020-03-05-wbd-party/">World Book Day party</a></td>
-            <td>Bungay Community Library</td>
-            <td>Thu 5 Mar, 2020</td>
-            <td>1530</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/halesworth-2020-03-06-fostering-drop-in/">Suffolk Fostering drop-in</a></td>
-            <td>Halesworth Library</td>
-            <td>Fri 6 Mar, 2020</td>
-            <td>1000</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/southwold-2020-03-06-crochet-class/">Crochet class with Spotty Dog Designs: make a plain square</a></td>
-            <td>Southwold Library</td>
-            <td>Fri 6 Mar, 2020</td>
-            <td>1830</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/mildenhall-2020-03-07-mini-professors/">Mini Professors taster session: for 2-5 year-olds</a></td>
-            <td>Mildenhall Library</td>
-            <td>Sat 7 Mar, 2020</td>
-            <td>1100</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/woodbridge-2020-03-07-bike-marking/">Bike marking</a></td>
-            <td>Woodbridge Library</td>
-            <td>Sat 7 Mar, 2020</td>
-            <td>1000</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/chantry-2020-03-08-iwd-celebration/">International Women's Day celebration</a></td>
-            <td>Chantry Library</td>
-            <td>Sun 8 Mar, 2020</td>
-            <td>1300</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/chantry-2020-03-08-retro-gaming/">Retro gaming</a></td>
-            <td>Chantry Library</td>
-            <td>Sun 8 Mar, 2020</td>
-            <td>1100</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/southwold-2020-03-09-crochet-along/">Crochet-along class with Spotty Dog Designs</a></td>
-            <td>Southwold Library</td>
-            <td>Mon 9 Mar, 2020</td>
-            <td>1000</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/ipswich-2020-03-10-john-peddelty/">Sporting Memories: Visit from former Ipswich Town player John Peddelty</a></td>
-            <td>Ipswich County Library</td>
-            <td>Tue 10 Mar, 2020</td>
-            <td>1415</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/eye-2020-03-10-heidi-swain-jenni-keer/">Talk from romance authors Heidi Swain & Jenni Keer</a></td>
-            <td>Eye Library</td>
-            <td>Tue 10 Mar, 2020</td>
-            <td>1100</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/bury-2020-03-11-wednesday-talk-auctioneer/">Wednesday Talk: 'An Auctioneer&apos;s Lot', by Ed Crichton</a></td>
-            <td>Bury St Edmunds Library</td>
-            <td>Wed 11 Mar, 2020</td>
-            <td>1100</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/newmarket-2020-03-11-friends-meeting/">Friends of Newmarket Library meeting</a></td>
-            <td>Newmarket Library</td>
-            <td>Wed 11 Mar, 2020</td>
-            <td>1030</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/stowmarket-2020-03-11-stella-tillyard/">An evening with author Stella Tillyard</a></td>
-            <td>Stowmarket Library</td>
-            <td>Wed 11 Mar, 2020</td>
-            <td>1900</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/southwold-2020-03-13-legal-matters/">Legal Matters information & advice session: Wills, probate and Powers of Attorney</a></td>
-            <td>Southwold Library</td>
-            <td>Fri 13 Mar, 2020</td>
-            <td>1630</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/southwold-2020-03-13-crochet-class/">Crochet class with Spotty Dog Designs: make a square target</a></td>
-            <td>Southwold Library</td>
-            <td>Fri 13 Mar, 2020</td>
-            <td>1830</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/stowmarket-2020-03-14-quiz-night/">Quiz night</a></td>
-            <td>Stowmarket Library</td>
-            <td>Sat 14 Mar, 2020</td>
-            <td>1930</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/stowmarket-2020-03-15-publish-on-demand-workshop/">Publish-on-demand workshop with Ian Andrew</a></td>
-            <td>Stowmarket Library</td>
-            <td>Sun 15 Mar, 2020</td>
-            <td>0900</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/southwold-2020-03-16-crochet-along/">Crochet-along class with Spotty Dog Designs</a></td>
-            <td>Southwold Library</td>
-            <td>Mon 16 Mar, 2020</td>
-            <td>1000</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/lavenham-2020-03-17-bridget-keevil/">Top Time: Talk: Bridget Keevil on her part in the Clipper Round the World Race</a></td>
-            <td>Lavenham Library</td>
-            <td>Tue 17 Mar, 2020</td>
-            <td>1430</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/mildenhall-2020-03-17-get-online/">Get online: get help and advice using devices and apps from West Suffolk Sight</a></td>
-            <td>Mildenhall Library</td>
-            <td>Tue 17 Mar, 2020</td>
-            <td>1200</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/gainsborough-2020-03-18-shark-in-the-park/"><cite>Shark in the Park</cite> fun for 2-5 year-olds</a></td>
-            <td>Gainsborough Community Library</td>
-            <td>Wed 18 Mar, 2020</td>
-            <td>1400</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/lowestoft-2020-03-18-everyday-wellbeing/">Everyday Wellbeing workshop with Wellbeing Norfolk & Waveney</a></td>
-            <td>Lowestoft Library</td>
-            <td>Wed 18 Mar, 2020</td>
-            <td>0950</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/halesworth-2020-03-18-neighbourhood-plan/">Halesworth Neighbourhood Action Plan drop-in</a></td>
-            <td>Halesworth Library</td>
-            <td>Wed 18 Mar, 2020</td>
-            <td>1000</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/bury-2020-03-18-wednesday-talk-sutton-hoo/">Wednesday Talk: The History of Sutton Hoo</a></td>
-            <td>Bury St Edmunds Library</td>
-            <td>Wed 18 Mar, 2020</td>
-            <td>1100</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/bury-2020-03-18-sutton-hoo/">Sutton Hoo roadshow</a></td>
-            <td>Bury St Edmunds Library</td>
-            <td>Wed 18 Mar, 2020</td>
-            <td>1200</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/newmarket-2020-03-19-top-time-citizens-advice/">Top Time: Tony Howard visits from Citizens Advice West Suffolk</a></td>
-            <td>Newmarket Library</td>
-            <td>Thu 19 Mar, 2020</td>
-            <td>1430</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/beccles-2020-03-19-forbes-taylor/">Talk: 'My Life in Pictures', by Forbes Taylor</a></td>
-            <td>Beccles Library</td>
-            <td>Thu 19 Mar, 2020</td>
-            <td>1900</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/beccles-2020-03-19-top-time-face-yoga/">Top Time: Face yoga by Bernice</a></td>
-            <td>Beccles Library</td>
-            <td>Thu 19 Mar, 2020</td>
-            <td>1400</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/southwold-2020-03-20-crochet-class/">Crochet class with Spotty Dog Designs: make simple, yet striking, granny stripes</a></td>
-            <td>Southwold Library</td>
-            <td>Fri 20 Mar, 2020</td>
-            <td>1830</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/woodbridge-2020-03-21-peaceweavers-shieldmaidens/">Talk: Peaceweavers and Shieldmaidens: exploring the lives of women in Anglo-Saxon England</a></td>
-            <td>Woodbridge Library</td>
-            <td>Sat 21 Mar, 2020</td>
-            <td>1400</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/southwold-2020-03-21-quiz-night/">Quiz night</a></td>
-            <td>Southwold Library</td>
-            <td>Sat 21 Mar, 2020</td>
-            <td>1900</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/woodbridge-2020-03-21-drumming-voice/">Oak, Ash & Thorn: Shamanic drumming & tribal voice with Kate, David & Lorna</a></td>
-            <td>Woodbridge Library</td>
-            <td>Sat 21 Mar, 2020</td>
-            <td>1930</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/southwold-2020-03-23-crochet-along/">Crochet-along class with Spotty Dog Designs</a></td>
-            <td>Southwold Library</td>
-            <td>Mon 23 Mar, 2020</td>
-            <td>1000</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/woodbridge-2020-03-24-poetry/">Poetry at lunchtime: Dreams and Visions</a></td>
-            <td>Woodbridge Library</td>
-            <td>Tue 24 Mar, 2020</td>
-            <td>1245</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/bury-2020-03-25-wednesday-talk-thomas-blague/">Wednesday Talk: 'Colonel Thomas Blague: Suffolk's Most Famous Cavalier', by John Sutton</a></td>
-            <td>Bury St Edmunds Library</td>
-            <td>Wed 25 Mar, 2020</td>
-            <td>1100</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/chantry-2020-03-26-cancer-support/">Cake, Cancer and Coffee support group</a></td>
-            <td>Chantry Library</td>
-            <td>Thu 26 Mar, 2020</td>
-            <td>1400</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/southwold-2020-03-27-crochet-class/">Crochet class with Spotty Dog Designs: make an anemone square</a></td>
-            <td>Southwold Library</td>
-            <td>Fri 27 Mar, 2020</td>
-            <td>1830</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/haverhill-2020-03-28-hand-sewing/">Sew your own drawstring bag: for ages 8+ and adults</a></td>
-            <td>Haverhill Library</td>
-            <td>Sat 28 Mar, 2020</td>
-            <td>1100</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/woodbridge-2020-03-28-mind-over-matter/">Talk: Mind Over Matter Project - Tackling Depression Together</a></td>
-            <td>Woodbridge Library</td>
-            <td>Sat 28 Mar, 2020</td>
-            <td>1200</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/haverhill-2020-03-28-rag-wreaths/">Make your own rag wreath: for ages 8+ and adults</a></td>
-            <td>Haverhill Library</td>
-            <td>Sat 28 Mar, 2020</td>
-            <td>1100</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/haverhill-2020-03-28-musical-instruments/">Make your own musical instrument: for ages 6+</a></td>
-            <td>Haverhill Library</td>
-            <td>Sat 28 Mar, 2020</td>
-            <td>1000</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/southwold-2020-03-30-crochet-along/">Crochet-along class with Spotty Dog Designs</a></td>
-            <td>Southwold Library</td>
-            <td>Mon 30 Mar, 2020</td>
-            <td>1000</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/lavenham-2020-03-31-rosy-thornton/">Top Time: Author talk from Rosy Thornton</a></td>
-            <td>Lavenham Library</td>
-            <td>Tue 31 Mar, 2020</td>
-            <td>1430</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/woodbridge-2020-03-31-patchwork-class/">Mini patchwork class: Make your own needle case</a></td>
-            <td>Woodbridge Library</td>
-            <td>Tue 31 Mar, 2020</td>
-            <td>1000</td>
-
-        </tr>
 
     
 
@@ -6107,6 +5008,52 @@
             <td>Elmswell Library</td>
             <td>Sat 4 Apr, 2020</td>
             <td>1600</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/ipswich-2020-04-04-matilda-screening/"><cite>Matilda</cite> film screening with snacks</a></td>
+            <td>Ipswich County Library</td>
+            <td>Sat 4 Apr, 2020</td>
+            <td>1400</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/stowmarket-2020-04-04-book-sale/">Book sale</a></td>
+            <td>Stowmarket Library</td>
+            <td>Sat 4 Apr, 2020</td>
+            <td>1000</td>
 
         </tr>
 
@@ -6149,6 +5096,52 @@
 
         <tr>
 
+            <td><a href="/events/southwold-2020-04-06-crochet-along/">Crochet-along class with Spotty Dog Designs</a></td>
+            <td>Southwold Library</td>
+            <td>Mon 6 Apr, 2020</td>
+            <td>1000</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/southwold-2020-04-06-online-reading-group/">Online reading group: Three Men in a Boat by Jerome K Jerome</a></td>
+            <td>Southwold Library</td>
+            <td>Mon 6 Apr, 2020</td>
+            <td>1900</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
             <td><a href="/events/brandon-2020-04-06-the-velveteen-rabbit/">Spinning Wheel Theatre presents: <cite>The Velveteen Rabbit</cite></a></td>
             <td>Brandon Library</td>
             <td>Mon 6 Apr, 2020</td>
@@ -6172,9 +5165,32 @@
 
         <tr>
 
-            <td><a href="/events/southwold-2020-04-06-crochet-along/">Crochet-along class with Spotty Dog Designs</a></td>
-            <td>Southwold Library</td>
-            <td>Mon 6 Apr, 2020</td>
+            <td><a href="/events/sudbury-2020-04-07-top-time-creative-writing/">Top Time: Creative writing</a></td>
+            <td>Sudbury Library</td>
+            <td>Tue 7 Apr, 2020</td>
+            <td>1430</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/haverhill-2020-04-09-macmillan-cancer-support/">Macmillan cancer support drop-in</a></td>
+            <td>Haverhill Library</td>
+            <td>Thu 9 Apr, 2020</td>
             <td>1000</td>
 
         </tr>
@@ -6199,6 +5215,121 @@
             <td>Haverhill Library</td>
             <td>Sat 11 Apr, 2020</td>
             <td>1000</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/sudbury-2020-04-14-top-time-book-group/">Top Time: Book discussion '<cite>The Darkest Hour</cite>' by Barbara Erskine</a></td>
+            <td>Sudbury Library</td>
+            <td>Tue 14 Apr, 2020</td>
+            <td>1430</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/felixstowe-2020-04-15-velveteen-rabbit/">Spinning Wheel Theatre presents: <cite>The Velveteen Rabbit</cite></a></td>
+            <td>Felixstowe Library</td>
+            <td>Wed 15 Apr, 2020</td>
+            <td>1430</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/newmarket-2020-04-16-macmillan-cancer-support/">Macmillan cancer support drop-in</a></td>
+            <td>Newmarket Library</td>
+            <td>Thu 16 Apr, 2020</td>
+            <td>1000</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/ipswich-2020-04-16-coderdojo/">CoderDojo</a></td>
+            <td>Ipswich County Library</td>
+            <td>Thu 16 Apr, 2020</td>
+            <td>1415</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/kessingland-2020-04-17-marsh-on-the-move/">Marsh on the Move with Suffolk Wildlife Trust</a></td>
+            <td>Kessingland Library</td>
+            <td>Fri 17 Apr, 2020</td>
+            <td>1030</td>
 
         </tr>
 
@@ -6310,10 +5441,10 @@
 
         <tr>
 
-            <td><a href="/events/lowestoft-2020-04-22-everyday-wellbeing/">Everyday Wellbeing workshop with Wellbeing Norfolk & Waveney</a></td>
-            <td>Lowestoft Library</td>
-            <td>Wed 22 Apr, 2020</td>
-            <td>0950</td>
+            <td><a href="/events/sudbury-2020-04-21-top-time-chair-yoga/">Top Time: Chair yoga</a></td>
+            <td>Sudbury Library</td>
+            <td>Tue 21 Apr, 2020</td>
+            <td>1430</td>
 
         </tr>
 
@@ -6356,10 +5487,10 @@
 
         <tr>
 
-            <td><a href="/events/ipswich-2020-04-24-womens-rights-exhibition/">Unfinished Business: The Fight for Women's Rights display from the British Library Living Knowledge Network</a></td>
-            <td>Ipswich County Library</td>
-            <td>Fri 24 Apr, 2020 &#8211; Fri 22 May, 2020</td>
-            <td></td>
+            <td><a href="/events/lowestoft-2020-04-22-everyday-wellbeing/">Everyday Wellbeing workshop with Wellbeing Norfolk & Waveney</a></td>
+            <td>Lowestoft Library</td>
+            <td>Wed 22 Apr, 2020</td>
+            <td>0950</td>
 
         </tr>
 
@@ -6379,9 +5510,9 @@
 
         <tr>
 
-            <td><a href="/events/stowmarket-2020-04-25-skulduggery-rebecca-tope/">Skulduggery in Stowmarket: Rebecca Tope: Secrets in the Cotswolds</a></td>
-            <td>Stowmarket Library</td>
-            <td>Sat 25 Apr, 2020</td>
+            <td><a href="/events/haverhill-2020-04-23-macmillan-cancer-support/">Macmillan cancer support drop-in</a></td>
+            <td>Haverhill Library</td>
+            <td>Thu 23 Apr, 2020</td>
             <td>1000</td>
 
         </tr>
@@ -6402,33 +5533,10 @@
 
         <tr>
 
-            <td><a href="/events/stowmarket-2020-04-25-skulduggery-louise-millar/">Skulduggery in Stowmarket: Louise Millar: Killer Woman</a></td>
-            <td>Stowmarket Library</td>
-            <td>Sat 25 Apr, 2020</td>
-            <td>1330</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/stowmarket-2020-04-25-skulduggery-jim-kelly/">Skulduggery in Stowmarket: Jim Kelly: War & Crime - the challenge of writing a historical thriller</a></td>
-            <td>Stowmarket Library</td>
-            <td>Sat 25 Apr, 2020</td>
-            <td>1445</td>
+            <td><a href="/events/ipswich-2020-04-24-womens-rights-exhibition/">Unfinished Business: The Fight for Women's Rights display from the British Library Living Knowledge Network</a></td>
+            <td>Ipswich County Library</td>
+            <td>Fri 24 Apr, 2020 &#8211; Fri 22 May, 2020</td>
+            <td></td>
 
         </tr>
 
@@ -6471,6 +5579,75 @@
 
         <tr>
 
+            <td><a href="/events/ipswich-2020-04-25-suffragette-screening/"><cite>Suffragette</cite> film screening with snacks</a></td>
+            <td>Ipswich County Library</td>
+            <td>Sat 25 Apr, 2020</td>
+            <td>1900</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/stowmarket-2020-04-25-skulduggery-jim-kelly/">Skulduggery in Stowmarket: Jim Kelly: War & Crime - the challenge of writing a historical thriller</a></td>
+            <td>Stowmarket Library</td>
+            <td>Sat 25 Apr, 2020</td>
+            <td>1445</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/stowmarket-2020-04-25-skulduggery-rebecca-tope/">Skulduggery in Stowmarket: Rebecca Tope: Secrets in the Cotswolds</a></td>
+            <td>Stowmarket Library</td>
+            <td>Sat 25 Apr, 2020</td>
+            <td>1000</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
             <td><a href="/events/stowmarket-2020-04-25-skulduggery-rory-clements/">Skulduggery in Stowmarket: Rory Clements: Hitler's Women</a></td>
             <td>Stowmarket Library</td>
             <td>Sat 25 Apr, 2020</td>
@@ -6494,56 +5671,10 @@
 
         <tr>
 
-            <td><a href="/events/stowmarket-2020-04-26-skulduggery-michael-jecks/">Skulduggery in Stowmarket: Michael Jecks: Writing the Tudors</a></td>
+            <td><a href="/events/stowmarket-2020-04-25-skulduggery-louise-millar/">Skulduggery in Stowmarket: Louise Millar: Killer Woman</a></td>
             <td>Stowmarket Library</td>
-            <td>Sun 26 Apr, 2020</td>
-            <td>1000</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/stowmarket-2020-04-26-skulduggery-ruth-dugdall/">Skulduggery in Stowmarket: Ruth Dugdall: A Life of Crime - from probation officer to crime author</a></td>
-            <td>Stowmarket Library</td>
-            <td>Sun 26 Apr, 2020</td>
+            <td>Sat 25 Apr, 2020</td>
             <td>1330</td>
-
-        </tr>
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-        <tr>
-
-            <td><a href="/events/stowmarket-2020-04-26-skulduggery-simon-brett/">Skulduggery in Stowmarket: Simon Brett: Tickled to Death</a></td>
-            <td>Stowmarket Library</td>
-            <td>Sun 26 Apr, 2020</td>
-            <td>1600</td>
 
         </tr>
 
@@ -6586,10 +5717,102 @@
 
         <tr>
 
+            <td><a href="/events/stowmarket-2020-04-26-skulduggery-simon-brett/">Skulduggery in Stowmarket: Simon Brett: Tickled to Death</a></td>
+            <td>Stowmarket Library</td>
+            <td>Sun 26 Apr, 2020</td>
+            <td>1600</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/stowmarket-2020-04-26-skulduggery-ruth-dugdall/">Skulduggery in Stowmarket: Ruth Dugdall: A Life of Crime - from probation officer to crime author</a></td>
+            <td>Stowmarket Library</td>
+            <td>Sun 26 Apr, 2020</td>
+            <td>1330</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/stowmarket-2020-04-26-skulduggery-michael-jecks/">Skulduggery in Stowmarket: Michael Jecks: Writing the Tudors</a></td>
+            <td>Stowmarket Library</td>
+            <td>Sun 26 Apr, 2020</td>
+            <td>1000</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
             <td><a href="/events/stowmarket-2020-04-26-skulduggery-laura-purcell/">Skulduggery in Stowmarket: Laura Purcell: Creating Foreboding and Tension in Fiction</a></td>
             <td>Stowmarket Library</td>
             <td>Sun 26 Apr, 2020</td>
             <td>1445</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/sudbury-2020-04-28-top-time-discovereads-review/">Top Time: Discovereads review</a></td>
+            <td>Sudbury Library</td>
+            <td>Tue 28 Apr, 2020</td>
+            <td>1430</td>
 
         </tr>
 
@@ -6705,6 +5928,29 @@
             <td>Lowestoft Library</td>
             <td>Wed 27 May, 2020</td>
             <td>0950</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/bungay-2020-05-29-stella-tillyard/">An evening with author Stella Tillyard</a></td>
+            <td>Bungay Library</td>
+            <td>Fri 29 May, 2020</td>
+            <td>1900</td>
 
         </tr>
 
@@ -7143,6 +6389,8 @@ $('#search-table').dynatable({
   }
 });
 </script>
+
+
 
 
 

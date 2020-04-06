@@ -1,16 +1,130 @@
 ---
-layout: default
+layout: new-blank
 title: Suffolk Libraries reserve, renew, branches and eLibrary
-featured-story: false
+# featured-story: false
 meta-title: "Home"
 meta-description: "Reserve and renew titles, download eBooks, eAudio and music, and find libraries and events"
 ---
 
-<div class="flex-l flex-wrap-l justify-between-l">
+<div class="flex-l flex-wrap-l bb b--moon-gray">
+
+  <div class="w-50-l flex bb b--moon-gray bn-l">
+
+    <a href="/elibrary/" class="w-third pa2 pa3-ns flex items-center">
+
+      <img src="/images/icons/essential-icons/smartphone-1.svg" alt="Phone" class="db mw3 center">
+
+    </a>
+
+    <div class="w-two-thirds pa2 pa3-ns">
+
+      <h2 class="f4 custom-lh-title pa0 mt0 mb1"><a href="/elibrary/" class="db blue">eLibrary</a></h2>
+
+      <p class="ma0 f6">Free eBooks, eAudio, films, documentaries, courses and streaming for your phone, tablet or PC. <br><a href="/elibrary/" class="blue db underline">Set up your device &rarr;</a></p>
+
+    </div>
+
+  </div>
+
+  <div class="w-50-l flex bl-l b--moon-gray">
+
+    <a href="/events-activities/online-and-streamed-events/" class="w-third pa2 pa3-ns flex items-center">
+
+      <img src="/images/icons/essential-icons/video-player.svg" alt="Video player" class="db mw3 center">
+
+    </a>
+
+    <div class="w-two-thirds pa2 pa3-ns">
+
+      <h2 class="f4 custom-lh-title pa0 mt0 mb1"><a href="/events-activities/online-and-streamed-events/" class="db blue">Online groups & activities</a></h2>
+
+      <p class="ma0 f6">Library livestreams, groups and recordings: Children’s activities, book & film discussion groups, competitions and podcasts. <br><a href="/events-activities/online-and-streamed-events/" class="db blue underline">Find an online event or video &rarr;</a></p>
+
+    </div>
+
+  </div>
+
+</div>
+
+<div class="flex-l flex-wrap-l">
+
+  <div class="pv3 bg-near-white w-50-l bb b--moon-gray bn-l">
+
+    <h2 class="f5 custom-lh-title mb1 pv0 ph2 ph3-ns">eLibrary staff picks</h2>
+
+    <p class="f6 ph2 ph3-ns">Staff recommendations, lists and articles for adults & children. Perfect for if you’re stuck at home.</p>
+
+    <div class="flex flex-wrap justify-start">
+
+      {% assign picks = site.elibrary-recommendations | reverse%}
+
+      {% for pick in picks limit:4 %}
+
+        <div class="w-50 mv2 ph2 ph3-ns">
+
+          <a href="{{ pick.url }}" class="db underline-hover blue">
+
+            <img class="db ma0 pa0" alt="{{ pick.alt }}" src="{{ pick.image }}">
+
+            <h3 class="f6 mv1 pa0 custom-lh-title normal tc blue">{{ pick.title }}</h3>
+
+          </a>
+
+        </div>
+
+      {% endfor %}
+
+    </div>
+
+    <p class="ph2 ph3-ns"><a href="/elibrary/picks/" class="blue b underline">All staff picks &rarr;</a></p>
+
+  </div>
+
+  <div class="ph2 ph3-ns pv3 bg-near-white w-50-l bl-l b--moon-gray">
+
+    <h2 class="f5 custom-lh-title mb1 pa0">Latest recordings</h2>
+
+    <p class="f6 pb2-l">Enjoy library activities, events, kids singalongs, workshops and podcasts at home.</p>
+
+    <!-- <div class="flex-ns flex-wrap-ns justify-start-ns"> -->
+
+      {% assign events = site.online-events | where: "featured-recording", "true" | reverse %}
+
+      {% for event in events limit:2 %}
+
+        <article class="mv3 pb1" data-category="{% for cat in event.category %}{{ cat }}{% endfor %}">
+
+          {% if event.service == "youtube" %}
+
+            <div class="custom-constrain">
+
+              <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ event.link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+            </div>
+
+          {% endif %}
+
+          <h2 class="f6 normal custom-lh-title mv1 pa0">{{ event.title | strip_html }}</h2>
+
+          <p class="mv1 f6 custom-links">{% if event.description %}{{ event.description }}{% endif %}</p>
+
+        </article>
+
+      {% endfor %}
+
+    <!-- </div> -->
+
+    <p><a href="/events-activities/online-and-streamed-events/recordings/" class="blue b underline">All recordings &rarr;</a></p>
+
+  </div>
+
+</div>
+
+<div class="flex-l flex-wrap-l justify-between-l pv3 ph2 ph3-ns bt b--moon-gray">
 
   <div class="w-30-l">
 
-    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/elibrary/" class="underline-hover">eLibrary</a></h2>
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/elibrary/" class="underline blue">eLibrary</a></h2>
 
     <p class="custom-lh-title f6">Free eBooks, magazines, eAudio, streaming</p>
 
@@ -18,7 +132,7 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
   <div class="w-30-l">
 
-    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/libraries/" class="underline-hover">Libraries</a></h2>
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/libraries/" class="underline blue">Libraries</a></h2>
 
     <p class="custom-lh-title f6">Opening times, facilities, events</p>
 
@@ -26,7 +140,7 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
   <div class="w-30-l">
 
-    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/mobiles-home/" class="underline-hover">Mobiles &amp; home service</a></h2>
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/mobiles-home/" class="underline blue">Mobiles &amp; home service</a></h2>
 
     <p class="custom-lh-title f6">Routes, timetables &amp; visits to houses and care homes</p>
 
@@ -34,7 +148,7 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
   <div class="w-30-l">
 
-    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/events-activities/" class="underline-hover">Events &amp; activities</a></h2>
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/events-activities/" class="underline blue">Events &amp; activities</a></h2>
 
     <p class="custom-lh-title f6">Regular &amp; one off events, reading groups, courses</p>
 
@@ -42,7 +156,7 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
   <div class="w-30-l">
 
-    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/health/" class="underline-hover">Health &amp; wellbeing</a></h2>
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/health/" class="underline blue">Health &amp; wellbeing</a></h2>
 
     <p class="custom-lh-title f6">Drop-ins, self-help reading, events, information</p>
 
@@ -50,7 +164,7 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
   <div class="w-30-l">
 
-    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/research-and-reference/" class="underline-hover">Research &amp; reference</a></h2>
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/research-and-reference/" class="underline blue">Research &amp; reference</a></h2>
 
     <p class="custom-lh-title f6">Family history, encyclopedias, reference</p>
 
@@ -58,7 +172,7 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
   <div class="w-30-l">
 
-    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/help-with-reading-and-literacy/" class="underline-hover">Reading &amp; literacy</a></h2>
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/help-with-reading-and-literacy/" class="underline blue">Reading &amp; literacy</a></h2>
 
     <p class="custom-lh-title f6">Helpful organisations, large print books</p>
 
@@ -66,7 +180,7 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
   <div class="w-30-l">
 
-    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/new-suggestions/" class="underline-hover">Recommendations &amp; reviews</a></h2>
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/new-suggestions/" class="underline blue">Recommendations &amp; reviews</a></h2>
 
     <p class="custom-lh-title f6">Staff picks, reviews, articles, author interviews</p>
 
@@ -74,7 +188,7 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
   <div class="w-30-l">
 
-    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/parents-carers-and-children/" class="underline-hover">Parents, carers &amp; children</a></h2>
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/parents-carers-and-children/" class="underline blue">Parents, carers &amp; children</a></h2>
 
     <p class="custom-lh-title f6">Family reading lists, children’s suggestions</p>
 
@@ -82,7 +196,7 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
   <div class="w-30-l">
 
-    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/help/" class="underline-hover">Help using the service</a></h2>
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/help/" class="underline blue">Help using the service</a></h2>
 
     <p class="custom-lh-title f6">Charges, joining, printing &amp; copying</p>
 
@@ -90,7 +204,7 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
   <div class="w-30-l">
 
-    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/news/" class="underline-hover">News</a></h2>
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/news/" class="underline blue">News</a></h2>
 
     <p class="custom-lh-title f6">Updates, press releases, blogs</p>
 
@@ -98,7 +212,7 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
   <div class="w-30-l">
 
-    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/about/jobs/" class="underline-hover">Jobs</a></h2>
+    <h2 class="f5 custom-lh-title mt0 custom-mb-0"><a href="/about/jobs/" class="underline blue">Jobs</a></h2>
 
     <p class="custom-lh-title f6">Vacancies</p>
 
@@ -106,20 +220,20 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
 </div>
 
-<section class="pt4 pb3 pb4-ns">
+<section class="pt4 pb3 pb4-ns ph2 ph3-ns">
 
     <h2 class="f5 pa0 ma0 mb2 pt2 pb2 bb b--light-gray">More</h2>
 
     <ul class="list ma0 mb2 pa0 f6">
 
-        <li class="dib-ns mr3-ns"><a href="/about/" class="db pv1 underline-hover dark-gray hover-custom-corporate">About us</a></li>
-        <li class="dib-ns mr3-ns"><a href="/teachers-and-home-educators/" class="db pv1 underline-hover dark-gray hover-custom-corporate">Teachers &amp; home educators</a></li>
-        <li class="dib-ns mr3-ns"><a href="/work-and-benefits/" class="db pv1 underline-hover dark-gray hover-custom-corporate">Work &amp; benefits</a></li>
-        <li class="dib-ns mr3-ns"><a href="/business-and-room-hire/" class="db pv1 underline-hover dark-gray hover-custom-corporate">Business &amp; room hire</a></li>
-        <li class="dib-ns mr3-ns"><a href="/bloc/" class="db pv1 underline-hover dark-gray hover-custom-corporate">BLOC youth arts programme</a></li>
-        <li class="dib-ns mr3-ns"><a href="/music-and-drama" class="db pv1 underline-hover dark-gray hover-custom-corporate">Music &amp; Drama Library</a></li>
-        <li class="dib-ns mr3-ns"><a href="/volunteer" class="db pv1 underline-hover dark-gray hover-custom-corporate">Volunteering</a></li>
-        <li class="dib-ns mr3-ns"><a href="/support-us" class="db pv1 underline-hover dark-gray hover-custom-corporate">Support us</a></li>
+        <li class="dib-ns mr3-ns"><a href="/about/" class="db pv1 underline blue">About us</a></li>
+        <li class="dib-ns mr3-ns"><a href="/teachers-and-home-educators/" class="db pv1 underline blue">Teachers &amp; home educators</a></li>
+        <li class="dib-ns mr3-ns"><a href="/work-and-benefits/" class="db pv1 underline blue">Work &amp; benefits</a></li>
+        <li class="dib-ns mr3-ns"><a href="/business-and-room-hire/" class="db pv1 underline blue">Business &amp; room hire</a></li>
+        <li class="dib-ns mr3-ns"><a href="/bloc/" class="db pv1 underline blue">BLOC youth arts programme</a></li>
+        <li class="dib-ns mr3-ns"><a href="/music-and-drama" class="db pv1 underline blue">Music &amp; Drama Library</a></li>
+        <li class="dib-ns mr3-ns"><a href="/volunteer" class="db pv1 underline blue">Volunteering</a></li>
+        <li class="dib-ns mr3-ns"><a href="/support-us" class="db pv1 underline blue">Support us</a></li>
 
     </ul>
 
@@ -127,7 +241,7 @@ meta-description: "Reserve and renew titles, download eBooks, eAudio and music, 
 
  {% if page.featured-story %}
 
-     {% assign featured_posts = site.posts | where: "featured", "true" %}
+     {% assign featured_posts = site.pages | where: "featured", "true" %}
 
      {% for post in featured_posts limit:1 %}
 

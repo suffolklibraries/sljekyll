@@ -2,9 +2,16 @@
 title: Setting up Kanopy on your device
 layout: sidebar-left
 breadcrumb: elibrary
+hnav: elibrary
 ---
 
-Kanopy allows you to play 10 classic and indie films or documentaries per calendar month using your PC, mobile device or TV service. Once you press 'play' on a standard film, you have three days to watch it as many times as you like without using up additional credits.
+<div class="pa3 bg-light-gray mb3" markdown="1">
+
+Looking to stream films, documentaries and courses in your browser? Visit the [Kanopy website](https://www.kanopy.com).
+
+</div>
+
+Kanopy allows you to play 10 classic and indie films or documentaries per calendar month using your PC, mobile device or TV service. You can also view unlimited courses. Once you press 'play' on a standard film, you have three days to watch it as many times as you like without using up additional credits.
 
 ## Setting up your device to watch films with Kanopy
 

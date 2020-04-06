@@ -1,0 +1,81 @@
+---
+title: "Online and streamed events"
+layout: featured
+header-bg: custom-bg-corporate
+featured-hero-description: "Enjoy live streamed and recorded library events & book groups from your home."
+featured-hero-image: "home/storytime.jpg"
+featured-hero-alt: "A girl watching a woman tell a story on TV."
+featured-hero-caption: "Southwold Library’s story time live streamed"
+breadcrumb: home
+pad-content: true
+---
+
+<div class="flex-l">
+
+  <div class="w-50-l pr3-l">
+
+    <h2 class="f3 custom-lh-title">Special online events</h2>
+
+    {% assign events = site.events | where: "event-online", "true" | sort: "event-start-date" %}
+
+    {% for event in events %}
+
+    {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+
+    {% if event.event-end-date %}
+
+        {% capture event-time-seconds %}{{event.event-end-date | date: '%s' }}{% endcapture %}
+
+    {% else %}
+
+        {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+
+    {% endif %}
+
+    {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+
+    {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+
+    {% if now-unix <= event-time %}
+
+        <article class="pv2">
+
+          <h3 class="f5 custom-lh-title mt0 mb1 pa0">{{ event.name }}</h3>
+
+          <p class="f6 gray mt0 mb1">{{ event.event-start-date | date: "%a %-d %b, %Y" }}{% if event.event-end-date %} – {{ event.event-end-date | date: "%a %-d %b, %Y" }}{% endif %}{% if event.event-start-time %}, {{ event.event-start-time }}{% endif %}</p>
+
+          <p class="f6 mt0 mb1"><a href="{{ event.url }}" class="custom-corporate underline">More info</a> / <a href="{{ event.link }}" class="bg-light-gray custom-corporate ba b--moon-gray pa1 br2">Link &rarr;</a></p>
+
+        </article>
+
+    {% endif %}
+
+    {% endfor %}
+
+  </div>
+
+  <div class="w-50-l pl3-l bl-l b--light-gray">
+
+    <h2 class="f3 custom-lh-title">Recurring activities and discussion groups</h2>
+
+    {% assign events = site.recurrents | where: "recurrent-online", "true" | sort: "recurrent-title" %}
+
+    {% for event in events %}
+
+      <article class="pv2">
+
+        <h3 class="f5 custom-lh-title mt0 mb1 pa0">{{ event.recurrent-title }}</h3>
+
+        <p class="f6 gray mt0 mb1">{% if event.recurrent-day %}{{ event.recurrent-day }}{% endif %}{% if event.recurrent-times %} {{ event.recurrent-times }}{% endif %}</p>
+
+        {% if event.recurrent-description %}<p class="f6 mt0 mb1">{{ event.recurrent-description}}</p>{% endif %}
+
+        <p class="f6 mt0 mb1"><a href="{{ event.url }}" class="custom-corporate underline">More info</a> / <a href="{{ event.link }}" class="bg-light-gray custom-corporate ba b--moon-gray pa1 br2">Link &rarr;</a></p>
+
+      </article>
+
+    {% endfor %}
+
+  </div>
+
+</div>

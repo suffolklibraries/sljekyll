@@ -5,9 +5,13 @@ breadcrumb: help
 sidebar: help
 ---
 
-<div class="pv3 bb b--light-gray">
+{% include callout.html message="Apply online for a library card and we’ll email your library card number within one working day so you can start using the eLibrary straight away." %}
+
+<div class="pv3">
 
 {% include /c/button-blue.html text="Apply for a card online now &rarr;" url="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN" %}
+
+<p class="f6 mt2 mb0">(Opens on a different website)</p>
 
 </div>
 
@@ -41,7 +45,7 @@ When you apply online you'll be taken to a different website.
 
 {% include /c/button-blue.html text="Apply for a card now &rarr;" url="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN" %}
 
-Please **allow 10 days** for us to send you the card.
+Note: We are not currently sending library cards in the post due to the coronavirus situation. However, **we will email your library card number within one working day so you can start using the eLibrary straight away**. We will also send your card in the post once the situation allows us to.
 
 If you are 16 or under you will need a guarantor.
 

@@ -40,9 +40,6 @@ branch-faxing: y
 branch-for-sale: Poetry book collated by Newmarket Library Friend Christine - £5 each with all proceeds to Friends of Newmarket Library and St Nicholas Hospice.
 breadcrumb: y
 branch-pride-and-periods: y
-branch-news: '<ul>
-              <li>The library will be closed on Sunday 1 March due to staff sickness.</li>
-              <li>We&apos;re looking for Code Club volunteers. Contact the library for more information and to get involved.</li>
-              </li>'
+branch-news: '<p class="ma0">We’re looking for Code Club volunteers. Contact the library for more info.</p>'
 meta-description: "Free computer access, wifi, printing, children's activities, older people's activities, health & wellbeing groups, sports equipment, free sanitary products."
 ---

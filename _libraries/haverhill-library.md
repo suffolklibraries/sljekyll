@@ -41,4 +41,5 @@ branch-other-facilities: '<ul>
                           <li>Reach Haverhill foodbank donation point</li>
                           </ul>'
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, sports equipment, free sanitary products."
+branch-news: "Closed Mon 6 Apr for refurbishment."
 ---

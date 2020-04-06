@@ -2,7 +2,15 @@
 title: Setting up Freegal on your device
 layout: sidebar-left
 breadcrumb: elibrary
+hnav: elibrary
 ---
+
+<div class="pa3 bg-light-gray mb3" markdown="1">
+
+Looking to download and stream music in your browser? Visit the [Freegal website](http://suffolklibraries.freegalmusic.com/).
+
+</div>
+
 Freegal allows you to download and stream MP3 files of music and MP4 files of music videos. This service is available on a tablet, smartphone or web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer.
 
 ## Setting up your device to download and stream music with Freegal

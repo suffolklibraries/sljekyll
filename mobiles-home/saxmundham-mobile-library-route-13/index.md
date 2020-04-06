@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: Saxmundham Mobile Library Route 13
+title: Leiston Mobile Library Route 13
 breadcrumb: mobiles-home
 ---
 ## Contact us:

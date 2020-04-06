@@ -14,6 +14,8 @@
 
             {% include breadcrumb.html %}
 
+            {% unless page.event-online %}{% include coronavirus-events-notification.html %}{% endunless %}
+
             <article class="cf custom-visited custom-underline">
 
                 <h1 class="{% include /c/page-title.html %}">{{ page.name }}</h1>
@@ -21,6 +23,12 @@
                 <div class="custom-g-l2">
 
                     <ul class="list ma0 pa0 mb2 mid-gray">
+
+                      {% if page.event-online %}
+
+                        <li class="mb2"><a class="blue b" href="{{ page.link }}">Join in online &rarr;</a></li>
+
+                      {% endif %}
 
                     {% if page.event-category == 'slaughter-author' %}
 

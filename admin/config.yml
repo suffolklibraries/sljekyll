@@ -6,34 +6,36 @@ backend:
 media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
 
 collections:
-  - name: "news" # Used in routes, e.g., /admin/collections/blog
-    label: "News post" # Used in the UI
-    folder: "news/_posts" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "sidebar-right"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Author (e.g. james-powell)", name: "author", widget: "string"}
-      - {label: "Publication date", name: "date", widget: "date"}
-      - {label: "Category", name: "category", widget: "hidden", default: "news"}
-      - {label: "Breadcrumb", name: "breadcrumb", widget: "hidden", default: "news"}
-      - {label: "Excerpt", name: "excerpt", widget: "text"}
-      - {label: "Body", name: "body", widget: "markdown"}
-
-
-files:
-  - label: "Weather updates"
-    name: "index.md"
-    file: "libraries/weather/index.md"
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "full-width"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Breadcrumb", name: "breadcrumb", widget: "hidden", default: "branches"}
-      - {label: "Date updated", name: "date-updated", widget: "date"}
-      - {label: "Time updated", name: "time-updated", widget: "string"}
-      - {label: "Featured", name: "featured", widget: "boolean"}
-      - {label: "Featured image (full path and file extension)", name: "featured-image", widget: "string"}
-      - {label: "Featured alt text", name: "featured-alt", widget: "string"}
-      - {label: "Featured excerpt", name: "featured-excerpt", widget: "string"}
-      - {label: "Featured link text", name: "featured-link-text", widget: "string"}
+    - name: "news" # Used in routes, e.g., /admin/collections/blog
+      label: "News post" # Used in the UI
+      folder: "news/_posts" # The path to the folder where the documents are stored
+      create: true # Allow users to create new documents in this collection
+      slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+      fields: # The fields for each document, usually in front matter
+        - {label: "Layout", name: "layout", widget: "hidden", default: "sidebar-right"}
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Author (e.g. james-powell)", name: "author", widget: "string"}
+        - {label: "Publication date", name: "date", widget: "date"}
+        - {label: "Category", name: "category", widget: "hidden", default: "news"}
+        - {label: "Breadcrumb", name: "breadcrumb", widget: "hidden", default: "news"}
+        - {label: "Excerpt", name: "excerpt", widget: "text"}
+        - {label: "Body", name: "body", widget: "markdown"}
+    - name: 'pages'
+      label: 'Pages'
+      editor:
+        preview: false
+      files:
+        - label: 'Coronavirus page'
+          name: 'coronavirus'
+          file: '/coronavirus/index.md'
+          fields:
+            - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'full-width' }
+            - { label: 'Title', name: 'title', widget: 'text', default: 'Suffolk Libraries and coronavirus' }
+            - { label: 'Breadcrumb', name: 'breadcrumb', widget: 'hidden', default: 'home' }
+            - { label: 'Callout text (in the purple box)', name: 'callout-text', widget: 'string', default: 'We’ll update this page as we get further information about coronavirus from the government, NHS and Suffolk County Council.' }
+            - { label: 'Featured', name: 'featured', widget: 'boolean', default: 'true' }
+            - { label: 'Featured image (full path and file extension)', name: 'featured-image', widget: 'string', default: '/images/coronavirus/coronavirus.jpg' }
+            - { label: 'Featured alt text', name: 'featured-alt', widget: 'string', default: 'NHS advice poster advising you to wash your hands more often for 20 seconds' }
+            - { label: 'Featured excerpt', name: 'featured-excerpt', widget: 'string', default: 'Up to date information on closures and cancellations.' }
+            - { label: 'Featured link text', name: 'featured-link-href-text', widget: 'string', default: 'Find out more &rarr;' }
+            - { label: 'Body', name: 'body', widget: 'markdown' }

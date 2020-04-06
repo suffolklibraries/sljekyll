@@ -23,5 +23,7 @@ branch-photocopying: A4 available
 branch-scan-to-email: y
 breadcrumb: y
 branch-payments: cash, cheques and cards accepted
+branch-news: "Raspberry Pi and Scratch volunteers required, contact the library for info."
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, Scratch coding club, pop-up café."
+branch-coronavirus: true
 ---

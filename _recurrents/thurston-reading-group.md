@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Reading group"
+recurrent-title: "Reading group, meets at members’ homes"
 recurrent-day: first Tuesday of the month
 recurrent-times: 1800-1900
 recurrent-location: thurston-library

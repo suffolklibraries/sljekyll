@@ -1,117 +1,130 @@
 ---
+layout: featured
 title: eLibrary
-layout: default
+header-bg: custom-bg-corporate
+featured-hero-description: "Free access to thousands of the latest eBooks, eAudio titles, magazines, newspapers, films, courses and streaming. For children and adults."
+featured-hero-image: "borrower/ebook.jpg"
+featured-hero-alt: "Man in a suit reading an eBook."
+# cta-text: "Sign up for free &rarr;"
+# cta-link: "/borrower/sign-up/"
 breadcrumb: home
+hnav: elibrary
 ---
 
-<h1 class="{% include /c/page-title.html %}">eLibrary</h1>
+{%
+  include z-bar.html
+  src="borrower/seabird.jpg"
+  alt="Close up of an eReader from over the shoulder of a reader"
+  bg-color="bg-near-white"
+  title="How it works"
+  text="Get free access to Android and iOS apps and websites with your library card number. Use your mobile, tablet, PC, laptop or eReader. No overdue fines. Don’t have a card?"
+  link="/help/joining-the-library/"
+  link-text="Sign up online now &rarr;"
+  link-color="custom-corporate"
+%}
 
-<div class="pa2 ph3-ns bg-dark-blue white">
+<div class="ph2 ph3-ns pv3 bg-light-gray">
 
-  <p class="ma0 f3"><strong>Free access to thousands of the latest eBooks, magazines, newspapers, eAudio and music</strong></p>
+  <h2 class="f3 custom-lh-title mb1 tc pa0">eLibrary staff picks</h2>
+
+  <p class="tc f6 mt0">A collection of recommendations, lists and articles from our staff for reading online. Perfect for if you’re stuck at home.</p>
+
+  <div class="flex flex-wrap jutify-start">
+
+    {% assign picks = site.elibrary-recommendations | reverse %}
+
+    {% for pick in picks limit:5 %}
+
+      <div class="w-50 w-third-ns w-20-l mv2 ph2">
+
+        <a href="{{ pick.url }}" class="db underline-hover blue">
+
+          <img class="db ma0 pa0" alt="{{ pick.alt }}" src="{{ pick.image }}">
+
+          <h3 class="f6 f5-l mv1 pa0 custom-lh-title normal tc blue">{{ pick.title }}</h3>
+
+        </a>
+
+      </div>
+
+    {% endfor %}
+
+  </div>
+
+  <p class="tc b"><a href="/elibrary/picks/" class="white bg-blue hover-bg-dark-blue pa2 br2">All staff picks &rarr;</a></p>
+
+</div>
+
+<div class="ph2 ph3-ns pv3">
+
+  <h2 class="f3 custom-lh-title mb1 tc pa0">Set up services on your device</h2>
+
+  <p class="tc f6 mt0">Works with ereaders, Mac and Windows PCs, Android phones and tablets and iPhones and iPads&hellip;</p>
 
 </div>
 
-<div class="bg-light-gray pa2 pa3-ns mb3 mb4-ns bb b--dark-blue bw2">
+{%
+  include z-bar.html
+  src="borrower/libby.jpg"
+  alt="Two smartphones with the Libby app on them"
+  bg-color="custom-bg-corporate"
+  color="white"
+  title="Overdrive Libby app"
+  text="Thousands of the latest eBooks and eAudio with the easy to use Libby app."
+  layout-reverse="true"
+  link="/elibrary/overdrive/"
+  link-text="Get started with Overdrive Libby &rarr;"
+  link-color="white"
+%}
 
-  <p class="mt0 mb1"></p>
+{%
+  include z-bar.html
+  src="borrower/kanopy.jpg"
+  alt="A laptop, mobile and tablet with Kanopy on them"
+  bg-color="bg-near-white"
+  title="Kanopy"
+  text="Stream indie and classic cinema, documentaries and courses."
+  link="/elibrary/kanopy/"
+  link-text="Get started with Kanopy &rarr;"
+  link-color="custom-corporate"
+%}
 
-  <ul class="mv0">
+{%
+  include z-bar.html
+  src="borrower/borrowbox.jpg"
+  alt="A laptop, mobile and tablet with Borrowbox on them"
+  bg-color="custom-bg-corporate"
+  color="white"
+  title="BorrowBox"
+  text="Thousands of the latest eAudio titles."
+  layout-reverse="true"
+  link="/elibrary/borrowbox/"
+  link-text="Get started with BorrowBox &rarr;"
+  link-color="white"
+%}
 
-    <li><a class="pv1 pv0-ns" href="/elibrary/borrowing-periods-and-allowances/">What you can borrow and for how long</a></li>
-    <li><a class="pv1 pv0-ns" href="/help/borrowing-ereaders-and-ipads/">Borrow iPads and eReaders from libraries</a></li>
-    <li><a class="pv1 pv0-ns" href="/help/joining-the-library/">Apply for a library card now</a></li>
-    <li><a class="pv1 pv0-ns" href="/new-suggestions/elibrary/">Find great eBooks, eAudio and more with our eLibrary recommendations</a></li>
+{%
+  include z-bar.html
+  src="borrower/pressreader.jpg"
+  alt="A mobile phone with The Guardian on it."
+  bg-color="bg-near-white"
+  title="PressReader"
+  text="Digital newsstand with thousands of the world’s most popular newspapers and magazines."
+  link="/elibrary/pressreader/"
+  link-text="Get started with PressReader &rarr;"
+  link-color="custom-corporate"
+%}
 
-  </ul>
-
-</div>
-
-<div class="flex-ns flex-wrap-ns justify-between-ns">
-
-    <section class="{% include /c/block.html %} w-50-ns mb3 pr3-ns">
-
-      <h2 class="{% include /c/block-title.html %}">OverDrive eBooks &amp; eAudio</h2>
-
-      <a class="db border-box ba bw3 b--light-gray br2 shadow-2" href="/elibrary/overdrive/"><img class="dib" src="/images/featured/featured-overdrive.jpg" class="custom-constrain-img db" alt="OverDrive titles"></a>
-
-      <p class="custom-lh-title f5">Thousands of the latest eBooks and eAudio.</p>
-
-      <ul class="{% include /c/block-list.html %}">
-
-          <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="http://suffolklibraries.lib.overdrive.com/">OverDrive website</a></li>
-          <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="/elibrary/overdrive/">Set up OverDrive</a></li>
-
-      </ul>
-
-    </section>
-
-    <section class="{% include /c/block.html %} w-50-ns mb3 pl3-ns">
-
-      <h2 class="{% include /c/block-title.html %}">BorrowBox eAudio</h2>
-
-      <a class="db border-box ba bw3 b--light-gray br2 shadow-2" href="/elibrary/borrowbox/"><img class="dib" src="/images/featured/featured-borrowbox.jpg" class="custom-constrain-img db" alt="BorrowBox titles"></a>
-
-      <p class="custom-lh-title f5">The latest eAudio for adults and children.</p>
-
-      <ul class="{% include /c/block-list.html %}">
-
-          <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="http://library.bolindadigital.com/suffolk">BorrowBox website</a></li>
-          <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="/elibrary/borrowbox/">Set up BorrowBox</a></li>
-
-      </ul>
-
-    </section>
-
-    <section class="{% include /c/block.html %} w-50-ns mb3 pr3-ns">
-
-      <h2 class="{% include /c/block-title.html %}">Freegal music</h2>
-
-      <a class="db border-box ba bw3 b--light-gray br2 shadow-2" href="/elibrary/freegal/"><img class="dib" src="/images/featured/featured-freegal.jpg" class="custom-constrain-img db" alt="Freegal artists"></a>
-
-      <p class="custom-lh-title f5">Free streaming and downloads.</p>
-
-      <ul class="{% include /c/block-list.html %}">
-
-          <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="http://suffolklibraries.freegalmusic.com/">Freegal website</a></li>
-          <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="/elibrary/freegal/">Set up Freegal</a></li>
-
-      </ul>
-
-    </section>
-
-    <section class="{% include /c/block.html %} w-50-ns mb3 pl3-ns">
-
-      <h2 class="{% include /c/block-title.html %}">Kanopy films, documentaries &amp; courses</h2>
-
-      <a class="db border-box ba bw3 b--light-gray br2 shadow-2" href="/elibrary/kanopy/"><img class="dib" src="/images/featured/featured-kanopy.jpg" class="custom-constrain-img db" alt="Kanopy titles"></a>
-
-      <p class="custom-lh-title f5">Indie &amp; arthouse cinema, documentaries and courses.</p>
-
-      <ul class="{% include /c/block-list.html %}">
-
-          <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="https://www.kanopy.com/">Kanopy website</a></li>
-          <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="/elibrary/kanopy/">Set up Kanopy</a></li>
-
-      </ul>
-
-    </section>
-
-    <section class="{% include /c/block.html %} w-50-ns mb3 pr3-ns">
-
-      <h2 class="{% include /c/block-title.html %}">PressReader newspapers &amp; magazines</h2>
-
-      <a class="db border-box ba bw3 b--light-gray br2 shadow-2" href="/elibrary/press-reader/"><img class="ddib" src="/images/featured/featured-press-reader.jpg" class="custom-constrain-img db" alt="PressReader titles"></a>
-
-      <p class="custom-lh-title f5">The latest magazines &amp; daily newspapers.</p>
-
-      <ul class="{% include /c/block-list.html %}">
-
-          <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="http://www.pressreader.com/">PressReader website</a></li>
-          <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="/elibrary/press-reader/">Set up PressReader</a></li>
-
-      </ul>
-
-    </section>
-
-</div>
+{%
+  include z-bar.html
+  src="borrower/freegal.jpg"
+  alt="A laptop, mobile and tablet with Borrowbox on them"
+  bg-color="custom-bg-corporate"
+  color="white"
+  title="Freegal"
+  text="Millions of free songs to stream and download."
+  layout-reverse="true"
+  link="/elibrary/freegal/"
+  link-text="Get started with Freegal &rarr;"
+  link-color="white"
+%}

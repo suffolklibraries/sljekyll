@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: Saxmundham Mobile Library Route 9
+title: Leiston Mobile Library Route 9
 breadcrumb: mobiles-home
 ---
 

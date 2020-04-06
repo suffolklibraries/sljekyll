@@ -13,9 +13,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.suffolklibraries.co.uk" # the base hostname & protocol for your site
 twitter_username: suffolklibrary
 github_username:  suffolklibraries
-# message: "Beat the winter blues at the library <span role='img' aria-label='Strong bicep'>💪</span>"
-# message_link: /jumpstart-january/
-# message_link_text: "Jumpstart your January &rarr;"
+# message: "<span role='image' aria-label='Warning sign' class='pr2'>⚠️</span> All library buildings closed, home and library services suspended."
+# message_link: /coronavirus/
+# message_link_text: "Latest Coronavirus updates &rarr;"
 
 # Build settings
 markdown: kramdown
@@ -46,6 +46,11 @@ collections:
         output: true
     recurrents:
         output: false
+    online-events:
+        output: true
+    elibrary-recommendations:
+        output: true
+
 defaults:
   - scope:
       type: libraries
@@ -55,6 +60,19 @@ defaults:
       type: events
     values:
       layout: event
+  - scope:
+      type: online-events
+    values:
+      layout: online-event
+      permalink: /events-activities/online-and-streamed-events/:name
+      breadcrumb: true
+  - scope:
+      type: elibrary-recommendations
+    values:
+      layout: elibrary-recommendation
+      permalink: /elibrary/picks/:name
+      breadcrumb: true
+      hnav: elibrary
 
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set

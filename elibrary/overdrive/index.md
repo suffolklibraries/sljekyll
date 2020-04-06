@@ -1,14 +1,21 @@
 ---
-title: Setting up OverDrive on your device
+title: Setting up OverDrive/Libby on your device
 layout: sidebar-left
 breadcrumb: elibrary
+hnav: elibrary
 ---
 
-OverDrive allows you to download eBooks and eAudiobooks. This service is available on a tablet, smartphone or web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer.
+<div class="pa3 bg-light-gray mb3" markdown="1">
+
+Looking to borrow eTitles in your browser? Visit the [OverDrive website](http://suffolklibraries.lib.overdrive.com/).
+
+</div>
+
+OverDrive/Libby allows you to download the latest children’s and adult eBooks and eAudiobooks for free. This service is available on a tablet, smartphone or web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer.
 
 You can also read eBooks and listen to eAudiobooks on a device that plays MP3 files, such as an iPod, tablet or smartphone using **OverDrive's app, Libby**. OverDrive is additionally available on some eReaders.
 
-## Devices compatible with OverDrive
+## Devices compatible with OverDrive and Libby
 
 * Tablets: any that run in iOS 9.0 or later, Android 4.4 or later or Windows 10
 * Smartphones: any that run in iOS 9.0 or later, Android 4.4 or later or Windows 10
@@ -16,7 +23,7 @@ You can also read eBooks and listen to eAudiobooks on a device that plays MP3 fi
 
 [Complete list of devices](http://help.overdrive.com/#devices)
 
-## Setting up OverDrive
+## Setting up OverDrive/Libby
 
 ### On a smartphone or tablet with the Libby app
 
@@ -49,7 +56,7 @@ You will need a Kobo or Nook or other account, depending on which eReader you ha
 2. Enter your library card number and click ‘Sign in’
 3. Suffolk Libraries OverDrive service will now be available to use
 
-## Borrowing eBooks or eAudio books with OverDrive
+## Borrowing eBooks or eAudio books with OverDrive/Libby
 
 ### On a tablet or smartphone using the Libby app
 

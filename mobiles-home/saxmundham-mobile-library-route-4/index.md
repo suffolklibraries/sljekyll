@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: Saxmundham Mobile Library Route 4
+title: Leiston Mobile Library Route 4
 breadcrumb: mobiles-home
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: Saxmundham Mobile Library Route 7
+title: Leiston Mobile Library Route 7
 breadcrumb: mobiles-home
 ---
 ## Contact us:

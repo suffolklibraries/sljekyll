@@ -17,7 +17,7 @@ branch-friends: Friends of Bury St Edmunds Library
 branch-for-sale: Stamps, A4 envelopes, plastic wallets, ballpoint pens, canvas bags
 branch-social-media: y
 branch-twitter: burylibsuffolk
-branch-facebook: burystedmundslibrary
+branch-facebook: BSELib
 branch-instagram: BuryStEdsLibrary
 branch-accessibility: https://www.accessable.co.uk/venues/bury-st-edmunds-library
 branch-payments: cash, cheques and cards accepted

@@ -4,7 +4,7 @@ title: 'Meet the Author: Stella Tillyard'
 date: 2020-03-03
 author: brandon-king
 category: meet-the-author
-excerpt: "Stella Tillyard gives us some insider information about her books <cite>Aristocrats</cite> and <cite>The Great Level</cite>, and tell us how she moved from writing non-fiction to fiction."
+excerpt: "Stella Tillyard gives us some insider information about her books <cite>Aristocrats</cite> and <cite>The Great Level</cite>, and tells us how she moved from writing non-fiction to fiction."
 featured-image: /images/featured/featured-stella-tillyard.jpg
 featured-alt: "Stella Tillyard"
 breadcrumb: meet-the-author

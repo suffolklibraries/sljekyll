@@ -6,4 +6,5 @@ recurrent-location: beccles-library
 recurrent-location-display-name: Beccles Library
 recurrent-location-display-url: /branches/beccles-library/
 recurrent-category: ["children", "primary"]
+recurrent-corona: true
 ---
