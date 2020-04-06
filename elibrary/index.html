@@ -17,49 +17,14 @@ hnav: elibrary
   alt="Close up of an eReader from over the shoulder of a reader"
   bg-color="bg-near-white"
   title="How it works"
-  text="Get free access to Android and iOS apps and websites with your library card number. Use your mobile, tablet, PC, laptop or eReader. No overdue fines. Don’t have a card?"
-  link="/help/joining-the-library/"
-  link-text="Sign up online now &rarr;"
-  link-color="custom-corporate"
+  text="Get free access to Android and iOS apps and websites with your library card number. Use your mobile, tablet, PC, laptop or eReader. No overdue fines. Don’t have a card? <br><a href='/help/joining-the-library/' class='b custom-corporate underline'>Sign up online now &rarr;</a> <br>(<a href='https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/PGM/OPAC/CCOPT/RPWD/1' class='f6 custom-corporate underline'>Forgot your library card PIN?</a>)"
 %}
 
-<div class="ph2 ph3-ns pv3 bg-light-gray">
-
-  <h2 class="f3 custom-lh-title mb1 tc pa0">eLibrary staff picks</h2>
-
-  <p class="tc f6 mt0">A collection of recommendations, lists and articles from our staff for reading online. Perfect for if you’re stuck at home.</p>
-
-  <div class="flex flex-wrap jutify-start">
-
-    {% assign picks = site.elibrary-recommendations | reverse %}
-
-    {% for pick in picks limit:5 %}
-
-      <div class="w-50 w-third-ns w-20-l mv2 ph2">
-
-        <a href="{{ pick.url }}" class="db underline-hover blue">
-
-          <img class="db ma0 pa0" alt="{{ pick.alt }}" src="{{ pick.image }}">
-
-          <h3 class="f6 f5-l mv1 pa0 custom-lh-title normal tc blue">{{ pick.title }}</h3>
-
-        </a>
-
-      </div>
-
-    {% endfor %}
-
-  </div>
-
-  <p class="tc b"><a href="/elibrary/picks/" class="white bg-blue hover-bg-dark-blue pa2 br2">All staff picks &rarr;</a></p>
-
-</div>
-
-<div class="ph2 ph3-ns pv3">
+<div class="ph2 ph3-ns pv3 pv4-ns">
 
   <h2 class="f3 custom-lh-title mb1 tc pa0">Set up services on your device</h2>
 
-  <p class="tc f6 mt0">Works with ereaders, Mac and Windows PCs, Android phones and tablets and iPhones and iPads&hellip;</p>
+  <p class="tc f6 ma0">Works with ereaders, Mac and Windows PCs, Android phones and tablets and iPhones and iPads&hellip;</p>
 
 </div>
 
@@ -128,3 +93,35 @@ hnav: elibrary
   link-text="Get started with Freegal &rarr;"
   link-color="white"
 %}
+
+<div class="ph2 ph3-ns pv3 bg-light-gray">
+
+  <h2 class="f3 custom-lh-title mb1 tc pa0">eLibrary staff picks</h2>
+
+  <p class="tc f6 mt0">A collection of recommendations, lists and articles from our staff for reading online. Perfect for if you’re stuck at home.</p>
+
+  <div class="flex flex-wrap jutify-start">
+
+    {% assign picks = site.elibrary-recommendations | reverse %}
+
+    {% for pick in picks limit:5 %}
+
+      <div class="w-50 w-third-ns w-20-l mv2 ph2">
+
+        <a href="{{ pick.url }}" class="db underline-hover blue">
+
+          <img class="db ma0 pa0" alt="{{ pick.alt }}" src="{{ pick.image }}">
+
+          <h3 class="f6 f5-l mv1 pa0 custom-lh-title normal tc blue">{{ pick.title }}</h3>
+
+        </a>
+
+      </div>
+
+    {% endfor %}
+
+  </div>
+
+  <p class="tc b"><a href="/elibrary/picks/" class="white bg-blue hover-bg-dark-blue pa2 br2">All staff picks &rarr;</a></p>
+
+</div>

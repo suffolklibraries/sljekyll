@@ -11,7 +11,8 @@ sidebar: help
 
 {% include /c/button-blue.html text="Apply for a card online now &rarr;" url="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN" %}
 
-<p class="f6 mt2 mb0">(Opens on a different website)</p>
+<p class="f6 mb0">(Opens on a different website)</p>
+<p class="f6 mt1 mb0">(<a href='https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/PGM/OPAC/CCOPT/RPWD/1' class='f6'>Forgot your PIN?</a>)</p>
 
 </div>
 
