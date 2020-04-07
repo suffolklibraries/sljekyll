@@ -11,7 +11,7 @@ excerpt: >-
 ---
 Suffolk Libraries is promoting its collections of unlimited use eBooks which would be ideal for anyone thinking of setting up virtual book groups.
 
-Most library eBooks work like physical books in that individual copies can only be borrowed one at a time. Suffolk Libraries now has two new collections of 25 eBook titles with unlimited copies available for loan via the Overdrive service.
+Most library eBooks work like physical books in that individual copies can only be borrowed one at a time. Suffolk Libraries now has two new collections of 25 eBook titles with unlimited copies available for loan via the [Overdrive service](https://www.suffolklibraries.co.uk/elibrary/overdrive/).
 
 This means they can be borrowed by anyone with no waiting times and are ideal for book groups.
 
