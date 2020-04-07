@@ -17,6 +17,7 @@ branch-friends: Friends of Capel Library
 branch-social-media: y
 branch-twitter: capellibrary
 branch-facebook: capellibrary
+branch-instagram: capellibrary
 branch-accessibility: https://www.accessable.co.uk/venues/capel-st-mary-library
 branch-payments: cash, cheques and cards accepted
 branch-parking: car parks available beside the children's play area and in the shopping precinct a short distance away
