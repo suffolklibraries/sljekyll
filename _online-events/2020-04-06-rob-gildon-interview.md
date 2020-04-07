@@ -1,7 +1,7 @@
 ---
 title: "Interview with Rob Gildon"
 format: recording
-category: group
+category: interview
 service: youtube
 link: NIO4JgWRsfg
 featured-recording: true
