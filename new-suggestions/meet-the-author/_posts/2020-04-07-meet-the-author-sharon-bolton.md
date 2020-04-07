@@ -12,9 +12,9 @@ breadcrumb: meet-the-author
 
 ![Sharon Bolton](/images/featured/featured-sharon-bolton.jpg)
 
-Sharon (formerly known as S.J.) Bolton grew up in a cotton-mill town in Lancashire. Her first novel, [<cite>Sacrifice</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=99452), was voted Best New Read by Amazon.uk, whilst her second, [<cite>Awakening</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=98596), won the 2010 Mary Higgins Clark award. In 2014, [<cite>Lost</cite>], (UK title, [<cite>Like This, For Ever</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1346020)) was named RT Magazine’s Best Contemporary Thriller in the US, and in France, [<cite>Now You See Me</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=99465) won the Plume de Bronze. That same year, Sharon was awarded the CWA Dagger in the Library for her entire body of work.
+Sharon (formerly known as S.J.) Bolton grew up in a cotton-mill town in Lancashire. Her first novel, [<cite>Sacrifice</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=99452), was voted Best New Read by Amazon.uk, whilst her second, [<cite>Awakening</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=98596), won the 2010 Mary Higgins Clark award. In 2014, <cite>Lost</cite>, (UK title, [<cite>Like This, For Ever</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1346020)) was named RT Magazine’s Best Contemporary Thriller in the US, and in France, [<cite>Now You See Me</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=99465) won the Plume de Bronze. That same year, Sharon was awarded the CWA Dagger in the Library for her entire body of work.
 
-Sharon's latest novel [<cite>The Split</cite](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2714413) is due at the end of May and can be ordered through Suffolk Libraries.
+Sharon's latest novel [<cite>The Split</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2714413) is due at the end of May and can be ordered through Suffolk Libraries.
 
 
 ## 1.	Who were your literary heroes as you were growing up and when did you first realise that you wanted to write?
@@ -52,4 +52,4 @@ Thank you for reading and please continue to do so. I hardly know Suffolk at all
 ## 9. Can you tell us one thing about yourself that your readers may not know?
 I’m a wild swimmer (not to be confused with being a good swimmer)  
 
-Sharon's latest novel [<cite>The Split</cite](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2714413) is due at the end of May and can be ordered through Suffolk Libraries.
+Sharon's latest novel [<cite>The Split</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2714413) is due at the end of May and can be ordered through Suffolk Libraries.
