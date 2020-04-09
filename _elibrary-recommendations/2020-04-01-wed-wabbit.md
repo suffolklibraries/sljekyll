@@ -41,5 +41,5 @@ You can hear [Lissa talking about the book](https://vimeo.com/266009654).
 - Have a go at drawing the characters of Wed Wabbit or the various Wimbley Woos from their descriptions in the opening chapters.
 - Draw your own a map of Wimbley Land, see how much you can remember.
 - The dungeons contain Minnie’s greatest dislikes and worst fears. Using strips of paper, write out a list of things that would populate your dungeon and then arrange them to create a free verse poem.
-- Make some playdough at home and [mould your own Wimbley Woos](https://www.bbcgoodfood.com/howto/guide/playdough-recipe)
-- Create your own [puppet characters](https://www.netmums.com/activities/top-puppet-making-ideas-for-kids) and send them on an adventure
+- [Make some playdough at home](https://www.bbcgoodfood.com/howto/guide/playdough-recipe) and mould your own Wimbley Woos
+- Create your own [puppet characters](/events-activities/online-and-streamed-events/2020-04-06-ipswich-rabbit-sock-puppets) and send them on an adventure
