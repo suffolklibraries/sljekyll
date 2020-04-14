@@ -8,7 +8,7 @@ category: eAudio
 kids-book-group: true
 ---
 
-Unlimited copies of <cite>Wed Wabbit</cite> by bestselling author Lissy Evans are available to borrow from Borrowbox from 1 April.
+Unlimited copies of <cite>Wed Wabbit</cite> by bestselling author Lissa Evans are available to borrow from Borrowbox from 1 April.
 
 <cite>Wed Wabbit</cite> was shortlisted for the CILIP Carnegie Medal in 2018 and the Costa Children's Book Award in 2017.
 
