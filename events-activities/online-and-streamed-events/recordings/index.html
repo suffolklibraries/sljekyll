@@ -2,23 +2,27 @@
 title: "Recorded events and activities"
 layout: new-blank
 breadcrumb: home
-pad-content: true
 jquery: true
 ling: true
 ---
 
-<h1 class="f3 f2-ns custom-lh-title">Recorded events and activities</h1>
+<header class="ph2 ph3-ns">
 
-<div class="mv3 f6 pb2 bb b--light-gray" id="event-cats">
+  <h1 class="f3 f2-ns custom-lh-title">Recorded events and activities</h1>
 
-    <div class="db dib-ns mb2 mb0-ns mr2-ns">Filter recordings: </div>
+  <div class="mv3 f6 pb2 bb b--light-gray" id="event-cats">
 
-    <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns mr2-ns" data-tag="all" href="#">All</a>
-    <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns mr2-ns" data-tag="children" href="#">Children</a>
-    <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns mr2-ns" data-tag="group" href="#">Reviews</a>
-    <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns" data-tag="interview" href="#">Artist interviews & workshops</a>
+      <div class="db dib-ns mb2 mb0-ns mr2-ns">Filter recordings: </div>
 
-</div>
+      <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns mr2-ns" data-tag="all" href="#">All</a>
+      <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns mr2-ns" data-tag="children" href="#">Children</a>
+      <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns mr2-ns" data-tag="health" href="#">Health & wellbeing</a>
+      <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns mr2-ns" data-tag="group" href="#">Reviews</a>
+      <a class="db dib-ns ph2 pv1 br2 blue bg-light-gray mb2 mb0-ns" data-tag="interview" href="#">Artist interviews</a>
+
+  </div>
+
+</header>
 
 <div id="all-events" class="flex-ns flex-wrap-ns justify-start-ns">
 
@@ -26,7 +30,7 @@ ling: true
 
 {% for event in events %}
 
-  <article class="mv3 pb1 w-50-ns w-third-l ph2-ns" data-category="{% for cat in event.category %}{{ cat }}{% endfor %}">
+  <article class="mv3 pb1 w-50-ns w-25-l ph2 ph3-ns" data-category="{% for cat in event.category %}{{ cat }}{% endfor %}">
 
     {% if event.service == "youtube" %}
 

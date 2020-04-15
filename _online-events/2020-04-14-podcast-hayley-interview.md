@@ -2,7 +2,7 @@
 title: "Interview with author Hayley Long"
 format: recording
 link: LXjYyH9dV_I
-category: health
+category: interview
 service: youtube
 featured-recording: true
 ---
