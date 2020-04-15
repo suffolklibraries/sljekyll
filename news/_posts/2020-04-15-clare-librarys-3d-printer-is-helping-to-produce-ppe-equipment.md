@@ -12,7 +12,7 @@ Clare Library’s 3D printer has been put to good use whilst the library is clos
 
 The library’s printer was first used to produce fixings for a screen to protect staff at the local pharmacy. 
 
-It’s now being used to print parts for face shields which Ipswich Hospital will then be distributing them where they are needed throughout Suffolk. Other volunteers are preparing acetate sheets and elastic to complete the face masks.
+It’s now being used to print parts for face shields which Ipswich Hospital will then be distributing to where they are needed throughout Suffolk. Other volunteers are preparing acetate sheets and elastic to complete the face masks.
 
 The scheme is being organised by BT at Martlesham who are collating and passing on the various 3D printed materials to a the hospital. 
 
