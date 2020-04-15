@@ -1,6 +1,6 @@
 ---
 title: Wed Wabbit (unlimited copies!)
-link: https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_385696&fromPage=1&b2bSite=4172
+link: "https://fe.bolindadigital.com/wldcs_bol_fo/b2i/productDetail.html?productId=BOL_385696&fromPage=1&b2bSite=4172"
 image: /images/elibrary/wed-wabbit.jpg
 alt: "Wed Wabbit: Don't laugh, it's dangerous"
 service: BorrowBox

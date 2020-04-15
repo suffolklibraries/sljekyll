@@ -1,6 +1,6 @@
 ---
 title: Mood-boosting music playlists
-web-link: https://suffolklibraries.freegalmusic.com/search-page/Walk%2520it%2520Out%253A%2520A%2520Walking%2520Playlist/playlists/286694
+link: "https://suffolklibraries.freegalmusic.com/search-page/Walk%2520it%2520Out%253A%2520A%2520Walking%2520Playlist/playlists/286694"
 image: /images/elibrary/walk-it-out.jpg
 alt: "Walk it out: A walking playlist"
 service: Freegal

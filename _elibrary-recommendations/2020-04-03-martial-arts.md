@@ -1,6 +1,6 @@
 ---
 title: Stream martial arts courses
-web-link: https://suffolklibraries.kanopy.com/video/mastering-tai-chi
+link: "https://suffolklibraries.kanopy.com/video/mastering-tai-chi"
 image: /images/elibrary/mastering-tai-chi.jpg
 alt: Mastering tai chi
 service: Kanopy

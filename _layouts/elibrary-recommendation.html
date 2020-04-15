@@ -59,7 +59,17 @@
             {% endif %}
 
             {% if page.link %}
-            <li><a class="pv1 bt b--light-gray db" href="{{ page.link }}">See this pick on the {{ page.service }} website</a></li>
+
+              {% if page.service.first %}
+
+              <li><a class="pv1 bt b--light-gray db" href="{{ page.link }}">See this pick on the {{ page.service[0] }} website</a></li>
+
+              {% else %}
+
+              <li><a class="pv1 bt b--light-gray db" href="{{ page.link }}">See this pick on the {{ page.service }} website</a></li>
+
+              {% endif %}
+
             {% endif %}
 
             {% if page.service %}

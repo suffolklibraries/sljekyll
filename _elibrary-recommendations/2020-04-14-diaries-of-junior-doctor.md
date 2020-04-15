@@ -1,6 +1,6 @@
 ---
 title: "This is going to hurt: Secret diaries of a junior doctor"
-link: https://suffolklibraries.overdrive.com/media/3413347
+link: "https://suffolklibraries.overdrive.com/media/3413347"
 image: /images/elibrary/going-to-hurt.jpg
 alt: "This is going to hurt: Secret diaries of a junior doctor"
 service: ["Overdrive", "Borrowbox"]

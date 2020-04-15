@@ -1,6 +1,6 @@
 ---
 title: The Philosopher’s Stone – Unlimited!
-web-link: https://suffolklibraries.overdrive.com/collection/1060445
+link: "https://suffolklibraries.overdrive.com/collection/1060445"
 image: /images/elibrary/harry-potter.jpg
 alt: "Harry Potter and the Philosopher's Stone"
 service: Overdrive

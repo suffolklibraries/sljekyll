@@ -1,6 +1,6 @@
 ---
 title: Meditation and yoga courses
-web-link: https://suffolklibraries.kanopy.com/video/yoga-healthy-mind-and-body
+link: "https://suffolklibraries.kanopy.com/video/yoga-healthy-mind-and-body"
 image: /images/elibrary/meditation-and-yoga.jpg
 alt: "The Great Courses: Yoga"
 service: Kanopy
