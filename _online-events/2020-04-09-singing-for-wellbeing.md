@@ -7,4 +7,4 @@ link: jaznzGAqVO0
 format: recording
 ---
 
-Gayla from Leiston Library shows you how to make granola. An easy recipe which children can help to make – and eat!
+Rob takes us through some singing exercises that will make you feel great. 

@@ -7,3 +7,5 @@ link: mCTr31E-mWQ
 service: youtube
 featured-recording: true
 ---
+
+Gayla from Leiston Library shows you how to make granola. An easy recipe which children can help to make – and eat!
