@@ -2,7 +2,7 @@
 layout: featured
 title: "Kanopy"
 header-bg: custom-bg-corporate-green
-featured-hero-description: "Bored of Netflix? Live stream indie cinema, documentaries, courses and children’s entertainment for free."
+featured-hero-description: "Try something you won’t find on Netflix. Live stream indie cinema, documentaries, courses and children’s entertainment for free."
 featured-hero-image: "borrower/kanopy.jpg"
 featured-hero-alt: "Kanopy set up a TV, laptop, tablet and phone."
 # cta-text: "Sign up for free &rarr;"
