@@ -26,7 +26,7 @@ Got your card number and PIN? **[Set up Kanopy on your device &rarr;](/elibrary/
 
 ## Content
 
-A wide range of indie, arthouse and classic films, as well animated shorts and documentaries. Also includes The Great Courses – high quality courses on a huge range of subjects delivered by experts in their fields. All for free.
+A wide range of indie, arthouse and classic films, as well as animated shorts and documentaries. Also includes The Great Courses – high quality courses on a huge range of subjects delivered by experts in their fields. All for free.
 
 <img class="db mv3 pa0" src="/images/borrower/kanopy-2.jpg" alt="Kanopy screenshot with links to films, documentaries and courses.">
 
