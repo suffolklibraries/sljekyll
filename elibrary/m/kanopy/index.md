@@ -32,9 +32,9 @@ A wide range of indie, arthouse and classic films, as well as animated shorts an
 
 ## What it works on
 
-- Laptops and desktop PCs
-- Smartphone
-- Tablets
+- Laptops and desktop PCs (Windows, Mac and Linux)
+- Smartphones (iOS and Android)
+- Tablets (iOS and Android)
 - Cast to smart TVs (with a Chromecast, for example) or use the Kanopy Smart TV/Roku app (see [which TVs have the app](https://help.kanopy.com/hc/en-us/articles/360019042413-Kanopy-TV-Apps))
 
 ## Limits
