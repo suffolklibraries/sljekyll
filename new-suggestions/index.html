@@ -20,7 +20,9 @@ breadcrumb: home
 
   <div class="flex flex-wrap justify-around justify-between-ns">
 
-    {% for pick in site.elibrary-recommendations limit:4 %}
+    {% assign picks = site.elibrary-recommendations | where: "featured-pick", "true" | reverse %}
+
+    {% for pick in picks limit:4 %}
 
       <div class="w-40 w-20-ns mv2">
 

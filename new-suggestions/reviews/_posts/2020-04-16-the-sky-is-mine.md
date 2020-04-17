@@ -5,7 +5,7 @@ date: 2020-04-16
 author: emily-mitchell
 category: staff-picks
 excerpt: 'Beashel is a shining new voice in YA, with brilliant dialogue and character craft.'
-featured-image: /images/featured/featured-the-sky-in-mine.jpg
+featured-image: /images/featured/featured-the-sky-is-mine.jpg
 featured-alt: "I will not be silenced. The Sky is Mine. Amy Beashel"
 breadcrumb: staff-picks
 ---
