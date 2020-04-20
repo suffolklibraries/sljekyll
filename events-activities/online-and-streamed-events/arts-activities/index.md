@@ -14,7 +14,7 @@ breadcrumb: home
 
 ### [DanceEast 20 minute dancing exercises →](https://www.danceeast.co.uk/get-dancing/home-dance/)
 
-DanceEast’s terrific programme of 20-minute light dance exercises for children, young people, adults and older people:
+DanceEast’s terrific programme of 20-minute light dance exercises for children, young people, adults and older people.
 
 ## Let’s make Suffolk’s history
 
@@ -42,11 +42,11 @@ Designed for all ages and abilities, featuring contributions from UK artists inc
 
 ### [Free National Theatre pieces →](https://www.nationaltheatre.org.uk/nt-at-home)
 
-Enjoy the National Theatre online, for free, during the lock down. A new piece goes up every Thursday:
+Enjoy the National Theatre online, for free, during the lock down. A new piece goes up every Thursday.
 
 ### [Short films about real life Suffolk experiences →](https://redrosechain.com/film-friday/)
 
-Suffolk’s Red Rose Chain are sharing their work with disadvantaged and disabled young people and adults. Quirky short films about real life experiences in Suffolk, a new project is featured every Friday:
+Suffolk’s Red Rose Chain are sharing their work with disadvantaged and disabled young people and adults. Quirky short films about real life experiences in Suffolk, a new project is featured every Friday.
 
 ## Let’s get writing
 
