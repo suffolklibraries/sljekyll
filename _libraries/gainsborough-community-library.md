@@ -27,7 +27,6 @@ branch-refreshments: available in our café
 branch-display-space: two cork boards in cafe area for A3, A4 or A5 posters
 branch-which: y
 branch-wifi: y
-branch-borrowing-ereaders-and-ipads: an eReader
 branch-colour-printing: A4 or smaller available
 branch-photocopying: black and white, A4 or A3 available
 branch-scan-to-email: y
@@ -40,7 +39,6 @@ branch-other-facilities: '<ul>
 branch-pride-and-periods: y
 meta-description: "Free computer access, wifi, printing, room hire, children's activities, older people's activities, health & wellbeing groups, sports equipment, free sanitary products."
 branch-news: '<ul>
-              <li>The library will be opening at <strong>10:30am on Thursday 2 April</strong>.</li>
               <li><a href="/assets/pdf/gainsborough-cafe-volunteer-role-profile.pdf">Voices 4 Gainsborough Community Library are looking for volunteers to help run the library café</a> (link opens a PDF about the role).</li>
               </ul>'
 ---
