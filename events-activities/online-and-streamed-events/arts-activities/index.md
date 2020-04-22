@@ -78,7 +78,7 @@ From art to archaeology, Ipswich Museum brings the museum to you with a host of 
 
 Pick an object from the museum’s catalogue and work together to uncover fascinating stories.
 
-[More museum activities →](https://suffolkmuseums.org/events/)
+[See more museum activities on the Suffolk Museums website →](https://suffolkmuseums.org/events/)
 
 ## Let’s get writing
 
