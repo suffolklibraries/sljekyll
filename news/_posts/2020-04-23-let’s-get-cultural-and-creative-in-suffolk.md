@@ -27,6 +27,10 @@ Ivan Cutting from the We are Ipswich partnership, said:
 
 “We’ve had to get creative, but that’s in our blood. The launch of this what’s on guide demonstrates the breadth of theatres, museums and arts organisations, who can still look after people and bring them joy even when we’re all stuck at home. It is also important that people continue to support us so we are able to open our doors again in the future.”
 
+<<<<<<< HEAD
 The new page can be found at [www.suffolklibraries.co.uk/letsgetcreative](https://www.suffolklibraries.co.uk/letsgetcreative)
+=======
+The new page can be found at [www.suffolklibraries.co.uk/letsgetcreative](http://www.suffolklibraries.co.uk/letsgetcreative)
+>>>>>>> 50ca19558e6cf1f8ead0a5ae765f4b3e67b64c0a
 
 Suffolk Libraries is also offering a wide range of [online activities](https://www.suffolklibraries.co.uk/events-activities/online-and-streamed-events/) being run remotely by library staff including podcasts and artists workshops.
