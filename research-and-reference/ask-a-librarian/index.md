@@ -15,7 +15,7 @@ Looking for trusted and reliable information on the internet? Our team of traine
 
     <div class="pa2 pa3-ns bg-light-gray ba b--moon-gray">
 
-      <p class="f6 ma0">All fields compulsory</p>
+      <p class="f6 ma0">Fileds marked <span class="red">*</span> compulsory</p>
 
       <label for="name" class="f6 mt2 db">Name <span class="red">*</span></label>
       <input type="text" name="name" id="name" class="border-box w-100 w-50-ns pa1 ba b--moon-gray">
