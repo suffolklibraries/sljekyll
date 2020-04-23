@@ -12,7 +12,9 @@ A new online resource has been launched to make it easy for people to find quali
 
 The new Let’s Get Cultural and Creative web directory is being hosted by Suffolk Libraries with the content coordinated by Suffolk County Council and local arts partner organisations.
 
-The idea came from the ‘We are Ipswich’ cultural network of arts organisations to bring together the very best of what’s on offer online.  The directory includes a wide choice of links to local and national activities to enjoy including dance exercises from Dance East, Time Out’s virtual gallery tours, free National Theatre pieces and Red Rose Chain’s short films about real life Suffolk experiences.  Several local organisations have been working together to develop the project including Suffolk Libraries, Suffolk County Council, the Association for Suffolk Museums and the We are Ipswich partnership which includes DanceEast, Eastern Angles, Gecko, New Wolsey Theatre, Pacitti Company (SPILL Festival), Red Rose Chain, Ipswich Museums and Ipswich Borough Council theatres (Ipswich Regent Theatre and Corn Exchange). 
+The idea came from the ‘We are Ipswich’ cultural network of arts organisations to bring together the very best of what’s on offer online.  The directory includes a wide choice of links to local and national activities to enjoy including dance exercises from Dance East, Time Out’s virtual gallery tours, free National Theatre pieces and Red Rose Chain’s short films about real life Suffolk experiences.  
+
+Several local organisations have been working together to develop the project including Suffolk Libraries, Suffolk County Council, the Association for Suffolk Museums and the We are Ipswich partnership which includes DanceEast, Eastern Angles, Gecko, New Wolsey Theatre, Pacitti Company (SPILL Festival), Red Rose Chain, Ipswich Museums and Ipswich Borough Council theatres (Ipswich Regent Theatre and Corn Exchange). 
 
 Melissa Matthews, Creative Programmes Manager at Suffolk Libraries, said:
 
