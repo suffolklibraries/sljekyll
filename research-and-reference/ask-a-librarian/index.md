@@ -40,9 +40,21 @@ breadcrumb: true
 
   <div class="w-third-l pl3-l bl-l b--light-gray mt3">
 
-    <h2 class="f4 custom-lh-title pa0 mt0 mb2">Meet our information professionals</h2>
+    <h2 class="f4 custom-lh-title pa0 mt0 mb2">What can we help with?</h2>
 
-    <p>Some nice text about a librarian.</p>
+    <div class="f6">
+
+      <p>Answers where you need to trust the source and quality of the information. For example:</p>
+
+      <ul>
+
+      <li>Where can I go for reliable information about the coronavirus?</li>
+      <li>Which local organisations can help me with my health or wellbeing?</li>
+      <li>I’m a parent and need some ideas for entertaining my children.</li>
+
+      </ul>
+
+    </div>
 
   </div>
 
