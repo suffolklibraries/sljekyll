@@ -40,35 +40,31 @@ breadcrumb: true
 
   <div class="w-40-l pl3-l bl-l b--light-gray mt3">
 
-    <h2 class="f4 custom-lh-title pa0 mt0 mb2">What can we help with?</h2>
+      <h2 class="f5 custom-lh-title pa0 mt0 mb2">Meet our librarians</h2>
 
-    <div class="f6">
+      <h3 class="f6 custom-lh-title pa0 mt0 mb2">Sanphra Willmott</h3>
 
-      <p>Answers where you need to trust the source and quality of the information. For example:</p>
+      <img class="mw2 mw3-ns fl mr3 v-btm" src="/images/staff/sw.png" alt="Sanphra Wilmott">
 
-      <ul>
+      <p class="mt0 f6">Sanphra has worked for Suffolk Libraries for 13 years, managing libraries and in our stock team. She has a BA (Hons) in English, History and Humanities.</p>
+
+      <h3 class="f6 custom-lh-title pa0 mt0 mb2">Kellie Dimmock</h3>
+
+      <img class="mw2 mw3-ns fr ml3 v-btm" src="/images/staff/kd.png" alt="Kellie Dimmock">
+
+      <p class="mt0 f6">Kellie has worked for Suffolk Libraries for 13 years, overseeing our online reference and research subscriptions and working with organisations such as Macmillan Cancer Support, Age UK, the Alzheimer’s Society and the DWP to support staff and customers with Universal credit and work and benefits queries. She has a BA (Hons) degree in History of Art.</p>
+
+      <h2 class="f5 custom-lh-title pa0 mt0 mb2">What can we help with?</h2>
+
+      <p class="f6">Answers where you need to trust the source and quality of the information. For example:</p>
+
+      <ul class="f6">
 
       <li>Where can I go for reliable information about the coronavirus?</li>
       <li>Which local organisations can help me with my health or wellbeing?</li>
       <li>I’m a parent and need some ideas for entertaining my children.</li>
 
       </ul>
-
-      <h3 class="f5 custom-lh-title pa0 mt0 mb2">Meet our librarians</h3>
-
-      <h4 class="f6 custom-lh-title pa0 mt0 mb2">Sanphra Willmott</h4>
-
-      <img class="mw2 mw3-ns fl mr3 v-btm" src="/images/staff/sw.png" alt="Sanphra Wilmott">
-
-      <p class="mt0">Sanphra has worked for Suffolk Libraries for 13 years, managing libraries and in our stock team. She has a BA (Hons) in English, History and Humanities.</p>
-
-      <h4 class="f6 custom-lh-title pa0 mt0 mb2">Kellie Dimmock</h4>
-
-      <img class="mw2 mw3-ns fr ml3 v-btm" src="/images/staff/kd.png" alt="Kellie Dimmock">
-
-      <p class="mt0">Kellie has worked for Suffolk Libraries for 13 years, overseeing our online reference and research subscriptions and working with organisations such as Macmillan Cancer Support, Age UK, the Alzheimer’s Society and the DWP to support staff and customers with Universal credit and work and benefits queries. She has a BA (Hons) degree in History of Art.</p>
-
-    </div>
 
   </div>
 

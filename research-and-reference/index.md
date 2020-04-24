@@ -8,6 +8,16 @@ breadcrumb: home
 sidebar: information-resources
 ---
 
+<div class="pa3 custom-bg-corporate white">
+
+  <h2 class="f4 custom-lh-title pa0 mt0 mb1">Ask a Librarian</h2>
+
+  <p class="f6 mb0">Looking for trusted and reliable information on the internet? Our team of information professionals can point you in the right direction.</p>
+
+  <p class="mb0"><a href="/research-and-reference/ask-a-librarian/" class="custom-force-white b underline">Ask a Librarian &rarr;</a></p>
+
+</div>
+
 The following free resources are recommended or provided by Suffolk Libraries.
 
 Unless otherwise stated, they are available from any location. Please be aware that you will need your library card and PIN to access some of them.
