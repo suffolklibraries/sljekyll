@@ -10,6 +10,6 @@ no-index: true
 
 <div class="measure">
 
-  <p>We will take a look at your question and get to work on it. Then we will email you a response within two working days. <a class="blue" href="/research-and-reference/ask-a-librarian/">Ask another question</a>.</p>
+  <p>We will take a look at your question and get to work on it. Then we will email you a response within 3-5 working days, depending on how complex your query is. <a class="blue" href="/research-and-reference/ask-a-librarian/">Ask another question</a>.</p>
 
 </div>

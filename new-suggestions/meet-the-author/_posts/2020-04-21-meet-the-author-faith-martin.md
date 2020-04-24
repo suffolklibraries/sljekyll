@@ -12,7 +12,7 @@ breadcrumb: meet-the-author
 
 ![Faith](/images/featured/featured-faith-martin.jpg)
 
-Faith Martin is the pen name of English author Jacquie Walton who is well known for her popular detective books starring DI Hillary Greene. She also writes under the pen names of Maxine Barry and Joyce Cato. Faith has sold two million books in the course of her writing career. The latest in the Hillary series, <cite>Hillary’s Back!</cite> was recently released.
+Faith Martin is well known for her popular detective books starring DI Hillary Greene. She also writes under the pen names of Maxine Barry and Joyce Cato. Faith has sold two million books in the course of her writing career. The latest in the Hillary series, <cite>Hillary’s Back!</cite> was recently released.
 
 
 ## 1.	Who were your literary heroes and influences growing up?

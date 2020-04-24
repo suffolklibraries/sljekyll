@@ -22,10 +22,6 @@ Library version of the popular family history website. **Only available to use i
 
 Library edition of the popular ancestry site. **Only available to use in a library.**
 
-### [Internet Library of Early Journals](http://www.bodley.ox.ac.uk/ilej/)
-
-Digital library of 18th and 19th century journals.
-
 ### [The John Johnson Collection](http://johnjohnson.chadwyck.co.uk/marketing.do)
 
 Printed primary sources from the 19th and 20th centuries. John Johnson collected printed ephemera from playbills to records of crime and punishment, advertisement posters to maps.
