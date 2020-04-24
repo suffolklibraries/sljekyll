@@ -56,7 +56,7 @@ breadcrumb: true
 
       <h3 class="f5 custom-lh-title pa0 mt0 mb2">Meet our librarians</h3>
 
-      <h4 class="f6 custom-lh-title pa0 mt0 mb2">Sanphra Wilmott</h4>
+      <h4 class="f6 custom-lh-title pa0 mt0 mb2">Sanphra Willmott</h4>
 
       <img class="mw2 mw3-ns fl mr3 v-btm" src="/images/staff/sw.png" alt="Sanphra Wilmott">
 
