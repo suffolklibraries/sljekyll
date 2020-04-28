@@ -15,7 +15,7 @@ branch-post-code: CO10 0JU
 branch-tel: 01787 315195
 branch-friends: Friends of Great Cornard Community Library
 branch-social-media: y
-branch-facebook: groups/348670135277550
+branch-facebook: Great-Cornard-Library-108874657465728/
 branch-accessibility: https://www.accessable.co.uk/venues/great-cornard-library
 branch-parking: available in school car park
 branch-bookdrop: y
