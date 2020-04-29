@@ -35,7 +35,7 @@ Wildlife gardening suggestions and more from Suffolk Wildlife Trust and the RSPB
 
 Lots of free online content and workouts including Joe Wicks’ Body Coach and superhero workouts and cosmic yoga.
 
-### [Homeuddle →](https://homehuddle.org/)
+### [Homehuddle →](https://homehuddle.org/)
 
 A new website packed with ideas and links to other websites where you can find more ideas and activities.
 
