@@ -15,6 +15,8 @@ branch-post-code: IP21 5HG
 branch-tel: 01379 384768
 branch-friends: Stradbroke Courthouse and Library Trust
 branch-friends-url: /about/member-organisations/stradbroke-courthouse-and-library-trust-scalt
+branch-social-media: y
+branch-facebook: pages/Stradbroke-Library/537152086403205
 branch-accessibility: https://www.accessable.co.uk/venues/stradbroke-library
 branch-payments: cash, cheques and cards accepted
 branch-parking: available
