@@ -14,6 +14,7 @@ branch-address: School Corner, Debenham, Stowmarket
 branch-post-code: IP14 6PL
 branch-tel: 01728 861940
 branch-friends: Debenham Library Foundation
+branch-facebook: DebenhamLibraryAndFriends
 branch-accessibility: https://www.accessable.co.uk/venues/debenham-library
 branch-payments: cash, cheques and cards accepted
 branch-parking: disabled only during school hours, otherwise available to all

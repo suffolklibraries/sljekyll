@@ -38,6 +38,7 @@ branch-colour-printing: available up to A4 size
 branch-photocopying: available in colour and black and white up to A4 size
 branch-faxing: y
 branch-scan-to-email: y
+branch-news: "<a href='/news/southwold-library-announcement-re-latitude-tickets/'>Latitude ticket refunds &rarr;</a>"
 breadcrumb: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, children's activities, Lego Club, older people's activities, language courses."
 ---
