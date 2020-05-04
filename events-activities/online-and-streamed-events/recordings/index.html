@@ -77,7 +77,7 @@ ling: true
 
       {% assign childrens_events = events | where: "category", "children" | reverse %}
 
-      {% for childrens_event in childrens_events %}
+      {% for childrens_event in childrens_events limit:12 %}
 
         <article class="mb3 pb1 w-50-ns w-25-l ph2 ph3-ns">
 
@@ -106,6 +106,8 @@ ling: true
       {% endfor %}
 
     </div>
+
+    <p class="ph2 ph3-ns ma0 pb2"><a href="/events-activities/online-and-streamed-events/recordings/songs-and-stories/" class="b blue underline">More songs & storytimes &rarr;</a></p>
 
   </div> <!-- end childrens -->
 
