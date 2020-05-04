@@ -27,6 +27,10 @@ Last updated Thu, 26 March.
 - All library buildings closed
 - Mobile and home library services suspended
 
+We monitor government advice about relaxing lockdown rules and are planning for how we will re-open libraries.
+
+Safety of staff and customers is our first consideration. When we re-open it’s likely that how we deliver services will change as we return to normal.
+
 ## Renewals, reservations and charges
 
 - All overdue charges on loans made after 1 February have been suspended
