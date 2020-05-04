@@ -1,5 +1,5 @@
 ---
-title: "Interview with female rapper Shay D"
+title: "Interview with rapper Shay D"
 location-display-name: "BLOC: Building Libraries on Creativity"
 format: recording
 link: 2VEQyDwI5pk
