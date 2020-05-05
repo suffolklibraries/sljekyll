@@ -51,3 +51,15 @@ We authors often work from home, so if anything, it’s everyone else who is exp
 ## 7. Has a book ever changed your life or made you look at things differently?
 
 I’d have to pick two. First is [<cite>The Hitch Hikers Guide to the Galaxy</cite>](https://suffolklibraries.overdrive.com/media/268204) by Douglas Adams never fails to make me laugh, even though I’ve lost count of the number of times I’ve read it; and second is William Gibson’s <cite>Neuromancer</cite>. The seamless sense of location and pace made me want to try to tell my own stories with the same confidence. Both of these books encouraged me to write, and for that I’ll always be grateful.
+
+## 8. How do you fill your time when you are not writing?
+
+I like to travel (it’s a great excuse to scout locations for future novels...), and when I’m not doing that I like to read, watch movies or play games.
+
+## 9. Do you have a message for your Suffolk readers?
+
+Thanks for reading my books and for your ongoing support of Suffolk’s libraries and independent bookstores!
+
+## 10. Can you tell us one thing about yourself that your readers may not know?
+
+I own a lot of hats. Way more than I ever wear.
