@@ -5,4 +5,5 @@ format: recording
 link: NIO_FCaFDfM
 category: children
 service: youtube
+featured-recording: true
 ---

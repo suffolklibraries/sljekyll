@@ -5,6 +5,7 @@ format: recording
 link: CA7H5xm3GDk
 category: health
 service: youtube
+featured-recording: true
 ---
 
 Singing for Wellbeing is led by opera singer and baritone Rob Gildon who will be supporting you during these sessions to explore how singing can be used as a tool to relieve stress and improve confidence. These sessions are suitable for all ages and abilities. You can join in standing up or sitting down too.
