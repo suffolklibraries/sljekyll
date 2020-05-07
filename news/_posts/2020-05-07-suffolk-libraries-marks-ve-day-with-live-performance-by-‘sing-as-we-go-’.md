@@ -8,7 +8,7 @@ breadcrumb: news
 excerpt: "Suffolk Libraries will be marking VE Day on Friday by sharing a live
   1940's themed performance from local duo ‘Sing as we go!' "
 ---
-Suffolk Libraries will be marking VE Day on Friday by sharing a live performance from local duo ‘Sing as we go! on our [Facebook page](<Suffolk Libraries will be marking VE Day on Friday by sharing a live performance from local duo ‘Sing as we go! on our Facebook page - https://www.facebook.com/SuffolkLibraries/>).
+Suffolk Libraries will be marking VE Day on Friday by sharing a live performance from local duo ‘Sing as we go! on our [](<Suffolk Libraries will be marking VE Day on Friday by sharing a live performance from local duo ‘Sing as we go! on our Facebook page - https://www.facebook.com/SuffolkLibraries/>)[Facebook page](https://www.facebook.com/SuffolkLibraries/).
 
 From 11am to 12pm ‘Sing as we go!’ will be live-streaming a special Suffolk Libraries performance of songs made famous in the 1940’s with the occasional tune from the 50s and 60s.  
 
