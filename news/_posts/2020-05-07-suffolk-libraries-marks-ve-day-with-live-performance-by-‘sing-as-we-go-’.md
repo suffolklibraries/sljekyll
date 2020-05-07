@@ -19,3 +19,5 @@ Sing as we go! perform acoustic, sing sing-a-long songs which are easy for peopl
 You can find out more information about Sing as we go! on their [Facebook page](https://www.facebook.com/singaswego1940s/).  
 
 Suffolk Libraries is also promoting a special collection of [VE Day themed eBooks](https://suffolklibraries.overdrive.com/collection/1078259) you can download.
+
+Amy from Woodbridge Library has also shared a poem about VE Day by Brian Moses on our [You Tube channel](https://youtu.be/h87-GBm-owo).
