@@ -6,7 +6,7 @@ breadcrumb: home
 
 <div class="ph2 ph3-ns">
 
-  <h1 class="f3 f2-ns custom-lh-title mb3">All artist interview videos and podcasts</h1>
+  <h1 class="f3 f2-ns custom-lh-title mb3">All artist interview videos, podcasts and masterclasses</h1>
 
 </div>
 

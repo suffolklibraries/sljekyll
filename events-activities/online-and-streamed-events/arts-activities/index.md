@@ -58,6 +58,10 @@ Suffolk Archives is looking for people to make LEGO models of their favourite Su
 
 Designed for all ages and abilities, featuring contributions from UK artists including Antony Gormley, Gillian Wearing, Idris Khan, Jeremy Deller, Mark Wallinger and more.
 
+### [World Earth Day Sculpture Challenge →](https://www.jupiterartland.org/digital/minecraftproject)
+
+Join Jupiter Artland in Minecraft to design and build your own sculpture for Jupiter Artland. The winning design will join the permanent collection at Jupiter's online universe (closes 16 May).
+
 ## Let’s go to the theatre
 
 ### [<cite>Bounce</cite>: The New Wolsey’s fortnightly round-up →](https://www.newwolseybounce.co.uk/)
@@ -103,7 +107,7 @@ National Writers Centre resource pack to help families for get creative and spen
 ### [The Primadonna Prize for unsigned and unrepresented new writing talent](https://www.primadonnafestival.com/prize-2020)
 
 Primadonna Festival have established a prize to help open up access to the publishing industry, with focus squarely on the talent of the authors.
- 
+
 ### [Live streamed playwriting workshops →](https://easternangles.co.uk/event/parent-play-writing-online-via-zoom)
 
 Eastern Angles is running 30-minute online playwriting workshops for parents of children under 18. Hone your writing techniques, get your ideas on the page and create vivid characters. All experiences welcome – just have a pen and piece of paper ready.

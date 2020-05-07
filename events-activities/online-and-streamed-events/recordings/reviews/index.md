@@ -6,7 +6,7 @@ breadcrumb: home
 
 <div class="ph2 ph3-ns">
 
-  <h1 class="f3 f2-ns custom-lh-title">All review videos</h1>
+  <h1 class="f3 f2-ns custom-lh-title">All reviews and readings videos</h1>
 
 </div>
 

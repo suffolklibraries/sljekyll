@@ -3,7 +3,7 @@ title: "Sue's Book Spot: Picture books"
 location-display-name: Debenham Library
 format: recording
 link: zY8S3hncUaU
-category: children
+category: group
 service: youtube
 ---
 
