@@ -5,6 +5,7 @@ format: recording
 link: I35UcXponM0
 category: children
 service: youtube
+featured-recording: true
 ---
 
 Robyn Bessey from Sudbury Library sings another classic nursery rhyme from our Wordplay sessions. Listen to her performance of beloved children's classic <cite>Twinkle Twinkle Little Star</cite>.
