@@ -24,7 +24,7 @@ breadcrumb: home
 
         <div class="custom-constrain">
 
-          <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ childrens_event.link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ childrens_event.link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
         </div>
 
@@ -32,7 +32,7 @@ breadcrumb: home
 
         <div class="custom-constrain">
 
-          <iframe src="{{ childrens_event.link }}" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+          <iframe loading="lazy" src="{{ childrens_event.link }}" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
         </div>
 
