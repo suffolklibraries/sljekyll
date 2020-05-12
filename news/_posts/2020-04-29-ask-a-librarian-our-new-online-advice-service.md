@@ -8,7 +8,6 @@ breadcrumb: news
 excerpt: "We've launched a new service to provide advice to people who are
   missing the opportunity to seek help from staff whilst libraries are closed. "
 ---
-
 Suffolk Libraries has launched a new service to provide advice to people who are missing the opportunity to seek help from staff whilst libraries are closed.
 
 In normal circumstances library staff are usually asked thousands of questions every week. Whether it’s about research, local services, or where to go for help with a particular issue. 
@@ -26,3 +25,5 @@ Anyone is now welcome to email askalibrarian@suffolklibraries.co.uk and the team
 * “I’m a parent and need some ideas for entertaining my children.”  
 
 The team will aim to respond to emails within 3-5 days.
+
+For general enquiries about your library account or our library services you can still contact our [customer service team](https://www.suffolklibraries.co.uk/contact/).
