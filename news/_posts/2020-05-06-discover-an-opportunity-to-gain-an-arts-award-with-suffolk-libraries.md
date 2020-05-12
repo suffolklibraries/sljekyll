@@ -32,10 +32,8 @@ Suffolk Libraries' Arts Programme has also created a series of [workshops and po
 
 **Note to parents:**
 
-Once your child has completed their logbook please email arts@suffolklibraries.co.uk to notify us with your name and contact number. You will need to keep hold of your child’s logbook for the time being. Once it is safe enough for libraries to reopen to the public, you will be able to drop off or send the completed logbook to your local library once it is safe to do so. 
+You may wish to print the logbook in black and white to save ink. Once your child has completed their logbook please email arts@suffolklibraries.co.uk to notify us with your name and contact number. You will need to keep hold of your child’s logbook for the time being. Once it is safe enough for libraries to reopen to the public, you will be able to drop off or send the completed logbook to your local library once it is safe to do so. 
 
 When you drop off or send the logbook, please make sure your name and contact details are included so we can arrange to send your child their certificate.
-
-
 
 [](https://volunteeringmatters.org.uk/project/ipswich-respect/)
