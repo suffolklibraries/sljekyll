@@ -9,7 +9,7 @@ breadcrumb: volunteer
 
 <div class="{% include /c/generic-panel.html %}">
 
-<p>There are various volunteering opportunities across the county. Contact <a href="/libraries/">your local library</a> or email <strong>volunteer@suffolklibraries.co.uk</strong> to get involved.</p>
+<p>Volunteers can get involved with Suffolk Libraries in many ways:</p>
 
 <ul>
     <li><a href="/volunteer/home-library-service/">Home Library Service</a> - we’re often looking for volunteers to take books to older and disabled people in their own homes.</li>
@@ -24,6 +24,8 @@ breadcrumb: volunteer
 Our volunteers play a vital part in supporting the library service and the services and activities we provide to local people.
 
 They do not replace paid staff, but work alongside them in a range of roles. Libraries are great places to volunteer and there are many opportunities to get involved.
+
+**[Apply to become a volunteer &rarr;](https://www.volgistics.com/ex/portal.dll/ap?ap=1998605276)**
 
 ## What's in it for you?
 
@@ -40,7 +42,7 @@ Research shows that when you give your time to others, there are benefits for yo
 
 ## Volunteering opportunities with Suffolk Libraries
 
-Our volunteer opportunities centre around reading, information, learning and skills, community and wellbeing. These include:
+Our volunteer opportunities centre around reading, information, learning and skills, community and wellbeing. The roles include:
 
 - [General library volunteer](/assets/pdf/general-library-volunteer-role-profile.pdf) (PDF)
 - [Event and activity volunteer](/assets/pdf/event-activity-role-profile.pdf) (PDF)
@@ -55,9 +57,9 @@ Some libraries offer volunteering opportunities that can help you get back on yo
 
 To find out more about what our volunteers do, see our [volunteer case studies](/volunteer/volunteer-case-studies/)
 
-If you want to get involved, [contact your local library](/libraries/) or email **volunteer@suffolklibraries.co.uk**.
+**[Apply to become a volunteer &rarr;](https://www.volgistics.com/ex/portal.dll/ap?ap=1998605276)**
 
-**If you’re thinking of volunteering take a look at our Volunteer and Equal Opportunities policies:**
+## Volunteer and Equal Opportunities policies
 
 - [Volunteer Policy](/assets/pdf/volunteer-policy-may-2019.pdf) (PDF)
 - [Equal Opportunities Policy](/assets/pdf/equal-opportunities-policy.pdf) (PDF)
