@@ -33,6 +33,6 @@ Bruce Leeke, Chief Executive of Suffolk Libraries, said:
 
 > “These are extraordinary times for everyone but we’re passionate about helping families to enjoy their time together at home. As always, our staff have risen to the challenge and adapted to keep children across Suffolk entertained. Research shows these sessions help young children develop their literacy skills as well as offer them something fun to do. Our new approach is clearly gaining in popularity and we want everyone to know about what we’re offering online.”
 
-Full details of all the online services and activities on offer can be found on our [](https://www.suffolklibraries.co.uk/events-activities/online-and-streamed-events/resources-and-recommendations/)[events pages](https://www.suffolklibraries.co.uk/events-activities/online-and-streamed-events/).
+Full details of all the online services and activities on offer can be found on our [](https://www.suffolklibraries.co.uk/events-activities/online-and-streamed-events/resources-and-recommendations/)[events pages](https://www.suffolklibraries.co.uk/events-activities/online-and-streamed-events/). We've also compiled a list of [useful online resources](https://www.suffolklibraries.co.uk/events-activities/online-and-streamed-events/resources-and-recommendations/) which parents may find useful.
 
 Suffolk Libraries is a charity run for the benefit of the people of Suffolk any [additional support](https://www.suffolklibraries.co.uk/support-us/) that enables us to do even more impactful work is always greatly appreciated.
