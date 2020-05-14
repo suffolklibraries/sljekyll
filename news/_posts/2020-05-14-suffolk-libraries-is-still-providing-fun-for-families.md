@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Suffolk Libraries is still providing fun for families!
+title: New video shows that Suffolk Libraries is still providing fun for families!
 author: james-powell
 date: 2020-05-14T13:49:09.538Z
 category: news
