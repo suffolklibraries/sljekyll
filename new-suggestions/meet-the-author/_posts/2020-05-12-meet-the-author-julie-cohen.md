@@ -48,6 +48,6 @@ ABC to Read send volunteers into Berkshire schools to help children with literac
 
 Please stay safe and keep reading! Libraries are doing such a wonderful job reaching out to readers and books and stories are more important than ever.
 
-## 8. 8.	Can you tell us one thing your readers may not know about you?
+## 8.	Can you tell us one thing your readers may not know about you?
 
 Despite not knowing how to draw, for the past five years I’ve been the official cartoonist for the Sherlock Holmes Journal.
