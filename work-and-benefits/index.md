@@ -42,7 +42,7 @@ Citizens Advice offer a [Help to Claim service](https://www.citizensadvice.org.u
 
 The contact details for Suffolk Citizens Advice follow.
 
-- [Felixstowe Citizens Advice](http://www.felixstowecab.org.uk/) - [0333 3583 970](tel:03333583970)
+- [Felixstowe Citizens Advice](http://www.felixstowecab.org.uk/) - [0300 330 9016](tel:03003309016)
 - [Ipswich Citizens Advice](https://www.citizensadviceipswich.org.uk/) - [0333 330 1151](tel:03333301151)
 - [Leiston, Saxmundham & District Citizens Advice](http://oaweb.co.uk/) - [01728 832193](tel:01728832193)
 - [Mid Suffolk (Stowmarket and Mid Suffolk district) Citizens Advice](https://www.midsuffolkcab.org.uk/) - [01449 676060](tel:01449676060)
