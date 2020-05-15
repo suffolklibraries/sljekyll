@@ -35,4 +35,4 @@ Suffolk Libraries will be sharing helpful resources and information throughout t
 If you are struggling with your mental health, there is help available. Here are just a couple of organisations who can help: 
 
 * NSFT First Response: [First Response](https://nsft.nhs.uk/Find-help/Pages/Helpline.aspx) is a 24/7 helpline offering immediate advice, support and signposting for people with mental health difficulties. If you are experiencing something that makes you feel unsafe, distressed or worried about your mental health you can now call the helpline on 0808 196 3494. 
-* [Suffolk Mind:](<* https://www.suffolkmind.org.uk/additional-help/covid-19-advice-helpful-resources/>) For helpful information and resources.
+* [Suffolk Mind](https://www.suffolkmind.org.uk/additional-help/covid-19-advice-helpful-resources/): For helpful information and resources.
