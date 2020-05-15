@@ -30,20 +30,20 @@ Visit the [Moone Boy website](https://www.mooneboybooks.co.uk/) for author inter
 
 Book group discussion questions:
 
-•	How would you describe Martin Moone?
-•	Why does Martin ask for an imaginary friend? Can you think of other reasons why people invent imaginary friends?
-•	Do you have an imaginary friend? You could ask your family or friends if they ever had one.
-•	Who makes a better imaginary friend – an adult or a child? Why?
-•	How long do you think you can have an imaginary friend for?
-•	Try to think of other books which are written as a diary. Can you list any examples?
-•	What is the effect of reading a book written as someone’s diary rather than a traditional story?
-•	Why do people keep diaries? Have you heard of any famous diarists?
+- How would you describe Martin Moone?
+- Why does Martin ask for an imaginary friend? Can you think of other reasons why people invent imaginary friends?
+- Do you have an imaginary friend? You could ask your family or friends if they ever had one.
+- Who makes a better imaginary friend – an adult or a child? Why?
+- How long do you think you can have an imaginary friend for?
+- Try to think of other books which are written as a diary. Can you list any examples?
+- What is the effect of reading a book written as someone’s diary rather than a traditional story?
+- Why do people keep diaries? Have you heard of any famous diarists?
 
 Creative writing prompts
 
-•	Create your own imaginary friend – picture them and write a description. Think about their age, what clothes they are wearing, what they look like. Think about what their habits might be and what particular phrases they might say. [See an example by Kate &rarr;](https://www.youtube.com/watch?v=xsnN1KVCrHM)
-•	Write a diary entry for a day spent either at home or at school with your imaginary friend. What did you get up to? You could also try a comic-strip diary where you draw and illustrate what you have been up to.
-•	Try out some of Loopy Lou’s mad poetry skills by writing a rhyming rap.
-•	Try writing a diary entry from the perspective of Sean ‘Caution’ Murphy
+- Create your own imaginary friend – picture them and write a description. Think about their age, what clothes they are wearing, what they look like. Think about what their habits might be and what particular phrases they might say. [See an example by Kate &rarr;](https://www.youtube.com/watch?v=xsnN1KVCrHM)
+- Write a diary entry for a day spent either at home or at school with your imaginary friend. What did you get up to? You could also try a comic-strip diary where you draw and illustrate what you have been up to.
+- Try out some of Loopy Lou’s mad poetry skills by writing a rhyming rap.
+- Try writing a diary entry from the perspective of Sean ‘Caution’ Murphy
 
-Written and compiled by Jessica Briscoe and Imogen Tink
+Written and compiled by Jessica Briscoe and Imogen Tink.
