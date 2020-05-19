@@ -2,7 +2,7 @@
 layout: default
 title: Suffolk Libraries and coronavirus
 breadcrumb: home
-callout-text: "All library buildings temporarily closed. Mobile and home library services suspended. Access the eLibrary, online events & activities and book & film groups from your home."
+callout-text: "All library buildings temporarily closed. Mobile and home library services suspended. But the service remains open: Access the eLibrary, online events & activities and book & film groups from your home."
 featured: true
 featured-image: /images/coronavirus/coronavirus.jpg
 featured-alt: 'NHS advice poster: Wash your hands more often for 20 seconds'
