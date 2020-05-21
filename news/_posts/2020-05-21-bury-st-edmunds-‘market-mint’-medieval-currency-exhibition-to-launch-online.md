@@ -16,8 +16,7 @@ The exhibition was initially aimed to take place at Bury St Edmunds Library and 
 
 Taking inspiration from the town’s heritage, students from West Suffolk College’s Foundation Art and Design course worked with British artist and sculptor Alice-Andrea Ewing at her Suffolk foundry. The students designed and cast their very own modern-day mint coins made out of bronze. 
 
-Pictures of these coins will be shared in a special ‘instabition’ via Suffolk Libraries [instagram account](https://www.instagram.com/suffolklibraries/) which launches on Tuesday 26th May. A photo of each student’s coin will be published daily until the end of June.
-This coincides with the West Suffolk College online End of Year Show [‘VeXed’](https://www.wsc.ac.uk/about-the-college/events/upcoming-events/7132-vexed-art-design-and-music-end-of-year-show), which launches at 2pm on Tuesday 26th May 
+Pictures of these coins will be shared in a special ‘instabition’ via Suffolk Libraries [instagram account](https://www.instagram.com/suffolklibraries/) which launches on Tuesday 26th May. A photo of each student’s coin will be published daily until the end of June. This coincides with the West Suffolk College online End of Year Show [‘VeXed’](https://www.wsc.ac.uk/about-the-college/events/upcoming-events/7132-vexed-art-design-and-music-end-of-year-show), which launches at 2pm on Tuesday 26th May 
 
 The long-term goal is still to share the exhibition at the library in the future but the online exhibition will help to share and celebrate the students’ creativity, skill and ambition during the current lockdown. 
 
@@ -27,7 +26,8 @@ Craig Bloomfield, Course Director for the Foundation Art and Design course at We
 
 Alice-Andrea Ewing added: 
 
-> “Through Mint Market we wanted students to see that history, philosophy and other academic or humanities subjects are fantastic resources when making work. Market Mint is an opportunity for students to consider their current personal, social and material values and to communicate these through the project. 
-> “It was also important to emphasise local history in this project as there is somewhat of tendency to disregard Suffolk and look to other more prolific centres of culture, commerce and production. 
+> “Through Mint Market we wanted students to see that history, philosophy and other academic or humanities subjects are fantastic resources when making work. Market Mint is an opportunity for students to consider their current personal, social and material values and to communicate these through the project.  “It was also important to emphasise local history in this project as there is somewhat of tendency to disregard Suffolk and look to other more prolific centres of culture, commerce and production. 
 >
 > Young people are encouraged to leave, move on and establish fresh territories as signs of success and aspiration. In reality, this trajectory is less linear and you can seek out a meaningful and successful career in your home county as well as in central London. Any location has the capacity to inspire or provide opportunities if you look close enough and do your research.”
+>
+> ![The bronze coins from the exhibition](/images/uploads/coins.jpg "Some of the bronze coins from the exhibition.")
