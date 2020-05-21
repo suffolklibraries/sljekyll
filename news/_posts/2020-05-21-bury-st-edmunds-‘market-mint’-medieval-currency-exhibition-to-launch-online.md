@@ -28,6 +28,6 @@ Alice-Andrea Ewing added:
 
 > “Through Mint Market we wanted students to see that history, philosophy and other academic or humanities subjects are fantastic resources when making work. Market Mint is an opportunity for students to consider their current personal, social and material values and to communicate these through the project.  “It was also important to emphasise local history in this project as there is somewhat of tendency to disregard Suffolk and look to other more prolific centres of culture, commerce and production. 
 >
-> Young people are encouraged to leave, move on and establish fresh territories as signs of success and aspiration. In reality, this trajectory is less linear and you can seek out a meaningful and successful career in your home county as well as in central London. Any location has the capacity to inspire or provide opportunities if you look close enough and do your research.”
+> "Young people are encouraged to leave, move on and establish fresh territories as signs of success and aspiration. In reality, this trajectory is less linear and you can seek out a meaningful and successful career in your home county as well as in central London. Any location has the capacity to inspire or provide opportunities if you look close enough and do your research.”
 >
 > ![The bronze coins from the exhibition](/images/uploads/coins.jpg "Some of the bronze coins from the exhibition.")
