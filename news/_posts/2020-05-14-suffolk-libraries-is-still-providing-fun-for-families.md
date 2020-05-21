@@ -13,17 +13,21 @@ A new video has been launched to remind parents that Suffolk Libraries is still 
 
 Although the latest government guidance requires library buildings to remain closed for now, staff members are still running regular activities via library Facebook pages and YouTube. These include live storytimes, singing sessions, craft activities and Lego challenges.
 
-The[](https://youtu.be/gqDsCWGotXI) video features one of the stars of these videos, Tom Veasey who has been entertaining families online with his acoustic guitar and Wordplay sessions. Tom is one of many staff members from across Suffolk who have been replicating their usual library-based activities from home.
+The video features one of the stars of these videos, Tom Veasey who has been entertaining families online with his acoustic guitar and Wordplay sessions. Tom is one of many staff members from across Suffolk who have been replicating their usual library-based activities from home.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gqDsCWGotXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="custom-constrain">
+
+<iframe src="https://www.youtube.com/embed/gqDsCWGotXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 Thousands of families are enjoying the sessions every week with library staff giving shout-outs to children and performing songs on request.
 
-Some comments from parents on Facebook: 
+Some comments from parents on Facebook:
 
 > "Brilliant – it’s great that you are doing this I am really missing my trips to the library.”
 >
-> **“**We did these crafts today... really simple and so effective... thanks for the idea.”
+> “We did these crafts today... really simple and so effective... thanks for the idea.”
 >
 > “Thanks for doing this. You were brilliant and the children loved it.”
 >
