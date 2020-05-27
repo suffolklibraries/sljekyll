@@ -18,6 +18,7 @@ branch-friends-url: /about/member-organisations/friends-of-woodbridge-library-fo
 branch-social-media: y
 branch-twitter: woodbridgelib
 branch-facebook: Woodbridge-Library-Suffolk-575433289169395
+branch-instagram: woodbridgelibsuff
 branch-accessibility: https://www.accessable.co.uk/venues/woodbridge-library
 branch-payments: cash, cheques and cards accepted
 branch-parking: Pay & Display available outside
