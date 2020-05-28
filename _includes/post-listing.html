@@ -10,15 +10,11 @@
 
 {% else %}
 
-  {% if page.sort == 'alphabetical' %}
 
-    {% assign posts = site.categories.[page.category] | sort: "title" reverse %}
-
-  {% else %}
 
     {% assign posts = site.categories.[page.category] %}
 
-  {% endif %}
+  
 
 {% endif %}
 
