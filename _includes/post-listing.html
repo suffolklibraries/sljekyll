@@ -12,7 +12,7 @@
 
   {% if page.sort == 'alphabetical' %}
 
-    {% assign posts = site.categories.[page.category] sort: "title" | reverse %}
+    {% assign posts = site.categories.[page.category] | sort: "title" reverse %}
 
   {% else %}
 
