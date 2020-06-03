@@ -27,7 +27,7 @@ Last updated Wed 03 June.
 - Libraries will start to re-open from Mon 6 July
 - Library opening hours are likely to be reduced
 - Some libraries won’t re-open until after this date
-- Mobile and home library services remain suspended for time being
+- Mobile and home library services remain suspended for the time being
 
 Safety of staff and customers is our first consideration.
 
@@ -36,7 +36,7 @@ Safety of staff and customers is our first consideration.
 - Reservations will be re-introduced slowly
 - To start with customers will be able to call or contact us online to request a selection of titles based on genre or author, which we’ll make available for collection. **More details to follow.**
 - Returns and issues to be made with self-service machines
-- No cash payments in Libraries
+- No cash payments in libraries
 - You can now [pay outstanding charges and fines online](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB?RDT=/SpydusCitizenPay/default.aspx)
 - All in-library events remain suspended ([see our online events](/events-activities/online-and-streamed-events/))
 
