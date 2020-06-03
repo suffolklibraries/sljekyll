@@ -21,7 +21,7 @@ The donation from the East of England Co-op will enable Suffolk Libraries to pur
 
 The donation is one of the first made from the East of England Co-op Community Cares Fund, created to support community groups and charities adapt, enhance and continue to provide much needed services in new and innovative ways. Members of the East of England Co-op can continue to donate all or part of their dividend to the Community Cares Fund, which currently stands at over £300,000. 
 
-To find out more, visit [www.eastofengland.coop/supportingcommunities](www.eastofengland.coop/supportingcommunities).  
+> To find out more, visit [www.eastofengland.coop/supportingcommunities](http://www.eastofengland.coop/supportingcommunities).  
 
 Bruce Leeke, Chief Executive of Suffolk Libraries said: 
 
