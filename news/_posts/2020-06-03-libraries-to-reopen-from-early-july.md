@@ -24,9 +24,17 @@ Krystal Vittles, Head of Service Delivery at Suffolk Libraries, said:
 Customers should be aware that services in library buildings will look a little different for the foreseeable future, but hopefully people will understand why the following measures are essential:
 
 * The government has advised that browsing of books and other items should be discouraged for safety reasons so libraries will initially be offering a limited selection of stock for people to choose from.
+
+
 * The reservation service will be reintroduced slowly, starting with a ‘Select and collect’ service where customers can ask staff to prepare a small selection of books based on a genre or author they’re interested in. The full reservation system will be reintroduced after all libraries re-open.
+
+
 * Suffolk Libraries will be following national guidance on setting up social distancing and safety precautions. This is likely to include queuing, only offering cashless payment and greater reliance on self-service facilities. Suffolk Libraries has recently launched online payments to make paying charges easier. There will also be screens in place at enquiry desks, 30 of which have been kindly donated by Barclays Bank.
+
+
 * Suffolk Libraries is still investigating when some services such as computer access, printing and the mobile library service can be safely reintroduced.
+
+
 * Events in libraries will remain suspended for now but people can still enjoy the hundreds of activities which library staff are [streaming and sharing online](https://www.suffolklibraries.co.uk/events-activities/online-and-streamed-events/). 
 
 Reopening libraries will of course depend on further Government announcements and full details of reopening dates and opening times will be shared on this website in the coming weeks.  In the meantime people can continue to access our extensive [eLibrary service](https://www.suffolklibraries.co.uk/elibrary/).
