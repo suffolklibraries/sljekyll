@@ -20,7 +20,7 @@ featured-link-href-text: Find out more &rarr;
 
 </div>
 
-Last updated Wed 03 June. [Latest news release](/news/libraries-to-reopen-from-early-july/).
+Last updated Thu 04 June. [Latest news release](/news/libraries-to-reopen-from-early-july/).
 
 ## Closures and re-opening
 
