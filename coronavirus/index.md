@@ -20,7 +20,7 @@ featured-link-href-text: Find out more &rarr;
 
 </div>
 
-Last updated Wed 03 June.
+Last updated Wed 03 June. [Latest news release](/news/libraries-to-reopen-from-early-july/).
 
 ## Closures and re-opening
 
@@ -62,9 +62,8 @@ Libraries are recording and streaming events and activities, and running book an
 
 ## Questions and queries
 
-Full customer service available Mon-Fri 9-5pm. Leave a message out of these hours.
+Full customer service available Mon-Fri 9-5pm, closed bank holidays. Leave a message out of these hours.
 
-- [Suffolk Libraries website](https://www.suffolklibraries.co.uk)
 - [01473 351249](tel:01473351249)
 - help@suffolklibraries.co.uk
 
