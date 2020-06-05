@@ -12,24 +12,24 @@ breadcrumb: home
 
 ## Let’s get singing & dancing
 
+### [DanceEast are going live! →](https://www.danceeast.co.uk/get-dancing/onlinedanceclassesjune-2020/)
+
+From ballet barre to pilates DanceEast have made some of their most popular classes available for free via Zoom. Space are limited so make sure to book.
+
+
 ### [Virtual Big Sing 19 & 21 June 2020 2:00pm – 3:00pm →](https://www.norfolkmusichub.org.uk/site/events/event/the-virtual-big-sing-2020/)
 
 Following the success of the Big Sing in 2018 and their first ‘Virtual’ Big Sing in 2019, Norfolk Music bring an interactive, digital concert to every young person in the country.
-
-### [Free hip-hop classes →](https://www.instagram.com/theunifiedwolves/?hl=en)
-
-Free online hip-hop dance classes every Wednesday at midday from The Unified Wolves through Instagram Live.
 
 ### [Unscene Singers singing workshops →](https://www.youtube.com/watch?v=Ym2bDUlNArA&list=PL2Uen_cJwZraJKpK0WE-qiYms8yhXzk-_)
 
 Join Unscene Suffolk on Monday afternoons for their fully accessible singing workshops led by professional vocal coach Emma J Bishton.
 
-
-### [DanceEast 20 minute dancing exercises →](https://www.danceeast.co.uk/get-dancing/home-dance/)
-
-DanceEast’s terrific programme of 20-minute light dance exercises for children, young people, adults and older people.
-
 ## Let’s make Suffolk’s history
+
+### [History Begins at Home →](https://www.facebook.com/pg/historybeginsathome/about/)
+
+Right before our eyes history is being made. History Begins at Home invites you to ignite conversations with your families and friends about the past. #HistoryBeginsAtHome will give you the questions, the tools and the tasks, connecting families, creating history.
 
 ### [Ipswich Museums: Record your experiences of the COVID-19 pandemic →](https://cimuseums.org.uk/yourstories/)
 
@@ -41,35 +41,35 @@ Suffolk’s Archives needs to tell future generations about COVID-19. Help by pr
 
 ## Let’s see some art around the world
 
-### [Performances from the Royal Liverpool Philharmonic →](https://www.facebook.com/pg/LiverpoolPhilharmonic/videos/?ref=page_internal)
+### [BBC Culture in Quarantine →](https://www.bbc.co.uk/arts)
 
-Regular performers every Tue night at 7.30pm on their Facebook page. ALso join them on Thursdays and Sundays for archive footage and join the conversation with fellow music lovers around the world.
+Along with a number of national partners, the BBC are bringing arts & culture from museums to dance straight to your homes.
+
+### [Google Arts & Culture →](https://artsandculture.google.com/)
+
+Look inside Salvador Dali’s studio, tour the world or turn your selfie in an artwork. The world’s your oyster!
 
 ### [Time Out’s virtual gallery tours →](https://www.timeout.com/travel/virtual-museum-tours)
 
 A great list of free virtual gallery tours from around the world.
 
-### [Virtual tour of the John Skelton exhibition at Snape →](https://www.letteringartstrust.org.uk/visit-snape-gallery)
-
-Take a tour of the John Skelton exhibition and listen to John’s daughter, Helen Mary Skelton talk about her father’s work.
-
 ## Let’s make something
 
-### [Lockdown Tales – Bedtime stories dedicated to families separated from their loved ones →](https://www.wonderfulbeast.co.uk/)
+### [Design a new mural together →](https://www.arteatfestival.com/youthmural)
 
-Wonderful Beast invite children to respond creatively to their stories and want to see your creations, be they in picture, poem, song or dramatic form – or anything you like. Let your imagination run wild!
+Art Eat and partners invite over 15's to take part in designing and painting a new mural for Ipswich. All you need is your smartphone and a pen and paper.
 
-### [Keeping Creative At Home →](https://www.anewdirection.org.uk/blog/tag/keeping-creative-at-home?_cldee=amF5bmUua25pZ2h0QHN1ZmZvbGsuZ292LnVr&recipientid=contact-2f364bc16d22e611937a005056915655-d196ff53ea144f73b4971f268d089106&esid=31bdcd0b-cf8f-ea11-bc4a-005056911737)
+### [Design a banner for First Light Festival! →](http://ow.ly/pptm50zV3w8)
 
-A New Direction share tips and activities on how to get creative at home, from ‘how to transform your home into a museum’ to creating soundscapes.
+First Light Festival are launching a competition looking for a design for an original and inventive banner that celebrates the First Light Festival experience.
 
-### [Make, Do & Friends →](https://makedoandfriends.blog/)
+### [Crafts Council →](https://www.craftscouncil.org.uk/articles/craft-for-home-school-resources)
 
-Suffolk Artlink’s weekly ‘virtual’ creative activities aimed at adults (55+) living in rural Suffolk. Posted every Friday.
+Hands-on making activities for home schooling, from Early Years to Key Stage 5 with the need for minimal resources.
 
-### [Create a miniature Suffolk – out of Lego bricks →](https://www.suffolkarchives.co.uk/create-a-miniature-suffolk)
+### [Printmaking with Tower Street Print Project →](https://www.youtube.com/watch?v=kr3gxS8M_Rk&feature=youtu.be)
 
-Suffolk Archives is looking for people to make LEGO models of their favourite Suffolk landmarks for an exhibition at The Hold in 2021.
+The Tower Street Print Project, shows you how to use easy monoprinting techniques to make your own hand made greetings cards during Lockdown.
 
 ### [Firstsite artist created activity packs →](https://firstsite.uk/art-is-where-the-home-is/)
 
@@ -77,17 +77,13 @@ Designed for all ages and abilities, featuring contributions from UK artists inc
 
 ## Let’s go to the theatre
 
-### [The Wedding: Free online broadcast →](https://www.youtube.com/watch?v=2iZ5rRRuZTo)
+### [‘Come to where I am’ →](http://www.painesplough.com/play/come-where-i-am)
 
-Join Gecko on Wednesday 27 May at 7pm to watch their captivating production, bringing physical theatre to your living room.
+Eastern Angles have partnered with Paines Plough to launch a new series of audio plays ‘Come to where I am’ premiering on the 10th June at 7pm.
 
 ### [Digital Youth Theatre →](https://hightide.org.uk/lighthouse-programme/hightides-digital-youth-theatre/?dm_t=0,0,0,0,0)
 
 HighTide has launched a digital Youth Theatre, bringing together young people who access the services of 4YP in Ipswich, for a creative and connected digital response to Lockdown, called the Coronavirus Time Capsule.
-
-### [Theatre Royal Bury St Edmunds: Close Encounters Tour →](https://www.youtube.com/playlist?list=PL5iKedYbFRzPNMDx1WkHoEVdvRi1mfHb6)
-
-Presenting a glimpse behind the scenes of Theatre Royal Bury St Edmunds with a series of videos recorded during the Close Encounters Tours in 2019. Characters from the theatre's history were brought to life to give guests a taste of what the theatre was like in their time.
 
 ### [<cite>Bounce</cite>: The New Wolsey’s fortnightly round-up](https://www.newwolseybounce.co.uk/)
 
@@ -107,7 +103,15 @@ Create a mini museum, design your dream palace or deliver a guided tour of your 
 
 Great range of crafts, writing and virtual museum activities.
 
-## Let’s get writing
+## Let’s get reading and writing
+
+### [Felixstowe Book Festival 26-28 June →](https://felixstowebookfestival.co.uk/)
+
+Felixstowe Book Festival is going online and will be free for all to enjoy! Across the weekend the festival will be hosting a series of live streamed author events and workshops.
+
+### [Directing Masterclass with Hal Chambers →](https://bit.ly/HalChambers)
+
+Join the RSC’s Hal Chambers over 3 free sessions online as he looks at a director’s approach to making new work with a sense of place.
 
 ### [The Neverending Stories Pack →](https://nationalcentreforwriting.org.uk/neverending-stories/)
 
@@ -116,14 +120,6 @@ National Writers Centre resource pack to help families for get creative and spen
 ### [The Primadonna Prize for unsigned and unrepresented new writing talent](https://www.primadonnafestival.com/prize-2020)
 
 Primadonna Festival have established a prize to help open up access to the publishing industry, with focus squarely on the talent of the authors.
-
-### [HighTide 40 Plays/40 Nights: 40 simple standalone playwriting tasks →](https://hightide.org.uk/lighthouse-programme/40-plays40-nights/)
-
-HighTide are tweeting 40 Plays/40 Nights, 40 simple standalone playwriting tasks. Writers are invited to share their responses online for feedback, discussion and celebration.
-
-### [Tell your own mouse tale in a fun writing competition →](https://www.aldeburghmuseum.org.uk/events/mice-storytelling-competition/)
-
-Create a story about the Aldeburgh Museum mice in two writing competitions at Aldeburgh Museum.
 
 <div class="pa3 bg-light-gray mt4" markdown="1">
 
