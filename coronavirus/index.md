@@ -2,7 +2,7 @@
 layout: default
 title: Suffolk Libraries and coronavirus
 breadcrumb: home
-callout-text: "Libraries will begin to re-open with a limited number of services from Mon 6 July. Mobile and home library services remain suspended. Continue to access the eLibrary, online events & activities and book & film groups from your home."
+callout-text: "Libraries will begin to re-open with a limited number of services from Mon 6 July. The mobile service will also start to run again. The home library service remains suspended. Continue to access the eLibrary, online events & activities and book & film groups from your home."
 featured: true
 featured-image: /images/coronavirus/coronavirus.jpg
 featured-alt: 'NHS advice poster: Wash your hands more often for 20 seconds'
@@ -20,29 +20,31 @@ featured-link-href-text: Find out more &rarr;
 
 </div>
 
-Last updated Thu 04 June. [Latest news release](/news/libraries-to-reopen-from-early-july/).
+Last updated Fri 12 June.
 
 ## Closures and re-opening
 
 - Libraries will start to re-open from Mon 6 July
 - Library opening hours are likely to be reduced
 - Some libraries won’t re-open until after this date
-- Mobile and home library services remain suspended for the time being
+- The mobile library service will restart from Mon 6 July
+- The home library service will remain suspended for the time being
 
 Safety of staff and customers is our first consideration.
 
 ## Services
 
-- Reservations will be re-introduced slowly
-- To start with customers will be able to call or contact us online to request a selection of titles based on genre or author, which we’ll make available for collection. **More details to follow.**
+- Online reservations will not be available immediately
+- Customers will be able to call or contact us online to request a selection of titles based on genre or author, which we’ll make available for collection. **More details to follow.**
 - Returns and issues to be made with self-service machines
-- No cash payments in libraries
+- No cash payments in libraries, card payments only
 - You can now [pay outstanding charges and fines online](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB?RDT=/SpydusCitizenPay/default.aspx)
 - All in-library events remain suspended ([see our online events](/events-activities/online-and-streamed-events/))
 
 ## Renewals, reservations and charges
 
-- All overdue charges on loans made after 1 February remain suspended
+- All overdue charges on loans made after 1 February remain suspended until 31 August. We will continue to review this date.
+- All existing loan charges remain frozen until 31 August. We will continue to review this date.
 - [Check your account online](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB)
 - Customers won’t be able to make new reservations
 - Reservation collection dates for existing reservations will be extended indefinitely so they should be available when libraries reopen
