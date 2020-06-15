@@ -5,7 +5,9 @@ author: james-powell
 date: 2020-06-15T16:08:57.339Z
 category: news
 breadcrumb: news
-excerpt: Suffolk Libraries marks Loneliness Awareness Week
+excerpt: >
+  We're highlighting how Suffolk Libraries has been tackling isolation during
+  lockdown.
 ---
 This week is Loneliness Awareness Week and Suffolk Libraries is highlighting the work it has been doing to tackle loneliness during lockdown and encouraging more conversations about loneliness. 
 
