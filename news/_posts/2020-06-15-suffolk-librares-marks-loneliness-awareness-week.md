@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Suffolk Librares marks Loneliness Awareness Week
+title: Suffolk Libraries marks Loneliness Awareness Week
 author: james-powell
 date: 2020-06-15T15:34:31.973Z
 category: news
