@@ -4,7 +4,7 @@ title: 'Meet the Author: Kate Helm'
 date: 2020-06-16
 author: brandon-king
 category: meet-the-author
-excerpt: "Kate Helm talks about her career as a TV producer and reporter as well as her latest book [<cite>The House Share</cite>](https://suffolklibraries.overdrive.com/media/5340992)."
+excerpt: "Kate Helm talks about her career as a TV producer and reporter as well as her latest book <a href='https://suffolklibraries.overdrive.com/media/5340992'>The House Share</a>."
 featured-image: /images/featured/featured-kate-helm.jpg
 featured-alt: "Kate Helm"
 breadcrumb: meet-the-author
