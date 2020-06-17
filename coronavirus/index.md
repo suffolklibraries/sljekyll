@@ -67,8 +67,9 @@ Great Cornard, Rushmere (local), Saxmundham, Shotley (local), West Suffolk House
 - All in-library events remain suspended ([see our online events](/events-activities/online-and-streamed-events/))
 - No printing, PC usage or room hire
 
-## Renewals, reservations and charges
+## Loans, renewals, reservations and charges
 
+- There will be no charges for CD and DVD loans
 - All overdue charges on loans made after 1 February remain suspended until 31 August. We will continue to review this date.
 - All existing loan charges remain frozen until 31 August. We will continue to review this date.
 - [Check your account online](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB)
