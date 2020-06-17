@@ -2,13 +2,13 @@
 branch-unique-id: ixworth-library
 branch-name: Ixworth Library
 branch-image: "/images/branches/ixworth-library.jpg"
-branch-monday-hours: Closed
-branch-tuesday-hours:	1030 – 1230, 1400 – 1600
-branch-wednesday-hours: 1730 – 1930
-branch-thursday-hours: 1030 – 1230, 1400 – 1730
-branch-friday-hours: 1030 – 1230, 1330 – 1730
-branch-saturday-hours: 1030 – 1300
-branch-sunday-hours: 1100 – 1600
+branch-monday-hours: 0930 – 1200
+branch-tuesday-hours:	0930 – 1200
+branch-wednesday-hours: Closed
+branch-thursday-hours: 0930 – 1200
+branch-friday-hours: 0930 – 1200
+branch-saturday-hours: Closed
+branch-sunday-hours: Closed
 branch-manager: Ursula Scott
 branch-address: Village Hall, High Street, Ixworth
 branch-post-code: IP31 2HH

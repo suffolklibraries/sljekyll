@@ -3,7 +3,7 @@ branch-unique-id: rushmere
 branch-name: "Rushmere (Suffolk Libraries Local)"
 branch-image: /images/branches/sll-rushmere.jpg
 branch-local-day: Wednesday
-branch-local-hours: 1330-1630
+branch-local-hours: Closed
 branch-manager: Tom Veasey
 branch-address: Ransomes Sports Pavilion, Sidegate Avenue, Ipswich
 branch-post-code: IP4 4JJ

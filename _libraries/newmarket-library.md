@@ -3,12 +3,12 @@ branch-unique-id: newmarket-library
 branch-name: Newmarket Library
 branch-image: /images/branches/newmarket-library-3.jpg
 branch-monday-hours: Closed
-branch-tuesday-hours:	0830 – 1800
-branch-wednesday-hours: 0900 – 1700
-branch-thursday-hours: 0830 – 1700
-branch-friday-hours: 0830 – 1830
-branch-saturday-hours: 0900 – 1700
-branch-sunday-hours: 1000 – 1600
+branch-tuesday-hours:	1000 – 1600
+branch-wednesday-hours: 1000 – 1600
+branch-thursday-hours: 1000 – 1600
+branch-friday-hours: 1000 – 1600
+branch-saturday-hours: 1000 – 1600
+branch-sunday-hours: Closed
 branch-manager: Kate Ashton
 branch-address: 1a the Guineas, Newmarket
 branch-post-code: CB8 8EQ

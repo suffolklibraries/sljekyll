@@ -3,12 +3,12 @@ branch-unique-id: saxmundham-library
 branch-name: Saxmundham Library
 branch-image: /images/branches/saxmundham-library.jpg
 branch-monday-hours: Closed
-branch-tuesday-hours:	1000 – 1800
-branch-wednesday-hours: 1000 – 1800
+branch-tuesday-hours:	Closed
+branch-wednesday-hours: Closed
 branch-thursday-hours: Closed
-branch-friday-hours: 1000 – 1730
-branch-saturday-hours: 1000 – 1300
-branch-sunday-hours: 1100 – 1600
+branch-friday-hours: Closed
+branch-saturday-hours: Closed
+branch-sunday-hours: Closed
 branch-manager: Liz Gleave
 branch-address: County Offices, Street Farm Road, Saxmundham
 branch-post-code: IP17 1AL

@@ -2,13 +2,13 @@
 branch-unique-id: felixstowe-library
 branch-name: Felixstowe Library
 branch-image: /images/branches/felixstowe-library.jpg
-branch-monday-hours: 1000 – 1600
-branch-tuesday-hours:	0900 – 1730
-branch-wednesday-hours: 0900 – 1930
-branch-thursday-hours: 0900 – 1730
-branch-friday-hours: 0900 – 1730
-branch-saturday-hours: 0900 – 1700
-branch-sunday-hours: 1000 – 1600
+branch-monday-hours: 1000 – 1300, 1400 – 1600
+branch-tuesday-hours:	1000 – 1300, 1400 – 1600
+branch-wednesday-hours: 1000 – 1300, 1400 – 1600
+branch-thursday-hours: 1000 – 1300, 1400 – 1600
+branch-friday-hours: 1000 – 1300, 1400 – 1600
+branch-saturday-hours: 0900 – 1300
+branch-sunday-hours: Closed
 branch-manager: Steph Merrett
 branch-address: Crescent Road, Felixstowe
 branch-post-code: IP11 7BY

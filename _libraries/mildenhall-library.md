@@ -3,12 +3,12 @@ branch-unique-id: mildenhall-library
 branch-name: Mildenhall Library
 branch-image: /images/branches/mildenhall-library.jpg
 branch-monday-hours: Closed
-branch-tuesday-hours:	1000 – 1900
-branch-wednesday-hours: 1000 – 1715
-branch-thursday-hours: 1000 – 1715
-branch-friday-hours: 1000 – 1715
-branch-saturday-hours: 1000 – 1645
-branch-sunday-hours: 1000 – 1600
+branch-tuesday-hours:	1100 – 1500
+branch-wednesday-hours: 1100 – 1500
+branch-thursday-hours: Closed
+branch-friday-hours: 1100 – 1500
+branch-saturday-hours: 1100 – 1500
+branch-sunday-hours: Closed
 branch-manager: Denise Gray
 branch-address: Chestnut Close, Mildenhall
 branch-post-code: IP28 7NL

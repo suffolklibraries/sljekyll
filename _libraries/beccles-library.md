@@ -2,13 +2,13 @@
 branch-unique-id: beccles-library
 branch-name: Beccles Library
 branch-image: /images/branches/beccles-library.jpg
-branch-monday-hours: 0930 – 1700
-branch-tuesday-hours:	0930 – 1700
-branch-wednesday-hours:	0930 – 1700
-branch-thursday-hours: 0930 – 1700
-branch-friday-hours: 0930 – 1930
-branch-saturday-hours: 0930 – 1700
-branch-sunday-hours: 1000 – 1600
+branch-monday-hours: 1100 – 1500
+branch-tuesday-hours:	1100 – 1500
+branch-wednesday-hours:	1100 – 1500
+branch-thursday-hours: Closed
+branch-friday-hours: 1100 – 1500
+branch-saturday-hours: 1100 – 1500
+branch-sunday-hours: Closed
 branch-manager: Annaliese Matheron-Avery
 branch-address: Blyburgate, Beccles
 branch-post-code: NR34 9TB

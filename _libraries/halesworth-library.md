@@ -2,13 +2,13 @@
 branch-unique-id: halesworth-library
 branch-name: Halesworth Library
 branch-image: /images/branches/halesworth-library.jpg
-branch-monday-hours: 0930 – 1200
-branch-tuesday-hours:	0930 – 1730
-branch-wednesday-hours: 0930 – 1730
-branch-thursday-hours: Closed
-branch-friday-hours: 0930 – 1800
-branch-saturday-hours: 0930 – 1700
-branch-sunday-hours: 1000 – 1500
+branch-monday-hours: Closed
+branch-tuesday-hours:	Closed
+branch-wednesday-hours: 1000 – 1400
+branch-thursday-hours: 1000 – 1400
+branch-friday-hours: Closed
+branch-saturday-hours: 1000 – 1400
+branch-sunday-hours: Closed
 branch-manager: Julie Gulliver
 branch-address: Bridge Street, Halesworth
 branch-post-code: IP19 8AD

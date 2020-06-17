@@ -3,12 +3,12 @@ branch-unique-id: chantry-library
 branch-name: Chantry Library
 branch-image: /images/branches/chantry-library.jpg
 branch-monday-hours: 1400 – 1700
-branch-tuesday-hours:	1000 – 1300, 1400 – 1800
+branch-tuesday-hours:	1000 – 1300
 branch-wednesday-hours: 1000 – 1300
-branch-thursday-hours: 1000 – 1300, 1400 – 1800
-branch-friday-hours: 	1000 – 1300, 1400 – 1700
-branch-saturday-hours: 0930 – 1300, 1400 – 1700
-branch-sunday-hours: 1000 - 1600
+branch-thursday-hours: 1000 – 1300
+branch-friday-hours: 	1000 – 1300
+branch-saturday-hours: 1000 – 1300
+branch-sunday-hours: 1000 - 1300
 branch-manager: Vicki Mann
 branch-address: Hawthorn Drive, Ipswich
 branch-post-code: IP2 0QY

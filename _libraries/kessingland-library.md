@@ -4,11 +4,11 @@ branch-name: Kessingland Library
 branch-image: /images/branches/kessingland-library.jpg
 branch-monday-hours: Closed
 branch-tuesday-hours:	1400 - 1700
-branch-wednesday-hours: 1000 – 1700
+branch-wednesday-hours: 1000 – 1300
 branch-thursday-hours: Closed
-branch-friday-hours: 1000 – 1700
-branch-saturday-hours: 1000 - 1500
-branch-sunday-hours: 1000 – 1500
+branch-friday-hours: 1000 – 1300
+branch-saturday-hours: 1000 - 1300
+branch-sunday-hours: Closed
 branch-manager: Lesley Cox
 branch-address: Marram Green, Hall Road, Kessingland
 branch-post-code: NR33 7AH

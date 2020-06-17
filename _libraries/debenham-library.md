@@ -8,7 +8,7 @@ branch-wednesday-hours: 1500 – 1930
 branch-thursday-hours: Closed
 branch-friday-hours: Closed
 branch-saturday-hours: 0900 – 1300
-branch-sunday-hours: 1200 – 1600
+branch-sunday-hours: 1200 – 1400
 branch-manager: Maureen John
 branch-address: School Corner, Debenham, Stowmarket
 branch-post-code: IP14 6PL

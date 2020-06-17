@@ -1,11 +1,11 @@
 ---
 branch-unique-id: west-suffolk-house-library
 branch-name: West Suffolk House Library
-branch-monday-hours: 0845 – 1700
-branch-tuesday-hours: 0845 – 1700
-branch-wednesday-hours: 0845 – 1700
-branch-thursday-hours: 0845 – 1700
-branch-friday-hours: 0845 – 1700
+branch-monday-hours: Closed
+branch-tuesday-hours: Closed
+branch-wednesday-hours: Closed
+branch-thursday-hours: Closed
+branch-friday-hours: Closed
 branch-saturday-hours: Closed
 branch-sunday-hours: Closed
 branch-address: Main reception, West Suffolk House, Western Way, Bury St Edmunds

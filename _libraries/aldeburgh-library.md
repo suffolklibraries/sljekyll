@@ -3,12 +3,12 @@ branch-unique-id: aldeburgh-library
 branch-name: Aldeburgh Library
 branch-image: /images/branches/aldeburgh-library-2.jpg
 branch-monday-hours: 0900 – 1300
-branch-tuesday-hours: 0900 – 1300
-branch-wednesday-hours:	0900 – 1300, 1500 – 1800
+branch-tuesday-hours: Closed
+branch-wednesday-hours:	0900 – 1300
 branch-thursday-hours: 0900 – 1300
 branch-friday-hours: 0900 – 1300
-branch-saturday-hours: 1000 – 1230, 1300 – 1530
-branch-sunday-hours: 1000 – 1230, 1300 – 1530
+branch-saturday-hours: 1000 – 1400
+branch-sunday-hours: Closed
 branch-manager: Sue Osben
 branch-address: Victoria Road, Aldeburgh
 branch-post-code: IP15 5EG

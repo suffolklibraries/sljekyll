@@ -3,11 +3,11 @@ branch-unique-id: long-melford-library
 branch-name: Long Melford Library
 branch-image: /images/branches/long-melford-library-3.jpg
 branch-monday-hours: Closed
-branch-tuesday-hours:	1000 - 1300, 1400 - 1700
-branch-wednesday-hours: 1000 - 1300, 1400 - 1700
+branch-tuesday-hours:	1000 – 1300, 1400 – 1600
+branch-wednesday-hours: 1000 – 1300, 1400 – 1600
 branch-thursday-hours: Closed
-branch-friday-hours: 1000 - 1300, 1400 - 1700
-branch-saturday-hours: 0900 - 1300
+branch-friday-hours: 1000 – 1300, 1400 – 1600
+branch-saturday-hours: 0900 - 1200
 branch-sunday-hours: Closed
 branch-manager: Jack Norman
 branch-address: United Reformed Church Room, Hall Street, Long Melford

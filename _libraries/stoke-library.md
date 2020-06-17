@@ -3,12 +3,12 @@ branch-unique-id: stoke-library
 branch-name: Stoke Library
 branch-image: /images/branches/stoke-library-2.jpg
 branch-monday-hours: Closed
-branch-tuesday-hours:	0930 – 1230, 1400 – 1700
-branch-wednesday-hours: 1400 – 1700
+branch-tuesday-hours:	1400 – 1700
+branch-wednesday-hours: Closed
 branch-thursday-hours: 1400 – 1700
-branch-friday-hours: 0930 – 1230
+branch-friday-hours: Closed
 branch-saturday-hours: 0930 – 1230
-branch-sunday-hours: 1000 – 1300
+branch-sunday-hours: Closed
 branch-manager: Charmain Osborne
 branch-address: High School, Maidenhall Approach, Ipswich
 branch-post-code: IP2 8PL

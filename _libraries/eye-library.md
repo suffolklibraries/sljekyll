@@ -5,10 +5,10 @@ branch-image: /images/branches/eye-library.jpg
 branch-monday-hours: Closed
 branch-tuesday-hours:	0900 – 1300
 branch-wednesday-hours: 0900 – 1300, 1400 – 1800
-branch-thursday-hours: 1400 – 1700
+branch-thursday-hours: Closed
 branch-friday-hours: 0900 – 1300, 1400 – 1700
 branch-saturday-hours: 0900 – 1300
-branch-sunday-hours: 1000 – 1500
+branch-sunday-hours: Closed
 branch-manager: Julie Shepherd
 branch-address: 6 Cross Street, Eye
 branch-post-code: IP23 7AB

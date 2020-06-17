@@ -4,11 +4,11 @@ branch-name: Oulton Broad Library
 branch-image: /images/branches/oulton-broad-library.jpg
 branch-manager: Jane Rothon
 branch-monday-hours: 1000 – 1200
-branch-tuesday-hours:	1000 – 1300, 1400 – 1700
-branch-wednesday-hours: 1000 – 1300, 1400 – 1700
-branch-thursday-hours: 1000 – 1300, 1400 – 1700
-branch-friday-hours: 1000 – 1300, 1400 – 1800
-branch-saturday-hours: 1000 – 1300, 1400 – 1700
+branch-tuesday-hours:	1000 – 1300, 1400 – 1600
+branch-wednesday-hours: 1000 – 1300, 1400 – 1600
+branch-thursday-hours: 1000 – 1300, 1400 – 1600
+branch-friday-hours: 1000 – 1300, 1400 – 1600
+branch-saturday-hours: 1000 – 1300, 1400 – 1600
 branch-sunday-hours: 1100 – 1600
 branch-address: 92 Bridge Road, Oulton Broad
 branch-post-code: NR32 3LR

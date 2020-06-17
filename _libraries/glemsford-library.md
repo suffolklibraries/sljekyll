@@ -3,12 +3,12 @@ branch-unique-id: glemsford-library
 branch-name: Glemsford Library
 branch-image: /images/branches/glemsford-library.jpg
 branch-monday-hours: Closed
-branch-tuesday-hours:	1000 – 1300, 1400 – 1700
+branch-tuesday-hours:	1100 – 1300, 1400 – 1630
 branch-wednesday-hours: Closed
-branch-thursday-hours: 1000 – 1300, 1400 – 1700
-branch-friday-hours: 1000 – 1300, 1400 – 1700
+branch-thursday-hours: 1100 – 1300, 1400 – 1630
+branch-friday-hours: Closed
 branch-saturday-hours: Closed
-branch-sunday-hours: 1100 – 1500
+branch-sunday-hours: 1130 – 1430
 branch-manager: Sue Baker
 branch-address: Village Hall, Glemsford
 branch-post-code: CO10 7RH

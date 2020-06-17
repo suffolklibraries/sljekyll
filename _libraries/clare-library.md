@@ -3,12 +3,12 @@ branch-unique-id: clare-library
 branch-name: Clare Library
 branch-image: /images/branches/clare-library.jpg
 branch-monday-hours: Closed
-branch-tuesday-hours:	1000 – 1300, 1400 – 1700
+branch-tuesday-hours:	1000 – 1300, 1400 – 1600
 branch-wednesday-hours: 1000 – 1300, 1400 – 1700
-branch-thursday-hours: Closed
-branch-friday-hours: 1000 - 1300, 1400 - 1700
+branch-thursday-hours: 1000 – 1300, 1400 – 1600
+branch-friday-hours: 11000 – 1300, 1400 – 1600
 branch-saturday-hours: 1000 - 1300
-branch-sunday-hours: 1000 – 1400
+branch-sunday-hours: Closed
 branch-manager: Karla Greenwood
 branch-address: The Guildhall, High Street, Clare
 branch-post-code: CO10 8NY

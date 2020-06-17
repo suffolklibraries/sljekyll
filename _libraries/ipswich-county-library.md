@@ -2,13 +2,13 @@
 branch-unique-id: ipswich-county-library
 branch-name: Ipswich County Library
 branch-image: /images/branches/ipswich-county-library.jpg
-branch-monday-hours: 0900 – 1800
-branch-tuesday-hours:	0900 – 1900
-branch-wednesday-hours: 0900 – 1800
-branch-thursday-hours: 0900 – 1800
-branch-friday-hours: 0900 – 1900
-branch-saturday-hours: 0830 – 1700
-branch-sunday-hours: 1000 – 1600
+branch-monday-hours: 1000 – 1600
+branch-tuesday-hours:	1000 – 1600
+branch-wednesday-hours: 1000 – 1600
+branch-thursday-hours: 1000 – 1600
+branch-friday-hours: 1000 – 1600
+branch-saturday-hours: 1000 – 1600
+branch-sunday-hours: Closed
 branch-manager: Charmain Osborne
 branch-address: Northgate Street, Ipswich
 branch-post-code: IP1 3DE

@@ -3,11 +3,11 @@ branch-unique-id: kedington-library
 branch-name: Kedington Library
 branch-image: /images/branches/kedington-library.jpg
 branch-monday-hours: Closed
-branch-tuesday-hours:	1130 - 1300, 1330 - 1800
-branch-wednesday-hours: 0900 – 1300, 1330 – 1630
-branch-thursday-hours: 1300 - 1700
-branch-friday-hours: 1100 - 1500
-branch-saturday-hours: 0900 – 1300
+branch-tuesday-hours:	1030 – 1300, 1330 – 1630
+branch-wednesday-hours: 1030 – 1530
+branch-thursday-hours: 1030 – 1300, 1330 – 1630
+branch-friday-hours: Closed
+branch-saturday-hours: Closed
 branch-sunday-hours: Closed
 branch-manager: Dawn Bamford
 branch-address: Community Centre, Arms Lane, Kedington

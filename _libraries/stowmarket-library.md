@@ -3,12 +3,12 @@ branch-unique-id: stowmarket-library
 branch-name: Stowmarket Library
 branch-image: /images/branches/stowmarket-library.jpg
 branch-monday-hours: Closed
-branch-tuesday-hours:	0830 – 1845
-branch-wednesday-hours: 0830 – 1745
-branch-thursday-hours: 0830 – 1745
-branch-friday-hours: 0830 – 1830
-branch-saturday-hours: 0830 – 1600
-branch-sunday-hours: 1000 – 1600
+branch-tuesday-hours:	1000 – 1600
+branch-wednesday-hours: 1000 – 1600
+branch-thursday-hours: 1000 – 1600
+branch-friday-hours: 1000 – 1600
+branch-saturday-hours: 1000 – 1300
+branch-sunday-hours: 1000 – 1300
 branch-manager: Ursula Scott
 branch-address: Milton Road, Stowmarket
 branch-post-code: IP14 1EX

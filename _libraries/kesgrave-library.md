@@ -2,13 +2,13 @@
 branch-unique-id: kesgrave-library
 branch-name: Kesgrave Library
 branch-image: /images/branches/kesgrave-library.jpg
-branch-monday-hours: 0900 - 1200
-branch-tuesday-hours:	0900 – 1200, 1430 – 1700
-branch-wednesday-hours: 1430 – 1800
-branch-thursday-hours: 1430 – 2000
-branch-friday-hours: 0900 – 1200, 1430 - 1800
-branch-saturday-hours: 1000 – 1700
-branch-sunday-hours: 1000 – 1500
+branch-monday-hours: Closed
+branch-tuesday-hours:	1000 – 1300, 1400 – 1630
+branch-wednesday-hours: 1400 – 1630
+branch-thursday-hours: 1400 – 1630
+branch-friday-hours: 1000 – 1300, 1400 – 1630
+branch-saturday-hours: 1000 – 1300
+branch-sunday-hours: Closed
 branch-manager: Maggie Lusher
 branch-address: Kinsey House, Kays Close, Kesgrave
 branch-post-code: IP5 2HL

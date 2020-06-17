@@ -3,12 +3,12 @@ branch-unique-id: leiston-library
 branch-name: Leiston Library
 branch-image: /images/branches/leiston-library.jpg
 branch-monday-hours: Closed
-branch-tuesday-hours:	0930 – 1930
+branch-tuesday-hours:	0930 – 1400
 branch-wednesday-hours: Closed
-branch-thursday-hours: 0930 – 1730
-branch-friday-hours: 0930 – 1300, 1400 – 1700
-branch-saturday-hours: 0930 – 1300, 1400 – 1700
-branch-sunday-hours: 1000 – 1500
+branch-thursday-hours: 0930 – 1400
+branch-friday-hours: Closed
+branch-saturday-hours: 0930 – 1400
+branch-sunday-hours: Closed
 branch-manager: Gayla Rowling
 branch-address: Old Post Office Square, Main Street, Leiston
 branch-post-code: IP16 4ER

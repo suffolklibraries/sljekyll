@@ -3,12 +3,12 @@ branch-unique-id: capel-st-mary-library
 branch-name: Capel St Mary Library
 branch-image: /images/branches/capel-library.jpg
 branch-monday-hours: Closed
-branch-tuesday-hours:	0930 – 1230, 1400 – 1730
+branch-tuesday-hours:	0930 – 1230
 branch-wednesday-hours: 0930 – 1230
 branch-thursday-hours: 0930 – 1230
-branch-friday-hours: 1400 – 1700, 1730 – 1930
-branch-saturday-hours: 0900 – 1500
-branch-sunday-hours: 1000 – 1500
+branch-friday-hours: Closed
+branch-saturday-hours: 0930 – 1230
+branch-sunday-hours: 0900 – 1230
 branch-manager: Katharine Liu
 branch-address: Village Hall, The Street, Capel St Mary
 branch-post-code: IP9 2EP
