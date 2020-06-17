@@ -2,7 +2,7 @@
 layout: default
 title: Suffolk Libraries and coronavirus
 breadcrumb: home
-callout-text: "Libraries will begin to re-open with a limited number of services from Mon 6 July. The mobile service will also start to run again. The home library service remains suspended. Continue to access the eLibrary, online events & activities and book & film groups from your home."
+callout-text: "<ul><li>Libraries will begin to re-open with a limited number of services from Mon 6 July</li><li>The mobile service will restart from Mon 6 July</li><li>No reservations, browsing or PC services</li><li>Customers will be able to email or phone for a selection of titles for collection at a pre-arranged date (details to follow)</li><li>The home library service remains suspended</li></ul>"
 featured: true
 featured-image: /images/coronavirus/coronavirus.jpg
 featured-alt: 'NHS advice poster: Wash your hands more often for 20 seconds'
@@ -10,7 +10,7 @@ featured-excerpt: Up to date information on closures and service changes.
 featured-link-href-text: Find out more &rarr;
 ---
 
-<div class="measure" markdown="1">
+<div markdown="1">
 
 <h1 class="f3 f2-ns custom-lh-title mb4">{{ page.title }}</h1>
 
@@ -20,26 +20,52 @@ featured-link-href-text: Find out more &rarr;
 
 </div>
 
-Last updated Fri 12 June.
+Last updated Wed 17 June.
 
 ## Closures and re-opening
 
-- Libraries will start to re-open from Mon 6 July
-- Library opening hours are likely to be reduced
-- Some libraries won’t re-open until after this date
-- The mobile library service will restart from Mon 6 July
-- The home library service will remain suspended for the time being
+- Libraries will start to reopen from Mon 6 July
+- [Check your library](/libraries/) for new opening hours
+- The [mobile library](/mobiles-home/) service will restart from Mon 6 July
+- The home library service will remain suspended
 
-Safety of staff and customers is our first consideration.
+## Libraries re-opening dates
+
+### Mon 6 July
+
+Aldeburgh, Beccles, Broomhill, Bury St. Edmunds, Chantry, Felixstowe, Framlingham, Gainsborough, Ipswich County, Ixworth, Stradbroke, Sudbury, Woodbridge.
+
+### Tue 7 July
+
+Bungay, Capel St Mary, Clare, Debenham, Elmswell, Eye, Glemsford, Hadleigh, Haverhill, Kedington, Kesgrave, Kessingland, Lakenheath, Lavenham, Leiston, Long Melford, Lowestoft, Mildenhall, Needham Market, Newmarket, Oulton Broad, Rosehill, Southwold, Stowmarket, Thurston, Wickham Market.
+
+### Thu 9 July
+
+Halesworth
+
+### Mon 13 July
+
+Bungay
+
+### Tue 14 July
+
+Stoke
+
+### Remaining closed
+
+Great Cornard, Rushmere (local), Saxmundham, Shotley (local), West Suffolk House.
+
 
 ## Services
 
 - Online reservations will not be available immediately
+- No browsing of titles in libraries
 - Customers will be able to call or contact us online to request a selection of titles based on genre or author, which we’ll make available for collection. **More details to follow.**
 - Returns and issues to be made with self-service machines
 - No cash payments in libraries, card payments only
 - You can now [pay outstanding charges and fines online](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB?RDT=/SpydusCitizenPay/default.aspx)
 - All in-library events remain suspended ([see our online events](/events-activities/online-and-streamed-events/))
+- No printing, PC usage or room hire
 
 ## Renewals, reservations and charges
 
