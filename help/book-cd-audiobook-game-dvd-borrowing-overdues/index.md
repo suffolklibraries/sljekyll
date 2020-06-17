@@ -4,6 +4,12 @@ title: Borrowing periods &amp; overdue charges for physical titles
 breadcrumb: help
 ---
 
+<div class="custom-bg-corporate white pa3 mb4" markdown="1">
+
+  <p>Charges and fines have been frozen during the coronavirus situation and all new loans will be extended to four weeks. CD and DVD charges have been suspended. <br><a href="/coronavirus/" class="b custom-force-white underline">Find out more about the library service during coronavirus &rarr;</a></p>
+
+</div>
+
 <div class="{% include /c/generic-panel.html %}">
 
     <p class="ma0"><a href="/elibrary/borrowing-periods-and-allowances/">eLibrary borrowing periods &amp; allowances &rarr;</a></p>
