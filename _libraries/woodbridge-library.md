@@ -2,7 +2,7 @@
 branch-unique-id: woodbridge-library
 branch-name: Woodbridge Library
 branch-image: /images/branches/woodbridge-library.jpg
-branch-monday-hours: 1000 – 1600
+branch-monday-hours: Closed
 branch-tuesday-hours:	1000 – 1600
 branch-wednesday-hours: 1000 – 1600
 branch-thursday-hours: 1000 – 1600

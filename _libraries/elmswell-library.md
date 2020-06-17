@@ -5,7 +5,7 @@ branch-image: /images/branches/elmswell-library.jpg
 branch-monday-hours: Closed
 branch-tuesday-hours:	1100 – 1300, 1500 - 1800
 branch-wednesday-hours: 1500 – 1700
-branch-thursday-hours: 1100 – 1300, 1500 - 1800
+branch-thursday-hours: Closed
 branch-friday-hours: 1500 – 1700
 branch-saturday-hours: 1100 – 1300
 branch-sunday-hours: 1100 – 1500

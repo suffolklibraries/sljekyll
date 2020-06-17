@@ -37,7 +37,7 @@ Aldeburgh, Beccles, Broomhill, Bury St. Edmunds, Chantry, Felixstowe, Framlingha
 
 ### Tue 7 July
 
-Bungay, Capel St Mary, Clare, Debenham, Elmswell, Eye, Glemsford, Hadleigh, Haverhill, Kedington, Kesgrave, Kessingland, Lakenheath, Lavenham, Leiston, Long Melford, Lowestoft, Mildenhall, Needham Market, Newmarket, Oulton Broad, Rosehill, Southwold, Stowmarket, Thurston, Wickham Market.
+Bungay, Capel St Mary, Clare, Debenham, Elmswell, Eye, Glemsford, Hadleigh, Haverhill, Kedington, Kesgrave, Kessingland, Lakenheath, Lavenham, Leiston, Long Melford, Lowestoft, Mildenhall, Needham Market, Newmarket, Oulton Broad, Rosehill, Southwold, Stowmarket, Thurston.
 
 ### Thu 9 July
 
@@ -50,6 +50,10 @@ Bungay
 ### Tue 14 July
 
 Stoke
+
+### Tue 21 July
+
+Wickham Market
 
 ### Remaining closed
 

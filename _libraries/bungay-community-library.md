@@ -31,5 +31,4 @@ breadcrumb: y
 branch-other-facilities: Foodbank collection point throughout the year
 branch-pride-and-periods: y
 meta-description: "Books, CDs, DVDs, free computer access, wifi, printing, scanning, room hire, children's activities, older people's activities, free sanitary products."
-branch-news: The library will be closed from 23 - 27 March for installation of a new front window.
 ---

@@ -3,7 +3,7 @@ branch-unique-id: haverhill-library
 branch-name: Haverhill Library
 branch-image: /images/branches/haverhill-library-2.jpg
 branch-monday-hours: Closed
-branch-tuesday-hours:	1400 – 1500
+branch-tuesday-hours:	1400 – 1700
 branch-wednesday-hours: 0900 – 1300
 branch-thursday-hours: 1400 – 1700
 branch-friday-hours: 0900 – 1300

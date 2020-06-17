@@ -2,13 +2,13 @@
 branch-unique-id: framlingham-library
 branch-name: Framlingham Library
 branch-image: /images/branches/framlingham-library-2.jpg
-branch-monday-hours: 0900 – 1300
-branch-tuesday-hours:	0900 – 1300
+branch-monday-hours: 0930 – 1300
+branch-tuesday-hours:	0930 – 1300
 branch-wednesday-hours: Closed
 branch-thursday-hours: Closed
 branch-friday-hours: Closed
 branch-saturday-hours: 0930 – 1500 (alternate)
-branch-sunday-hours: 1100 – 1600
+branch-sunday-hours: Closed
 branch-manager: Patricia Adkins
 branch-address: The Old Court House, Bridge Street, Framlingham
 branch-post-code: IP13 9AJ
