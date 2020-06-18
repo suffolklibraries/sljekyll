@@ -10,7 +10,16 @@ breadcrumb: home
 
 </div>
 
-## Let’s get singing & dancing
+## Let’s get listening, singing & dancing
+
+### [LOL (LOTS OF LOVE) →](https://www.danceeast.co.uk/performances/lol-lots-love-luca-silvestrinis-protein/)
+
+Presented in partnership with The Place and Luca Silvestrini’s Protein, part of Protein 21 Remix Series which brings historical works onto a digital stage.
+
+### [‘From The Red House’ podcast →](https://brittenpears.org/explore/benjamin-britten/music/podcasts/)
+
+A monthly podcast presented by Lucy Walker will explore all things Britten and Pears, music, culture, heritage and anything else that might come up.
+
 
 ### [DanceEast are going live! →](https://www.danceeast.co.uk/get-dancing/onlinedanceclassesjune-2020/)
 
@@ -27,6 +36,10 @@ Join Unscene Suffolk on Monday afternoons for their fully accessible singing wor
 
 ## Let’s make Suffolk’s history
 
+### [Pride in Suffolk’s Past →](https://www.suffolkarchives.co.uk/displays-online/pride-in-suffolks-past/)
+
+‘Pride in Suffolk’s Past’ is a Suffolk Archives project capturing the hidden stories of LGBTQ+ people in Suffolk’s past and present.
+
 ### [History Begins at Home →](https://www.facebook.com/pg/historybeginsathome/about/)
 
 Right before our eyes history is being made. History Begins at Home invites you to ignite conversations with your families and friends about the past. #HistoryBeginsAtHome will give you the questions, the tools and the tasks, connecting families, creating history.
@@ -40,6 +53,18 @@ Help Ipswich Museums record the COVID-19 pandemic. Tell them how your lives have
 Suffolk’s Archives needs to tell future generations about COVID-19. Help by providing a snapshot of your life in Suffolk during these unusual times.
 
 ## Let’s see some art around the world
+
+### [A Celebration of Aldeburgh Festivals →](https://snapemaltings.co.uk/season/aldeburgh-festival/)
+
+In collaboration with partners including BBC Radio 3, BBC Four and BBC iPlayer, Britten Pears Arts presents a celebration of Aldeburgh Festivals, with an offering of events from recent years to watch, listen to and explore online, as well as insights and projects delving into the history of this unique international festival.
+
+### [Live sessions talks and artist broadcasts from Somerset House →](https://www.somersethouse.org.uk/)
+‘I Should Be Doing Something Else Right Now’ exhibition expands online to frame a new cultural programme, reflecting on how artists are connecting, and for some, the imperative to fill time.
+
+### [Dracula by Northern Ballet →](https://www.bbc.co.uk/iplayer/episode/m000jqyr/dracula-by-northern-ballet)
+
+Bram Stoker’s gothic romance is brought to life on stage in this gripping ballet. Choreographed by David Nixon OBE and performed by the Northern Ballet at Leeds Playhouse on Halloween, 2019.
+
 
 ### [BBC Culture in Quarantine →](https://www.bbc.co.uk/arts)
 
@@ -59,14 +84,6 @@ A great list of free virtual gallery tours from around the world.
 
 Art Eat and partners invite over 15's to take part in designing and painting a new mural for Ipswich. All you need is your smartphone and a pen and paper.
 
-### [Design a banner for First Light Festival! →](http://ow.ly/pptm50zV3w8)
-
-First Light Festival are launching a competition looking for a design for an original and inventive banner that celebrates the First Light Festival experience.
-
-### [Crafts Council →](https://www.craftscouncil.org.uk/articles/craft-for-home-school-resources)
-
-Hands-on making activities for home schooling, from Early Years to Key Stage 5 with the need for minimal resources.
-
 ### [Printmaking with Tower Street Print Project →](https://www.youtube.com/watch?v=kr3gxS8M_Rk&feature=youtu.be)
 
 The Tower Street Print Project, shows you how to use easy monoprinting techniques to make your own hand made greetings cards during Lockdown.
@@ -77,9 +94,17 @@ Designed for all ages and abilities, featuring contributions from UK artists inc
 
 ## Let’s go to the theatre
 
-### [‘Come to where I am’ →](http://www.painesplough.com/play/come-where-i-am)
+### [‘La Lille Mal Gardée’ at the Royal Opera House →](https://www.roh.org.uk/tickets-and-events/la-fille-mal-gardee-stream-details)
+
+Visit Covent Garden from the comfort of your own home as part of our #OurHouseToYourHouse series. Join the Royal Ballet for a Premiere stream of Frederick Ashton's La Fille mal gardée.
+
+### [‘Come to where I am’ →](https://youtu.be/ndoMRMfL7dI )
 
 Eastern Angles have partnered with Paines Plough to launch a new series of audio plays ‘Come to where I am’ premiering on the 10th June at 7pm.
+
+### [The Madness of George III at the Nottingham Playhouse →](https://youtu.be/fofiKCV9wGc)
+
+Enjoy the National Theatre online. A new piece goes up every Thursday. This week’s royally epic cast also includes Adrian Scarborough (Gavin and Stacey), Debra Gillett (Bridget Jones’ Baby) and Sara Powell (Last Christmas).
 
 ### [Digital Youth Theatre →](https://hightide.org.uk/lighthouse-programme/hightides-digital-youth-theatre/?dm_t=0,0,0,0,0)
 
@@ -88,10 +113,6 @@ HighTide has launched a digital Youth Theatre, bringing together young people wh
 ### [<cite>Bounce</cite>: The New Wolsey’s fortnightly round-up](https://www.newwolseybounce.co.uk/)
 
 Round up of the best in on-line culture, education and entertainment – including the theatre’s on going ‘Storyline’ project. ‘Storyline’ is a dedicated telephone line where local people can leave the theatre a message about whatever’s on their mind, which will then be used to create a piece of work.
-
-### [Free National Theatre pieces →](https://www.nationaltheatre.org.uk/nt-at-home)
-
-Enjoy the National Theatre online, for free, during the lock down. A new piece goes up every Thursday.
 
 ## Let’s visit a museum
 
@@ -109,9 +130,6 @@ Great range of crafts, writing and virtual museum activities.
 
 Felixstowe Book Festival is going online and will be free for all to enjoy! Across the weekend the festival will be hosting a series of live streamed author events and workshops.
 
-### [Directing Masterclass with Hal Chambers →](https://bit.ly/HalChambers)
-
-Join the RSC’s Hal Chambers over 3 free sessions online as he looks at a director’s approach to making new work with a sense of place.
 
 ### [The Neverending Stories Pack →](https://nationalcentreforwriting.org.uk/neverending-stories/)
 

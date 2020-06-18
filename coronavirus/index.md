@@ -33,11 +33,11 @@ Last updated Wed 17 June.
 
 ### Mon 6 July
 
-Aldeburgh, Beccles, Broomhill, Bury St. Edmunds, Chantry, Felixstowe, Framlingham, Gainsborough, Ipswich County, Ixworth, Stradbroke, Sudbury, Woodbridge.
+Aldeburgh, Beccles, Broomhill, Bury St. Edmunds, Chantry, Felixstowe, Framlingham, Gainsborough, Ipswich County, Ixworth, Stradbroke, Sudbury.
 
 ### Tue 7 July
 
-Capel St Mary, Clare, Debenham, Elmswell, Eye, Glemsford, Hadleigh, Haverhill, Kedington, Kesgrave, Kessingland, Lakenheath, Leiston, Long Melford, Lowestoft, Mildenhall, Needham Market, Newmarket, Oulton Broad, Rosehill, Southwold, Stowmarket, Thurston.
+Capel St Mary, Clare, Debenham, Elmswell, Eye, Glemsford, Hadleigh, Haverhill, Kedington, Kesgrave, Kessingland, Lakenheath, Leiston, Long Melford, Lowestoft, Mildenhall, Needham Market, Newmarket, Oulton Broad, Rosehill, Southwold, Stowmarket, Thurston, Woodbridge.
 
 ### Wed 8 July
 

@@ -7,7 +7,7 @@ branch-tuesday-hours:	1000 – 1300, 1400 – 1600
 branch-wednesday-hours: 1000 – 1300, 1400 – 1600
 branch-thursday-hours: 1000 – 1300, 1400 – 1600
 branch-friday-hours: 1000 – 1300, 1400 – 1600
-branch-saturday-hours: 0900 – 1300
+branch-saturday-hours: 1000 – 1300
 branch-sunday-hours: Closed
 branch-manager: Steph Merrett
 branch-address: Crescent Road, Felixstowe
