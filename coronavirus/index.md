@@ -37,12 +37,15 @@ Aldeburgh, Beccles, Broomhill, Bury St. Edmunds, Chantry, Felixstowe, Framlingha
 
 ### Tue 7 July
 
-Capel St Mary, Clare, Debenham, Elmswell, Eye, Glemsford, Hadleigh, Haverhill, Kedington, Kesgrave, Kessingland, Lakenheath, Lavenham, Leiston, Long Melford, Lowestoft, Mildenhall, Needham Market, Newmarket, Oulton Broad, Rosehill, Southwold, Stowmarket, Thurston.
+Capel St Mary, Clare, Debenham, Elmswell, Eye, Glemsford, Hadleigh, Haverhill, Kedington, Kesgrave, Kessingland, Lakenheath, Leiston, Long Melford, Lowestoft, Mildenhall, Needham Market, Newmarket, Oulton Broad, Rosehill, Southwold, Stowmarket, Thurston.
 
 ### Wed 8 July
 
 Halesworth
 
+### Thu 9 July
+
+Lavenham
 
 ### Tue 14 July
 
