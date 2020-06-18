@@ -8,7 +8,7 @@ branch-wednesday-hours: Closed
 branch-thursday-hours: 1000 – 1400
 branch-friday-hours: 1000 – 1400
 branch-saturday-hours: 1000 – 1400
-branch-sunday-hours: 1000 – 1400
+branch-sunday-hours: Closed
 branch-manager: Amanda King
 branch-address: Wharton Street, Bungay
 branch-post-code: NR35 1EL
