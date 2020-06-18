@@ -7,7 +7,7 @@ branch-tuesday-hours:	1000 – 1300
 branch-wednesday-hours: 1000 – 1300
 branch-thursday-hours: 1000 – 1300
 branch-friday-hours: 1000 – 1300
-branch-saturday-hours: 1000 – 1300
+branch-saturday-hours: Closed
 branch-sunday-hours: Closed
 branch-manager: Gareth Lewry
 branch-address: Market Hill, Sudbury
