@@ -17,90 +17,156 @@ awesomplete: true
 
 			<form class="pure-form pure-form-stacked pb4" name="select-and-collect" action="https://formspree.io/mnqgzppl" method="POST">
 
-				<p class="mt0 f6">Tell us what you’re interested in and our staff will prepare a bundle of books for you to collect. All fields marked <span class="red">*</span> are compulsory.</p>
+				<p class="mt0 f6">Tell us what you’re interested in and our staff will prepare a bundle of titles for you to collect. All fields marked <span class="red">*</span> are compulsory.</p>
 
-				<label for="name" class="db f6 pt3">Your name <span class="red">*</span></label>
-				<input required class="border-box w-100" type="text" name="name" id="name">
+				<div class="pa2 ba b--light-gray mv3">
 
-				<label for="email" class="db f6 pt3">Your email <span class="red">*</span></label>
-				<input required class="border-box w-100" type="email" name="email" id="email">
+					<fieldset>
 
-				<label for="tel" class="db f6 pt3">Your contact number</label>
-				<input class="border-box w-100" type="tel" name="tel" id="tel">
+						<legend class="mb1 b">Your details</legend>
 
-				<label for="library" class="db f6 pt3">Which library do you want to collect your bundle from? (Start typing the library name) <span class="red">*</span></label>
+						<label for="name" class="db f6 pt3">Your name <span class="red">*</span></label>
+						<input required class="border-box w-100" type="text" name="name" id="name">
 
-				<input
-					required
-					class="border-box w-100 awesomplete"
-					type="text"
-					name="library"
-					id="library"
-					data-list="Aldeburgh Library, Beccles Library, Brandon Library, Broomhill Library Ipswich, Bungay Library, Bury St Edmunds Library, Capel St Mary Library, Chantry Library Ipswich, Clare Library, Debenham Library, Elmswell Library, Eye Library, Felixstowe Library, Framlingham Library, Gainsborough Community Library Ipswich, Glemsford Library, Hadleigh Library, Halesworth Library, Haverhill Library, Ipswich County Library, Ixworth Library, Kedington Library, Kesgrave Library, Kessingland Library, Lakenheath Library, Lavenham Library, Leiston Library, Long Melford Library, Lowestoft Library, Mildenhall Library, Needham Market Library, Newmarket Library, Oulton Broad Library, Rosehill Library Ipswich, Southwold Library, Stoke Library Ipswich, Stowmarket Library, Stradbroke Library, Sudbury Library, Thurston Library, Wickham Market Library, Woodbridge Library"
-				>
+						<label for="email" class="db f6 pt3">Your email <span class="red">*</span></label>
+						<input required class="border-box w-100" type="email" name="email" id="email">
 
-				<details class="f6">
+						<label for="tel" class="db f6 pt3">Your contact number</label>
+						<input class="border-box w-100" type="tel" name="tel" id="tel">
 
-    			<summary class="blue underline pointer">List of libraries</summary>
+						<label for="library" class="db f6 pt3">Which library do you want to collect your bundle from? (Start typing the library name) <span class="red">*</span></label>
 
-					<ul class="mt0">
+						<input
+							required
+							class="border-box w-100 awesomplete"
+							type="text"
+							name="library"
+							id="library"
+							data-list="Aldeburgh Library, Beccles Library, Brandon Library, Broomhill Library Ipswich, Bungay Library, Bury St Edmunds Library, Capel St Mary Library, Chantry Library Ipswich, Clare Library, Debenham Library, Elmswell Library, Eye Library, Felixstowe Library, Framlingham Library, Gainsborough Community Library Ipswich, Glemsford Library, Hadleigh Library, Halesworth Library, Haverhill Library, Ipswich County Library, Ixworth Library, Kedington Library, Kesgrave Library, Kessingland Library, Lakenheath Library, Lavenham Library, Leiston Library, Long Melford Library, Lowestoft Library, Mildenhall Library, Needham Market Library, Newmarket Library, Oulton Broad Library, Rosehill Library Ipswich, Southwold Library, Stoke Library Ipswich, Stowmarket Library, Stradbroke Library, Sudbury Library, Thurston Library, Wickham Market Library, Woodbridge Library"
+						>
 
-					  <li>Aldeburgh Library</li>
-					  <li>Beccles Library</li>
-					  <li>Brandon Library</li>
-					  <li>Broomhill Library</li>
-					  <li>Bungay Library</li>
-					  <li>Bury St Edmunds Library</li>
-					  <li>Capel St Mary Library</li>
-					  <li>Chantry Library</li>
-					  <li>Clare Library</li>
-					  <li>Debenham Library</li>
-					  <li>Elmswell Library</li>
-					  <li>Eye Library</li>
-					  <li>Felixstowe Library</li>
-					  <li>Framlingham Library</li>
-					  <li>Gainsborough Community Library</li>
-					  <li>Glemsford Library</li>
-					  <li>Great Cornard Library</li>
-					  <li>Hadleigh Library</li>
-					  <li>Halesworth Library</li>
-					  <li>Haverhill Library</li>
-					  <li>Ipswich County Library</li>
-					  <li>Ixworth Library</li>
-					  <li>Kedington Library</li>
-					  <li>Kesgrave Library</li>
-					  <li>Kessingland Library</li>
-					  <li>Lakenheath Library</li>
-					  <li>Lavenham Library</li>
-					  <li>Leiston Library</li>
-					  <li>Long Melford Library</li>
-					  <li>Lowestoft Library</li>
-					  <li>Mildenhall Library</li>
-					  <li>Needham Market Library</li>
-					  <li>Newmarket Library</li>
-					  <li>Oulton Broad Library</li>
-					  <li>Rosehill Library</li>
-					  <li>Saxmundham Library</li>
-					  <li>Southwold Library</li>
-					  <li>Stoke Library</li>
-					  <li>Stowmarket Library</li>
-					  <li>Stradbroke Library</li>
-					  <li>Sudbury Library</li>
-					  <li>Thurston Library</li>
-					  <li>Wickham Market Library</li>
-					  <li>Woodbridge Library</li>
+						<details class="f6">
 
-					</ul>
+		    			<summary class="blue underline pointer">List of libraries</summary>
 
-				</details>
+							<ul class="mt0">
 
-				<label for="genre" class="db f6 pt3">Any genre(s) you’re particularly interested in?</label>
-				<input class="border-box w-100" type="text" name="genre" id="genre">
+							  <li>Aldeburgh Library</li>
+							  <li>Beccles Library</li>
+							  <li>Brandon Library</li>
+							  <li>Broomhill Library</li>
+							  <li>Bungay Library</li>
+							  <li>Bury St Edmunds Library</li>
+							  <li>Capel St Mary Library</li>
+							  <li>Chantry Library</li>
+							  <li>Clare Library</li>
+							  <li>Debenham Library</li>
+							  <li>Elmswell Library</li>
+							  <li>Eye Library</li>
+							  <li>Felixstowe Library</li>
+							  <li>Framlingham Library</li>
+							  <li>Gainsborough Community Library</li>
+							  <li>Glemsford Library</li>
+							  <li>Great Cornard Library</li>
+							  <li>Hadleigh Library</li>
+							  <li>Halesworth Library</li>
+							  <li>Haverhill Library</li>
+							  <li>Ipswich County Library</li>
+							  <li>Ixworth Library</li>
+							  <li>Kedington Library</li>
+							  <li>Kesgrave Library</li>
+							  <li>Kessingland Library</li>
+							  <li>Lakenheath Library</li>
+							  <li>Lavenham Library</li>
+							  <li>Leiston Library</li>
+							  <li>Long Melford Library</li>
+							  <li>Lowestoft Library</li>
+							  <li>Mildenhall Library</li>
+							  <li>Needham Market Library</li>
+							  <li>Newmarket Library</li>
+							  <li>Oulton Broad Library</li>
+							  <li>Rosehill Library</li>
+							  <li>Saxmundham Library</li>
+							  <li>Southwold Library</li>
+							  <li>Stoke Library</li>
+							  <li>Stowmarket Library</li>
+							  <li>Stradbroke Library</li>
+							  <li>Sudbury Library</li>
+							  <li>Thurston Library</li>
+							  <li>Wickham Market Library</li>
+							  <li>Woodbridge Library</li>
 
-				<label for="author" class="db f6 pt3">Any author(s) you’re particularly interested in?</label>
-				<input class="border-box w-100" type="text" name="author" id="author">
+							</ul>
 
-				<label for="comments" class="db f6 pt3">Anything else you’d like to add (e.g. do you want books, CDs, audiobooks, DVDs etc.)</label>
+						</details>
+
+						<label for="card" class="db f6 pt3">Your library card number (begins 201270)</label>
+						<input class="border-box w-100" type="text" name="card" id="card">
+
+					</fieldset>
+
+				</div>
+
+				<div class="pa2 ba b--light-gray mv3">
+
+					<fieldset>
+
+							<legend class="mb1 b">About your request</legend>
+
+							<div class="pa2 ba b--light-gray mv3">
+
+								<fieldset>
+
+									<legend class="mb1 f6">What format would you like? (Choose as many as you like)</legend>
+
+									<div class="flex items-center">
+									  <input type="checkbox" id="books" name="wants-books" checked>
+									  <label class="pl1" for="books">Books</label>
+									</div>
+
+									<div class="flex items-center">
+									  <input type="checkbox" id="audiobooks" name="wants-audiobooks">
+									  <label class="pl1" for="audiobooks">Audiobooks</label>
+									</div>
+
+									<div class="flex items-center">
+									  <input type="checkbox" id="dvds" name="wants-dvds">
+									  <label class="pl1" for="dvds">DVDs</label>
+									</div>
+
+									<div class="flex items-center">
+									  <input type="checkbox" id="cds" name="wants-cds">
+									  <label class="pl1" for="horns">Music CDs</label>
+									</div>
+
+								</fieldset>
+
+							</div>
+
+						<label for="genre" class="db f6 pt3">Any genre(s) you’re particularly interested in?</label>
+						<input class="border-box w-100" type="text" name="genre" id="genre">
+
+						<label for="author" class="db f6 pt3">Any author(s) you’re particularly interested in?</label>
+						<input class="border-box w-100" type="text" name="author" id="author">
+
+						<label for="age" class="db f6 pt3">Which age group?</label>
+						<select id="age" name="age" class="db mb2 order-box w-100 pa1">
+		          <option selected>Adult</option>
+		          <option>Pre-school</option>
+		          <option>Primary</option>
+		          <option>Young adult</option>
+		        </select>
+
+						<div class="flex items-center mt3">
+							<input type="checkbox" id="history" name="allow-history-check">
+							<label class="pl1 f6 lh-title" for="history">Allow us to check your borrowing history so we can make better selections</label>
+						</div>
+
+					</fieldset>
+
+				</div>
+
+				<label for="comments" class="db f6 pt3">Anything else you’d like to add (e.g. reading level, particular interests, subject matter)</label>
 				<textarea class="db border-box w-100 vh-25" name="comments" id="comments"></textarea>
 
 				<p class="dn"><input name="bot-field"></p>
