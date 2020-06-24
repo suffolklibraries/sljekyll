@@ -40,4 +40,4 @@ The following temporary changes to services will also be in place:
 
 Although return dates have been extended Suffolk Libraries would be very grateful if customers can return books if they’ve finished reading them so they can be fed back into the system for other people to borrow. If you’re just returning items you can use the library book drop for this, if they have one.
 
-For more information about these temporary changes visit our [COVID-19 information page](www.suffolklibraries.co.uk/coronavirus/).
+For more information about these temporary changes visit our [COVID-19 information page](https://www.suffolklibraries.co.uk/coronavirus/).
