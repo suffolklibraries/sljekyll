@@ -33,7 +33,7 @@ Last updated Wed 17 June.
 
 ### Mon 6 July
 
-Aldeburgh, Beccles, Broomhill, Bury St. Edmunds, Chantry, Felixstowe, Framlingham, Gainsborough, Ipswich County, Ixworth, Stradbroke, Sudbury.
+Aldeburgh, Beccles, Broomhill, Bury St. Edmunds, Felixstowe, Framlingham, Gainsborough, Ipswich County, Ixworth, Stradbroke, Sudbury.
 
 ### Tue 7 July
 
@@ -46,6 +46,10 @@ Halesworth
 ### Thu 9 July
 
 Lavenham
+
+### Mon 13 July
+
+Chantry
 
 ### Tue 14 July
 

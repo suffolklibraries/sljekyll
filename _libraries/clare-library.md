@@ -3,11 +3,11 @@ branch-unique-id: clare-library
 branch-name: Clare Library
 branch-image: /images/branches/clare-library.jpg
 branch-monday-hours: Closed
-branch-tuesday-hours:	1000 – 1300, 1400 – 1600
-branch-wednesday-hours: 1000 – 1300, 1400 – 1700
-branch-thursday-hours: 1000 – 1300, 1400 – 1600
-branch-friday-hours: 11000 – 1300, 1400 – 1600
-branch-saturday-hours: 1000 - 1300
+branch-tuesday-hours:	1000 – 1200, 1400 – 1600
+branch-wednesday-hours: 1000 – 1200, 1400 – 1700
+branch-thursday-hours: Closed
+branch-friday-hours: 11000 – 1200, 1400 – 1600
+branch-saturday-hours: 1000 - 1299
 branch-sunday-hours: Closed
 branch-manager: Karla Greenwood
 branch-address: The Guildhall, High Street, Clare
