@@ -7,5 +7,4 @@ gem "addressable"
 
 group :jekyll_plugins do
    gem "jekyll-paginate-v2", '~> 1.5.2'
-   gem "jekyll-sitemap"
  end
